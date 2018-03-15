@@ -123,41 +123,9 @@ def create_full_dataset():
         for row in processed_rows:
             writer.writerow(row)
 
-def full_analytics():
-    with open("data/alldata.csv", "r") as input_file:
-        reader = csv.reader(input_file, delimiter=",", quotechar="\"")
-        rows = list(reader)
-        features = rows[0]
-        rows = rows[1:]
-        feature_ids = { feature: i for i, feature in enumerate(features) }
-
-        airlines = {}
-        for row in rows:
-            airline = row[feature_ids["Airline Name"]]
-            if airline not in airlines:
-                airlines[airline] = 1
-            else:
-                airlines[airline] += 1
-
-        airlines_list = list(airlines.items())
-        airlines_list.sort(key=lambda t: -1 * t[1])
-        # print(airlines_list)
-
-        unzipped = zip(*airlines_list)
-        unzipped_lists = [list(part) for part in unzipped]
-        names = unzipped_lists[0]
-        counts = unzipped_lists[1]
-
-        for i in range(len(names)):
-            names[i] = names[i].replace(" Airlines", "")
-            names[i] = names[i].replace(" Air Lines", "")
-
-        plot_airlines(names[:10], counts[:10], "TSA Claims Since 2002")
-
 
 if __name__ == "__main__":
     # clean_split_airport_lines()
     # clean_csv_whitespace()
     # analyze_rows()
     # create_full_dataset()
-    full_analytics()

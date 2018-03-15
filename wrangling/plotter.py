@@ -2,10 +2,10 @@ from matplotlib.ticker import FuncFormatter
 import matplotlib.pyplot as plt
 import numpy as np
 
-def plot_airlines(names, counts, title):
-    x = np.arange(len(names))
+def plot_bar(x, y, title):
+    x_steps = np.arange(len(x))
     fig, ax = plt.subplots()
-    plt.bar(x, counts)
+    plt.bar(x_steps, y)
     plt.title(title)
-    plt.xticks(x, tuple(names))
+    plt.xticks(x_steps, tuple(x))
     plt.show()
