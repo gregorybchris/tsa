@@ -1,4 +1,5 @@
 import csv
+import json
 from plotter import plot_bar
 
 
@@ -79,12 +80,26 @@ def count_unknown_airports(data, codes):
     print(sum(counts))
 
 
+''' Writes a python object to a file in JSON format '''
+def dump_to_json(filepath, data):
+    with open(filepath, "w") as output_file:
+        json.dump(data, output_file)
+
+
+''' Converts CSV data to a list of dict records '''
+def csv_data_to_records(data):
+    columns, entries = data
+    return [dict(zip(columns, entry)) for entry in entries]
+
+
 if __name__ == "__main__":
     datafile = "data/tsa-data.csv"
     data = get_data(datafile)
     # plot_airline_claim_counts(data, 12)
 
-    us_codefile = "data/us-airport-codes.csv"
-    intl_codefile = "data/intl-airport-codes.csv"
-    airport_codes = merge_two_csvs(us_codefile, intl_codefile)
-    count_unknown_airports(data, airport_codes)
+    # us_codefile = "data/us-airport-codes.csv"
+    # intl_codefile = "data/intl-airport-codes.csv"
+    # airport_codes = merge_two_csvs(us_codefile, intl_codefile)
+    # count_unknown_airports(data, airport_codes)
+
+    dump_to_json("data/tsa-data.json", csv_data_to_records(data))
