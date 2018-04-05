@@ -3,8 +3,10 @@
 from collections import defaultdict
 from datetime import datetime
 from enum import Enum
+from fuzzywuzzy import fuzz
 import sqlite3
 import csv
+import re
 
 DATASETS_DIRECTORY = 'datasets'
 DATABASE = 'tsa.db'
@@ -19,7 +21,6 @@ DATASET_HEADERS = [
     'Airline Name',
     'Claim Type',
     'Claim Site',
-    ['Item', 'Item Category'],
     'Claim Amount',
     'Status',
     'Close Amount',
@@ -77,7 +78,7 @@ class Dataset(object):
     def get_name(self):
         return self.__name
 
-    def insert_into_database(self, cursor):
+    def insert_into_database(self, cursor, categories, all_items):
         filename = "{}/{}.csv".format(DATASETS_DIRECTORY, self.__name)
         with open(filename) as f:
             reader = csv.DictReader(f, quotechar='"', delimiter=',',
@@ -100,16 +101,39 @@ class Dataset(object):
 
                 self.__claim = {k: self.__clean(v) for k, v in self.__claim.iteritems()}
 
-
                 cursor.execute(
-            """
-                        INSERT INTO claims
+                    """
+                        INSERT INTO claim
                         (claim_number, date_received, incident_date, airport_code,
-                         airport_name, airline, claim_type, claim_site, item,
+                         airport_name, airline, claim_type, claim_site,
                          claim_amount, status, close_amount, disposition)
                         VALUES
-                        (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """, (tuple(map(lambda header: self.__get_value(header), DATASET_HEADERS))))
+
+                claim_id = cursor.lastrowid
+                for item in self.__get_items(all_items):
+                    all_items.add(item)
+                    cursor.execute(
+                    """
+                        SELECT id
+                        FROM item
+                        WHERE name = ?
+                        LIMIT 1
+                    """, (item,))
+                    row = cursor.fetchone()
+                    if row is not None:
+                        item_id = row['id']
+                    else:
+                        cursor.execute(
+                            "INSERT INTO item (name) VALUES (?)",
+                            (item,)
+                        )
+                        item_id = cursor.lastrowid
+                    cursor.execute(
+                        "INSERT INTO item_claim (item, claim) VALUES (?, ?)",
+                        (item_id, claim_id,)
+                    )
 
     def __get_next_claim(self, csv_reader):
         if self.__version < ImportVersion.V4:
@@ -225,18 +249,80 @@ class Dataset(object):
             value = ''
         return value.decode('utf-8')
 
-    def __get_value(self, keys):
-        if type(keys) != list:
-            keys = [keys]
-        for i, key in enumerate(keys):
-            if self.__version != ImportVersion.V1:
-                if key == 'Claim Amount' or key == 'Status':
-                    return ''
-            try:
-                return self.__claim[key]
-            except KeyError:
-                pass
-        raise KeyError
+    def __get_value(self, key):
+        if self.__version != ImportVersion.V1:
+            if key == 'Claim Amount' or key == 'Status':
+                return ''
+        return self.__claim[key]
+
+    def __get_items(self, all_items):
+        def clean_item(item):
+            item = item.strip()
+            if item == '':
+                return ''
+            elif item.startswith('Baggage/Cas'):
+                item = 'Baggage/Cases/Purses'
+            elif item == 'Cloth' or item == 'Clothi':
+                item = 'Clothing'
+            elif item.startswith('Computer &'):
+                item = 'Computer & Accessories'
+            elif item.startswith('Cosme') and len(item) <= 19:
+                item = 'Cosmetics & Grooming'
+            elif item in ['Fo', 'Foo'] or item.startswith('Food &'):
+                item = 'Food & Drink'
+            elif item == 'Hom' or item.startswith('Home D'):
+                item = 'Home Decor'
+            elif item.startswith('Hou') and len(item) <= 14:
+                item = 'Household Items'
+            elif item.startswith('Hunting'):
+                item = 'Hunting & Fishing Items'
+            elif item.startswith('Inciden'):
+                item = 'Incidentals'
+            elif (item == 'J' or item.startswith('Jew')) and item not in ['Jewelry - Costume', 'Jewelry - Fine']:
+                item = 'Jewelry & Watches'
+            elif item == 'Watches & Jewelry':
+                item = 'Jewelry & Watches'
+            elif item == 'tches' or item == 'Watches':
+                item = 'Jewelry & Watches'
+            elif item == 'Lock':
+                item = 'Locks'
+            elif item.startswith('Medical/') or  item in ['Me', 'Med', 'Medic', 'Medica']:
+                item = 'Medical/Science'
+            elif item == 'Musical Instruments & Accesso':
+                item = 'Musical Instruments & Accessories'
+            elif item.startswith('Office Equipment'):
+                item = 'Office Equipment & Supplies'
+            elif item in ['Ot', 'Othe']:
+                item = 'Other'
+            elif item == 'Outdoor Ite':
+                item = 'Outdoor Items'
+            elif item.startswith('Personal Ac'):
+                item = 'Personal Accessories'
+            elif item.startswith('Personal Documen'):
+                item = 'Personal Documents'
+            elif item.startswith('Personal E') or item.endswith('onics'):
+                item = 'Personal Electronics'
+            elif item.startswith('Sporting'):
+                item = 'Sporting Equipment & Supplies (footballs, parachutes, etc.)'
+            elif item.startswith('Tools &'):
+                item = 'Tools & Home Improvement Supplies'
+            elif item == 'Toys':
+                item = 'Toys & Games'
+            elif item.startswith('Travel A'):
+                item = 'Travel Accessories'
+            elif item[0] == item[0].lower(): # chopped off suffix
+                def ratio(a, b):
+                    return fuzz.ratio(a, b) if a.endswith(b) or b.endswith(a) else 0
+                best_guess = reduce(lambda x, y: x if ratio(x, item) > ratio(y, item) else y, all_items)
+                if ratio(item, best_guess) >= 50:
+                    item = best_guess
+            return item
+
+        try:
+            item_str = self.__get_value('Item')
+        except KeyError:
+            item_str = self.__get_value('Item Category')
+        return map(clean_item, re.split(';|\t', item_str))
 
 def import_airport_codes(connection):
     cursor = connection.cursor()
@@ -288,10 +374,10 @@ def import_datasets(connection):
         Dataset('2017',      ImportVersion.V5),
     ]
 
-    cursor.execute("DROP TABLE IF EXISTS claims")
+    cursor.execute("DROP TABLE IF EXISTS claim")
     cursor.execute("""
-        CREATE TABLE `claims` (
-        	`id`            INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+        CREATE TABLE `claim` (
+            `id`            INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
         	`claim_number`	INTEGER UNIQUE,
         	`date_received`	TEXT,
         	`incident_date`	TEXT,
@@ -300,18 +386,44 @@ def import_datasets(connection):
         	`airline`    	TEXT,
         	`claim_type`	TEXT,
         	`claim_site`	TEXT,
-        	`item`         	TEXT,
         	`claim_amount`	REAL,
-        	`status`	    TEXT,
+        	`status`        TEXT,
         	`close_amount`	REAL,
         	`disposition`	TEXT
         );
     """)
 
+    cursor.execute("DROP TABLE IF EXISTS item")
+    cursor.execute("""
+        CREATE TABLE item(
+          id     INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+          name   TEXT NOT NULL UNIQUE
+        );
+    """)
+
+    cursor.execute("DROP TABLE IF EXISTS item_claim")
+    cursor.execute("""
+        CREATE TABLE item_claim(
+          id    INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+          item  INTEGER NOT NULL,
+          claim INTEGER NOT NULL,
+          FOREIGN KEY(item) REFERENCES item(id),
+          FOREIGN KEY(claim) REFERENCES claim(id)
+        );
+    """)
+
+    connection.commit()
+
+    categories = defaultdict(lambda: set())
     for dataset in DATASETS:
         print 'Importing {}'.format(dataset.get_name())
-        dataset.insert_into_database(cursor)
+        all_items = set(categories.keys())
+        dataset.insert_into_database(cursor, categories, all_items)
         connection.commit()
+
+    keys = sorted(categories.keys())
+    for category in keys:
+        print category, categories[category]
 
 if __name__ == '__main__':
     connection = sqlite3.connect(DATABASE)
