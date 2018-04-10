@@ -42,6 +42,22 @@ AIRPORT_CODE_HEADERS = [
     'local_code',
 ]
 
+GARBAGE_ITEMS = [
+    'B',
+    'Ba',
+    'C',
+    'H',
+    'O',
+    'P',
+    'Pe',
+    'Per',
+    'Pers',
+    'Perso',
+    'Persona',
+    'Personal',
+    'Items',
+]
+
 class ImportVersion(Enum):
     V1 = 1
     V2 = 2
@@ -78,7 +94,7 @@ class Dataset(object):
     def get_name(self):
         return self.__name
 
-    def insert_into_database(self, cursor, categories, all_items):
+    def insert_into_database(self, cursor):
         filename = "{}/{}.csv".format(DATASETS_DIRECTORY, self.__name)
         with open(filename) as f:
             reader = csv.DictReader(f, quotechar='"', delimiter=',',
@@ -112,8 +128,12 @@ class Dataset(object):
                     """, (tuple(map(lambda header: self.__get_value(header), DATASET_HEADERS))))
 
                 claim_id = cursor.lastrowid
+
+
+                cursor.execute("SELECT DISTINCT name from item")
+                all_items = map(lambda result: result['name'], cursor.fetchall())
+
                 for item in self.__get_items(all_items):
-                    all_items.add(item)
                     cursor.execute(
                     """
                         SELECT id
@@ -259,18 +279,28 @@ class Dataset(object):
         def clean_item(item):
             item = item.strip()
             if item == '':
-                return ''
-            elif item.startswith('Baggage/Cas'):
+                return None
+            elif item in GARBAGE_ITEMS:
+                return None
+            elif item == "& Accessories":
+                item = None
+            elif item == 'Com':
+                item = None
+            elif item.startswith('Baggage/Cas') or '/Purses' in item or item == 'urses':
                 item = 'Baggage/Cases/Purses'
-            elif item == 'Cloth' or item == 'Clothi':
+            elif item == 'meras':
+                item = 'Cameras'
+            elif item == 'Cloth' or item == 'Clothi' or item.endswith('hing'):
                 item = 'Clothing'
             elif item.startswith('Computer &'):
                 item = 'Computer & Accessories'
-            elif item.startswith('Cosme') and len(item) <= 19:
+            elif item.startswith('Cosme') and len(item) <= 19 or item.endswith('& Grooming'):
                 item = 'Cosmetics & Grooming'
-            elif item in ['Fo', 'Foo'] or item.startswith('Food &'):
+            elif item in ['Fo', 'Foo', 'rink'] or item.startswith('Food &'):
                 item = 'Food & Drink'
-            elif item == 'Hom' or item.startswith('Home D'):
+            elif item == 'oming':
+                item = 'Grooming'
+            elif item == 'Hom' or item == 'ecor' or item.startswith('Home D'):
                 item = 'Home Decor'
             elif item.startswith('Hou') and len(item) <= 14:
                 item = 'Household Items'
@@ -302,27 +332,41 @@ class Dataset(object):
                 item = 'Personal Documents'
             elif item.startswith('Personal E') or item.endswith('onics'):
                 item = 'Personal Electronics'
+            elif item == 'rses':
+                item = 'Purses'
             elif item.startswith('Sporting'):
                 item = 'Sporting Equipment & Supplies (footballs, parachutes, etc.)'
             elif item.startswith('Tools &'):
                 item = 'Tools & Home Improvement Supplies'
-            elif item == 'Toys':
+            elif item.startswith('Toys &'):
                 item = 'Toys & Games'
             elif item.startswith('Travel A'):
                 item = 'Travel Accessories'
+            elif item == '& Grooming':
+                item = 'Cosmetics & Grooming'
+            elif "zines & Other" in item:
+                item = "Books, Magazines & Other"
             elif item[0] == item[0].lower(): # chopped off suffix
-                def ratio(a, b):
-                    return fuzz.ratio(a, b) if a.endswith(b) or b.endswith(a) else 0
-                best_guess = reduce(lambda x, y: x if ratio(x, item) > ratio(y, item) else y, all_items)
-                if ratio(item, best_guess) >= 50:
-                    item = best_guess
+                if len(item) > 5:
+                    def ratio(candidate):
+                        if item not in candidate:
+                            return 0
+                        return fuzz.ratio(candidate, item)
+                    best_guess = reduce(lambda x, y: x if ratio(x) > ratio(y) else y, all_items)
+                    if ratio(best_guess) >= 50:
+                        item = best_guess
+                    else:
+                        item = None
+                else:
+                    item = None
             return item
 
         try:
             item_str = self.__get_value('Item')
         except KeyError:
             item_str = self.__get_value('Item Category')
-        return map(clean_item, re.split(';|\t', item_str))
+        return filter(lambda x: x is not None,
+                      map(clean_item, re.split(';|\t', item_str)))
 
 def import_airport_codes(connection):
     cursor = connection.cursor()
@@ -414,16 +458,10 @@ def import_datasets(connection):
 
     connection.commit()
 
-    categories = defaultdict(lambda: set())
     for dataset in DATASETS:
         print 'Importing {}'.format(dataset.get_name())
-        all_items = set(categories.keys())
-        dataset.insert_into_database(cursor, categories, all_items)
+        dataset.insert_into_database(cursor)
         connection.commit()
-
-    keys = sorted(categories.keys())
-    for category in keys:
-        print category, categories[category]
 
 if __name__ == '__main__':
     connection = sqlite3.connect(DATABASE)
