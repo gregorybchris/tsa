@@ -1,0 +1,174 @@
+id,name
+1,Other
+2,Luggage (all types including footlockers)
+3,Cell Phones
+4,"Baby - Strollers, car seats, playpen, etc."
+5,Professional Equipment
+6,"Clothing - Shoes, belts, accessories, etc."
+7,Computer - Laptop
+8,Jewelry - Fine
+9,Eyeglasses - (including contact lenses)
+10,Photographic Film
+11,Stereo Items & Accessories
+12,Currency
+13,Cameras - Digital
+14,"Cosmetics - Perfume, toilet articles, medicines, soaps, etc."
+15,Locks
+16,PDA - Personal Data Assistants
+17,DVD/CD Players
+18,Musical Instruments - Other - Over $250
+19,Fish/Game
+20,Medicines
+21,Watches - Expensive more than $100
+22,Alcoholic beverages
+23,Automobile Parts
+24,"Tools - Power (including air tools, not in a vehicle)"
+25,"Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)"
+26,Handbags & Purses (leather or fabric)
+27,"Dishes, Pottery, Glassware, Plasticware"
+28,"Sporting Equipment & Supplies (footballs, parachutes, etc.)"
+29,"Toys - Other (including games, toys, play dolls etc.)"
+30,Books - Other (Hardcover non-fiction)
+31,Jewelry - Costume
+32,Dental Equipment and Instruments
+33,"Books - Reference books, cookbooks, etc."
+34,Hearing Aids
+35,Video Recordings (blank & commercial)
+36,Clocks - Inexpensive ($75.00 or less)
+37,Audio - CD's
+38,Medical Equipment & Insturments
+39,Candles - Decorative and other
+40,Camping Equipment & Supplies
+41,"Bags - Fabric, plastic, etc. (not purses)"
+42,"Game Equipment (poker chips, checker sets, chess etc.)"
+43,Video Recordings - Laser Discs
+44,"Lighting Supplies (globe domes, electric candlesticks, candelabra, etc.)"
+45,"Paintings and Pictures (including frames, etchings, photos, etc)"
+46,"Lighters - (cigar, cigerette, etc.)"
+47,Tools - Manual (not in a vehicle)
+48,"House Keeping Items (mops, brooms, ironing boards, pails, etc)"
+49,GPS - Global Positioning System
+50,Binoculars
+51,"Brushes - Hair, Clothes, etc."
+52,Briefcases
+53,"Barber Supplies - Scissors, shears, elecric razors, etc."
+54,"Toys (game systems, cartridges, radio controlled cars, etc.)"
+55,"Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)"
+56,Knick Knacks (bric-a-bracks)
+57,Bedding - Linens and bedspreads
+58,"Silverplate, Goldplate, Pewter, Stainless Steel, Copperware, Bronzeware"
+59,"MP3 Players-(iPods, etc)"
+60,Firearms
+61,"Linens - Quilts, Comforters"
+62,Bedding - Air mattress
+63,Bicycles
+64,Watches - Inexpensive $100 or less
+65,"Ceramics - Animals, etc."
+66,"Boxes - Jewelry, Cigarette, Music, etc."
+67,Mirrors (including frames)
+68,Batteries - Dry cell only
+69,Musical Instruments - Other - inexpensive $100 or less
+70,"Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)"
+71,Umbrellas
+72,Posters - framed or unframed
+73,"Scissors, Shears (other than electric)"
+74,Razors (other than electric)
+75,Dolls - Decorator
+76,Lamps (including sun lamps)
+77,Musical Instruments - Other - Over $100 - $250
+78,"Books - Fiction, paperbacks, magazines, etc."
+79,Furs
+80,Tool Chests & Tool Boxes (not in a vehicle)_
+81,Stationery
+82,"Audio - Other (Phonograph, cassettes, etc)"
+83,Bedding - Feather pillows
+84,Books - Bibles & Bound classics
+85,"Drafting, Mapping, and Sketching Equipment"
+86,"Desk and Writing Equipment - pen and pencil sets, fountain pens, etc."
+87,Baskets - Wicker or plastic
+88,"Taxidermy Items (mounted deer heads, fish, etc.)"
+89,Baskets - Metal
+90,Microscopes & Telescopes - Expensive More than $100
+91,Cards - Greeting
+92,Bedding - Other pillows
+93,Flashlights
+94,Lampshade
+95,Curtains
+96,Office Furnishings
+97,Sewing Machines (other than electric)
+98,"Clocks - Grandfather, Grandmother, etc."
+99,"Calculators - Adding machines, hand calculators, etc."
+100,"Pet Supplies (food/water dish, kennel, cage, leash, collar, etc.)"
+101,Cards - Playing
+102,"Musical Instruments (pianos, organs, player pianos, & harps)"
+103,"Outdoor Structures (fencing, storage sheds, etc.)"
+104,Artificial flowers & Fruits
+105,Clocks - Expensive ($75.00 or more)
+106,Rugs - under $500
+107,"Telephones, Answering Machines, Telecommunication for the Deaf"
+108,"Decorations - Christmas, Birthday, etc."
+109,Ladders
+110,Wigs (including hairpieces) $250 or more
+111,Typewriters
+112,Compasses
+113,Microscopes & Telescopes - Inexpensive $100 or less
+114,Tools & Home Improvement Supplies
+115,"Linens - Fine, Expensive"
+116,Stuffed Animals
+117,"Furniture (including brass & cement furniture, water beds, & shelving)"
+118,Material (including yard goods and yarn)
+119,Wigs (including hairpieces) under $100
+120,Bathroom Scales
+121,"Garden Equipment - (wheelbarrows, roller, etc.)"
+122,"Furniture (particle board - work benches, plastic, wicker, rattan, & patio)"
+123,Wedding Gowns
+124,"Drapery and Curtain Rods, Venetian Blinds"
+125,Electric Blankets
+126,Wigs (including hairpieces) $100 - $250
+127,Drapes
+128,Garden Equipment - Power Lawnmowers
+129,Hampers - Wicker or Plastic
+130,TV Trays
+131,Rugs - over $500 - $999
+132,Barbeque Grills
+133,Boating Equiment & supplies
+134,"Food items (jams, jellys, candy, etc.)"
+135,"Knives (pocket, leatherman, swiss army, etc)"
+136,Computer peripherals
+137,"Cell Phones (smartphone type-blackberry, iphone, etc)"
+138,Sunglasses
+139,Stenotype Machines
+140,Cosmetics & Grooming
+141,Cameras
+142,Clothing
+143,Travel Accessories
+144,Computer & Accessories
+145,Baggage/Cases/Purses
+146,Personal Accessories
+147,Jewelry & Watches
+148,Food & Drink
+149,Home Decor
+150,Office Equipment & Supplies
+151,Toys & Games
+152,Personal Electronics
+153,"Books, Magazines & Other"
+154,Household Items
+155,Audio/Video
+156,Crafting & Hobby
+157,Musical Instruments & Accessories
+158,Medical/Science
+159,Automobile Parts & Accessories
+160,Hunting & Fishing Items
+161,Outdoor Items
+162,Personal Navigation
+163,Personal Documents
+164,Incidentals
+165,Accessories
+166,Personal Injury
+167,Supplies
+168,Grooming
+169,Science
+170,Purses
+171,Fishing Items
+172,Outdoor
+173,Personal Grooming
