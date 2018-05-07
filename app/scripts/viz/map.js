@@ -19,14 +19,6 @@ function setupMap() {
         .defer(d3.tsv, 'data/lib/us-state-names.tsv')
         .await(ready)
 
-    // These act as CSS selectors too
-    // const indicatorTypes = {
-    //     "per-passenger",
-    //     "total-claims",
-    //     "median-claim",
-    //     "median-close"
-    // }
-
     const projectAirport = airport => projection([+airport.lat, +airport.lng])
 
     const getSortFunction = (sortBy) => {

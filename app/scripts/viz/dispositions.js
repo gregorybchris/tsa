@@ -89,7 +89,7 @@ function setupDispositions() {
       let bucket = bisect(data, x0 + 5, 1)
       d0 = data[bucket - 1]
       d1 = data[bucket]
-      console.log(x_coord, x0, x(x0), bucket, x(bucket), d0, x(d0.claim_amount), d1, x(d1.claim_amount))
+      // console.log(x_coord, x0, x(x0), bucket, x(bucket), d0, x(d0.claim_amount), d1, x(d1.claim_amount))
       claim_value.text(`Claim Amount: $${d0.claim_amount}`)
       labels.text(d => {
         let prefix = d0[d] + " "
@@ -184,9 +184,6 @@ function setupDispositions() {
         .attr("dy", "0.4em")
         .text(d => d)
 
-
-    d3.select("#btnDispositionPercentage").on('click', showByPercentage)
-
     function showByPercentage() {
       if (showingPercentage) {
         return
@@ -222,10 +219,26 @@ function setupDispositions() {
         .transition()
         .duration(500)
         .attr("d", area)
-
     }
 
-    d3.select("#btnDispositionCount").on('click', showByCount)
+    function changeView(type) {
+        if (type == "count") {
+            d3.select("#disposition-count-button").classed("selected", true)
+            d3.select("#disposition-percent-button").classed("selected", false)
+            showByCount()
+        }
+        else if (type == "percent") {
+            d3.select("#disposition-count-button").classed("selected", false)
+            d3.select("#disposition-percent-button").classed("selected", true)
+            showByPercentage()
+        }
+        else
+            console.error("ERROR: Invalid disposition view")
+    }
+
+    changeView("count")
+    d3.select("#disposition-count-button").on('click', () => changeView("count"))
+    d3.select("#disposition-percent-button").on('click', () => changeView("percent"))
 
     function showByCount() {
       if (!showingPercentage) {
@@ -259,8 +272,6 @@ function setupDispositions() {
 
     }
   });
-
-
 
   function type(d, i, columns) {
     d.claim_amount = +d.claim_amount
