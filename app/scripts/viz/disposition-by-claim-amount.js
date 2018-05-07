@@ -7,7 +7,7 @@ function setupDispositionByClaimAmount() {
   COLORS = [
     '#339966',
     '#79d2a6',
-    'rgb(240, 240, 240)',
+    'rgb(230, 230, 230)',
   ]
 
   var x = d3.scaleLinear().range([0, width]),
@@ -26,6 +26,8 @@ function setupDispositionByClaimAmount() {
 
   var g = svg.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  let showingPercentage = false
 
   d3.tsv("data/viz/disposition-by-claim-amount.tsv", type, function(error, data) {
     if (error) throw error;
@@ -70,7 +72,7 @@ function setupDispositionByClaimAmount() {
       .style("font-size", 14)
 
     let claim_value = values.append("text")
-      .attr("x", width - 200)
+      .attr("x", width - 150)
       .attr("y", 15)
       .attr("dy", "0.4em")
       .style("font-weight", "bold")
@@ -84,15 +86,35 @@ function setupDispositionByClaimAmount() {
       }
       showTooltips()
       x0 = x.invert(x_coord)
-      let bucket = bisect(data, x0, 1)
+      let bucket = bisect(data, x0 + 5, 1)
       d0 = data[bucket - 1]
       d1 = data[bucket]
-      claim_value.text(`Claim Amount: $${d0.claim_amount - 10} - $${d0.claim_amount}`)
-      labels.text(d => Math.round(d0[d] * 100) + "% " + d)
+      console.log(x_coord, x0, x(x0), bucket, x(bucket), d0, x(d0.claim_amount), d1, x(d1.claim_amount))
+      claim_value.text(`Claim Amount: $${d0.claim_amount}`)
+      labels.text(d => {
+        let prefix = d0[d] + " "
+        let sufix = ''
+        if (showingPercentage) {
+          const sum = keys.reduce((acc, key) => acc + d0[key], 0)
+          prefix = Math.round(d0[d] / sum * 100) + "% "
+        }
+        switch (d) {
+          case 'Approve':
+            suffix = 'Approved'
+            break
+          case 'Deny':
+            suffix = 'Denied'
+            break
+          case 'Settle':
+            suffix = 'Settled'
+            break
+        }
+        return prefix + suffix
+      })
 
       d3.select("line")
-        .attr("x1", x_coord)
-        .attr("x2", x_coord)
+        .attr("x1", x(d0.claim_amount))
+        .attr("x2", x(d0.claim_amount))
     })
 
     function hideTooltips() {
@@ -127,7 +149,7 @@ function setupDispositionByClaimAmount() {
 
     g.append("g")
         .attr("class", "axis axis--y")
-        .call(d3.axisLeft(y).ticks(10, "%"))
+        .call(d3.axisLeft(y).ticks(10))
         .on("mousemove", () => {
           hideTooltips()
           d3.event.stopPropagation()
@@ -161,7 +183,84 @@ function setupDispositionByClaimAmount() {
         .attr("y", 50.5)
         .attr("dy", "0.4em")
         .text(d => d)
+
+
+    d3.select("#btnDispositionPercentage").on('click', showByPercentage)
+
+    function showByPercentage() {
+      if (showingPercentage) {
+        return
+      }
+      showingPercentage = true
+      percentageData = data.map(d => {
+        newData = Object.assign({}, d)
+        sum = keys.reduce((acc, key) => acc + d[key], 0)
+        if (sum > 0) {
+          keys.forEach(key => {
+            newData[key] = d[key] / sum
+          })
+        }
+        return newData
+      })
+
+      g.selectAll(".layer")
+        .enter()
+        .data(stack(percentageData))
+
+      y.domain([0, 1])
+      svg.select(".axis--y")
+        .transition()
+        .duration(50)
+        .attr('opacity', 0)
+        .call(d3.axisLeft(y).ticks(10, "%"))
+        .transition()
+        .delay(200)
+        .duration(250)
+        .attr('opacity', 1)
+      g.selectAll(".area")
+        .data(stack(percentageData))
+        .transition()
+        .duration(500)
+        .attr("d", area)
+
+    }
+
+    d3.select("#btnDispositionCount").on('click', showByCount)
+
+    function showByCount() {
+      if (!showingPercentage) {
+        return
+      }
+      showingPercentage = false
+      g.selectAll(".layer")
+        .enter()
+        .data(stack(data))
+
+      y.domain([0, d3.max(data, d => {
+        return keys.reduce((accumulator, key) => accumulator + d[key], 0)
+      })]);
+
+      svg.select(".axis--y")
+        .transition()
+        .duration(50)
+        .attr('opacity', 0)
+        .call(d3.axisLeft(y).ticks(10))
+        .transition()
+        .duration(250)
+        .delay(200)
+        .attr('opacity', 1)
+
+
+      g.selectAll(".area")
+        .data(stack(data))
+        .transition()
+        .duration(500)
+        .attr("d", area)
+
+    }
   });
+
+
 
   function type(d, i, columns) {
     d.claim_amount = +d.claim_amount

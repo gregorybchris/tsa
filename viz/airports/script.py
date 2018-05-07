@@ -16,9 +16,9 @@ if __name__ == "__main__":
     connection.row_factory = sqlite3.Row
     cursor = connection.cursor()
 
-    rows = ['\t'.join(['Airport', 'lat', 'lng', 'count', 'med_claim', 'med_close'])]
+    rows = ['\t'.join(['Airport', 'domestic_passengers', 'international_passengers', 'lat', 'lng', 'count', 'med_claim', 'med_close'])]
     cursor.execute("""
-        SELECT name, airport_code, coordinates, total_claims FROM airport_codes x
+        SELECT name, airport_capacities.domestic_passengers, airport_capacities.international_passengers, y.airport_code, coordinates, total_claims FROM airport_codes x
         INNER JOIN (
             SELECT airport_code, COUNT(*) as total_claims
             FROM claim
@@ -27,21 +27,22 @@ if __name__ == "__main__":
             GROUP BY airport_code
         ) y
         on x.local_code = y.airport_code
+        LEFT JOIN airport_capacities on airport_capacities.airport_code = y.airport_code
         WHERE iso_country = 'US'
     """)
     results = cursor.fetchall()
     for i, result in enumerate(results):
-        print '{}/{}'.format(i + 1, len(results))
+        print '{}'.format(i + 1)
         lat, lng = result['coordinates'].split(', ')
         name = result['name'].encode('utf-8')
 
         cursor.execute("""
             SELECT claim_amount, close_amount FROM claim
             WHERE airport_code = ?
-            AND (claim_type = 'Passenger Property Loss' or claim_type = 'Property Loss')
+            AND (claim_type like "%Property Loss%" OR claim_type like "%Theft%")
         """, (result['airport_code'],))
         results = cursor.fetchall()
-        
+
         if len(results) == 0:
             continue
 
@@ -54,7 +55,10 @@ if __name__ == "__main__":
         except statistics.StatisticsError:
             med_claim = -1
 
-        row = '{}\t{}\t{}\t{}\t{}\t{}'.format(name, lat, lng, result['total_claims'], med_claim, med_close)
+        domestic_passengers = result['domestic_passengers'] or 0
+        international_passengers = result['international_passengers'] or 0
+
+        row = '{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}'.format(name, domestic_passengers, international_passengers, lat, lng, result['total_claims'], med_claim, med_close)
         rows.append(row)
 
     with open('data.tsv', 'w') as f:

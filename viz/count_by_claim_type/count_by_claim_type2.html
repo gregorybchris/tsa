@@ -29,6 +29,11 @@ svg {
 <body>
 <h2>Claim Count by Claim Type (and Claim Site)</h2>
 <div id='stacked-bar'></div>
+<input name="ExpandAxis"
+	id="btnExpandAxis"
+  type="button"
+  value="Expand Axis"
+/>
 <script src="//d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -41,7 +46,7 @@ var initStackedBarChart = {
 		stackKey = config.key,
 		data = config.data,
 		margin = {top: 20, right: 20, bottom: 30, left: 150},
-		width = 1700 - margin.left - margin.right,
+		width = 1000 - margin.left - margin.right,
 		height = 500 - margin.top - margin.bottom,
 		xScale = d3.scaleLinear().rangeRound([0, width]),
 		yScale = d3.scaleBand().rangeRound([height, 0]).padding(0.1),
@@ -96,25 +101,12 @@ var initStackedBarChart = {
 			  .attr("height", yScale.bandwidth())
 			  .attr("x", function(d) { return xScale(d[0]); })
 			  .attr("width", function(d) { return xScale(d[1]) - xScale(d[0]) })
+        .attr("class", "bar")
         .style("opacity", 0)
         .transition()
         .delay((d,i) => 1500 + 100 * getIndex(d))
         .duration(1000)
         .style("opacity", 1)
-
-  			xScale.domain([0, get_actual_x_max()]).nice();
-        const t = d3.transition()
-          .delay(3500)
-          .duration(1500)
-        svg.select(".axis--x")
-          .transition(t)
-          .call(xAxis);
-
-        svg.selectAll("rect")
-          .transition(t)
-          .attr("x", function(d) { return xScale(d[0]); })
-          .attr("width", function(d) { return xScale(d[1]) - xScale(d[0]) })
-          .style("opacity", 1)
 
           var legend = svg.append("g")
             .attr("font-family", "sans-serif")
@@ -125,24 +117,52 @@ var initStackedBarChart = {
           .selectAll("g")
           .data(stackKey)
           .enter().append("g")
-            .attr("transform", function(d, i) { return "translate(0," + i * 25 + ")"; });
+            .attr("transform", function(d, i) { return "translate(0," + i * 40 + ")"; });
 
           legend.append("rect")
               .attr("x", width - 19)
-              .attr("width", 19)
-              .attr("height", 19)
+              .attr("width", 30)
+              .attr("height", 30)
               .attr("fill", function(d, i) { return color(i) });
 
           legend.append("text")
               .attr("x", width - 24)
-              .attr("y", 9.5)
+              .attr("y", 17)
               .attr("dy", "0.32em")
+              .style("font-size", 14)
               .text(function(d) { return d; });
 
           svg.select(".legend").transition()
             .delay(1000)
             .duration(1000)
             .style("opacity", 1)
+
+          d3.select('#btnExpandAxis').on('click', () => {
+
+      			xScale.domain([0, get_actual_x_max()]).nice();
+            const t = d3.transition()
+              .duration(1500)
+
+            svg.select(".axis--x")
+              .transition(t)
+              .call(xAxis);
+
+            svg.selectAll(".bar")
+              .transition(t)
+              .attr("x", function(d) {
+                if (isNaN(xScale(d[0]))) {
+                  return 0
+                }
+                return xScale(d[0])
+              })
+              .attr("width", function(d) {
+                if (isNaN(xScale(d[0])) || isNaN(xScale(d[1]))) {
+                  return 0
+                }
+                return xScale(d[1]) - xScale(d[0])
+              })
+              .style("opacity", 1)
+          })
 	}
 }
   d3.queue()

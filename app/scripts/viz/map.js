@@ -16,6 +16,8 @@ function setupMap() {
           .range(['white','black']);
 */
 
+  var tooltipBBox = 0
+
   d3.queue()
     .defer(d3.json, 'data/lib/us.json')
     .defer(d3.tsv, 'data/viz/airports.tsv')
@@ -80,10 +82,24 @@ function setupMap() {
       .attr("stroke-width", d => Math.max(Math.sqrt(d.count) / 70, 1))
       .on('mouseover', function(d) {
         document.body.style.cursor = 'pointer'
+        var xPosition = d3.mouse(this)[0] - 15;
+        var yPosition = d3.mouse(this)[1] - 25;
+        tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
+        tooltip.select("text")
+          .text(d.Airport)
+          .each(function(d) { tooltipBBox = this.getBBox() })
+        tooltip.select("rect")
+          .attr("x", -tooltipBBox.width/2 + 10)
+          .attr("y", 2)
+          .attr("width", tooltipBBox.width + 10)
+          .attr("height", tooltipBBox.height + 5)
+
+        tooltip.style("display", null);
         //d3.select(this).attr("fill", "red")
       })
       .on('mouseout', function(d) {
         document.body.style.cursor = 'default'
+        tooltip.style("display", 'none');
         //d3.select(this).attr("fill", "teal")
       })
       .on('click', function(d) {
@@ -93,6 +109,28 @@ function setupMap() {
         circle.attr('selected', !selected)
         circle.attr('fill', toColor)
       })
+
+    // Prep the tooltip bits, initial display is hidden
+    var tooltip = svg.append("g")
+      .attr("class", "tooltip")
+      .attr("class", "no-pointer-events")
+      .style("display", "none");
+
+    tooltip.append("rect")
+      .attr("fill", "white")
+      .style("opacity", 0.5);
+
+
+    tooltip.append("text")
+      .attr("x", 15)
+      .attr("dy", "1.2em")
+      .style("text-anchor", "middle")
+      .attr("font-size", "14px")
+      .attr("font-weight", "bold")
+      .attr("font-family", "Arial, Helvetica, sans-serif")
+      .attr('stroke', 'white')
+      .attr('stroke-width', .2)
+
 
     function changeCircleSize(sortBy, getValue) {
       svg.selectAll("circle")

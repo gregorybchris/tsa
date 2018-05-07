@@ -11,6 +11,7 @@ import re
 DATASETS_DIRECTORY = 'datasets'
 DATABASE = 'tsa.db'
 AIRPORT_CODES = 'airport-codes.csv'
+AIRPORT_CAPACITIES = 'airport_capacities.csv'
 
 DATASET_HEADERS = [
     'Claim Number',
@@ -42,6 +43,12 @@ AIRPORT_CODE_HEADERS = [
     'local_code',
 ]
 
+AIRPORT_CAPACTIY_HEADERS = [
+    'Airport Code',
+    'International Passengers',
+    'Domestic Passengers',
+]
+
 GARBAGE_ITEMS = [
     'B',
     'Ba',
@@ -57,6 +64,9 @@ GARBAGE_ITEMS = [
     'Personal',
     'Items',
 ]
+
+class FutureDateException(Exception):
+    pass
 
 class ImportVersion(Enum):
     V1 = 1
@@ -109,8 +119,12 @@ class Dataset(object):
                 if self.__should_skip_row():
                     continue
 
-                self.__claim['Date Received'] = self.__get_date_received()
-                self.__claim['Incident Date'] = self.__get_incident_date()
+                try:
+                    self.__claim['Date Received'] = self.__get_date_received()
+                    self.__claim['Incident Date'] = self.__get_incident_date()
+                except FutureDateException:
+                    continue
+
                 self.__claim['Claim Amount'] = self.__convert_dollars_to_float(self.__get_value('Claim Amount'))
                 self.__claim['Close Amount'] = self.__convert_dollars_to_float(self.__get_value('Close Amount'))
                 self.__claim['Disposition'] = self.__claim['Disposition'].replace('*', '')
@@ -211,8 +225,10 @@ class Dataset(object):
     def __format_date(self, date_string, format_strings):
         if self.__clean(date_string) == '':
             return ''
-        for i, format_string in enumerate(format_strings):
+        for format_string in format_strings:
             try:
+                if datetime.strptime(date_string, format_string) > datetime.now():
+                    raise FutureDateException
                 return datetime.strptime(date_string, format_string).isoformat().replace('T', ' ')
             except ValueError:
                 pass
@@ -405,6 +421,32 @@ def import_airport_codes(connection):
                 """, (tuple(map(lambda field: line[field].decode('utf-8'), AIRPORT_CODE_HEADERS))))
     connection.commit()
 
+def import_airport_capacities(connection):
+    cursor = connection.cursor()
+
+    cursor.execute("DROP TABLE IF EXISTS airport_capacities")
+    cursor.execute("""
+        CREATE TABLE `airport_capacities` (
+        	`id`                        INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+            `airport_code`              TEXT UNIQUE,
+            `international_passengers`  INTEGER,
+            `domestic_passengers`       INTEGER
+        );
+    """)
+
+    with open(AIRPORT_CAPACITIES) as f:
+        reader = csv.DictReader(f, quotechar='"', delimiter=',',
+                                quoting=csv.QUOTE_ALL, skipinitialspace=True)
+        for line in reader:
+            cursor.execute(
+                """
+                    INSERT INTO airport_capacities
+                    (airport_code, international_passengers, domestic_passengers)
+                    VALUES
+                    (?, ?, ?)
+                """, (tuple(map(lambda field: line[field].decode('utf-8'), AIRPORT_CAPACTIY_HEADERS))))
+    connection.commit()
+
 def import_datasets(connection):
     cursor = connection.cursor()
 
@@ -467,4 +509,5 @@ if __name__ == '__main__':
     connection = sqlite3.connect(DATABASE)
     connection.row_factory = sqlite3.Row
     import_airport_codes(connection)
+    import_airport_capacities(connection)
     import_datasets(connection)

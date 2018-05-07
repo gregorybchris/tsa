@@ -92,13 +92,7 @@ div.tooltip {
 .q14-15 { fill: #f42d23; }
 
 </style>
-<h1>Severity of Droughts in the USA</h1>
-<h2>Sep 27, 2016 &mdash; Oct 3, 2016</h2>
-<h3>
-  Data from the
-  <a href="http://droughtmonitor.unl.edu/CurrentMap/StateDroughtMonitor.aspx?TX"
-     target="_blank">National Drought Mitigation Center</a>
-</h3>
+<h1>Airports</h1>
 <svg width="960" height="600"></svg>
 <script src="//d3js.org/d3.v4.min.js"></script>
 <script src="//d3js.org/topojson.v1.min.js"></script>
@@ -141,9 +135,14 @@ function ready(error, us, airports) {
 
   var data = topojson.feature(us, us.objects.states).features.filter(d => !isNaN(path.centroid(d)[0]))
 
-  airports.sort((a, b) => b.count - a.count)
-  airports.sort((a, b) => b.med_claim - a.med_claim)
-  airports.sort((a, b) => b.med_close - a.med_close)
+  airports.sort((a, b) => {
+      b_count = (+b.international_passengers) + (+b.domestic_passengers)
+      a_count = (+a.international_passengers) + (+a.domestic_passengers)
+      return a_count - b_count
+  })
+  //airports.sort((a, b) => b.count - a.count)
+  //airports.sort((a, b) => b.med_claim - a.med_claim)
+  //airports.sort((a, b) => b.med_close - a.med_close)
 
   d3.tsv("us-state-names.tsv", function(tsv){
     // extract just the names and Ids
@@ -214,8 +213,6 @@ function ready(error, us, airports) {
   bb = [-122.389809, 37.72728];
 
 
-  console.log(projectAirport([61.2547573,-143.5480242,]))
-
   function projectAirport(airport) {
     return projection([
       //61.2547573,-143.5480242,
@@ -230,6 +227,7 @@ function ready(error, us, airports) {
 		.attr("cx", function (d) { return projectAirport(d)[0]; })
 		.attr("cy", function (d) { return projectAirport(d)[1]; })
 		.attr("r", d => {
+      /*
       if (d.med_close < 0) {
         return 0
       }
@@ -238,7 +236,13 @@ function ready(error, us, airports) {
         return 0
       }
       return Math.max(Math.sqrt(d.med_claim) / 3, 2)
-      return Math.max(Math.sqrt(d.count) / 5, 2)
+      */
+      //return Math.max(Math.sqrt(d.count / total) / 5, 2)
+      const total = (+d.international_passengers) + (+d.domestic_passengers)
+      if (total === 0) {
+        return 0
+      }
+      return Math.max(Math.sqrt(d.count / total) * 500, 2)
     })
 		.attr("fill", "teal")
     .attr("stroke", "white")

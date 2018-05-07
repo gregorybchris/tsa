@@ -11,7 +11,7 @@ import re
 DATABASE = '../../wrangling/zach/tsa.db'
 
 if __name__ == "__main__":
-
+    """
     with open('stacked2.tsv', 'r') as f:
         with open('stacked4.tsv', 'w') as g:
             g.write('date\tApprove\tSettle\tDeny\n')
@@ -31,33 +31,38 @@ if __name__ == "__main__":
                 rowStr = "\t".join(row)
                 g.write(rowStr + '\n')
     exit(0)
-
+    """
     connection = sqlite3.connect(DATABASE)
     connection.row_factory = sqlite3.Row
     cursor = connection.cursor()
 
     rows = []
-    for i in xrange(1):
-        row = [str(i)]
-        for disposition in ['Approve in Full', 'Settle', 'Deny']:
-            cursor.execute("""
-                SELECT COUNT(disposition) FROM claim
-                WHERE
-                    claim_amount IS NOT NULL
-                    AND disposition IS NOT NULL
-                    AND claim_amount not like ''
-                    AND disposition not like ''
-                    AND (claim_type like "%Property Loss%" OR claim_type like "%Theft%")
-                    AND claim_amount > 0
-                    AND claim_amount >= ?
-                    AND claim_amount < ?
-                    AND disposition == ?
-            """, (i*10, (i+1)*10, disposition))
-            row.append(str(cursor.fetchall()[0][0]))
-        if i % 10 == 0:
-            print "{} / {}".format(i, 1000)
-        rowStr = '\t'.join(row)
-        rows.append(rowStr)
 
-    with open('stacked6.tsv', 'w') as f:
+    with open('stacked10.tsv', 'w+') as f:
+        f.write('claim_amount\tApprove\tSettle\tDeny\n')
         f.write("\n".join(rows))
+        for i in xrange(151):
+            row = [str((i+1)*10)]
+            for disposition in ['Approve in Full', 'Settle', 'Deny']:
+                cursor.execute("""
+                    SELECT COUNT(disposition) FROM claim
+                    WHERE
+                        claim_amount IS NOT NULL
+                        AND disposition IS NOT NULL
+                        AND claim_amount not like ''
+                        AND disposition not like ''
+                        AND (claim_type like "%Property Loss%" OR claim_type like "%Theft%")
+                        AND claim_amount > ?
+                        AND claim_amount <= ?
+                        AND disposition == ?
+                """, (i*10, (i+1)*10, disposition))
+                row.append(str(cursor.fetchall()[0][0]))
+            rowStr = '\t'.join(row)
+            rows.append(rowStr)
+            if i % 10 == 0:
+                print "{} / {}".format(i, 150)
+                print rows
+                f.write("\n".join(rows))
+                f.write('\n')
+                f.flush()
+                rows = []
