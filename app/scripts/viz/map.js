@@ -19,11 +19,19 @@ function setupMap() {
         .defer(d3.tsv, 'data/lib/us-state-names.tsv')
         .await(ready)
 
+    // These act as CSS selectors too
+    // const indicatorTypes = {
+    //     "per-passenger",
+    //     "total-claims",
+    //     "median-claim",
+    //     "median-close"
+    // }
+
     const projectAirport = airport => projection([+airport.lat, +airport.lng])
 
     const getSortFunction = (sortBy) => {
         switch (sortBy) {
-            case 'passenger_throughout':
+            case 'passenger_throughput':
                 return (a, b) => {
                     a_value = (+a.international_passengers) + (+a.domestic_passengers)
                     b_value = (+b.international_passengers) + (+b.domestic_passengers)
@@ -124,35 +132,53 @@ function setupMap() {
                 .sort(getSortFunction(sortBy))
         }
 
-        changeCircleSize('claim_count', d => d.count / 20)
+        function changeView(button) {
+            [
+                d3.select("#map-total-claims-button"),
+                d3.select("#map-per-passenger-button"),
+                d3.select("#map-median-claim-button"),
+                d3.select("#map-median-close-button")
+            ].forEach(function(button) {
+                button.classed("selected", false)
+            })
 
-        d3.select("#btnClaimsPerPassenger").on('click', () => {
-            changeCircleSize('passenger_throughout', d => {
+            button.classed("selected", true)
+        }
+
+        changeCircleSize('claim_count', d => d.count / 20)
+        changeView(d3.select("#map-total-claims-button"))
+
+        d3.select("#map-per-passenger-button").on('click', () => {
+            changeCircleSize('passenger_throughput', d => {
                 const total = (+d.international_passengers) + (+d.domestic_passengers)
                 if (total === 0)
                     return 0
                 return d.count / total * 250000
             })
+            changeView(d3.select("#map-per-passenger-button"))
         })
 
-        d3.select("#btnTotalClaims").on('click', () => {
+        d3.select("#map-total-claims-button").on('click', () => {
             changeCircleSize('claim_count', d => d.count / 20)
+            changeView(d3.select("#map-total-claims-button"))
         })
 
-        d3.select("#btnMedianClaimAmount").on('click', () => {
+        d3.select("#map-median-claim-button").on('click', () => {
             changeCircleSize('median_claim_amount', d => {
                 if (d.med_claim < 0)
                   return 0
                 return d.med_claim / 10
             })
+            changeView(d3.select("#map-median-claim-button"))
         })
 
-        d3.select("#btnMedianCloseAmount").on('click', () => {
+        d3.select("#map-median-close-button").on('click', () => {
             changeCircleSize('median_close_amount', d => {
                 if (d.med_close < 0)
                     return 0
                 return d.med_close / 5
             })
+            changeView(d3.select("#map-median-close-button"))
         })
     }
 }
