@@ -176,7 +176,7 @@ function setupDispositions() {
         .attr("height", 30)
         .attr("stroke", "black")
         .attr("stroke-width", "0.5px")
-        .attr("fill", (_, i) => COLORS[i])
+        .style("fill", (_, i) => COLORS[i])
 
     labels = legend.append("text")
         .attr("x", width - 56)
