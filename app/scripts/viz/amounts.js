@@ -49,9 +49,11 @@ function setupAmounts() {
 
         let xAxis = d3.axisBottom(xScale)
             .ticks(5, "s")
+            .tickSize(-width);
 
         let yAxis = d3.axisLeft(yScale)
             .ticks(5, "s")
+            .tickSize(-height);
 
         let gX = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + (margin.top + height) + ")")
