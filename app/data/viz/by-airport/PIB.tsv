@@ -1,0 +1,6 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+81789	2006031302951	2006-03-07 00:00:00	2006-02-23 00:00:00	PIB	Hattiesburg-Laurel Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Denied	0.0	Deny
+149217	2010061072560	2010-06-01 00:00:00	2010-03-31 00:00:00	PIB	Hattiesburg-Laurel Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories		0.0	Deny
+156838	2011022380371	2011-01-24 00:00:00	2010-12-27 06:00:00	PIB	Hattiesburg-Laurel Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+174160	2012102297871	2012-09-10 00:00:00	2012-09-05 00:00:00	PIB	Hattiesburg-Laurel Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		56.82	Approve in Full
+211080	2016050931177	2016-04-20 00:00:00	2016-04-18 06:00:00	PIB	Hattiesburg-Laurel Regional Hattiesburg-Laurel Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny

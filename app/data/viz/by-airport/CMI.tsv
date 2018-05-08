@@ -1,0 +1,22 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+79333	2006013000559	2006-01-23 00:00:00	2005-12-27 00:00:00	CMI	University of Illinois-Willard		Passenger Property Loss	Checked Baggage	103.44	Watches & Jewelry	Denied	0.0	Deny
+87196	2006062308471	2006-06-22 00:00:00	2006-05-28 00:00:00	CMI	University of Illinois-Willard	American Eagle	Passenger Property Loss	Checked Baggage	519.97	Watches & Jewelry	Canceled	0.0	
+87596	2006071209339	2006-06-29 00:00:00	2005-10-23 00:00:00	CMI	University of Illinois-Willard	British Airways	Passenger Property Loss	Checked Baggage	1600.0	Electronics	Denied	0.0	Deny
+89870	2006081611132	2006-08-14 00:00:00	2006-07-31 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	329.0	Electronics	Denied	0.0	Deny
+92658	2006101013776	2006-10-06 00:00:00	2006-09-28 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	481.4	Electronics	Denied	0.0	Deny
+94464	2006112115979	2006-11-13 00:00:00	2006-11-06 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	19.99	Electronics	Approved	19.99	Approve in Full
+111680	2007100533039	2007-10-04 00:00:00	2007-10-03 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	26.4	Other	Approved	26.4	Approve in Full
+113172	2007110634574	2007-11-02 00:00:00	2007-09-26 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Settled	250.0	Settle
+121050	2008041742752	2008-04-08 00:00:00	2008-03-06 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	10.75	Tools & Machines	Denied	0.0	Deny
+121460	2008042243100	2008-04-16 00:00:00	2008-03-12 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	1455.11	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+127101	2008082148930	2008-08-18 00:00:00	2008-03-25 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	199.97	Clothing & Accessories	Denied	0.0	Deny
+127189	2008082549007	2008-08-20 00:00:00	2008-07-09 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	195.0	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+132042	2008123153952	2008-12-22 00:00:00	2008-11-21 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Outdoors Supplies	Denied	0.0	Deny
+132259	2009010654161	2008-12-29 00:00:00	2008-12-09 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Cosmetics	Settled	37.5	Settle
+133475	2009011554583	2009-01-29 00:00:00	2008-11-12 00:00:00	CMI	University of Illinois-Willard	Northwest Airlines	Passenger Property Loss	Checked Baggage	6500.0	Electronics,Electronics,Electronics	Denied	0.0	Deny
+134450	2009031756392	2009-02-26 00:00:00	2009-02-01 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage	290.11	Electronics,Electronics	Denied	0.0	Deny
+148797	2010052172017	2010-05-18 00:00:00	2010-05-15 06:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		160.5	Approve in Full
+155125	2010120678523	2010-11-29 00:00:00	2010-11-25 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+196917	2015021320627	2015-02-11 00:00:00	2015-01-26 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+196918	2015110626682	2015-10-23 00:00:00	2015-10-09 00:00:00	CMI	University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Scientific Intruments			
+205569	2016071432700	2016-06-21 00:00:00	2016-06-18 05:30:00	CMI	University of Illinois-Willard University of Illinois-Willard	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		79.0	Approve in Full

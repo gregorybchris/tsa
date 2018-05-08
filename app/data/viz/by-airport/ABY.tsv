@@ -1,0 +1,30 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+11782	0728068M	2003-07-28 00:00:00	2003-07-12 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	835.95	Electronics	Denied	835.95	Deny
+43886	2004111566985	2004-09-01 00:00:00	2004-08-27 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany		Passenger Property Loss	Checked Baggage	159.74	Other	Approved	159.95	Approve in Full
+46676	2004110966784	2004-10-05 00:00:00	2004-09-06 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	American Airlines	Passenger Property Loss	Checked Baggage	8491.8	Other	Denied	0.0	Deny
+52609	2005011073344	2004-12-21 00:00:00	2004-11-23 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	UAL	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
+53445	2005020275329	2005-01-04 00:00:00	2004-12-07 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany		Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+53529	2005012574260	2005-01-04 00:00:00	2004-12-27 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+53580	2005020275375	2005-01-04 00:00:00	2004-12-19 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	0.0	Other	Denied	0.0	Deny
+54389	2005012874787	2005-01-12 00:00:00	2004-12-21 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany		Passenger Property Loss	Checked Baggage	117.0	Clothing & Accessories	Denied	0.0	Deny
+54751	2005020175205	2005-01-18 00:00:00	2004-12-27 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany		Passenger Property Loss	Checked Baggage	81.19	Other	Denied		Deny
+67570	2005071188522	2005-07-06 00:00:00	2005-06-23 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Northwest Airlines	Passenger Property Loss	Checked Baggage	800.0	Electronics	Settled	293.49	Settle
+89885	2006081611183	2006-08-14 00:00:00	2006-05-30 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Containers	Denied	0.0	Deny
+91203	2006091212385	2006-09-07 00:00:00	2006-09-05 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany		Passenger Property Loss	Checked Baggage	125.0	Games & Toys	Denied	0.0	Deny
+109357	2007082230653	2007-08-21 00:00:00	2007-08-09 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	26500.0	Watches & Jewelry	Denied	0.0	Deny
+118186	2007121136342	2008-02-11 00:00:00	2007-10-12 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checkpoint	87.0	Other	Settled	17.11	Settle
+124108	2008061745793	2008-06-12 00:00:00	2008-06-07 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	67.4	Games & Toys	Denied	0.0	Deny
+124737	2008070146483	2008-06-27 00:00:00	2008-04-18 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	493.0	Electronics,Other	Canceled	0.0	
+127242	2008082249002	2008-08-21 00:00:00	2008-07-20 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checkpoint	75.0	Other	Denied	0.0	Deny
+130525	2008111952435	2008-11-12 00:00:00	2008-10-23 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage	1100.0	Electronics,Electronics	Denied	0.0	Deny
+146240	2010030969295	2010-03-01 00:00:00	2010-02-11 17:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+150813	2010080474365	2010-07-19 00:00:00	2010-07-08 11:40:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+153501	2010101076834	2010-10-05 00:00:00	2010-09-01 05:07:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+156496	2011020779975	2011-01-13 00:00:00	2011-01-02 05:30:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.54	Approve in Full
+158391	2011040882048	2011-03-15 00:00:00	2011-02-21 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+168543	2012032892195	2012-02-21 00:00:00	2012-02-12 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+169201	2012041993065	2012-03-14 00:00:00	2012-03-11 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+172411	2012082396139	2012-07-10 00:00:00	2012-07-06 11:25:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+173600	2012100197293	2012-08-20 00:00:00	2012-08-10 10:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+204264	2016012028439	2016-01-08 00:00:00	2016-01-06 11:10:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
+204265	2016092834023	2016-09-23 00:00:00	2016-09-13 00:00:00	ABY	Southwest Georgia Regional Airport ,Albany	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		52.47	Settle

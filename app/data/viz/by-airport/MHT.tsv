@@ -1,0 +1,347 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+1992	0129051L	2003-01-29 00:00:00	2003-01-01 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	7.0	Other	Canceled	0.0	
+2001	0129004L	2003-01-29 00:00:00	2003-01-09 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checkpoint	225.0	Watches & Jewelry	Denied	0.0	Deny
+2244	0204015L	2003-02-04 00:00:00	2003-01-18 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	200.0	Clothing & Accessories	Settled	167.2	Settle
+2759	0224098L	2003-02-24 00:00:00	2003-01-22 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	36.8	Other	Approved	36.8	Approve in Full
+3341	0307010L	2003-03-07 00:00:00	2003-01-15 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Approved	200.0	Approve in Full
+3383	0311043L	2003-03-11 00:00:00	2003-01-12 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	110.0	Other	Approved	110.0	Approve in Full
+4813	0408028L	2003-04-08 00:00:00	2003-02-15 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	823.0	Other	Settled	740.7	Settle
+5109	0415084L	2003-04-15 00:00:00	2003-03-26 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Other	579.86	Electronics	Settled	250.0	Settle
+5209	0416076L	2003-04-16 00:00:00	2003-01-02 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	500.0	Other	Settled	250.0	Settle
+5514	0422003L	2003-04-22 00:00:00	2003-04-01 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	125.0	Electronics	Settled	62.5	Settle
+5977	0505052L	2003-05-05 00:00:00	2003-04-09 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	201.0	Other	Approved	201.0	Approve in Full
+6210	0507001L	2003-05-07 00:00:00	2003-02-09 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	14.6	Containers	Approved	14.6	Approve in Full
+6413	0514097L	2003-05-14 00:00:00	2003-03-14 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
+6725	0520018L	2003-05-20 00:00:00	2003-04-23 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2173.64	Electronics	Denied	0.0	Deny
+6892	0522013L	2003-05-22 00:00:00	2003-04-25 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	127.89	Other	Approved	127.89	Approve in Full
+7282	0529107L	2003-05-29 00:00:00	2003-04-27 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	129.05	Other	Settled	65.0	Settle
+7343	0602002L	2003-06-02 00:00:00	2003-03-13 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	1314.96	Other	Denied	0.0	Deny
+8208	0610151L	2003-06-10 00:00:00	2003-04-28 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8777.0	Electronics	Denied	8777.0	Deny
+8358	0611016L	2003-06-11 00:00:00	2003-05-20 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+9097	0624023M	2003-06-24 00:00:00	2003-05-14 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Approved	0.0	Approve in Full
+9243	0624105M	2003-06-24 00:00:00	2003-03-08 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Settled	42.5	Settle
+10182	0708016M	2003-07-08 00:00:00	2003-07-01 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	49.0	Other	Approved	49.0	Approve in Full
+10242	0708191M	2003-07-08 00:00:00	2003-06-14 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Approved	25.0	Approve in Full
+10846	0715223M	2003-07-15 00:00:00	2003-03-21 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	18.59	Other	Approved	18.59	Approve in Full
+11085	0717030M	2003-07-17 00:00:00	2003-07-02 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+11113	0717052M	2003-07-17 00:00:00	2003-06-15 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	399.99	Electronics	Canceled		
+11905	0729264M	2003-07-29 00:00:00	2003-07-21 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checkpoint	100.0	Electronics	Canceled		
+12260	0731054M	2003-07-31 00:00:00	2003-03-19 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	16000.0	Watches & Jewelry	Settled	1000.0	Settle
+12784	0808058M	2003-08-08 00:00:00	2003-07-13 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	290.0	Other	Approved	290.0	Approve in Full
+12935	0811073M	2003-08-11 00:00:00	2003-07-31 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2262.0	Electronics	Settled	1069.0	Settle
+12951	0812065M	2003-08-12 00:00:00	2003-07-15 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	17.95	Other	Approved	17.95	Approve in Full
+13411	0814195M	2003-08-14 00:00:00	2003-08-03 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	87.23	Other	Settled	44.1	Settle
+14002	0821030M	2003-08-21 00:00:00	2003-08-14 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	1146.43	Electronics	Settled	640.0	Settle
+14697	0829078M	2003-08-29 00:00:00	2003-06-03 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	128.45	Clothing & Accessories	Denied	0.0	Deny
+14999	0904012M	2003-09-04 00:00:00	2003-08-05 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	99.0	Clothing & Accessories	Approved	99.0	Approve in Full
+15027	0904071M	2003-09-04 00:00:00	2003-08-18 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Other	Denied	0.0	Deny
+15360	0908038M	2003-09-08 00:00:00	2003-04-16 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Settled	100.0	Settle
+15948	0915063M	2003-09-15 00:00:00	2003-08-21 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	250.0	Other	Settled	125.0	Settle
+16405	0925283M	2003-09-25 00:00:00	2003-09-05 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.57	Other	Approved	27.57	Approve in Full
+16492	0925367M	2003-09-25 00:00:00		MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	12.99	Other	Canceled		
+18282	1021341M	2003-10-21 00:00:00	2003-09-30 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Canceled	0.0	
+18476	1021186M	2003-10-21 00:00:00	2003-10-02 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	74.95	Other	Settled	67.46	Settle
+18728	1022196M	2003-10-22 00:00:00	2003-10-10 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	1000.0	Other	Denied		Deny
+19378	1105012M	2003-11-05 00:00:00	2003-09-03 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	35.0	Other	Settled	17.5	Settle
+19442	1106125M	2003-11-06 00:00:00	2003-08-19 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Watches & Jewelry	Approved	8.0	Approve in Full
+19772	1107516M	2003-11-07 00:00:00	2003-09-14 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	1000.0	Tools & Machines	Approved	1000.0	Approve in Full
+20181	1117383M	2003-11-17 00:00:00	2003-10-05 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	32.05	Other	Approved	32.05	Approve in Full
+20865	1119115M	2003-11-19 00:00:00	2003-10-06 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	190.0	Watches & Jewelry	Settled	95.0	Settle
+21561	1205016M	2003-12-05 00:00:00	2003-10-27 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	140.9	Clothing & Accessories	Canceled	0.0	
+22020	1205588M	2003-12-05 00:00:00	2003-11-05 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	69.97	Other	Settled	35.0	Settle
+22116	1208219M	2003-12-08 00:00:00	2003-09-18 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checkpoint	240.0	Other	Approved	240.0	Approve in Full
+22447	1208268M	2003-12-08 00:00:00	2003-07-27 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	197.32	Clothing & Accessories	Settled	107.03	Settle
+23120	1217429M	2003-12-17 00:00:00	2003-12-08 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	30.0	Cosmetics	Settled	15.0	Settle
+23435	1222061M	2003-12-22 00:00:00	2003-12-09 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	94.0	Other	Settled	47.0	Settle
+24375	0107586M	2004-01-07 00:00:00	2003-11-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	598.4	Electronics	Denied	0.0	Deny
+25602	0120092M	2004-01-20 00:00:00	2003-12-29 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	934.72	Electronics	Settled	615.89	Settle
+27187	0205167M	2004-02-05 00:00:00	2003-11-24 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
+28248	2004050550503	2004-02-19 00:00:00	2003-10-03 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	13000.0	Watches & Jewelry	Denied	0.0	Deny
+28756	0226253M	2004-02-26 00:00:00	2004-01-06 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	125.0	Clothing & Accessories	Approved	125.0	Approve in Full
+30489	2004042350123	2004-03-15 00:00:00	2003-10-12 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	350.0	Other	Settled	175.0	Settle
+30620	2004052653598	2004-03-18 00:00:00	2004-03-05 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	281.0	Cosmetics	Approved	281.0	Approve in Full
+31009	2004051351616	2004-03-22 00:00:00	2004-12-01 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1435.0	Other	Denied	0.0	Deny
+31338	2004051251459	2004-03-24 00:00:00	2004-03-14 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+31576	2004051351855	2004-03-30 00:00:00	2004-02-12 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	8.49	Other	Canceled	0.0	
+31989	2004051752392	2004-04-01 00:00:00	2004-03-05 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	179.0	Clothing & Accessories	Settled	175.0	Settle
+32130	2004051852807	2004-04-06 00:00:00	2004-02-13 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	70.0	Other	Approved	70.0	Approve in Full
+32388	2004052153058	2004-04-15 00:00:00	2004-03-22 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	77.46	Other	Approved	77.46	Approve in Full
+32699	2004052453288	2004-04-20 00:00:00	2004-04-02 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	572.0	Clothing & Accessories	Approved	572.0	Approve in Full
+33069	2004052653565	2004-04-21 00:00:00	2004-03-12 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	11.5	Other	Denied	0.0	Deny
+33330	2004060153988	2004-04-21 00:00:00	2004-03-17 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	479.02	Electronics	Settled	200.0	Settle
+33791	2004051852669	2004-05-03 00:00:00	2004-03-24 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Other	Approved	145.0	Approve in Full
+34291	2004051251380	2004-05-04 00:00:00	2004-03-23 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Supplies	Denied	0.0	Deny
+35306	2004060855083	2004-05-13 00:00:00	2003-11-25 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	434.8	Watches & Jewelry	Settled	217.4	Settle
+35803	2004062757448	2004-05-26 00:00:00	2004-04-30 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
+36268	2004062156578	2004-05-27 00:00:00	2004-04-19 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Other	Denied	0.0	Deny
+36836	2004070158117	2004-06-03 00:00:00	2004-05-14 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	79.99	Other	Approved	79.99	Approve in Full
+37356	2004063057883	2004-06-08 00:00:00	2004-05-08 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
+37758	2004070258230	2004-06-14 00:00:00	2004-05-31 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	15.8	Other	Canceled	0.0	
+38009	2004070658383	2004-06-16 00:00:00	2004-06-08 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	81.25	Other	Denied	0.0	Deny
+40778	2004082761442	2004-07-21 00:00:00	2004-07-08 00:00:00	MHT	Manchester Regional Airport	Horizon Air	Passenger Property Loss	Checked Baggage	492.64	Other	Settled	25.0	Settle
+41613	2004091562867	2004-08-03 00:00:00	2004-07-10 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	63.0	Clothing & Accessories	Settled	52.99	Settle
+41742	2004091362649	2004-08-05 00:00:00	2004-07-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.99	Other	Approved	99.99	Approve in Full
+42075	2004090862402	2004-08-09 00:00:00	2004-06-30 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	3926.82	Watches & Jewelry	Denied	0.0	Deny
+42466	2004112367727	2004-08-10 00:00:00	2004-08-03 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	469.68	Clothing & Accessories	Settled	446.19	Settle
+42493	2004100564582	2004-08-11 00:00:00	2004-07-25 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	1200.0	Other	Denied	0.0	Deny
+42963	2004101364948	2004-08-20 00:00:00	2004-07-22 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Other	Denied	0.0	Deny
+43377	2004091062632	2004-08-26 00:00:00	2004-07-18 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	4.35	Containers	Approved	4.35	Approve in Full
+43524	2004091562913	2004-08-27 00:00:00	2004-07-12 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	155.78	Cosmetics	Settled	77.89	Settle
+43541	2004092263401	2004-08-27 00:00:00	2004-07-19 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	1150.0	Other	Settled	500.0	Settle
+44205	2004092864083	2004-09-09 00:00:00	2004-08-25 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	680.0	Cosmetics	Denied	0.0	Deny
+45439	2004102065330	2004-09-20 00:00:00	2004-07-30 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	4132.21	Electronics	Denied	0.0	Deny
+45475	2004101865102	2004-09-20 00:00:00	2004-08-19 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Containers	Settled	50.0	Settle
+45514	2004111566993	2004-09-21 00:00:00	2004-08-11 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+45857	2004110766607	2004-09-23 00:00:00	2004-08-25 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Settled	61.25	Settle
+45893	2004101965110	2004-09-28 00:00:00	2004-09-13 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	45.0	Watches & Jewelry	Approved	45.0	Approve in Full
+46537	2004110766595	2004-10-05 00:00:00	2004-08-31 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
+46772	2004112067512	2004-10-05 00:00:00	2004-08-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	54.11	Other	Denied		Deny
+46809	2004111867355	2004-10-05 00:00:00	2004-09-27 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checkpoint	250.0	Clothing & Accessories	Settled	215.95	Settle
+47004	2004112267633	2004-10-08 00:00:00	2004-09-27 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	47.99	Other	Denied		Deny
+47049	2004112767866	2004-10-08 00:00:00	2004-09-20 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories,Watches & Jewelry	Settled	250.0	Settle
+47401	2004120168184	2004-10-15 00:00:00	2004-10-09 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.84	Other	Approved	17.84	Approve in Full
+47423	2004120868886	2004-10-15 00:00:00	2004-09-14 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	825.0	Watches & Jewelry	Approved	825.0	Approve in Full
+47503	2004120168226	2004-10-16 00:00:00	2004-07-30 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	363.38	Electronics	Settled	290.67	Settle
+47774	2004120668622	2004-10-20 00:00:00	2004-10-14 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	21.0	Tools & Machines	Approved	21.0	Approve in Full
+48329	2004121469074	2004-10-26 00:00:00	2004-09-10 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	186.0	Clothing & Accessories	Settled	93.0	Settle
+49274	2004112267628	2004-11-05 00:00:00	2004-09-09 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	77.9	Other	Approved	77.9	Approve in Full
+49418	2004122871225	2004-11-08 00:00:00	2004-08-12 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	134.0	Clothing & Accessories	Approved	134.0	Approve in Full
+49575	2004122069401	2004-11-09 00:00:00	2004-06-12 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	8499.0	Watches & Jewelry	Denied	0.0	Deny
+51657	2005010572764	2004-12-10 00:00:00	2004-11-05 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	239.4	Clothing & Accessories	Approved	239.4	Approve in Full
+51665	2005010372153	2004-12-10 00:00:00	2004-10-11 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	185.0	Watches & Jewelry	Canceled	0.0	
+51913	2005080990221	2004-12-13 00:00:00	2004-06-30 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	3250.0	Watches & Jewelry	Settled	836.72	Settle
+51935	2005010472414	2004-12-14 00:00:00	2004-10-31 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+53321	2005012574174	2005-01-03 00:00:00	2004-10-13 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+53996	2005012774557	2005-01-10 00:00:00	2004-12-25 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	381.0	Other	Settled	350.0	Settle
+55043	2005020275354	2005-01-19 00:00:00	2004-11-13 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
+55761	2005022276572	2005-01-27 00:00:00	2004-12-20 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	2500.0	Supplies	Denied	0.0	Deny
+56012	2005030576979	2005-02-01 00:00:00	2004-11-21 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+56170	2005030777084	2005-02-01 00:00:00		MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	39.0	Other	Denied	0.0	Deny
+56399	2005031177729	2005-02-03 00:00:00	2004-12-13 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	180.0	Electronics	Denied	0.0	Deny
+56595	2005030977410	2005-02-07 00:00:00	2004-09-22 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Electronics	Denied	0.0	Deny
+57228	2005031478057	2005-02-11 00:00:00	2004-12-21 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	105.0	Supplies	Settled	52.5	Settle
+59396	2005031878725	2005-03-16 00:00:00	2004-12-25 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	79.95	Clothing & Accessories	Denied	0.0	Deny
+60259	2005040481207	2005-03-29 00:00:00	2005-03-03 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	354.99	Watches & Jewelry	Canceled		
+60671	2005040581516	2005-04-01 00:00:00	2005-02-19 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	1504.95	Electronics	Settled	600.25	Settle
+60732	2005040681652	2005-04-04 00:00:00	2004-12-29 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Denied	0.0	Deny
+60821	2005040781861	2005-04-05 00:00:00	2005-02-10 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+61230	2005041182093	2005-04-07 00:00:00	2004-10-18 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Clothing & Accessories	Denied	0.0	Deny
+61972	2005042082978	2005-04-19 00:00:00	2005-03-31 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Approved	90.0	Approve in Full
+62094	2005042183016	2005-04-19 00:00:00	2005-03-11 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	54.5	Other	Denied	0.0	Deny
+63275	2005050684232	2005-05-04 00:00:00	2005-03-31 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Other	139.99	Other	Settled	69.5	Settle
+63315	2005050984252	2005-05-06 00:00:00	2005-01-26 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	303.19	Electronics	Denied	0.0	Deny
+63945	2005051884925	2005-05-16 00:00:00	2005-05-03 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	39.95	Other	Approved	39.95	Approve in Full
+64063	2005051985081	2005-05-17 00:00:00	2005-04-30 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	1195.0	Watches & Jewelry	Canceled	0.0	
+64935	2005060785877	2005-05-31 00:00:00	2005-03-17 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	2010.0	Watches & Jewelry	Denied	0.0	Deny
+67338	2005081690612	2005-07-01 00:00:00	2005-06-09 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	600.0	Other	Settled	250.0	Settle
+67458	2005070888504	2005-07-06 00:00:00	2005-03-31 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	20.0	Containers	Approved	20.0	Approve in Full
+67511	2005070888481	2005-07-06 00:00:00	2005-06-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	260.0	Other	Denied	0.0	Deny
+68121	2005071989226	2005-07-14 00:00:00	2005-06-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	1243.41	Watches & Jewelry	Denied	0.0	Deny
+68650	2005072589674	2005-07-22 00:00:00	2005-07-05 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	489.99	Other	Denied	0.0	Deny
+70537	2005082991721	2005-08-23 00:00:00	2005-07-27 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.4	Other	Approved	30.4	Approve in Full
+70716	2005082991656	2005-08-23 00:00:00	2005-07-05 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	534.38	Clothing & Accessories,Cosmetics,Other	Settled	211.29	Settle
+71204	2005090992307	2005-08-31 00:00:00	2005-07-09 00:00:00	MHT	Manchester Regional Airport	Independence Air	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Approved	5.0	Approve in Full
+72594	2005100393699	2005-09-23 00:00:00	2005-09-13 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	9.95	Other	Approved	9.95	Approve in Full
+74128	2005102795256	2005-10-20 00:00:00	2005-09-30 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	21.6	Tools & Machines	Approved	21.6	Approve in Full
+74742	2005110995834	2005-11-01 00:00:00	2005-10-11 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.39	Tools & Machines	Approved	10.39	Approve in Full
+75092	2005111896239	2005-11-07 00:00:00	2005-10-18 00:00:00	MHT	Manchester Regional Airport	Independence Air	Passenger Property Loss	Checked Baggage	383.0	Electronics	Denied	0.0	Deny
+75619	2005112996693	2005-11-16 00:00:00	2005-10-20 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	600.0	Other	Denied	0.0	Deny
+76244	2005120797144	2005-11-29 00:00:00	2005-11-03 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	3170.0	Watches & Jewelry	Denied	0.0	Deny
+76908	2005121998114	2005-12-12 00:00:00	2005-11-26 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.85	Tools & Machines	Approved	24.85	Approve in Full
+76909	2005121998116	2005-12-12 00:00:00	2005-11-28 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Other	Approved	120.0	Approve in Full
+77308	2005122898479	2005-12-19 00:00:00	2005-10-17 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
+77621	2006010498751	2005-12-27 00:00:00	2005-12-13 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	160.0	Watches & Jewelry	Approved	160.0	Approve in Full
+78391	2006011399605	2006-01-10 00:00:00	2005-12-09 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	25.0	Watches & Jewelry	Approved	25.0	Approve in Full
+78447	2006011399545	2006-01-10 00:00:00	2006-01-02 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	487.0	Watches & Jewelry	Denied	0.0	Deny
+78454	2006011399562	2006-01-10 00:00:00	2005-12-11 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	705.97	Electronics	Denied	0.0	Deny
+79438	2006013000536	2006-01-24 00:00:00	2005-12-28 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	32.87	Other	Denied	0.0	Deny
+79492	2006020100696	2006-01-24 00:00:00	2006-01-02 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	720.0	Other	Denied	0.0	Deny
+80712	2006022201963	2006-02-14 00:00:00	2005-11-07 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	550.0	Watches & Jewelry	Denied	0.0	Deny
+82331	2006032203522	2006-03-16 00:00:00	2006-03-03 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	2400.0	Electronics	Denied	0.0	Deny
+82424	2006032803791	2006-03-17 00:00:00	2006-02-24 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checkpoint	156.94	Electronics	Denied	0.0	Deny
+82562	2006032403671	2006-03-21 00:00:00	2006-03-07 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	299.0	Other	Denied	0.0	Deny
+83677	2006042004841	2006-04-11 00:00:00	2006-02-23 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	261.97	Electronics	Denied	0.0	Deny
+83994	2006042605370	2006-04-18 00:00:00	2006-04-09 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	77.0	Other	Approved	77.0	Approve in Full
+84419	2006050105505	2006-04-26 00:00:00	2006-03-29 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Settled	60.0	Settle
+84837	2006050905767	2006-05-04 00:00:00	2006-03-30 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Watches & Jewelry	Settled	42.5	Settle
+86111	2006060107135	2006-06-01 00:00:00	2006-05-16 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
+88480	2006071909722	2006-07-17 00:00:00	2006-05-31 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checkpoint	35000.0	Watches & Jewelry	Denied	0.0	Deny
+88882	2006072610083	2006-07-25 00:00:00	2006-07-23 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	6068.31	Scientific Intruments	Denied	0.0	Deny
+91189	2006091312477	2006-09-07 00:00:00	2006-08-20 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	375.0	Electronics	Canceled	0.0	
+91641	2006091912852	2006-09-15 00:00:00	2006-08-25 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Electronics,Clothing & Accessories,Electronics,Electronics	Denied	0.0	Deny
+92337	2006100413606	2006-09-29 00:00:00	2006-09-17 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	64.0	Other	Denied	0.0	Deny
+92403	2006101013779	2006-10-02 00:00:00	2006-09-11 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	29.45	Other	Approved	29.45	Approve in Full
+92753	2006101614000	2006-10-10 00:00:00	2006-10-02 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Denied	0.0	Deny
+92791	2006101914185	2006-10-10 00:00:00	2006-09-19 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	32.99	Electronics	Denied	0.0	Deny
+93236	2006102614674	2006-10-17 00:00:00	2006-10-05 00:00:00	MHT	Manchester Regional Airport	Air Malta	Passenger Property Loss	Checked Baggage	405.97	Electronics	Denied	0.0	Deny
+93412	2006110114997	2006-10-20 00:00:00	2006-10-11 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	20.0	Other	Approved	20.0	Approve in Full
+93997	2006110715268	2006-11-02 00:00:00	2006-10-30 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	26.25	Watches & Jewelry	Approved	26.25	Approve in Full
+94507	2006111715803	2006-11-13 00:00:00	2006-09-25 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	42.0	Clothing & Accessories	Denied	0.0	Deny
+94653	2006112115980	2006-11-15 00:00:00	2006-11-06 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	5000.0	Watches & Jewelry	Canceled	0.0	
+95142	2006120116607	2006-11-24 00:00:00	2006-11-14 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checkpoint	59.0	Cosmetics	Denied	0.0	Deny
+95554	2006120716801	2006-12-01 00:00:00	2006-10-21 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checkpoint	800.0	Watches & Jewelry,Watches & Jewelry	Settled	400.0	Settle
+95580	2006122017494	2006-12-04 00:00:00	2006-10-25 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	211.26	Clothing & Accessories,Other	Approved	211.26	Approve in Full
+96447	2006122217774	2006-12-19 00:00:00	2006-12-02 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1709.0	Electronics	Denied	0.0	Deny
+96464	2006122217856	2006-12-19 00:00:00	2006-11-08 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	4135.0	Watches & Jewelry	Denied	0.0	Deny
+97563	2007011218732	2007-01-08 00:00:00	2006-12-25 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	11.95	Tools & Machines	Approved	11.95	Approve in Full
+98883	2007013119975	2007-01-26 00:00:00	2007-01-02 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Electronics	Denied	0.0	Deny
+98923	2007013119978	2007-01-29 00:00:00	2006-12-27 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	66.95	Cosmetics	Approved	66.95	Approve in Full
+99291	2007021220679	2007-02-02 00:00:00	2007-01-14 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	144.82	Other	Settled	72.41	Settle
+99531	2007020920565	2007-02-07 00:00:00	2007-01-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	499.99	Watches & Jewelry	Denied	0.0	Deny
+99540	2007020920612	2007-02-07 00:00:00	2007-01-08 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	44.0	Cosmetics,Supplies	Denied	0.0	Deny
+99693	2007021220802	2007-02-12 00:00:00	2007-02-11 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Outdoors Supplies	Approved	100.0	Approve in Full
+100292	2007022621500	2007-02-22 00:00:00	2006-12-18 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	1846.22	Tools & Machines,Clothing & Accessories,Electronics,Other	Denied	0.0	Deny
+102334	2007040423486	2007-04-03 00:00:00	2007-02-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Containers	Settled	15.0	Settle
+102342	2007040623606	2007-04-03 00:00:00	2007-03-25 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	57.95	Clothing & Accessories	Settled	40.56	Settle
+102493	2007041223847	2007-04-09 00:00:00	2007-03-19 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.98	Tools & Machines	Approved	15.98	Approve in Full
+102799	2007041624001	2007-04-12 00:00:00	2007-03-01 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	99.95	Clothing & Accessories	Settled	69.96	Settle
+102862	2007041724099	2007-04-16 00:00:00	2007-04-05 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	34.0	Clothing & Accessories	Approved	34.0	Approve in Full
+104542	2007052325835	2007-05-21 00:00:00	2007-05-11 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	10.45	Containers	Approved	10.45	Approve in Full
+104983	2007060626396	2007-05-30 00:00:00	2007-04-19 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	5229.0	Watches & Jewelry	Denied	0.0	Deny
+105297	2007060626417	2007-06-04 00:00:00	2007-05-29 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+106047	2007070327807	2007-06-19 00:00:00	2007-05-22 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	60.0	Outdoors Supplies,Other	Denied	0.0	Deny
+107070	2007071828581	2007-07-10 00:00:00	2007-06-22 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Other	Approved	450.0	Approve in Full
+108259	2007080329577	2007-07-31 00:00:00	2007-07-28 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+108807	2007081030087	2007-08-09 00:00:00	2007-08-04 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	425.0	Clothing & Accessories,Containers	Settled	212.5	Settle
+109429	2007082330738	2007-08-22 00:00:00	2007-08-13 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.95	Clothing & Accessories	Approved	20.95	Approve in Full
+109705	2007082730921	2007-08-27 00:00:00	2007-08-25 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	86.87	Supplies	Denied	0.0	Deny
+110358	2007091231749	2007-09-07 00:00:00	2007-07-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	72.78	Cosmetics	Denied	0.0	Deny
+111117	2007092532563	2007-09-21 00:00:00	2007-09-10 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	140.0	Electronics,Other,Scientific Intruments	Denied	0.0	Deny
+111679	2007110234409	2007-10-03 00:00:00	2007-10-13 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	220.98	Electronics	Settled	110.49	Settle
+112310	2007101933681	2007-10-17 00:00:00	2007-10-06 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	425.0	Clothing & Accessories	Canceled	0.0	
+112465	2008102751571	2007-10-20 00:00:00	2008-09-27 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry	Canceled	0.0	
+112646	2007102634023	2007-10-24 00:00:00	2007-10-13 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Other	Canceled	0.0	
+112753	2007103134172	2007-10-26 00:00:00	2007-10-11 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	155.0	Clothing & Accessories	Approved	155.0	Approve in Full
+112897	2007110234431	2007-10-30 00:00:00	2007-09-09 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+113151	2007110734615	2007-11-02 00:00:00	2007-10-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	500.0	Other	Denied	0.0	Deny
+114971	2007121036311	2007-12-10 00:00:00	2007-10-28 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	635.99	Electronics	Settled	437.0	Settle
+115863	2008010737456	2007-12-31 00:00:00	2007-12-20 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Denied	0.0	Deny
+116546	2008011738121	2008-01-10 00:00:00	2007-12-30 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	170.0	Clothing & Accessories,Containers	Denied	0.0	Deny
+116913	2008012438481	2008-01-16 00:00:00	2008-01-02 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Denied	0.0	Deny
+117145	2008013038844	2008-01-22 00:00:00	2007-12-21 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.99	Food & Drink	Denied	0.0	Deny
+117600	2008020739265	2008-01-30 00:00:00	2007-11-17 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
+118650	2008022840290	2008-02-21 00:00:00	2008-02-07 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	143.61	Other	Denied	0.0	Deny
+118712	2008030340354	2008-02-22 00:00:00	2008-02-06 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.76	Tools & Machines	Denied	0.0	Deny
+118981	2008032141362	2008-02-27 00:00:00	2008-03-17 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checkpoint	400.0	Other,Electronics	Denied	0.0	Deny
+119097	2008031240885	2008-02-29 00:00:00	2008-02-05 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Denied	0.0	Deny
+119102	2008030740658	2008-02-29 00:00:00	2008-02-22 00:00:00	MHT	Manchester Regional Airport	Air Canada	Passenger Property Loss	Checked Baggage	690.0	Clothing & Accessories	Settled	600.0	Settle
+119118	2008021939751	2008-03-03 00:00:00	2008-02-28 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint	325.0	Office Supplies	Approved	325.0	Approve in Full
+119417	2007061426893	2008-03-10 00:00:00	2007-02-26 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	303.97	Electronics,Electronics	Denied	0.0	Deny
+119733	2008032141403	2008-03-15 00:00:00	2008-03-10 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Canceled	0.0	
+120066	2008040141665	2008-03-21 00:00:00	2008-02-27 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	388.58	Outdoors Supplies	Denied	0.0	Deny
+120231	2008040341826	2008-03-25 00:00:00	2008-03-19 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
+120266	2008040441929	2008-03-25 00:00:00	2008-03-18 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	286.35	Electronics,Other	Settled	143.18	Settle
+120394	2008050643876	2008-03-27 00:00:00	2008-03-21 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	162.89	Clothing & Accessories	Settled	81.44	Settle
+120745	2008041142410	2008-04-03 00:00:00	2008-03-13 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	74.99	Electronics	Denied	0.0	Deny
+121837	2008042843472	2008-04-24 00:00:00	2008-04-20 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	3027.0	Electronics	Denied	0.0	Deny
+122215	2008050543768	2008-05-01 00:00:00	2008-04-22 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	335.16	Electronics,Electronics,Electronics	Settled	167.58	Settle
+122321	2008050843976	2008-05-05 00:00:00	2008-04-19 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	137.89	Other	Denied	0.0	Deny
+122333	2008051344143	2008-05-05 00:00:00	2008-04-05 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Denied	0.0	Deny
+122511	2008051444197	2008-05-08 00:00:00	2008-04-04 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	47.25	Games & Toys	Denied	0.0	Deny
+122725	2008051544332	2008-05-13 00:00:00	2008-04-05 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.45	Electronics,Containers,Other	Denied	0.0	Deny
+123115	2008052344777	2008-05-21 00:00:00	2008-05-09 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage	150.0	Electronics,Electronics	Denied	0.0	Deny
+123281	2008052844876	2008-05-27 00:00:00	2008-04-09 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	249.99	Electronics	Denied	0.0	Deny
+125384	2008071847141	2008-07-11 00:00:00	2008-06-22 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
+125436	2008071847108	2008-07-14 00:00:00	2008-06-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	323.0	Clothing & Accessories,Other	Denied	0.0	Deny
+126383	2008081148354	2008-08-01 00:00:00	2008-07-26 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	299.0	Outdoors Supplies	Settled	149.5	Settle
+126453	2008080848264	2008-08-05 00:00:00	2008-07-29 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	68.88	Scientific Intruments	Approved	68.88	Approve in Full
+127295	2008082549056	2008-08-22 00:00:00	2008-07-10 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	303.46	Clothing & Accessories,Other,Household Decor	Denied	0.0	Deny
+127662	2008090349423	2008-09-02 00:00:00	2008-07-25 00:00:00	MHT	Manchester Regional Airport	US Express	Passenger Property Loss	Checked Baggage	1131.07	Containers,Clothing & Accessories,Watches & Jewelry,Other	Denied	0.0	Deny
+128012	2008091049721	2008-09-08 00:00:00	2008-08-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Settled	1800.0	Settle
+128269	2008091650013	2008-09-15 00:00:00	2008-09-02 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+128813	2008100950941	2008-09-29 00:00:00	2008-04-20 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	2678.0	Electronics,Other	Canceled		
+129202	2008100950954	2008-10-08 00:00:00	2008-01-07 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	158.09	Cosmetics	Denied	0.0	Deny
+129818	2008110551916	2008-10-23 00:00:00	2008-10-04 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	700.0	Other	Denied	0.0	Deny
+129851	2008110351671	2008-10-24 00:00:00	2008-10-19 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checkpoint	461.92	Electronics,Electronics,Other	Denied	0.0	Deny
+130171	2008111852375	2008-11-03 00:00:00	2008-10-18 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
+131021	2008110451847	2008-11-24 00:00:00	2008-10-18 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	916.79	Electronics,Other,Games & Toys	Settled	457.81	Settle
+131380	2008120353094	2008-12-04 00:00:00	2008-11-30 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	174.98	Electronics	Denied	0.0	Deny
+131740	2008121953610	2008-12-15 00:00:00	2008-11-30 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	390.0	Watches & Jewelry	Denied	0.0	Deny
+131823	2008122253718	2008-12-16 00:00:00	2008-08-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	660.86	Watches & Jewelry	Denied	0.0	Deny
+132103	2008123053891	2008-12-23 00:00:00	2008-12-21 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage	649.91	Electronics,Electronics	Denied	0.0	Deny
+132630	2009011554627	2009-01-08 00:00:00	2008-11-28 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	569.82	Supplies	Denied	0.0	Deny
+133011	2009012654932	2009-01-15 00:00:00	2009-01-01 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	610.65	Watches & Jewelry	Denied	0.0	Deny
+133824	2009022355743	2009-02-06 00:00:00	2009-01-06 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage	6.0	Tools & Machines	Denied	0.0	Deny
+135032	2009021355488	2009-03-13 00:00:00	2008-12-29 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	12.0	Clothing & Accessories	Approved	12.0	Approve in Full
+135345	2009041157424	2009-03-20 00:00:00	2009-02-21 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	18.0	Electronics	Denied	0.0	Deny
+136455	2009050758456	2009-04-21 00:00:00	2009-03-14 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+138408	2009061960409	2009-06-16 00:00:00	2009-05-11 00:00:00	MHT	Manchester Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	450.0	Scientific Intruments	Canceled	0.0	
+138950	2009070960993	2009-06-30 00:00:00	2009-06-18 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	88.68	Clothing & Accessories,Musical Intruments	Denied	0.0	Deny
+139212	2008092550444	2009-07-07 00:00:00	2008-09-07 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	346.4	Clothing & Accessories	Settled	252.45	Settle
+139945	2009073062040	2009-07-27 00:00:00	2009-06-29 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.09	Other	Canceled	0.0	
+140368	2009080662346	2009-08-05 00:00:00	2009-07-27 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checkpoint	187.5	Cosmetics	Settled	111.51	Settle
+141110	2009082863094	2009-08-27 00:00:00	2009-08-11 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	289.99	Electronics,Other	Approved	289.99	Approve in Full
+141351	2009090863402	2009-09-02 00:00:00	2009-05-27 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	494.18	Office Supplies	Denied	0.0	Deny
+141637	2009091563638	2009-09-14 00:00:00	2009-08-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	56.71	Other	Approved	56.71	Approve in Full
+143536	2009112365590	2009-11-12 00:00:00	2009-11-05 07:17:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	58.0	Outdoors Supplies	Denied	0.0	Deny
+146238	2010030969291	2010-03-01 00:00:00	2010-02-26 19:05:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+146259	2010031169417	2010-03-01 00:00:00	2010-02-01 12:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+146447	2010031369566	2010-03-08 00:00:00	2010-03-01 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		249.0	Approve in Full
+146888	2010032570022	2010-03-22 00:00:00	2010-03-10 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+147389	2010040970624	2010-04-05 00:00:00	2010-03-29 13:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+147890	2010042271050	2010-04-20 00:00:00	2010-03-10 19:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Cosmetics		0.0	Deny
+148116	2010042871249	2010-04-27 00:00:00	2010-04-20 05:25:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+149410	2010062172835	2010-06-07 00:00:00	2010-05-28 12:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Other		0.0	Deny
+150787	2010073074229	2010-07-19 00:00:00	2010-06-30 11:43:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+150826	2010072774110	2010-07-20 00:00:00	2010-07-19 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+152422	2010083175535	2010-09-02 00:00:00	2010-07-18 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+152567	2010091676043	2010-09-07 00:00:00	2010-08-25 12:05:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+153678	2010102077127	2010-10-12 00:00:00	2010-09-18 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+153921	2010102577344	2010-10-19 00:00:00	2010-10-03 14:15:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+155203	2010121378732	2010-11-30 00:00:00	2010-11-15 07:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+157354	2011030280790	2011-02-08 00:00:00	2011-02-03 00:00:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+157631	2011031081094	2011-02-18 00:00:00	2011-01-30 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		16.04	Approve in Full
+157966	2011032981451	2011-03-02 00:00:00	2011-01-09 05:30:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		75.0	Approve in Full
+158961	2011041382416	2011-04-04 00:00:00	2011-03-19 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+160422	2011060183910	2011-05-23 00:00:00	2011-04-17 05:39:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		70.0	Approve in Full
+161201	2011062784678	2011-06-16 00:00:00	2011-05-15 16:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+162132	2011080485726	2011-07-18 00:00:00	2011-07-05 06:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		11.83	Approve in Full
+162486	2011081286056	2011-07-27 00:00:00	2011-07-09 11:15:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		7.05	Approve in Full
+162655	2011081886242	2011-08-02 00:00:00	2011-07-25 07:30:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+163136	2011090686723	2011-08-16 00:00:00	2011-08-08 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.05	Approve in Full
+163163	2011090686752	2011-08-17 00:00:00	2011-08-07 00:00:00	MHT	Manchester Regional Airport	Continental Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+163220	2011091286845	2011-08-19 00:00:00	2011-08-12 18:45:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		10.0	Approve in Full
+164003	2011100587568	2011-09-15 00:00:00	2011-09-04 18:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		50.0	Approve in Full
+165563	2011111789114	2011-11-08 00:00:00	2011-10-24 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+167251	2012021791158	2012-01-09 00:00:00	2011-12-28 05:36:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		80.24	Approve in Full
+167394	2012022991363	2012-01-11 00:00:00	2011-12-28 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+167484	2012021791178	2012-01-17 00:00:00	2011-12-31 10:30:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items		20.0	Approve in Full
+167730	2012022991403	2012-01-23 00:00:00	2012-01-04 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+168415	2012032792126	2012-02-14 00:00:00	2012-01-29 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Other		97.41	Approve in Full
+168571	2012032992243	2012-02-21 00:00:00	2012-01-09 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+168998	2012040592576	2012-03-06 00:00:00	2012-02-21 17:13:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+170346	2012051694051	2012-04-25 00:00:00	2012-04-22 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Food & Drink		0.0	Deny
+171297	2012062794994	2012-05-29 00:00:00	2012-05-27 09:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics,Household Decor		113.35	Settle
+171522	2012071095189	2012-06-06 00:00:00	2012-05-14 11:30:00	MHT	Manchester Regional Airport		Passenger Property Loss	Checkpoint		Clothing & Accessories			
+172019	2012072695727	2012-06-22 00:00:00	2012-04-21 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		46.62	Settle
+173278	2012090696618	2012-08-08 00:00:00	2012-08-04 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+174838	2012111298585	2012-10-02 00:00:00	2012-09-03 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		158.0	Approve in Full
+174950	2012103198224	2012-10-09 00:00:00	2012-09-13 14:47:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+175376	2012120599076	2012-10-23 00:00:00	2012-09-30 05:30:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+176451	2013020801257	2012-12-04 00:00:00	2012-10-31 06:20:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		144.0	Approve in Full
+176776	2013012500419	2012-12-19 00:00:00	2012-11-20 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		14.25	Approve in Full
+182116	2013082106150	2013-07-03 00:00:00	2013-06-12 08:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checkpoint		Food & Drink		0.0	Deny
+184787	2013110808937	2013-10-10 00:00:00	2013-10-08 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
+185172	2013111309276	2013-10-27 00:00:00	2013-10-22 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+188224	2014022611996	2014-02-21 00:00:00	2013-12-28 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		90.0	Approve in Full
+188327	2014022812101	2014-02-25 00:00:00	2014-02-20 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+188522	2014031012299	2014-03-06 00:00:00	2014-01-24 00:00:00	MHT	Manchester Regional Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+188598	2014031212377	2014-03-05 00:00:00	2014-01-23 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+188712	2014031412498	2014-03-11 00:00:00	2014-02-24 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+188791	2014031812582	2014-03-19 00:00:00	2014-02-17 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		60.0	Approve in Full
+189252	2014040713051	2014-03-29 00:00:00	2014-02-24 00:00:00	MHT	Manchester Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Food & Drink		50.34	Approve in Full
+193016	2014092216892	2014-09-04 00:00:00	2014-08-30 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor			
+193159	2014092517038	2014-09-25 00:00:00	2014-08-14 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		11.0	Approve in Full
+194122	2014102718017	2014-10-20 00:00:00	2014-10-06 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+201074	2015021820663	2015-02-18 00:00:00	2015-02-14 00:00:00	MHT	Manchester Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
+201075	2015021820683	2015-02-18 00:00:00	2015-01-16 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		139.99	Approve in Full
+201081	2015071523848	2015-07-15 00:00:00	2015-06-24 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.99	Approve in Full
+201082	2015073124406	2015-07-27 00:00:00	2015-07-26 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+201083	2015080624651	2015-08-06 00:00:00	2015-07-20 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+201085	2015081224819	2015-08-11 00:00:00	2015-01-10 00:00:00	MHT	Manchester Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Household Items		87.1	Approve in Full
+201088	2015092425621	2015-09-02 00:00:00	2015-09-01 00:00:00	MHT	Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Electronics		0.0	Deny
+217845	2018011046725	2017-01-10 00:00:00	2017-12-10 05:15:00	MHT	Manchester Regional Airport Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Insufficient
+217846	2017103144890	2017-10-10 00:00:00	2017-10-04 00:00:00	MHT	Manchester Regional Airport Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
+217848	2017042638933	2017-03-16 00:00:00	2017-02-24 06:56:00	MHT	Manchester Regional Airport Manchester Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		10.0	Approve in Full
+217849	2017050539236	2017-03-17 00:00:00	2017-02-25 00:00:00	MHT	Manchester Regional Airport Manchester Regional Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+217852	2017041238500	2017-01-27 00:00:00	2017-01-16 11:45:00	MHT	Manchester Regional Airport Manchester Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		5.38	Approve in Full

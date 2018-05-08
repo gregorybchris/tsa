@@ -1,0 +1,40 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+32330	0226276M	2004-04-07 00:00:00	2003-12-13 00:00:00	GRK	Kileen - Ft. Hood Regional		Passenger Property Loss	Checkpoint	499.0	Electronics	Denied	0.0	Deny
+51927	2005010372358	2004-12-14 00:00:00	2004-10-20 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	71.42	Clothing & Accessories	Approved	71.42	Approve in Full
+59737	2005033080604	2005-03-22 00:00:00	2005-02-25 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage	142.86	Other	Canceled	0.0	
+59857	2005033180857	2005-03-23 00:00:00	2005-03-14 00:00:00	GRK	Kileen - Ft. Hood Regional	American Eagle	Passenger Property Loss	Checked Baggage	150.0	Other	Approved	150.0	Approve in Full
+61391	2005041282307	2005-04-12 00:00:00	2004-03-25 00:00:00	GRK	Kileen - Ft. Hood Regional	American Eagle	Passenger Property Loss	Checked Baggage	79.99	Other	Approved	79.99	Approve in Full
+70560	2005100493892	2005-08-23 00:00:00	2005-05-28 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage	54.0	Other	Approved	54.0	Approve in Full
+71028	2005090692093	2005-08-30 00:00:00	2005-07-27 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	306.0	Other	Approved	306.0	Approve in Full
+84856	2006051105901	2006-05-05 00:00:00	2006-04-27 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checkpoint	13.5	Clothing & Accessories	Canceled	0.0	
+103094	2007042024278	2007-04-19 00:00:00	2007-04-15 00:00:00	GRK	Kileen - Ft. Hood Regional		Passenger Property Loss	Checked Baggage	2145.0	Other	Denied	0.0	Deny
+107760	2007072729193	2007-07-23 00:00:00	2007-06-19 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage	149.88	Electronics	Denied	0.0	Deny
+108379	2007080629711	2007-08-02 00:00:00	2007-07-13 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	81.19	Cosmetics	Denied	0.0	Deny
+108476	2007080829812	2007-08-03 00:00:00	2007-07-29 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage	1416.59	Electronics,Electronics,Electronics	Denied	0.0	Deny
+108487	2007090431277	2007-08-03 00:00:00	2007-07-29 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage	7.64	Tools & Machines	Denied	0.0	Deny
+114011	2007112135322	2007-11-20 00:00:00	2007-11-14 00:00:00	GRK	Kileen - Ft. Hood Regional	Commercial Airways	Passenger Property Loss	Checked Baggage	1035.83	Electronics,Electronics,Electronics,Other	Denied	0.0	Deny
+119400	2005032579905	2008-03-09 00:00:00	2005-02-18 00:00:00	GRK	Kileen - Ft. Hood Regional		Passenger Property Loss	Checkpoint	273.0	Clothing & Accessories	Approved	273.0	Approve in Full
+119854	2008032641437	2008-03-17 00:00:00	2008-03-08 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	372.51	Other,Games & Toys	Settled	119.21	Settle
+123310	2008052944977	2008-05-27 00:00:00	2008-05-24 00:00:00	GRK	Kileen - Ft. Hood Regional		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+125109	2008071146822	2008-07-07 00:00:00	2008-06-28 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	61.6	Other,Games & Toys	Denied	0.0	Deny
+128404	2008092250245	2008-09-17 00:00:00	2008-09-06 00:00:00	GRK	Kileen - Ft. Hood Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	690.0	Games & Toys	Denied	0.0	Deny
+140247	2009080562240	2009-08-03 00:00:00	2009-05-18 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage	8946.22	Electronics	Denied	0.0	Deny
+147492	2010041370730	2010-04-07 00:00:00	2010-03-19 06:50:00	GRK	Kileen - Ft. Hood Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		40.0	Approve in Full
+151682	2010081875026	2010-08-13 00:00:00	2010-07-26 10:15:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checkpoint		Electronics		894.74	Settle
+154750	2010112778233	2010-11-15 00:00:00	2010-10-31 16:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+160481	2011060283994	2011-05-24 00:00:00	2011-04-01 13:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+164447	2011100487433	2011-10-04 00:00:00	2011-08-13 13:00:00	GRK	Kileen - Ft. Hood Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+167483	2012021791177	2012-01-17 00:00:00	2011-12-15 09:50:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+170498	2012043093403	2012-05-01 00:00:00	2012-04-03 00:00:00	GRK	Kileen - Ft. Hood Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+178979	2013032002668	2013-03-11 00:00:00	2013-03-04 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+191457	2014072115296	2014-07-07 00:00:00	2014-07-01 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+192303	2014082216160	2014-08-04 00:00:00	2014-06-11 00:00:00	GRK	Kileen - Ft. Hood Regional	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		7.91	Approve in Full
+192562	2014090416428	2014-08-22 00:00:00	2014-08-09 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+198308	2015031921370	2015-03-19 00:00:00	2015-02-12 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Food & Drink		0.0	Deny
+198310	2015100925982	2015-09-21 00:00:00	2015-09-16 00:00:00	GRK	Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+198311	2015120727357	2015-11-18 00:00:00	2015-11-17 00:00:00	GRK	Kileen - Ft. Hood Regional	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+206957	2016032330008	2016-03-07 00:00:00	2016-02-09 05:16:00	GRK	Kileen - Ft. Hood Regional Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+206959	2016121936072	2016-11-01 00:00:00	2016-10-25 00:00:00	GRK	Kileen - Ft. Hood Regional Kileen - Ft. Hood Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry,Other			In Review
+215214	2017091443163	2017-08-07 00:00:00	2017-07-21 00:00:00	GRK	Kileen - Ft. Hood Regional Kileen - Ft. Hood Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			In Review
+215215	2017042038724	2017-02-16 00:00:00	2017-01-16 06:30:00	GRK	Kileen - Ft. Hood Regional Kileen - Ft. Hood Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		38.52	Approve in Full
+215217	2017030637836	2017-01-17 00:00:00	2017-01-09 00:00:00	GRK	Kileen - Ft. Hood Regional Kileen - Ft. Hood Regional		Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Deny

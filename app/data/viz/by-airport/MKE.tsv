@@ -1,0 +1,440 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+3193	0304047L	2003-03-04 00:00:00	2002-12-24 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint	10000.0	Watches & Jewelry	Denied	0.0	Deny
+4815	0408031L	2003-04-08 00:00:00	2003-03-16 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	242.74	Electronics	Settled	121.37	Settle
+5174	0416103L	2003-04-16 00:00:00	2003-02-03 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Denied	0.0	Deny
+5624	0424013L	2003-04-24 00:00:00	2003-04-08 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Other	50.67	Other	Approved	50.67	Approve in Full
+5652	0424019L	2003-04-24 00:00:00	2003-03-13 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	25.0	Other	Settled	12.5	Settle
+6381	0513056L	2003-05-13 00:00:00	2003-04-14 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	125.0	Settle
+6423	0514125L	2003-05-14 00:00:00	2003-04-08 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
+6450	0514149L	2003-05-14 00:00:00	2003-05-04 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	28.95	Electronics	Canceled		
+6552	0514162L	2003-05-14 00:00:00	2003-04-06 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	725.0	Clothing & Accessories	Settled	235.0	Settle
+7429	0603022L	2003-06-03 00:00:00	2003-03-26 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	211.46	Other	Approved	211.46	Approve in Full
+7684	0603137L	2003-06-03 00:00:00	2003-05-25 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Settled	7.5	Settle
+7883	0605065L	2003-06-05 00:00:00	2003-04-16 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	251.0	Other	Settled	125.8	Settle
+7898	0606024L	2003-06-06 00:00:00	2003-05-01 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	379.5	Cosmetics	Approved	379.5	Approve in Full
+8128	0610130L	2003-06-10 00:00:00	2003-04-08 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint	120.0	Watches & Jewelry	Approved	120.0	Approve in Full
+8270	0610097L	2003-06-10 00:00:00	2003-04-03 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	324.0	Watches & Jewelry	Settled	162.0	Settle
+8337	0611052L	2003-06-11 00:00:00	2003-05-02 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	93.0	Cosmetics	Approved	93.0	Approve in Full
+8661	0617092L	2003-06-17 00:00:00	2003-06-08 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	180.0	Watches & Jewelry	Approved	180.0	Approve in Full
+9340	0625142M	2003-06-25 00:00:00	2003-05-28 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Supplies	Canceled		
+9691	0701151M	2003-07-01 00:00:00	2003-06-15 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checkpoint	124.0	Other	Approved	124.0	Approve in Full
+10652	0714065M	2003-07-14 00:00:00	2003-05-26 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	23.95	Clothing & Accessories	Approved	23.95	Approve in Full
+11442	0722062M	2003-07-22 00:00:00	2003-06-22 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checkpoint	300.0	Watches & Jewelry	Approved	300.0	Approve in Full
+12162	0731081M	2003-07-31 00:00:00	2003-07-12 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	322.88	Electronics	Approved	322.88	Approve in Full
+12388	0804003M	2003-08-04 00:00:00	2003-06-30 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	194.0	Clothing & Accessories	Approved	194.0	Approve in Full
+12608	0806123M	2003-08-06 00:00:00	2003-07-18 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Approved	750.0	Approve in Full
+12691	0806049M	2003-08-06 00:00:00	2003-07-27 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Settled	300.0	Settle
+12895	0811031M	2003-08-11 00:00:00	2003-03-15 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checkpoint	531.7	Clothing & Accessories	Denied	0.0	Deny
+12919	0811007M	2003-08-11 00:00:00	2003-07-25 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	128.0	Other	Settled	64.0	Settle
+13431	0815090M	2003-08-15 00:00:00	2003-07-17 00:00:00	MKE	General Mitchell International Airport	America West	Passenger Property Loss	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
+13937	0821029M	2003-08-21 00:00:00	2003-07-29 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	180.0	Other	Denied	0.0	Deny
+14876	0903123M	2003-09-03 00:00:00	2003-08-16 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	5.0	Clothing & Accessories	Approved	5.0	Approve in Full
+15218	0905011M	2003-09-05 00:00:00	2003-08-05 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	286.15	Cosmetics	Settled	143.08	Settle
+17186	1003037M	2003-10-03 00:00:00	2003-05-10 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	19.0	Other	Approved	19.0	Approve in Full
+17721	1009187M	2003-10-09 00:00:00	2003-09-10 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	2913.0	Watches & Jewelry	Denied	0.0	Deny
+18561	1022115M	2003-10-22 00:00:00	2003-08-08 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.15	Other	Approved	42.15	Approve in Full
+19064	1028050M	2003-10-28 00:00:00	2003-10-05 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Watches & Jewelry	Denied	0.0	Deny
+19628	1106187M	2003-11-06 00:00:00	2003-09-22 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	178.76	Other	Settled	140.96	Settle
+20499	1117146M	2003-11-17 00:00:00	2003-09-29 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint	281.0	Watches & Jewelry	Settled	281.0	Settle
+20528	1117244M	2003-11-17 00:00:00	2003-10-27 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	145.0	Musical Intruments	Settled	72.5	Settle
+20864	1119114M	2003-11-19 00:00:00	2003-10-03 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	353.0	Clothing & Accessories	Settled	161.69	Settle
+20949	1121047M	2003-11-21 00:00:00	2003-09-13 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	101.85	Other	Approved	101.85	Approve in Full
+22383	1208042M	2003-12-08 00:00:00	2003-10-29 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Settled	25.0	Settle
+23012	1217173M	2003-12-17 00:00:00	2003-12-07 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	390.0	Electronics	Settled	195.0	Settle
+25257	0115221M	2004-01-15 00:00:00	2003-11-20 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	140.0	Watches & Jewelry	Approved	140.0	Approve in Full
+26010	0130108M	2004-01-30 00:00:00	2003-10-18 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	1002.0	Cosmetics	Denied	0.0	Deny
+26524	0202217M	2004-02-02 00:00:00	2003-12-29 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	901.0	Electronics	Settled	150.0	Settle
+26703	0203416M	2004-02-03 00:00:00	2003-11-29 00:00:00	MKE	General Mitchell International Airport	America West	Passenger Property Loss	Other	65.0	Clothing & Accessories	Approved	0.0	Approve in Full
+27551	0210040M	2004-02-10 00:00:00	2003-11-05 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	23.0	Other	Settled	11.5	Settle
+28730	0226165M	2004-02-26 00:00:00	2003-12-25 00:00:00	MKE	General Mitchell International Airport	America Trans Air	Passenger Property Loss	Checked Baggage	155.76	Electronics	Approved	155.76	Approve in Full
+29708	2004043050335	2004-03-10 00:00:00	2003-10-26 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Approved	45.0	Approve in Full
+29868	2004043050333	2004-03-10 00:00:00	2003-03-08 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	306.0	Other	Settled	153.0	Settle
+31405	2004051351830	2004-03-24 00:00:00	2004-02-24 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	508.11	Electronics	Settled	254.06	Settle
+31625	2004051452112	2004-03-30 00:00:00	2004-02-20 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	4159.0	Other	Denied	0.0	Deny
+32010	2004052052901	2004-04-01 00:00:00	2004-02-22 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	3661.0	Electronics	Settled	3069.04	Settle
+32703	2004052453306	2004-04-20 00:00:00	2004-04-02 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checkpoint	66.15	Other	Approved	66.15	Approve in Full
+33171	2004060354491	2004-04-21 00:00:00	2004-03-20 00:00:00	MKE	General Mitchell International Airport	Air Canada	Passenger Property Loss	Checked Baggage	5.0	Other	Denied	0.0	Deny
+33508	2004061555766	2004-04-23 00:00:00	2004-04-05 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	44.11	Other	Approved	44.11	Approve in Full
+33680	2004060354520	2004-04-23 00:00:00	2004-04-02 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	283.0	Electronics	Settled	142.0	Settle
+34026	2004060254317	2004-05-03 00:00:00	2004-04-18 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	312.85	Other	Settled	156.42	Settle
+34062	2004051251234	2004-05-04 00:00:00	2004-04-16 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.45	Electronics	Approved	30.45	Approve in Full
+34120	2004060254249	2004-05-04 00:00:00	2004-03-01 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+34303	2004051351546	2004-05-04 00:00:00	2004-04-10 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	587.0	Electronics	Denied	0.0	Deny
+34812	2004060955172	2004-05-10 00:00:00	2004-04-13 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	465.0	Electronics	Approved	465.0	Approve in Full
+37286	2004062857627	2004-06-07 00:00:00	2004-05-14 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	569.0	Other	Settled	284.5	Settle
+38821	2004071659588	2004-06-28 00:00:00	2004-05-29 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Settled	75.0	Settle
+41001	2004072760075	2004-07-27 00:00:00	2004-05-25 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	768.0	Electronics	Approved	768.0	Approve in Full
+41217	2004082761549	2004-07-27 00:00:00	2004-07-09 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Settled	50.0	Settle
+42921	2004092864029	2004-08-19 00:00:00	2004-07-20 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	260.09	Other	Settled	200.0	Settle
+43516	2004091562870	2004-08-27 00:00:00	2004-07-14 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	560.0	Other	Settled	320.0	Settle
+44013	2004112367678	2004-09-08 00:00:00	2004-07-11 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.79	Other	Approved	25.79	Approve in Full
+44333	2004110466348	2004-09-09 00:00:00	2004-08-04 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
+44756	2004092763921	2004-09-14 00:00:00	2004-08-28 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	405.0	Other	Canceled	0.0	
+46584	2004111767290	2004-10-05 00:00:00	2004-08-10 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
+48309	2004122069476	2004-10-26 00:00:00	2004-07-31 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	186.0	Other	Denied	0.0	Deny
+48752	2004122971542	2004-10-29 00:00:00	2004-04-19 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	486.0	Watches & Jewelry	Denied	0.0	Deny
+48914	2004122169893	2004-11-02 00:00:00	2004-10-04 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	249.99	Other	Settled	94.99	Settle
+49199	2004122370717	2004-11-04 00:00:00	2004-10-13 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checkpoint	416.48	Clothing & Accessories	Denied	0.0	Deny
+50156	2004122871366	2004-11-18 00:00:00	2004-10-18 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	83.35	Clothing & Accessories	Approved	83.35	Approve in Full
+50297	2005010572875	2004-11-18 00:00:00	2004-10-24 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	369.0	Other	Settled	331.02	Settle
+52003	2005030777142	2004-12-14 00:00:00	2004-10-29 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	165.0	Other	Approved	165.0	Approve in Full
+52178	2005010472505	2004-12-14 00:00:00	2004-11-26 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	440.96	Electronics	Settled	214.97	Settle
+52924	2005011173497	2004-12-27 00:00:00	2004-11-27 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint	75.0	Other	Denied	0.0	Deny
+53146	2005011273542	2004-12-28 00:00:00	2004-10-15 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	275.0	Clothing & Accessories	Settled	125.0	Settle
+53451	2006010999177	2005-01-04 00:00:00	2005-12-04 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	6.31	Tools & Machines	Approved	6.31	Approve in Full
+58702	2005032379398	2005-03-07 00:00:00	2005-02-19 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	422.0	Clothing & Accessories	Settled	347.1	Settle
+59661	2005033180689	2005-03-18 00:00:00	2005-01-27 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Denied	0.0	Deny
+59797	2005033080588	2005-03-23 00:00:00	2005-03-07 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	10.51	Tools & Machines	Approved	10.51	Approve in Full
+60076	2005033180929	2005-03-23 00:00:00	2005-02-26 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Settled	75.0	Settle
+60242	2005040481313	2005-03-29 00:00:00	2005-02-06 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	39.48	Watches & Jewelry	Approved	39.48	Approve in Full
+60779	2005040681690	2005-04-05 00:00:00	2005-02-25 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Approved	7.99	Approve in Full
+61095	2005040882062	2005-04-06 00:00:00	2005-01-05 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1882.8	Watches & Jewelry	Denied	0.0	Deny
+61159	2005040881983	2005-04-06 00:00:00	2005-02-24 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	574.0	Electronics	Settled	480.18	Settle
+61549	2005041382397	2005-04-12 00:00:00	2005-03-24 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	44.0	Clothing & Accessories	Denied	0.0	Deny
+61990	2005042183027	2005-04-19 00:00:00	2005-04-12 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	9.98	Tools & Machines	Approved	9.98	Approve in Full
+62231	2005042283166	2005-04-21 00:00:00	2005-03-04 00:00:00	MKE	General Mitchell International Airport	USA 3000 (U5)	Passenger Property Loss	Checked Baggage	1386.0	Watches & Jewelry	Canceled	0.0	
+62571	2005042683416	2005-04-26 00:00:00	2005-02-19 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Other	Denied	0.0	Deny
+64218	2005052085164	2005-05-17 00:00:00	2005-03-20 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	327.47	Electronics	Settled	118.06	Settle
+64229	2005052385274	2005-05-17 00:00:00	2005-03-05 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	190.0	Electronics	Settled	84.33	Settle
+64461	2005052385328	2005-05-20 00:00:00	2005-04-15 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	266.17	Electronics	Settled	217.04	Settle
+66264	2005062487167	2005-06-15 00:00:00	2005-04-24 00:00:00	MKE	General Mitchell International Airport	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1800.0	Watches & Jewelry	Denied	0.0	Deny
+67353	2005070688337	2005-07-05 00:00:00	2005-06-14 00:00:00	MKE	General Mitchell International Airport	Midway Airlines	Passenger Property Loss	Checked Baggage	150.55	Clothing & Accessories	Approved	150.55	Approve in Full
+67460	2005070888510	2005-07-06 00:00:00	2005-06-26 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+67623	2005070888482	2005-07-07 00:00:00	2005-06-07 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	367.0	Other	Denied	0.0	Deny
+67656	2005071288692	2005-07-08 00:00:00	2005-06-28 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	9.18	Tools & Machines	Approved	9.18	Approve in Full
+68235	2005071889160	2005-07-15 00:00:00	2005-05-25 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	83.0	Cosmetics	Settled	41.5	Settle
+68442	2005072289441	2005-07-20 00:00:00	2005-07-09 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	190.0	Other	Denied	0.0	Deny
+68783	2005072889822	2005-07-25 00:00:00	2005-06-20 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Containers	Settled	50.0	Settle
+69067	2005080390030	2005-07-28 00:00:00	2005-07-12 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	172.98	Supplies	Settled	58.99	Settle
+69362	2005081290454	2005-08-02 00:00:00	2005-06-29 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	30.0	Cosmetics	Denied	0.0	Deny
+69414	2005081290447	2005-08-02 00:00:00	2005-07-27 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	197.85	Other	Settled	98.93	Settle
+69906	2005081990958	2005-08-09 00:00:00	2005-07-25 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	159.99	Other	Settled	79.99	Settle
+70898	2005083191922	2005-08-26 00:00:00	2005-08-13 00:00:00	MKE	General Mitchell International Airport	Midway Airlines	Passenger Property Loss	Checked Baggage	22.98	Other	Canceled	0.0	
+71169	2005083091912	2005-08-30 00:00:00	2005-03-19 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	408.14	Clothing & Accessories	Settled	204.07	Settle
+71882	2005092092911	2005-09-14 00:00:00	2005-08-19 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	749.77	Other	Canceled	0.0	
+72108	2005092893384	2005-09-16 00:00:00	2005-09-03 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	19.0	Tools & Machines	Approved	19.0	Approve in Full
+73454	2005101494560	2005-10-07 00:00:00	2005-09-27 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	6.5	Supplies	Denied	0.0	Deny
+74355	2005110295538	2005-10-25 00:00:00	2005-10-12 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checkpoint	950.0	Watches & Jewelry	Approved	950.0	Approve in Full
+74480	2005110395597	2005-10-25 00:00:00	2005-08-08 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	147.0	Other	Settled	73.5	Settle
+75876	2005120897359	2005-11-22 00:00:00	2005-10-27 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+76061	2005120897383	2005-11-28 00:00:00	2005-08-16 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	53.65	Other	Approved	53.65	Approve in Full
+76344	2005120997391	2005-11-30 00:00:00	2005-11-17 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	214.98	Electronics	Settled	78.99	Settle
+76412	2005121297520	2005-12-02 00:00:00	2005-11-05 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Containers	Approved	25.0	Approve in Full
+76497	2005121397629	2005-12-05 00:00:00	2005-11-25 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Approved	25.0	Approve in Full
+76700	2005122198210	2005-12-06 00:00:00	2005-11-27 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	84.0	Other	Denied	0.0	Deny
+77395	2005122898458	2005-12-21 00:00:00	2005-08-19 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checkpoint	1658.0	Electronics	Denied	0.0	Deny
+77492	2006010398618	2005-12-22 00:00:00	2005-11-19 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Denied	0.0	Deny
+78679	2006012099903	2006-01-12 00:00:00	2005-12-24 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.56	Tools & Machines	Approved	10.56	Approve in Full
+79918	2006020801166	2006-01-31 00:00:00	2005-12-16 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	26.39	Other	Denied	0.0	Deny
+80094	2006020801213	2006-02-03 00:00:00	2005-11-30 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	666.0	Clothing & Accessories	Denied	0.0	Deny
+80157	2006021301426	2006-02-06 00:00:00	2006-01-31 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	435.91	Electronics	Denied	0.0	Deny
+80837	2006022302002	2006-02-16 00:00:00	2005-12-15 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	326.62	Watches & Jewelry	Denied	0.0	Deny
+81314	2006030302483	2006-02-27 00:00:00	2005-12-20 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	215.0	Electronics	Denied	0.0	Deny
+82712	2006040303907	2006-03-23 00:00:00	2006-01-06 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	1075.0	Watches & Jewelry	Approved	1075.0	Approve in Full
+84081	2006042405077	2006-04-19 00:00:00	2006-04-13 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	265.73	Other	Denied	0.0	Deny
+84992	2006051206140	2006-05-09 00:00:00	2006-03-30 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Canceled	0.0	
+85258	2006051606423	2006-05-15 00:00:00	2006-05-11 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	255.95	Electronics,Cosmetics	Settled	127.98	Settle
+87488	2006062908764	2006-06-28 00:00:00	2006-04-21 00:00:00	MKE	General Mitchell International Airport	Frontier Aviation Inc	Passenger Property Loss	Checked Baggage	35.0	Other	Denied	0.0	Deny
+88027	2006071109285	2006-07-10 00:00:00	2006-04-05 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	31.55	Clothing & Accessories,Household Items	Approved	31.55	Approve in Full
+89020	2006073110218	2006-07-27 00:00:00	2006-07-16 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	387.83	Electronics,Cosmetics,Supplies	Denied	0.0	Deny
+89177	2006080310487	2006-07-31 00:00:00	2006-06-26 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	25.0	Household Decor	Denied	0.0	Deny
+89896	2006081711218	2006-08-14 00:00:00	2006-06-07 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics,Electronics,Electronics	Denied	0.0	Deny
+90252	2006082411549	2006-08-21 00:00:00	2006-07-25 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	972.92	Other,Electronics	Denied	0.0	Deny
+90923	2006091112290	2006-09-01 00:00:00	2006-08-27 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	33.0	Electronics,Household Decor	Denied	0.0	Deny
+91109	2006091412560	2006-09-06 00:00:00	2006-08-07 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.49	Tools & Machines	Approved	10.49	Approve in Full
+92900	2006101814137	2006-10-12 00:00:00	2006-08-29 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	80.03	Clothing & Accessories	Approved	80.03	Approve in Full
+92922	2006101714110	2006-10-12 00:00:00	2006-09-22 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	924.98	Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
+92976	2006101814131	2006-10-12 00:00:00	2006-10-08 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	340.0	Cosmetics,Electronics,Containers	Settled	316.38	Settle
+93255	2006102614554	2006-10-17 00:00:00	2006-10-09 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	457.52	Electronics	Settled	359.06	Settle
+93753	2006110115018	2006-10-27 00:00:00	2006-10-03 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	100.0	Electronics	Denied	0.0	Deny
+94117	2006112015899	2006-11-03 00:00:00	2006-10-22 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	39.95	Clothing & Accessories	Denied	0.0	Deny
+94183	2006111515629	2006-11-06 00:00:00	2006-10-11 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	1165.0	Electronics,Electronics,Other	Denied	0.0	Deny
+95536	2006120816862	2006-12-01 00:00:00	2006-10-28 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	499.5	Electronics	Denied	0.0	Deny
+96197	2006122017557	2006-12-13 00:00:00	2006-11-13 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	38.84	Other	Denied	0.0	Deny
+96413	2006122217859	2006-12-19 00:00:00	2006-11-26 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.88	Outdoors Supplies	Approved	8.88	Approve in Full
+96709	2006122818107	2006-12-26 00:00:00	2006-11-30 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	722.67	Clothing & Accessories	Denied	0.0	Deny
+96772	2006122818037	2006-12-27 00:00:00	2006-12-26 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	45.0	Household Items,Other	Denied	0.0	Deny
+96983	2008110451804		2008-10-10 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	500.0	Other	Denied	0.0	Deny
+97425	2007010818440	2007-01-05 00:00:00	2006-12-14 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	358.95	Other	Denied	0.0	Deny
+97495	2007011118624	2007-01-05 00:00:00	2006-11-05 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
+97772	2007011718880	2007-01-09 00:00:00	2006-09-20 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	61.34	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+97849	2007011718911	2007-01-10 00:00:00	2007-01-01 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	33.55	Other	Denied	0.0	Deny
+99594	2007020920642	2007-02-08 00:00:00	2007-02-02 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	650.0	Electronics,Electronics	Denied	0.0	Deny
+99609	2007021220740	2007-02-08 00:00:00	2006-08-31 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	45.0	Cosmetics,Other	Denied	0.0	Deny
+99761	2007021621061	2007-02-12 00:00:00	2007-01-18 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	46.95	Other	Denied	0.0	Deny
+100929	2007031922477	2007-03-07 00:00:00	2007-03-03 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	82.46	Settle
+101287	2007031922497	2007-03-15 00:00:00	2007-03-05 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.81	Tools & Machines	Approved	12.81	Approve in Full
+102043	2007040223320	2007-03-29 00:00:00	2007-03-26 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	13.0	Tools & Machines	Approved	13.0	Approve in Full
+102299	2007040623574	2007-04-03 00:00:00	2007-03-31 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	920.1	Electronics	Canceled	0.0	
+102469	2007041123800	2007-04-06 00:00:00	2007-03-24 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	521.25	Electronics,Other	Denied	0.0	Deny
+102711	2007041323986	2007-04-11 00:00:00	2007-04-05 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	130.0	Watches & Jewelry	Denied	0.0	Deny
+102775	2007041624009	2007-04-12 00:00:00	2007-03-27 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1933.14	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+102996	2007042024298	2007-04-18 00:00:00	2007-04-06 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	13.35	Tools & Machines	Approved	13.35	Approve in Full
+103069	2007041924251	2007-04-19 00:00:00	2006-09-19 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checkpoint	400.0	Other	Approved	400.0	Approve in Full
+103130	2007042524460	2007-04-19 00:00:00	2007-04-15 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	397.25	Electronics,Games & Toys	Denied	0.0	Deny
+103714	2007050424997	2007-05-02 00:00:00	2007-04-27 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	79.98	Supplies,Other	Denied	0.0	Deny
+104221	2007051625515	2007-05-14 00:00:00	2007-04-20 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	181.07	Other	Denied	0.0	Deny
+104428	2007051825669	2007-05-17 00:00:00	2007-05-13 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	900.0	Electronics,Other	Denied	0.0	Deny
+104812	2007060426150	2007-05-25 00:00:00	2007-05-20 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	252.02	Electronics	Denied	0.0	Deny
+104859	2007060426240	2007-05-29 00:00:00	2007-05-21 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	850.0	Watches & Jewelry,Watches & Jewelry	Canceled	0.0	
+105127	2007060526305	2007-06-01 00:00:00	2007-05-21 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	399.99	Electronics	Denied	0.0	Deny
+105229	2007060726452	2007-06-04 00:00:00	2007-04-18 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	800.0	Watches & Jewelry	Denied	0.0	Deny
+105550	2007061226804	2007-06-08 00:00:00	2007-06-03 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	1299.0	Electronics	Denied	0.0	Deny
+105558	2007061326844	2007-06-08 00:00:00	2007-04-10 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checkpoint	1632.0	Watches & Jewelry	Denied	0.0	Deny
+106311	2007062827577	2007-06-25 00:00:00	2007-05-21 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	75.0	Electronics,Cosmetics,Tools & Machines	Denied	0.0	Deny
+106690	2007070927989	2007-07-02 00:00:00	2007-05-11 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	5.0	Supplies	Denied	0.0	Deny
+106706	2007071128104	2007-07-02 00:00:00	2007-05-21 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	410.0	Electronics,Electronics,Other,Watches & Jewelry	Denied	0.0	Deny
+106811	2007071128086	2007-07-05 00:00:00	2007-06-21 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	377.03	Electronics,Other	Denied	0.0	Deny
+107149	2007071628461	2007-07-11 00:00:00	2007-06-22 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	360.0	Clothing & Accessories	Denied	0.0	Deny
+107648	2007072428990	2007-07-20 00:00:00	2007-06-29 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	128.0	Cosmetics	Denied	0.0	Deny
+107849	2007101733510	2007-07-24 00:00:00	2007-05-21 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	422.39	Electronics	Denied	0.0	Deny
+107973	2007072729280	2007-07-26 00:00:00	2007-07-07 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	409.41	Electronics,Electronics	Denied	0.0	Deny
+108275	2007080729748	2007-08-01 00:00:00	2007-06-19 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	1335.0	Watches & Jewelry	Canceled	0.0	
+108278	2007080229540	2007-08-01 00:00:00	2007-07-23 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	2600.0	Electronics	Denied	0.0	Deny
+108297	2007080629651	2007-08-01 00:00:00	2007-07-23 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	190.0	Electronics,Electronics	Denied	0.0	Deny
+108531	2007080729760	2007-08-06 00:00:00	2007-07-26 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
+108543	2007080829825	2007-08-06 00:00:00	2007-05-23 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	4637.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+108936	2007081530275	2007-08-13 00:00:00	2007-07-15 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	90.0	Other,Household Decor	Denied	0.0	Deny
+109275	2007082130597	2007-08-20 00:00:00	2007-05-31 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	876.53	Electronics	Denied	0.0	Deny
+109286	2007082130639	2007-08-20 00:00:00	2007-08-12 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	437.0	Other,Containers,Other	Denied	0.0	Deny
+109384	2007082430799	2007-08-21 00:00:00	2007-08-13 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	31.66	Electronics	Denied	0.0	Deny
+109951	2007083131222	2007-08-30 00:00:00	2007-07-06 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Denied	0.0	Deny
+110009	2007090531352	2007-08-31 00:00:00	2007-07-30 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	156.97	Clothing & Accessories,Other	Denied	0.0	Deny
+110593	2007091431939	2007-09-12 00:00:00	2007-09-05 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	600.0	Containers	Denied	0.0	Deny
+110801	2007091832092	2007-09-17 00:00:00	2007-09-06 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	610.0	Electronics	Denied	0.0	Deny
+111500	2007100332923	2007-10-01 00:00:00	2007-09-08 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	249.0	Electronics	Denied	0.0	Deny
+111943	2007101133269	2007-10-10 00:00:00	2007-10-04 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	33.59	Electronics	Canceled	0.0	
+111952	2007101133272	2007-10-10 00:00:00	2007-10-08 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
+112859	2007110234318	2007-10-29 00:00:00	2007-10-01 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checkpoint	750.0	Watches & Jewelry	Denied	0.0	Deny
+114219	2007112935686	2007-11-26 00:00:00	2007-11-25 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	112.0	Containers,Other	Denied	0.0	Deny
+114317	2007113035811	2007-11-27 00:00:00	2007-11-22 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+114543	2007120536061	2007-11-30 00:00:00	2006-03-04 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	309.55	Electronics	Denied	0.0	Deny
+115020	2007121436516	2007-12-11 00:00:00	2007-10-21 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	225.0	Games & Toys	Denied	0.0	Deny
+115269	2007122036727	2007-12-17 00:00:00	2007-11-27 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1484.98	Other	Denied	0.0	Deny
+115415	2007122636881	2007-12-19 00:00:00	2007-12-10 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	290.0	Clothing & Accessories,Other	Denied	0.0	Deny
+115702	2008010437335	2007-12-26 00:00:00	2007-11-25 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	5036.8	Scientific Intruments	Denied	0.0	Deny
+116921	2008012538654	2008-01-16 00:00:00	2008-01-04 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+117832	2008021239478	2008-02-04 00:00:00	2007-12-28 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	32.31	Electronics	Denied	0.0	Deny
+117989	2008021439593	2008-02-07 00:00:00	2007-12-31 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	110.0	Other	Denied	0.0	Deny
+118175	2008022039852	2008-02-11 00:00:00	2007-06-15 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	691.45	Electronics	Denied	0.0	Deny
+118345	2008022139954	2008-02-14 00:00:00	2008-01-16 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	105.6	Household Decor	Denied	0.0	Deny
+118599	2008030440371	2008-02-20 00:00:00	2007-12-27 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Denied	0.0	Deny
+119431	2008031140834	2008-03-10 00:00:00	2008-03-07 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.5	Tools & Machines	Denied	0.0	Deny
+119539	2008031741127	2008-03-11 00:00:00	2008-03-05 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	349.98	Electronics,Other	Denied	0.0	Deny
+119669	2008032741529	2008-03-13 00:00:00	2008-03-03 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	541.97	Electronics,Electronics,Games & Toys	Denied	0.0	Deny
+120488	2008040842146	2008-03-31 00:00:00	2008-03-08 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Other	223.19	Other	Denied	0.0	Deny
+121335	2008042243065	2008-04-14 00:00:00	2008-03-21 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	125.0	Electronics,Electronics	Denied	0.0	Deny
+121653	2008042443331	2008-04-21 00:00:00	2008-04-04 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Denied	0.0	Deny
+122155	2008050143663	2008-04-30 00:00:00	2008-03-07 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+122171	2008041742832	2008-05-01 00:00:00	2008-04-06 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	310.65	Other	Denied	0.0	Deny
+123015	2008052344775	2008-05-19 00:00:00	2008-05-12 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	175.0	Cosmetics	Settled	43.75	Settle
+123038	2008052144630	2008-05-20 00:00:00	2008-05-17 00:00:00	MKE	General Mitchell International Airport	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	161.88	Electronics	Denied	0.0	Deny
+123665	2008060445246	2008-06-03 00:00:00	2008-05-21 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	199.99	Electronics	Denied	0.0	Deny
+124578	2008062646246	2008-06-24 00:00:00	2008-05-02 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.95	Cosmetics	Denied	0.0	Deny
+124960	2008070946655	2008-07-02 00:00:00	2008-04-16 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	138.33	Watches & Jewelry	Denied	0.0	Deny
+124969	2008071046704	2008-07-02 00:00:00	2008-06-22 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	250.0	Electronics	Denied	0.0	Deny
+125984	2008072947609	2008-07-24 00:00:00	2008-07-11 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	372.83	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+126746	2008081148340	2008-08-11 00:00:00	2008-06-30 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checkpoint	1064.31	Electronics	Denied	0.0	Deny
+126752	2008081348476	2008-08-11 00:00:00	2008-08-05 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	18.99	Other	Denied	0.0	Deny
+126771	2008081448597	2008-08-11 00:00:00	2008-05-28 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Denied	0.0	Deny
+126876	2008081848695	2008-08-13 00:00:00	2008-07-30 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Denied	0.0	Deny
+126983	2008081848766	2008-08-15 00:00:00	2008-08-11 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+127884	2008091249849	2008-09-05 00:00:00	2008-08-26 00:00:00	MKE	General Mitchell International Airport	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	52.0	Tools & Machines,Other	Denied	0.0	Deny
+128427	2008080648083	2008-09-18 00:00:00	2008-02-17 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage	1538.08	Electronics	Denied	0.0	Deny
+129090	2008100850897	2008-10-06 00:00:00	2008-09-08 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	340.26	Watches & Jewelry	Denied	0.0	Deny
+129546	2008102151341	2008-10-17 00:00:00	2008-08-26 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+130098	2008110551917	2008-10-31 00:00:00	2008-10-26 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	3450.0	Watches & Jewelry	Denied	0.0	Deny
+130400	2008111752288	2008-11-07 00:00:00	2008-10-18 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	1754.41	Electronics,Other,Watches & Jewelry	Denied	0.0	Deny
+130810	2008110351658	2008-11-19 00:00:00	2008-10-07 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	3430.0	Electronics,Electronics,Tools & Machines	Denied	0.0	Deny
+131127	2008120152992	2008-11-28 00:00:00	2008-11-18 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	157.0	Cosmetics,Watches & Jewelry,Other,Household Decor	Canceled	0.0	
+131189	2008120152959	2008-12-01 00:00:00	2008-12-14 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	94.31	Other	Denied	0.0	Deny
+131197	2008120253039	2008-12-01 00:00:00	2008-11-13 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Electronics	Denied	0.0	Deny
+131668	2008111752303	2008-12-12 00:00:00	2008-10-13 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	429.99	Electronics,Watches & Jewelry	Denied	0.0	Deny
+131749	2008121953622	2008-12-15 00:00:00	2008-12-04 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	92.54	Other,Outdoors Supplies	Denied	0.0	Deny
+131944	2008123053841	2008-12-19 00:00:00	2008-11-25 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checkpoint	100.0	Cosmetics	Denied	0.0	Deny
+132115	2008123153941	2008-12-23 00:00:00	2008-12-16 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	105.0	Watches & Jewelry	Denied	0.0	Deny
+132850	2009012154732	2009-01-13 00:00:00	2009-01-10 00:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	320.0	Electronics	Denied	0.0	Deny
+134277	2009031756387	2009-02-20 00:00:00	2008-12-12 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+135120	2009032757026	2009-03-16 00:00:00	2009-03-04 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	241.56	Containers,Electronics,Other	Denied	0.0	Deny
+136655	2009051458642	2009-04-27 00:00:00	2008-12-27 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint	958.12	Watches & Jewelry	Denied	0.0	Deny
+136675	2009051858815	2009-04-27 00:00:00	2009-01-01 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage	243.0	Supplies	Denied	0.0	Deny
+137442	2009052259425	2009-05-20 00:00:00	2009-05-05 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checkpoint	200.0	Other	Approved	200.0	Approve in Full
+138374	2009061960408	2009-06-15 00:00:00	2009-06-06 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	350.0	Watches & Jewelry	Denied	0.0	Deny
+138659	2009070260846	2009-06-22 00:00:00	2009-06-06 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage	169.94	Clothing & Accessories	Denied	0.0	Deny
+139252	2009071561251	2009-07-08 00:00:00	2009-06-26 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	975.0	Electronics,Electronics,Watches & Jewelry	Denied	0.0	Deny
+139460	2009071761403	2009-07-14 00:00:00	2009-07-09 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	299.99	Electronics	Denied	0.0	Deny
+139506	2009062560623	2009-07-15 00:00:00	2008-06-08 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	6.44	Tools & Machines	Denied	0.0	Deny
+141781	2009091663725	2009-09-16 00:00:00	2009-09-04 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	259.6	Watches & Jewelry	Denied	0.0	Deny
+141934	2009092463989	2009-09-21 00:00:00	2009-08-10 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.87	Tools & Machines	Denied	0.0	Deny
+141941	2009092564017	2009-09-21 00:00:00	2009-07-18 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Denied	0.0	Deny
+142017	2009092564026	2009-09-23 00:00:00	2009-08-29 00:00:00	MKE	General Mitchell International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	249.0	Electronics	Denied	0.0	Deny
+142396	2009100664390	2009-10-05 00:00:00	2009-09-26 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+142749	2009102864866	2009-10-19 00:00:00	2009-10-03 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1770.0	Watches & Jewelry	Canceled		
+143582	2009112365625	2009-11-13 00:00:00	2009-10-17 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	52.11	Containers	Canceled		
+143760	2009120265911	2009-11-18 00:00:00	2009-10-12 15:20:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checkpoint	19.35	Electronics	Approved	19.35	Approve in Full
+143983	2009120466090	2009-11-24 00:00:00	2009-11-15 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	2330.0	Watches & Jewelry	Denied	0.0	Deny
+144211	2009120966287	2009-12-01 00:00:00	2009-09-09 20:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	213.0	Tools & Machines	Settled	106.5	Settle
+144552	2009121866670	2009-12-11 00:00:00	2009-10-29 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	267.0	Scientific Intruments	Approved	267.0	Approve in Full
+145279	2010012567838	2010-01-19 00:00:00	2010-01-12 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+145815	2010022768804	2010-02-16 00:00:00	2010-12-26 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+145997	2010030869224	2010-02-19 00:00:00	2010-02-11 00:00:00	MKE	General Mitchell International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+146232	2010030969274	2010-03-01 00:00:00	2010-01-04 08:35:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+146325	2010031169413	2010-03-03 00:00:00	2010-02-16 09:02:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+146550	2010031069381	2010-03-10 00:00:00	2010-03-10 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		21.1	Approve in Full
+146933	2010032670095	2010-03-22 00:00:00	2010-02-11 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments,Other			
+147509	2010041270692	2010-04-08 00:00:00	2010-03-16 09:15:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		158.2	Approve in Full
+148308	2010051071644	2010-05-03 00:00:00	2010-04-09 17:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+148427	2010050771605	2010-05-06 00:00:00	2010-04-22 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
+148562	2010051271711	2010-05-11 00:00:00	2010-05-06 16:10:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Electronics		51.45	Approve in Full
+149115	2010060472383	2010-05-27 00:00:00	2010-04-04 08:06:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		44.0	Approve in Full
+149331	2010061172589	2010-06-03 00:00:00	2010-05-23 14:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+149347	2010060872517	2010-06-04 00:00:00	2010-05-25 19:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Settle
+149720	2010062573095	2010-06-16 00:00:00	2010-05-08 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.75	Approve in Full
+150079	2010063073282	2010-06-29 00:00:00	2010-05-27 19:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+150525	2010072073922	2010-07-12 00:00:00	2010-05-08 07:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checkpoint		Scientific Intruments			
+150606	2010071773828	2010-07-14 00:00:00	2010-05-03 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+151028	2010080574538	2010-07-26 00:00:00	2010-06-26 18:25:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Household Decor,Cosmetics		0.0	Deny
+151132	2010080574549	2010-07-28 00:00:00	2010-07-14 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+151301	2010062573099	2010-08-03 00:00:00	2010-05-05 08:25:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+151330	2010081174716	2010-08-03 00:00:00	2010-06-19 06:44:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+151699	2010082075159	2010-08-13 00:00:00	2010-08-02 11:05:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Other		0.0	Deny
+151832	2010082375229	2010-08-17 00:00:00	2010-08-03 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+152623	2010091676044	2010-09-08 00:00:00	2010-08-28 08:30:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+153010	2010100176559	2010-09-20 00:00:00	2010-09-08 14:58:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+153458	2010101376923	2010-10-04 00:00:00	2010-08-30 07:30:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+153789	2010102277184	2010-10-14 00:00:00	2010-10-03 16:15:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		6.82	Approve in Full
+153871	2010102377287	2010-10-18 00:00:00	2010-06-23 06:00:00	MKE	General Mitchell International Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+154064	2010102177160	2010-10-25 00:00:00	2010-09-21 08:14:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+154276	2010110977703	2010-11-01 00:00:00	2010-08-02 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		137.86	Settle
+155220	2010120678562	2010-12-01 00:00:00	2010-11-06 07:22:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other		131.95	Approve in Full
+156061	2011010979402	2011-01-03 00:00:00	2010-12-29 06:30:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Other			
+156343	2011013179817	2011-01-10 00:00:00	2011-01-02 18:49:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Other,Clothing & Accessories		111.0	Approve in Full
+156549	2011020880000	2011-01-18 00:00:00	2010-12-30 19:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+156598	2011020980055	2011-01-18 00:00:00	2010-12-15 12:32:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+157769	2011031881332	2011-02-23 00:00:00	2011-02-03 13:06:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+158264	2011040181696	2011-03-11 00:00:00	2011-02-20 08:01:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+158454	2011040782007	2011-03-17 00:00:00	2011-02-23 14:35:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+159084	2011041482480	2011-04-07 00:00:00	2011-03-31 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+159390	2011042182853	2011-04-18 00:00:00	2011-04-02 07:45:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint		Other		0.0	Deny
+159766	2011050483221	2011-05-02 00:00:00	2011-04-04 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+160080	2011051983553	2011-05-10 00:00:00	2011-03-31 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Office Supplies			
+160177	2011052383669	2011-05-13 00:00:00	2011-04-01 05:25:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+160202	2011052483700	2011-05-16 00:00:00	2011-05-03 19:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+161419	2011070585003	2011-06-23 00:00:00	2011-05-29 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics		0.0	Deny
+161627	2011071985316	2011-06-29 00:00:00	2011-06-26 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage		Other		32.45	Approve in Full
+162025	2011080385674	2011-07-13 00:00:00	2011-06-24 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+162263	2011080885857	2011-07-20 00:00:00	2011-07-02 07:05:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		738.78	Settle
+162591	2011081686178	2011-08-01 00:00:00	2011-06-12 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+163006	2011083186591	2011-08-12 00:00:00	2011-08-08 16:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Electronics		0.0	Deny
+163824	2011100487426	2011-09-08 00:00:00	2011-08-10 07:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		99.95	Approve in Full
+164201	2011101487850	2011-09-22 00:00:00	2011-09-15 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+164554	2011101788018	2011-10-06 00:00:00	2011-09-30 14:45:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint		Scientific Intruments		3.0	Approve in Full
+165516	2011111689067	2011-11-07 00:00:00	2011-09-23 15:37:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+165519	2011111689074	2011-11-07 00:00:00	2011-11-01 18:30:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+165788	2011111689056	2011-11-16 00:00:00	2011-10-24 16:30:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Food & Drink		0.0	Deny
+167262	2012021090887	2012-01-10 00:00:00	2011-12-27 08:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+167675	2012022491293	2012-01-23 00:00:00	2012-01-13 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+167781	2012030291480	2012-01-24 00:00:00	2011-12-15 07:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+168765	2012042693279	2012-02-27 00:00:00	2011-12-22 05:45:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		81.92	Approve in Full
+171697	2012071695406	2012-06-12 00:00:00	2012-05-10 15:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+171737	2012070795104	2012-06-13 00:00:00	2012-05-17 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+171908	2012070695095	2012-06-19 00:00:00	2012-06-13 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+172530	2012071395361	2012-07-13 00:00:00	2012-05-17 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		20.0	Approve in Full
+173024	2012091296758	2012-07-31 00:00:00	2012-01-13 15:55:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checkpoint		Containers		0.0	Deny
+173115	2012091596855	2012-08-02 00:00:00	2012-07-23 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+173322	2012092096982	2012-08-09 00:00:00	2012-07-24 07:30:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint		Electronics		317.99	Settle
+173875	2012101297547	2012-08-28 00:00:00	2012-08-16 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+174629	2012110598348	2012-09-25 00:00:00	2012-09-03 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink,Cosmetics		40.5	Settle
+174735	2012111298591	2012-09-28 00:00:00	2012-05-24 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		261.0	Settle
+174736	2012111298592	2012-09-28 00:00:00	2012-08-21 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+175004	2012110798419	2012-10-10 00:00:00	2012-09-17 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		11.63	Approve in Full
+175385	2012120599104	2012-10-23 00:00:00	2012-10-13 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+175573	2012122799372	2012-10-31 00:00:00	2012-10-09 06:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+175781	2012121299244	2012-11-07 00:00:00	2012-10-26 09:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint		Cosmetics		421.22	Settle
+175921	2012111498674	2012-11-14 00:00:00	2012-09-28 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+175964	2013010899656	2012-11-15 00:00:00	2012-11-07 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+177935	2013021901552	2013-01-30 00:00:00	2012-09-25 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		516.13	Approve in Full
+177940	2013021401446	2013-01-31 00:00:00	2013-01-30 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Other		50.0	Approve in Full
+178346	2013022602032	2013-02-15 00:00:00	2012-08-16 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+178405	2013022602085	2013-02-19 00:00:00	2013-02-10 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checkpoint		Outdoors Supplies		249.0	Approve in Full
+178639	2013030402369	2013-02-26 00:00:00	2013-01-07 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+178696	2013030602414	2013-02-27 00:00:00	2013-02-22 02:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+178937	2013031302557	2013-03-11 00:00:00	2013-02-21 13:25:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Food & Drink			
+179219	2013040202919	2013-03-19 00:00:00	2013-02-20 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+180881	2013062104586	2013-05-22 00:00:00	2013-03-28 06:27:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		40.0	Approve in Full
+181509	2013080205583	2013-06-14 00:00:00	2013-05-18 10:20:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		7.99	Approve in Full
+182546	2013083106446	2013-07-19 00:00:00	2013-06-21 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		149.99	Approve in Full
+183617	2013102307699	2013-08-23 00:00:00	2013-08-03 14:11:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+184067	2013102808096	2013-09-10 00:00:00	2013-08-27 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Containers			
+184712	2013110108553	2013-10-07 00:00:00	2013-08-07 06:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+184763	2013111209158	2013-10-08 00:00:00	2013-09-12 06:30:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+185337	2013111209182	2013-10-31 00:00:00	2013-08-20 13:32:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+185485	2013111209132	2013-11-07 00:00:00	2013-10-21 05:30:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+186705	2014010710537	2013-12-31 00:00:00	2013-12-26 11:57:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
+187091	2014011410836	2014-01-09 00:00:00	2013-12-30 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		60.0	Approve in Full
+187364	2014012411118	2014-01-22 00:00:00	2013-07-20 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
+188961	2014032612753	2014-03-21 00:00:00	2014-03-03 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+189150	2014040312947	2014-04-01 00:00:00	2014-03-28 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+189413	2014041413213	2014-04-10 00:00:00	2014-03-17 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+189840	2014050113651	2014-04-25 00:00:00	2014-03-23 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+190510	2014060214330	2014-05-29 00:00:00	2014-05-18 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+191098	2014063014931	2014-06-19 00:00:00	2014-06-16 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+191374	2014071615211	2014-06-30 00:00:00	2014-06-22 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+192140	2014081815994	2014-08-01 00:00:00	2014-06-22 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+192447	2014082916311	2014-08-14 00:00:00	2014-07-02 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		21.99	Approve in Full
+193452	2014100317335	2014-09-22 00:00:00	2014-08-24 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics			
+194286	2014110318184	2014-10-23 00:00:00	2014-10-10 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+194322	2014110518221	2014-11-05 00:00:00	2014-10-10 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+194352	2014110618251	2014-10-28 00:00:00	2014-10-03 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+194676	2014112518586	2014-11-14 00:00:00	2014-08-31 00:00:00	MKE	General Mitchell International Airport		Passenger Property Loss	Checkpoint		Watches & Jewelry			
+195174	2014121019104	2014-12-10 00:00:00	2014-11-13 00:00:00	MKE	General Mitchell International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+195322	2014121719264	2014-12-17 00:00:00	2014-11-22 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+195498	2014123019447	2014-12-30 00:00:00	2014-12-15 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other			
+201401	2015012320106	2015-01-23 00:00:00	2015-01-04 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+201402	2015012320111	2015-01-23 00:00:00	2014-12-27 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		147.0	Settle
+201407	2015022320765	2015-02-23 00:00:00	2015-02-07 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+201408	2015031321216	2015-03-12 00:00:00	2015-02-18 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+201410	2015041321885	2015-04-09 00:00:00	2015-03-12 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+201415	2015052622763	2015-05-20 00:00:00	2015-05-18 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+201416	2015052922836	2015-05-26 00:00:00	2015-05-17 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+201417	2015061223104	2015-06-04 00:00:00	2015-05-24 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Other			
+201418	2015061623191	2015-06-08 00:00:00	2015-06-05 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+201421	2015071323755	2015-07-01 00:00:00	2015-05-24 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.5	Approve in Full
+201426	2015072724262	2015-07-22 00:00:00	2015-06-20 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		73.74	Approve in Full
+201428	2015080324435	2015-08-03 00:00:00	2015-07-24 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+201431	2015092525637	2015-09-11 00:00:00	2015-08-12 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		30.31	Settle
+201432	2015101626047	2015-09-21 00:00:00	2015-09-17 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+201433	2015102026117	2015-09-28 00:00:00	2015-09-05 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+201434	2015102626298	2015-10-05 00:00:00	2015-09-30 00:00:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+201435	2015103026429	2015-10-13 00:00:00	2015-07-28 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		19.99	Approve in Full
+201439	2016010828193	2015-12-28 00:00:00	2015-12-21 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments			
+209970	2016051631370	2016-04-29 00:00:00	2016-04-27 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Insufficient
+209971	2016070132511	2016-06-13 00:00:00	2016-05-30 17:48:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checked Baggage		Other			Insufficient
+209977	2016072832888	2016-06-29 00:00:00	2016-05-18 11:30:00	MKE	General Mitchell International Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		21.09	Approve in Full
+209978	2016021128821	2016-01-20 00:00:00	2016-01-02 16:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		55.45	Closed:Canceled
+209979	2016012728596	2016-01-27 00:00:00	2016-01-02 16:30:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		8.95	Closed:Canceled
+209980	2016052331643	2016-05-04 00:00:00	2016-05-02 09:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry			Closed:Canceled
+209981	2016093034177	2016-08-01 00:00:00	2016-06-28 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics			Closed:Canceled
+209983	2016032129895	2016-03-07 00:00:00	2016-02-23 07:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+209984	2016040630429	2016-03-23 00:00:00	2016-03-03 17:23:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+209985	2016050931162	2016-04-13 00:00:00	2016-03-21 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checkpoint		Office Supplies		0.0	Deny
+209986	2016051931528	2016-05-05 00:00:00	2016-05-02 09:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+209987	2016081533071	2016-06-30 00:00:00	2016-06-05 00:00:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+209988	2016082633363	2016-07-20 00:00:00	2016-07-08 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
+209989	2016090733472	2016-07-21 00:00:00	2016-07-19 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+209993	2016100434302	2016-08-23 00:00:00	2016-08-14 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Containers			In Review
+209995	2017011936694	2017-01-19 00:00:00	2016-11-18 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+209996	2017013037040	2016-12-19 00:00:00	2016-11-23 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+209997	2017012736965	2016-12-03 00:00:00	2016-11-27 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+209998	2017021537536	2017-01-04 00:00:00	2016-12-27 06:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+218197	2017033038288	2017-02-01 00:00:00	2017-01-12 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			Closed: Canceled
+218202	2017051839717	2017-03-07 00:00:00	2017-02-19 00:00:00	MKE	General Mitchell International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient
+218204	2017051639553	2017-04-10 00:00:00	2017-01-11 13:28:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Closed: Canceled
+218205	2017072641853	2017-07-11 00:00:00	2017-05-24 17:17:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		471.51	Approve in Full
+218206	2017112945569	2017-11-15 00:00:00	2017-11-06 00:00:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Closed: Canceled
+218207	2017112845503	2017-11-16 00:00:00	2017-10-30 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			Insufficient
+218212	2017042138796	2017-02-24 00:00:00	2017-01-11 00:00:00	MKE	General Mitchell International Airport	Air Canada	Passenger Property Loss	Checked Baggage		Other			In Review
+218214	2017061940783	2017-05-24 00:00:00	2017-05-08 00:00:00	MKE	General Mitchell International Airport	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
+218217	2017091443099	2017-07-27 00:00:00	2017-06-24 10:40:00	MKE	General Mitchell International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+218218	2017102444636	2017-09-27 00:00:00	2017-09-25 00:00:00	MKE	General Mitchell International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			In Review
+218220	2017032938275	2017-01-30 00:00:00	2017-01-29 10:15:00	MKE	General Mitchell International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny

@@ -18,21 +18,16 @@ function setupAmounts() {
         .attr("height", height)
 
     d3.queue()
-      .defer(d3.tsv, "./data/viz/amounts.tsv")
+      .defer(d3.tsv, "./data/viz/by-airport/LAX.tsv")
       .await(ready)
 
     function ready(error, amounts) {
         if (error) throw error
 
-        formatDate = date => new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
-
-        amounts = amounts.filter(d => d.airport_code == "BWI")
-            .filter(d => +d.claim_amount < 10000)
-            .map(d => ({
+        amounts = amounts.map(d => ({
                 id: +d.id,
                 claimAmount: +d.claim_amount,
-                closeAmount: +d.close_amount,
-                dateReceived: formatDate(d.date_received)
+                closeAmount: +d.close_amount
             }))
 
         let xMax = d3.max(amounts, d => d.claimAmount)
@@ -63,28 +58,19 @@ function setupAmounts() {
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
             .call(yAxis)
 
-        // svg.append("g")
-        //     .classed("x axis", true)
-        //     .attr("transform", "translate(0," + height + ")")
-        //     .call(xAxis)
-        //   .append("text")
-        //     .classed("label", true)
-        //     .attr("x", width/1.7)
-        //     .attr("y", margin.bottom - 10)
-        //     .style("text-anchor", "end")
-        //     .text("Claim Amount");
-        //
-        // svg.append("g")
-        //     .classed("y axis", true)
-        //     .call(yAxis)
-        //   .append("text")
-        //     .classed("label", true)
-        //     .attr("transform", "rotate(-90)")
-        //     .attr("y", -margin.left)
-        //     .attr("dy", ".71em")
-        //     .attr("dx", -height/2.4)
-        //     .style("text-anchor", "end")
-        //     .text("Close Amount");
+        svg.append("text")
+            .attr("transform", "rotate(-90)")
+            .attr("y", 0)
+            .attr("x", 0 - (height / 2))
+            .attr("dy", "10px")
+            .attr("class", "scatter-label")
+            .style("text-anchor", "middle")
+            .text("Close Amount")
+
+        svg.append("text")
+            .attr("transform", "translate(" + (width / 2 + 50) + ", " + (height + margin.top + 30) + ")")
+            .style("text-anchor", "middle")
+            .text("Claim Amount")
 
         let circlesGroup = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
@@ -105,8 +91,6 @@ function setupAmounts() {
                 })
 
         let zoom = d3.zoom()
-            .scaleExtent([.5, 20])
-            .extent([[0, 0], [width, height]])
             .on("zoom", zoomed)
 
         svg.append("rect")
@@ -118,6 +102,12 @@ function setupAmounts() {
             .call(zoom)
 
         function zoomed() {
+            // let e = d3.event
+            // let tx = Math.min(0, Math.max(e.translate[0], width - width * e.scale))
+            // let ty = Math.min(0, Math.max(e.translate[1], height - height * e.scale))
+            // zoom.translate([tx, ty])
+            // g.attr("transform", ["translate(" + [tx, ty] + ")", "scale(" + e.scale + ")"].join(" "))
+
             let newXScale = d3.event.transform.rescaleX(xScale)
             let newYScale = d3.event.transform.rescaleY(yScale)
             gX.call(xAxis.scale(newXScale))

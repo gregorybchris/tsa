@@ -125,7 +125,7 @@ html, body {
 
 /* ~ ~ ~ ~ Interactive Section ~ ~ ~ ~ */
 
-#map-section, #items-section, #amounts-section, #claim-section {
+#map-section, #items-section, #amounts-section, #dates-section, #claim-section {
 	display: inline-block;
 }
 
@@ -183,22 +183,44 @@ html, body {
 
 /* ~ ~ ~ ~ Amounts Section ~ ~ ~ ~ */
 
-text {
+#amounts-section text {
     font-family: "Open Sans Regular";
     font-size: 12px;
+	font-weight: bold;
+	fill: @urban-grey;
 }
 
-rect {
-  fill: transparent;
-  shape-rendering: crispEdges;
-}
-
-.tick line {
+#amounts-section .tick line {
 	stroke: rgba(0, 0, 0, 0.1);
 }
 
-.dot {
+#amounts-section .dot {
   fill-opacity: .5;
+}
+
+#amounts-section path {
+	stroke: lighten(@urban-grey, 40%);
+}
+
+/* ~ ~ ~ ~ Dates Section ~ ~ ~ ~ */
+
+#dates-section text {
+    font-family: "Open Sans Regular";
+    font-size: 12px;
+	font-weight: bold;
+	fill: @urban-grey;
+}
+
+#dates-section .tick line {
+	stroke: rgba(0, 0, 0, 0.1);
+}
+
+#dates-section .dot {
+  fill-opacity: .5;
+}
+
+#dates-section path {
+	stroke: lighten(@urban-grey, 40%);
 }
 
 /* ~ ~ ~ ~ Claim Section ~ ~ ~ ~ */
@@ -216,7 +238,8 @@ rect {
 	margin: 0px 10px;
 	box-sizing: border-box;
 	border: 3px solid @classic-purple;
-	color: darken(@urban-grey, 20%);
+	color: darken(@classic-purple, 10%);
+	background-color: transparent;
 	transition: border 300ms, background-color 300ms, color 33ms;
 	outline: none;
 }

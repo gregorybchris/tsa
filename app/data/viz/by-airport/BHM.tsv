@@ -1,0 +1,163 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+60	18221	2002-09-25 00:00:00	2002-09-12 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	20.0	Other	Approved	20.0	Approve in Full
+95	21054	2002-10-17 00:00:00	2002-09-24 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checkpoint	95.0	Other	Approved	95.0	Approve in Full
+1603	0617628L	2003-01-21 00:00:00	2002-12-24 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	240.0	Other	Settled	70.0	Settle
+6111	0909831M	2003-05-06 00:00:00	2003-04-25 00:00:00	BHM	Birmingham International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	399.98	Cosmetics	Approved	399.98	Approve in Full
+7045	0528068L	2003-05-28 00:00:00	2003-04-27 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
+8276	0610114L	2003-06-10 00:00:00	2003-05-21 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Settled	15.0	Settle
+8787	0617103L	2003-06-17 00:00:00	2003-05-27 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	35.0	Electronics	Settled	17.5	Settle
+9091	0624011M	2003-06-24 00:00:00	2003-06-09 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	369.0	Other	Approved	369.0	Approve in Full
+10571	0711051M	2003-07-11 00:00:00	2003-06-24 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	947.41	Watches & Jewelry	Canceled		
+12052	0729190M	2003-07-29 00:00:00	2003-07-02 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	68.31	Other	Settled	34.16	Settle
+12127	0730045M	2003-07-30 00:00:00	2003-06-28 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Settled	35.0	Settle
+18174	1021119M	2003-10-21 00:00:00	2003-08-22 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	86.25	Clothing & Accessories	Approved	86.25	Approve in Full
+23629	0105334M	2004-01-05 00:00:00	2003-12-02 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+29925	2004043050255	2004-03-11 00:00:00	2004-02-25 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Approved	80.0	Approve in Full
+31708	2004072259897	2004-03-30 00:00:00	2004-03-15 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	250.0	Other	Settled	125.0	Settle
+32425	2004052653506	2004-04-15 00:00:00	2004-03-30 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Approved	90.0	Approve in Full
+33144	2004060254183	2004-04-21 00:00:00	2004-03-01 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	4265.0	Watches & Jewelry	Denied	0.0	Deny
+33804	2004051952859	2004-05-03 00:00:00	2004-04-08 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+34574	2004060955273	2004-05-05 00:00:00	2004-04-21 00:00:00	BHM	Birmingham International Airport	UAL	Passenger Property Loss	Checked Baggage	49.0	Other	Approved	49.0	Approve in Full
+37348	2004062957822	2004-06-08 00:00:00	2004-05-27 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	169.12	Other	Approved	169.12	Approve in Full
+38003	2004070658336	2004-06-16 00:00:00	2004-05-28 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	39.98	Clothing & Accessories	Denied		
+38189	2004061956384	2004-06-18 00:00:00	2004-05-21 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checkpoint	14950.0	Watches & Jewelry	Denied		
+38425	2004071259087	2004-06-22 00:00:00	2004-06-02 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	149.99	Electronics	Approved	149.99	Approve in Full
+38999	2004071359203	2004-06-29 00:00:00	2004-06-16 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	550.0	Other	Settled	509.0	Settle
+39225	2004071559392	2004-07-06 00:00:00	2004-06-27 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	393.34	Electronics	Settled	196.17	Settle
+39695	2004080960835	2004-07-09 00:00:00	2004-07-02 00:00:00	BHM	Birmingham International Airport		Passenger Theft	Checkpoint	700.0	Watches & Jewelry	Denied	0.0	Deny
+42032	2004090862369	2004-08-09 00:00:00	2004-08-27 00:00:00	BHM	Birmingham International Airport	UAL	Passenger Property Loss	Checked Baggage	0.0	Other	Canceled	0.0	
+42965	2004110866641	2004-08-20 00:00:00	2004-07-30 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checkpoint	128.39	Electronics	Denied	0.0	Deny
+46175	2004111567061	2004-09-29 00:00:00	2004-08-24 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	8.46	Other	Approved	8.46	Approve in Full
+48293	2004121769189	2004-10-26 00:00:00	2004-09-19 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	2400.0	Watches & Jewelry	Denied	0.0	Deny
+48324	2004121369001	2004-10-26 00:00:00	2004-10-03 00:00:00	BHM	Birmingham International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	235.04	Other	Settled	105.5	Settle
+48440	2004122170043	2004-10-27 00:00:00	2004-10-10 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	70.0	Other	Canceled	0.0	
+52472	2005010773229	2004-12-20 00:00:00	2004-10-13 00:00:00	BHM	Birmingham International Airport	US Express	Passenger Property Loss	Checked Baggage	67.0	Other	Approved	67.0	Approve in Full
+52689	2005011073312	2004-12-21 00:00:00	2004-11-24 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Containers	Denied		Deny
+52761	2005011073368	2004-12-21 00:00:00	2004-10-07 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	749.0	Clothing & Accessories	Settled	374.5	Settle
+54185	2005012874754	2005-01-11 00:00:00	2005-01-02 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	37.78	Other	Denied	0.0	Deny
+59452	2005032980295	2005-03-16 00:00:00	2005-02-20 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	99.98	Electronics	Denied	0.0	Deny
+60190	2005040181108	2005-03-29 00:00:00	2005-03-02 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.0	Tools & Machines	Approved	159.0	Approve in Full
+61468	2005041482530	2005-04-12 00:00:00	2005-04-01 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Approved	14.0	Approve in Full
+61647	2005041382380	2005-04-12 00:00:00	2005-02-24 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	250.0	Electronics	Settled	60.0	Settle
+64693	2005060185647	2005-05-24 00:00:00	2005-04-30 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	800.0	Supplies	Denied	0.0	Deny
+67250	2005070588268	2005-06-30 00:00:00	2005-06-22 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	670.81	Electronics	Denied	0.0	Deny
+69010	2005080490054	2005-07-28 00:00:00	2005-07-18 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	390.0	Supplies	Approved	390.0	Approve in Full
+69176	2005080890143	2005-08-01 00:00:00	2005-07-18 00:00:00	BHM	Birmingham International Airport	US Express	Passenger Property Loss	Checkpoint	800.0	Watches & Jewelry	Denied	0.0	Deny
+69239	2005080990242	2005-08-02 00:00:00	2005-07-06 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+69783	2005091592555	2005-08-09 00:00:00	2005-08-15 00:00:00	BHM	Birmingham International Airport	UAL	Passenger Property Loss	Checkpoint	25.0	Cosmetics	Approved	25.0	Approve in Full
+73110	2005100694236	2005-10-03 00:00:00	2005-09-18 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	212.85	Electronics	Denied	0.0	Deny
+76676	2005121697966	2005-12-06 00:00:00	2005-11-15 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
+77759	2006010698935	2005-12-28 00:00:00	2005-12-15 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	130.0	Watches & Jewelry	Denied	0.0	Deny
+80530	2006021701704	2006-02-10 00:00:00	2006-01-27 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.0	Watches & Jewelry	Denied	0.0	Deny
+82018	2006031503160	2006-03-10 00:00:00	2006-01-08 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	385.0	Clothing & Accessories	Denied	0.0	Deny
+82271	2006031703330	2006-03-15 00:00:00	2006-02-28 00:00:00	BHM	Birmingham International Airport	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage	2795.0	Electronics	Denied	0.0	Deny
+82386	2006032403659	2006-03-17 00:00:00	2006-03-04 00:00:00	BHM	Birmingham International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Tools & Machines	Canceled	0.0	
+83011	2006040704202	2006-03-28 00:00:00	2006-03-16 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	479.93	Electronics	Denied	0.0	Deny
+83674	2006042004838	2006-04-11 00:00:00	2006-01-26 00:00:00	BHM	Birmingham International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	386.96	Electronics	Denied	0.0	Deny
+83676	2006042004840	2006-04-11 00:00:00	2006-03-24 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	120.0	Other	Denied	0.0	Deny
+84431	2006050105543	2006-04-27 00:00:00	2006-04-07 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	19.32	Other	Approved	19.32	Approve in Full
+84489	2006050505708	2006-04-28 00:00:00	2006-04-08 00:00:00	BHM	Birmingham International Airport	UAL	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+84586	2006051105897	2006-05-01 00:00:00	2006-02-17 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	649.19	Electronics	Denied	0.0	Deny
+84969	2006051206096	2006-05-09 00:00:00	2006-04-19 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	54.0	Other	Approved	54.0	Approve in Full
+86799	2006061508034	2006-06-14 00:00:00	2006-02-11 00:00:00	BHM	Birmingham International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	214.5	Electronics	Denied	0.0	Deny
+87786	2006070609036	2006-07-05 00:00:00	2006-06-12 00:00:00	BHM	Birmingham International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	106.0	Clothing & Accessories	Denied	0.0	Deny
+88787	2006072510002	2006-07-21 00:00:00	2006-07-13 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	203.46	Electronics	Settled	101.73	Settle
+89035	2006073110269	2006-07-27 00:00:00	2006-07-21 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	12.5	Other	Denied	0.0	Deny
+90607	2006090511957	2006-08-28 00:00:00	2006-07-10 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checkpoint	230.25	Cosmetics	Approved	230.25	Approve in Full
+94400	2006111615722	2006-11-09 00:00:00	2006-09-16 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	200.0	Electronics	Denied	0.0	Deny
+95544	2006121116903	2006-12-01 00:00:00	2006-11-22 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+96064	2006121517181	2006-12-12 00:00:00	2006-10-20 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checkpoint	350.0	Watches & Jewelry	Denied	0.0	Deny
+96353	2006122217726	2006-12-18 00:00:00	2006-08-06 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	5000.0	Electronics,Electronics	Denied	0.0	Deny
+98959	2007020120032	2007-01-29 00:00:00	2007-01-18 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	2532.0	Clothing & Accessories	Denied	0.0	Deny
+99418	2007020720422	2007-02-06 00:00:00	2007-01-04 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
+100307	2007022321424	2007-02-22 00:00:00	2006-12-21 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	200.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+100474	2007022821676	2007-02-27 00:00:00	2007-02-20 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Denied	0.0	Deny
+101093	2007031422237	2007-03-12 00:00:00	2007-03-05 00:00:00	BHM	Birmingham International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	149.99	Electronics	Denied	0.0	Deny
+102191	2007040423482	2007-04-02 00:00:00	2007-03-10 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	5.49	Tools & Machines	Approved	5.49	Approve in Full
+102671	2007041323980	2007-04-11 00:00:00	2007-04-03 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	7.49	Tools & Machines	Approved	7.49	Approve in Full
+104879	2007060426191	2007-05-29 00:00:00	2007-12-21 00:00:00	BHM	Birmingham International Airport	Air France	Passenger Property Loss	Checked Baggage	636.99	Containers,Other	Denied	0.0	Deny
+106415	2007070327744	2007-06-26 00:00:00	2007-06-17 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2138.0	Scientific Intruments	Denied	0.0	Deny
+107995	2007073029337	2007-07-26 00:00:00	2007-05-19 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
+109579	2007082730911	2007-08-23 00:00:00	2007-07-30 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	7465.46	Electronics,Watches & Jewelry,Other	Denied	0.0	Deny
+110263	2007091031563	2007-09-06 00:00:00	2007-08-15 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage	466.43	Electronics,Other	Denied	0.0	Deny
+110933	2007092132414	2007-09-18 00:00:00	2007-09-05 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	2122.0	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+112611	2007102633976	2007-10-23 00:00:00	2007-09-08 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	505.99	Electronics,Electronics	Denied	0.0	Deny
+112790	2007110134224	2007-10-26 00:00:00	2007-10-24 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	4100.0	Electronics,Other	Denied	0.0	Deny
+112929	2007110234304	2007-10-30 00:00:00	2007-10-15 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	175.89	Containers	Denied	0.0	Deny
+114068	2007112635373	2007-11-23 00:00:00	2007-10-23 00:00:00	BHM	Birmingham International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	49.29	Supplies	Approved	49.29	Approve in Full
+115484	2007122736982	2007-12-20 00:00:00	2007-12-02 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.39	Electronics	Denied	0.0	Deny
+117316	2008013038840	2008-01-25 00:00:00	2007-11-24 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Denied	0.0	Deny
+122414	2008051244103	2008-05-06 00:00:00	2008-04-24 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	200.0	Clothing & Accessories	Denied	0.0	Deny
+123593	2008060345192	2008-06-02 00:00:00	2008-05-28 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage	498.98	Electronics	Denied	0.0	Deny
+123981	2008061345635	2008-06-10 00:00:00	2008-06-03 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Denied	0.0	Deny
+124359	2008062446084	2008-06-18 00:00:00	2008-06-11 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	574.05	Electronics	Denied	0.0	Deny
+125140	2008071546949	2008-07-07 00:00:00	2008-06-19 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	19.19	Tools & Machines	Denied	0.0	Deny
+127130	2008082048845	2008-08-19 00:00:00	2008-07-27 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	407.3	Electronics,Other	Denied	0.0	Deny
+127351	2008082649128	2008-08-25 00:00:00	2008-08-09 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	3210.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+127504	2008082949243	2008-08-27 00:00:00	2008-07-19 00:00:00	BHM	Birmingham International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	29.39	Electronics	Denied	0.0	Deny
+128193	2008091549952	2008-09-12 00:00:00	2008-09-07 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Denied	0.0	Deny
+128547	2008092250228	2008-09-22 00:00:00	2008-09-19 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	32.19	Clothing & Accessories	Approved	32.19	Approve in Full
+129421	2008102151390	2008-10-14 00:00:00	2008-06-22 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.31	Clothing & Accessories	Denied	0.0	Deny
+129424	2008101651191	2008-10-14 00:00:00	2008-10-08 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+129535	2008102051294	2008-10-17 00:00:00	2008-10-02 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	98.27	Clothing & Accessories	Denied	0.0	Deny
+131214	2008120353086	2008-12-01 00:00:00	2008-11-21 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.99	Clothing & Accessories	Denied	0.0	Deny
+132196	2009010554051	2008-12-29 00:00:00	2008-12-23 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage	874.93	Electronics,Clothing & Accessories,Cosmetics,Games & Toys	Denied	0.0	Deny
+137341	2009052259432	2009-05-15 00:00:00	2009-04-19 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Denied	0.0	Deny
+137486	2009052259384	2009-05-21 00:00:00	2009-04-20 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	371.0	Clothing & Accessories	Denied	0.0	Deny
+140511	2009081462630	2009-08-10 00:00:00	2009-06-27 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	318.0	Clothing & Accessories	Denied	0.0	Deny
+143874	2009120165894	2009-11-20 00:00:00	2009-10-28 15:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2486.78	Watches & Jewelry	Denied	0.0	Deny
+144257	2009120966306	2009-12-02 00:00:00	2009-07-22 07:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	862.92	Watches & Jewelry	Denied	0.0	Deny
+146007	2010030168871	2010-02-22 00:00:00	2010-02-07 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+146886	2010032570019	2010-03-22 00:00:00	2010-03-15 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+148545	2010051971941	2010-05-10 00:00:00	2010-04-25 09:07:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+149387	2010061672694	2010-06-07 00:00:00	2010-05-25 16:31:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+149852	2010062873148	2010-06-22 00:00:00	2010-06-20 13:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+151305	2010072974180	2010-08-03 00:00:00	2010-07-09 13:49:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage		Containers,Other		0.0	Deny
+151390	2010082475271	2010-08-04 00:00:00	2010-07-16 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			
+151861	2010081975129	2010-08-18 00:00:00	2010-07-29 07:30:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+152724	2010091776102	2010-09-13 00:00:00	2010-09-12 08:30:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+154293	2010111077738	2010-11-01 00:00:00	2010-10-13 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+154376	2010111677848	2010-11-02 00:00:00	2010-10-24 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+154699	2010112278043	2010-11-15 00:00:00	2010-11-04 17:25:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+154779	2010113078361	2010-11-15 00:00:00	2010-11-09 14:00:00	BHM	Birmingham International Airport	US Express	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+155093	2010112678166	2010-11-29 00:00:00	2010-10-31 11:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+156946	2011022380380	2011-01-26 00:00:00	2011-01-21 04:30:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics		0.0	Deny
+157625	2011021880294	2011-02-18 00:00:00	2011-02-18 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Outdoors Supplies		0.0	Deny
+157918	2011032881420	2011-03-01 00:00:00	2011-02-01 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics		0.0	Deny
+164242	2011101487915	2011-09-23 00:00:00	2011-09-08 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Office Supplies		0.0	Deny
+164836	2011102488329	2011-10-14 00:00:00	2011-09-17 09:55:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
+167862	2012030591522	2012-01-26 00:00:00	2012-01-24 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
+168088	2012031691780	2012-02-02 00:00:00	2012-01-24 12:15:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+168197	2012032692058	2012-02-07 00:00:00	2012-02-03 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+168500	2012032792148	2012-02-17 00:00:00	2012-01-27 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+168566	2012032992226	2012-02-21 00:00:00	2012-02-19 11:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+169057	2012040592621	2012-03-08 00:00:00	2012-02-21 07:03:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+169816	2012050193444	2012-04-06 00:00:00	2012-02-04 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+171802	2012080895909	2012-06-15 00:00:00	2012-06-06 09:35:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+172420	2012082396149	2012-07-10 00:00:00	2012-06-14 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories		21.3	Settle
+174915	2012111498668	2012-10-05 00:00:00	2012-08-18 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+175181	2012112698864	2012-10-17 00:00:00	2012-08-13 16:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+177125	2013013000705	2013-01-04 00:00:00	2012-09-13 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+178513	2013022602090	2013-02-21 00:00:00	2013-02-20 06:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+179898	2013050903605	2013-04-15 00:00:00	2013-04-09 04:44:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+184390	2013110108514	2013-09-19 00:00:00	2013-04-29 00:00:00	BHM	Birmingham International Airport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+185445	2013111209095	2013-11-06 00:00:00	2013-10-25 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+186702	2014010710529	2013-12-31 00:00:00	2013-12-20 17:21:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Deny
+186912	2014010810647	2014-01-03 00:00:00	2013-12-18 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+189793	2014042913602	2014-04-21 00:00:00	2014-04-17 00:00:00	BHM	Birmingham International Airport	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+191820	2014080415668	2014-07-10 00:00:00	2014-06-15 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+191902	2014080615751	2014-07-17 00:00:00	2014-07-15 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checked Baggage		Clothing & Accessories		76.3	Approve in Full
+191917	2014080715766	2014-07-22 00:00:00	2014-06-23 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+194583	2014112418489	2014-11-13 00:00:00	2014-10-14 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+196162	2015041721999	2015-04-14 00:00:00	2015-04-07 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+196165	2015092925723	2015-09-15 00:00:00	2015-09-08 00:00:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+196166	2015121527585	2015-11-30 00:00:00	2015-11-15 00:00:00	BHM	Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
+204794	2016032129904	2016-03-03 00:00:00	2016-02-05 12:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.06	Approve in Full
+204796	2017013037057	2016-12-19 00:00:00	2016-11-27 09:25:00	BHM	Birmingham International Airport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		181.16	Approve in Full
+204797	2016042530784	2016-04-06 00:00:00	2016-03-23 00:00:00	BHM	Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+204800	2016092333828	2016-08-05 00:00:00	2016-07-07 14:08:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+204802	2017010636318	2016-11-17 00:00:00	2016-11-02 00:00:00	BHM	Birmingham International Airport		Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
+204803	2017010436248	2016-11-14 00:00:00	2016-11-07 07:02:00	BHM	Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			In Review
+213042	2017042839110	2017-03-01 00:00:00	2017-02-19 00:00:00	BHM	 Birmingham International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+213047	2017041338552	2017-02-15 00:00:00	2017-01-19 09:05:00	BHM	 Birmingham International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
+213049	2017101744440	2017-09-18 00:00:00	2017-09-10 00:00:00	BHM	 Birmingham International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		4.25	Approve in Full

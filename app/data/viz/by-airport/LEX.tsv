@@ -1,0 +1,74 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+2477	0211029L	2003-02-11 00:00:00	2003-01-24 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checked Baggage	26.75	Other	Settled	13.38	Settle
+5343	0421062L	2003-04-21 00:00:00	2003-03-12 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checked Baggage	42.95	Clothing & Accessories	Approved	42.95	Approve in Full
+12074	0729249M	2003-07-29 00:00:00	2003-07-05 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checkpoint	800.0	Electronics	Settled	662.02	Settle
+23778	0105119M	2004-01-05 00:00:00	2003-12-25 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checked Baggage	125.0	Other	Denied	125.0	Deny
+29177	2004051351686	2004-02-27 00:00:00	2004-01-28 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checkpoint	360.0	Musical Intruments	Settled	162.0	Settle
+33671	2004060254381	2004-04-23 00:00:00	2004-03-28 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	349.98	Electronics	Settled	300.0	Settle
+35737	2004061756123	2004-05-19 00:00:00	2004-02-14 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checked Baggage	65.15	Other	Settled	32.5	Settle
+37392	2004070258228	2004-06-08 00:00:00	2004-05-17 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checked Baggage	28.6	Other	Approved	28.6	Approve in Full
+37886	2004070658448	2004-06-16 00:00:00	2004-06-03 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Checked Baggage	331.42	Cosmetics	Approved	331.42	Approve in Full
+42991	2004092964161	2004-08-23 00:00:00	2004-08-06 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Checked Baggage	19.98	Other	Canceled	0.0	
+60849	2005040681655	2005-04-05 00:00:00	2005-03-03 00:00:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checkpoint	491.79	Clothing & Accessories	Denied	0.0	Deny
+61717	2005041582648	2005-04-14 00:00:00	2005-03-17 00:00:00	LEX	Blue Grass ,Lexington	Continental Airlines	Passenger Property Loss	Checked Baggage	45.28	Supplies	Approved	45.28	Approve in Full
+63628	2005051684689	2005-05-11 00:00:00	2005-04-21 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Watches & Jewelry	Canceled	0.0	
+65299	2005061086238	2005-06-02 00:00:00	2005-05-08 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checked Baggage	590.0	Watches & Jewelry	Canceled	0.0	
+67537	2005071188599	2005-07-06 00:00:00	2005-04-07 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	368.86	Electronics	Denied	0.0	Deny
+71228	2005090992309	2005-08-31 00:00:00	2005-07-23 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Checked Baggage	89.68	Supplies	Denied	0.0	Deny
+72440	2005100393645	2005-09-20 00:00:00	2005-08-25 00:00:00	LEX	Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage	141.5	Other	Denied	0.0	Deny
+74851	2005111496040	2005-11-01 00:00:00	2005-10-24 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
+75276	2005112596450	2005-11-10 00:00:00	2005-11-04 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.95	Tools & Machines	Approved	7.95	Approve in Full
+75586	2005112896626	2005-11-15 00:00:00	2005-11-02 00:00:00	LEX	Blue Grass ,Lexington	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Settled	90.0	Settle
+78634	2006011899761	2006-01-11 00:00:00	2005-12-26 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	743.58	Clothing & Accessories	Denied	0.0	Deny
+79663	2006020300926	2006-01-26 00:00:00	2006-01-01 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	547.99	Other	Settled	273.99	Settle
+88912	2006072710193	2006-07-25 00:00:00	2005-09-20 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	1076.32	Clothing & Accessories	Denied	0.0	Deny
+89131	2006080810561	2006-07-31 00:00:00	2006-06-02 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.2	Tools & Machines	Approved	21.2	Approve in Full
+89845	2006081511037	2006-08-14 00:00:00	2006-06-05 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Other	124.99	Clothing & Accessories	Denied	0.0	Deny
+103209	2007042524453	2007-04-23 00:00:00	2007-04-15 00:00:00	LEX	Blue Grass ,Lexington	Continental Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
+104575	2007052225812	2007-05-21 00:00:00	2007-05-08 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Checked Baggage	105.0	Watches & Jewelry	Denied	0.0	Deny
+108738	2007080929949	2007-08-08 00:00:00	2007-08-05 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	215.98	Watches & Jewelry	Settled	107.99	Settle
+110506	2007091431909	2007-09-11 00:00:00	2007-08-08 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+113210	2007110634544	2007-11-05 00:00:00	2007-11-01 00:00:00	LEX	Blue Grass ,Lexington	American Eagle	Passenger Property Loss	Checked Baggage	90.0	Outdoors Supplies	Denied	0.0	Deny
+114872	2007121136384	2007-12-07 00:00:00	2007-11-21 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checked Baggage	63.95	Musical Intruments,Other	Denied	0.0	Deny
+122449	2008050944053	2008-05-07 00:00:00	2008-04-24 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
+124522	2008062746269	2008-06-23 00:00:00	2008-06-14 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Checkpoint	79.0	Cosmetics	Denied	0.0	Deny
+132611	2009011454479	2009-01-08 00:00:00	2008-11-27 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Denied	0.0	Deny
+136835	2009051959010	2009-04-30 00:00:00	2009-04-20 00:00:00	LEX	Blue Grass ,Lexington	Northwest Airlines	Passenger Property Loss	Checked Baggage	339.17	Electronics,Games & Toys	Denied	0.0	Deny
+137194	2009042958079	2009-05-12 00:00:00	2009-03-04 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checked Baggage	11.72	Tools & Machines	Denied	0.0	Deny
+138405	2009061860368	2009-06-16 00:00:00	2009-06-08 00:00:00	LEX	Blue Grass ,Lexington	UAL	Passenger Property Loss	Checked Baggage	79.0	Clothing & Accessories	Canceled	0.0	
+141627	2009092163872	2009-09-11 00:00:00	2009-08-24 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	72.38	Office Supplies,Clothing & Accessories	Denied	0.0	Deny
+141849	2009092463959	2009-09-17 00:00:00	2009-09-08 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.99	Tools & Machines	Denied	0.0	Deny
+144189	2009120966282	2009-12-01 00:00:00	2009-10-26 06:00:00	LEX	Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checkpoint	76.11	Electronics	Denied	0.0	Deny
+146345	2010031169478	2010-03-03 00:00:00	2010-01-11 10:00:00	LEX	Blue Grass ,Lexington	UAL	Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
+147237	2010040270322	2010-03-31 00:00:00	2010-03-29 06:30:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+148306	2010051071641	2010-05-03 00:00:00	2010-04-21 13:20:00	LEX	Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Cosmetics			
+154433	2010111577830	2010-11-05 00:00:00	2010-10-14 11:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checkpoint		Outdoors Supplies		603.78	Settle
+154899	2010112878298	2010-11-19 00:00:00	2010-10-27 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+157345	2011030280744	2011-02-08 00:00:00	2011-01-23 17:30:00	LEX	Blue Grass ,Lexington		Passenger Property Loss	Checkpoint		Electronics,Electronics,Electronics		156.98	Approve in Full
+158100	2011033181571	2011-03-07 00:00:00	2011-03-02 00:00:00	LEX	Blue Grass ,Lexington	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+160257	2011052583779	2011-05-16 00:00:00	2011-05-06 00:00:00	LEX	Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+162258	2011080585840	2011-07-20 00:00:00	2011-07-02 06:45:00	LEX	Blue Grass ,Lexington	Continental Airlines	Passenger Property Loss	Checked Baggage		Other		52.44	Settle
+165353	2011110888749	2011-11-01 00:00:00	2011-10-23 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		67.0	Approve in Full
+166519	2012011090101	2011-12-13 00:00:00	2011-12-04 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+168691	2012040392394	2012-02-23 00:00:00	2012-01-01 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		41.9	Approve in Full
+169253	2012042493146	2012-03-15 00:00:00	2012-03-12 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+170864	2012060494479	2012-05-11 00:00:00	2012-05-06 00:00:00	LEX	Blue Grass ,Lexington	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+171270	2012062594902	2012-05-29 00:00:00	2012-05-19 07:15:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			
+176106	2013010999695	2012-11-21 00:00:00	2012-10-07 20:55:00	LEX	Blue Grass ,Lexington	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics			
+187443	2014012811199	2014-01-23 00:00:00	2013-12-13 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checked Baggage		Electronics		316.94	Approve in Full
+189414	2014041413214	2014-04-11 00:00:00	2014-04-07 00:00:00	LEX	Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+190201	2014051914015	2014-05-13 00:00:00	2014-05-09 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checked Baggage		Food & Drink			
+190664	2014060914486	2014-06-09 00:00:00	2014-05-14 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+191848	2014080515697	2014-07-21 00:00:00	2014-06-17 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checkpoint		Electronics			
+194288	2014110318186	2014-10-24 00:00:00	2014-10-03 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checkpoint		Containers		0.0	Deny
+194634	2014112518543	2014-11-25 00:00:00	2014-11-19 00:00:00	LEX	Blue Grass ,Lexington	USAir	Passenger Property Loss	Checkpoint		Electronics			
+200374	2015073024347	2015-07-23 00:00:00	2015-07-10 00:00:00	LEX	Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Cosmetics		0.0	Deny
+200375	2015091625385	2015-09-16 00:00:00	2015-08-30 00:00:00	LEX	Blue Grass ,Lexington	UAL	Passenger Property Loss	Checked Baggage		Food & Drink			
+200376	2015100225852	2015-09-22 00:00:00	2015-08-19 00:00:00	LEX	Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+208893	2016032530069	2016-03-11 00:00:00	2016-02-16 15:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		275.0	Approve in Full
+208897	2016040430334	2016-03-17 00:00:00	2016-03-04 00:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+208898	2016071432705	2016-07-14 00:00:00	2016-06-01 00:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+208900	2017020837369	2017-01-03 00:00:00	2016-12-23 00:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	Allegiant Air	Passenger Property Loss	Checkpoint		Other			In Review
+217185	2017112945572	2017-11-03 00:00:00	2017-10-09 11:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
+217186	2017072641856	2017-07-11 00:00:00	2017-06-12 11:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories		185.0	Approve in Full
+217187	2017080142017	2017-06-22 00:00:00	2017-06-21 00:00:00	LEX	Blue Grass ,Lexington Blue Grass ,Lexington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient

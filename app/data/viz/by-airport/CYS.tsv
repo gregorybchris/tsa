@@ -1,0 +1,10 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+108930	2007081430205	2007-08-13 00:00:00	2007-08-05 00:00:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	UAL	Passenger Property Loss	Checked Baggage	338.08	Electronics,Electronics,Cosmetics	Denied	0.0	Deny
+116612	2008011738110	2008-01-11 00:00:00	2007-12-27 00:00:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	Frontier Airlines	Passenger Property Loss	Checked Baggage	145.0	Electronics,Electronics	Denied	0.0	Deny
+119327	2008031441042	2008-03-06 00:00:00	2008-02-19 00:00:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	Great Lakes Airline	Passenger Property Loss	Checked Baggage	98.0	Clothing & Accessories,Clothing & Accessories	Denied	0.0	Deny
+163744	2011092987241	2011-09-07 00:00:00	2011-08-22 05:20:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+164992	2011111588987	2011-10-19 00:00:00	2011-09-18 00:00:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	American Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+165473	2011111588979	2011-11-04 00:00:00	2011-10-07 12:15:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+171085	2012061094714	2012-05-21 00:00:00	2012-05-14 12:30:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+194442	2014111418345	2014-11-06 00:00:00	2014-10-06 00:00:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+213798	2017051139420	2017-04-10 00:00:00	2017-03-28 00:00:00	CYS	Cheyenne Regional Airport - Jerry Olson Field	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny

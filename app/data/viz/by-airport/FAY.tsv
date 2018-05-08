@@ -1,0 +1,13 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+52932	2005011273557	2004-12-27 00:00:00	2004-10-09 00:00:00	FAY	Fayetteville Regional		Passenger Property Loss	Checked Baggage	599.0	Electronics	Denied		Deny
+54826	2005020275363	2005-01-19 00:00:00	2005-01-05 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checked Baggage	75.0	Other	Approved	75.0	Approve in Full
+84836	2006050905763	2006-05-04 00:00:00	2006-04-21 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checked Baggage	149.53	Watches & Jewelry	Settled	75.0	Settle
+96062	2006121517178	2006-12-12 00:00:00	2006-11-28 00:00:00	FAY	Fayetteville Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	342.92	Electronics	Denied	0.0	Deny
+97270	2007010518362	2007-01-03 00:00:00	2006-11-17 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checkpoint	143.95	Other	Denied	0.0	Deny
+108910	2007081530345	2007-08-13 00:00:00	2007-07-28 00:00:00	FAY	Fayetteville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Canceled	0.0	
+126711	2008081348540	2008-08-08 00:00:00	2008-06-26 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checkpoint	96.05	Clothing & Accessories	Denied	0.0	Deny
+136171	2009042457980	2009-04-13 00:00:00	2009-04-12 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checked Baggage	22.0	Tools & Machines,Containers	Denied	0.0	Deny
+160944	2011061784445	2011-06-08 00:00:00	2011-05-25 11:55:00	FAY	Fayetteville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+168004	2012031391665	2012-01-31 00:00:00	2011-11-20 08:30:00	FAY	Fayetteville Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+175396	2012120599078	2012-10-24 00:00:00	2012-10-01 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
+188063	2014022011832	2014-02-14 00:00:00	2014-01-15 00:00:00	FAY	Fayetteville Regional	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny

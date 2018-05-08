@@ -1,0 +1,6 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+67233	2005070588201	2005-06-30 00:00:00	2005-05-15 00:00:00	GCC	Gillette-Campbell County		Passenger Property Loss	Checkpoint	362.34	Electronics	Denied	0.0	Deny
+75539	2005112996704	2005-11-15 00:00:00	2005-11-18 00:00:00	GCC	Gillette-Campbell County		Passenger Property Loss	Checked Baggage	206.7	Other	Denied	0.0	Deny
+129874	2008110451762	2008-10-24 00:00:00	2008-10-20 00:00:00	GCC	Gillette-Campbell County	Great Lakes Airline	Passenger Property Loss	Checked Baggage	79.85	Containers	Denied	0.0	Deny
+153612	2010090775683	2010-10-12 00:00:00	2010-08-15 08:50:00	GCC	Gillette-Campbell County		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+155346	2010121578792	2010-12-06 00:00:00	2010-11-16 12:45:00	GCC	Gillette-Campbell County	UAL	Passenger Property Loss	Checked Baggage		Containers,Food & Drink		0.0	Deny

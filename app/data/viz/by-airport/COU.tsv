@@ -1,0 +1,18 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+36196	2004061756189	2004-05-27 00:00:00	2004-04-22 00:00:00	COU	Columbia, MO		Passenger Property Loss	Checked Baggage	381.33	Clothing & Accessories	Denied	0.0	Deny
+44649	2004112667829	2004-09-12 00:00:00	2004-09-30 00:00:00	COU	Columbia, MO	American Airlines	Passenger Property Loss	Checkpoint	4855.0	Watches & Jewelry	Settled	1890.0	Settle
+61348	0107390M	2005-04-08 00:00:00	2003-12-03 00:00:00	COU	Columbia, MO	American Airlines	Passenger Property Loss	Checked Baggage	252.0	Clothing & Accessories	Settled	176.4	Settle
+74652	2005111095964	2005-10-28 00:00:00	2005-09-18 00:00:00	COU	Columbia, MO	American Eagle	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
+94893	2006112416197	2006-11-20 00:00:00	2006-11-09 00:00:00	COU	Columbia, MO	USAir	Passenger Property Loss	Checked Baggage	6.0	Cosmetics	Denied	0.0	Deny
+103966	2007051025224	2007-05-08 00:00:00	2007-04-29 00:00:00	COU	Columbia, MO	USAir	Passenger Property Loss	Checked Baggage	21.52	Tools & Machines	Denied	0.0	Deny
+106262	2007062927621	2007-06-22 00:00:00	2007-05-27 00:00:00	COU	Columbia, MO		Passenger Property Loss	Checked Baggage	190.0	Other,Other	Settled	90.0	Settle
+131620	2008121853504	2008-12-10 00:00:00	2008-11-24 00:00:00	COU	Columbia, MO	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+134972	2009032656937	2009-03-11 00:00:00	2009-02-01 00:00:00	COU	Columbia, MO	Northwest Airlines	Passenger Property Loss	Checked Baggage	1042.27	Watches & Jewelry	Denied	0.0	Deny
+136556	2009050458307	2009-04-23 00:00:00	2009-04-21 00:00:00	COU	Columbia, MO	Delta Air Lines	Passenger Property Loss	Checked Baggage	121.0	Cosmetics,Cosmetics,Outdoors Supplies	Denied	0.0	Deny
+156172	2011011379553	2011-01-05 00:00:00	2010-12-22 16:30:00	COU	Columbia, MO	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+159515	2011042582966	2011-04-21 00:00:00	2011-03-28 11:30:00	COU	Columbia, MO	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+160448	2011060283954	2011-05-23 00:00:00	2011-05-12 11:00:00	COU	Columbia, MO	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics,Cosmetics,Watches & Jewelry		0.0	Deny
+174953	2012103198228	2012-10-09 00:00:00	2012-09-17 16:30:00	COU	Columbia, MO	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+192834	2014091816709	2014-08-26 00:00:00	2014-07-07 00:00:00	COU	Columbia, MO	American Airlines	Passenger Property Loss	Checked Baggage		Other			
+205581	2016072032811	2016-06-27 00:00:00	2016-05-14 06:00:00	COU	Columbia, MO Columbia, MO	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry		0.0	Deny
+213774	2017062140907	2017-06-07 00:00:00	2017-06-05 06:05:00	COU	Columbia, MO Columbia, MO	Not Provided	Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient

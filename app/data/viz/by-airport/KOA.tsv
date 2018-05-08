@@ -1,0 +1,330 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+2948	0225069L	2003-02-25 00:00:00	2003-01-25 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	300.0	Cosmetics	Settled	150.0	Settle
+12327	0801081M	2003-08-01 00:00:00	2003-07-18 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
+23766	0105092M	2004-01-05 00:00:00	2003-12-13 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	11.95	Tools & Machines	Denied	0.0	Deny
+26086	0130025M	2004-01-30 00:00:00	2004-01-10 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	2472.5	Electronics	Settled	794.86	Settle
+28374	0219667M	2004-02-19 00:00:00	2004-02-04 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	35.0	Other	Settled	17.5	Settle
+28761	0226265M	2004-02-26 00:00:00	2004-02-16 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	150.0	Cosmetics	Approved	150.0	Approve in Full
+29703	2004043050282	2004-03-10 00:00:00	2003-12-17 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
+30326	2004052453129	2004-03-12 00:00:00	2004-02-05 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint	14.95	Other	Denied	0.0	Deny
+30735	2004051852661	2004-03-18 00:00:00	2004-03-09 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	75.0	Other	Denied		Deny
+32899	2004060154065	2004-04-21 00:00:00	2004-02-20 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checkpoint	460.0	Clothing & Accessories	Approved	460.0	Approve in Full
+33017	2004060354605	2004-04-21 00:00:00	2004-03-26 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	126.0	Clothing & Accessories	Canceled	0.0	
+33799	2004051852792	2004-05-03 00:00:00	2004-03-29 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	99.99	Other	Approved	99.99	Approve in Full
+34398	2004061655963	2004-05-04 00:00:00	2004-04-16 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2010.0	Other	Denied	0.0	Deny
+34626	2004061455600	2004-05-05 00:00:00	2004-04-26 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage		Other	Canceled		
+35302	2004061756133	2004-05-13 00:00:00		KOA	Kona International		Passenger Property Loss	Checkpoint		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+35433	2004062357017	2004-05-18 00:00:00	2004-04-19 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	53.16	Other	Approved	53.16	Approve in Full
+35681	2004062256879	2004-05-19 00:00:00	2004-05-12 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checkpoint	1082.5	Watches & Jewelry	Denied	0.0	Deny
+37073	2004062857515	2004-06-04 00:00:00	2003-04-07 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	519.58	Electronics	Approved	519.58	Approve in Full
+37205	2004062857593	2004-06-07 00:00:00	2004-04-29 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+37371	2004070158075	2004-06-08 00:00:00	2004-05-15 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	89.82	Electronics	Approved	89.82	Approve in Full
+37823	2004070458262	2004-06-16 00:00:00	2004-05-01 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	21.88	Other	Approved	21.88	Approve in Full
+39200	2004071959708	2004-07-06 00:00:00	2004-05-29 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	31.96	Other	Denied	0.0	Deny
+40759	2004082761518	2004-07-21 00:00:00	2004-06-10 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	74.95	Other	Denied	74.95	Deny
+41699	2004090762189	2004-08-05 00:00:00	2004-06-29 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	10.83	Tools & Machines	Approved	10.83	Approve in Full
+42081	2004091062615	2004-08-09 00:00:00	2004-06-29 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	112.0	Electronics	Denied	0.0	Deny
+42755	2004092263544	2004-08-19 00:00:00	2004-07-28 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	8.0	Containers	Approved	8.0	Approve in Full
+42933	2004092964178	2004-08-19 00:00:00	2004-08-09 00:00:00	KOA	Kona International	Air Canada	Passenger Property Loss	Checked Baggage	506.66	Clothing & Accessories	Settled	175.52	Settle
+43257	2004092763871	2004-08-24 00:00:00	2004-07-20 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	2038.91	Watches & Jewelry	Settled	790.89	Settle
+43880	2004100664684	2004-09-01 00:00:00	2004-08-11 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	72.88	Other	Approved	72.88	Approve in Full
+43885	2004111566982	2004-09-01 00:00:00	2004-09-19 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+44304	2004102765763	2004-09-09 00:00:00	2004-07-03 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	628.0	Other	Denied		Deny
+44491	2004101364954	2004-09-10 00:00:00	2004-07-15 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	600.0	Other	Canceled		
+45666	2004120768646	2004-09-23 00:00:00	2004-09-02 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+47942	2004120568559	2004-10-20 00:00:00	2004-09-03 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	85.98	Other	Settled	74.99	Settle
+50050	2004122270397	2004-11-16 00:00:00	2004-10-26 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+50651	2004122871196	2004-11-23 00:00:00	2004-09-17 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	322.21	Other	Settled	161.11	Settle
+52369	2005010672957	2004-12-18 00:00:00	2004-10-31 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	25.88	Other	Approved	25.88	Approve in Full
+53394	2005012474151	2005-01-04 00:00:00	2004-10-01 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	13.0	Tools & Machines	Approved	13.0	Approve in Full
+53572	2005020275327	2005-01-04 00:00:00	2004-12-12 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint	129.98	Electronics	Denied	129.98	Deny
+53626	2005012574239	2005-01-04 00:00:00	2004-12-13 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	185.0	Musical Intruments	Settled	92.5	Settle
+54036	2005012874675	2005-01-11 00:00:00	2004-12-27 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	267.81	Watches & Jewelry	Approved	267.81	Approve in Full
+54469	2005013174975	2005-01-14 00:00:00	2004-12-31 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	7.0	Tools & Machines	Approved	7.0	Approve in Full
+54761	2005020175235	2005-01-18 00:00:00	2004-12-23 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	250.0	Other	Denied		Deny
+55445	2005032279350	2005-01-25 00:00:00	2005-01-13 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
+55756	2005022276532	2005-01-27 00:00:00	2005-01-06 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	199.5	Clothing & Accessories	Denied	0.0	Deny
+55982	2005030476932	2005-02-01 00:00:00	2004-12-09 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
+56303	2005031177755	2005-02-01 00:00:00	2005-01-16 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	1634.13	Electronics	Settled	396.55	Settle
+56894	2005030977406	2005-02-09 00:00:00	2005-01-14 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
+56923	2005031177701	2005-02-09 00:00:00	2005-01-27 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	14500.0	Other	Denied	0.0	Deny
+57921	2005032279122	2005-02-24 00:00:00	2005-02-01 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	403.86	Electronics	Denied		Deny
+58358	2005032279251	2005-03-04 00:00:00	2004-12-27 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	683.66	Electronics	Denied	0.0	Deny
+58496	2005032479684	2005-03-07 00:00:00	2005-02-10 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	545.0	Clothing & Accessories	Approved	545.0	Approve in Full
+59415	2005032980189	2005-03-16 00:00:00	2005-02-05 00:00:00	KOA	Kona International	Air Canada	Passenger Property Loss	Checked Baggage	315.0	Other	Denied	0.0	Deny
+59930	2005033180740	2005-03-23 00:00:00	2005-03-02 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Other	Denied	0.0	Deny
+60939	2005040681803	2005-04-05 00:00:00	2005-03-26 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	2414.48	Other	Settled	1151.27	Settle
+62896	2005050283788	2005-04-29 00:00:00	2005-04-02 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	74.79	Other	Denied	0.0	Deny
+63496	2005051084424	2005-05-10 00:00:00	2004-09-13 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Approved	150.0	Approve in Full
+64034	2005052085142	2005-05-17 00:00:00	2005-05-04 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+64962	2005060785937	2005-05-31 00:00:00	2005-04-30 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	350.43	Clothing & Accessories	Denied	0.0	Deny
+65490	2005061486386	2005-06-06 00:00:00	2005-04-26 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+66749	2005062887616	2005-06-22 00:00:00	2005-06-03 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint	50.0	Other	Denied	0.0	Deny
+66833	2005063087881	2005-06-23 00:00:00	2005-12-07 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	1765.61	Electronics	Settled	504.99	Settle
+67029	2005070188132	2005-06-28 00:00:00	2005-06-14 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
+67439	2005071188590	2005-07-05 00:00:00	2005-06-23 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	2109.96	Electronics	Settled	487.88	Settle
+67906	2005071488885	2005-07-13 00:00:00	2005-06-24 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	80.0	Watches & Jewelry	Canceled	0.0	
+68149	2005071589051	2005-07-14 00:00:00	2005-06-15 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	225.86	Cosmetics	Settled	112.93	Settle
+68570	2005072589601	2005-07-22 00:00:00	2005-07-11 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	38.4	Other	Approved	38.4	Approve in Full
+68998	2005080390003	2005-07-28 00:00:00	2005-07-07 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	44.28	Clothing & Accessories	Approved	44.28	Approve in Full
+69208	2005081090309	2005-08-01 00:00:00	2005-07-14 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	800.0	Watches & Jewelry	Denied	0.0	Deny
+69373	2005081290487	2005-08-02 00:00:00	2005-07-22 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint	81.25	Clothing & Accessories	Denied	0.0	Deny
+69730	2005081790726	2005-08-08 00:00:00	2005-07-24 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	500.0	Other	Settled	250.0	Settle
+70677	2005083091844	2005-08-23 00:00:00	2005-07-28 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	999.99	Electronics	Denied	0.0	Deny
+70993	2005090292080	2005-08-29 00:00:00	2005-08-20 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	82.8	Other	Denied	0.0	Deny
+71673	2005091992849	2005-09-09 00:00:00	2005-07-23 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	23.4	Musical Intruments	Approved	23.4	Approve in Full
+72569	2005100393614	2005-09-22 00:00:00	2005-07-22 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+73079	2005100794270	2005-10-03 00:00:00	2005-08-09 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+73328	2005101394525	2005-10-05 00:00:00	2005-09-11 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage	23.35	Tools & Machines	Approved	23.35	Approve in Full
+73638	2005101894745	2005-10-12 00:00:00	2005-09-29 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	25.0	Electronics	Denied	0.0	Deny
+74288	2005110195491	2005-10-24 00:00:00	2005-10-17 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Approved	85.0	Approve in Full
+75660	2005120196757	2005-11-18 00:00:00	2005-10-06 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	73.5	Cosmetics	Approved	73.5	Approve in Full
+75971	2005120797191	2005-11-22 00:00:00		KOA	Kona International		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+76062	2005120897387	2005-11-28 00:00:00	2005-10-27 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+76463	2005121297508	2005-12-02 00:00:00	2005-11-26 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+76761	2005121497769	2005-12-07 00:00:00	2005-09-27 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checkpoint		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+77054	2005121997998	2005-12-13 00:00:00	2005-12-04 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	382.5	Watches & Jewelry	Settled	191.25	Settle
+77067	2005122198176	2005-12-14 00:00:00	2005-10-24 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	72.14	Other	Approved	72.14	Approve in Full
+77358	2005122898557	2005-12-20 00:00:00	2005-12-07 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+77390	2005122798412	2005-12-21 00:00:00	2005-10-16 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	290.93	Clothing & Accessories	Denied	0.0	Deny
+77649	2006010598792	2005-12-27 00:00:00	2005-11-27 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	2888.57	Clothing & Accessories	Denied	0.0	Deny
+77784	2006010598769	2005-12-28 00:00:00	2005-12-11 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	118.0	Clothing & Accessories	Settled	59.0	Settle
+77804	2006010698974	2005-12-28 00:00:00	2005-11-16 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	295.0	Clothing & Accessories	Settled	193.75	Settle
+77938	2006010999130	2006-01-03 00:00:00	2005-10-17 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Denied	0.0	Deny
+78196	2006011199403	2006-01-06 00:00:00	2005-12-21 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	21.55	Tools & Machines	Approved	21.55	Approve in Full
+79359	2006012600450	2006-01-23 00:00:00	2005-11-30 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	278.0	Other	Settled	189.67	Settle
+79590	2006020200792	2006-01-26 00:00:00	2006-01-07 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	39.95	Other	Approved	39.95	Approve in Full
+79759	2006020300921	2006-01-30 00:00:00	2006-01-21 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Other	Approved	16.0	Approve in Full
+79920	2006020701096	2006-01-31 00:00:00	2006-01-17 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	3000.0	Electronics	In litigation		Settle
+79975	2006020801150	2006-02-01 00:00:00	2005-10-22 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	191.25	Electronics	Denied	0.0	Deny
+79978	2006021001379	2006-02-01 00:00:00	2006-01-14 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	337.39	Electronics	Denied	0.0	Deny
+80934	2006022302036	2006-02-17 00:00:00	2006-02-04 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	1505.94	Electronics	Settled	882.21	Settle
+81258	2006022802287	2006-02-24 00:00:00	2006-02-13 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	380.73	Watches & Jewelry	Settled	190.37	Settle
+81643	2006030902855	2006-03-06 00:00:00	2006-01-23 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	12.55	Tools & Machines	Approved	12.55	Approve in Full
+82542	2006032703685	2006-03-21 00:00:00	2006-03-07 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	119.68	Other	Canceled	0.0	
+82950	2006040604175	2006-03-28 00:00:00	2006-03-22 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	78.0	Other	Canceled	0.0	
+82964	2006040604113	2006-03-28 00:00:00	2006-02-24 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	12.0	Other	Denied	0.0	Deny
+83566	2006041904779	2006-04-10 00:00:00	2006-03-24 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	9.12	Tools & Machines	Approved	9.12	Approve in Full
+83714	2006041904777	2006-04-11 00:00:00	2006-03-24 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	332.46	Electronics	Settled	166.23	Settle
+83721	2006042004877	2006-04-11 00:00:00	2006-02-01 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	410.0	Watches & Jewelry	Settled	205.0	Settle
+85175	2006051606407	2006-05-12 00:00:00	2006-04-22 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Canceled	0.0	
+85371	2006051906598	2006-05-17 00:00:00	2006-04-21 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	11.0	Tools & Machines	Approved	11.0	Approve in Full
+86144	2006060607409	2006-06-01 00:00:00	2006-05-22 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	87.0	Clothing & Accessories	Settled	43.5	Settle
+86606	2006061307834	2006-06-12 00:00:00	2006-04-19 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	968.98	Electronics,Electronics	Denied	0.0	Deny
+87017	2006062008284	2006-06-19 00:00:00	2006-05-20 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checkpoint	70503.0	Watches & Jewelry	Denied	0.0	Deny
+87523	2006062908731	2006-06-28 00:00:00	2006-06-06 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	99.95	Other	Settled	50.0	Settle
+87529	2006070308852	2006-06-28 00:00:00	2006-06-05 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	264.23	Electronics,Watches & Jewelry	Settled	111.93	Settle
+87942	2006071209313	2006-07-07 00:00:00	2006-06-29 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Canceled	0.0	
+87965	2006071009211	2006-07-07 00:00:00	2006-06-28 00:00:00	KOA	Kona International	Continental Airlines	Passenger Property Loss	Checked Baggage	6.0	Other	Denied	0.0	Deny
+88003	2006071009183	2006-07-07 00:00:00	2006-06-16 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	287.0	Electronics,Electronics	Settled	142.5	Settle
+88351	2006071409519	2006-07-13 00:00:00	2006-07-08 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage		Electronics,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+88603	2006072009818	2006-07-18 00:00:00	2006-01-15 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	170.0	Clothing & Accessories	Settled	146.99	Settle
+89754	2006081511075	2006-08-11 00:00:00	2006-07-28 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	21.89	Tools & Machines	Denied	0.0	Deny
+90062	2006081811289	2006-08-17 00:00:00	2006-08-01 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	595.0	Watches & Jewelry	Denied	0.0	Deny
+90178	2006082311382	2006-08-18 00:00:00	2006-06-26 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	83.0	Clothing & Accessories	Settled	41.5	Settle
+90298	2006082811690	2006-08-21 00:00:00	2006-03-17 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	42.95	Outdoors Supplies	Settled	21.5	Settle
+90458	2006082811698	2006-08-24 00:00:00	2006-08-18 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	220.0	Other	Denied	0.0	Deny
+90676	2006083111871	2006-08-28 00:00:00	2006-07-31 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	299.9	Electronics	Settled	119.16	Settle
+90917	2006090812265	2006-09-01 00:00:00	2006-08-17 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	810.0	Watches & Jewelry	Denied	0.0	Deny
+92297	2006100213523	2006-09-28 00:00:00	2006-09-23 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Settled	15.0	Settle
+92888	2006101213916	2006-10-11 00:00:00	2006-09-28 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	228.2	Cosmetics,Watches & Jewelry	Settled	114.1	Settle
+93090	2006102314390	2006-10-16 00:00:00	2006-10-05 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	1190.71	Electronics	Denied	0.0	Deny
+93711	2006110615172	2006-10-26 00:00:00	2006-10-21 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	45.0	Electronics	Denied	0.0	Deny
+93768	2006110215095	2006-10-27 00:00:00	2006-10-20 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	365.0	Outdoors Supplies	Denied	0.0	Deny
+93846	2006110315135	2006-10-30 00:00:00	2006-10-23 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	490.62	Clothing & Accessories,Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+93993	2006110315150	2006-11-02 00:00:00	2006-10-21 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	121.54	Clothing & Accessories	Approved	121.54	Approve in Full
+94998	2006112816291	2006-11-21 00:00:00	2006-11-01 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	332.25	Containers,Other	Denied	0.0	Deny
+95436	2006120516664	2006-11-30 00:00:00	2006-09-22 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	375.0	Electronics	Denied	0.0	Deny
+95533	2006120816857	2006-12-01 00:00:00	2006-11-13 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+96677	2006122717989	2006-12-26 00:00:00	2006-12-06 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	299.99	Electronics	Denied	0.0	Deny
+97415	2007010918497	2007-01-05 00:00:00	2006-12-29 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	192.0	Clothing & Accessories	Canceled	0.0	
+98540	2007013019829	2007-01-22 00:00:00	2007-01-04 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	147.5	Electronics	Settled	73.75	Settle
+98903	2007013119916	2007-01-26 00:00:00	2007-01-09 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	791.66	Clothing & Accessories	Settled	395.83	Settle
+99028	2007020120014	2007-01-29 00:00:00	2007-01-11 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	156.6	Tools & Machines	Settled	78.3	Settle
+99230	2007020220112	2007-02-02 00:00:00	2007-01-07 00:00:00	KOA	Kona International	Island Air	Passenger Property Loss	Checked Baggage	119.9	Clothing & Accessories	Denied	0.0	Deny
+100038	2007022221314	2007-02-16 00:00:00	2007-02-09 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	7.32	Tools & Machines	Approved	7.32	Approve in Full
+100109	2008010437298	2007-02-20 00:00:00	2007-12-17 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+100263	2007022621540	2007-02-22 00:00:00	2007-01-25 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	9.48	Tools & Machines	Approved	9.48	Approve in Full
+100842	2007030922047	2007-03-06 00:00:00	2007-02-21 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	5250.0	Watches & Jewelry	Denied	0.0	Deny
+101056	2007031422291	2007-03-12 00:00:00	2007-03-04 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	55.0	Games & Toys	Approved	55.0	Approve in Full
+101386	2007032322798	2007-03-16 00:00:00	2007-02-12 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	160.8	Outdoors Supplies	Approved	160.8	Approve in Full
+101891	2007032823136	2007-03-26 00:00:00	2007-02-25 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	550.0	Tools & Machines,Cosmetics,Scientific Intruments,Clothing & Accessories,Watches & Jewelry	Settled	209.5	Settle
+101900	2007032823124	2007-03-27 00:00:00	2007-03-15 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	49.0	Tools & Machines	Approved	49.0	Approve in Full
+102107	2007040223328	2007-03-29 00:00:00	2006-09-13 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+102318	2007040623589	2007-04-03 00:00:00	2007-03-05 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+103713	2007050424996	2007-05-02 00:00:00	2007-04-28 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	271.49	Electronics	Denied	0.0	Deny
+104553	2007053125984	2007-05-21 00:00:00	2007-03-24 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	107.07	Clothing & Accessories	Approved	107.07	Approve in Full
+105174	2007070527851	2007-06-03 00:00:00	2007-06-08 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	94.51	Cosmetics	Approved	94.51	Approve in Full
+105554	2007061226811	2007-06-08 00:00:00	2007-06-05 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	325.0	Other	Denied	0.0	Deny
+105758	2007061526985	2007-06-13 00:00:00	2007-05-16 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checkpoint	312.5	Clothing & Accessories	Settled	375.0	Settle
+106054	2007062127294	2007-06-19 00:00:00	2007-05-19 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	213.0	Clothing & Accessories	Settled	101.18	Settle
+106329	2007062927624	2007-06-25 00:00:00	2007-06-13 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics,Electronics,Games & Toys	Denied	0.0	Deny
+106448	2007062927662	2007-06-27 00:00:00	2007-05-16 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	19.5	Tools & Machines	Denied	0.0	Deny
+106560	2007070227697	2007-06-29 00:00:00	2007-06-28 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	342.0	Containers,Tools & Machines,Cosmetics,Supplies	Canceled	0.0	
+107497	2007072028767	2007-07-18 00:00:00	2007-06-23 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	48.89	Cosmetics	Denied	0.0	Deny
+107734	2007072529035	2007-07-23 00:00:00	2007-07-13 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	2240.0	Watches & Jewelry	Denied	0.0	Deny
+107847	2007080629638	2007-07-24 00:00:00	2007-07-07 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	12.98	Office Supplies	Denied	0.0	Deny
+108069	2007073129403	2007-07-27 00:00:00	2007-05-25 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
+108221	2007080129457	2007-07-31 00:00:00	2007-07-26 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	800.0	Containers,Electronics,Electronics,Other	Denied	0.0	Deny
+108540	2007080829816	2007-08-06 00:00:00	2007-07-30 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	74.12	Clothing & Accessories	Denied	0.0	Deny
+108732	2007081030091	2007-08-08 00:00:00	2007-07-31 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage	40.0	Electronics	Denied	0.0	Deny
+108848	2007081330122	2007-08-10 00:00:00	2007-08-02 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Denied	0.0	Deny
+108886	2007081430211	2007-08-13 00:00:00	2007-08-03 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	69.95	Clothing & Accessories	Approved	69.95	Approve in Full
+109379	2007082330767	2007-08-21 00:00:00	2007-08-10 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checkpoint	275.0	Clothing & Accessories,Other,Office Supplies,Supplies,Other	Denied	0.0	Deny
+109618	2007082430844	2007-08-24 00:00:00	2007-08-16 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	189.98	Electronics,Other	Denied	0.0	Deny
+110759	2007091932279	2007-09-14 00:00:00	2007-09-04 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	72.9	Electronics	Denied	0.0	Deny
+110853	2007091932278	2007-09-17 00:00:00	2007-08-21 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	62.65	Cosmetics,Other	Denied	0.0	Deny
+111166	2007092532477	2007-09-24 00:00:00	2006-09-24 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
+111428	2007100132781	2007-09-28 00:00:00	2007-09-18 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	61.95	Other	Denied	0.0	Deny
+111514	2007100332961	2007-10-01 00:00:00	2007-08-30 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checkpoint	800.0	Games & Toys	Denied	0.0	Deny
+112335	2007102233769	2007-10-17 00:00:00	2007-03-14 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checkpoint	312.0	Cosmetics,Electronics,Watches & Jewelry,Other	Denied	0.0	Deny
+112755	2007103134211	2007-10-26 00:00:00	2007-09-14 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	11.0	Tools & Machines	Approved	11.0	Approve in Full
+113630	2007112035242	2007-11-13 00:00:00	2007-11-15 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	9.59	Tools & Machines	Denied	0.0	Deny
+113804	2007112035219	2007-11-15 00:00:00	2007-09-27 00:00:00	KOA	Kona International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	52.8	Clothing & Accessories	Settled	26.4	Settle
+114001	2007112735533	2007-11-19 00:00:00	2007-10-20 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	290.0	Watches & Jewelry,Watches & Jewelry	Settled	145.0	Settle
+115804	2008010737404	2007-12-28 00:00:00	2007-12-04 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	21.65	Tools & Machines	Denied	0.0	Deny
+117268	2008013038865	2008-01-24 00:00:00	2007-12-29 00:00:00	KOA	Kona International	Air Canada	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
+117908	2008021239518	2008-02-05 00:00:00	2008-01-20 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checkpoint	370.0	Other	Denied	0.0	Deny
+118076	2008022240007	2008-02-08 00:00:00	2008-01-28 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	68.0	Household Items,Containers,Other	Denied	0.0	Deny
+119054	2008030740647	2008-02-29 00:00:00	2008-02-21 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	10.7	Tools & Machines	Denied	0.0	Deny
+119596	2008031941256	2008-03-12 00:00:00	2008-03-03 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	3353.81	Cosmetics,Watches & Jewelry,Containers	Denied	0.0	Deny
+120383	2008050643889	2008-03-27 00:00:00	2008-03-14 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	33.34	Other	Denied	0.0	Deny
+120899	2008041542534	2008-04-07 00:00:00	2008-04-03 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	1197.91	Containers	Denied	0.0	Deny
+121348	2008042243132	2008-04-14 00:00:00	2008-03-22 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	19.07	Other	Denied	0.0	Deny
+121788	2008042543403	2008-04-23 00:00:00	2008-04-17 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	76.0	Cosmetics,Other	Denied	0.0	Deny
+122028	2008050243700	2008-04-28 00:00:00	2008-01-14 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checked Baggage	150.0	Containers	Settled	135.38	Settle
+122111	2008050543781	2008-04-30 00:00:00	2008-04-25 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	34.95	Other	Approved	34.95	Approve in Full
+122549	2008042243152	2008-05-09 00:00:00	2008-03-14 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	338.95	Tools & Machines,Electronics	Denied	0.0	Deny
+122992	2008052344778	2008-05-19 00:00:00	2008-04-10 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	2131.0	Watches & Jewelry	Denied	0.0	Deny
+123179	2008043043640	2008-05-23 00:00:00	2008-04-11 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Canceled	0.0	
+123393	2008053045003	2008-05-28 00:00:00	2008-04-18 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+123537	2008060345181	2008-05-30 00:00:00	2008-05-08 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	6.22	Tools & Machines	Denied	0.0	Deny
+123891	2008061145535	2008-06-06 00:00:00	2007-12-02 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	89.95	Clothing & Accessories	Settled	44.98	Settle
+124552	2008062546124	2008-06-23 00:00:00	2008-06-06 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	143.96	Clothing & Accessories	Settled	71.98	Settle
+124859	2008070746591	2008-07-01 00:00:00	2008-06-20 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	175.52	Electronics,Containers,Other	Approved	175.52	Approve in Full
+125084	2008071146839	2008-07-07 00:00:00	2008-06-25 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	33.0	Other	Canceled	0.0	
+125710	2008071647014	2008-07-20 00:00:00	2008-07-07 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+126340	2008062746261	2008-08-01 00:00:00	2008-05-15 00:00:00	KOA	Kona International	Harmony Airlines	Passenger Property Loss	Checked Baggage	168.95	Electronics	Denied	0.0	Deny
+127508	2008082949259	2008-08-27 00:00:00	2008-08-23 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	419.98	Electronics	Denied	0.0	Deny
+128247	2008072947618	2008-09-15 00:00:00	2008-06-16 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	260.0	Electronics	Denied	0.0	Deny
+128768	2008092650554	2008-09-26 00:00:00	2008-09-02 00:00:00	KOA	Kona International	Go	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
+128805	2008100250691	2008-09-29 00:00:00	2008-09-21 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checkpoint	13.5	Other	Approved	13.5	Approve in Full
+129656	2008102351484	2008-10-20 00:00:00	2008-09-23 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	2569.37	Other,Weapons & Knives,Watches & Jewelry,Other	Denied	0.0	Deny
+130158	2008110651994	2008-10-31 00:00:00	2008-09-29 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	41.0	Other	Settled	20.5	Settle
+130448	2008111752329	2008-11-10 00:00:00	2008-10-27 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	49.95	Clothing & Accessories	Denied	0.0	Deny
+130533	2008111952476	2008-11-12 00:00:00	2008-02-15 00:00:00	KOA	Kona International	Aloha Airlines	Passenger Property Loss	Checked Baggage	1957.91	Electronics,Electronics,Electronics,Clothing & Accessories,Other,Games & Toys	Denied	0.0	Deny
+131626	2008121853526	2008-12-10 00:00:00	2008-08-01 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checked Baggage	2300.0	Watches & Jewelry	Denied	0.0	Deny
+132063	2009010553997	2008-12-22 00:00:00	2009-09-17 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	70.0	Outdoors Supplies	Denied	0.0	Deny
+132087	2008123153973	2008-12-22 00:00:00	2008-12-11 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
+132204	2009010554071	2008-12-29 00:00:00	2008-12-13 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	22.0	Food & Drink	Denied	0.0	Deny
+132966	2009012354890	2009-01-15 00:00:00	2008-12-20 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint	10.0	Household Decor	Approved	10.0	Approve in Full
+134059	2009030955977	2009-02-15 00:00:00	2009-02-15 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	160.99	Household Items,Watches & Jewelry	Denied	0.0	Deny
+134442	2009031756358	2009-02-26 00:00:00	2009-01-20 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	79.99	Other	Denied	0.0	Deny
+134738	2009032556884	2009-03-05 00:00:00	2009-02-08 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	6.44	Tools & Machines	Denied	0.0	Deny
+135028	2009033157047	2009-03-12 00:00:00	2009-03-02 00:00:00	KOA	Kona International	Northwest Airlines	Passenger Property Loss	Checkpoint	267.61	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+135416	2009041657657	2009-03-23 00:00:00	2009-01-28 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage	600.0	Electronics,Other,Electronics	Denied	0.0	Deny
+138634	2009062960696	2009-06-22 00:00:00	2009-06-17 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	169.0	Household Decor	Denied	0.0	Deny
+139276	2009071661272	2009-07-09 00:00:00	2009-07-03 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	503.5	Clothing & Accessories	Denied	0.0	Deny
+139761	2009072461762	2009-07-21 00:00:00	2009-06-28 00:00:00	KOA	Kona International	Czech Airlines	Passenger Property Loss	Checked Baggage	800.0	Cosmetics	Denied	0.0	Deny
+141338	2009090463358	2009-09-02 00:00:00	2009-08-13 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	137.21	Other	Denied	0.0	Deny
+141733	2009091663724	2009-09-15 00:00:00	2009-09-12 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+141812	2009091863841	2009-09-17 00:00:00	2009-09-11 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	164.66	Scientific Intruments	Approved	164.66	Approve in Full
+142461	2009100964492	2009-10-07 00:00:00	2009-10-02 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	633.04	Electronics,Electronics	Denied	0.0	Deny
+143218	2009111065278	2009-11-02 00:00:00	2009-10-08 18:10:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	217.19	Clothing & Accessories	Denied	0.0	Deny
+143288	2009111365345	2009-11-03 00:00:00	2009-09-28 13:30:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	79.0	Tools & Machines	Denied	0.0	Deny
+143314	2009111065294	2009-11-04 00:00:00	2009-11-02 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Denied	0.0	Deny
+145332	2010012667921	2010-01-21 00:00:00	2010-01-15 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other		0.0	Deny
+147346	2010040770518	2010-04-05 00:00:00	2010-03-31 19:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147532	2010040770557	2010-04-09 00:00:00	2010-03-18 20:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Electronics		180.0	Settle
+147576	2010041370746	2010-04-12 00:00:00	2010-04-02 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+149351	2010060972536	2010-06-04 00:00:00	2010-04-27 13:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+149848	2010062573121	2010-06-22 00:00:00	2010-06-17 18:30:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+150235	2010071473638	2010-07-01 00:00:00	2010-06-18 19:30:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+150276	2010071273561	2010-07-06 00:00:00	2010-06-02 13:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+153649	2010101977075	2010-10-12 00:00:00	2010-09-29 05:45:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		31.99	Approve in Full
+154533	2010112278046	2010-11-08 00:00:00	2010-10-15 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Other		345.7	Approve in Full
+156505	2011021580214	2011-01-14 00:00:00	2011-01-07 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint		Other			
+157150	2011030180644	2011-02-01 00:00:00	2011-01-03 21:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
+158449	2011040681957	2011-03-17 00:00:00	2011-02-20 15:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+158681	2011041282124	2011-03-28 00:00:00	2011-01-28 13:30:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+159971	2011051783479	2011-05-06 00:00:00	2011-04-24 15:45:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Electronics		0.0	Deny
+160048	2011051983578	2011-05-09 00:00:00	2011-03-06 22:40:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Other		120.0	Settle
+160775	2011061484287	2011-06-02 00:00:00	2011-05-28 12:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+163444	2011092087054	2011-08-25 00:00:00	2011-08-15 10:45:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+165410	2011111488939	2011-11-02 00:00:00	2011-10-22 12:15:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+166332	2012010489942	2011-12-06 00:00:00	2011-11-05 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories		60.0	Settle
+166346	2011111588975	2011-12-07 00:00:00	2011-10-10 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+167593	2012011990246	2012-01-19 00:00:00	2011-09-02 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		60.0	Approve in Full
+168902	2012031591743	2012-03-02 00:00:00	2012-01-13 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+169417	2012032692056	2012-03-22 00:00:00	2011-10-19 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+169702	2012042793325	2012-04-03 00:00:00	2012-03-26 00:00:00	KOA	Kona International		Passenger Property Loss	Checkpoint		Other		75.77	Approve in Full
+169726	2012040392387	2012-04-04 00:00:00	2012-02-21 00:00:00	KOA	Kona International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+169999	2012050793613	2012-04-12 00:00:00	2012-03-29 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+170810	2012053094389	2012-05-10 00:00:00	2012-04-26 20:30:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+172055	2012072795776	2012-06-25 00:00:00	2012-05-09 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories,Clothing & Accessories		43.0	Approve in Full
+172200	2012072495660	2012-07-02 00:00:00	2012-02-17 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+172928	2012090696584	2012-07-26 00:00:00	2012-07-15 13:30:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+173147	2012091796913	2012-08-03 00:00:00	2012-07-19 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checkpoint		Household Items		20.7	Approve in Full
+174994	2012112098800	2012-10-09 00:00:00	2012-09-07 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+175234	2012112898911	2012-10-18 00:00:00	2012-09-12 08:30:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics		35.86	Approve in Full
+175877	2013010899598	2012-11-13 00:00:00	2012-10-24 14:30:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checkpoint		Other		114.18	Approve in Full
+175950	2013012400177	2012-11-14 00:00:00	2012-10-28 00:00:00	KOA	Kona International	USAir	Passenger Property Loss	Checkpoint		Electronics			
+176518	2013012900590	2012-12-06 00:00:00	2012-11-04 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+176862	2013012300122	2012-12-26 00:00:00	2012-12-14 10:55:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		8.5	Approve in Full
+176889	2013012400207	2012-12-26 00:00:00	2012-12-19 12:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+177245	2013020501018	2013-01-08 00:00:00	2012-12-31 12:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		4.6	Settle
+177668	2013021501494	2013-01-22 00:00:00	2012-12-16 13:19:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+177675	2013021201327	2013-01-23 00:00:00	2012-12-18 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Food & Drink		0.0	Deny
+178267	2013022602098	2013-02-12 00:00:00	2013-01-29 12:30:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		150.0	Approve in Full
+179819	2013050803579	2013-04-12 00:00:00	2012-12-10 21:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+179989	2013042903384	2013-04-18 00:00:00	2013-04-06 00:00:00	KOA	Kona International	Air Canada	Passenger Property Loss	Checked Baggage		Food & Drink,Watches & Jewelry		0.0	Deny
+180791	2013062004572	2013-05-20 00:00:00	2013-05-12 14:15:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		64.45	Approve in Full
+181926	2013072205334	2013-06-28 00:00:00	2013-06-07 12:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+182168	2013081005807	2013-07-08 00:00:00	2013-06-28 12:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+183665	2013102207617	2013-08-26 00:00:00	2013-07-27 13:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+184978	2013110108572	2013-10-18 00:00:00	2013-10-15 10:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+185048	2013102207641	2013-10-22 00:00:00	2013-09-05 05:37:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+185657	2013111909515	2013-11-14 00:00:00	2013-09-02 08:28:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+187248	2014012211000	2014-01-15 00:00:00	2013-08-01 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+188018	2014021911786	2014-02-19 00:00:00	2014-02-08 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+188785	2014031812576	2014-03-13 00:00:00	2014-02-18 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		8.49	Approve in Full
+190347	2014052214164	2014-05-20 00:00:00	2014-05-18 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+190467	2014052914286	2014-05-26 00:00:00	2014-05-06 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+190517	2014060214337	2014-05-26 00:00:00	2014-04-15 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+190529	2014060214349	2014-05-27 00:00:00	2014-05-18 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+190622	2014060514443	2014-06-03 00:00:00	2014-05-31 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checkpoint		Other		25.0	Approve in Full
+190774	2014061214599	2014-06-02 00:00:00	2014-05-21 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+191118	2014063014951	2014-06-20 00:00:00	2014-06-15 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		36.99	Approve in Full
+191582	2014072515425	2014-07-07 00:00:00	2014-06-15 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+192418	2014082716279	2014-08-06 00:00:00	2014-08-04 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.99	Approve in Full
+192516	2014090316381	2014-09-03 00:00:00	2014-07-22 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+199565	2015011219778	2015-01-12 00:00:00	2014-11-21 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other		0.0	Deny
+199568	2015030220949	2015-03-02 00:00:00	2015-02-07 00:00:00	KOA	Kona International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+199569	2015030420984	2015-03-04 00:00:00	2015-01-29 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		93.55	Approve in Full
+199570	2015030420992	2015-03-04 00:00:00	2015-01-12 00:00:00	KOA	Kona International		Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+199571	2015031121168	2015-03-11 00:00:00	2015-01-04 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+199573	2015032021417	2015-03-20 00:00:00	2015-01-22 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+199574	2015040121655	2015-03-30 00:00:00	2015-03-25 00:00:00	KOA	Kona International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		0.0	Deny
+199576	2015040921818	2015-04-09 00:00:00	2015-03-31 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+199578	2015052722795	2015-05-16 00:00:00	2015-04-20 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		25.9	Approve in Full
+199582	2015080324439	2015-07-20 00:00:00	2015-06-30 00:00:00	KOA	Kona International	UAL	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+199585	2015080624634	2015-08-03 00:00:00	2015-07-27 00:00:00	KOA	Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+199589	2015111726944	2015-11-02 00:00:00	2015-10-13 00:00:00	KOA	Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		25.95	Approve in Full
+199593	2015121627619	2015-11-23 00:00:00	2015-11-05 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+199595	2015122327831	2015-12-08 00:00:00	2015-12-05 00:00:00	KOA	Kona International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+199596	2015122927913	2015-12-15 00:00:00	2015-11-29 00:00:00	KOA	Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry			
+208120	2016030729387	2016-02-10 00:00:00	2016-01-24 19:30:00	KOA	Kona International Kona International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		11.87	Approve in Full
+208121	2016032330014	2016-03-09 00:00:00	2016-01-31 08:00:00	KOA	Kona International Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Electronics		15.5	Approve in Full
+208122	2016071332650	2016-06-17 00:00:00	2016-05-17 11:20:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.47	Approve in Full
+208124	2016051031216	2016-04-20 00:00:00	2016-03-28 11:45:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+208126	2016061032146	2016-06-02 00:00:00	2016-05-20 11:20:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+208131	2016121636003	2016-10-26 00:00:00	2016-09-29 21:40:00	KOA	Kona International Kona International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
+216371	2017120845813	2017-12-01 00:00:00	2017-10-26 00:00:00	KOA	Kona International Kona International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
+216376	2017042839105	2017-03-08 00:00:00	2017-02-28 00:00:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
+216378	2017122046169	2017-11-13 00:00:00	2017-11-12 00:00:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
+216380	2017061440601	2017-05-15 00:00:00	2017-03-05 00:00:00	KOA	Kona International Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
+216381	2017050939344	2017-03-19 00:00:00	2017-03-01 00:00:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+216383	2017080242033	2017-06-22 00:00:00	2017-06-02 00:00:00	KOA	Kona International Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+216384	2017042138807	2017-02-24 00:00:00	2017-01-28 00:00:00	KOA	Kona International Kona International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		354.6	Settle
+216385	2017111545190	2017-10-25 00:00:00	2017-10-16 09:50:00	KOA	Kona International Kona International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
+216387	2017081642227	2017-06-26 00:00:00	2017-03-05 00:00:00	KOA	Kona International Kona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review

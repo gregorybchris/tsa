@@ -1,0 +1,69 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+5391	0421078L	2003-04-21 00:00:00	2003-03-18 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checkpoint	199.0	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+18049	1016222M	2003-10-16 00:00:00	2003-09-24 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checkpoint	36.0	Other	Denied		Deny
+43707	2004092363759	2004-08-31 00:00:00	2004-08-16 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checkpoint	346.39	Other	Denied		Deny
+47305	2004113068078	2004-10-14 00:00:00	2004-09-17 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	700.0	Watches & Jewelry	Denied	0.0	Deny
+47525	2004120268255	2004-10-18 00:00:00	2004-10-08 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.5	Tools & Machines	Approved	10.5	Approve in Full
+51538	2005010372185	2004-12-07 00:00:00	2004-10-29 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Other	325.0	Other	Settled	162.5	Settle
+53203	2005011373630	2004-12-29 00:00:00	2004-11-16 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checkpoint	120.0	Other	Approved	120.0	Approve in Full
+55260	2005021776357	2005-01-24 00:00:00	2004-12-23 00:00:00	BIL	Billings, MT	Horizon Air	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+64669	2005053185564	2005-05-24 00:00:00	2005-04-14 00:00:00	BIL	Billings, MT	Frontier Airlines	Passenger Property Loss	Checked Baggage	260.0	Other	Denied	0.0	Deny
+67589	2005070888479	2005-07-07 00:00:00	2005-06-06 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checked Baggage	53.9	Other	Approved	53.9	Approve in Full
+68561	2005072589553	2005-07-22 00:00:00	2005-07-04 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	112.44	Watches & Jewelry	Approved	112.44	Approve in Full
+69468	2005081590558	2005-08-04 00:00:00	2005-07-28 00:00:00	BIL	Billings, MT	Horizon Air	Passenger Property Loss	Checked Baggage	49.99	Other	Canceled	0.0	
+71434	2005090792265	2005-09-07 00:00:00	2005-08-18 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	1826.0	Electronics	Denied	0.0	Deny
+72383	2005100393654	2005-09-20 00:00:00	2005-09-14 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.99	Tools & Machines	Approved	8.99	Approve in Full
+73801	2005102094972	2005-10-17 00:00:00	2005-10-05 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
+74028	2005102595137	2005-10-18 00:00:00	2005-09-28 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	10400.0	Watches & Jewelry	Denied	0.0	Deny
+74278	2005103195418	2005-10-24 00:00:00	2005-10-06 00:00:00	BIL	Billings, MT	Horizon Air	Passenger Property Loss	Checked Baggage	240.0	Watches & Jewelry	Approved	240.0	Approve in Full
+74748	2005110995875	2005-11-01 00:00:00	2005-08-07 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checked Baggage	17.98	Tools & Machines	Approved	17.98	Approve in Full
+78150	2006011199360	2006-01-05 00:00:00	2005-12-31 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage	142.49	Other	Approved	142.49	Approve in Full
+85405	2006051906603	2006-05-17 00:00:00	2006-05-05 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	Electronics	Denied	0.0	Deny
+90881	2006090812167	2006-08-31 00:00:00	2006-08-21 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories,Other	Settled	62.5	Settle
+93607	2006110114936	2006-10-25 00:00:00	2006-09-27 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage	16.98	Containers	Approved	16.98	Approve in Full
+95542	2006121116898	2006-12-01 00:00:00	2006-09-22 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	840.0	Watches & Jewelry	Denied	0.0	Deny
+97314	2007010518417	2007-01-03 00:00:00	2006-12-14 00:00:00	BIL	Billings, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage	249.99	Electronics	Settled	96.75	Settle
+104210	2007051625498	2007-05-14 00:00:00	2007-04-22 00:00:00	BIL	Billings, MT	Continental Airlines	Passenger Property Loss	Checked Baggage	215.0	Clothing & Accessories,Supplies,Cosmetics	Denied	0.0	Deny
+104906	2007060526333	2007-05-29 00:00:00	2007-04-19 00:00:00	BIL	Billings, MT		Passenger Property Loss	Checked Baggage	721.28	Clothing & Accessories,Cosmetics,Supplies	Denied	0.0	Deny
+115268	2007122036726	2007-12-17 00:00:00	2007-09-10 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	365.0	Clothing & Accessories,Other	Denied	0.0	Deny
+119977	2008040741983	2008-03-20 00:00:00	2008-02-10 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	1073.6	Watches & Jewelry	Canceled	0.0	
+124328	2008061945899	2008-06-17 00:00:00	2008-06-14 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage		Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+127976	2008091249829	2008-09-08 00:00:00	2008-08-23 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
+134758	2009032656927	2009-03-06 00:00:00	2008-08-10 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checkpoint	300.0	Other	Approved	300.0	Approve in Full
+135559	2009041657597	2009-03-27 00:00:00	2009-02-13 00:00:00	BIL	Billings, MT	Allegiant Air	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Canceled	0.0	
+142194	2009100264279	2009-09-28 00:00:00	2009-09-03 00:00:00	BIL	Billings, MT	Allegiant Air	Passenger Property Loss	Checked Baggage	195.0	Electronics,Clothing & Accessories,Other	Denied	0.0	Deny
+142599	2009102664719	2009-10-13 00:00:00	2009-09-07 13:08:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	145.23	Outdoors Supplies	Denied	0.0	Deny
+142943	2009110265025	2009-10-26 00:00:00	2009-09-12 05:30:00	BIL	Billings, MT	USAir	Passenger Property Loss	Checked Baggage	20.0	Containers	Approved	20.0	Approve in Full
+144401	2009121066387	2009-12-07 00:00:00	2009-08-08 00:00:00	BIL	Billings, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+145152	2010010867334	2010-01-06 00:00:00	2010-01-04 12:40:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checkpoint		Other			
+146508	2010031369576	2010-03-09 00:00:00	2010-02-27 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Household Items		0.0	Deny
+154466	2010110577614	2010-11-08 00:00:00	2010-10-27 10:30:00	BIL	Billings, MT		Passenger Property Loss	Checkpoint		Other		0.0	Deny
+156195	2011011479575	2011-01-06 00:00:00	2010-12-29 09:00:00	BIL	Billings, MT	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+158052	2011040181688	2011-03-04 00:00:00	2011-02-28 05:45:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+158562	2011040681921	2011-03-22 00:00:00	2011-02-25 06:30:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		400.0	Approve in Full
+159327	2011042182859	2011-04-15 00:00:00	2011-04-10 09:15:00	BIL	Billings, MT	Frontier Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+160338	2011053183841	2011-05-18 00:00:00	2011-04-03 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+164032	2011100587567	2011-09-16 00:00:00	2011-08-15 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+171072	2012060894644	2012-05-21 00:00:00	2012-02-27 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics		34.99	Approve in Full
+172529	2012082896292	2012-07-12 00:00:00	2012-06-17 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+173528	2012100297365	2012-08-16 00:00:00	2012-08-08 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+173706	2012100797430	2012-08-22 00:00:00	2012-08-13 14:00:00	BIL	Billings, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+174189	2012102297908	2012-09-10 00:00:00	2012-08-16 10:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+178570	2013022802201	2013-02-25 00:00:00	2013-02-21 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+179142	2013032702801	2013-03-15 00:00:00	2013-03-11 12:30:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+182459	2013082306214	2013-07-17 00:00:00	2013-06-28 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+182593	2013081605976	2013-07-22 00:00:00	2013-06-29 00:00:00	BIL	Billings, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+189964	2014050813776	2014-05-02 00:00:00	2014-04-11 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+195069	2014120818992	2014-12-08 00:00:00	2012-12-02 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor,Clothing & Accessories		378.0	Settle
+196169	2015071623857	2015-07-07 00:00:00	2015-07-04 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+196170	2015080724709	2015-08-05 00:00:00	2015-07-10 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+196171	2015092125485	2015-08-31 00:00:00	2015-08-16 00:00:00	BIL	Billings, MT	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+196173	2015120127207	2015-11-12 00:00:00	2015-10-22 00:00:00	BIL	Billings, MT	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+204809	2016061032159	2016-05-26 00:00:00	2016-05-23 00:00:00	BIL	Billings, MT Billings, MT	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments		19.48	Approve in Full
+204810	2016021828950	2016-01-28 00:00:00	2016-01-05 00:00:00	BIL	Billings, MT Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Closed:Contractor Claim
+204811	2016040530369	2016-03-22 00:00:00	2016-01-28 09:30:00	BIL	Billings, MT Billings, MT	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+204812	2016032330012	2016-03-09 00:00:00	2016-02-18 18:50:00	BIL	Billings, MT Billings, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+204814	2016100334233	2016-08-15 00:00:00	2016-07-29 17:30:00	BIL	Billings, MT Billings, MT	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+204815	2016093034159	2016-08-16 00:00:00	2016-08-15 00:00:00	BIL	Billings, MT Billings, MT	UAL	Passenger Property Loss	Checked Baggage		Other			In Review
+213050	2017021637575	2017-02-16 00:00:00	2017-01-06 06:15:00	BIL	Billings, MT Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+213051	2017101944591	2017-10-19 00:00:00	2017-07-10 00:00:00	BIL	Billings, MT Billings, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			In Review

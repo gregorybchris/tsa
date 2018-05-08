@@ -1,0 +1,460 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+1132	0617579L	2003-01-06 00:00:00	2002-11-27 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	1012.57	Watches & Jewelry	Canceled	0.0	
+1985	0129000L	2003-01-29 00:00:00	2002-12-10 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	105.0	Other	Canceled		
+3888	0318059L	2003-03-18 00:00:00	2003-02-16 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	868.49	Electronics	Settled	434.25	Settle
+8087	0610003L	2003-06-10 00:00:00	2003-05-23 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Approved	300.0	Approve in Full
+8531	0616021L	2003-06-16 00:00:00	2002-11-27 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	1183.98	Other	Canceled		
+9246	0624111M	2003-06-24 00:00:00	2003-06-05 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	133.99	Other	Settled	67.0	Settle
+9875	0701215M	2003-07-01 00:00:00	2003-06-05 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Settled	100.0	Settle
+10080	0707097M	2003-07-07 00:00:00	2003-06-24 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	70.0	Other	Approved	70.0	Approve in Full
+11346	0721145M	2003-07-21 00:00:00	2003-07-07 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+11565	0723157M	2003-07-23 00:00:00	2003-06-29 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	421.0	Clothing & Accessories	Approved	421.0	Approve in Full
+11784	2008073147824	2003-07-28 00:00:00	2008-07-27 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	10.83	Tools & Machines	Denied	0.0	Deny
+12360	0801017M	2003-08-01 00:00:00	2003-05-22 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	125.0	Watches & Jewelry	Settled	62.5	Settle
+12557	0805028M	2003-08-05 00:00:00	2003-05-13 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	485.0	Clothing & Accessories	Settled	242.5	Settle
+12680	0806009M	2003-08-06 00:00:00	2003-07-26 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	43.09	Clothing & Accessories	Settled	21.0	Settle
+13373	0814064M	2003-08-14 00:00:00	2003-07-26 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
+13564	0815148M	2003-08-15 00:00:00	2003-11-27 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	1183.98	Watches & Jewelry	Settled	1012.98	Settle
+13681	0819029M	2003-08-19 00:00:00	2003-08-09 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	55.0	Approve in Full
+18005	1016046M	2003-10-16 00:00:00	2003-09-28 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Denied	0.0	Deny
+25612	0120127M	2004-01-20 00:00:00	2004-01-04 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	275.0	Clothing & Accessories	Settled	137.5	Settle
+26799	0203084M	2004-02-03 00:00:00	2004-12-26 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	4500.0	Clothing & Accessories	Denied	0.0	Deny
+29895	2004051452209	2004-03-10 00:00:00	2004-02-28 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Settled	100.0	Settle
+30366	2004051251371	2004-03-12 00:00:00	2004-02-01 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	189.0	Watches & Jewelry	Settled	94.5	Settle
+30555	2004050750752	2004-03-18 00:00:00	2004-03-01 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	97.37	Clothing & Accessories	Approved	97.37	Approve in Full
+30559	2004051150942	2004-03-18 00:00:00	2004-02-12 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	68.0	Clothing & Accessories	Approved	68.0	Approve in Full
+31287	2004051351860	2004-03-24 00:00:00	2003-12-21 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	10.0	Other	Denied	0.0	Deny
+31541	2004051451994	2004-03-30 00:00:00	2004-02-23 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Approved	5.0	Approve in Full
+32792	2004052553453	2004-04-21 00:00:00	2004-03-25 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checkpoint	40.89	Other	Approved	40.89	Approve in Full
+32893	2004060154037	2004-04-21 00:00:00	2004-02-24 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	23.46	Other	Approved	23.46	Approve in Full
+32905	2004060154073	2004-04-21 00:00:00	2004-03-25 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint	71.34	Clothing & Accessories	Approved	71.34	Approve in Full
+35881	2004061055389	2004-05-27 00:00:00	2004-05-12 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
+39068	2004071659646	2004-06-30 00:00:00	2004-05-30 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	20.0	Other	Settled	7.5	Settle
+40354	2004090962468	2004-07-16 00:00:00	2004-02-22 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	45.0	Other	Approved	45.0	Approve in Full
+40620	2004081161108	2004-07-20 00:00:00	2004-06-02 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	229.0	Clothing & Accessories	Denied	229.0	Deny
+41292	2004090161812	2004-07-29 00:00:00	2004-06-21 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Theft	Checked Baggage	48.0	Cosmetics	Approved	48.0	Approve in Full
+43917	2004100564606	2004-09-01 00:00:00	2004-08-19 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	560.0	Other	Denied	0.0	Deny
+44208	2004100464339	2004-09-09 00:00:00	2004-08-23 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.42	Other	Denied	0.0	Deny
+46856	2004100664787	2004-10-06 00:00:00	2004-01-12 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	470.0	Electronics	Canceled	0.0	
+46878	0129101M	2004-10-06 00:00:00	2004-01-12 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	2999.0	Watches & Jewelry	Settled	480.85	Settle
+46987	2004112167555	2004-10-08 00:00:00	2004-09-28 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Electronics	Denied	0.0	Deny
+47186	2004113068024	2004-10-14 00:00:00	2004-08-04 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+48318	2004112467804	2004-10-26 00:00:00	2004-10-10 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	77.0	Other	Settled	25.0	Settle
+48813	2004121769218	2004-11-02 00:00:00	2004-10-07 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	28.98	Supplies	Approved	28.98	Approve in Full
+49250	2004122270616	2004-11-04 00:00:00	2004-10-20 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	143.78	Watches & Jewelry	Settled	71.89	Settle
+49607	2004122170003	2004-11-09 00:00:00	2004-10-03 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	118.88	Cosmetics	Denied	0.0	Deny
+50518	2004122871360	2004-11-23 00:00:00	2004-09-22 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Theft	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
+50773	2004122771116	2004-11-26 00:00:00	2004-10-22 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checkpoint	40.0	Other	Denied	0.0	Deny
+51484	2005012274003	2004-12-07 00:00:00	2004-11-04 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checkpoint	200.0	Clothing & Accessories	Denied	0.0	Deny
+51551	2005012274005	2004-12-07 00:00:00	2004-07-11 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	942.22	Electronics	Settled	156.76	Settle
+52775	2005011173412	2004-12-22 00:00:00	2004-11-14 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	32.23	Other	Approved	32.23	Approve in Full
+54319	2005020375505	2005-01-11 00:00:00	2004-12-03 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
+56019	2005030777017	2005-02-01 00:00:00	2004-12-30 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	37.0	Other	Approved	37.0	Approve in Full
+56606	2005030977446	2005-02-07 00:00:00	2005-01-19 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	511.42	Electronics	Denied	0.0	Deny
+57456	2005031578368	2005-02-16 00:00:00	2005-02-03 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	300.0	Watches & Jewelry	Denied	0.0	Deny
+58411	2005032279261	2005-03-04 00:00:00	2004-12-17 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+59036	2005032679948	2005-03-09 00:00:00	2005-01-27 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	39.99	Electronics	Denied	0.0	Deny
+59489	2005032980384	2005-03-16 00:00:00	2004-12-02 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	5.0	Other	Denied	0.0	Deny
+59701	2005033080538	2005-03-18 00:00:00	2005-01-29 00:00:00	OMA	Eppley Airfield	America West	Passenger Property Loss	Checked Baggage	190.0	Watches & Jewelry	Settled	95.0	Settle
+60680	2005040581581	2005-04-04 00:00:00	2005-03-01 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Approved	250.0	Approve in Full
+62556	2005042783438	2005-04-26 00:00:00	2005-03-03 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checkpoint		Other	Canceled	0.0	
+62639	2005042883593	2005-04-26 00:00:00	2005-04-13 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	79.5	Clothing & Accessories	Denied	0.0	Deny
+64636	2005060385763	2005-05-24 00:00:00	2005-05-04 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	41.55	Cosmetics	Approved	41.55	Approve in Full
+65361	2005061386330	2005-06-03 00:00:00	2005-05-24 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	30.0	Electronics	Approved	30.0	Approve in Full
+66063	2005062286939	2005-06-13 00:00:00	2005-06-02 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	72.98	Containers	Settled	50.0	Settle
+66336	2005062787333	2005-06-16 00:00:00	2005-06-09 00:00:00	OMA	Eppley Airfield	American Eagle	Passenger Property Loss	Checked Baggage	700.0	Watches & Jewelry	Denied	0.0	Deny
+66926	2005070588246	2005-06-27 00:00:00	2005-06-01 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	44.99	Other	Approved	44.99	Approve in Full
+67082	2005063087983	2005-06-28 00:00:00	2005-05-11 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	569.99	Electronics	Denied	0.0	Deny
+67245	2005070588253	2005-06-30 00:00:00	2005-06-15 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+67409	2005070788394	2005-07-05 00:00:00	2005-06-26 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Denied	0.0	Deny
+67565	2005070888506	2005-07-06 00:00:00	2005-06-06 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	874.97	Electronics	Settled	242.66	Settle
+68743	2005072789770	2005-07-25 00:00:00	2005-04-01 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	2345.0	Watches & Jewelry	Denied	0.0	Deny
+68794	2005072889837	2005-07-26 00:00:00	2005-07-20 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	15.0	Clothing & Accessories	Approved	15.0	Approve in Full
+70222	2005082391271	2005-08-16 00:00:00	2005-06-05 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	20.0	Watches & Jewelry	Denied	0.0	Deny
+70659	2005082991765	2005-08-23 00:00:00	2005-08-13 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	300.0	Electronics,Electronics,Other	Denied	0.0	Deny
+71021	2005090292081	2005-08-29 00:00:00	2005-08-19 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
+72532	2005100594051	2005-09-21 00:00:00	2005-08-21 00:00:00	OMA	Eppley Airfield	Comair Inc	Passenger Property Loss	Checked Baggage	350.0	Watches & Jewelry	Denied	0.0	Deny
+72944	2005100594037	2005-09-29 00:00:00	2005-09-15 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checkpoint	59.67	Other	Denied	0.0	Deny
+73324	2005101394509	2005-10-05 00:00:00	2005-09-03 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	9.99	Tools & Machines	Approved	9.99	Approve in Full
+73377	2005101394501	2005-10-05 00:00:00	2005-09-11 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checkpoint	520.0	Other	Denied	0.0	Deny
+73614	2005101494571	2005-10-12 00:00:00	2005-10-04 00:00:00	OMA	Eppley Airfield	America West	Passenger Property Loss	Checkpoint	220.0	Electronics	Denied	0.0	Deny
+74425	2005110395580	2005-10-25 00:00:00	2005-09-30 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	90.0	Other	Denied	0.0	Deny
+74549	2005110795675	2005-10-27 00:00:00	2005-10-21 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Denied	0.0	Deny
+75181	2005111896259	2005-11-09 00:00:00	2005-09-07 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	199.95	Electronics	Denied	0.0	Deny
+75196	2005112196298	2005-11-09 00:00:00	2005-09-15 00:00:00	OMA	Eppley Airfield	American Eagle	Passenger Property Loss	Checked Baggage	1209.0	Electronics	Denied	0.0	Deny
+75825	2005120596912	2005-11-21 00:00:00	2005-11-10 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	386.79	Supplies	Settled	86.79	Settle
+75849	2005120596958	2005-11-22 00:00:00	2005-11-11 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.22	Tools & Machines	Approved	7.22	Approve in Full
+76854	2005121697910	2005-12-09 00:00:00	2005-09-22 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	550.0	Other	Denied	0.0	Deny
+77792	2006010598811	2005-12-28 00:00:00	2005-12-10 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	121.43	Electronics	Settled	60.71	Settle
+77818	2006010698940	2005-12-29 00:00:00	2005-12-17 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
+77885	2006010999148	2006-01-03 00:00:00	2005-12-11 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	29.59	Tools & Machines	Approved	29.59	Approve in Full
+77914	2006010699043	2006-01-03 00:00:00	2005-12-08 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Denied	0.0	Deny
+77984	2006010999170	2006-01-04 00:00:00	2005-12-14 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Approved	25.0	Approve in Full
+78304	2006011299501	2006-01-09 00:00:00	2005-10-25 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint	43.06	Electronics	Approved	43.06	Approve in Full
+78729	2006012099955	2006-01-12 00:00:00	2005-12-22 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Other	Denied	0.0	Deny
+79186	2006012500366	2006-01-20 00:00:00	2006-01-04 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	5.87	Tools & Machines	Approved	5.87	Approve in Full
+79620	2006020100770	2006-01-26 00:00:00	2006-01-13 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	2.68	Other	Denied	0.0	Deny
+80612	2006022101835	2006-02-13 00:00:00	2005-11-28 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	62.98	Clothing & Accessories	Denied	0.0	Deny
+80704	2006022201939	2006-02-14 00:00:00	2005-12-10 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Denied	0.0	Deny
+80801	2006022201915	2006-02-16 00:00:00	2005-12-01 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Approved	7.99	Approve in Full
+80992	2006022402167	2006-02-21 00:00:00	2006-02-15 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	2420.0	Watches & Jewelry	Denied	0.0	Deny
+80997	2006022802248	2006-02-21 00:00:00	2006-01-04 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	183.0	Electronics	Denied	0.0	Deny
+81187	2006030202376	2006-02-24 00:00:00	2006-01-30 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	8.62	Tools & Machines	Approved	8.62	Approve in Full
+81828	2006032003362	2006-03-07 00:00:00	2006-02-28 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	12.0	Other	Denied	0.0	Deny
+83097	2006040704220	2006-03-30 00:00:00	2006-01-03 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
+85568	2006052306808	2006-05-22 00:00:00	2006-04-27 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	24.99	Tools & Machines	Approved	24.99	Approve in Full
+86561	2006061207786	2006-06-09 00:00:00	2006-05-21 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	1489.38	Watches & Jewelry,Other	Denied	0.0	Deny
+86599	2006061307817	2006-06-12 00:00:00	2006-06-01 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Containers	Denied	0.0	Deny
+86856	2006061908197	2006-06-15 00:00:00	2006-05-15 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Approved	12.0	Approve in Full
+87486	2006062908762	2006-06-28 00:00:00	2006-05-31 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Denied	0.0	Deny
+88642	2006072109878	2006-07-19 00:00:00	2006-07-09 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
+89130	2006080410532	2006-07-31 00:00:00	2006-07-06 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	76.0	Other	Approved	76.0	Approve in Full
+89179	2006080310491	2006-07-31 00:00:00	2006-07-18 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	78.45	Electronics	Denied	0.0	Deny
+90359	2006082311420	2006-08-22 00:00:00	2006-08-03 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	690.0	Clothing & Accessories,Clothing & Accessories,Clothing & Accessories	Settled	588.05	Settle
+90399	2006082811618	2006-08-23 00:00:00	2006-06-21 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	247.46	Clothing & Accessories	Denied	0.0	Deny
+91228	2006091412529	2006-09-07 00:00:00	2006-06-13 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	660.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+91246	2006091812731	2006-09-07 00:00:00	2006-07-14 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	217.78	Games & Toys,Electronics	Denied	0.0	Deny
+91536	2006091812752	2006-09-13 00:00:00	2006-07-28 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	291.96	Clothing & Accessories	Settled	237.8	Settle
+91670	2006092213130	2006-09-15 00:00:00	2006-08-04 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	85.12	Electronics	Denied	0.0	Deny
+91709	2006092112992	2006-09-18 00:00:00	2006-08-24 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	10.65	Tools & Machines	Approved	10.65	Approve in Full
+92401	2006101013774	2006-10-02 00:00:00	2006-09-24 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Approved	5.0	Approve in Full
+92707	2006101313983	2006-10-10 00:00:00	2006-09-28 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	96.2	Clothing & Accessories	Approved	96.2	Approve in Full
+92838	2006101213889	2006-10-11 00:00:00	2006-09-09 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	360.7	Watches & Jewelry	Denied	0.0	Deny
+92869	2006101614008	2006-10-11 00:00:00	2006-09-30 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	119.95	Cosmetics,Electronics	Denied	0.0	Deny
+93322	2006102614594	2006-10-19 00:00:00	2006-09-28 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	60.23	Tools & Machines,Cosmetics	Approved	60.23	Approve in Full
+93674	2006110115010	2006-10-26 00:00:00	2006-09-10 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.6	Tools & Machines	Approved	10.6	Approve in Full
+94140	2006111315417	2006-11-06 00:00:00	2006-11-02 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	26.76	Cosmetics	Approved	26.76	Approve in Full
+94217	2006111315441	2006-11-07 00:00:00	2006-09-02 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	156.21	Tools & Machines,Clothing & Accessories	Approved	156.21	Approve in Full
+94370	2006111515608	2006-11-09 00:00:00	2006-11-06 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Canceled	0.0	
+95487	2006120816878	2006-12-01 00:00:00	2006-11-20 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	52.89	Electronics	Approved	52.89	Approve in Full
+95528	2006120716844	2006-12-01 00:00:00	2006-10-20 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	753.52	Other,Electronics	Denied	0.0	Deny
+96285	2006122117616	2006-12-15 00:00:00	2006-10-12 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	78.57	Tools & Machines,Other	Approved	78.57	Approve in Full
+96651	2006122718014	2006-12-22 00:00:00	2006-06-09 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	145.35	Clothing & Accessories	Settled	71.86	Settle
+96782	2006122818088	2006-12-27 00:00:00	2006-12-23 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
+97247	2007010418246	2007-01-03 00:00:00	2006-11-03 00:00:00	OMA	Eppley Airfield	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	135.0	Watches & Jewelry	Denied	0.0	Deny
+97642	2007011618824	2007-01-08 00:00:00	2006-11-30 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Food & Drink	Denied	0.0	Deny
+97646	2007011618831	2007-01-08 00:00:00	2006-12-14 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	336.08	Containers,Supplies	Denied	0.0	Deny
+98503	2007012619585	2007-01-22 00:00:00	2006-10-09 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	289.99	Electronics	Denied	0.0	Deny
+98700	2007013019807	2007-01-24 00:00:00	2007-01-07 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage	285.0	Clothing & Accessories	Approved	285.0	Approve in Full
+98904	2007013119954	2007-01-26 00:00:00	2006-10-25 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	408.71	Electronics	Settled	129.99	Settle
+99867	2007021520981	2007-02-13 00:00:00	2007-01-27 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	36.88	Electronics	Denied	0.0	Deny
+100034	2007022121251	2007-02-16 00:00:00	2007-02-11 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+100252	2007022821690	2007-02-21 00:00:00	2007-02-12 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	177.2	Electronics	Settled	149.43	Settle
+100574	2007030221801	2007-02-28 00:00:00	2007-02-25 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	360.91	Electronics,Other	Denied	0.0	Deny
+101053	2007031322214	2007-03-12 00:00:00	2007-01-11 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.49	Tools & Machines	Approved	7.49	Approve in Full
+101101	2007031422267	2007-03-12 00:00:00	2006-09-05 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
+101794	2007032723040	2007-03-23 00:00:00	2007-02-07 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Supplies	Denied	0.0	Deny
+101992	2007032923203	2007-03-28 00:00:00	2007-03-19 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	125.0	Tools & Machines	Denied	0.0	Deny
+102657	2007041223839	2007-04-10 00:00:00	2007-03-20 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	259.2	Electronics	Settled	107.23	Settle
+102777	2007041624016	2007-04-12 00:00:00	2007-03-21 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	299.0	Watches & Jewelry	Denied	0.0	Deny
+103124	2007042424436	2007-04-19 00:00:00	2007-03-10 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+103931	2007051025242	2007-05-08 00:00:00	2007-04-24 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	29.67	Electronics	Approved	29.67	Approve in Full
+104414	2007052125744	2007-05-17 00:00:00	2007-05-06 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	10.77	Tools & Machines	Approved	10.77	Approve in Full
+104471	2007051825683	2007-05-17 00:00:00	2007-04-27 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	451.88	Electronics	Settled	69.21	Settle
+104942	2007060526289	2007-05-30 00:00:00	2007-04-30 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Approved	14.0	Approve in Full
+104980	2007060626354	2007-05-30 00:00:00	2007-05-04 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	73.66	Clothing & Accessories	Denied	0.0	Deny
+105028	2007060126017	2007-05-31 00:00:00	2007-05-07 00:00:00	OMA	Eppley Airfield	American Eagle	Passenger Property Loss	Checked Baggage	62.0	Tools & Machines	Denied	0.0	Deny
+105436	2007061126725	2007-06-06 00:00:00	2007-05-14 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	280.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+105604	2007061426941	2007-06-11 00:00:00	2007-06-05 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	10.71	Tools & Machines	Approved	10.71	Approve in Full
+105694	2007070327757	2007-06-12 00:00:00	2007-06-26 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	15.95	Clothing & Accessories	Approved	15.95	Approve in Full
+106619	2007070527860	2007-07-02 00:00:00	2007-06-22 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.17	Tools & Machines	Approved	8.17	Approve in Full
+107061	2007071228260	2007-07-10 00:00:00	2007-06-14 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	9.5	Tools & Machines	Approved	9.5	Approve in Full
+107360	2007071928645	2007-07-16 00:00:00	2007-06-06 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Containers	Denied	0.0	Deny
+107921	2007072729262	2007-07-25 00:00:00	2007-06-14 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	160.49	Containers	Settled	50.0	Settle
+108099	2007080129477	2007-07-30 00:00:00	2007-07-02 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	29.97	Clothing & Accessories	Approved	29.97	Approve in Full
+108746	2007081030042	2007-08-09 00:00:00	2007-07-12 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checkpoint	130.0	Other,Supplies	Approved	130.0	Approve in Full
+108754	2007081330180	2007-08-09 00:00:00	2007-06-30 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint	155.0	Clothing & Accessories	Approved	155.0	Approve in Full
+108836	2007081030058	2007-08-10 00:00:00	2007-06-28 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
+109507	2007082230680	2007-08-22 00:00:00	2007-07-18 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	470.0	Watches & Jewelry	Settled	235.0	Settle
+109966	2007090431315	2007-08-30 00:00:00	2007-03-20 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	2279.0	Watches & Jewelry	Denied	0.0	Deny
+110173	2007090631485	2007-09-05 00:00:00	2007-08-28 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Canceled	0.0	
+110188	2007090631415	2007-09-05 00:00:00	2007-08-26 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	288.17	Electronics,Electronics	Denied	0.0	Deny
+110376	2007091231736	2007-09-10 00:00:00	2007-08-09 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	7.32	Tools & Machines	Approved	7.32	Approve in Full
+110721	2007091732052	2007-09-14 00:00:00	2007-07-06 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	420.0	Containers	Denied	0.0	Deny
+110935	2007091932200	2007-09-18 00:00:00	2007-09-06 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	133.75	Watches & Jewelry	Settled	66.88	Settle
+110942	2007092132367	2007-09-19 00:00:00	2007-08-14 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.47	Tools & Machines	Approved	8.47	Approve in Full
+113088	2007110534512	2007-11-01 00:00:00	2007-09-18 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	451.0	Electronics,Electronics	Denied	0.0	Deny
+113655	2007111534963	2007-11-14 00:00:00	2007-10-09 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	13.49	Tools & Machines	Approved	13.49	Approve in Full
+114015	2007112335353	2007-11-20 00:00:00	2007-10-21 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.99	Tools & Machines	Denied	0.0	Deny
+114267	2007112835636	2007-11-26 00:00:00	2007-08-31 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	136.91	Supplies	Settled	68.46	Settle
+114316	2007113035809	2007-11-27 00:00:00	2007-11-15 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	533.0	Electronics,Watches & Jewelry,Other,Watches & Jewelry	Denied	0.0	Deny
+114390	2007120335876	2007-11-28 00:00:00	2007-11-18 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	350.0	Other	Denied	0.0	Deny
+115272	2007122036744	2007-12-17 00:00:00	2007-10-03 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
+115724	2008010437310	2007-12-26 00:00:00	2007-12-11 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
+115778	2008010337170	2007-12-28 00:00:00	2007-12-22 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	234.06	Electronics,Games & Toys	Denied	0.0	Deny
+116328	2008011437853	2008-01-07 00:00:00	2007-12-25 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	177.29	Clothing & Accessories	Settled	88.65	Settle
+116356	2008011437811	2008-01-08 00:00:00	2007-12-25 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	8.27	Tools & Machines	Denied	0.0	Deny
+116723	2008012238276	2008-01-14 00:00:00	2007-12-14 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Denied	0.0	Deny
+116801	2008012338415	2008-01-14 00:00:00	2008-01-03 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	148.38	Clothing & Accessories	Settled	74.19	Settle
+117270	2008013038868	2008-01-24 00:00:00	2008-01-14 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	487.03	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+117298	2008020439044	2008-01-25 00:00:00	2007-12-17 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	64.64	Clothing & Accessories	Approved	64.64	Approve in Full
+117668	2008020739246	2008-01-31 00:00:00	2007-12-27 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	115.0	Clothing & Accessories	Denied	0.0	Deny
+117773	2008012538551	2008-02-02 00:00:00	2007-12-13 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Settled	15.0	Settle
+118245	2008022139910	2008-02-12 00:00:00	2008-01-26 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	249.0	Electronics	Denied	0.0	Deny
+118721	2008030440397	2008-02-22 00:00:00	2008-01-24 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
+119202	2008031240881	2008-03-03 00:00:00	2007-12-23 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint	428.0	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+119304	2008031240891	2008-03-06 00:00:00	2008-03-03 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
+119392	2008062746282	2008-03-07 00:00:00	2008-04-15 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	32.31	Electronics	Denied	0.0	Deny
+119516	2008021139355	2008-03-10 00:00:00	2008-12-27 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	12.72	Clothing & Accessories	Settled	6.36	Settle
+120274	2008040742028	2008-03-26 00:00:00	2008-03-07 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	276.5	Clothing & Accessories	Approved	276.5	Approve in Full
+120731	2008041142511	2008-04-03 00:00:00	2008-03-21 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint	50.0	Electronics	Approved	50.0	Approve in Full
+120954	2008041742694	2008-04-07 00:00:00	2008-03-19 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	182.5	Electronics	Denied	0.0	Deny
+120982	2008041742711	2008-04-07 00:00:00	2008-02-09 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+120995	2008041642572	2008-04-08 00:00:00	2008-03-22 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checkpoint	82.99	Supplies	Approved	82.99	Approve in Full
+121375	2008042243103	2008-04-14 00:00:00	2008-04-05 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	169.99	Other	Settled	84.99	Settle
+121562	2008042343190	2008-04-18 00:00:00	2008-03-24 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	634.0	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+121736	2008042443303	2008-04-22 00:00:00	2008-04-20 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+121756	2008042843450	2008-04-22 00:00:00	2008-02-10 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	235.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+122006	2008050643897	2008-04-28 00:00:00	2008-04-20 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	523.5	Electronics,Electronics,Electronics	Denied	0.0	Deny
+122013	2008050944066	2008-04-28 00:00:00	2008-04-19 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Denied	0.0	Deny
+122363	2008050843977	2008-05-06 00:00:00	2008-04-28 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	60.0	Other	Denied	0.0	Deny
+122472	2008062746287	2008-05-07 00:00:00	2008-04-17 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	555.99	Electronics,Electronics,Cosmetics,Other	Denied	0.0	Deny
+123007	2008052144657	2008-05-19 00:00:00	2008-04-09 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+123087	2008052244696	2008-05-21 00:00:00	2008-04-21 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	233.81	Electronics	Denied	0.0	Deny
+123256	2008052944962	2008-05-27 00:00:00	2008-04-16 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	16.24	Containers	Approved	16.24	Approve in Full
+123285	2008052844915	2008-05-27 00:00:00	2008-05-20 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	3800.0	Containers,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+123409	2008053045038	2008-05-28 00:00:00	2008-05-08 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+124961	2008070946658	2008-07-02 00:00:00	2008-05-05 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	13.0	Tools & Machines	Denied	0.0	Deny
+124981	2008071046738	2008-07-02 00:00:00	2008-02-03 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage	252.0	Watches & Jewelry	Denied	0.0	Deny
+125235	2008070946657	2008-07-09 00:00:00	2008-06-23 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Canceled	0.0	
+126078	2008073147788	2008-07-28 00:00:00	2008-07-13 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage	109.0	Clothing & Accessories,Supplies	Denied	0.0	Deny
+126593	2008081148326	2008-08-06 00:00:00	2008-07-14 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	601.54	Clothing & Accessories	Settled	210.54	Settle
+127015	2008081548678	2008-08-16 00:00:00	2008-08-07 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	3085.38	Clothing & Accessories,Electronics	Denied	0.0	Deny
+127054	2008082048840	2008-08-18 00:00:00	2008-06-29 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	1000.0	Containers,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+127315	2008082649120	2008-08-25 00:00:00	2008-08-10 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	94.99	Clothing & Accessories	Approved	94.99	Approve in Full
+127469	2008082949268	2008-08-26 00:00:00	2008-08-17 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage	16.96	Clothing & Accessories	Denied	0.0	Deny
+127522	2008090249311	2008-08-27 00:00:00	2008-08-04 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	59.35	Other	Denied	0.0	Deny
+127846	2008090949687	2008-09-05 00:00:00	2008-08-25 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Approved	9.95	Approve in Full
+128320	2008091850078	2008-09-16 00:00:00	2008-09-08 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	379.95	Electronics,Electronics	Denied	0.0	Deny
+129025	2008100750848	2008-10-03 00:00:00	2008-08-25 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	7.22	Tools & Machines	Denied	0.0	Deny
+129138	2008100850938	2008-10-07 00:00:00	2008-09-22 00:00:00	OMA	Eppley Airfield	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	44.0	Tools & Machines	Approved	44.0	Approve in Full
+130105	2008110551936	2008-10-31 00:00:00	2008-10-20 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	149.99	Electronics	Denied	0.0	Deny
+130108	2008110551952	2008-10-31 00:00:00	2008-10-25 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+130204	2008110652049	2008-11-03 00:00:00	2008-09-25 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Denied	0.0	Deny
+130396	2008111752275	2008-11-07 00:00:00	2008-11-02 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	74.99	Outdoors Supplies	Denied	0.0	Deny
+130481	2008112552757	2008-11-11 00:00:00	2008-10-29 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	297.46	Other	Denied	0.0	Deny
+130621	2008111452230	2008-11-14 00:00:00	2008-10-09 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	896.97	Clothing & Accessories,Electronics,Cosmetics	Denied	0.0	Deny
+131049	2008112652832	2008-11-25 00:00:00	2008-09-23 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.68	Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
+131635	2008121853489	2008-12-11 00:00:00	2008-12-04 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	20.99	Clothing & Accessories	Approved	20.99	Approve in Full
+131654	2008121853506	2008-12-11 00:00:00	2008-11-10 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	259.25	Electronics	Denied	0.0	Deny
+131829	2008122253730	2008-12-16 00:00:00	2008-10-08 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	158.94	Other	Denied	0.0	Deny
+132221	2009010654101	2008-12-29 00:00:00	2008-12-16 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	244.96	Electronics	Denied	0.0	Deny
+132949	2009012454900	2009-01-14 00:00:00	2009-01-05 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	686.0	Electronics,Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+132993	2009012354876	2009-01-15 00:00:00	2009-01-04 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Denied	0.0	Deny
+133394	2009020755297	2009-01-28 00:00:00	2008-09-11 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	9804.0	Watches & Jewelry	Denied	0.0	Deny
+133743	2009021955660	2009-02-05 00:00:00	2008-09-10 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	570.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+133751	2009022055674	2009-02-06 00:00:00	2009-02-01 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	32.09	Electronics	Approved	32.09	Approve in Full
+134137	2009030755963	2009-02-18 00:00:00	2009-01-27 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	479.0	Cosmetics	Denied	0.0	Deny
+134736	2009032556876	2009-03-05 00:00:00	2008-12-15 00:00:00	OMA	Eppley Airfield	Northwest Airlines	Passenger Property Loss	Checked Baggage	249.0	Electronics,Other	Denied	0.0	Deny
+134795	2009032456810	2009-03-09 00:00:00	2009-01-25 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	43.85	Weapons & Knives	Approved	43.85	Approve in Full
+134902	2009032456797	2009-03-10 00:00:00	2009-02-25 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint	1980.0	Watches & Jewelry	Denied	0.0	Deny
+134954	2009032556882	2009-03-11 00:00:00	2009-02-24 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.26	Electronics,Other	Denied	0.0	Deny
+135010	2009012354843	2009-03-12 00:00:00	2009-01-04 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+135320	2009041057269	2009-03-20 00:00:00	2009-03-08 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	169.0	Electronics	Denied	0.0	Deny
+135571	2009041557531	2009-03-27 00:00:00	2009-03-13 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.41	Electronics	Denied	0.0	Deny
+136388	2009050758408	2009-04-20 00:00:00	2009-03-27 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	1699.91	Electronics	Denied	0.0	Deny
+136582	2009051558651	2009-04-23 00:00:00	2009-04-07 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checkpoint	9.95	Tools & Machines	Denied	0.0	Deny
+136637	2009051458602	2009-04-27 00:00:00	2009-04-24 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+137135	2009051958923	2009-05-11 00:00:00	2009-04-19 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	161.5	Household Items	Denied	0.0	Deny
+137208	2009052059161	2009-05-12 00:00:00	2009-05-02 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+137480	2009052159368	2009-05-21 00:00:00	2009-02-12 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+137808	2009060359805	2009-05-29 00:00:00	2009-05-19 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	200.0	Cosmetics,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+137930	2009061060025	2009-06-03 00:00:00	2009-05-15 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage	23.41	Other	Denied	0.0	Deny
+138533	2009062360539	2009-06-18 00:00:00	2009-06-03 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Denied	0.0	Deny
+138853	2009060959986	2009-06-28 00:00:00	2009-04-21 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.08	Tools & Machines	Denied	0.0	Deny
+139120	2009071461168	2009-07-06 00:00:00	2009-05-27 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	1875.0	Watches & Jewelry	Denied	0.0	Deny
+139391	2009071761410	2009-07-13 00:00:00	2009-07-08 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	240.0	Clothing & Accessories	Denied	0.0	Deny
+139689	2009072361660	2009-07-20 00:00:00	2009-07-09 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.43	Containers,Other	Denied	0.0	Deny
+139707	2009072461752	2009-07-20 00:00:00	2009-06-25 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage	43.0	Outdoors Supplies	Denied	0.0	Deny
+139905	2009072961950	2009-07-24 00:00:00	2009-06-20 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.31	Clothing & Accessories	Denied	0.0	Deny
+139907	2009072961956	2009-07-24 00:00:00	2008-04-07 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage	374.69	Watches & Jewelry	Denied	0.0	Deny
+140000	2009073062009	2009-07-28 00:00:00	2009-06-24 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
+140061	2009072461760	2009-07-29 00:00:00	2009-05-21 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage	319.0	Scientific Intruments	Denied	0.0	Deny
+140611	2009081462603	2009-08-12 00:00:00	2009-07-07 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint	1999.92	Electronics,Electronics	Denied	0.0	Deny
+141329	2009090363334	2009-09-02 00:00:00	2009-08-30 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	82.3	Clothing & Accessories	Denied	0.0	Deny
+141367	2009090263282	2009-09-03 00:00:00	2009-06-26 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	335.0	Cosmetics,Other	Denied	0.0	Deny
+141433	2009091463633	2009-09-08 00:00:00	2009-07-14 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Electronics	Canceled		
+141471	2009091463567	2009-09-08 00:00:00	2009-08-21 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Scientific Intruments	Denied	0.0	Deny
+141572	2009091463632	2009-09-11 00:00:00	2009-08-04 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	47.68	Other	Approved	47.68	Approve in Full
+141829	2009091863820	2009-09-17 00:00:00	2009-06-29 00:00:00	OMA	Eppley Airfield	Canadian Airlines	Passenger Property Loss	Checked Baggage	64.95	Tools & Machines	Denied	0.0	Deny
+141919	2009092163904	2009-09-21 00:00:00	2009-09-15 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	77.49	Outdoors Supplies	Denied	0.0	Deny
+142807	2009102864854	2009-10-20 00:00:00	2009-09-20 14:40:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Supplies	Denied	0.0	Deny
+143343	2009111365350	2009-11-05 00:00:00	2009-10-22 16:35:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	33.0	Tools & Machines	Denied	0.0	Deny
+143457	2009111865471	2009-11-10 00:00:00	2009-11-08 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Denied	0.0	Deny
+143617	2009112365640	2009-11-13 00:00:00	2009-07-05 16:45:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint	190.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+143618	2009112365643	2009-11-13 00:00:00	2009-10-21 10:20:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.88	Tools & Machines	Denied	0.0	Deny
+144466	2009121566557	2009-12-09 00:00:00	2009-04-07 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage	1390.0	Watches & Jewelry	Denied	0.0	Deny
+144780	2009122866821	2009-12-17 00:00:00	2009-12-11 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage	1320.63	Electronics	Denied	0.0	Deny
+145218	2010011467558	2010-01-13 00:00:00	2010-01-06 20:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics		0.0	Deny
+145221	2010011567600	2010-01-13 00:00:00	2010-01-01 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+145671	2010021768461	2010-02-05 00:00:00	2010-01-29 18:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+146409	2010031369530	2010-03-05 00:00:00	2010-02-08 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+146468	2010031769648	2010-03-08 00:00:00	2010-03-05 05:18:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+146496	2010032469961	2010-03-08 00:00:00	2010-02-10 15:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+146927	2010032670087	2010-03-22 00:00:00	2010-03-03 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		0.0	Deny
+147201	2010040570410	2010-03-30 00:00:00	2010-03-02 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+147210	2010040570424	2010-03-30 00:00:00	2010-03-19 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147401	2010040970643	2010-04-05 00:00:00	2010-03-02 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+147608	2010041570838	2010-04-12 00:00:00	2010-03-28 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		25.0	Approve in Full
+147682	2010041670884	2010-04-13 00:00:00	2010-01-27 17:40:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
+148181	2010050471451	2010-04-28 00:00:00	2010-04-03 08:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		50.0	Approve in Full
+148559	2010051271699	2010-05-11 00:00:00	2010-05-03 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+149099	2010060372356	2010-05-26 00:00:00	2010-04-17 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+149134	2010060772425	2010-05-27 00:00:00	2010-04-21 12:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+149391	2010061672701	2010-06-07 00:00:00	2010-04-23 06:30:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+149402	2010061772751	2010-06-07 00:00:00	2010-05-25 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		15.0	Approve in Full
+149468	2010062873134	2010-06-08 00:00:00	2010-05-23 16:50:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+149537	2010062172816	2010-06-11 00:00:00	2010-06-04 12:30:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Household Items		69.57	Settle
+150071	2010070873479	2010-06-28 00:00:00	2010-06-03 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		120.0	Approve in Full
+150619	2010071773844	2010-07-14 00:00:00	2010-07-02 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+150747	2010072574049	2010-07-19 00:00:00	2010-07-07 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+150989	2010080274307	2010-07-26 00:00:00	2010-07-12 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Electronics		183.26	Approve in Full
+151067	2010080374348	2010-07-27 00:00:00	2010-06-30 05:30:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+151847	2010082775396	2010-08-17 00:00:00	2010-07-24 20:30:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+152096	2010083175483	2010-08-24 00:00:00	2010-07-31 13:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		80.0	Approve in Full
+152098	2010083175485	2010-08-24 00:00:00	2010-05-29 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+152172	2010090175545	2010-08-26 00:00:00	2010-08-10 09:35:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers			
+152247	2010090275597	2010-08-30 00:00:00	2010-06-20 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+152323	2010090375639	2010-08-31 00:00:00	2010-08-02 13:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+152389	2010090775694	2010-09-01 00:00:00	2010-06-03 06:45:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
+152395	2010090775728	2010-09-01 00:00:00	2010-07-23 06:30:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+152414	2010090775764	2010-09-01 00:00:00	2010-08-03 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+152595	2010091375935	2010-09-08 00:00:00	2010-06-26 09:30:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+152651	2010091475951	2010-09-09 00:00:00	2010-05-21 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+152906	2010092276306	2010-09-16 00:00:00	2010-08-02 20:55:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		121.78	Settle
+152951	2010092576381	2010-09-17 00:00:00	2010-08-27 16:32:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+152973	2010092276327	2010-09-20 00:00:00	2010-09-08 09:30:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		11.79	Approve in Full
+153028	2010092876466	2010-09-21 00:00:00	2010-09-14 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+153211	2010100576674	2010-09-27 00:00:00	2010-09-14 07:57:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics		0.0	Deny
+153414	2010101076846	2010-10-04 00:00:00	2010-06-28 17:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry,Watches & Jewelry,Other			
+153599	2010101576960	2010-10-08 00:00:00	2010-10-06 15:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+153775	2010101977087	2010-10-14 00:00:00	2010-09-22 13:30:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Electronics		352.45	Settle
+153881	2010102477299	2010-10-18 00:00:00	2010-08-25 08:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
+154313	2010111077766	2010-11-01 00:00:00	2010-10-06 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+154613	2010110877678	2010-11-10 00:00:00	2010-10-27 17:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+154626	2010112378105	2010-11-10 00:00:00	2010-09-26 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+154630	2010112378116	2010-11-10 00:00:00	2010-10-11 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		500.0	Settle
+154912	2010113078369	2010-11-19 00:00:00	2010-10-26 08:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		21.99	Approve in Full
+155107	2010120378474	2010-11-29 00:00:00	2010-09-23 15:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+155124	2010120678522	2010-11-29 00:00:00	2010-11-08 12:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+155343	2010121578782	2010-12-06 00:00:00	2010-09-23 15:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+155361	2010121678811	2010-12-06 00:00:00	2010-02-25 11:08:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		133.0	Approve in Full
+155609	2010122279008	2010-12-14 00:00:00	2010-11-07 06:09:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		216.58	Settle
+155830	2011011979632	2010-12-22 00:00:00	2010-09-05 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments		408.39	Settle
+155926	2011012179689	2010-12-27 00:00:00	2010-12-19 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		12.0	Approve in Full
+155996	2011010879298	2010-12-29 00:00:00	2010-12-20 15:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+156071	2011011179434	2011-01-03 00:00:00	2010-12-21 09:48:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+156166	2011011379540	2011-01-05 00:00:00	2010-12-19 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
+156314	2011012679757	2011-01-10 00:00:00	2011-01-03 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other,Electronics		0.0	Deny
+156487	2011020279899	2011-01-13 00:00:00	2011-01-06 06:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		6.44	Approve in Full
+156637	2011020879998	2011-01-19 00:00:00	2010-11-28 16:30:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories			
+157103	2011022880620	2011-01-31 00:00:00	2011-01-05 00:00:00	OMA	Eppley Airfield	ATA Aerocondor	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+157568	2011031581232	2011-02-15 00:00:00	2010-10-12 09:45:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+157743	2011031481189	2011-02-23 00:00:00	2011-02-12 15:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+157801	2011031581257	2011-02-24 00:00:00	2011-01-23 16:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		24.0	Approve in Full
+158441	2011040681924	2011-03-17 00:00:00	2010-11-21 06:30:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Scientific Intruments			
+159621	2011050583268	2011-04-25 00:00:00	2011-02-16 23:50:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Electronics		135.61	Settle
+159664	2011050483184	2011-04-26 00:00:00	2011-04-10 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Other		65.0	Approve in Full
+159931	2011051683430	2011-05-05 00:00:00	2011-04-26 13:45:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+160062	2011052083605	2011-05-09 00:00:00	2011-04-19 07:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.64	Approve in Full
+160218	2011052483735	2011-05-16 00:00:00	2011-05-05 12:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+160820	2011061484306	2011-06-06 00:00:00	2011-05-23 05:45:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checkpoint		Electronics		812.36	Settle
+161630	2011072085336	2011-06-29 00:00:00	2011-06-26 00:00:00	OMA	Eppley Airfield	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		45.35	Approve in Full
+162048	2011071585263	2011-07-15 00:00:00	2011-06-21 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+162173	2011080585794	2011-07-18 00:00:00	2011-06-18 18:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+162592	2011081686179	2011-08-01 00:00:00	2011-06-22 05:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other		30.45	Approve in Full
+162663	2011081886255	2011-08-02 00:00:00	2011-06-05 11:15:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Approve in Full
+163211	2011090986814	2011-08-18 00:00:00	2011-06-05 11:15:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+163299	2011091386907	2011-08-22 00:00:00	2011-07-04 09:30:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+163714	2011100787632	2011-09-06 00:00:00	2011-08-10 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+163755	2011100387300	2011-09-07 00:00:00	2011-08-24 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+163817	2011100487383	2011-09-08 00:00:00	2011-08-21 05:30:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		24.94	Approve in Full
+164899	2011102888500	2011-10-17 00:00:00	2011-06-27 05:30:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		150.0	Approve in Full
+164900	2011102888506	2011-10-17 00:00:00	2011-09-27 09:15:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Containers		50.0	Settle
+166061	2011121389608	2011-11-28 00:00:00	2011-08-02 10:45:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments		100.0	Settle
+166192	2011121989759	2011-12-01 00:00:00	2011-11-27 15:45:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		100.0	Approve in Full
+166553	2012011090075	2011-12-14 00:00:00	2011-12-08 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		30.0	Approve in Full
+166824	2012012590416	2011-12-27 00:00:00	2011-12-08 14:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+166842	2012021691103	2011-12-27 00:00:00	2011-12-22 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+167212	2012021090907	2012-01-09 00:00:00	2010-11-03 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+167226	2012021591063	2012-01-09 00:00:00	2011-12-28 18:15:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+167284	2012021390944	2012-01-10 00:00:00	2011-09-09 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+167314	2012021691093	2012-01-10 00:00:00	2011-10-18 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+167507	2012022191209	2012-01-17 00:00:00	2012-01-11 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
+167662	2012022791311	2012-01-20 00:00:00	2012-01-03 17:20:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories			
+168338	2012032291978	2012-02-13 00:00:00	2012-01-26 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+168432	2012032692080	2012-02-15 00:00:00	2012-01-29 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		178.5	Settle
+168452	2012032792123	2012-02-15 00:00:00	2012-02-07 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
+168635	2012033092279	2012-02-22 00:00:00	2012-02-01 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+168999	2012040592577	2012-03-06 00:00:00	2012-02-03 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories		484.5	Settle
+169250	2012042493133	2012-03-15 00:00:00	2012-01-28 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		11.76	Approve in Full
+170046	2012050993756	2012-04-13 00:00:00	2012-03-12 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Office Supplies			
+170778	2012050993771	2012-05-09 00:00:00	2012-02-10 18:45:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		676.0	Settle
+171324	2012062694939	2012-05-30 00:00:00	2012-05-16 11:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		100.0	Approve in Full
+172643	2012082996414	2012-07-16 00:00:00	2012-06-13 10:30:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+173400	2012092497096	2012-08-13 00:00:00	2012-07-12 17:10:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+173957	2012102397920	2012-08-30 00:00:00	2012-08-20 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+174429	2012102698165	2012-09-17 00:00:00	2012-09-11 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		70.0	Approve in Full
+174776	2012110898480	2012-10-01 00:00:00	2012-09-08 08:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+175055	2012111598699	2012-10-12 00:00:00	2012-09-21 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		110.0	Approve in Full
+176160	2013010999745	2012-11-23 00:00:00	2012-09-20 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		135.0	Approve in Full
+176303	2013011199914	2012-11-28 00:00:00	2012-11-22 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+176524	2013012400247	2012-12-07 00:00:00	2012-11-15 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		104.3	Settle
+176565	2013012500440	2012-12-10 00:00:00	2012-11-13 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		16.23	Approve in Full
+176999	2013012900533	2012-12-31 00:00:00	2012-06-12 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Office Supplies,Food & Drink		67.0	Settle
+177140	2013010799564	2013-01-07 00:00:00	2012-11-15 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		104.3	Settle
+177327	2013020701110	2013-01-10 00:00:00	2012-12-18 10:30:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss			Electronics		0.0	Deny
+177459	2013020701108	2013-01-16 00:00:00	2012-12-23 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Other		215.0	Approve in Full
+177683	2013021201338	2013-01-23 00:00:00	2012-12-15 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Other		231.91	Approve in Full
+177736	2013021501534	2013-01-24 00:00:00	2013-01-21 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
+178084	2013022702187	2013-02-05 00:00:00	2012-12-06 09:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		66.22	Settle
+178707	2013022802270	2013-02-28 00:00:00	2012-10-22 18:45:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+178837	2013031302546	2013-03-05 00:00:00	2013-02-17 15:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
+178863	2013031102515	2013-03-06 00:00:00	2013-01-21 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		14.84	Approve in Full
+179153	2013032702804	2013-03-18 00:00:00	2013-03-03 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Containers		75.0	Settle
+179236	2013040302967	2013-03-19 00:00:00	2013-03-11 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Watches & Jewelry		175.0	Approve in Full
+179762	2013050103426	2013-04-09 00:00:00	2013-03-13 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+181819	2013081405918	2013-06-25 00:00:00	2013-04-22 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		16.04	Approve in Full
+181826	2013062604794	2013-06-26 00:00:00	2013-05-15 07:30:00	OMA	Eppley Airfield		Passenger Property Loss	Checkpoint		Other		176.0	Approve in Full
+182227	2013080905786	2013-07-10 00:00:00	2012-12-08 10:30:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+183341	2013092407280	2013-08-15 00:00:00	2013-06-25 06:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Other,Other			
+183895	2013092107170	2013-09-03 00:00:00	2013-09-02 00:00:00	OMA	Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+183976	2013102908266	2013-09-05 00:00:00	2013-07-20 16:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
+184335	2013110408648	2013-09-18 00:00:00	2013-09-09 17:50:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+185889	2013112609701	2013-11-25 00:00:00	2013-11-22 16:45:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+186687	2014010310455	2013-12-31 00:00:00	2013-12-27 12:30:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments,Other,Clothing & Accessories		257.98	Approve in Full
+187962	2014021811729	2014-02-10 00:00:00	2013-01-30 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
+188333	2014022812107	2014-02-26 00:00:00	2014-02-03 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+189122	2014040212919	2014-04-01 00:00:00	2014-03-14 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Clothing & Accessories		43.81	Approve in Full
+189386	2014041413186	2014-04-10 00:00:00	2014-03-31 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+189580	2014041813383	2014-04-17 00:00:00	2014-03-19 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+189863	2014050113674	2014-04-29 00:00:00	2014-04-22 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+189968	2014050813780	2014-05-04 00:00:00	2014-05-03 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		15.0	Approve in Full
+190044	2014051213857	2014-05-06 00:00:00	2014-05-01 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+190109	2014051413923	2014-05-08 00:00:00	2014-04-19 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+191238	2014071015072	2014-06-23 00:00:00	2014-04-04 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+191964	2014081115815	2014-08-11 00:00:00	2014-07-03 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+192671	2014091216541	2014-08-19 00:00:00	2014-08-09 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+194388	2014111018288	2014-11-03 00:00:00	2014-10-07 00:00:00	OMA	Eppley Airfield	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		11.0	Approve in Full
+194399	2014111018301	2014-11-07 00:00:00	2014-10-08 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+194797	2014112818710	2014-11-14 00:00:00	2014-10-16 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+194919	2014120318836	2014-11-26 00:00:00	2014-11-06 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		33.25	Approve in Full
+201809	2015041721970	2015-04-17 00:00:00	2014-12-19 00:00:00	OMA	Eppley Airfield	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+201810	2015051322505	2015-05-13 00:00:00	2013-06-17 00:00:00	OMA	Eppley Airfield	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Outdoors Supplies		0.0	Deny
+201812	2015082825134	2015-08-21 00:00:00	2015-08-03 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Other		0.0	Deny
+201813	2015100125796	2015-09-14 00:00:00	2015-08-17 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics			
+201814	2015110226460	2015-10-13 00:00:00	2015-09-24 00:00:00	OMA	Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		149.97	Settle
+201815	2015120327257	2015-10-28 00:00:00	2015-10-19 00:00:00	OMA	Eppley Airfield		Passenger Property Loss	Checked Baggage		Clothing & Accessories		16.5	Approve in Full
+201818	2016011328295	2015-12-30 00:00:00	2015-12-26 00:00:00	OMA	Eppley Airfield	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+210319	2016092934120	2016-08-10 00:00:00	2016-07-19 15:00:00	OMA	Eppley Airfield Eppley Airfield	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
+210320	2016052031560	2016-05-20 00:00:00	2016-01-29 00:00:00	OMA	Eppley Airfield Eppley Airfield	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments		200.0	Approve in Full
+210321	2016031529768	2016-02-29 00:00:00	2016-02-12 13:15:00	OMA	Eppley Airfield Eppley Airfield		Passenger Property Loss	Checkpoint		Other		125.0	Approve in Full
+210325	2016082633351	2016-07-19 00:00:00	2016-07-11 22:30:00	OMA	Eppley Airfield Eppley Airfield	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Food & Drink		0.0	Deny
+210329	2016101434703	2016-09-08 00:00:00	2016-07-06 15:30:00	OMA	Eppley Airfield Eppley Airfield	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+210331	2016092633859	2016-08-06 00:00:00	2016-08-02 19:40:00	OMA	Eppley Airfield Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
+210333	2016092934082	2016-09-29 00:00:00	2016-08-09 16:10:00	OMA	Eppley Airfield Eppley Airfield	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other			In Review
+210341	2016032930190	2016-03-15 00:00:00	2016-01-14 08:50:00	OMA	Eppley Airfield Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		50.0	Settle
+218522	2017062240962	2017-05-08 00:00:00	2017-04-18 00:00:00	OMA	Eppley Airfield Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+218523	2017091142851	2017-07-14 00:00:00	2017-06-28 00:00:00	OMA	Eppley Airfield Eppley Airfield	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
+218526	2017092743585	2017-08-21 00:00:00	2017-08-17 00:00:00	OMA	Eppley Airfield Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
+218529	2017121846030	2017-11-27 00:00:00	2017-10-18 00:00:00	OMA	Eppley Airfield Eppley Airfield	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Household Items			In Review

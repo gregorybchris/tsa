@@ -1,0 +1,257 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+22	16410	2002-07-24 00:00:00	2002-07-10 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint	600.0	Containers	Settled	337.4	Settle
+3304	0306011L	2003-03-06 00:00:00	2002-11-22 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	460.0	Electronics	Approved	460.0	Approve in Full
+4876	0409016L	2003-04-09 00:00:00	2003-03-23 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	109.85	Watches & Jewelry	Denied	0.0	Deny
+6401	0514063L	2003-05-14 00:00:00	2003-05-06 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	60.0	Watches & Jewelry	Approved	60.0	Approve in Full
+11887	0729244M	2003-07-29 00:00:00	2003-07-09 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Approved	45.0	Approve in Full
+13656	0818010M	2003-08-18 00:00:00	2003-07-26 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	401.0	Clothing & Accessories	Settled	200.5	Settle
+15064	0905004M	2003-09-05 00:00:00	2003-08-11 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage	170.95	Clothing & Accessories	Approved	170.95	Approve in Full
+15931	0915026M	2003-09-15 00:00:00	2003-08-20 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	189.0	Electronics	Settled	94.5	Settle
+16385	0925227M	2003-09-25 00:00:00	2003-04-08 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.38	Other	Approved	27.38	Approve in Full
+17919	1016039M	2003-10-16 00:00:00	2003-09-09 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Containers	Approved	60.0	Approve in Full
+18146	1021019M	2003-10-21 00:00:00	2003-09-19 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	87.0	Clothing & Accessories	Approved	87.0	Approve in Full
+19329	1105014M	2003-11-05 00:00:00	2003-09-14 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Canceled	0.0	
+20538	1117272M	2003-11-17 00:00:00	2003-11-13 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	1406.62	Cosmetics	Settled	607.31	Settle
+21788	1205688M	2003-12-05 00:00:00	2003-11-05 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Cosmetics	Denied	0.0	Deny
+22847	1217351M	2003-12-17 00:00:00	2003-12-01 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	60.0	Containers	Denied	0.0	Deny
+25100	0114353M	2004-01-14 00:00:00	2003-12-18 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	390.0	Clothing & Accessories	Settled	195.0	Settle
+25647	2005021476099	2004-01-26 00:00:00	2004-12-24 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1258.74	Electronics	Denied		Deny
+30670	2004060154054	2004-03-18 00:00:00	2004-02-18 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	82.0	Other	Canceled	0.0	
+32570	2004052152938	2004-04-15 00:00:00	2004-03-10 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	39.99	Other	Settled	20.0	Settle
+34550	2004062256911	2004-05-04 00:00:00	2004-03-12 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	339.0	Other	Settled	169.5	Settle
+34697	2004060855132	2004-05-05 00:00:00	2004-04-15 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	492.17	Electronics	Settled	150.0	Settle
+35834	2004062757453	2004-05-26 00:00:00	2004-03-29 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Other	Denied	0.0	Deny
+38684	2004071058956	2004-06-25 00:00:00	2004-06-09 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1959.94	Other	Denied	0.0	Deny
+41915	2004090762180	2004-08-05 00:00:00	2004-07-18 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	450.0	Electronics	Settled	112.5	Settle
+45962	2004111366920	2004-09-28 00:00:00	2004-08-30 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
+46051	2004111366930	2004-09-28 00:00:00	2004-09-24 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	466.0	Other	Denied	0.0	Deny
+48045	2004120768721	2004-10-22 00:00:00	2004-09-01 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	2900.0	Watches & Jewelry	Denied	0.0	Deny
+49328	2004112467778	2004-11-05 00:00:00	2004-07-08 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2885.96	Watches & Jewelry	Denied		Deny
+51233	2004122169924	2004-12-07 00:00:00	2004-10-08 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.95	Tools & Machines	Approved	7.95	Approve in Full
+51482	2005012274001	2004-12-07 00:00:00	2004-11-27 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	235.0	Other	Denied	0.0	Deny
+51641	2005010472591	2004-12-10 00:00:00	2004-10-22 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	290.0	Clothing & Accessories	Approved	290.0	Approve in Full
+52177	2005010472501	2004-12-14 00:00:00	2004-12-02 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	1199.0	Watches & Jewelry	Settled	545.44	Settle
+52313	2005010572763	2004-12-17 00:00:00	2004-12-01 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	742.0	Other	Denied	0.0	Deny
+53513	2005012574188	2005-01-04 00:00:00	2004-12-28 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	149.99	Other	Denied	0.0	Deny
+54257	2005020375623	2005-01-11 00:00:00	2004-11-26 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	100.0	Clothing & Accessories	Denied	0.0	Deny
+54339	2005020375582	2005-01-11 00:00:00	2004-11-19 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	364.88	Electronics	Settled	156.59	Settle
+55523	2005022276514	2005-01-26 00:00:00	2005-01-16 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	18.5	Other	Approved	18.5	Approve in Full
+56010	2005030576977	2005-02-01 00:00:00	2004-11-30 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.88	Other	Approved	30.88	Approve in Full
+56922	2005031177699	2005-02-09 00:00:00	2004-12-18 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	314.98	Electronics	Denied	0.0	Deny
+57529	2005031678488	2005-02-16 00:00:00	2005-02-06 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	460.0	Containers	Settled	153.08	Settle
+58636	2005032579814	2005-03-07 00:00:00	2005-01-23 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	802.95	Watches & Jewelry	Denied		Deny
+58808	2005030877277	2005-03-08 00:00:00	2005-01-25 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
+59676	2005033080513	2005-03-18 00:00:00	2004-12-20 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+60449	2005040581430	2005-03-30 00:00:00	2005-01-11 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	21.0	Tools & Machines	Approved	21.0	Approve in Full
+61901	2005041982804	2005-04-18 00:00:00	2005-03-25 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	3665.59	Electronics	Denied	0.0	Deny
+62665	2005042783451	2005-04-26 00:00:00	2005-01-16 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage	1282.6	Other	Settled	949.18	Settle
+64090	2005051884987	2005-05-17 00:00:00	2005-05-09 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	30.0	Musical Intruments	Denied	0.0	Deny
+64277	2005052085155	2005-05-18 00:00:00	2005-04-20 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checkpoint	5280.0	Other	Denied	0.0	Deny
+64339	2005052385323	2005-05-19 00:00:00	2005-04-25 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checkpoint	650.0	Electronics	Canceled	0.0	
+65577	2005062086580	2005-06-06 00:00:00	2005-05-14 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Settled	70.0	Settle
+65642	2005061686498	2005-06-07 00:00:00	2005-05-25 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+65696	2005062186769	2005-06-07 00:00:00	2005-04-24 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	22.0	Tools & Machines	Denied	0.0	Deny
+66089	2005062387066	2005-06-14 00:00:00	2005-05-12 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+66904	2005070788391	2005-06-25 00:00:00	2004-12-21 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	30875.7	Watches & Jewelry	Denied	0.0	Deny
+68189	2005071889158	2005-07-15 00:00:00	2005-05-24 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	514.98	Electronics	Denied	0.0	Deny
+70111	2005082291074	2005-08-15 00:00:00	2005-07-23 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	346.0	Other	Settled	173.0	Settle
+70493	2005082591513	2005-08-22 00:00:00	2005-08-07 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	365.97	Electronics	Denied	0.0	Deny
+70642	2005082991735	2005-08-23 00:00:00	2005-08-16 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
+70957	2005090292078	2005-08-29 00:00:00	2005-08-15 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Canceled	0.0	
+71313	2005091492431	2005-09-01 00:00:00	2005-08-09 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checkpoint	207.0	Electronics	Denied	0.0	Deny
+71430	2005091692638	2005-09-07 00:00:00	2005-08-17 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Approved	12.0	Approve in Full
+71632	2005091992724	2005-09-08 00:00:00	2005-08-20 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	72.27	Other	Settled	36.14	Settle
+72231	2005091992790	2005-09-19 00:00:00	2005-08-07 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	6392.59	Watches & Jewelry	Denied	0.0	Deny
+73253	2005101294432	2005-10-04 00:00:00	2005-09-18 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint	3725.0	Watches & Jewelry	Denied	0.0	Deny
+73906	2005102195044	2005-10-17 00:00:00	2005-10-06 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.33	Other	Denied	0.0	Deny
+74350	2005110195486	2005-10-25 00:00:00	2005-10-01 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	39.0	Tools & Machines	Approved	39.0	Approve in Full
+74428	2005110395584	2005-10-25 00:00:00	2005-10-02 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	348.0	Other	Denied	0.0	Deny
+74917	2005111596095	2005-11-02 00:00:00	2005-10-13 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	6.35	Other	Denied	0.0	Deny
+75550	2005120196758	2005-11-15 00:00:00	2005-10-16 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+75686	2005120596894	2005-11-18 00:00:00	2005-11-02 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	47.68	Cosmetics	Approved	47.68	Approve in Full
+76548	2005121397675	2005-12-05 00:00:00	2005-11-21 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	56.25	Other	Denied	0.0	Deny
+76611	2005121697949	2005-12-06 00:00:00	2005-11-13 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
+76751	2005121497802	2005-12-07 00:00:00	2005-10-17 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checkpoint	25.0	Other	Denied	0.0	Deny
+77662	2006010598903	2005-12-27 00:00:00	2005-09-27 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.99	Other	Denied	0.0	Deny
+77933	2006010999119	2006-01-03 00:00:00	2005-12-07 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	979.99	Electronics	Denied	0.0	Deny
+78836	2006012099988	2006-01-16 00:00:00	2005-12-23 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint	80.0	Cosmetics	Approved	80.0	Approve in Full
+79041	2006012400227	2006-01-18 00:00:00	2006-01-01 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	202.57	Other	Denied	0.0	Deny
+79635	2006020200805	2006-01-26 00:00:00	2005-12-29 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Clothing & Accessories	Denied	0.0	Deny
+80439	2006021601651	2006-02-09 00:00:00	2006-01-31 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+81555	2006030802719	2006-03-02 00:00:00	2006-02-26 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	850.0	Electronics	Settled	369.7	Settle
+82718	2006040404027	2006-03-23 00:00:00	2006-03-09 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Approved	200.0	Approve in Full
+83432	2006041804683	2006-04-06 00:00:00	2006-03-12 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	121.9	Clothing & Accessories	Approved	121.9	Approve in Full
+83681	2006042004849	2006-04-11 00:00:00	2006-02-22 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
+83692	2006042004891	2006-04-11 00:00:00	2006-03-13 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	1646.0	Watches & Jewelry	Denied	0.0	Deny
+85471	2006052306803	2006-05-18 00:00:00	2006-05-08 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage	17.51	Household Items	Approved	17.51	Approve in Full
+86235	2006060707492	2006-06-05 00:00:00	2006-05-26 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+86848	2006061608123	2006-06-15 00:00:00	2006-03-18 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+86863	2006061508088	2006-06-15 00:00:00	2006-06-01 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	3500.0	Watches & Jewelry	Denied	0.0	Deny
+89342	2006080410548	2006-08-03 00:00:00	2006-07-23 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.94	Tools & Machines	Approved	7.94	Approve in Full
+89484	2006081110910	2006-08-07 00:00:00	2006-07-07 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	67.93	Electronics	Approved	67.93	Approve in Full
+89488	2006080910654	2006-08-07 00:00:00	2006-07-23 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	43.0	Clothing & Accessories	Denied	0.0	Deny
+90038	2006081811297	2006-08-17 00:00:00	2006-07-31 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	55.64	Watches & Jewelry	Approved	55.64	Approve in Full
+91461	2006091812759	2006-09-12 00:00:00	2006-08-30 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	88.0	Scientific Intruments	Approved	88.0	Approve in Full
+93266	2006102614612	2006-10-18 00:00:00	2006-10-15 00:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage	47.19	Clothing & Accessories	Approved	47.19	Approve in Full
+93349	2006102514546	2006-10-19 00:00:00	2006-10-12 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	115.0	Watches & Jewelry	Denied	0.0	Deny
+95232	2006113016561	2006-11-27 00:00:00	2006-11-19 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checkpoint	1500.0	Watches & Jewelry	Denied	0.0	Deny
+95641	2006121917380	2006-12-04 00:00:00	2006-11-27 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	347.89	Electronics,Electronics	Settled	173.95	Settle
+96189	2006122017540	2006-12-13 00:00:00	2006-08-27 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	2664.94	Electronics	Denied	0.0	Deny
+100736	2007031322147	2007-03-05 00:00:00	2007-02-19 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Canceled	0.0	
+102110	2007033023234	2007-03-29 00:00:00	2007-03-23 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	55.0	Cosmetics	Settled	27.5	Settle
+102118	2007040323407	2007-03-29 00:00:00	2007-03-12 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.99	Clothing & Accessories,Other,Watches & Jewelry	Settled	37.5	Settle
+102962	2007041824195	2007-04-16 00:00:00	2007-03-23 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	314.0	Settle
+104230	2007051725548	2007-05-14 00:00:00	2007-05-01 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	25.0	Other	Denied	0.0	Deny
+104777	2007060426123	2007-05-24 00:00:00	2007-05-13 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	8000.0	Watches & Jewelry	Denied	0.0	Deny
+106577	2007070527861	2007-06-29 00:00:00	2007-06-12 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	492.0	Electronics,Electronics	Denied	0.0	Deny
+108330	2007080729778	2007-08-02 00:00:00	2007-07-22 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	21.15	Tools & Machines	Approved	21.15	Approve in Full
+108670	2007080929988	2007-08-07 00:00:00	2007-08-04 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
+109857	2007083131254	2007-08-28 00:00:00	2007-04-30 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	145.0	Clothing & Accessories	Denied	0.0	Deny
+111723	2007100933122	2007-10-04 00:00:00	2007-09-30 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	427.99	Electronics	Denied	0.0	Deny
+111752	2007101033192	2007-10-05 00:00:00	2007-08-30 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.5	Tools & Machines	Approved	12.5	Approve in Full
+112055	2007101533412	2007-10-12 00:00:00	2007-10-08 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	1000.0	Other	Approved	1000.0	Approve in Full
+112417	2007102533948	2007-10-19 00:00:00	2007-10-14 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Approved	8.0	Approve in Full
+112602	2007102533935	2007-10-23 00:00:00	2007-10-04 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	213.0	Cosmetics	Denied	0.0	Deny
+112759	2007110234275	2007-10-26 00:00:00	2007-08-28 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	152.81	Clothing & Accessories	Approved	152.81	Approve in Full
+112901	2007110134235	2007-10-30 00:00:00	2007-10-19 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint	399.44	Other	Denied	0.0	Deny
+113228	2007110634570	2007-11-05 00:00:00	2007-10-21 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	137.8	Clothing & Accessories	Denied	0.0	Deny
+114311	2007113035772	2007-11-27 00:00:00	2007-11-25 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	15.0	Cosmetics	Denied	0.0	Deny
+115285	2007122136775	2007-12-17 00:00:00	2007-12-03 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.58	Other	Denied	0.0	Deny
+115430	2007122636919	2007-12-19 00:00:00	2007-12-01 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	11.76	Tools & Machines	Denied	0.0	Deny
+115819	2008010737407	2007-12-28 00:00:00	2007-12-20 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	84.79	Electronics	Settled	42.4	Settle
+115874	2008010837515	2007-12-31 00:00:00	2007-12-07 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Denied	0.0	Deny
+116171	2008010937587	2008-01-07 00:00:00	2007-11-25 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	160.83	Clothing & Accessories	Denied	0.0	Deny
+116522	2008011638011	2008-01-10 00:00:00	2008-01-02 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Denied	0.0	Deny
+117712	2008020739253	2008-01-31 00:00:00	2007-11-10 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checkpoint	1566.16	Electronics,Other	Settled	882.97	Settle
+119645	2008031941251	2008-03-13 00:00:00	2008-01-28 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	165.78	Containers,Other	Denied	0.0	Deny
+120832	2008041642647	2008-04-04 00:00:00	2008-03-26 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	305.9	Containers,Cosmetics,Scientific Intruments,Other	Denied	0.0	Deny
+122135	2008050543777	2008-04-30 00:00:00	2008-04-15 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.98	Tools & Machines	Denied	0.0	Deny
+123081	2008052244687	2008-05-21 00:00:00	2008-05-17 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	321.0	Clothing & Accessories	Denied	0.0	Deny
+123139	2008052744831	2008-05-22 00:00:00	2008-05-21 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	100.0	Containers,Electronics	Approved	100.0	Approve in Full
+123660	2008060445283	2008-06-03 00:00:00	2008-06-02 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.99	Other	Canceled	0.0	
+123685	2008060445284	2008-06-03 00:00:00	2008-05-28 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
+124026	2008061645718	2008-06-10 00:00:00	2008-05-22 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	279.99	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+124584	2008062746256	2008-06-24 00:00:00	2008-06-19 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	10.59	Tools & Machines	Denied	0.0	Deny
+125102	2008071046766	2008-07-07 00:00:00	2007-05-19 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage	10.59	Tools & Machines	Denied	0.0	Deny
+126313	2008080648130	2008-07-31 00:00:00	2008-07-03 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint	42.0	Cosmetics	Denied	0.0	Deny
+127207	2008082549012	2008-08-20 00:00:00	2008-08-10 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	380.0	Scientific Intruments	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+127387	2008082749226	2008-08-25 00:00:00	2008-07-02 00:00:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	459.97	Containers,Other,Games & Toys	Denied	0.0	Deny
+127506	2008082949252	2008-08-27 00:00:00	2008-08-23 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	31.78	Clothing & Accessories	Denied	0.0	Deny
+127921	2008090849658	2008-09-08 00:00:00	2007-09-23 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.0	Clothing & Accessories	Denied	0.0	Deny
+128091	2008091549872	2008-09-10 00:00:00	2008-03-19 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Denied	0.0	Deny
+128857	2008100250721	2008-09-29 00:00:00	2008-08-21 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage	334.28	Electronics,Electronics,Other	Denied	0.0	Deny
+129291	2008101551152	2008-10-09 00:00:00	2008-08-27 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
+132047	2008123153964	2008-12-22 00:00:00	2008-12-08 00:00:00	SDF	Louisville International	Air Canada	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories,Containers	Denied	0.0	Deny
+132100	2008123053864	2008-12-23 00:00:00	2008-12-17 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
+134733	2009032456780	2009-03-05 00:00:00	2008-12-10 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	4000.0	Clothing & Accessories,Electronics,Cosmetics	Denied	0.0	Deny
+135990	2009042958138	2009-04-08 00:00:00	2009-03-17 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checkpoint	200.0	Other	Canceled	0.0	
+136267	2009050458291	2009-04-15 00:00:00	2008-12-19 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage	64.8	Clothing & Accessories	Denied	0.0	Deny
+136647	2009051458625	2009-04-27 00:00:00	2009-04-26 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	53.18	Electronics	Denied	0.0	Deny
+137825	2009060859920	2009-05-29 00:00:00	2009-05-09 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.6	Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+139683	2009071761357	2009-07-20 00:00:00	2009-05-22 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage	141.68	Clothing & Accessories	Denied	0.0	Deny
+140600	2009081362576	2009-08-12 00:00:00	2009-07-01 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+141422	2009090963456	2009-09-08 00:00:00	2009-08-26 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	9.49	Tools & Machines	Approved	9.49	Approve in Full
+141642	2009091763764	2009-09-14 00:00:00	2009-08-01 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint	10.0	Other	Approved	10.0	Approve in Full
+143132	2009110665202	2009-10-29 00:00:00	2009-10-02 13:30:00	SDF	Louisville International	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Denied	0.0	Deny
+144911	2009123066932	2009-12-23 00:00:00	2009-12-14 13:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage	39.6	Clothing & Accessories	Settled	27.89	Settle
+145164	2010010767295	2010-01-08 00:00:00	2010-01-01 20:00:00	SDF	Louisville International	Midwest Express Airlines	Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Deny
+146497	2010030369019	2010-03-09 00:00:00	2010-02-13 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+146513	2010031369581	2010-03-09 00:00:00	2010-03-07 16:36:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+146688	2010032269877	2010-03-15 00:00:00	2010-03-03 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+146829	2010032369903	2010-03-18 00:00:00	2010-03-13 14:55:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147827	2010042071004	2010-04-19 00:00:00	2010-04-13 09:32:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		29.99	Approve in Full
+148357	2010050671546	2010-05-04 00:00:00	2010-05-02 05:30:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Other			
+148953	2010052772185	2010-05-24 00:00:00	2010-03-21 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
+149731	2010062272923	2010-06-17 00:00:00	2010-06-09 09:30:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
+151312	2010080674611	2010-08-03 00:00:00	2010-07-25 16:18:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+151453	2010081374783	2010-08-06 00:00:00	2010-07-29 15:40:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+151830	2010082175198	2010-08-17 00:00:00	2010-08-05 19:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+152015	2010082875436	2010-08-23 00:00:00	2010-05-08 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checkpoint		Containers,Other		0.0	Deny
+152453	2010090275598	2010-09-03 00:00:00	2010-06-29 18:40:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+152626	2010091676052	2010-09-08 00:00:00	2010-06-17 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Other		0.0	Deny
+153013	2010100176578	2010-09-20 00:00:00	2010-07-25 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+153630	2010101877013	2010-10-12 00:00:00	2010-10-04 15:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+153741	2010102177162	2010-10-13 00:00:00	2010-09-20 12:05:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+154479	2010111777918	2010-11-08 00:00:00	2010-09-04 14:00:00	SDF	Louisville International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		105.0	Approve in Full
+156263	2011012079663	2011-01-07 00:00:00	2010-12-19 07:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+156578	2011020980034	2011-01-18 00:00:00	2010-01-03 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+156654	2011021080083	2011-01-19 00:00:00	2011-01-17 10:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+157069	2011022480520	2011-01-31 00:00:00	2011-11-13 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+157183	2011022480507	2011-02-02 00:00:00	2011-01-16 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories			
+158368	2011040181755	2011-03-15 00:00:00	2011-02-19 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+160158	2011052383673	2011-05-12 00:00:00	2011-04-30 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+160996	2011062184512	2011-06-09 00:00:00	2011-04-17 15:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+161035	2011062484605	2011-06-10 00:00:00	2011-06-07 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+161776	2011072085327	2011-07-06 00:00:00	2011-06-19 16:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+162406	2011081286132	2011-07-25 00:00:00	2011-07-13 21:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry		0.0	Deny
+162506	2011081286096	2011-07-28 00:00:00	2011-07-05 14:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+163871	2011100487376	2011-09-12 00:00:00	2011-09-01 14:30:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
+163935	2011100487477	2011-09-13 00:00:00	2011-09-06 16:45:00	SDF	Louisville International		Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+164683	2011101988113	2011-10-11 00:00:00	2011-09-23 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		51.94	Approve in Full
+165126	2011111588978	2011-10-24 00:00:00	2011-10-12 12:19:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		47.95	Approve in Full
+165436	2011110388661	2011-11-03 00:00:00	2011-07-03 11:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+166414	2012010690024	2011-12-09 00:00:00	2011-11-17 00:00:00	SDF	Louisville International	US Express	Passenger Property Loss	Checked Baggage		Other,Cosmetics		204.0	Approve in Full
+167132	2012020790764	2012-01-05 00:00:00	2011-12-23 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+168265	2012032291934	2012-02-09 00:00:00	2012-01-06 00:00:00	SDF	Louisville International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Containers		350.0	Approve in Full
+168572	2012032992244	2012-02-21 00:00:00	2012-02-02 11:59:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+168974	2012042493141	2012-03-05 00:00:00	2012-02-19 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+170231	2012051493918	2012-04-23 00:00:00	2012-03-06 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+170799	2012053194433	2012-05-09 00:00:00	2012-03-31 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+171368	2012062794974	2012-05-31 00:00:00	2012-02-01 10:43:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+173291	2012091196721	2012-08-08 00:00:00	2012-08-07 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry		0.0	Deny
+174221	2012102397933	2012-09-11 00:00:00	2012-08-24 16:08:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Other		95.94	Approve in Full
+174840	2012111298587	2012-10-02 00:00:00	2012-09-14 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		140.0	Approve in Full
+175469	2012122199354	2012-10-26 00:00:00	2012-10-08 10:30:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+177727	2013021501507	2013-01-24 00:00:00	2013-01-18 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Office Supplies,Clothing & Accessories		0.0	Deny
+178603	2013030502399	2013-02-25 00:00:00	2013-01-19 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checkpoint		Other		99.99	Approve in Full
+178860	2013031102511	2013-03-06 00:00:00	2013-02-05 00:00:00	SDF	Louisville International	Aer Lingus	Passenger Property Loss			Cosmetics		0.0	Deny
+179283	2013040302964	2013-03-21 00:00:00	2013-03-20 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Other		16.0	Approve in Full
+181528	2013080205607	2013-06-14 00:00:00	2013-05-15 12:43:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+182905	2013090906705	2013-08-01 00:00:00	2013-06-20 00:00:00	SDF	Louisville International	British Airways	Passenger Property Loss	Checked Baggage		Food & Drink			
+183251	2013091907096	2013-08-13 00:00:00	2013-07-06 14:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+184408	2013102808072	2013-09-20 00:00:00	2013-08-17 07:30:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+184804	2013110909015	2013-10-11 00:00:00	2013-08-23 12:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+184910	2013110808984	2013-10-17 00:00:00	2013-09-13 12:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+185501	2013111309214	2013-11-07 00:00:00	2011-06-11 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor			
+186504	2013123110370	2013-12-19 00:00:00	2013-11-28 06:11:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
+187035	2014011310775	2014-01-08 00:00:00	2013-12-28 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+187546	2014013011304	2014-01-24 00:00:00	2013-09-25 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Other			
+189349	2014041113149	2014-04-08 00:00:00	2014-02-27 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics			
+189392	2014041413192	2014-04-10 00:00:00	2014-04-04 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+191220	2014070915054	2014-06-26 00:00:00	2014-05-30 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+191551	2014072415394	2014-07-09 00:00:00	2014-06-11 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+192044	2014081515897	2014-07-24 00:00:00	2014-07-10 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		45.0	Approve in Full
+192151	2014081816005	2014-07-30 00:00:00	2014-07-26 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+195137	2014120919065	2014-12-05 00:00:00	2014-12-04 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+195385	2014121919329	2014-12-19 00:00:00	2014-12-16 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
+203214	2015031921380	2015-03-19 00:00:00	2015-03-05 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+203216	2015040721795	2015-04-06 00:00:00	2015-03-12 00:00:00	SDF	Louisville International	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments		425.0	Approve in Full
+203217	2015041321891	2015-04-09 00:00:00	2015-01-01 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		52.07	Approve in Full
+203218	2015050122260	2015-04-28 00:00:00	2015-04-21 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss	Checkpoint		Other		15.0	Approve in Full
+203222	2015052222716	2015-05-19 00:00:00	2015-04-27 00:00:00	SDF	Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		70.47	Approve in Full
+203223	2015060822951	2015-05-29 00:00:00	2015-04-27 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry		0.0	Deny
+203227	2015072824285	2015-07-10 00:00:00	2015-07-07 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint		Watches & Jewelry			
+203228	2015071423817	2015-07-14 00:00:00	2015-06-07 00:00:00	SDF	Louisville International		Passenger Property Loss	Checkpoint		Other		160.45	Approve in Full
+203229	2015072124071	2015-07-14 00:00:00	2014-07-15 00:00:00	SDF	Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Household Decor,Outdoors Supplies,Outdoors Supplies		0.0	Deny
+203230	2015080624659	2015-07-31 00:00:00	2015-06-16 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage		Watches & Jewelry		98.0	Approve in Full
+203231	2015080624618	2015-08-06 00:00:00	2015-07-06 00:00:00	SDF	Louisville International	USAir	Passenger Property Loss			Outdoors Supplies			
+203232	2015091425347	2015-08-28 00:00:00	2015-07-17 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203234	2015101926068	2015-09-29 00:00:00	2015-09-28 00:00:00	SDF	Louisville International	Southwest Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
+203235	2015112027033	2015-11-20 00:00:00	2015-10-25 00:00:00	SDF	Louisville International		Passenger Property Loss	Checked Baggage		Containers			
+211556	2016101134598	2016-08-29 00:00:00	2016-08-10 19:55:00	SDF	Louisville International Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
+211560	2016042730881	2016-04-11 00:00:00	2016-04-02 17:19:00	SDF	Louisville International Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		168.99	Approve in Full
+211561	2016102835353	2016-10-28 00:00:00	2016-09-28 12:15:00	SDF	Louisville International Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		10.0	Approve in Full
+211564	2016040530355	2016-03-18 00:00:00	2016-03-15 00:00:00	SDF	Louisville International Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+211566	2016091533591	2016-07-25 00:00:00	2016-06-30 00:00:00	SDF	Louisville International Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+211569	2016101734740	2016-09-09 00:00:00	2016-08-08 00:00:00	SDF	Louisville International Louisville International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry,Scientific Intruments			In Review
+211570	2016101834788	2016-10-18 00:00:00	2016-08-10 00:00:00	SDF	Louisville International Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+211572	2016101734711	2016-09-08 00:00:00	2016-08-17 13:30:00	SDF	Louisville International Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+211573	2016120935959	2016-10-25 00:00:00	2016-10-17 00:00:00	SDF	Louisville International Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+211574	2017012736978	2016-12-07 00:00:00	2016-11-18 07:50:00	SDF	Louisville International Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211575	2017012737004	2016-12-03 00:00:00	2016-11-29 00:00:00	SDF	Louisville International Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+219849	2017022837734	2017-01-17 00:00:00	2017-01-02 00:00:00	SDF	Louisville International Louisville International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+219851	2017101744423	2017-09-18 00:00:00	2017-09-08 00:00:00	SDF	Louisville International Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+219855	2017051139400	2017-03-22 00:00:00	2017-03-03 15:00:00	SDF	Louisville International Louisville International	UAL	Passenger Property Loss	Checked Baggage		Automobile & Mechanical		194.19	Approve in Full
+219856	2017090842825	2017-07-26 00:00:00	2017-07-16 00:00:00	SDF	Louisville International Louisville International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+219857	2017042538896	2017-02-27 00:00:00	2017-02-13 00:00:00	SDF	Louisville International Louisville International	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
+219861	2017091343022	2017-07-31 00:00:00	2017-07-24 00:00:00	SDF	Louisville International Louisville International		Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review

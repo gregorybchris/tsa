@@ -1,0 +1,580 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+621	18922	2002-12-13 00:00:00	2002-09-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	203.52	Clothing & Accessories	Approved	204.0	Approve in Full
+794	0714560M	2002-12-18 00:00:00	2002-10-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	55.0	Other	Denied	0.0	Deny
+1828	26063	2003-01-24 00:00:00	2002-12-31 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	184.0	Other	Denied	0.0	Deny
+2980	0226040L	2003-02-26 00:00:00	2003-01-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	490.95	Clothing & Accessories	Approved	490.95	Approve in Full
+3453	0311005L	2003-03-11 00:00:00	2002-12-24 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	180.0	Watches & Jewelry	Denied	0.0	Deny
+3844	0318107L	2003-03-18 00:00:00	2002-11-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	4000.0	Other	Denied	0.0	Deny
+3949	0319018L	2003-03-19 00:00:00	2003-03-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1190.65	Other	Settled	809.0	Settle
+4976	0411011L	2003-04-11 00:00:00	2003-02-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	91.5	Other	Approved	90.0	Approve in Full
+4989	0411004L	2003-04-11 00:00:00	2003-02-19 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	1400.0	Clothing & Accessories	Denied	0.0	Deny
+5366	0421017L	2003-04-21 00:00:00	2003-03-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	147.5	Other	Denied	0.0	Deny
+5446	0422100L	2003-04-22 00:00:00	2003-03-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	18.25	Other	Approved	18.25	Approve in Full
+5531	0422041L	2003-04-22 00:00:00	2003-03-22 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	115.0	Watches & Jewelry	Settled	65.0	Settle
+5758	0428009L	2003-04-28 00:00:00	2003-04-01 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	12.75	Containers	Settled	6.38	Settle
+5921	0501001L	2003-05-01 00:00:00	2003-04-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	373.35	Clothing & Accessories	Settled	186.68	Settle
+7819	0605042L	2003-06-05 00:00:00	2003-05-16 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	115.5	Clothing & Accessories	Approved	115.5	Approve in Full
+8146	0610186L	2003-06-10 00:00:00	2003-05-31 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	17.98	Clothing & Accessories	Approved	17.98	Approve in Full
+8321	0611002L	2003-06-11 00:00:00	2003-04-21 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	259.0	Other	Approved	259.0	Approve in Full
+8383	0612023L	2003-06-12 00:00:00	2003-05-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.8	Other	Approved	35.8	Approve in Full
+8536	0616088L	2003-06-16 00:00:00	2003-06-07 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	150.0	Other	Canceled	0.0	
+8673	0617118L	2003-06-17 00:00:00	2003-06-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	115.0	Clothing & Accessories	Approved	115.0	Approve in Full
+8685	0617147L	2003-06-17 00:00:00	2003-06-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Containers	Approved	20.0	Approve in Full
+9033	0620036M	2003-06-20 00:00:00	2003-05-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	90.0	Other	Denied	0.0	Deny
+9589	0627007M	2003-06-27 00:00:00	2003-03-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1572.0	Electronics	Settled	393.0	Settle
+10088	0707114M	2003-07-07 00:00:00	2003-06-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	119.16	Other	Approved	119.16	Approve in Full
+10093	0707038M	2003-07-07 00:00:00	2003-06-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	122.28	Other	Canceled		
+10126	0707112M	2003-07-07 00:00:00	2003-04-07 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	99.0	Other	Denied	0.0	Deny
+10185	0708026M	2003-07-08 00:00:00	2003-06-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	172.99	Clothing & Accessories	Approved	172.99	Approve in Full
+10248	0708000M	2003-07-08 00:00:00	2003-04-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Canceled		
+10250	0708074M	2003-07-08 00:00:00	2003-03-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	3085.1	Containers	Canceled	0.0	
+10581	0711027M	2003-07-11 00:00:00	2003-06-29 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	10.0	Other	Denied	0.0	Deny
+10812	0715105M	2003-07-15 00:00:00	2003-04-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.0	Other	Approved	74.0	Approve in Full
+10921	0715136M	2003-07-15 00:00:00	2003-06-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+11242	0721056M	2003-07-21 00:00:00	2003-04-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	180.0	Other	Approved	180.0	Approve in Full
+11247	0721071M	2003-07-21 00:00:00	2003-07-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	105.0	Other	Approved	105.0	Approve in Full
+11808	0728038M	2003-07-28 00:00:00	2003-06-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	152.0	Clothing & Accessories	Settled	76.0	Settle
+11827	0729039M	2003-07-29 00:00:00	2003-07-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	103.36	Clothing & Accessories	Approved	103.36	Approve in Full
+11886	0729240M	2003-07-29 00:00:00	2003-02-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	28.35	Clothing & Accessories	Approved	28.35	Approve in Full
+11945	0729168M	2003-07-29 00:00:00	2003-07-17 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	85.57	Other	Denied	0.0	Deny
+12368	0801029M	2003-08-01 00:00:00	2003-06-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	2205.0	Other	Settled	325.0	Settle
+12720	0806132M	2003-08-06 00:00:00	2003-06-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Settled	25.0	Settle
+12783	0808057M	2003-08-08 00:00:00	2003-07-26 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	299.59	Watches & Jewelry	Approved	299.59	Approve in Full
+12839	0808040M	2003-08-08 00:00:00	2003-07-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checkpoint	75.0	Other	Settled	63.95	Settle
+13266	0814176M	2003-08-14 00:00:00	2003-06-28 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	35.0	Other	Approved	35.0	Approve in Full
+13474	0815042M	2003-08-15 00:00:00	2003-07-17 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	80.0	Watches & Jewelry	Denied	0.0	Deny
+13551	0815093M	2003-08-15 00:00:00	2003-07-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	225.0	Clothing & Accessories	Settled	112.5	Settle
+13736	0819048M	2003-08-19 00:00:00	2003-08-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	326.28	Other	Denied		Deny
+14493	0826170M	2003-08-26 00:00:00	2003-08-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	50.0	Other	Settled	25.0	Settle
+14507	0826225M	2003-08-26 00:00:00	2003-05-25 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	69.0	Clothing & Accessories	Settled	35.0	Settle
+14602	0828059M	2003-08-28 00:00:00	2003-07-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	43.09	Other	Denied	0.0	Deny
+14641	0829053M	2003-08-29 00:00:00	2003-08-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.99	Other	Approved	36.99	Approve in Full
+14965	0903085M	2003-09-03 00:00:00	2003-08-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	119.0	Other	Settled	58.0	Settle
+15026	0904070M	2003-09-04 00:00:00	2003-08-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	987.49	Clothing & Accessories	Denied	0.0	Deny
+15326	0908040M	2003-09-08 00:00:00	2003-06-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Other	Denied	0.0	Deny
+15417	0909151M	2003-09-09 00:00:00	2003-08-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	24.0	Other	Approved	24.0	Approve in Full
+16121	0922001M	2003-09-22 00:00:00	2003-08-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	328.89	Other	Denied	0.0	Deny
+16400	0925264M	2003-09-25 00:00:00	2003-09-04 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	20.0	Other	Approved	20.0	Approve in Full
+16479	0925169M	2003-09-25 00:00:00	2003-09-12 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	0.0	Electronics	Canceled		
+18171	1021107M	2003-10-21 00:00:00	2003-09-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	126.0	Other	Approved	126.0	Approve in Full
+18769	1022313M	2003-10-22 00:00:00	2003-09-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	429.0	Electronics	Denied	0.0	Deny
+18911	1022199M	2003-10-22 00:00:00	2003-09-30 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	1040.0	Watches & Jewelry	Settled	710.0	Settle
+19243	1030046M	2003-10-30 00:00:00	2003-10-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	389.99	Other	Settled	300.0	Settle
+19251	1030060M	2003-10-30 00:00:00	2003-09-16 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	325.0	Electronics	Settled	198.35	Settle
+19615	1106156M	2003-11-06 00:00:00	2003-10-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	58.0	Other	Settled	43.95	Settle
+20107	1117103M	2003-11-17 00:00:00	2003-10-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
+20513	1117187M	2003-11-17 00:00:00	2003-10-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	67.0	Other	Settled	33.5	Settle
+21844	1205005M	2003-12-05 00:00:00	2003-10-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Other	Settled	175.0	Settle
+22176	1208509M	2003-12-08 00:00:00	2003-11-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+22269	1208242M	2003-12-08 00:00:00	2003-09-13 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	29.4	Other	Denied	0.0	Deny
+22583	1217164M	2003-12-17 00:00:00	2003-12-02 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	130.0	Watches & Jewelry	Approved	130.0	Approve in Full
+24016	0105430M	2004-01-05 00:00:00	2003-11-24 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	43.67	Other	Settled	21.83	Settle
+24032	0105460M	2004-01-05 00:00:00	2003-12-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Settled	12.5	Settle
+25348	0115249M	2004-01-15 00:00:00	2003-10-11 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	725.0	Other	Denied	0.0	Deny
+26294	0202389M	2004-02-02 00:00:00	2003-12-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	55.57	Other	Approved	55.57	Approve in Full
+26299	0202398M	2004-02-02 00:00:00	2003-09-21 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Approved	80.0	Approve in Full
+26832	0203245M	2004-02-03 00:00:00	2004-01-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	84.79	Other	Denied	0.0	Deny
+27262	0205142M	2004-02-05 00:00:00	2004-01-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.66	Other	Settled	12.83	Settle
+28634	0223152M	2004-02-23 00:00:00	2004-01-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Settled	75.0	Settle
+28991	0226569M	2004-02-26 00:00:00	2003-04-29 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+29347	2004050750700	2004-03-05 00:00:00	2004-02-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
+29461	0305477M	2004-03-05 00:00:00	2003-09-24 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	500.0	Other	Denied	500.0	Deny
+29679	0310081M	2004-03-10 00:00:00	2004-02-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
+30304	2004051351764	2004-03-12 00:00:00	2004-01-06 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Denied	0.0	Deny
+30437	2004051150947	2004-03-15 00:00:00	2004-02-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	96.0	Clothing & Accessories	Canceled		
+30814	2004050650631	2004-03-18 00:00:00	2004-01-15 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	175.0	Other	Settled	85.0	Settle
+30916	2004051251398	2004-03-22 00:00:00	2004-02-27 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Approved	85.0	Approve in Full
+31331	2004051151047	2004-03-24 00:00:00	2004-02-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+31862	2004051351892	2004-04-01 00:00:00	2004-01-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2870.0	Electronics	Denied	0.0	Deny
+32044	2004060454715	2004-04-04 00:00:00	2004-03-15 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	80.0	Other	Approved	80.0	Approve in Full
+32766	2004052152933	2004-04-21 00:00:00	2004-02-26 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+34021	2004060254224	2004-05-03 00:00:00	2004-03-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	76.56	Other	Settled	38.28	Settle
+34204	2004060755013	2004-05-04 00:00:00	2004-04-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Comair Inc	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
+34397	2004061655962	2004-05-04 00:00:00	2004-03-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	519.97	Electronics	Denied	0.0	Deny
+34590	2004061455598	2004-05-05 00:00:00	2004-04-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.0	Other	Approved	97.0	Approve in Full
+34985	2004061455711	2004-05-10 00:00:00	2004-05-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	450.0	Clothing & Accessories	Denied	450.0	Deny
+35978	2004062156540	2004-05-27 00:00:00	2004-05-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	548.83	Watches & Jewelry	Approved	548.83	Approve in Full
+36010	2004062156629	2004-05-27 00:00:00	2004-05-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.77	Other	Approved	39.77	Approve in Full
+36459	2004062156694	2004-05-27 00:00:00	2004-05-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Settled	17.5	Settle
+36868	2004062457308	2004-06-03 00:00:00	2004-04-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	150.0	Containers	Canceled		
+36890	2004062357059	2004-06-03 00:00:00	2004-05-14 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	450.0	Electronics	Denied	0.0	Deny
+36926	2004063057993	2004-06-03 00:00:00	2004-05-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.89	Other	Denied	0.0	Deny
+37186	2004070658377	2004-06-06 00:00:00	2004-05-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	241.28	Clothing & Accessories	Approved	241.28	Approve in Full
+37547	2004063057979	2004-06-08 00:00:00	2004-05-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	188.6	Other	Settled	94.3	Settle
+37831	2004070458277	2004-06-16 00:00:00	2004-06-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Approved	200.0	Approve in Full
+38402	2004071258988	2004-06-22 00:00:00	2004-06-11 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	82.78	Clothing & Accessories	Approved	82.78	Approve in Full
+38945	2004071459337	2004-06-29 00:00:00	2004-06-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.99	Other	Denied	0.0	Deny
+39158	2004071659555	2004-07-06 00:00:00	2004-06-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.98	Other	Canceled	0.0	
+39179	2004071559495	2004-07-06 00:00:00	2004-06-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	523.15	Other	Denied	0.0	Deny
+39555	2004080960833	2004-07-09 00:00:00	2004-06-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Theft	Checked Baggage	10.64	Other	Approved	10.64	Approve in Full
+39678	2004080360443	2004-07-09 00:00:00	2004-06-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	127.49	Other	Denied	0.0	Deny
+39726	2004081161175	2004-07-09 00:00:00	2004-05-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Theft	Checked Baggage	345.0	Clothing & Accessories	Denied	0.0	Deny
+40004	2004080460565	2004-07-13 00:00:00	2004-07-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+40204	2004080560724	2004-07-13 00:00:00	2004-03-27 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	201.95	Electronics	Settled	150.93	Settle
+40401	2004090261920	2004-07-16 00:00:00	2004-07-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	57.75	Watches & Jewelry	Denied	0.0	Deny
+40736	2004082661339	2004-07-21 00:00:00	2004-06-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	91.0	Watches & Jewelry	Canceled	0.0	
+40907	2004082661365	2004-07-23 00:00:00	2004-05-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest International Airways Ltd	Passenger Property Loss	Checked Baggage	333.0	Other	Settled	236.52	Settle
+41239	2004083161743	2004-07-27 00:00:00	2004-07-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	588.88	Other	Settled	294.44	Settle
+41251	2004072960203	2004-07-28 00:00:00	2004-03-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
+41296	2004090161835	2004-07-29 00:00:00	2004-07-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Theft	Checked Baggage	30.0	Electronics	Approved	30.0	Approve in Full
+41563	2004092263518	2004-08-03 00:00:00	2004-07-19 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	80.0	Other	Denied	0.0	Deny
+41651	2004090261964	2004-08-05 00:00:00	2004-06-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Theft	Checked Baggage	68.99	Other	Approved	68.99	Approve in Full
+42105	2005021276065	2004-08-09 00:00:00	2004-05-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1216.96	Watches & Jewelry	Denied	0.0	Deny
+42111	2004090862299	2004-08-09 00:00:00	2004-07-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	148.0	Other	Settled	74.0	Settle
+42177	2004091362708	2004-08-10 00:00:00	2004-07-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Theft	Checked Baggage	10.77	Tools & Machines	Approved	10.77	Approve in Full
+42201	2004092763967	2004-08-10 00:00:00	2004-07-15 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	44.95	Clothing & Accessories	Approved	44.95	Approve in Full
+42217	2004110166092	2004-08-10 00:00:00	2004-08-03 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	21.0	Tools & Machines	Approved	21.0	Approve in Full
+42258	2004091362714	2004-08-10 00:00:00	2004-05-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.0	Clothing & Accessories	Canceled	0.0	
+42367	2004110566418	2004-08-10 00:00:00	2004-05-26 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	55.0	Other	Denied	0.0	Deny
+42603	2004092163306	2004-08-13 00:00:00	2004-05-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1216.96	Watches & Jewelry	Denied	0.0	Deny
+42645	2004092263570	2004-08-13 00:00:00	2004-07-13 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Settled	355.2	Settle
+42794	2004100464385	2004-08-19 00:00:00	2004-07-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+42959	2004101364942	2004-08-20 00:00:00	2004-08-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	330.0	Other	Denied	0.0	Deny
+43386	2004082761494	2004-08-26 00:00:00	2004-06-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Other	Denied	0.0	Deny
+43411	2004091462827	2004-08-27 00:00:00	2004-08-06 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	46.0	Other	Approved	46.0	Approve in Full
+43445	2004092263494	2004-08-27 00:00:00	2004-08-07 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Approved	110.0	Approve in Full
+43654	2004100664755	2004-08-31 00:00:00	2004-08-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checkpoint	147.0	Electronics	Approved	147.0	Approve in Full
+43900	2004091562950	2004-09-01 00:00:00	2004-08-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Theft	Checked Baggage	2300.0	Electronics	Denied	0.0	Deny
+43972	2004100764817	2004-09-06 00:00:00	2004-08-25 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+44041	2004092864045	2004-09-09 00:00:00	2004-07-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	48.23	Electronics	Approved	48.23	Approve in Full
+44052	2004100664701	2004-09-09 00:00:00	2004-08-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Approved	8.0	Approve in Full
+44082	2004101464970	2004-09-09 00:00:00	2004-06-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.4	Tools & Machines	Approved	21.4	Approve in Full
+44300	2004102565641	2004-09-09 00:00:00	2004-07-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	1200.0	Other	Denied	0.0	Deny
+44497	2004102565652	2004-09-10 00:00:00	2004-08-08 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	8500.0	Watches & Jewelry	Canceled	0.0	
+44638	2004112667826	2004-09-12 00:00:00	2004-09-13 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	80.76	Other	Denied	0.0	Deny
+44668	2004092964183	2004-09-13 00:00:00	2004-07-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Theft	Checked Baggage	461.65	Clothing & Accessories	Approved	461.65	Approve in Full
+44739	2004092363711	2004-09-14 00:00:00	2004-08-21 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	120.0	Other	Approved	120.0	Approve in Full
+44896	2004101465016	2004-09-15 00:00:00	2004-07-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Other	Denied	0.0	Deny
+45588	2004103065883	2004-09-23 00:00:00	2004-09-09 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	329.84	Other	Approved	329.84	Approve in Full
+45678	2004110566431	2004-09-23 00:00:00	2004-08-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	149.8	Electronics	Canceled	0.0	
+45700	2004092463816	2004-09-23 00:00:00	2004-08-09 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	2196.0	Clothing & Accessories	Denied	0.0	Deny
+45855	2004110666564	2004-09-23 00:00:00	2004-08-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	180.0	Electronics	Settled	50.0	Settle
+46048	2004111366926	2004-09-28 00:00:00	2004-08-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	227.72	Clothing & Accessories	Denied	227.72	Deny
+46092	2004110866667	2004-09-28 00:00:00	2004-06-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2671.5	Watches & Jewelry	Settled	674.16	Settle
+46451	2004113068046	2004-10-01 00:00:00	2004-09-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	825.0	Watches & Jewelry	Settled	437.25	Settle
+46564	2004111566984	2004-10-05 00:00:00	2004-09-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	329.99	Electronics	Approved	329.99	Approve in Full
+47015	2004112767854	2004-10-08 00:00:00	2004-06-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	3858.59	Outdoors Supplies	Denied	0.0	Deny
+47026	2004112767872	2004-10-08 00:00:00	2004-09-27 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	298.5	Electronics	Denied	0.0	Deny
+47276	2004112967969	2004-10-14 00:00:00	2004-09-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	6330.1	Watches & Jewelry	Denied	6330.1	Deny
+47368	2004113068035	2004-10-14 00:00:00	2004-09-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	633.0	Other	Settled	130.5	Settle
+47425	2004120168194	2004-10-15 00:00:00	2004-09-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	0.0	Electronics	Canceled	0.0	
+47521	2004110366192	2004-10-18 00:00:00	2004-08-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	149.8	Electronics	Approved	149.8	Approve in Full
+47804	2004121469058	2004-10-20 00:00:00	2004-10-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Approved	150.0	Approve in Full
+47832	2005011673733	2004-10-20 00:00:00	2004-10-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	25.5	Watches & Jewelry	Canceled		
+47975	2004120868849	2004-10-20 00:00:00	2004-10-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	268.0	Other	Settled	90.0	Settle
+47990	2004121469091	2004-10-20 00:00:00	2004-08-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	72.0	Other	Settled	36.0	Settle
+48133	2004120968930	2004-10-25 00:00:00	2004-09-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Canceled		
+48160	2004120868856	2004-10-25 00:00:00	2004-09-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	279.99	Electronics	Denied	0.0	Deny
+48190	2005011673735	2004-10-25 00:00:00	2004-09-01 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	62.95	Other	Denied	0.0	Deny
+48200	2004120868861	2004-10-25 00:00:00	2004-08-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	64.0	Watches & Jewelry	Settled	32.0	Settle
+48398	2004122169959	2004-10-27 00:00:00	2004-09-17 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	18.0	Other	Approved	18.0	Approve in Full
+48473	2004121769221	2004-10-27 00:00:00	2004-09-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2279.0	Other	Denied	0.0	Deny
+48531	2004122270359	2004-10-27 00:00:00	2004-08-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2196.0	Other	Denied	0.0	Deny
+48992	2004122069360	2004-11-04 00:00:00	2004-10-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	44.06	Other	Approved	44.06	Approve in Full
+49742	2004122170215	2004-11-10 00:00:00	2004-09-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checkpoint	110.0	Clothing & Accessories	Denied	0.0	Deny
+49876	2004122270455	2004-11-15 00:00:00	2004-10-31 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	41.0	Other	Approved	41.0	Approve in Full
+50609	2004122871399	2004-11-23 00:00:00	2004-11-15 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	35.0	Cosmetics	Denied	0.0	Deny
+51383	2004122169967	2004-12-07 00:00:00	2004-11-11 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Denied	0.0	Deny
+51526	2004122971581	2004-12-07 00:00:00	2004-09-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	640.97	Other	Settled	557.97	Settle
+51890	2005011173399	2004-12-13 00:00:00	2004-10-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	0.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+51919	2005010372218	2004-12-14 00:00:00	2004-10-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	553.85	Clothing & Accessories	Approved	553.85	Approve in Full
+52037	2005010372126	2004-12-14 00:00:00	2004-09-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	2500.0	Clothing & Accessories	Denied		Deny
+52461	2005010673115	2004-12-20 00:00:00	2004-11-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	83.47	Tools & Machines	Approved	83.47	Approve in Full
+52500	2005010673077	2004-12-20 00:00:00	2004-11-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	114.93	Electronics	Denied	0.0	Deny
+52636	2005011073331	2004-12-21 00:00:00		CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
+52758	2005011073359	2004-12-21 00:00:00	2004-08-14 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	120.0	Watches & Jewelry	Settled	60.0	Settle
+52915	2005011273541	2004-12-27 00:00:00	2004-12-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	330.0	Electronics	Canceled		
+53338	2005012474086	2005-01-03 00:00:00	2004-12-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	520.0	Watches & Jewelry	Denied	0.0	Deny
+53531	2005012574268	2005-01-04 00:00:00	2004-11-29 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	1361.7	Other	Denied	0.0	Deny
+53672	2005012674303	2005-01-06 00:00:00	2004-09-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	175.0	Other	Approved	175.0	Approve in Full
+53841	2005012774560	2005-01-07 00:00:00	2004-12-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	1700.0	Watches & Jewelry	Denied	0.0	Deny
+53939	2005012774539	2005-01-10 00:00:00	2004-11-12 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	60.0	Other	Denied	0.0	Deny
+54107	2005020375585	2005-01-11 00:00:00	2004-12-25 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	174.95	Supplies	Approved	174.95	Approve in Full
+54207	2005020275415	2005-01-11 00:00:00	2005-01-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
+54459	2005013174952	2005-01-14 00:00:00	2004-12-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	384.0	Clothing & Accessories	Approved	384.0	Approve in Full
+54506	2005013175084	2005-01-14 00:00:00	2004-11-23 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	91.13	Other	Approved	91.13	Approve in Full
+54651	2005020175133	2005-01-14 00:00:00	2004-12-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	205.63	Clothing & Accessories	Settled	97.67	Settle
+54759	2005020175229	2005-01-18 00:00:00	2004-12-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	61.03	Other	Denied		Deny
+54896	2005021075860	2005-01-19 00:00:00	2004-12-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	31.79	Other	Approved	31.79	Approve in Full
+55187	2005021075916	2005-01-21 00:00:00	2004-01-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	499.99	Other	Settled	463.35	Settle
+55208	2005021676199	2005-01-24 00:00:00	2004-12-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	105.66	Other	Approved	105.66	Approve in Full
+55278	2005021776409	2005-01-24 00:00:00	2005-01-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	106.5	Other	Approved	106.5	Approve in Full
+56082	2005031578317	2005-02-01 00:00:00	2004-12-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.7	Other	Approved	39.7	Approve in Full
+56180	2005030777110	2005-02-01 00:00:00	2005-01-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.99	Other	Denied		Deny
+56472	2005031077602	2005-02-04 00:00:00	2004-12-14 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	55.79	Other	Approved	55.79	Approve in Full
+56561	2005030977431	2005-02-07 00:00:00	2005-01-30 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	163.76	Other	Approved	163.76	Approve in Full
+56572	2005031077484	2005-02-07 00:00:00	2004-12-23 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	10.0	Cosmetics	Approved	10.0	Approve in Full
+57392	2005031478150	2005-02-16 00:00:00	2004-12-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	8.0	Other	Denied	0.0	Deny
+57704	2005031578409	2005-02-23 00:00:00	2005-01-27 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	180.0	Electronics	Denied	0.0	Deny
+57715	2005031778613	2005-02-23 00:00:00	2005-12-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	235.0	Other	Denied	0.0	Deny
+57972	2005031878790	2005-02-24 00:00:00	2005-01-16 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	50.0	Other	Settled	25.0	Settle
+58068	2005032279303	2005-03-01 00:00:00	2005-01-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	25.0	Watches & Jewelry	Approved	25.0	Approve in Full
+58219	2005032279085	2005-03-03 00:00:00	2005-02-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Approved	150.0	Approve in Full
+58353	2005032279238	2005-03-04 00:00:00	2004-09-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	491.4	Other	Denied	0.0	Deny
+58432	2005032279266	2005-03-04 00:00:00	2005-02-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1135.0	Other	Settled	503.6	Settle
+58491	2005032479646	2005-03-07 00:00:00	2005-02-13 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+58739	2005032880056	2005-03-07 00:00:00	2005-02-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	427.94	Other	Settled	200.25	Settle
+58897	2005032479773	2005-03-09 00:00:00	2004-12-02 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	8.51	Tools & Machines	Approved	8.51	Approve in Full
+58903	2005032479796	2005-03-09 00:00:00	2005-02-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	USA 3000 (U5)	Passenger Property Loss	Checked Baggage	32.24	Clothing & Accessories	Approved	32.24	Approve in Full
+58986	2005032479769	2005-03-09 00:00:00	2005-02-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	53.96	Other	Denied	0.0	Deny
+59272	2005032880062	2005-03-15 00:00:00	2005-02-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	365.0	Other	Denied	0.0	Deny
+59660	2005033180684	2005-03-18 00:00:00	2005-03-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	95.0	Other	Denied	0.0	Deny
+59793	2005040181152	2005-03-22 00:00:00	2005-03-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	1301.1	Electronics	Settled	1060.73	Settle
+59844	2005033180821	2005-03-23 00:00:00	2005-03-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	430.98	Electronics	Approved	430.98	Approve in Full
+60692	2005040681670	2005-04-04 00:00:00	2005-02-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	127.19	Other	Approved	127.19	Approve in Full
+60797	2005040681764	2005-04-05 00:00:00	2005-03-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	9.69	Tools & Machines	Approved	9.69	Approve in Full
+61262	2005041182107	2005-04-07 00:00:00	2004-11-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	631.99	Electronics	Settled	529.63	Settle
+61303	2005041182152	2005-04-08 00:00:00	2005-03-31 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	800.0	Electronics	Denied	0.0	Deny
+61712	2005041582614	2005-04-14 00:00:00	2005-03-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	397.0	Other	Approved	397.0	Approve in Full
+61786	2005041882708	2005-04-14 00:00:00	2005-02-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	480.0	Clothing & Accessories	Denied	0.0	Deny
+61873	2005041982817	2005-04-18 00:00:00	2005-03-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	28.21	Clothing & Accessories	Approved	28.21	Approve in Full
+62166	2005042082988	2005-04-19 00:00:00	2005-04-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.85	Tools & Machines	Settled	10.92	Settle
+62185	2005050584212	2005-04-19 00:00:00	2005-02-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	397.94	Supplies	Settled	198.97	Settle
+62360	2005042583266	2005-04-22 00:00:00	2005-03-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	48.82	Musical Intruments	Denied	0.0	Deny
+62533	2005042783510	2005-04-26 00:00:00	2005-04-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
+62546	2005042983630	2005-04-26 00:00:00	2005-04-20 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	20.79	Other	Approved	20.79	Approve in Full
+62825	2005050283759	2005-04-28 00:00:00	2005-04-08 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Settled	40.42	Settle
+62868	2005050283862	2005-04-29 00:00:00	2005-04-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	64.99	Clothing & Accessories	Approved	64.99	Approve in Full
+62978	2005050283866	2005-05-02 00:00:00	2004-12-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7500.0	Watches & Jewelry	Denied	0.0	Deny
+63300	2005050984317	2005-05-06 00:00:00	2005-04-23 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	37.0	Other	Approved	37.0	Approve in Full
+63681	2005051684776	2005-05-11 00:00:00	2005-03-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	564.0	Clothing & Accessories	Denied	0.0	Deny
+63811	2005051384677	2005-05-12 00:00:00	2005-04-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	466.52	Other	Settled	233.26	Settle
+64081	2005051884970	2005-05-17 00:00:00	2005-02-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	138.0	Tools & Machines	Denied	0.0	Deny
+64166	2005052385266	2005-05-17 00:00:00	2005-03-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1176.83	Watches & Jewelry	Denied	0.0	Deny
+64488	2005052485411	2005-05-23 00:00:00	2005-04-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	127.09	Other	Approved	127.09	Approve in Full
+64728	2005062987737	2005-05-24 00:00:00	2005-04-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	490.0	Clothing & Accessories	Denied	0.0	Deny
+64803	2005060385797	2005-05-31 00:00:00	2005-05-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+65107	2005060885991	2005-06-01 00:00:00	2005-05-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.2	Clothing & Accessories	Approved	21.2	Approve in Full
+65116	2005060986063	2005-06-01 00:00:00	2005-04-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.99	Other	Approved	14.99	Approve in Full
+65284	2005061086253	2005-06-02 00:00:00	2005-05-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	USA 3000 (U5)	Passenger Property Loss	Checked Baggage	21.35	Tools & Machines	Approved	21.35	Approve in Full
+65825	2005062186714	2005-06-09 00:00:00	2005-04-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2456.0	Watches & Jewelry	Denied	0.0	Deny
+65898	2005061086149	2005-06-10 00:00:00	2005-05-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	48.0	Clothing & Accessories	Approved	48.0	Approve in Full
+65951	2005062386986	2005-06-10 00:00:00	2005-05-14 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	10.0	Containers	Denied	0.0	Deny
+66074	2005062487109	2005-06-13 00:00:00	2005-05-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	182.16	Electronics	Settled	122.86	Settle
+66087	2005062387058	2005-06-14 00:00:00	2005-04-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Approved	100.0	Approve in Full
+66299	2005062787306	2005-06-16 00:00:00	2005-05-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	154.6	Clothing & Accessories	Approved	154.6	Approve in Full
+66389	2005062787425	2005-06-17 00:00:00	2005-06-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	48.0	Other	Approved	48.0	Approve in Full
+66545	2005062787383	2005-06-20 00:00:00	2005-06-03 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	1230.5	Watches & Jewelry	Settled	112.0	Settle
+66896	2005062987729	2005-06-24 00:00:00	2005-04-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	374.46	Electronics	Settled	169.15	Settle
+67164	2005070188079	2005-06-29 00:00:00	2005-06-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.15	Tools & Machines	Approved	8.15	Approve in Full
+67295	2005070588272	2005-07-01 00:00:00	2005-06-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
+67468	2005071188554	2005-07-06 00:00:00	2005-06-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	352.72	Electronics	Approved	352.72	Approve in Full
+67668	2005071889146	2005-07-08 00:00:00	2005-06-15 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	5.92	Tools & Machines	Approved	5.92	Approve in Full
+68414	2005072189369	2005-07-20 00:00:00	2005-04-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	748.56	Electronics	Denied	0.0	Deny
+68660	2005072689694	2005-07-22 00:00:00	2005-06-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checkpoint	1275.61	Clothing & Accessories	Denied	0.0	Deny
+68808	2005072989933	2005-07-26 00:00:00	2005-07-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Watches & Jewelry	Approved	50.0	Approve in Full
+69209	2005081090326	2005-08-01 00:00:00	2005-07-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
+69729	2005032479630	2005-08-08 00:00:00	2005-08-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Other	Settled	181.05	Settle
+69731	2005081790751	2005-08-08 00:00:00	2005-08-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Other	Settled	62.5	Settle
+70078	2005082291099	2005-08-15 00:00:00	2005-08-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	193.0	Clothing & Accessories	Approved	193.0	Approve in Full
+70085	2005082391214	2005-08-15 00:00:00	2005-07-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.86	Tools & Machines	Approved	15.86	Approve in Full
+70356	2005082591523	2005-08-18 00:00:00	2005-06-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.34	Other	Approved	6.34	Approve in Full
+70664	2005082991779	2005-08-23 00:00:00	2005-08-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Denied	0.0	Deny
+70814	2005083091914	2005-08-25 00:00:00	2005-08-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.95	Clothing & Accessories	Approved	59.95	Approve in Full
+70871	2005090192021	2005-08-25 00:00:00	2005-08-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
+70978	2005090292057	2005-08-29 00:00:00	2005-07-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Denied	0.0	Deny
+70990	2005090292076	2005-08-29 00:00:00	2005-07-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
+71099	2005090692142	2005-08-30 00:00:00	2005-08-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Comair Inc	Passenger Property Loss	Checked Baggage	2724.0	Other	Denied	0.0	Deny
+71886	2005092293123	2005-09-14 00:00:00	2005-08-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	161.0	Clothing & Accessories	Canceled	0.0	
+72028	2005092193021	2005-09-14 00:00:00	2005-07-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	187.0	Electronics	Settled	80.36	Settle
+72253	2005092893327	2005-09-19 00:00:00	2005-07-13 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	1200.0	Other	Denied	0.0	Deny
+72294	2005092993425	2005-09-19 00:00:00	2005-08-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	58.15	Containers	Denied	0.0	Deny
+72535	2005093093517	2005-09-21 00:00:00	2005-09-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	79.0	Cosmetics	Settled	25.22	Settle
+73406	2005101294467	2005-10-05 00:00:00	2005-09-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	145.0	Containers	Settled	72.5	Settle
+73419	2005101394540	2005-10-05 00:00:00	2005-09-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	408.6	Other	Settled	367.74	Settle
+74564	2005110795705	2005-10-27 00:00:00	2005-10-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	22.0	Tools & Machines	Denied	0.0	Deny
+74971	2005111496039	2005-11-03 00:00:00	2005-10-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	67.0	Other	Settled	33.5	Settle
+75168	2005112296360	2005-11-09 00:00:00	2005-10-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Comair Inc	Passenger Property Loss	Checked Baggage	1000.0	Other	Canceled	0.0	
+75261	2005112296363	2005-11-09 00:00:00	2005-10-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	299.99	Electronics	Settled	81.11	Settle
+75274	2005112596421	2005-11-10 00:00:00	2005-10-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.7	Tools & Machines	Approved	10.7	Approve in Full
+75924	2005120797074	2005-11-22 00:00:00	2005-11-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.99	Other	Denied	0.0	Deny
+76115	2005120797198	2005-11-28 00:00:00	2005-06-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	98.02	Watches & Jewelry	Denied	0.0	Deny
+76198	2005120897381	2005-11-28 00:00:00	2005-10-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	730.0	Clothing & Accessories	Settled	601.05	Settle
+76253	2005120897276	2005-11-29 00:00:00	2005-10-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	1000.0	Other	Denied	0.0	Deny
+76442	2005121297489	2005-12-02 00:00:00	2005-10-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	63.59	Clothing & Accessories	Denied	0.0	Deny
+76779	2005121497846	2005-12-08 00:00:00	2005-11-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.9	Tools & Machines	Approved	15.9	Approve in Full
+76944	2005121998090	2005-12-12 00:00:00	2005-10-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	166.43	Electronics	Denied	0.0	Deny
+77012	2005121998042	2005-12-13 00:00:00	2005-09-16 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	490.0	Electronics	Denied	0.0	Deny
+77142	2005122898544	2005-12-14 00:00:00	2005-11-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	73.95	Other	Settled	36.98	Settle
+77342	2005122898476	2005-12-20 00:00:00	2005-11-28 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	42.17	Electronics	Canceled	0.0	
+77350	2005122898558	2005-12-20 00:00:00	2005-11-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	450.0	Electronics	Denied	0.0	Deny
+77562	2006010398682	2005-12-23 00:00:00	2005-12-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
+77607	2006010398653	2005-12-24 00:00:00	2005-12-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	73.27	Clothing & Accessories	Settled	36.63	Settle
+79949	2006020701078	2006-02-01 00:00:00	2006-01-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
+80729	2006022101822	2006-02-14 00:00:00	2006-02-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	204.75	Other	Settled	102.37	Settle
+80786	2006022302017	2006-02-15 00:00:00	2006-01-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	323.0	Watches & Jewelry	Denied	0.0	Deny
+80787	2006022302078	2006-02-15 00:00:00	2006-01-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	58.0	Cosmetics	Denied	0.0	Deny
+81075	2006030102298	2006-02-23 00:00:00	2006-01-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	190.0	Other	Approved	190.0	Approve in Full
+81153	2006022302018	2006-02-23 00:00:00	2006-01-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Other	Settled	37.5	Settle
+81341	2006030602526	2006-02-27 00:00:00	2006-01-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	396.86	Clothing & Accessories	Settled	198.43	Settle
+81969	2006031403075	2006-03-09 00:00:00	2006-02-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Tools & Machines	Settled	35.0	Settle
+82151	2006032103458	2006-03-14 00:00:00	2006-02-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	53.5	Other	Approved	53.5	Approve in Full
+82277	2006032103447	2006-03-15 00:00:00	2006-01-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	810.0	Watches & Jewelry	Denied	0.0	Deny
+82512	2006032703687	2006-03-21 00:00:00	2006-03-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
+82775	2006040403995	2006-03-24 00:00:00	2006-02-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	56.0	Clothing & Accessories	Approved	56.0	Approve in Full
+83478	2006041204355	2006-04-06 00:00:00	2005-12-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Settled	30.0	Settle
+84680	2006051005849	2006-05-02 00:00:00	2006-04-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	7000.0	Other	Denied	0.0	Deny
+84978	2006051206163	2006-05-09 00:00:00	2006-04-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.72	Tools & Machines	Approved	12.72	Approve in Full
+85255	2006051606416	2006-05-15 00:00:00	2006-05-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Electronics	Settled	62.5	Settle
+85657	2006052406875	2006-05-22 00:00:00	2006-04-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Games & Toys	Settled	62.5	Settle
+86444	2006060807662	2006-06-06 00:00:00	2006-05-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Settled	101.5	Settle
+86532	2006061207803	2006-06-08 00:00:00	2006-06-02 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	12.5	Containers	Denied	0.0	Deny
+86634	2006061307895	2006-06-12 00:00:00	2006-05-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	992.98	Games & Toys,Other,Electronics	Denied	0.0	Deny
+86661	2006061307848	2006-06-12 00:00:00	2006-05-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	116.0	Electronics,Containers	Settled	91.0	Settle
+86932	2006061908144	2006-06-16 00:00:00	2006-06-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	101.0	Electronics	Denied	0.0	Deny
+87248	2006062208447	2006-06-22 00:00:00	2006-05-26 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	550.0	Electronics	Settled	212.5	Settle
+87249	2006062208448	2006-06-22 00:00:00	2007-05-26 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	681.0	Electronics	Settled	521.0	Settle
+87578	2006063008807	2006-06-29 00:00:00	2006-06-21 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	2000.0	Scientific Intruments	Denied	0.0	Deny
+88444	2006071909739	2006-07-17 00:00:00	2006-07-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Approved	25.0	Approve in Full
+89258	2006080210368	2006-08-01 00:00:00	2006-07-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Settled	267.35	Settle
+89274	2006080410536	2006-08-02 00:00:00	2006-06-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	463.73	Watches & Jewelry,Watches & Jewelry	Approved	463.73	Approve in Full
+89708	2006081410970	2006-08-10 00:00:00	2006-07-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	148.95	Electronics	Settled	74.45	Settle
+90014	2006082111313	2006-08-16 00:00:00	2006-08-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	58.0	Office Supplies,Other	Denied	0.0	Deny
+90199	2006082411531	2006-08-21 00:00:00	2006-07-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	15.0	Office Supplies,Other	Approved	15.0	Approve in Full
+90363	2006082411509	2006-08-22 00:00:00	2006-07-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	177.83	Other	Settled	88.92	Settle
+90485	2006083011785	2006-08-24 00:00:00	2006-08-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	888.0	Electronics	Denied	0.0	Deny
+90843	2006090712084	2006-08-31 00:00:00	2006-08-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checkpoint	2000.0	Household Items	Denied	0.0	Deny
+91086	2006091212348	2006-09-05 00:00:00	2006-08-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	97.0	Household Items,Supplies	Settled	48.5	Settle
+91441	2006091812718	2006-09-11 00:00:00	2006-08-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checkpoint	224.77	Cosmetics	Settled	112.39	Settle
+91489	2006091912822	2006-09-12 00:00:00	2006-07-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Denied	0.0	Deny
+92343	2006100513641	2006-09-29 00:00:00	2006-09-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	136.41	Clothing & Accessories	Denied	0.0	Deny
+92486	2006100613734	2006-10-02 00:00:00	2006-10-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	373.0	Electronics	Settled	116.06	Settle
+92548	2006100613721	2006-10-03 00:00:00	2006-09-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1573.99	Electronics	Settled	993.6	Settle
+92603	2006101714117	2006-10-05 00:00:00	2006-09-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	101.36	Cosmetics	Approved	101.36	Approve in Full
+92710	2006101613997	2006-10-10 00:00:00	2006-10-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	19.85	Tools & Machines	Approved	19.85	Approve in Full
+93350	2006102614558	2006-10-19 00:00:00	2006-10-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Cosmetics	Denied	0.0	Deny
+94299	2006111415551	2006-11-08 00:00:00	2006-09-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5.27	Other	Approved	5.27	Approve in Full
+94526	2006112015840	2006-11-13 00:00:00	2006-10-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1052.46	Food & Drink,Office Supplies,Electronics,Electronics,Clothing & Accessories,Electronics	Denied	0.0	Deny
+94630	2006112015881	2006-11-14 00:00:00	2006-11-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
+95686	2006121316978	2006-12-05 00:00:00	2006-11-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	750.0	Electronics,Electronics	Denied	0.0	Deny
+96399	2006122217739	2006-12-19 00:00:00	2006-11-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	72.6	Outdoors Supplies	Approved	72.6	Approve in Full
+96493	2006122117698	2006-12-19 00:00:00	2006-09-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Settled	196.32	Settle
+97365	2007010518397	2007-01-04 00:00:00	2006-12-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1350.0	Electronics,Electronics,Other	Settled	581.78	Settle
+97450	2007010918502	2007-01-05 00:00:00	2006-09-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	552.78	Electronics,Electronics,Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+97906	2007011718905	2007-01-10 00:00:00	2006-12-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	644.99	Electronics	Settled	290.25	Settle
+98263	2007012419321	2007-01-17 00:00:00	2007-01-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
+98745	2007013019842	2007-01-24 00:00:00	2006-12-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	410.0	Other	Denied	0.0	Deny
+98801	2007013019813	2007-01-25 00:00:00	2006-11-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2891.0	Electronics,Electronics,Electronics,Other,Games & Toys	Denied	0.0	Deny
+98867	2007013119885	2007-01-26 00:00:00	2006-09-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	392.09	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+99073	2007020220085	2007-01-30 00:00:00	2007-01-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	189.96	Supplies	Denied	0.0	Deny
+99181	2007020620283	2007-01-31 00:00:00	2006-12-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	169.93	Clothing & Accessories	Settled	84.97	Settle
+99309	2007020720412	2007-02-05 00:00:00	2007-01-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Cosmetics,Other	Canceled	0.0	
+100371	2007022721574	2007-02-26 00:00:00	2007-02-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Outdoors Supplies	Denied	0.0	Deny
+100731	2007032122640	2007-03-05 00:00:00	2007-02-25 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	22.0	Other	Approved	22.0	Approve in Full
+101288	2007031922514	2007-03-15 00:00:00	2007-02-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.4	Tools & Machines	Approved	6.4	Approve in Full
+104104	2007051425365	2007-05-11 00:00:00	2007-05-10 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+104113	2007051525426	2007-05-11 00:00:00	2007-04-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5790.0	Electronics	Approved	5790.0	Approve in Full
+104532	2007052125749	2007-05-18 00:00:00	2007-05-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	387.62	Electronics,Electronics	Settled	193.87	Settle
+104845	2007060426224	2007-05-29 00:00:00	2007-05-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+104940	2007060126090	2007-05-30 00:00:00	2007-04-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.87	Tools & Machines	Approved	7.87	Approve in Full
+105095	2007060426160	2007-06-01 00:00:00	2007-05-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	245.17	Electronics	Denied	0.0	Deny
+105156	2007060626369	2007-06-01 00:00:00	2006-10-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Other		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+105329	2007060726561	2007-06-05 00:00:00	2007-04-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.91	Tools & Machines	Approved	10.91	Approve in Full
+105396	2007061126737	2007-06-06 00:00:00	2007-05-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checkpoint	115.0	Cosmetics	Approved	115.0	Approve in Full
+105726	2007061527036	2007-06-13 00:00:00	2007-03-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.59	Tools & Machines	Approved	8.59	Approve in Full
+106624	2007070927925	2007-07-02 00:00:00	2007-06-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.99	Tools & Machines	Approved	10.99	Approve in Full
+106842	2007071128143	2007-07-05 00:00:00	2007-06-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.54	Outdoors Supplies	Settled	37.27	Settle
+107316	2007071728507	2007-07-16 00:00:00	2007-07-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1025.74	Watches & Jewelry	Denied	0.0	Deny
+107429	2007072529021	2007-07-16 00:00:00	2007-07-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	53.0	Other	Settled	26.5	Settle
+107587	2007072328894	2007-07-19 00:00:00	2007-04-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1823.15	Electronics	Denied	0.0	Deny
+108882	2007081330167	2007-08-13 00:00:00	2007-07-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.16	Tools & Machines	Approved	8.16	Approve in Full
+109120	2007082030456	2007-08-15 00:00:00	2007-06-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Tools & Machines,Other	Settled	30.0	Settle
+109195	2007082130559	2007-08-17 00:00:00	2007-06-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	185.0	Electronics	Canceled	0.0	
+109323	2007082330734	2007-08-21 00:00:00	2007-07-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	378.08	Clothing & Accessories	Approved	378.08	Approve in Full
+110197	2007090631463	2007-09-05 00:00:00	2007-08-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Denied	0.0	Deny
+110283	2007091131645	2007-09-06 00:00:00	2007-08-26 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	140.0	Watches & Jewelry	Denied	0.0	Deny
+111158	2007092432458	2007-09-24 00:00:00	2007-09-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+111395	2007100232825	2007-09-27 00:00:00	2007-07-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	180.0	Automobile & Mechanical	Denied	0.0	Deny
+111783	2007101133248	2007-10-05 00:00:00	2007-10-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1364.2	Cosmetics,Clothing & Accessories,Containers	Denied	0.0	Deny
+112861	2007110234321	2007-10-29 00:00:00	2007-07-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checkpoint	450.0	Containers,Electronics	Denied	0.0	Deny
+112885	2007110234399	2007-10-29 00:00:00	2007-10-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	428.0	Containers	Denied	0.0	Deny
+112972	2007110734612	2007-10-31 00:00:00	2007-10-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	24.31	Clothing & Accessories	Canceled	0.0	
+113066	2007110534459	2007-11-01 00:00:00	2007-10-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	369.0	Electronics	Denied	0.0	Deny
+113221	2007110634560	2007-11-05 00:00:00	2007-09-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	241.24	Containers,Tools & Machines,Cosmetics,Scientific Intruments,Tools & Machines,Supplies	Denied	0.0	Deny
+113261	2007110834713	2007-11-05 00:00:00	2007-10-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	53.04	Electronics	Denied	0.0	Deny
+113736	2007112035259	2007-11-15 00:00:00	2007-11-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	174.0	Cosmetics	Canceled	0.0	
+114138	2007113035757	2007-11-26 00:00:00	2007-11-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	185.0	Clothing & Accessories	Approved	185.0	Approve in Full
+115004	2007121236420	2007-12-11 00:00:00	2007-10-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	175.0	Clothing & Accessories,Clothing & Accessories,Other	Denied	0.0	Deny
+115204	2007121936667	2007-12-14 00:00:00	2007-11-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage	267.49	Watches & Jewelry	Canceled	0.0	
+115254	2007122136851	2007-12-17 00:00:00	2007-10-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	160.08	Other	Approved	160.08	Approve in Full
+115255	2007122636866	2007-12-17 00:00:00	2007-11-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.83	Tools & Machines	Approved	11.83	Approve in Full
+115742	2007123137105	2007-12-27 00:00:00	2007-12-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	220.0	Tools & Machines,Containers	Denied	0.0	Deny
+116078	2008010837567	2008-01-04 00:00:00	2007-12-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.0	Cosmetics	Denied	0.0	Deny
+116420	2008011537971	2008-01-09 00:00:00	2007-12-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	329.0	Clothing & Accessories,Electronics	Approved	329.0	Approve in Full
+116495	2008011537884	2008-01-10 00:00:00	2008-01-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	913.0	Electronics,Other	Denied	0.0	Deny
+116545	2008011738120	2008-01-10 00:00:00	2008-01-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	150.0	Cosmetics,Supplies	Denied	0.0	Deny
+116840	2008012338373	2008-01-15 00:00:00	2008-01-11 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	55.0	Other	Denied	0.0	Deny
+117004	2008012438514	2008-01-18 00:00:00	2007-12-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	354.23	Electronics	Denied	0.0	Deny
+117290	2008013038889	2008-01-24 00:00:00	2008-01-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	615.0	Containers	Settled	365.84	Settle
+118045	2008021439678	2008-02-08 00:00:00	2008-02-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Denied	0.0	Deny
+118168	2008022039810	2008-02-11 00:00:00	2008-01-31 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage	202.0	Clothing & Accessories,Outdoors Supplies	Denied	0.0	Deny
+118264	2008022139948	2008-02-13 00:00:00	2007-11-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	372.8	Other	Approved	372.8	Approve in Full
+118543	2008022540109	2008-02-19 00:00:00	2007-12-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	186.38	Watches & Jewelry	Settled	93.19	Settle
+119090	2008031140805	2008-02-29 00:00:00	2008-01-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	680.0	Other	Denied	0.0	Deny
+119369	2008031340966	2008-03-07 00:00:00	2008-02-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	48.97	Other	Denied	0.0	Deny
+119405	2008031741131	2008-03-10 00:00:00	2007-11-06 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint	26.49	Clothing & Accessories	Approved	26.49	Approve in Full
+119592	2008031841231	2008-03-12 00:00:00	2008-02-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	USA 3000 (U5)	Passenger Property Loss	Checked Baggage	2600.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+119981	2008031340998	2008-03-20 00:00:00	2008-02-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	226.5	Cosmetics	Denied	0.0	Deny
+120819	2008041142506	2008-04-04 00:00:00	2008-03-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	32.0	Clothing & Accessories	Denied	0.0	Deny
+122657	2008051644369	2008-05-12 00:00:00	2008-04-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Electronics	Denied	0.0	Deny
+122827	2008051944475	2008-05-15 00:00:00	2008-04-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	355.0	Clothing & Accessories,Other	Denied	0.0	Deny
+123167	2008052744837	2008-05-22 00:00:00	2008-05-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.3	Electronics	Denied	0.0	Deny
+123619	2008060545326	2008-06-02 00:00:00	2008-05-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Other	Denied	0.0	Deny
+123759	2008061045454	2008-06-04 00:00:00	2007-11-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	140.0	Cosmetics	Denied	0.0	Deny
+123999	2008061345660	2008-06-10 00:00:00	2008-05-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	599.0	Electronics	Denied	0.0	Deny
+124675	2008070146437	2008-06-25 00:00:00	2008-06-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	177.0	Clothing & Accessories	Denied	0.0	Deny
+124754	2008070146467	2008-06-27 00:00:00	2008-06-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.0	Electronics	Denied	0.0	Deny
+125612	2008072447294	2008-07-17 00:00:00	2008-07-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	129.99	Electronics	Denied	0.0	Deny
+126113	2008080147899	2008-07-28 00:00:00	2008-07-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines,Other	Denied	0.0	Deny
+127190	2008082549008	2008-08-20 00:00:00	2008-01-08 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	13.06	Tools & Machines	Denied	0.0	Deny
+127555	2008082949280	2008-08-27 00:00:00	2008-07-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	162.76	Clothing & Accessories	Settled	81.38	Settle
+128272	2008091650032	2008-09-15 00:00:00	2008-09-06 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	32.99	Outdoors Supplies	Denied	0.0	Deny
+128545	2008092550452	2008-09-19 00:00:00	2008-09-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	675.0	Electronics,Clothing & Accessories	Settled	256.25	Settle
+128635	2008092550447	2008-09-23 00:00:00	2008-09-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	733.0	Cosmetics,Other,Containers,Household Decor	Denied	0.0	Deny
+129147	2008100750877	2008-10-07 00:00:00	2008-09-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	965.99	Electronics,Other	Denied	0.0	Deny
+129481	2008102051309	2008-10-15 00:00:00	2008-09-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	255.92	Clothing & Accessories	Denied	0.0	Deny
+129542	2008102151328	2008-10-17 00:00:00	2008-09-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	49.99	Food & Drink	Denied	0.0	Deny
+129634	2008102151394	2008-10-20 00:00:00	2008-09-05 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	328.99	Electronics	Denied	0.0	Deny
+129647	2008102251446	2008-10-20 00:00:00	2008-09-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	505.82	Office Supplies,Watches & Jewelry,Outdoors Supplies	Denied	0.0	Deny
+130165	2008110752086	2008-11-03 00:00:00	2008-10-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Southwest Airlines	Passenger Property Loss	Checked Baggage	123.86	Clothing & Accessories	Approved	123.86	Approve in Full
+130174	2008082749223	2008-11-03 00:00:00	2008-06-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Cosmetics,Supplies	Denied	0.0	Deny
+130203	2008110652029	2008-11-03 00:00:00	2008-10-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
+130285	2008110351691	2008-11-05 00:00:00	2008-10-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checked Baggage	520.0	Clothing & Accessories,Electronics	Denied	0.0	Deny
+131125	2008121053245	2008-11-28 00:00:00	2008-07-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	48.76	Clothing & Accessories	Approved	48.76	Approve in Full
+131969	2008123053857	2008-12-22 00:00:00	2008-12-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Watches & Jewelry	Approved	45.0	Approve in Full
+134806	2009032456798	2009-03-09 00:00:00	2009-02-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Canceled	0.0	
+135970	2009042257879	2009-04-07 00:00:00	2009-03-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.99	Electronics	Settled	25.0	Settle
+136197	2009042457953	2009-04-13 00:00:00	2009-04-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	240.0	Outdoors Supplies	Settled	96.0	Settle
+136285	2009050458295	2009-04-15 00:00:00	2009-02-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.95	Outdoors Supplies	Settled	199.98	Settle
+137160	2009052059127	2009-05-11 00:00:00	2009-03-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	4016.36	Containers,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+137493	2009052259402	2009-05-21 00:00:00	2009-05-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	131.48	Other	Denied	0.0	Deny
+137995	2009061160068	2009-06-04 00:00:00	2009-05-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Denied	0.0	Deny
+138173	2009062260482	2009-06-09 00:00:00	2009-05-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Clothing & Accessories	Denied	0.0	Deny
+139860	2009072961898	2009-07-23 00:00:00	2009-06-23 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage	76.67	Cosmetics	Denied	0.0	Deny
+140751	2009082062795	2009-08-17 00:00:00	2009-08-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
+141286	2009090263275	2009-09-01 00:00:00	2009-08-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	297.34	Electronics,Electronics	Denied	0.0	Deny
+141813	2009092163877	2009-09-17 00:00:00	2009-09-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Tools & Machines,Other	Approved	70.0	Approve in Full
+142136	2009100164203	2009-09-28 00:00:00	2009-08-27 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint	255.0	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Canceled		
+142404	2009100764406	2009-10-06 00:00:00	2009-09-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage	45.5	Clothing & Accessories	Approved	45.5	Approve in Full
+144489	2009121766648	2009-12-10 00:00:00	2009-10-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Aer Lingus	Passenger Property Loss	Checked Baggage	27.14	Tools & Machines,Containers	Approved	27.14	Approve in Full
+145860	2010022768808	2010-02-17 00:00:00	2010-02-01 07:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		19.95	Approve in Full
+145979	2010030369006	2010-02-19 00:00:00	2010-01-26 08:40:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.93	Approve in Full
+147046	2010032970179	2010-03-25 00:00:00	2010-03-08 08:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		30.0	Approve in Full
+147063	2010033070227	2010-03-26 00:00:00	2010-02-12 17:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+147212	2010040570430	2010-03-30 00:00:00	2010-03-13 08:50:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Outdoors Supplies		0.0	Deny
+147855	2010042371133	2010-04-19 00:00:00	2010-01-02 11:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		55.21	Approve in Full
+148785	2010050371400	2010-05-18 00:00:00	2010-04-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+149250	2010060472374	2010-06-02 00:00:00	2010-05-23 11:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Food & Drink		17.95	Approve in Full
+149899	2010062973215	2010-06-23 00:00:00	2010-06-07 08:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+150226	2010070973510	2010-07-01 00:00:00	2010-06-20 06:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage		Electronics		99.99	Approve in Full
+150435	2010071673777	2010-07-08 00:00:00	2010-02-09 08:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		19.99	Approve in Full
+150437	2010071673780	2010-07-08 00:00:00	2010-05-27 09:00:00	CVG	Cincinnati/Northern Kentucky International	Air Canada	Passenger Property Loss	Checked Baggage		Outdoors Supplies		19.99	Approve in Full
+150498	2010071973883	2010-07-12 00:00:00	2010-06-19 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+150945	2010073174267	2010-07-23 00:00:00	2010-07-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		18.75	Approve in Full
+151724	2010081975052	2010-08-16 00:00:00	2010-08-04 10:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+151911	2010082475262	2010-08-19 00:00:00	2010-08-18 12:30:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+151971	2010082575327	2010-08-23 00:00:00	2010-08-17 13:48:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Scientific Intruments,Other		0.0	Deny
+152074	2010082775393	2010-08-24 00:00:00	2010-08-20 07:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		6.39	Approve in Full
+153869	2010102377285	2010-10-18 00:00:00	2010-10-03 12:10:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+154481	2010111777924	2010-11-08 00:00:00	2010-10-08 15:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			
+155606	2010122279004	2010-12-14 00:00:00	2010-10-31 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
+155809	2010071273551	2010-12-22 00:00:00	2010-06-29 13:55:00	CVG	Cincinnati/Northern Kentucky International	Air France	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+156356	2011020779962	2011-01-10 00:00:00	2010-11-04 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint		Other		222.8	Settle
+156708	2011021180148	2011-01-20 00:00:00	2010-12-19 06:40:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+157506	2011031081103	2011-02-14 00:00:00	2011-01-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		528.94	Approve in Full
+157584	2011031181137	2011-02-16 00:00:00	2011-02-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+157675	2011031081099	2011-02-22 00:00:00	2011-02-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Continental Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+158957	2011041382406	2011-04-04 00:00:00	2011-03-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		30.0	Approve in Full
+159300	2011042182886	2011-04-14 00:00:00	2011-04-10 15:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+159485	2011042582939	2011-04-20 00:00:00	2011-03-30 14:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink,Food & Drink		0.0	Deny
+159859	2011051183376	2011-05-03 00:00:00	2011-04-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+160924	2011051383416	2011-06-08 00:00:00	2011-04-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+161834	2011072185410	2011-07-07 00:00:00	2011-06-29 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
+162431	2011081185996	2011-07-26 00:00:00	2011-05-08 12:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Other,Clothing & Accessories		492.3	Settle
+162437	2011081186010	2011-07-26 00:00:00	2011-07-16 18:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		71.98	Settle
+162677	2011081986287	2011-08-02 00:00:00	2011-07-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		28.4	Settle
+162832	2011082386378	2011-08-08 00:00:00	2011-06-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+163849	2011100487450	2011-09-09 00:00:00	2011-06-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+164180	2011101487929	2011-09-21 00:00:00	2011-08-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		35.0	Approve in Full
+164517	2011100587608	2011-10-05 00:00:00	2011-09-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+164725	2011110288620	2011-10-11 00:00:00	2011-09-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Office Supplies		0.0	Deny
+164857	2011110888781	2011-10-14 00:00:00	2011-09-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Household Items,Watches & Jewelry		0.0	Deny
+167479	2012021791173	2012-01-17 00:00:00	2011-12-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		110.0	Approve in Full
+169195	2012041993062	2012-03-13 00:00:00	2012-02-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+169915	2012050793618	2012-04-10 00:00:00	2012-04-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+171032	2012061294765	2012-05-17 00:00:00	2012-05-08 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint		Other		0.0	Deny
+171269	2012062594901	2012-05-29 00:00:00	2012-05-04 16:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+172527	2012082896279	2012-07-12 00:00:00	2012-06-28 11:40:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		88.0	Approve in Full
+172787	2012083096474	2012-07-23 00:00:00	2012-07-20 09:10:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+173722	2012041292878	2012-08-23 00:00:00	2012-03-13 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+173815	2012101197509	2012-08-27 00:00:00	2012-05-22 00:00:00	CVG	Cincinnati/Northern Kentucky International	British Airways	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+174427	2012102598162	2012-09-17 00:00:00	2012-08-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics,Electronics		500.0	Settle
+175053	2012111598695	2012-10-12 00:00:00	2012-08-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+175403	2012120799161	2012-10-24 00:00:00	2012-10-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+175914	2013011199922	2012-11-13 00:00:00	2012-10-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry		0.0	Deny
+177500	2013020601041	2013-01-17 00:00:00	2012-12-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+177613	2013020801268	2013-01-22 00:00:00	2013-01-18 14:20:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+177770	2013013100753	2013-01-25 00:00:00	2013-01-16 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+178624	2013022602099	2013-02-26 00:00:00	2013-01-04 20:40:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		69.3	Approve in Full
+178964	2013031802631	2013-03-11 00:00:00	2013-02-19 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+179651	2013050303492	2013-04-05 00:00:00	2013-04-03 15:05:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+180807	2013062404648	2013-05-20 00:00:00	2013-05-12 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Electronics		0.0	Deny
+182160	2013073105537	2013-07-08 00:00:00	2013-06-28 09:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+182869	2013090506568	2013-08-01 00:00:00	2013-07-07 18:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		508.32	Approve in Full
+182884	2013090606628	2013-08-01 00:00:00	2013-07-07 09:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+184068	2013102808123	2013-09-10 00:00:00	2013-07-21 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage		Containers			
+184531	2013103108464	2013-09-25 00:00:00	2013-09-07 09:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			
+184754	2013110508685	2013-10-08 00:00:00	2013-09-27 06:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+184939	2013111009052	2013-10-17 00:00:00	2013-09-09 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		52.98	Approve in Full
+185052	2013103008377	2013-10-22 00:00:00	2013-10-04 05:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
+185242	2013110708867	2013-10-29 00:00:00	2013-10-19 11:30:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Containers			
+187288	2014012211040	2014-01-16 00:00:00	2013-12-28 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		270.39	Settle
+188282	2014022712055	2014-02-25 00:00:00	2014-01-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		186.77	Approve in Full
+188909	2014032412701	2014-03-20 00:00:00	2014-03-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+189410	2014041413210	2014-04-09 00:00:00	2014-03-18 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments		60.0	Approve in Full
+189552	2014041813355	2014-04-16 00:00:00	2014-03-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+189743	2014042813552	2014-04-24 00:00:00	2014-04-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+190451	2014052914270	2014-05-20 00:00:00	2014-05-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		327.27	Approve in Full
+191197	2014070815031	2014-06-24 00:00:00	2014-05-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		50.44	Settle
+191402	2014071715239	2014-07-01 00:00:00	2014-06-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+192207	2014082016061	2014-08-05 00:00:00	2014-08-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other		50.0	Settle
+193293	2014092917174	2014-09-12 00:00:00	2014-09-10 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+194025	2014102117919	2014-10-15 00:00:00	2014-10-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics			
+195017	2014120818939	2014-11-20 00:00:00	2014-08-18 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint		Clothing & Accessories			
+196942	2015022520846	2015-02-25 00:00:00	2015-02-14 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics,Cosmetics,Games & Toys		0.0	Deny
+196943	2015031021117	2015-03-10 00:00:00	2015-02-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		41.7	Approve in Full
+196944	2015041721993	2015-04-14 00:00:00	2015-03-26 00:00:00	CVG	Cincinnati/Northern Kentucky International	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+196946	2015042822167	2015-04-28 00:00:00	2015-04-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+196947	2015051322489	2015-05-13 00:00:00	2015-03-15 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+196950	2015052922849	2015-05-26 00:00:00	2015-05-04 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		131.09	Approve in Full
+196951	2015062523421	2015-06-17 00:00:00	2015-06-04 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checked Baggage		Cosmetics			
+196952	2015062923542	2015-06-18 00:00:00	2015-04-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Etihad Airways	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+196953	2015063023565	2015-06-23 00:00:00	2015-04-07 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		7.48	Approve in Full
+196954	2015072124081	2015-07-15 00:00:00	2015-05-17 00:00:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+196957	2015081724926	2015-08-06 00:00:00	2015-07-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		200.0	Approve in Full
+196958	2015082725126	2015-08-18 00:00:00	2015-07-11 00:00:00	CVG	Cincinnati/Northern Kentucky International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+196959	2015092325548	2015-09-09 00:00:00	2015-09-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies		0.0	Deny
+196961	2015091825445	2015-09-18 00:00:00	2015-08-12 00:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+196965	2015120927434	2015-11-12 00:00:00	2015-11-01 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
+196966	2015122027700	2015-12-07 00:00:00	2015-12-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+205588	2016030129232	2016-02-08 00:00:00	2016-02-08 06:00:00	CVG	Cincinnati/Northern Kentucky International		Passenger Property Loss	Checkpoint		Electronics			Insufficient
+205589	2016093034173	2016-08-02 00:00:00	2016-07-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
+205591	2016092733926	2016-08-05 00:00:00	2016-05-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		7.52	Approve in Full
+205592	2016071532742	2016-06-20 00:00:00	2016-05-27 07:25:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		11.95	Approve in Full
+205594	2016080432950	2016-08-04 00:00:00	2016-07-21 00:00:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics		23.0	Approve in Full
+205595	2016102735295	2016-09-14 00:00:00	2016-08-24 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		16.0	Approve in Full
+205596	2016102835315	2016-10-28 00:00:00	2016-09-01 15:30:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		8.99	Approve in Full
+205598	2016042930976	2016-04-13 00:00:00	2016-03-25 00:00:00	CVG	Cincinnati/Northern Kentucky International	British Airways	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+205599	2016100534411	2016-08-25 00:00:00	2016-07-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+205600	2016082333230	2016-08-03 00:00:00	2016-07-20 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+205602	2017010936355	2016-11-09 00:00:00	2016-09-10 15:40:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Containers,Other,Other			In Review
+205603	2016110335488	2016-11-03 00:00:00	2016-09-30 00:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+205607	2016122836155	2016-11-15 00:00:00	2016-11-02 00:00:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+205608	2016051831452	2016-05-04 00:00:00	2016-05-01 17:30:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		201.0	Settle
+213783	2017103144886	2017-10-03 00:00:00	2017-09-25 15:30:00	CVG	Cincinnati/Northern Kentucky International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+213784	2017100544107	2017-09-05 00:00:00	2017-08-28 15:30:00	CVG	Cincinnati/Northern Kentucky International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+213786	2017081442168	2017-08-07 00:00:00	2017-07-03 00:00:00	CVG	Cincinnati/Northern Kentucky International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+213788	2017112545422	2017-11-09 00:00:00	2017-10-21 13:00:00	CVG	Cincinnati/Northern Kentucky International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Food & Drink,Cosmetics			In Review
+213789	2017091943197	2017-08-10 00:00:00	2017-07-23 00:00:00	CVG	 International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			In Review
+213791	2017070541196	2017-05-16 00:00:00	2017-05-08 12:30:00	CVG	Cincinnati/Northern Kentucky International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+213793	2017101244342	2017-09-19 00:00:00	2017-08-21 07:00:00	CVG	 International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review

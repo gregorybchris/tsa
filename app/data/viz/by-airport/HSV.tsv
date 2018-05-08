@@ -1,0 +1,124 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+855	24456	2002-12-23 00:00:00	2002-11-28 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checkpoint	190.79	Electronics	Approved	191.0	Approve in Full
+4300	0327001L	2003-03-27 00:00:00	2003-02-24 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	40031.6	Watches & Jewelry	Denied	0.0	Deny
+5396	0421016L	2003-04-21 00:00:00	2003-03-29 00:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Other	50.0	Other	Settled	25.0	Settle
+6773	0520208L	2003-05-20 00:00:00	2003-05-02 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8825.0	Watches & Jewelry	Denied	0.0	Deny
+6823	0520053L	2003-05-20 00:00:00	2003-05-09 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checkpoint	250.0	Electronics	Settled	120.0	Settle
+8841	0618078L	2003-06-18 00:00:00	2003-06-01 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checkpoint	591.0	Other	Approved	591.0	Approve in Full
+38028	2004070658593	2004-06-16 00:00:00	2004-05-22 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	700.0	Watches & Jewelry	Denied	0.0	Deny
+39952	2004080360454	2004-07-12 00:00:00	2004-06-19 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Settled	75.0	Settle
+47825	2004121469048	2004-10-20 00:00:00	2004-10-10 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	145.0	Watches & Jewelry	Canceled	0.0	
+58475	2005032379594	2005-03-07 00:00:00	2005-02-25 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	3.2	Tools & Machines	Approved	3.2	Approve in Full
+61220	2005040882033	2005-04-07 00:00:00	2005-02-11 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+62197	2005042183046	2005-04-20 00:00:00	2005-04-13 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	450.5	Clothing & Accessories	Denied	0.0	Deny
+64647	2005053185576	2005-05-24 00:00:00	2005-05-08 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	229.0	Cosmetics	Canceled	0.0	
+66962	2005070188119	2005-06-27 00:00:00	2005-06-14 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
+67403	2005070688371	2005-07-05 00:00:00	2005-01-05 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	1428.08	Electronics	Denied	0.0	Deny
+67845	2005071288770	2005-07-11 00:00:00	2005-06-04 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Settled	412.0	Settle
+70434	2005082591416	2005-08-19 00:00:00	2005-05-09 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	21.99	Other	Canceled	0.0	
+72441	2005100393647	2005-09-20 00:00:00	2005-08-31 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	411.22	Electronics	Denied	0.0	Deny
+72758	2005100493922	2005-09-27 00:00:00	2005-09-03 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.71	Tools & Machines	Approved	9.71	Approve in Full
+74630	2005110895755	2005-10-28 00:00:00	2005-10-19 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.39	Tools & Machines	Denied	0.0	Deny
+78880	2006012300022	2006-01-17 00:00:00	2006-01-03 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	473.0	Other	Denied	0.0	Deny
+80178	2006021001337	2006-02-07 00:00:00	2006-01-29 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	64.79	Other	Approved	64.79	Approve in Full
+81293	2006030602528	2006-02-27 00:00:00	2006-02-11 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	145.04	Clothing & Accessories	Approved	145.04	Approve in Full
+85115	2006051506295	2006-05-11 00:00:00	2006-04-20 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.0	Clothing & Accessories	Approved	89.0	Approve in Full
+85268	2006051706496	2006-05-16 00:00:00	2006-05-04 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	35.0	Tools & Machines	Approved	35.0	Approve in Full
+85628	2006052406877	2006-05-22 00:00:00	2004-10-09 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	12205.0	Watches & Jewelry	Denied	0.0	Deny
+86065	2006060507331	2006-05-31 00:00:00	2006-05-20 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	69.99	Electronics,Other	Denied	0.0	Deny
+86265	2006060607472	2006-06-05 00:00:00	2006-05-29 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checked Baggage	34.65	Supplies	Canceled	0.0	
+87005	2006062008246	2006-06-19 00:00:00	2006-06-03 00:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	39.95	Other	Denied	0.0	Deny
+88389	2006071809640	2006-07-14 00:00:00	2006-06-30 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	403.99	Tools & Machines,Cosmetics,Scientific Intruments	Denied	0.0	Deny
+89380	2006081010680	2006-08-03 00:00:00	2006-07-23 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	6140.0	Watches & Jewelry	Denied	0.0	Deny
+89945	2006081711245	2006-08-15 00:00:00	2006-06-30 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	331.57	Electronics,Electronics	Canceled	0.0	
+92381	2006100513648	2006-09-29 00:00:00	2006-09-06 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	103.7	Cosmetics	Settled	51.85	Settle
+95226	2006113016541	2006-11-27 00:00:00	2006-11-25 00:00:00	HSV	Huntsville International Airport	American Eagle	Passenger Property Loss	Checkpoint	439.97	Electronics	Denied	0.0	Deny
+95854	2006121517204	2006-12-07 00:00:00	2006-11-09 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1895.69	Electronics	Denied	0.0	Deny
+96043	2006121517305	2006-12-12 00:00:00	2006-12-01 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Approved	5.0	Approve in Full
+96526	2006122217810	2006-12-20 00:00:00	2006-12-14 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	144.0	Other	Denied	0.0	Deny
+96534	2006122217783	2006-12-20 00:00:00	2006-12-14 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	331.53	Electronics	Settled	100.0	Settle
+96662	2006122818123	2006-12-26 00:00:00	2006-12-17 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	89.9	Electronics,Tools & Machines,Other	Approved	89.9	Approve in Full
+98218	2007012419343	2007-01-16 00:00:00	2006-06-18 00:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	193.49	Containers,Other	Settled	96.75	Settle
+98683	2007013119984	2007-01-23 00:00:00	2007-01-19 00:00:00	HSV	Huntsville International Airport	American Central	Passenger Property Loss	Checked Baggage	322.17	Electronics	Settled	289.95	Settle
+101531	2007032322836	2007-03-19 00:00:00	2007-02-28 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checkpoint	40.82	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+103568	2007050124772	2007-04-30 00:00:00	2007-04-24 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Denied	0.0	Deny
+104259	2007051825670	2007-05-14 00:00:00	2006-12-03 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	611.67	Clothing & Accessories	Denied	0.0	Deny
+104398	2007051825633	2007-05-16 00:00:00	2007-04-12 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	641.79	Clothing & Accessories,Clothing & Accessories	Settled	290.17	Settle
+105417	2007061126619	2007-06-06 00:00:00	2007-06-03 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	70.0	Cosmetics	Denied	0.0	Deny
+106850	2007071128147	2007-07-06 00:00:00	2007-06-22 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.18	Tools & Machines	Approved	25.18	Approve in Full
+107686	2007072428930	2007-07-23 00:00:00	2007-02-28 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checkpoint	40.82	Other	Approved	40.82	Approve in Full
+108827	2007081430202	2007-08-10 00:00:00	2007-03-13 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	30.46	Electronics,Electronics	Canceled	0.0	
+109200	2007082130513	2007-08-17 00:00:00	2007-05-18 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	480.0	Cosmetics	Denied	0.0	Deny
+109648	2007082831027	2007-08-24 00:00:00	2007-07-21 00:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Office Supplies,Supplies	Denied	0.0	Deny
+110605	2007091431990	2007-09-12 00:00:00	2007-09-09 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checked Baggage	79.89	Other	Denied	0.0	Deny
+110699	2007091732040	2007-09-13 00:00:00	2007-08-26 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	298.0	Clothing & Accessories	Settled	149.48	Settle
+111224	2007092532503	2007-09-24 00:00:00	2007-09-13 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	339.77	Watches & Jewelry,Other	Settled	169.75	Settle
+111956	2007101133295	2007-10-10 00:00:00	2007-09-27 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.16	Cosmetics	Denied	0.0	Deny
+112585	2007102533899	2007-10-22 00:00:00	2007-07-29 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	600.0	Electronics,Electronics	Settled	229.89	Settle
+116096	2008011037664	2008-01-04 00:00:00	2007-12-18 00:00:00	HSV	Huntsville International Airport	UAL	Passenger Property Loss	Checked Baggage	300.0	Cosmetics	Denied	0.0	Deny
+118284	2008022039848	2008-02-13 00:00:00	2008-01-06 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	57.99	Outdoors Supplies	Denied	0.0	Deny
+119183	2008031240859	2008-03-03 00:00:00	2008-02-12 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	215.0	Other	Denied	0.0	Deny
+120994	2008042243117	2008-04-07 00:00:00	2008-03-02 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	151.56	Electronics	Settled	75.78	Settle
+121147	2008041842922	2008-04-10 00:00:00	2008-04-04 00:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	158.77	Electronics	Denied	0.0	Deny
+121873	2008043043574	2008-04-25 00:00:00	2008-04-21 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checked Baggage	72.02	Food & Drink	Canceled	0.0	
+122011	2008050944058	2008-04-28 00:00:00	2008-04-21 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checked Baggage	173.15	Food & Drink,Clothing & Accessories	Denied	0.0	Deny
+123074	2008051444253	2008-05-21 00:00:00	2008-03-02 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1310.0	Other	Denied	0.0	Deny
+123146	2008052744797	2008-05-22 00:00:00	2008-05-16 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	670.0	Electronics	Denied	0.0	Deny
+123763	2008061045473	2008-06-04 00:00:00	2008-05-17 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
+127517	2008082949290	2008-08-27 00:00:00	2008-06-13 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	151.24	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+129678	2008102751624	2008-10-20 00:00:00	2008-10-07 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2117.0	Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
+129889	2008110451818	2008-10-24 00:00:00	2008-09-28 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	78.84	Cosmetics	Settled	39.42	Settle
+130356	2008111452225	2008-11-07 00:00:00	2008-10-14 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	21.83	Household Decor,Household Items	Approved	21.83	Approve in Full
+130815	2008112052617	2008-11-19 00:00:00	2008-11-06 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	5000.0	Watches & Jewelry	Denied	0.0	Deny
+131056	2008112852855	2008-11-25 00:00:00	2008-11-17 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	81.15	Clothing & Accessories	Denied	0.0	Deny
+131141	2008120152962	2008-11-28 00:00:00	2008-11-21 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	5259.95	Electronics,Electronics,Electronics,Containers	Denied	0.0	Deny
+132137	2008123153949	2008-12-24 00:00:00	2008-10-13 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	181.0	Other	Denied	0.0	Deny
+132719	2009012354795	2009-01-09 00:00:00	2008-11-30 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+133947	2009022655835	2009-02-11 00:00:00	2008-12-25 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	247.0	Electronics,Other	Denied	0.0	Deny
+135777	2009041757729	2009-04-01 00:00:00	2009-02-22 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.64	Electronics,Electronics	Denied	0.0	Deny
+137230	2009052159210	2009-05-13 00:00:00	2009-04-24 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Denied	0.0	Deny
+137545	2009052759516	2009-05-22 00:00:00	2008-07-31 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checked Baggage	249.0	Other	Denied	0.0	Deny
+138930	2009070760902	2009-06-30 00:00:00	2009-01-06 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	5635.3	Electronics,Watches & Jewelry	Denied	0.0	Deny
+139090	2009060259737	2009-07-06 00:00:00	2009-05-21 00:00:00	HSV	Huntsville International Airport	UAL	Passenger Property Loss	Checked Baggage	50.0	Containers,Cosmetics	Approved	50.0	Approve in Full
+139422	2009072161572	2009-07-13 00:00:00	2008-01-29 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1146.13	Cosmetics	Denied	0.0	Deny
+139601	2009072261627	2009-07-16 00:00:00	2009-06-05 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	21.6	Tools & Machines	Denied	0.0	Deny
+139882	2009073162055	2009-07-24 00:00:00	2009-07-13 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.59	Clothing & Accessories	Approved	6.59	Approve in Full
+140390	2009080662376	2009-08-06 00:00:00	2009-08-02 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
+140809	2009082162867	2009-08-18 00:00:00	2009-08-07 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.64	Containers	Denied	0.0	Deny
+141059	2009083163145	2009-08-26 00:00:00	2009-07-25 00:00:00	HSV	Huntsville International Airport	UAL	Passenger Property Loss	Checked Baggage	300.0	Outdoors Supplies	Approved	300.0	Approve in Full
+141197	2009083163182	2009-08-31 00:00:00	2009-08-19 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Cosmetics	Denied	0.0	Deny
+142567	2009102064550	2009-10-13 00:00:00	2009-10-06 09:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	34.95	Household Items	Denied	0.0	Deny
+142829	2009091563688	2009-10-21 00:00:00	2009-06-10 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1719.0	Electronics	Denied	0.0	Deny
+142971	2009102964960	2009-10-26 00:00:00	2009-10-19 00:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	593.68	Watches & Jewelry,Watches & Jewelry,Containers,Watches & Jewelry	Denied	0.0	Deny
+142999	2009110365080	2009-10-26 00:00:00	2009-10-04 15:00:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Electronics	Denied	0.0	Deny
+143266	2009110665210	2009-11-03 00:00:00	2009-10-19 05:30:00	HSV	Huntsville International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Denied	0.0	Deny
+143542	2009112465675	2009-11-12 00:00:00	2009-10-21 18:05:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	119.31	Other,Office Supplies	Denied	0.0	Deny
+143636	2010011167397	2009-11-13 00:00:00	2009-06-10 00:00:00	HSV	Huntsville International Airport	UAL	Passenger Property Loss	Checked Baggage	1807.0	Electronics	Denied	0.0	Deny
+143810	2009112565763	2009-11-19 00:00:00	2009-11-08 12:10:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage	37.35	Household Items	Approved	37.35	Approve in Full
+143825	2009112565764	2009-11-19 00:00:00	2009-11-06 12:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	313.95	Electronics,Other	Denied	0.0	Deny
+145325	2010012667874	2010-01-21 00:00:00	2010-01-04 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+146449	2010031369585	2010-03-08 00:00:00	2010-02-11 16:30:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+146526	2010031869675	2010-03-09 00:00:00	2010-02-20 10:30:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+150688	2010072674076	2010-07-15 00:00:00	2010-07-16 00:00:00	HSV	Huntsville International Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		8.39	Approve in Full
+151777	2010082275217	2010-08-16 00:00:00	2010-07-31 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+154620	2010112278035	2010-11-10 00:00:00	2010-10-26 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other,Other,Other,Other,Other		0.0	Deny
+155172	2010120478502	2010-11-30 00:00:00	2010-11-29 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+155883	2011010779248	2010-12-27 00:00:00	2010-12-01 06:00:00	HSV	Huntsville International Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+158752	2011041282147	2011-03-29 00:00:00	2011-04-12 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+159647	2011050283133	2011-04-26 00:00:00	2011-04-19 10:20:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+161318	2011063084791	2011-06-21 00:00:00	2011-04-25 12:00:00	HSV	Huntsville International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		230.0	Approve in Full
+162058	2011072785545	2011-07-15 00:00:00	2011-04-25 12:22:00	HSV	Huntsville International Airport		Passenger Property Loss			Electronics			
+163221	2011081986286	2011-08-19 00:00:00	2011-07-25 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		15.99	Approve in Full
+164724	2011110288618	2011-10-11 00:00:00	2011-08-17 00:00:00	HSV	Huntsville International Airport		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+165415	2011111589022	2011-11-02 00:00:00	2011-10-25 12:30:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+171353	2012062895022	2012-05-30 00:00:00	2012-05-22 00:00:00	HSV	Huntsville International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics,Other,Clothing & Accessories		0.0	Deny
+172254	2012072595691	2012-07-03 00:00:00	2012-06-02 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		32.54	Settle
+176809	2012122199351	2012-12-21 00:00:00	2012-11-01 00:00:00	HSV	Huntsville International Airport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+178548	2013030402341	2013-02-22 00:00:00	2013-02-02 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+198566	2015061123059	2015-06-05 00:00:00	2015-05-23 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+198567	2015072424217	2015-07-17 00:00:00	2015-07-06 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Clothing & Accessories,Clothing & Accessories,Household Decor		0.0	Deny
+198570	2015112427107	2015-11-09 00:00:00	2015-10-15 00:00:00	HSV	Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		65.0	Approve in Full
+215432	2017041938691	2017-02-02 00:00:00	2017-01-27 06:00:00	HSV	Huntsville International Airport Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor		0.0	Deny
+215436	2017060140114	2017-05-18 00:00:00	2017-05-13 05:07:00	HSV	Huntsville International Airport Huntsville International Airport	UAL	Passenger Property Loss	Checked Baggage		Other		110.0	Approve in Full
+215437	2017101844499	2017-09-18 00:00:00	2017-08-22 00:00:00	HSV	Huntsville International Airport Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Insufficient
+215438	2017042739049	2017-02-24 00:00:00	2017-01-06 00:00:00	HSV	Huntsville International Airport Huntsville International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review

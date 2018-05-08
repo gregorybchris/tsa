@@ -1,0 +1,38 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+3621	0313032L	2003-03-13 00:00:00	2003-02-21 00:00:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
+11182	0717097M	2003-07-17 00:00:00	2003-07-04 00:00:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage	237.55	Cosmetics	Settled	113.39	Settle
+40813	2004082761486	2004-07-23 00:00:00	2004-05-24 00:00:00	MRY	Monterey Peninsula Airport	American Eagle	Passenger Property Loss	Checkpoint	31.78	Other	Approved	31.78	Approve in Full
+51570	2004123071960	2004-12-08 00:00:00	2004-10-27 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage	78.06	Other	Canceled	78.06	
+57481	2005031678526	2005-02-16 00:00:00	2005-01-31 00:00:00	MRY	Monterey Peninsula Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	519.93	Electronics	Denied	0.0	Deny
+59134	2005032880139	2005-03-09 00:00:00	2005-02-09 00:00:00	MRY	Monterey Peninsula Airport		Passenger Property Loss	Checked Baggage	243.97	Electronics	Settled	50.54	Settle
+62209	2005042283150	2005-04-20 00:00:00	2005-03-25 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage	9737.5	Watches & Jewelry	Denied	0.0	Deny
+66644	2005062887528	2005-06-21 00:00:00	2005-06-11 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage	390.0	Electronics	Denied	0.0	Deny
+78280	2006012300087	2006-01-08 00:00:00	2005-11-09 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
+92011	2006092613225	2006-09-22 00:00:00	2006-08-24 00:00:00	MRY	Monterey Peninsula Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	625.0	Watches & Jewelry	Denied	0.0	Deny
+92261	2006100313550	2006-09-28 00:00:00	2006-09-09 00:00:00	MRY	Monterey Peninsula Airport	American Eagle	Passenger Property Loss	Checked Baggage	508.44	Clothing & Accessories,Watches & Jewelry	Approved	508.44	Approve in Full
+96113	2006122017452	2006-12-12 00:00:00	2006-11-04 00:00:00	MRY	Monterey Peninsula Airport		Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
+100000	2007022021208	2007-02-15 00:00:00	2007-02-05 00:00:00	MRY	Monterey Peninsula Airport		Passenger Property Loss	Checked Baggage	26.94	Tools & Machines	Approved	26.94	Approve in Full
+114718	2007120736214	2007-12-04 00:00:00	2007-11-26 00:00:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage	700.0	Watches & Jewelry	Denied	0.0	Deny
+119072	2008031040707	2008-02-29 00:00:00	2008-01-21 00:00:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage	1747.13	Clothing & Accessories	Denied	0.0	Deny
+123835	2008061045460	2008-06-06 00:00:00	2008-04-27 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage	1660.0	Containers,Supplies	Denied	0.0	Deny
+128058	2008091249802	2008-09-09 00:00:00	2008-08-28 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage	800.0	Other,Clothing & Accessories	Denied	0.0	Deny
+134478	2009022355753	2009-02-27 00:00:00	2008-12-30 00:00:00	MRY	Monterey Peninsula Airport	USAir	Passenger Property Loss	Checked Baggage	59.99	Games & Toys	Denied	0.0	Deny
+135102	2009033057036	2009-03-16 00:00:00	2009-03-06 00:00:00	MRY	Monterey Peninsula Airport	USAir	Passenger Property Loss	Checked Baggage	65.0	Outdoors Supplies	Approved	65.0	Approve in Full
+137672	2009052959628	2009-05-27 00:00:00	2009-03-26 00:00:00	MRY	Monterey Peninsula Airport	Allegiant Air	Passenger Property Loss	Checked Baggage	414.98	Electronics	Denied	0.0	Deny
+141799	2009092163873	2009-09-16 00:00:00	2009-09-05 00:00:00	MRY	Monterey Peninsula Airport	US Express	Passenger Property Loss	Checked Baggage	70.69	Cosmetics	Denied	0.0	Deny
+148624	2010051871895	2010-05-12 00:00:00	2010-04-30 19:00:00	MRY	Monterey Peninsula Airport	Allegiant Air	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+149234	2010061772759	2010-06-01 00:00:00	2010-05-03 00:00:00	MRY	Monterey Peninsula Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+151590	2010081374875	2010-08-10 00:00:00	2010-07-25 16:50:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.0	Approve in Full
+157555	2011031181127	2011-02-15 00:00:00	2010-03-28 17:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+159204	2011041482499	2011-04-12 00:00:00	2011-02-16 00:00:00	MRY	Monterey Peninsula Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+159213	2011041482629	2011-04-12 00:00:00	2011-03-23 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+169318	2012041392882	2012-03-19 00:00:00	2012-03-16 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss			Electronics			
+169379	2012041292854	2012-03-21 00:00:00	2012-02-03 05:00:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics			
+171537	2012071195235	2012-06-06 00:00:00	2012-04-22 18:00:00	MRY	Monterey Peninsula Airport	USAir	Passenger Property Loss	Checked Baggage		Containers			
+175621	2012112898925	2012-11-02 00:00:00	2012-10-30 12:35:00	MRY	Monterey Peninsula Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+176220	2013011099842	2012-11-26 00:00:00	2012-10-20 05:15:00	MRY	Monterey Peninsula Airport		Passenger Property Loss	Checkpoint		Watches & Jewelry,Other		0.0	Deny
+178640	2013030402381	2013-02-26 00:00:00	2013-01-24 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+184053	2013102307714	2013-09-10 00:00:00	2013-09-08 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		100.0	Approve in Full
+188289	2014022712062	2014-02-25 00:00:00	2014-02-14 00:00:00	MRY	Monterey Peninsula Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		624.5	Settle
+194313	2014110418212	2014-11-04 00:00:00	2014-10-31 00:00:00	MRY	Monterey Peninsula Airport	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+210011	2016042930971	2016-04-29 00:00:00	2016-04-29 00:00:00	MRY	Monterey Peninsula Airport Monterey Peninsula Airport		Passenger Property Loss	Checked Baggage		Clothing & Accessories			Insufficient

@@ -1,0 +1,13 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+74380	2005103195422	2005-10-25 00:00:00	2005-10-07 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	225.16	Other	Denied	0.0	Deny
+110021	2007090531385	2007-08-31 00:00:00	2007-07-16 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics	Denied	0.0	Deny
+118667	2008022940332	2008-02-21 00:00:00	2008-02-19 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	665.43	Electronics	Denied	0.0	Deny
+130244	2008111052129	2008-11-03 00:00:00	2008-09-14 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	187.24	Cosmetics	Denied	0.0	Deny
+170940	2012060594535	2012-05-15 00:00:00	2012-05-05 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Approve in Full
+188061	2014022011830	2014-02-20 00:00:00	2014-01-11 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+192626	2014091016494	2014-08-18 00:00:00	2014-07-30 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		74.0	Approve in Full
+196473	2015092425596	2015-09-10 00:00:00	2015-09-07 00:00:00	BQK	Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+205097	2016031129642	2016-02-29 00:00:00	2016-02-27 13:02:00	BQK	Glynco Jetport Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		6.31	Approve in Full
+205098	2016032330025	2016-03-09 00:00:00	2016-03-04 11:42:00	BQK	Glynco Jetport Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items		15.99	Approve in Full
+205101	2016071932782	2016-06-22 00:00:00	2016-06-10 16:45:00	BQK	Glynco Jetport Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics,Electronics		345.0	Settle
+213338	2017112945619	2017-11-16 00:00:00	2017-10-12 00:00:00	BQK	Glynco Jetport Glynco Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review

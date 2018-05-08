@@ -1,0 +1,13 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+53749	2005012674364	2005-01-06 00:00:00	2004-12-27 00:00:00	FLO	Florence Regional		Passenger Property Loss	Checked Baggage	249.0	Electronics	Settled	124.5	Settle
+78621	2006011899780	2006-01-11 00:00:00	2006-12-25 00:00:00	FLO	Florence Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	230.0	Clothing & Accessories	Canceled	0.0	
+121371	2008042143041	2008-04-14 00:00:00	2008-03-23 00:00:00	FLO	Florence Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.95	Cosmetics	Settled	20.0	Settle
+125889	2008072947602	2008-07-23 00:00:00	2008-07-06 00:00:00	FLO	Florence Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	637.97	Electronics,Other	Denied	0.0	Deny
+132233	2009010654124	2008-12-29 00:00:00	2008-11-28 00:00:00	FLO	Florence Regional	USAir	Passenger Property Loss	Checked Baggage	420.0	Clothing & Accessories	Denied	0.0	Deny
+134432	2009031656276	2009-02-26 00:00:00	2009-02-11 00:00:00	FLO	Florence Regional	USAir	Passenger Property Loss	Checked Baggage	179.99	Electronics	Denied	0.0	Deny
+139679	2009072961911	2009-07-20 00:00:00	2009-06-30 00:00:00	FLO	Florence Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	24.59	Clothing & Accessories	Canceled	0.0	
+153283	2010100676731	2010-09-28 00:00:00	2010-08-14 00:00:00	FLO	Florence Regional	American Airlines	Passenger Property Loss	Checkpoint		Electronics,Watches & Jewelry,Electronics,Games & Toys		0.0	Deny
+182490	2013082306197	2013-07-18 00:00:00	2013-07-13 18:00:00	FLO	Florence Regional	USAir	Passenger Property Loss	Checkpoint		Other		100.0	Approve in Full
+188130	2014022111900	2014-02-19 00:00:00	2014-02-10 00:00:00	FLO	Florence Regional	USAir	Passenger Property Loss	Checkpoint		Other		100.0	Approve in Full
+206913	2016092834073	2016-08-10 00:00:00	2016-07-07 12:12:00	FLO	Florence Regional Florence Regional	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		799.0	Approve in Full
+215168	2017050339191	2017-03-11 00:00:00	2017-01-24 00:00:00	FLO	Florence Regional Florence Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review

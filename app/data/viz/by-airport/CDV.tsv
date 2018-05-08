@@ -1,0 +1,8 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+8855	0618042L	2003-06-18 00:00:00	2003-02-16 00:00:00	CDV	Merle K (Mudhole) Smith	Alaska Airlines	Passenger Property Loss	Checked Baggage	160.92	Watches & Jewelry	Canceled	0.0	
+43602	2004092163222	2004-08-31 00:00:00	2004-08-24 00:00:00	CDV	Merle K (Mudhole) Smith		Passenger Property Loss	Checked Baggage	23.52	Tools & Machines	Approved	23.52	Approve in Full
+113923	2007112335342	2007-11-19 00:00:00	2007-09-01 00:00:00	CDV	Merle K (Mudhole) Smith	Alaska Airlines	Passenger Property Loss	Checked Baggage	141.95	Outdoors Supplies	Denied	0.0	Deny
+163912	2011100587574	2011-09-12 00:00:00	2011-09-01 20:00:00	CDV	Merle K (Mudhole) Smith	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		30.0	Approve in Full
+172742	2012083096448	2012-07-19 00:00:00	2012-06-30 13:00:00	CDV	Merle K (Mudhole) Smith	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+174787	2012111098563	2012-10-01 00:00:00	2012-09-06 00:00:00	CDV	Merle K (Mudhole) Smith	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+205298	2016101134585	2016-09-21 00:00:00	2016-09-09 00:00:00	CDV	Merle K (Mudhole) Smith Merle K (Mudhole) Smith	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Closed:Canceled

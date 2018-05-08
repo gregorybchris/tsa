@@ -1,0 +1,28 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+27608	0210232M	2004-02-10 00:00:00	2003-12-29 00:00:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry	Settled	488.8	Settle
+32385	2004052153023	2004-04-15 00:00:00	2004-01-05 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checkpoint	550.0	Electronics	Approved	550.0	Approve in Full
+38631	2004071459246	2004-06-24 00:00:00	2004-05-03 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checkpoint	3215.35	Watches & Jewelry	Denied	0.0	Deny
+69097	2005080590111	2005-07-29 00:00:00	2005-06-30 00:00:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage	273.56	Electronics	Canceled	0.0	
+92680	2006101814132	2006-10-06 00:00:00	2006-09-30 00:00:00	ROA	Roanoke Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	40.47	Electronics,Electronics	Denied	0.0	Deny
+109366	2007082330694	2007-08-21 00:00:00	2007-08-11 00:00:00	ROA	Roanoke Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	303.41	Electronics	Denied	0.0	Deny
+141727	2009091663703	2009-09-15 00:00:00	2009-09-11 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checkpoint	299.0	Electronics	Denied	0.0	Deny
+142736	2009102864830	2009-10-16 00:00:00	2009-08-05 09:16:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage	109.0	Clothing & Accessories	Settled	35.7	Settle
+145926	2010030369017	2010-02-18 00:00:00	2010-01-29 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+152206	2010090175572	2010-08-27 00:00:00	2010-08-06 18:45:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		26.91	Approve in Full
+152365	2010090875790	2010-08-31 00:00:00	2010-08-19 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+154495	2010111877948	2010-11-08 00:00:00	2010-10-30 00:00:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+154753	2010112778239	2010-11-15 00:00:00	2010-10-30 00:00:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+156644	2011020980067	2011-01-19 00:00:00	2011-01-16 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+158375	2011040481840	2011-03-15 00:00:00	2011-02-07 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Watches & Jewelry		0.0	Deny
+160011	2011051883522	2011-05-09 00:00:00	2011-04-22 05:30:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+160579	2011060784102	2011-05-26 00:00:00	2011-05-24 09:30:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+169569	2012042593206	2012-03-27 00:00:00	2012-03-09 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		144.95	Approve in Full
+180377	2013060503968	2013-05-03 00:00:00	2013-04-01 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+185874	2013112509639	2013-11-23 00:00:00	2013-11-13 09:00:00	ROA	Roanoke Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Other			
+193503	2014100617386	2014-09-23 00:00:00	2014-09-13 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+202945	2015062923531	2015-06-23 00:00:00	2015-05-31 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+202946	2015062923532	2015-06-23 00:00:00	2015-03-03 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checked Baggage		Cosmetics		12.5	Approve in Full
+202948	2015092425625	2015-09-11 00:00:00	2015-07-29 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
+202950	2015102226195	2015-10-02 00:00:00	2015-09-07 00:00:00	ROA	Roanoke Regional Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		335.42	Approve in Full
+202952	2015121627630	2015-12-03 00:00:00	2015-12-02 00:00:00	ROA	Roanoke Regional Airport		Passenger Property Loss	Checked Baggage		Electronics			
+219583	2017083142568	2017-07-01 00:00:00	2017-06-04 05:00:00	ROA	Roanoke Regional Airport Roanoke Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
