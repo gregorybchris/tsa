@@ -1,5 +1,6 @@
 function setupMap() {
     let svg = d3.select("#map-svg")
+
     let width = +svg.attr("width")
     let height = +svg.attr("height")
 
@@ -11,7 +12,10 @@ function setupMap() {
         .projection(projection)
         .pointRadius(1)
 
-    let tooltip = d3.select("body").append("div").attr("class", "tooltip")
+    let tooltip = d3.select("body").append("div")
+      .attr("class", "tooltip")
+
+    let airportSelected = false
 
     d3.queue()
         .defer(d3.json, 'data/lib/us.json')
@@ -36,7 +40,7 @@ function setupMap() {
             case 'median_close_amount':
                 return (a, b) => b.med_close - a.med_close
             default:
-            console.error('invalid sortBy parameter')
+              console.error('invalid sortBy parameter')
         }
     }
 
@@ -61,9 +65,22 @@ function setupMap() {
                 .style("stroke-opacity", 0.8)
                 .style("stroke-width", .2)
                 .attr("d", path)
-                .on("mouseover", d => {
-                    // console.log("State Name: ", stateNames[d.id])
+                .on("mouseover", function(d) {
+                  console.log("State Name: ", stateNames[d.id])
+                  console.log(this, d3.select(this))
                 })
+
+        svg.on('click', () => {
+          if (airportSelected) {
+            airportSelected = false
+            changeAirport(undefined)
+            d3.selectAll(".map-airport-indicator")
+              .attr("selected", false)
+              .transition()
+              .duration(300)
+              .attr("opacity", 0.5)
+          }
+        })
 
         // draw airports
         svg.selectAll("circle")
@@ -79,7 +96,6 @@ function setupMap() {
         	.attr("fill", "rgb(108, 34, 125)")
             .attr("opacity", 0.5)
             .on('mouseover', function(d) {
-                d3.select(this).attr("fill", "rgb(255, 140, 26)")
                 let text = "<span class='tooltip-text'>" + d.Airport + "</span>"
                 tooltip.style("left", d3.event.pageX + 10 + "px")
                     .style("top", d3.event.pageY - 10 + "px")
@@ -87,15 +103,42 @@ function setupMap() {
                     .html(text)
             })
             .on('mouseout', function(d) {
-                d3.select(this).attr("fill", "rgb(108, 34, 125)")
                 tooltip.style("display", "none")
             })
             .on('click', function(d) {
+                d3.event.stopPropagation()
                 const circle = d3.select(this)
-                const selected = circle.attr("selected") === 'true'
-                const toColor = selected ? 'teal' : 'red'
-                circle.attr('selected', !selected)
-                circle.attr('fill', toColor)
+                const wasSelected = circle.attr("selected") !== 'false'
+                if (wasSelected) {
+                  airportSelected = false
+                  changeAirport(undefined)
+                  d3.selectAll(".map-airport-indicator")
+                    .transition()
+                    .duration(300)
+                    .attr("opacity", 0.5)
+                } else {
+                  airportSelected = true
+                  changeAirport(d.airport_code)
+                  d3.selectAll(".map-airport-indicator")
+                    .transition()
+                    .duration(300)
+                    .attr('opacity', other => {
+                      if (other.Airport === d.Airport) {
+                        return 0.75
+                      } else {
+                        return 0.25
+                      }
+                    })
+                }
+                svg.classed('clickable-state', airportSelected)
+                d3.selectAll(".map-airport-indicator")
+                  .attr('selected', other => {
+                    if (other.Airport === d.Airport) {
+                      return !wasSelected
+                    } else {
+                      return false
+                    }
+                  })
             })
 
         function changeCircleSize(sortBy, getValue) {

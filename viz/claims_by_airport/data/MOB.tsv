@@ -1,0 +1,51 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+32354	2004051452153	2004-04-13 00:00:00	2004-01-29 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	327.28	Watches & Jewelry	Approved	327.28	Approve in Full
+34410	2004051351810	2004-05-04 00:00:00		MOB	Mobile Regional		Passenger Property Loss	Checked Baggage	125.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+41552	2004091663066	2004-08-03 00:00:00	2004-07-15 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	103.0	Clothing & Accessories	Denied	0.0	Deny
+44401	2004102265578	2004-09-09 00:00:00	2004-08-10 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checked Baggage	409.91	Other	Settled	289.0	Settle
+47025	2004112767870	2004-10-08 00:00:00	2004-09-30 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checkpoint	500.0	Other	Denied	0.0	Deny
+48219	2004121068959	2004-10-26 00:00:00	2004-10-02 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	30.46	Other	Approved	30.46	Approve in Full
+51672	2005010472662	2004-12-10 00:00:00	2004-09-22 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Canceled	0.0	
+52321	2005010572828	2004-12-17 00:00:00	2004-11-30 00:00:00	MOB	Mobile Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	2400.0	Other	Denied	0.0	Deny
+55223	2005021676259	2005-01-24 00:00:00	2005-12-28 00:00:00	MOB	Mobile Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+59019	2005032579881	2005-03-09 00:00:00	2005-02-06 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	10.92	Cosmetics	Denied	0.0	Deny
+64900	2005060385787	2005-05-31 00:00:00	2005-05-11 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checkpoint	100.0	Electronics	Denied	0.0	Deny
+66581	2005062887581	2005-06-21 00:00:00	2005-06-13 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checkpoint	87.75	Other	Approved	87.75	Approve in Full
+66658	2005062887583	2005-06-21 00:00:00	2005-06-08 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Denied	0.0	Deny
+70285	2005082391239	2005-08-16 00:00:00	2005-07-30 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	2593.0	Electronics	Settled	227.09	Settle
+70408	2005082491369	2005-08-18 00:00:00	2005-06-02 00:00:00	MOB	Mobile Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	280.0	Other	Settled	142.5	Settle
+71744	2005091992745	2005-09-09 00:00:00	2005-09-03 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.95	Other	Settled	14.98	Settle
+73939	2005102094957	2005-10-17 00:00:00	2005-08-28 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	959.52	Other	Settled	618.24	Settle
+74114	2005102495082	2005-10-19 00:00:00	2005-10-25 00:00:00	MOB	Mobile Regional	American Airlines	Passenger Property Loss	Checked Baggage	1200.0	Supplies	Denied	0.0	Deny
+74262	2005102895349	2005-10-21 00:00:00	2005-08-03 00:00:00	MOB	Mobile Regional	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Settled	100.0	Settle
+76063	2005120897388	2005-11-28 00:00:00	2005-10-19 00:00:00	MOB	Mobile Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	207.24	Clothing & Accessories	Approved	207.24	Approve in Full
+81685	2006030902868	2006-03-06 00:00:00	2006-02-27 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	171.15	Clothing & Accessories	Denied	0.0	Deny
+85375	2006051906619	2006-05-17 00:00:00	2006-04-19 00:00:00	MOB	Mobile Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	179.82	Clothing & Accessories	Approved	179.82	Approve in Full
+96949	2006021001323	2006-02-07 00:00:00	2006-01-24 00:00:00	MOB	Mobile Regional	USAir	Passenger Property Loss	Checked Baggage	349.99	Clothing & Accessories	Settled	210.0	Settle
+101027	2007031322212	2007-03-09 00:00:00	2007-01-16 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	438.9	Other	Denied	0.0	Deny
+102846	2007041724119	2007-04-13 00:00:00	2007-04-04 00:00:00	MOB	Mobile Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	243.25	Cosmetics	Denied	0.0	Deny
+112869	2007110234338	2007-10-29 00:00:00	2007-10-28 00:00:00	MOB	Mobile Regional	American Airlines	Passenger Property Loss	Checkpoint	241.52	Cosmetics,Other	Denied	0.0	Deny
+114263	2007112735544	2007-11-26 00:00:00	2007-11-23 00:00:00	MOB	Mobile Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	93.54	Electronics,Other	Settled	46.77	Settle
+117821	2008021239416	2008-02-04 00:00:00	2008-01-28 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Outdoors Supplies	Denied	0.0	Deny
+121464	2008042243108	2008-04-16 00:00:00	2008-04-12 00:00:00	MOB	Mobile Regional	American Airlines	Passenger Property Loss	Checked Baggage	36.98	Electronics	Denied	0.0	Deny
+122848	2008052044577	2008-05-16 00:00:00	2008-03-07 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checkpoint	46.86	Watches & Jewelry	Approved	46.86	Approve in Full
+123160	2008052744822	2008-05-22 00:00:00	2008-05-17 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checkpoint	180.0	Electronics,Other	Denied	0.0	Deny
+124423	2008062546127	2008-06-20 00:00:00	2008-06-13 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Electronics,Other	Denied	0.0	Deny
+129272	2008101051001	2008-10-09 00:00:00	2008-09-23 00:00:00	MOB	Mobile Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	43.19	Watches & Jewelry	Denied	0.0	Deny
+131814	2008122253702	2008-12-16 00:00:00	2006-12-16 00:00:00	MOB	Mobile Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	620.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+133825	2009022355744	2009-02-06 00:00:00	2008-12-26 00:00:00	MOB	Mobile Regional	Continental Airlines	Passenger Property Loss	Checkpoint	201.4	Scientific Intruments	Denied	0.0	Deny
+133879	2009031156049	2009-02-09 00:00:00	2009-01-06 00:00:00	MOB	Mobile Regional	American Eagle	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+140564	2009081362598	2009-08-11 00:00:00	2009-07-28 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	93.78	Electronics	Denied	0.0	Deny
+145094	2010010567194	2009-12-30 00:00:00	2009-12-06 00:00:00	MOB	Mobile Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	265.0	Electronics	Denied	0.0	Deny
+146820	2010032570054	2010-03-17 00:00:00	2010-02-23 10:00:00	MOB	Mobile Regional	USAir	Passenger Property Loss	Checked Baggage		Food & Drink,Other		0.0	Deny
+152817	2010092176242	2010-09-14 00:00:00	2010-09-05 06:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics,Scientific Intruments,Other		61.5	Approve in Full
+158201	2011041382256	2011-03-09 00:00:00	2011-03-31 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+176082	2013012900546	2012-11-20 00:00:00	2012-11-18 15:30:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		15.0	Approve in Full
+177767	2013013100744	2013-01-25 00:00:00	2013-01-22 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+178250	2013022101885	2013-02-12 00:00:00	2013-01-04 00:00:00	MOB	Mobile Regional	UAL	Passenger Property Loss	Checkpoint		Containers		65.0	Approve in Full
+178382	2013022602045	2013-02-19 00:00:00	2013-01-12 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+178384	2013022602047	2013-02-19 00:00:00	2013-01-14 00:00:00	MOB	Mobile Regional		Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+190674	2014060914497	2014-06-02 00:00:00	2014-05-15 00:00:00	MOB	Mobile Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+201459	2015040721796	2015-04-07 00:00:00	2015-03-27 00:00:00	MOB	Mobile Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+218231	2017053140053	2017-05-09 00:00:00	2017-03-19 00:00:00	MOB	Mobile Regional Mobile Regional		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+218234	2017111445095	2017-10-23 00:00:00	2017-10-18 00:00:00	MOB	Mobile Regional Mobile Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review

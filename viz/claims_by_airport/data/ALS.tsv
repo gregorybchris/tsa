@@ -1,0 +1,5 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+86477	2006071409490	2006-06-07 00:00:00	2006-07-11 00:00:00	ALS	Alamosa-San Luis Valley Bergman Airport	Great Lakes Airline	Passenger Property Loss	Checked Baggage	78.0	Other,Containers,Other	Denied	0.0	Deny
+118044	2008021439673	2008-02-08 00:00:00	2008-02-01 00:00:00	ALS	Alamosa-San Luis Valley Bergman Airport	UAL	Passenger Property Loss	Checked Baggage	148.0	Clothing & Accessories	Denied	0.0	Deny
+152678	2010091676081	2010-09-09 00:00:00	2010-08-04 00:00:00	ALS	Alamosa-San Luis Valley Bergman Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		12.0	Settle
+162894	2011082686467	2011-08-09 00:00:00	2011-07-19 00:00:00	ALS	Alamosa-San Luis Valley Bergman Airport	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		75.0	Settle

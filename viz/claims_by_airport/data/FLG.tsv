@@ -1,0 +1,16 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+12595	0806062M	2003-08-06 00:00:00	2003-06-26 00:00:00	FLG	Flagstaff Pulliam	America West	Passenger Property Loss	Checked Baggage	40.39	Other	Approved	40.39	Approve in Full
+94760	2006112716252	2006-11-16 00:00:00	2006-05-27 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	140.08	Watches & Jewelry	Denied	0.0	Deny
+95687	2006121316979	2006-12-05 00:00:00	2006-11-18 00:00:00	FLG	Flagstaff Pulliam	America West	Passenger Property Loss	Checked Baggage	585.0	Electronics,Other,Outdoors Supplies	Denied	0.0	Deny
+102128	2007040223381	2007-03-30 00:00:00	2007-03-22 00:00:00	FLG	Flagstaff Pulliam		Passenger Property Loss	Checked Baggage	180.0	Electronics	Canceled	0.0	
+112906	2007110134260	2007-10-30 00:00:00	2007-10-18 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	85.12	Electronics	Denied	0.0	Deny
+129862	2008110451714	2008-10-24 00:00:00	2008-10-11 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	35.41	Household Items,Other	Denied	0.0	Deny
+139624	2009072361634	2009-07-16 00:00:00	2009-05-16 00:00:00	FLG	Flagstaff Pulliam	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+140028	2009073162093	2009-07-28 00:00:00	2009-07-09 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	400.0	Containers,Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+140619	2009081762652	2009-08-12 00:00:00	2009-07-06 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	117.29	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+140928	2009082763057	2009-08-24 00:00:00	2009-07-25 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	28.0	Clothing & Accessories	Approved	28.0	Approve in Full
+140931	2009082763031	2009-08-24 00:00:00	2009-08-03 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage	129.05	Clothing & Accessories	Canceled		
+147474	2010040970626	2010-04-07 00:00:00	2010-04-02 14:30:00	FLG	Flagstaff Pulliam	Horizon Air	Passenger Property Loss	Checkpoint		Other,Other		0.0	Deny
+198090	2015022320759	2015-02-23 00:00:00	2014-12-13 00:00:00	FLG	Flagstaff Pulliam	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Scientific Intruments		0.0	Deny
+214926	2017050139153	2017-03-06 00:00:00	2017-01-08 08:00:00	FLG	Flagstaff Pulliam Flagstaff Pulliam	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+214927	2017121846039	2017-12-18 00:00:00	2017-11-22 00:00:00	FLG	Flagstaff Pulliam Flagstaff Pulliam	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			In Review

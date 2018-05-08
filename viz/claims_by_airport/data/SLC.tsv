@@ -1,0 +1,762 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+174	20074	2002-11-05 00:00:00	2002-10-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	20.0	Other	Approved	20.0	Approve in Full
+288	27269	2002-11-18 00:00:00	2002-11-07 00:00:00	SLC	Salt Lake City International Airport	America West	Passenger Property Loss	Other	900.0	Electronics	Denied	0.0	Deny
+713	22192	2002-12-16 00:00:00	2002-12-05 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
+1200	0108007L	2003-01-08 00:00:00	2002-12-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Other	320.0	Electronics	Denied	0.0	Deny
+2379	0210033L	2003-02-10 00:00:00	2003-01-14 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	315.0	Clothing & Accessories	Denied	0.0	Deny
+2580	0212103M	2003-02-12 00:00:00	2004-01-26 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
+3057	0227011L	2003-02-27 00:00:00	2003-02-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	427.98	Electronics	Settled	215.0	Settle
+3415	0311155L	2003-03-11 00:00:00		SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	43.51	Other	Approved	44.0	Approve in Full
+5648	0424007L	2003-04-24 00:00:00	2003-03-01 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Settled	25.0	Settle
+6243	0507003L	2003-05-07 00:00:00	2003-04-21 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	258.3	Electronics	Settled	129.15	Settle
+6694	0520221L	2003-05-20 00:00:00	2003-05-03 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	12.99	Supplies	Approved	13.0	Approve in Full
+6785	0520239L	2003-05-20 00:00:00	2003-04-25 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	128.0	Other	Denied	0.0	Deny
+7457	0603097L	2003-06-03 00:00:00	2003-04-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	420.0	Clothing & Accessories	Approved	420.0	Approve in Full
+7499	0603232L	2003-06-03 00:00:00	2003-04-22 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	32.79	Other	Approved	33.0	Approve in Full
+8767	0617038L	2003-06-17 00:00:00	2003-06-06 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	189.26	Watches & Jewelry	Settled	184.26	Settle
+9704	0701196M	2003-07-01 00:00:00	2003-06-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
+9737	0701058M	2003-07-01 00:00:00	2003-06-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	10.0	Other	Denied	0.0	Deny
+10052	0707001M	2003-07-07 00:00:00	2003-06-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.35	Cosmetics	Approved	80.35	Approve in Full
+10947	0715233M	2003-07-15 00:00:00	2003-07-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+11013	0715204M	2003-07-15 00:00:00	2003-06-20 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Settled	143.0	Settle
+11271	0721142M	2003-07-21 00:00:00	2003-06-28 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	51.0	Clothing & Accessories	Approved	51.0	Approve in Full
+11407	0721152M	2003-07-21 00:00:00	2003-06-04 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	187.0	Electronics	Settled	93.5	Settle
+11447	0722081M	2003-07-22 00:00:00	2003-07-15 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	23.0	Other	Approved	23.0	Approve in Full
+11762	0728058M	2003-07-28 00:00:00	2003-07-19 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	60.0	Other	Canceled		
+12060	0729210M	2003-07-29 00:00:00	2003-07-11 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	340.0	Outdoors Supplies	Settled	170.0	Settle
+12642	0806072M	2003-08-06 00:00:00	2003-08-01 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Denied	0.0	Deny
+13196	0813145M	2003-08-13 00:00:00	2003-07-24 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	90.0	Other	Settled	45.0	Settle
+13537	0815043M	2003-08-15 00:00:00	2003-07-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Other	Settled	30.0	Settle
+13725	0819012M	2003-08-19 00:00:00	2003-07-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	83.38	Other	Denied		Deny
+17289	1003102M	2003-10-03 00:00:00	2003-09-05 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	150.0	Electronics	Settled	75.0	Settle
+18121	1016189M	2003-10-16 00:00:00	2003-07-13 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Settled	105.0	Settle
+19305	1105015M	2003-11-05 00:00:00	2003-10-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.38	Clothing & Accessories	Approved	75.38	Approve in Full
+19590	1106090M	2003-11-06 00:00:00	2003-09-22 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	474.0	Clothing & Accessories	Settled	237.0	Settle
+20495	1117133M	2003-11-17 00:00:00	2003-10-26 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	87.0	Clothing & Accessories	Settled	43.0	Settle
+20517	1117199M	2003-11-17 00:00:00	2003-10-17 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	100.0	Containers	Settled	50.0	Settle
+22195	1208184M	2003-12-08 00:00:00	2002-07-21 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	435.36	Electronics	Canceled		
+22372	1208009M	2003-12-08 00:00:00	2003-10-08 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	150.0	Watches & Jewelry	Settled	83.0	Settle
+23634	0105352M	2004-01-05 00:00:00	2003-12-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	650.0	Watches & Jewelry	Approved	650.0	Approve in Full
+25406	0115110M	2004-01-15 00:00:00	2004-01-04 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Settled	50.0	Settle
+25496	0120135M	2004-01-20 00:00:00	2003-12-28 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Approved	45.0	Approve in Full
+27259	0205131M	2004-02-05 00:00:00	2004-01-11 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	226.41	Other	Settled	113.2	Settle
+27338	0210065M	2004-02-10 00:00:00	2004-02-01 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	247.0	Clothing & Accessories	Approved	247.0	Approve in Full
+27489	0210218M	2004-02-10 00:00:00	2003-11-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	5325.0	Watches & Jewelry	Denied		Deny
+28439	0223125M	2004-02-23 00:00:00	2004-01-10 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	480.0	Other	Approved	480.0	Approve in Full
+28591	0223012M	2004-02-23 00:00:00	2003-12-15 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	18.07	Other	Settled	9.04	Settle
+28744	0226203M	2004-02-26 00:00:00	2004-02-11 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	803.0	Clothing & Accessories	Approved	803.0	Approve in Full
+28849	0226526M	2004-02-26 00:00:00	2003-11-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	5325.0	Watches & Jewelry	Canceled		
+29660	2005032379582	2004-03-07 00:00:00	2005-02-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
+30150	2004051050823	2004-03-11 00:00:00		SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Settled	10.0	Settle
+30154	2004051050840	2004-03-11 00:00:00	2003-08-05 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	430.95	Other	Settled	275.0	Settle
+30262	0312021M	2004-03-12 00:00:00	2004-02-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	400.0	Other	Canceled	0.0	
+30275	0312008M	2004-03-12 00:00:00	2004-01-28 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	40.51	Watches & Jewelry	Denied	40.51	Deny
+31866	2004051451937	2004-04-01 00:00:00	2004-03-22 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	459.0	Electronics	Denied	0.0	Deny
+32167	2004052853729	2004-04-06 00:00:00	2004-03-23 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.99	Clothing & Accessories	Approved	24.99	Approve in Full
+32351	2005041382438	2004-04-12 00:00:00	2005-03-28 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Settled	324.11	Settle
+32889	2004060154025	2004-04-21 00:00:00	2004-03-17 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	10.0	Clothing & Accessories	Approved	10.0	Approve in Full
+33783	2004051852643	2004-05-03 00:00:00	2004-04-04 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
+33912	2004051351627	2004-05-03 00:00:00	2003-12-25 00:00:00	SLC	Salt Lake City International Airport	Singapore Airlines	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
+33976	2004051151195	2004-05-03 00:00:00	2004-03-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	793.56	Watches & Jewelry	Settled	680.96	Settle
+34839	2004061055477	2004-05-10 00:00:00	2004-03-21 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	32.0	Clothing & Accessories	Approved	32.0	Approve in Full
+35188	2004061756155	2004-05-13 00:00:00	2004-03-31 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	275.0	Other	Approved	275.0	Approve in Full
+36465	2004062156756	2004-05-27 00:00:00	2004-04-11 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	440.0	Clothing & Accessories	Settled	220.0	Settle
+36526	2004062256871	2004-05-28 00:00:00	2004-05-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	77.95	Clothing & Accessories	Approved	77.95	Approve in Full
+36531	2004062256902	2004-05-28 00:00:00	2004-05-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.59	Cosmetics	Approved	42.59	Approve in Full
+37269	2004062957808	2004-06-07 00:00:00	2004-04-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	408.94	Electronics	Denied	0.0	Deny
+37664	2004070758690	2004-06-10 00:00:00	2004-05-15 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.13	Other	Approved	27.13	Approve in Full
+38241	2004070858752	2004-06-21 00:00:00	2004-06-14 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	26.62	Watches & Jewelry	Approved	26.62	Approve in Full
+39787	2004072860165	2004-07-09 00:00:00	2004-04-23 00:00:00	SLC	Salt Lake City International Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	218.0	Clothing & Accessories	Settled	109.0	Settle
+40868	2004082761440	2004-07-23 00:00:00	2004-05-28 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint	2051.55	Watches & Jewelry	Denied	0.0	Deny
+41529	2004090762238	2004-08-03 00:00:00	2004-05-29 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Theft	Checked Baggage	64.92	Watches & Jewelry	Denied		Deny
+42392	2004091062590	2004-08-10 00:00:00	2004-07-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	0.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+42426	2004091362737	2004-08-10 00:00:00	2004-06-16 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	192.57	Supplies	Settled	42.32	Settle
+42655	2004092763917	2004-08-14 00:00:00	2004-08-27 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	1699.99	Electronics	Denied	0.0	Deny
+42935	2004092964197	2004-08-19 00:00:00	2004-08-01 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	105.0	Cosmetics	Settled	52.5	Settle
+45056	2004092363722	2004-09-16 00:00:00	2004-08-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	3175.0	Watches & Jewelry	Denied		Deny
+45189	2004102565651	2004-09-17 00:00:00	2004-08-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Approved	100.0	Approve in Full
+45919	2004110166054	2004-09-28 00:00:00	2004-07-03 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	53.24	Other	Approved	53.24	Approve in Full
+46677	2004110966797	2004-10-05 00:00:00	2004-09-23 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	35.0	Other	Denied	0.0	Deny
+47561	2004120368379	2004-10-18 00:00:00	2004-09-02 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Approved	100.0	Approve in Full
+47886	2004120768657	2004-10-20 00:00:00	2004-09-11 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	34.78	Other	Denied	0.0	Deny
+48322	2004121068964	2004-10-26 00:00:00	2004-10-05 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	156.6	Outdoors Supplies	Settled	100.8	Settle
+48537	2004122270534	2004-10-27 00:00:00	2004-09-11 00:00:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	139.5	Other	Denied	0.0	Deny
+48864	2004122069565	2004-11-02 00:00:00	2004-10-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	351.0	Watches & Jewelry	Denied	0.0	Deny
+49266	2004110566514	2004-11-05 00:00:00	2004-09-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+49519	2004122971616	2004-11-09 00:00:00	2004-10-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.69	Tools & Machines	Approved	7.69	Approve in Full
+49730	2004122069723	2004-11-10 00:00:00	2004-09-27 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	419.0	Electronics	Denied	0.0	Deny
+49757	2004122170016	2004-11-10 00:00:00	2004-10-23 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	434.7	Electronics	Settled	320.06	Settle
+49933	2004122170231	2004-11-15 00:00:00	2004-10-07 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	440.0	Other	Denied	0.0	Deny
+50854	2004122771089	2004-11-29 00:00:00	2004-11-04 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	89.94	Other	Canceled	0.0	
+50963	2005020475716	2004-11-30 00:00:00	2004-10-19 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	575.0	Watches & Jewelry	Settled	266.42	Settle
+51227	2005010372131	2004-12-03 00:00:00	2004-10-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	418.7	Watches & Jewelry	Settled	209.35	Settle
+52391	2005010673143	2004-12-18 00:00:00	2004-10-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	299.0	Electronics	Canceled	0.0	
+52445	2005010673050	2004-12-20 00:00:00	2004-11-10 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	13.51	Tools & Machines	Approved	13.51	Approve in Full
+52800	2005011273608	2004-12-22 00:00:00	2004-08-04 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	50.0	Other	Approved	50.0	Approve in Full
+53406	2005012574240	2005-01-04 00:00:00	2004-12-15 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+53832	2005012774523	2005-01-07 00:00:00	2004-12-18 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	400.0	Clothing & Accessories	Denied	0.0	Deny
+53902	2005012874653	2005-01-10 00:00:00	2004-12-28 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	4.87	Tools & Machines	Approved	4.87	Approve in Full
+53992	2005012774532	2005-01-10 00:00:00	2004-12-24 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	149.99	Other	Settled	119.99	Settle
+54006	2005012774611	2005-01-10 00:00:00	2004-12-17 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	800.0	Electronics	Settled	496.67	Settle
+54085	2005020375490	2005-01-11 00:00:00	2004-12-20 00:00:00	SLC	Salt Lake City International Airport	America West	Passenger Property Loss	Checked Baggage	80.0	Watches & Jewelry	Approved	80.0	Approve in Full
+54090	2005020375523	2005-01-11 00:00:00	2004-12-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Other	Approved	250.0	Approve in Full
+54140	2005012874776	2005-01-11 00:00:00	2004-11-26 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	257.71	Other	Canceled	0.0	
+54590	2005013175061	2005-01-14 00:00:00	2004-12-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	667.8	Clothing & Accessories	Denied	0.0	Deny
+54594	2005013175073	2005-01-14 00:00:00	2004-12-16 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	78.0	Other	Denied	0.0	Deny
+54708	2005020175180	2005-01-18 00:00:00	2004-12-29 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	240.0	Other	Canceled	0.0	
+55057	2005020375531	2005-01-19 00:00:00	2004-12-13 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	290.0	Clothing & Accessories	Settled	160.0	Settle
+55225	2005021676269	2005-01-24 00:00:00	2004-03-08 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	223.65	Other	Approved	223.65	Approve in Full
+55266	2005021776373	2005-01-24 00:00:00	2005-01-01 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	45.0	Watches & Jewelry	Approved	45.0	Approve in Full
+55536	2005021476125	2005-01-26 00:00:00	2004-12-18 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
+55635	2005022276565	2005-01-26 00:00:00	2004-12-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2091.85	Watches & Jewelry	Denied	0.0	Deny
+55878	2005022376688	2005-01-28 00:00:00	2005-01-17 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	32.6	Electronics	Denied	0.0	Deny
+55972	2005022876855	2005-02-01 00:00:00	2005-01-03 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	55.0	Other	Approved	55.0	Approve in Full
+56025	2005030777034	2005-02-01 00:00:00	2005-01-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+56095	2005030576961	2005-02-01 00:00:00	2005-01-01 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	45.0	Watches & Jewelry	Canceled	0.0	
+56137	2005030476934	2005-02-01 00:00:00	2005-01-01 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	2029.95	Watches & Jewelry	Denied	0.0	Deny
+56148	2005030777015	2005-02-01 00:00:00	2005-01-26 00:00:00	SLC	Salt Lake City International Airport	Delta (Song)	Passenger Property Loss	Checkpoint	5990.0	Watches & Jewelry	Denied	0.0	Deny
+56165	2005030777077	2005-02-01 00:00:00	2005-01-20 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1340.0	Watches & Jewelry	Denied	0.0	Deny
+56234	2005031578402	2005-02-01 00:00:00	2005-01-03 00:00:00	SLC	Salt Lake City International Airport	Cubana	Passenger Property Loss	Checked Baggage	173.73	Other	Denied	0.0	Deny
+56258	2005030276897	2005-02-01 00:00:00	2004-12-23 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	524.89	Electronics	Settled	100.0	Settle
+56325	2005030776995	2005-02-03 00:00:00	2005-01-24 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	179.99	Electronics	Approved	179.99	Approve in Full
+56707	2005031978842	2005-02-08 00:00:00	2004-12-27 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+56770	2005031177667	2005-02-08 00:00:00	2004-12-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	700.0	Electronics	Denied	0.0	Deny
+56962	2005031277883	2005-02-10 00:00:00	2004-12-20 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	57.25	Other	Approved	57.25	Approve in Full
+56983	2005031177799	2005-02-10 00:00:00	2004-10-16 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	510.0	Clothing & Accessories	Canceled	0.0	
+57055	2005031277907	2005-02-11 00:00:00	2005-01-15 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Approved	85.0	Approve in Full
+57261	2005032479645	2005-02-15 00:00:00	2005-02-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.0	Clothing & Accessories	Approved	95.0	Approve in Full
+57444	2005031578328	2005-02-16 00:00:00	2005-02-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	60.0	Other	Denied	0.0	Deny
+57898	2005032178908	2005-02-24 00:00:00	2004-12-26 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage	239.9	Other	Denied		Deny
+57907	2005032178991	2005-02-24 00:00:00	2005-01-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	177.0	Clothing & Accessories	Denied	0.0	Deny
+58378	2005032279352	2005-03-04 00:00:00	2005-02-14 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	317.5	Other	Denied	0.0	Deny
+58428	2005032279204	2005-03-04 00:00:00	2005-01-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	550.0	Clothing & Accessories	Settled	385.0	Settle
+58439	2005030777078	2005-03-07 00:00:00	2005-01-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Electronics	Approved	100.0	Approve in Full
+58871	2005032479740	2005-03-08 00:00:00	2005-02-03 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	475.0	Watches & Jewelry	Settled	200.0	Settle
+59101	2005032479737	2005-03-09 00:00:00	2005-01-30 00:00:00	SLC	Salt Lake City International Airport	America West	Passenger Property Loss	Checked Baggage	409.0	Other	Settled	199.0	Settle
+59203	2005032880119	2005-03-14 00:00:00	2005-01-26 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
+59250	2005032880134	2005-03-15 00:00:00	2004-12-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
+59502	2005032980411	2005-03-16 00:00:00	2005-03-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	439.99	Electronics	Denied	0.0	Deny
+59888	2005033180899	2005-03-23 00:00:00	2005-03-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.0	Other	Canceled	0.0	
+59952	2005033180801	2005-03-23 00:00:00	2005-03-16 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	82.0	Clothing & Accessories	Denied		Deny
+60001	2005040181005	2005-03-23 00:00:00	2005-03-17 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	61.0	Other	Denied	0.0	Deny
+60105	2005033180958	2005-03-24 00:00:00	2005-03-15 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+60176	2005040181071	2005-03-29 00:00:00	2005-02-25 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	64.98	Clothing & Accessories	Approved	64.98	Approve in Full
+60437	2005040481386	2005-03-30 00:00:00	2005-03-10 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	8.45	Tools & Machines	Approved	8.45	Approve in Full
+60582	2005040481341	2005-03-30 00:00:00	2005-03-21 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+60908	2005040881988	2005-04-05 00:00:00	2005-01-16 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	115.0	Other	Denied	0.0	Deny
+61334	2005041282271	2005-04-08 00:00:00	2005-03-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	146.19	Electronics	Denied	0.0	Deny
+61464	2005041482520	2005-04-12 00:00:00	2005-12-21 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Containers	Approved	150.0	Approve in Full
+61496	2005041482538	2005-04-12 00:00:00	2005-12-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Watches & Jewelry	Canceled	0.0	
+61705	2005041482570	2005-04-14 00:00:00	2005-03-22 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Approved	14.0	Approve in Full
+61805	2005041582616	2005-04-14 00:00:00	2005-04-08 00:00:00	SLC	Salt Lake City International Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	320.96	Containers	Settled	160.48	Settle
+62051	2005042082906	2005-04-19 00:00:00	2005-02-19 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+62103	2005042183039	2005-04-19 00:00:00	2005-04-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	200.0	Watches & Jewelry	Denied		Deny
+62202	2005042183084	2005-04-20 00:00:00	2005-04-15 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	379.99	Electronics	Denied	0.0	Deny
+62528	2005042783485	2005-04-26 00:00:00	2005-01-16 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	15.0	Watches & Jewelry	Approved	15.0	Approve in Full
+62770	2005042983657	2005-04-28 00:00:00	2005-03-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	1596.33	Watches & Jewelry	Denied	0.0	Deny
+63439	2005051184444	2005-05-09 00:00:00	2005-04-27 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage	130.0	Other	Denied	0.0	Deny
+64303	2005051985042	2005-05-18 00:00:00	2005-05-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Settled	50.0	Settle
+64332	2005052485464	2005-05-19 00:00:00	2005-02-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.46	Other	Approved	42.46	Approve in Full
+64346	2005052085206	2005-05-19 00:00:00	2005-05-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.69	Other	Denied	0.0	Deny
+64402	2005052385351	2005-05-20 00:00:00	2005-04-16 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.75	Other	Approved	24.75	Approve in Full
+64484	2005052485384	2005-05-23 00:00:00	2005-03-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
+65145	2005061086195	2005-06-01 00:00:00	2005-04-17 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	74.0	Other	Approved	74.0	Approve in Full
+65714	2005061586409	2005-06-07 00:00:00	2005-05-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.99	Other	Settled	50.0	Settle
+65827	2005062186717	2005-06-09 00:00:00	2005-05-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
+65991	2005062286943	2005-06-13 00:00:00	2005-06-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	169.18	Electronics	Approved	169.18	Approve in Full
+66665	2005062887620	2005-06-21 00:00:00	2005-06-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.0	Other	Denied	0.0	Deny
+66779	2005063087853	2005-06-23 00:00:00	2005-05-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
+67219	2005070588290	2005-06-30 00:00:00	2005-06-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	110.0	Clothing & Accessories	Approved	110.0	Approve in Full
+67297	2005070588275	2005-07-01 00:00:00	2005-05-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Supplies	Approved	30.0	Approve in Full
+67450	2005070888450	2005-07-06 00:00:00	2005-06-25 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.48	Tools & Machines	Approved	8.48	Approve in Full
+67899	2005071589077	2005-07-13 00:00:00	2005-07-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.97	Clothing & Accessories	Approved	74.97	Approve in Full
+68359	2005072189375	2005-07-20 00:00:00	2005-06-19 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.0	Other	Approved	42.0	Approve in Full
+68591	2005072689699	2005-07-22 00:00:00	2005-07-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Containers	Approved	10.0	Approve in Full
+68784	2005072889829	2005-07-25 00:00:00	2005-07-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	182.85	Electronics	Settled	91.42	Settle
+69324	2005081190357	2005-08-02 00:00:00	2005-03-12 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	308.0	Electronics	Denied	0.0	Deny
+69406	2005081290423	2005-08-02 00:00:00	2005-06-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	353.08	Clothing & Accessories	Settled	120.28	Settle
+69431	2005081590503	2005-08-03 00:00:00	2005-07-16 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Denied	0.0	Deny
+69461	2005081590586	2005-08-04 00:00:00	2005-07-06 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.48	Electronics	Approved	31.48	Approve in Full
+70162	2005082391293	2005-08-16 00:00:00	2005-07-18 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	950.0	Watches & Jewelry	Canceled	0.0	
+70283	2005082391232	2005-08-16 00:00:00	2005-05-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Other	Settled	40.0	Settle
+70362	2005082491368	2005-08-18 00:00:00	2005-07-23 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	249.99	Electronics	Denied	0.0	Deny
+70369	2005082491392	2005-08-18 00:00:00	2005-08-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	475.0	Electronics	Denied	0.0	Deny
+70376	2005082491410	2005-08-18 00:00:00	2005-07-27 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	141.0	Other	Denied	0.0	Deny
+70422	2005082591543	2005-08-18 00:00:00	2005-08-10 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Settled	100.0	Settle
+70466	2005082591537	2005-08-19 00:00:00	2005-07-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	135.0	Other	Denied	0.0	Deny
+71113	2005090692165	2005-08-30 00:00:00	2005-08-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+71200	2005090692131	2005-08-31 00:00:00	2005-07-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.63	Tools & Machines	Approved	8.63	Approve in Full
+71387	2005091492461	2005-09-06 00:00:00	2005-08-18 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	299.0	Electronics	Denied	0.0	Deny
+71832	2005092092983	2005-09-14 00:00:00	2005-08-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.47	Tools & Machines	Approved	8.47	Approve in Full
+71854	2005092193056	2005-09-14 00:00:00	2005-08-10 00:00:00	SLC	Salt Lake City International Airport	American Eagle	Passenger Property Loss	Checked Baggage	19.95	Tools & Machines	Approved	19.95	Approve in Full
+72284	2005092893392	2005-09-19 00:00:00	2005-08-21 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	6819.77	Watches & Jewelry	Denied	0.0	Deny
+72647	2005100393628	2005-09-23 00:00:00	2005-08-25 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1425.74	Supplies	Settled	305.87	Settle
+72840	2005100493952	2005-09-27 00:00:00	2005-09-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	269.36	Watches & Jewelry	Denied	0.0	Deny
+72910	2005100594021	2005-09-29 00:00:00	2005-09-10 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+72940	2005100594027	2005-09-29 00:00:00	2005-08-14 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint	35.0	Watches & Jewelry	Denied	0.0	Deny
+72941	2005100594028	2005-09-29 00:00:00	2005-09-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	220.0	Electronics	Denied	0.0	Deny
+73589	2005101894770	2005-10-12 00:00:00	2005-09-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.31	Watches & Jewelry	Approved	37.31	Approve in Full
+73966	2005102595111	2005-10-17 00:00:00	2005-10-05 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	50.0	Settle
+73979	2005102595112	2005-10-18 00:00:00	2005-10-06 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	23.99	Tools & Machines	Approved	23.99	Approve in Full
+74050	2005102695203	2005-10-18 00:00:00	2005-09-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	870.0	Other	Denied	0.0	Deny
+74122	2005102795230	2005-10-19 00:00:00	2005-09-22 00:00:00	SLC	Salt Lake City International Airport	Korean Airlines	Passenger Property Loss	Checked Baggage	964.89	Watches & Jewelry	Denied	0.0	Deny
+74309	2005110195474	2005-10-24 00:00:00	2005-10-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.0	Containers	Denied	0.0	Deny
+74650	2005110895816	2005-10-28 00:00:00	2005-10-24 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	194.28	Other	Denied	0.0	Deny
+74967	2005111496020	2005-11-03 00:00:00	2005-09-05 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	54.0	Watches & Jewelry	Settled	27.0	Settle
+75142	2005111896227	2005-11-09 00:00:00	2005-10-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+75397	2005112596440	2005-11-14 00:00:00		SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+75507	2005112896624	2005-11-15 00:00:00	2005-10-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	390.0	Other	Denied	0.0	Deny
+75670	2005120196790	2005-11-18 00:00:00	2005-07-22 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.61	Tools & Machines	Approved	10.61	Approve in Full
+76125	2005120797254	2005-11-28 00:00:00	2005-05-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.61	Tools & Machines	Denied	0.0	Deny
+76215	2005120797129	2005-11-29 00:00:00	2005-11-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.3	Tools & Machines	Approved	7.3	Approve in Full
+76624	2005121998092	2005-12-06 00:00:00	2005-09-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.65	Tools & Machines	Approved	21.65	Approve in Full
+77405	2005122898510	2005-12-21 00:00:00	2005-08-29 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	5000.0	Electronics	Denied	0.0	Deny
+77737	2006010598877	2005-12-28 00:00:00	2005-12-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	700.0	Electronics	Denied	0.0	Deny
+77943	2006011099275	2006-01-03 00:00:00	2005-09-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	51.0	Other	Denied	0.0	Deny
+77998	2006011099213	2006-01-04 00:00:00	2005-12-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
+78012	2006011099270	2006-01-04 00:00:00	2005-12-25 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Other	Approved	45.0	Approve in Full
+78175	2006011199345	2006-01-05 00:00:00	2005-12-26 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
+78506	2006011799667	2006-01-10 00:00:00	2006-01-02 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage	289.0	Electronics	Denied	0.0	Deny
+78872	2006012300002	2006-01-17 00:00:00	2005-12-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Denied	0.0	Deny
+78877	2006012300011	2006-01-17 00:00:00	2006-01-07 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	20.0	Other	Denied	0.0	Deny
+78914	2006012300025	2006-01-17 00:00:00	2005-12-10 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	69.99	Other	Settled	34.99	Settle
+79336	2006013000563	2006-01-23 00:00:00	2006-01-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	31.93	Other	Denied	0.0	Deny
+79650	2006020100748	2006-01-26 00:00:00	2005-12-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	398.95	Watches & Jewelry	Settled	199.47	Settle
+79722	2006020300904	2006-01-27 00:00:00	2006-01-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	119.95	Other	Denied	0.0	Deny
+80001	2006021001368	2006-02-02 00:00:00	2006-01-21 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	9.56	Clothing & Accessories	Approved	9.56	Approve in Full
+80345	2006021501561	2006-02-07 00:00:00	2006-01-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	299.0	Other	Denied	0.0	Deny
+80429	2006021501605	2006-02-09 00:00:00	2006-01-26 00:00:00	SLC	Salt Lake City International Airport	America West	Passenger Property Loss	Checked Baggage	151.55	Clothing & Accessories	Approved	151.55	Approve in Full
+81276	2006022702193	2006-02-27 00:00:00	2004-08-04 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	65.02	Other	Approved	65.02	Approve in Full
+81280	2006030302437	2006-02-27 00:00:00	2006-02-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+81670	2006030802803	2006-03-06 00:00:00	2006-02-21 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	345.0	Other	Denied	0.0	Deny
+82378	2006032803792	2006-03-17 00:00:00	2006-03-03 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Other	Approved	85.0	Approve in Full
+83412	2006041304458	2006-04-05 00:00:00	2006-01-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.94	Other	Settled	47.97	Settle
+83513	2006041804691	2006-04-07 00:00:00	2006-03-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2560.0	Other	Denied	0.0	Deny
+83753	2006042104911	2006-04-12 00:00:00	2006-03-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	168.0	Other	Settled	136.0	Settle
+83941	2006042505336	2006-04-17 00:00:00	2006-02-01 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	4000.0	Watches & Jewelry	Denied	0.0	Deny
+84061	2006042405050	2006-04-19 00:00:00	2006-03-30 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	41.5	Other	Approved	41.5	Approve in Full
+84072	2006042405075	2006-04-19 00:00:00	2006-03-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Other	Canceled	0.0	
+84268	2006050205626	2006-04-24 00:00:00	2006-04-09 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	34.96	Other	Denied	0.0	Deny
+84317	2006042705396	2006-04-25 00:00:00	2006-03-19 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	31.9	Other	Approved	31.9	Approve in Full
+85126	2006051606361	2006-05-11 00:00:00	2006-04-25 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+85302	2006051706505	2006-05-16 00:00:00	2006-05-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	127.0	Cosmetics	Denied	0.0	Deny
+85954	2006060207198	2006-05-30 00:00:00	2006-03-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.05	Other	Denied	0.0	Deny
+85992	2006060207259	2006-05-30 00:00:00	2006-04-17 00:00:00	SLC	Salt Lake City International Airport	British Airways	Passenger Property Loss	Checked Baggage	272.0	Watches & Jewelry	Settled	136.0	Settle
+86462	2006060907681	2006-06-07 00:00:00	2006-06-01 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1000.0	Scientific Intruments	Denied	0.0	Deny
+86596	2006061207792	2006-06-12 00:00:00	2006-06-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Outdoors Supplies,Outdoors Supplies	Denied	0.0	Deny
+86719	2006061407969	2006-06-13 00:00:00	2006-05-30 00:00:00	SLC	Salt Lake City International Airport	Japan Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Denied	0.0	Deny
+86789	2006061508011	2006-06-14 00:00:00	2006-05-16 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	171.0	Other	Denied	0.0	Deny
+87354	2006062708592	2006-06-26 00:00:00	2006-06-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	199.5	Cosmetics,Watches & Jewelry	Settled	99.75	Settle
+87356	2006062708595	2006-06-26 00:00:00	2006-04-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Settled	150.0	Settle
+87562	2006063008776	2006-06-29 00:00:00	2006-02-23 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1314.29	Electronics	Denied	0.0	Deny
+87618	2006070308853	2006-06-29 00:00:00	2006-06-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	115.22	Settle
+88229	2006071209336	2006-07-11 00:00:00	2006-06-16 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	475.36	Electronics,Electronics	Settled	124.89	Settle
+89084	2006080110293	2006-07-28 00:00:00	2006-07-22 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	65.0	Containers,Other	Denied	0.0	Deny
+89278	2006080810571	2006-08-02 00:00:00	2006-07-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.95	Clothing & Accessories	Approved	14.95	Approve in Full
+89301	2006080410515	2006-08-02 00:00:00	2006-07-25 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	34.0	Clothing & Accessories	Denied	0.0	Deny
+89370	2006080910634	2006-08-03 00:00:00	2006-07-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	108.75	Clothing & Accessories	Denied	0.0	Deny
+89516	2006081110800	2006-08-07 00:00:00	2006-07-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	163.19	Electronics	Denied	0.0	Deny
+89596	2006081110913	2006-08-08 00:00:00	2006-07-05 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	55.99	Other	Denied	0.0	Deny
+89915	2006081511007	2006-08-14 00:00:00	2006-07-29 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Settled	37.5	Settle
+90065	2006082111327	2006-08-17 00:00:00	2006-08-10 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	45.0	Household Items	Denied	0.0	Deny
+90352	2006082811647	2006-08-22 00:00:00	2006-08-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	11578.8	Electronics	Denied	0.0	Deny
+90444	2006082911731	2006-08-24 00:00:00	2006-05-02 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	139.99	Electronics	Approved	139.99	Approve in Full
+90459	2006082811699	2006-08-24 00:00:00	2006-07-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
+90863	2006090812213	2006-08-31 00:00:00	2006-08-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	279.98	Electronics	Denied	0.0	Deny
+91147	2006091312483	2006-09-06 00:00:00	2006-07-19 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	70.0	Other	Denied	0.0	Deny
+91289	2006091412538	2006-09-08 00:00:00	2006-08-08 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Denied	0.0	Deny
+91486	2006091812753	2006-09-12 00:00:00	2006-08-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	367.44	Electronics	Denied	0.0	Deny
+92255	2006100213515	2006-09-28 00:00:00	2006-09-27 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	5.0	Cosmetics	Approved	5.0	Approve in Full
+92438	2006100513704	2006-10-02 00:00:00	2006-09-03 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	15.33	Containers	Denied	0.0	Deny
+93455	2006103114859	2006-10-20 00:00:00	2006-09-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	479.99	Electronics,Electronics	Settled	190.66	Settle
+94295	2006111415530	2006-11-08 00:00:00	2006-11-02 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage	9.58	Tools & Machines	Approved	9.58	Approve in Full
+94479	2006111615736	2006-11-13 00:00:00	2006-10-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2010.03	Electronics	Denied	0.0	Deny
+95119	2006112916439	2006-11-24 00:00:00	2006-11-17 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
+95423	2006120616742	2006-11-30 00:00:00	2006-11-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	175.0	Watches & Jewelry	Canceled	0.0	
+96728	2006122918155	2006-12-26 00:00:00	2006-11-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Other	Denied	0.0	Deny
+97246	2007010418244	2007-01-03 00:00:00	2006-12-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	165.0	Food & Drink	Denied	0.0	Deny
+97257	2007010418329	2007-01-03 00:00:00	2006-12-27 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	95.58	Supplies	Denied	0.0	Deny
+97276	2007010518388	2007-01-03 00:00:00	2006-12-14 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	31.96	Electronics	Denied	0.0	Deny
+97475	2007011018572	2007-01-05 00:00:00	2006-12-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	256.59	Electronics	Denied	0.0	Deny
+97623	2007011218727	2007-01-08 00:00:00	2006-12-23 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.0	Clothing & Accessories	Denied	0.0	Deny
+98243	2007012319250	2007-01-17 00:00:00	2007-01-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
+98981	2007020220088	2007-01-29 00:00:00	2007-01-22 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	260.0	Electronics,Electronics	Denied	0.0	Deny
+99000	2007020520159	2007-01-29 00:00:00	2007-01-19 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1125.0	Electronics,Electronics,Clothing & Accessories	Denied	0.0	Deny
+99316	2007020620266	2007-02-05 00:00:00	2006-01-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	375.0	Watches & Jewelry,Other	Denied	0.0	Deny
+99334	2007020620389	2007-02-05 00:00:00	2007-01-20 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	342.0	Clothing & Accessories	Denied	0.0	Deny
+99345	2007020720417	2007-02-05 00:00:00	2006-11-22 00:00:00	SLC	Salt Lake City International Airport	American West	Passenger Property Loss	Checkpoint	2800.0	Watches & Jewelry	Denied	0.0	Deny
+100701	2007031622402	2007-03-02 00:00:00	2007-02-07 00:00:00	SLC	Salt Lake City International Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	1291.66	Electronics,Other	Denied	0.0	Deny
+101022	2007031322205	2007-03-09 00:00:00	2007-03-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	18.5	Other	Denied	0.0	Deny
+101040	2007031322158	2007-03-09 00:00:00	2007-03-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	98.09	Clothing & Accessories	Settled	50.0	Settle
+101221	2007032122675	2007-03-13 00:00:00	2007-02-22 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	26.39	Supplies	Denied	0.0	Deny
+101557	2007032322809	2007-03-20 00:00:00	2007-03-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	18.3	Tools & Machines	Approved	18.3	Approve in Full
+101673	2007032923226	2007-03-21 00:00:00	2007-02-09 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	1050.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+101756	2007032723036	2007-03-23 00:00:00	2007-03-05 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	21.32	Tools & Machines	Approved	21.32	Approve in Full
+101892	2007032823142	2007-03-26 00:00:00	2006-11-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	349.99	Electronics	Settled	139.5	Settle
+101967	2007032923169	2007-03-27 00:00:00	2007-02-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	79.99	Outdoors Supplies	Settled	40.0	Settle
+102321	2007040623598	2007-04-03 00:00:00	2007-03-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	98.82	Clothing & Accessories	Denied	0.0	Deny
+102743	2007041323934	2007-04-11 00:00:00	2007-04-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	90.0	Household Decor,Clothing & Accessories,Other	Settled	20.0	Settle
+103591	2007050224914	2007-04-30 00:00:00	2007-03-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	578.63	Electronics,Electronics,Electronics,Other	Denied	0.0	Deny
+103709	2007050424982	2007-05-02 00:00:00	2007-03-23 00:00:00	SLC	Salt Lake City International Airport	Alitalia	Passenger Property Loss	Checked Baggage	160.13	Electronics	Denied	0.0	Deny
+103747	2007050424977	2007-05-03 00:00:00	2007-04-13 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	82.0	Other	Denied	0.0	Deny
+104032	2007051525385	2007-05-09 00:00:00	2007-05-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	104.52	Supplies	Denied	0.0	Deny
+104132	2007051525380	2007-05-11 00:00:00	2007-03-26 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	13.85	Tools & Machines	Denied	0.0	Deny
+104770	2007060126081	2007-05-24 00:00:00	2007-05-22 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	125.0	Cosmetics	Denied	0.0	Deny
+104779	2007060426132	2007-05-24 00:00:00	2007-04-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	49.99	Electronics	Denied	0.0	Deny
+104822	2007060726542	2007-05-25 00:00:00	2007-05-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	146.0	Electronics	Denied	0.0	Deny
+105070	2007060426207	2007-06-01 00:00:00	2007-04-23 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Approved	25.0	Approve in Full
+105517	2007061326836	2007-06-07 00:00:00	2007-06-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	279.93	Clothing & Accessories	Settled	122.95	Settle
+105632	2007061426885	2007-06-11 00:00:00	2007-05-01 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	572.35	Electronics,Electronics,Electronics	Denied	0.0	Deny
+105717	2007061527019	2007-06-12 00:00:00	2007-03-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	293.87	Clothing & Accessories,Tools & Machines,Outdoors Supplies	Denied	0.0	Deny
+105894	2007061927178	2007-06-15 00:00:00	2007-06-05 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	20.0	Other	Denied	0.0	Deny
+105898	2007061927188	2007-06-15 00:00:00	2007-06-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	181.33	Electronics	Denied	0.0	Deny
+106026	2007062127323	2007-06-19 00:00:00	2007-06-01 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	49.95	Electronics	Denied	0.0	Deny
+106187	2007062627521	2007-06-21 00:00:00	2007-06-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	2000.0	Tools & Machines,Cosmetics	Denied	0.0	Deny
+106211	2007062627495	2007-06-22 00:00:00	2007-05-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	166.37	Other	Approved	166.37	Approve in Full
+106509	2007070327794	2007-06-28 00:00:00	2007-06-22 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	32.5	Household Decor,Tools & Machines	Denied	0.0	Deny
+106759	2007071028017	2007-07-03 00:00:00	2007-06-25 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	349.29	Other	Denied	0.0	Deny
+106797	2007071028025	2007-07-05 00:00:00	2007-06-30 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	29.68	Clothing & Accessories	Denied	0.0	Deny
+106902	2007071328312	2007-07-06 00:00:00	2007-07-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10000.0	Food & Drink,Clothing & Accessories,Watches & Jewelry,Containers	Denied	0.0	Deny
+107017	2007071328315	2007-07-09 00:00:00	2007-06-30 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	2500.0	Watches & Jewelry	Denied	0.0	Deny
+107075	2007071328286	2007-07-10 00:00:00	2007-06-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	47.5	Other	Denied	0.0	Deny
+107332	2007071828570	2007-07-16 00:00:00	2007-06-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
+107586	2007072328891	2007-07-19 00:00:00	2007-06-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	3.89	Other	Denied	0.0	Deny
+107841	2007072729194	2007-07-24 00:00:00	2007-06-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	127.0	Clothing & Accessories,Tools & Machines,Tools & Machines,Other	Denied	0.0	Deny
+107963	2007072729254	2007-07-26 00:00:00	2007-07-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	29.99	Electronics	Denied	0.0	Deny
+108066	2007073129395	2007-07-27 00:00:00	2007-07-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	320.52	Electronics	Denied	0.0	Deny
+109265	2007082130532	2007-08-20 00:00:00	2007-08-03 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	52.0	Cosmetics	Denied	0.0	Deny
+109573	2007082730900	2007-08-23 00:00:00	2007-07-11 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	60.95	Clothing & Accessories,Other	Denied	0.0	Deny
+109702	2007082730913	2007-08-27 00:00:00	2007-07-28 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	3200.0	Electronics	Denied	0.0	Deny
+110043	2007090631423	2007-09-04 00:00:00	2007-08-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.71	Tools & Machines	Approved	10.71	Approve in Full
+110238	2007091031588	2007-09-05 00:00:00	2007-08-31 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+110794	2007091732055	2007-09-17 00:00:00	2007-09-07 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	105.0	Watches & Jewelry	Denied	0.0	Deny
+111164	2007092432472	2007-09-24 00:00:00	2007-07-14 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Denied	0.0	Deny
+111174	2007092532498	2007-09-24 00:00:00	2007-09-18 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	510.0	Other,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+111190	2007092632615	2007-09-24 00:00:00	2007-09-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Electronics,Electronics,Electronics	Denied	0.0	Deny
+111285	2007092732693	2007-09-25 00:00:00	2007-09-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	102.5	Household Decor	Settled	40.0	Settle
+111664	2007101033214	2007-10-03 00:00:00	2007-09-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Electronics	Denied	0.0	Deny
+111986	2007101633463	2007-10-10 00:00:00	2007-09-24 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.49	Tools & Machines	Denied	0.0	Deny
+112103	2007101733555	2007-10-12 00:00:00	2007-09-17 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
+112255	2007101833603	2007-10-16 00:00:00	2006-12-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	165.0	Electronics	Denied	0.0	Deny
+112724	2007103034120	2007-10-25 00:00:00	2007-10-09 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	295.43	Electronics	Denied	0.0	Deny
+112769	2007102934087	2007-10-26 00:00:00	2007-10-24 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Denied	0.0	Deny
+113073	2007110534488	2007-11-01 00:00:00	2007-10-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+113478	2007111334854	2007-11-09 00:00:00	2007-11-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	Electronics	Denied	0.0	Deny
+113687	2007111535000	2007-11-14 00:00:00	2007-10-20 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	150.0	Other	Denied	0.0	Deny
+113771	2007112035209	2007-11-15 00:00:00	2007-09-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.94	Other	Denied	0.0	Deny
+113849	2007112335362	2007-11-16 00:00:00	2007-07-02 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	187.0	Watches & Jewelry	Denied	0.0	Deny
+114372	2007113035761	2007-11-28 00:00:00	2007-11-19 00:00:00	SLC	Salt Lake City International Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	645.25	Outdoors Supplies	Denied	0.0	Deny
+114407	2007113035763	2007-11-28 00:00:00	2007-08-07 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	500.0	Other,Tools & Machines	Settled	250.0	Settle
+114561	2007122837076	2007-11-30 00:00:00	2007-11-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
+114661	2007120636138	2007-12-03 00:00:00		SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+114792	2007120736210	2007-12-05 00:00:00	2007-12-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	800.0	Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+114816	2007121036256	2007-12-06 00:00:00	2007-09-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	16.02	Tools & Machines	Denied	0.0	Deny
+114847	2007121136337	2007-12-07 00:00:00	2007-12-03 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Electronics	Approved	20.0	Approve in Full
+114951	2007121236469	2007-12-10 00:00:00	2007-11-20 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	101.96	Cosmetics	Denied	0.0	Deny
+115128	2008021439619	2007-12-12 00:00:00	2007-08-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
+115130	2007121236462	2007-12-12 00:00:00	2007-07-29 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Household Decor	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+115319	2007122636923	2007-12-17 00:00:00	2007-09-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2104.75	Watches & Jewelry	Denied	0.0	Deny
+115577	2007122837033	2007-12-26 00:00:00	2007-12-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+116443	2008011638040	2008-01-09 00:00:00	2008-01-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
+116720	2008012238269	2008-01-14 00:00:00	2008-01-05 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	162.36	Other	Denied	0.0	Deny
+117324	2008013038873	2008-01-25 00:00:00	2008-01-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	79.0	Electronics,Other	Denied	0.0	Deny
+117533	2008020439073	2008-01-29 00:00:00	2008-01-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Outdoors Supplies	Denied	0.0	Deny
+117949	2008021239488	2008-02-06 00:00:00	2008-01-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2277.99	Electronics,Other,Electronics	Denied	0.0	Deny
+118429	2008021939746	2008-02-19 00:00:00	2008-01-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	299.0	Electronics	Denied	0.0	Deny
+118634	2008022740252	2008-02-21 00:00:00	2008-02-18 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	240.0	Other	Denied	0.0	Deny
+118660	2008022840306	2008-02-21 00:00:00	2008-02-26 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	364.26	Electronics	Denied	0.0	Deny
+118674	2008030440370	2008-02-21 00:00:00	2008-01-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	666.54	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+118778	2008030440392	2008-02-25 00:00:00	2008-02-23 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
+118804	2008030540463	2008-02-25 00:00:00	2008-02-06 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	30.0	Electronics	Denied	0.0	Deny
+119434	2008031140837	2008-03-10 00:00:00	2008-03-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	41.76	Electronics	Denied	0.0	Deny
+119540	2008031741136	2008-03-11 00:00:00	2008-03-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	870.0	Clothing & Accessories,Supplies,Other	Denied	0.0	Deny
+119902	2008032641466	2008-03-19 00:00:00	2008-03-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
+120121	2008040241720	2008-03-24 00:00:00	2008-03-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Denied	0.0	Deny
+120286	2008040441849	2008-03-26 00:00:00	2008-01-16 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	12.18	Household Items	Denied	0.0	Deny
+120337	2008040741957	2008-03-26 00:00:00	2008-03-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+120658	2008041042396	2008-04-02 00:00:00	2008-03-18 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	470.75	Cosmetics,Other	Canceled	0.0	
+121005	2008040942289	2008-04-08 00:00:00	2008-03-19 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
+121090	2008041742769	2008-04-09 00:00:00	2008-04-01 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Denied	0.0	Deny
+121270	2008041842869	2008-04-14 00:00:00	2008-03-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
+121295	2008042142974	2008-04-14 00:00:00	2008-03-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Electronics,Electronics,Electronics,Containers	Denied	0.0	Deny
+121552	2008041142436	2008-04-18 00:00:00	2008-04-01 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	111.24	Other	Denied	0.0	Deny
+121565	2008042343201	2008-04-18 00:00:00	2008-04-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	190.48	Containers,Cosmetics	Denied	0.0	Deny
+121691	2008042843489	2008-04-21 00:00:00	2008-04-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	171.6	Clothing & Accessories	Denied	0.0	Deny
+121908	2008043043582	2008-04-25 00:00:00	2008-03-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	440.58	Electronics,Electronics	Denied	0.0	Deny
+121976	2008050143676	2008-04-28 00:00:00	2008-01-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	3779.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+122482	2008051444245	2008-05-08 00:00:00	2008-04-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.65	Tools & Machines	Approved	7.65	Approve in Full
+122489	2007122036721	2008-05-08 00:00:00	2007-07-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics,Electronics	Denied	0.0	Deny
+122861	2008051944492	2008-05-16 00:00:00	2008-05-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Outdoors Supplies	Denied	0.0	Deny
+122945	2008052144600	2008-05-19 00:00:00	2008-04-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	150.0	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+123725	2008060945385	2008-06-04 00:00:00	2008-05-10 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.99	Outdoors Supplies	Approved	39.99	Approve in Full
+123846	2008061145524	2008-06-06 00:00:00	2008-04-14 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	27.95	Supplies	Denied	0.0	Deny
+124039	2008061645734	2008-06-11 00:00:00	2008-06-09 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Canceled	0.0	
+124227	2008061845879	2008-06-16 00:00:00	2008-02-21 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.99	Tools & Machines	Denied	0.0	Deny
+124504	2008062646204	2008-06-23 00:00:00	2008-06-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	306.0	Clothing & Accessories	Denied	0.0	Deny
+124601	2008063046322	2008-06-24 00:00:00	2008-06-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+124624	2008070146440	2008-06-25 00:00:00	2008-04-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	467.56	Electronics	Approved	467.56	Approve in Full
+124718	2008070146474	2008-06-26 00:00:00	2008-06-11 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	436.97	Electronics,Electronics,Other	Denied	0.0	Deny
+125583	2008072447367	2008-07-16 00:00:00	2008-07-04 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.91	Tools & Machines,Other	Denied	0.0	Deny
+125594	2008072447338	2008-07-17 00:00:00	2008-07-15 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	35.0	Watches & Jewelry	Approved	35.0	Approve in Full
+125901	2008072947649	2008-07-23 00:00:00	2008-07-20 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	1038.0	Clothing & Accessories,Outdoors Supplies	Denied	0.0	Deny
+126004	2008073047710	2008-07-25 00:00:00	2008-07-02 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1054.84	Electronics,Other	Denied	0.0	Deny
+126032	2008073147787	2008-07-25 00:00:00	2008-06-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	86.75	Other	Denied	0.0	Deny
+126455	2008080848292	2008-08-05 00:00:00	2008-07-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	25.0	Watches & Jewelry	Approved	25.0	Approve in Full
+126675	2005081890878	2008-08-08 00:00:00	2005-07-17 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage	110.0	Other	Approved	110.0	Approve in Full
+126770	2008081448596	2008-08-11 00:00:00	2008-08-01 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	5810.0	Watches & Jewelry	Denied	0.0	Deny
+127133	2008082048858	2008-08-19 00:00:00	2008-08-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	517.65	Electronics	Denied	0.0	Deny
+127302	2008082549077	2008-08-22 00:00:00	2008-07-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.85	Outdoors Supplies	Denied	0.0	Deny
+127349	2008082649118	2008-08-25 00:00:00	2008-08-14 00:00:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	413.5	Cosmetics,Cosmetics,Watches & Jewelry,Other	Denied	0.0	Deny
+127516	2008082949286	2008-08-27 00:00:00	2008-08-15 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Electronics,Electronics	Denied	0.0	Deny
+127931	2008090949683	2008-09-08 00:00:00	2008-08-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1163.93	Clothing & Accessories,Containers,Games & Toys	Denied	0.0	Deny
+128209	2008091650028	2008-09-12 00:00:00	2008-05-03 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage	100.0	Tools & Machines	Denied	0.0	Deny
+129041	2008100850905	2008-10-03 00:00:00	2008-09-15 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	236.81	Electronics	Denied	0.0	Deny
+129257	2008101051009	2008-10-08 00:00:00	2008-07-18 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint	35.0	Cosmetics	Settled	17.5	Settle
+129376	2008101651206	2008-10-14 00:00:00	2008-10-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.61	Other	Denied	0.0	Deny
+129686	2008102151342	2008-10-20 00:00:00	2008-10-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	44.95	Electronics,Electronics	Settled	22.47	Settle
+129693	2008072947619	2008-10-21 00:00:00	2008-07-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1565.01	Electronics	Denied	0.0	Deny
+130102	2008110551932	2008-10-31 00:00:00	2008-10-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1268.74	Electronics	Denied	0.0	Deny
+130256	2008101651220	2008-11-04 00:00:00	2008-07-26 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint	29.99	Electronics	Approved	29.99	Approve in Full
+131873	2008122353746	2008-12-17 00:00:00	2008-12-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	270.71	Electronics,Other	Denied	0.0	Deny
+132835	2008123053889	2009-01-13 00:00:00	2008-12-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1774.7	Electronics	Denied	0.0	Deny
+133005	2009012654920	2009-01-15 00:00:00	2009-01-07 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage	7.5	Clothing & Accessories	Denied	0.0	Deny
+133018	2009012654953	2009-01-15 00:00:00	2009-01-11 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Denied	0.0	Deny
+134233	2009031756374	2009-02-19 00:00:00	2009-02-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	394.24	Electronics	Settled	373.96	Settle
+134302	2008123153944	2009-02-23 00:00:00	2008-07-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	285.0	Electronics,Electronics	Denied	0.0	Deny
+134686	2009032456799	2009-03-05 00:00:00	2009-02-07 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.12	Other	Approved	50.12	Approve in Full
+134855	2009032456838	2009-03-09 00:00:00	2009-01-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	360.0	Electronics	Denied	0.0	Deny
+134983	2009033157071	2009-03-11 00:00:00	2009-02-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1371.77	Cosmetics	Denied	0.0	Deny
+135029	2009033157048	2009-03-12 00:00:00	2009-02-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	2235.0	Watches & Jewelry	Settled	2230.0	Settle
+136080	2009042257843	2009-04-09 00:00:00	2008-12-27 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage	369.52	Electronics,Cosmetics,Electronics,Supplies,Household Decor	Denied	0.0	Deny
+136213	2009042858046	2009-04-14 00:00:00	2008-01-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	2233.22	Electronics,Electronics	Denied	0.0	Deny
+136376	2009050658383	2009-04-20 00:00:00	2009-03-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+136440	2009050758433	2009-04-21 00:00:00	2009-03-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	3147.2	Watches & Jewelry	Denied	0.0	Deny
+137543	2009052759503	2009-05-22 00:00:00	2009-04-26 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	234.0	Clothing & Accessories	Denied	0.0	Deny
+137690	2009060359794	2009-05-27 00:00:00	2009-05-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	289.95	Electronics,Electronics	Denied	0.0	Deny
+138029	2009061160067	2009-06-05 00:00:00	2009-05-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Watches & Jewelry	Denied	0.0	Deny
+138436	2009061960442	2009-06-16 00:00:00	2009-05-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	52.28	Other	Denied	0.0	Deny
+138666	2009063060762	2009-06-22 00:00:00	2009-06-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	450.86	Outdoors Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+139012	2009070961006	2009-07-01 00:00:00	2009-05-25 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Denied	0.0	Deny
+139612	2009072361665	2009-07-16 00:00:00	2009-06-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.33	Outdoors Supplies	Denied	0.0	Deny
+139718	2009072861861	2009-07-20 00:00:00	2009-07-13 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage	900.0	Electronics	Denied	0.0	Deny
+140081	2009073162090	2009-07-29 00:00:00	2009-06-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Supplies,Other	Denied	0.0	Deny
+140218	2009080762413	2009-08-03 00:00:00	2009-07-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.55	Tools & Machines	Approved	8.55	Approve in Full
+140269	2009081062435	2009-08-03 00:00:00	2009-07-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Household Items	Denied	0.0	Deny
+141001	2009082562941	2009-08-25 00:00:00	2009-07-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	189.0	Clothing & Accessories,Supplies	Denied	0.0	Deny
+141659	2009091463634	2009-09-14 00:00:00	2009-08-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Other	Denied	0.0	Deny
+142012	2009092564012	2009-09-23 00:00:00	2009-08-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.99	Office Supplies,Other	Denied	0.0	Deny
+142225	2009093064152	2009-09-29 00:00:00	2009-09-25 00:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Outdoors Supplies,Outdoors Supplies	Denied	0.0	Deny
+142266	2009100164230	2009-09-30 00:00:00	2009-09-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	3066.77	Electronics	Denied	0.0	Deny
+143491	2009112065547	2009-11-11 00:00:00	2009-10-11 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	47.0	Other	Denied	0.0	Deny
+144389	2009121166451	2009-12-07 00:00:00	2009-10-08 12:50:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	13.88	Tools & Machines	Denied	0.0	Deny
+144450	2009121166433	2009-12-09 00:00:00	2009-11-19 07:47:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Tools & Machines,Other	Denied	0.0	Deny
+144451	2009121166435	2009-12-09 00:00:00	2009-11-23 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	20.0	Cosmetics	Denied	0.0	Deny
+144697	2009122366741	2009-12-16 00:00:00	2009-12-14 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage	925.0	Electronics	Denied	0.0	Deny
+144954	2009122866805	2009-12-28 00:00:00	2009-10-26 23:55:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	519.0	Electronics,Containers	Denied	0.0	Deny
+144970	2009123066956	2009-12-28 00:00:00	2009-12-19 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	508.45	Electronics	Denied	0.0	Deny
+145074	2010012167710	2009-12-30 00:00:00	2010-01-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	428.92	Other,Electronics	Canceled		
+145167	2010010867352	2010-01-08 00:00:00	2010-01-01 06:35:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+145198	2010011367513	2010-01-12 00:00:00	2010-01-09 07:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor		0.0	Deny
+145336	2010012867997	2010-01-21 00:00:00	2010-01-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+145373	2010012767982	2010-01-25 00:00:00	2010-01-18 16:00:00	SLC	Salt Lake City International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+145681	2010022068611	2010-02-05 00:00:00	2010-01-20 06:45:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		171.0	Settle
+146063	2010030569104	2010-02-23 00:00:00	2010-02-11 09:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+146092	2010030869225	2010-02-24 00:00:00	2010-02-16 09:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+146323	2010031169410	2010-03-03 00:00:00	2010-02-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+146341	2010031169461	2010-03-03 00:00:00	2010-02-23 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+146434	2010031369564	2010-03-05 00:00:00	2010-01-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		105.0	Settle
+146452	2010031569612	2010-03-08 00:00:00	2010-02-26 15:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		125.0	Approve in Full
+146472	2010031769664	2010-03-08 00:00:00	2010-02-20 08:45:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		66.0	Settle
+146476	2010031869677	2010-03-08 00:00:00	2010-02-25 10:10:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+146534	2010031869695	2010-03-09 00:00:00	2010-03-01 15:34:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		13.0	Approve in Full
+146543	2010032469965	2010-03-09 00:00:00	2010-02-21 14:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Outdoors Supplies		0.0	Deny
+146565	2010031569607	2010-03-10 00:00:00	2010-03-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+146652	2010031769661	2010-03-15 00:00:00	2010-03-08 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+146855	2010032269864	2010-03-19 00:00:00	2010-03-10 07:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		96.0	Settle
+146934	2010032670096	2010-03-22 00:00:00	2010-03-17 09:15:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+147073	2010040270338	2010-03-26 00:00:00	2010-03-05 10:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147091	2010033070222	2010-03-29 00:00:00	2010-03-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147227	2010033170244	2010-03-31 00:00:00	2010-03-17 15:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147307	2010040170305	2010-04-02 00:00:00	2010-03-14 11:15:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+147954	2010042671193	2010-04-21 00:00:00	2010-04-12 21:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+148045	2010042871272	2010-04-26 00:00:00	2010-03-08 21:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+148304	2010051071639	2010-05-03 00:00:00	2010-01-22 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+148496	2010051171696	2010-05-10 00:00:00	2010-05-03 08:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		158.52	Approve in Full
+149281	2010061572627	2010-06-02 00:00:00	2010-05-21 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry,Other		0.0	Deny
+149300	2010061772752	2010-06-02 00:00:00	2010-04-30 11:19:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Other,Other		0.0	Deny
+149465	2010062873130	2010-06-08 00:00:00	2010-05-20 08:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		87.1	Approve in Full
+149515	2010061872790	2010-06-10 00:00:00	2010-03-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+149542	2010062172824	2010-06-11 00:00:00	2010-05-31 16:05:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+149788	2010062373016	2010-06-21 00:00:00	2010-03-01 15:30:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+150249	2010070973532	2010-07-02 00:00:00	2010-06-24 07:09:00	SLC	Salt Lake City International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+150642	2010072374012	2010-07-14 00:00:00	2010-06-26 20:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+150681	2010072574041	2010-07-15 00:00:00	2010-06-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories		0.0	Deny
+150857	2010073174274	2010-07-20 00:00:00	2010-06-23 05:46:00	SLC	Salt Lake City International Airport	Air Canada	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+150906	2010073074225	2010-07-22 00:00:00	2010-07-09 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+152568	2010091676045	2010-09-07 00:00:00	2010-06-25 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		17.35	Approve in Full
+152656	2010091475958	2010-09-09 00:00:00	2010-09-05 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checkpoint		Other		287.55	Approve in Full
+152698	2010091776105	2010-09-10 00:00:00	2010-08-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+152959	2010092176267	2010-09-20 00:00:00	2010-09-10 12:45:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		35.95	Approve in Full
+153140	2010093076532	2010-09-24 00:00:00	2010-09-08 11:30:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+153338	2010100676724	2010-09-30 00:00:00	2010-09-17 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics			
+153494	2010100876798	2010-10-05 00:00:00	2010-09-25 18:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		107.75	Approve in Full
+153515	2010101376926	2010-10-05 00:00:00	2010-09-28 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+153619	2010101576971	2010-10-12 00:00:00	2010-09-25 14:44:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+154275	2010110977702	2010-11-01 00:00:00	2010-10-08 17:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+154364	2010111277808	2010-11-02 00:00:00	2010-04-12 06:19:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+154766	2010112978318	2010-11-15 00:00:00	2010-11-04 07:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+154829	2010112678225	2010-11-17 00:00:00	2010-11-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
+154927	2010112978342	2010-11-22 00:00:00	2010-11-14 10:49:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+154957	2010120378465	2010-11-22 00:00:00	2010-11-10 07:30:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint		Outdoors Supplies		0.0	Deny
+155708	2010122879103	2010-12-20 00:00:00	2010-12-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+155784	2011010679201	2010-12-21 00:00:00	2010-10-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		45.0	Approve in Full
+155999	2011010879308	2010-12-29 00:00:00	2010-11-06 09:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint		Electronics		1473.06	Approve in Full
+156019	2011011979643	2010-12-29 00:00:00	2010-06-12 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+156095	2011011279481	2011-01-03 00:00:00	2010-12-15 14:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+156161	2011011379517	2011-01-05 00:00:00	2010-12-12 09:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		10.51	Approve in Full
+156492	2011020779954	2011-01-13 00:00:00	2011-01-11 10:30:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+156622	2011021680245	2011-01-18 00:00:00	2011-01-03 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Other		160.0	Settle
+157296	2011030280759	2011-02-07 00:00:00	2011-01-09 08:30:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		9.74	Approve in Full
+157635	2011031481172	2011-02-18 00:00:00	2011-02-14 00:00:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+157862	2011032181360	2011-02-28 00:00:00	2011-02-24 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+158519	2011040681943	2011-03-21 00:00:00	2011-02-05 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry,Other		0.0	Deny
+158563	2011040681926	2011-03-22 00:00:00	2011-03-19 14:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+158651	2011041182100	2011-03-25 00:00:00	2011-03-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		11.5	Approve in Full
+159010	2011041382396	2011-04-05 00:00:00	2011-02-11 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+159044	2011041482588	2011-04-06 00:00:00	2011-04-04 15:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+159196	2011042182874	2011-04-11 00:00:00	2011-03-07 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		25.64	Approve in Full
+159475	2011042282921	2011-04-20 00:00:00	2011-04-13 10:15:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checkpoint		Electronics		30.0	Approve in Full
+160003	2011051883511	2011-05-09 00:00:00	2011-02-26 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint		Watches & Jewelry			
+160130	2011052383652	2011-05-11 00:00:00	2011-05-06 09:55:00	SLC	Salt Lake City International Airport	Skywest Airlines Australia	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+160362	2011060183872	2011-05-19 00:00:00	2011-04-21 05:43:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+160372	2011060183913	2011-05-19 00:00:00	2011-04-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+160515	2011060384038	2011-05-24 00:00:00	2011-04-26 12:30:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
+160644	2011051983551	2011-05-31 00:00:00	2011-03-27 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		13.0	Approve in Full
+160683	2011060984209	2011-05-31 00:00:00	2011-04-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+160873	2011061784440	2011-06-06 00:00:00	2011-05-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
+160917	2011062184481	2011-06-07 00:00:00	2011-05-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+161195	2011062884706	2011-06-15 00:00:00	2011-06-11 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+161548	2011070885056	2011-06-28 00:00:00	2011-05-26 15:15:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		64.99	Approve in Full
+161953	2011072785558	2011-07-12 00:00:00	2011-06-17 17:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+162053	2011072585484	2011-07-15 00:00:00	2011-06-26 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+162130	2011080485724	2011-07-18 00:00:00	2011-07-07 08:15:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+162143	2011080485742	2011-07-18 00:00:00	2011-06-21 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss			Other,Other		0.0	Deny
+162147	2011080485749	2011-07-18 00:00:00	2011-06-25 11:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+162355	2011081085933	2011-07-25 00:00:00	2011-07-17 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+162416	2011072685497	2011-07-26 00:00:00	2011-06-24 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+162491	2011081686167	2011-07-28 00:00:00	2011-07-23 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+162794	2011082586419	2011-08-05 00:00:00	2011-07-04 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+162943	2011083086529	2011-08-10 00:00:00	2011-07-31 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+163077	2011090186659	2011-08-15 00:00:00	2011-07-15 06:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		7.31	Settle
+163083	2011090286665	2011-08-15 00:00:00	2011-07-25 12:31:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+163095	2011090286692	2011-08-15 00:00:00	2011-08-06 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		9.57	Approve in Full
+163224	2011090986803	2011-08-19 00:00:00	2011-07-29 11:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+163421	2011092087022	2011-08-25 00:00:00	2011-08-21 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		25.0	Approve in Full
+163441	2011092087051	2011-08-25 00:00:00	2011-08-12 10:30:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+163788	2011101487927	2011-09-07 00:00:00	2011-08-20 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+163789	2011101487928	2011-09-07 00:00:00	2011-08-20 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+163933	2011100487471	2011-09-13 00:00:00	2011-07-29 07:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+164200	2011101487847	2011-09-22 00:00:00	2011-09-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		165.59	Settle
+164378	2011101487905	2011-09-30 00:00:00	2011-08-05 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+164402	2011101787983	2011-10-03 00:00:00	2011-07-21 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+164481	2011102188275	2011-10-04 00:00:00	2011-09-28 08:17:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
+164709	2011101988179	2011-10-11 00:00:00	2011-09-27 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+164762	2011102088210	2011-10-12 00:00:00	2011-08-29 06:30:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+164963	2011120289310	2011-10-18 00:00:00	2011-09-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+165023	2011102188272	2011-10-21 00:00:00	2011-09-01 13:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+165474	2011111588988	2011-11-04 00:00:00	2011-10-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		109.97	Approve in Full
+165524	2011111689088	2011-11-07 00:00:00	2011-10-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other,Other			
+165773	2011120589349	2011-11-15 00:00:00	2011-11-01 11:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+166283	2011122889886	2011-12-05 00:00:00	2011-11-24 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Containers,Scientific Intruments		0.0	Deny
+166311	2011122289823	2011-12-06 00:00:00	2011-10-25 08:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+166952	2012013090513	2011-12-30 00:00:00	2011-10-16 07:46:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+167252	2012021791160	2012-01-09 00:00:00	2011-12-30 06:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+167725	2012022991397	2012-01-23 00:00:00	2012-01-01 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+167726	2012022991398	2012-01-23 00:00:00	2012-01-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+168260	2012032191927	2012-02-09 00:00:00	2011-12-30 18:35:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		26.45	Approve in Full
+168351	2012032292002	2012-02-13 00:00:00	2011-12-26 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+168538	2012032892189	2012-02-21 00:00:00	2012-02-18 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+168661	2012040292316	2012-02-22 00:00:00	2012-02-21 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+168834	2012040392450	2012-02-29 00:00:00	2012-02-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		238.17	Approve in Full
+168846	2012050393578	2012-02-29 00:00:00	2012-01-25 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+168849	2012040392446	2012-03-01 00:00:00	2012-02-21 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+169190	2012041993049	2012-03-13 00:00:00	2012-03-01 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+169196	2012041993063	2012-03-13 00:00:00	2012-02-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Food & Drink		0.0	Deny
+169296	2012041192817	2012-03-19 00:00:00	2012-03-15 23:25:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+169399	2012041692915	2012-03-21 00:00:00	2012-02-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+169912	2012050293534	2012-04-10 00:00:00	2012-04-06 09:04:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+169974	2012051093821	2012-04-11 00:00:00	2012-03-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		142.5	Approve in Full
+170062	2012050893703	2012-04-16 00:00:00	2012-01-30 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics		0.0	Deny
+170261	2012051593999	2012-04-23 00:00:00	2012-02-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+170364	2012050993732	2012-04-26 00:00:00	2012-04-12 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+170539	2012052394181	2012-05-02 00:00:00	2012-04-17 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		7.45	Approve in Full
+170815	2012053094395	2012-05-10 00:00:00	2012-04-28 11:20:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics,Other,Electronics		0.0	Deny
+171351	2012062895018	2012-05-30 00:00:00	2012-04-29 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		100.0	Approve in Full
+171374	2012062794982	2012-05-31 00:00:00	2012-05-19 15:53:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Other		0.0	Deny
+171412	2012070395061	2012-06-01 00:00:00	2012-05-27 08:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry		125.0	Settle
+171456	2012070995141	2012-06-04 00:00:00	2012-05-09 19:40:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+171747	2012071195250	2012-06-13 00:00:00	2012-06-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+171829	2012071895499	2012-06-18 00:00:00	2012-05-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
+172085	2012073195809	2012-06-26 00:00:00	2012-06-04 17:52:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories		0.0	Deny
+172640	2012082996406	2012-07-16 00:00:00	2012-05-24 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		295.76	Settle
+172723	2012083096472	2012-07-18 00:00:00	2012-07-15 07:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+173001	2012091296747	2012-07-30 00:00:00	2012-06-29 08:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Containers		75.0	Settle
+173346	2012092397090	2012-08-10 00:00:00	2012-08-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		310.22	Settle
+174076	2012102097818	2012-09-05 00:00:00	2012-07-22 08:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+174366	2012091696869	2012-09-16 00:00:00	2012-07-23 10:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+174393	2012102498093	2012-09-17 00:00:00	2012-08-14 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+174708	2012111098538	2012-09-27 00:00:00	2012-08-19 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+174931	2012112698858	2012-10-05 00:00:00	2012-09-14 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Cosmetics			
+175201	2012122799377	2012-10-17 00:00:00	2012-10-13 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Other			
+175219	2012112798892	2012-10-18 00:00:00	2012-09-23 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+176472	2013012400170	2012-12-05 00:00:00	2012-12-01 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		147.33	Approve in Full
+177022	2013012900615	2012-12-31 00:00:00	2012-12-14 18:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics		0.0	Deny
+177221	2013020100828	2013-01-08 00:00:00	2013-01-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		8.83	Approve in Full
+177470	2013020701209	2013-01-16 00:00:00	2013-01-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+177922	2013021401425	2013-01-30 00:00:00	2013-01-27 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		65.0	Approve in Full
+178031	2013022001672	2013-02-04 00:00:00	2013-01-04 17:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+178767	2013030402366	2013-03-04 00:00:00	2013-02-23 16:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		470.9	Approve in Full
+179412	2013041003097	2013-03-26 00:00:00	2012-12-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+179548	2013041903244	2013-04-02 00:00:00	2013-03-11 19:20:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+179704	2013050203448	2013-04-08 00:00:00	2013-03-22 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+179806	2013041203146	2013-04-12 00:00:00	2013-02-17 09:46:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		45.0	Approve in Full
+179877	2013050703531	2013-04-15 00:00:00	2013-03-09 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Office Supplies		0.0	Deny
+179900	2013050903609	2013-04-15 00:00:00	2013-02-02 09:55:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+179914	2013042903378	2013-04-16 00:00:00	2013-04-09 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		14.99	Approve in Full
+180540	2013061904546	2013-05-09 00:00:00	2013-01-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		13.77	Approve in Full
+180713	2013051603714	2013-05-16 00:00:00	2013-04-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
+180800	2013062104601	2013-05-20 00:00:00	2013-04-06 21:15:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+181456	2013073105530	2013-06-13 00:00:00	2013-05-30 12:50:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Electronics		49.99	Approve in Full
+181880	2013071905293	2013-06-27 00:00:00	2013-06-08 16:00:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+183327	2013092307228	2013-08-15 00:00:00	2013-07-31 11:15:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+183349	2013092407303	2013-08-15 00:00:00	2013-07-07 07:30:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		30.0	Approve in Full
+183385	2013093007465	2013-08-15 00:00:00	2013-08-12 07:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Household Decor		40.0	Approve in Full
+183539	2013102207562	2013-08-21 00:00:00	2013-08-09 18:23:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+183937	2013110608807	2013-09-04 00:00:00	2013-08-30 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+184076	2013110808977	2013-09-10 00:00:00	2013-08-13 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics		28.79	Approve in Full
+184251	2013102708022	2013-09-16 00:00:00	2013-08-12 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+184818	2013110508700	2013-10-14 00:00:00	2013-09-14 11:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+184898	2013110808921	2013-10-17 00:00:00	2013-09-19 11:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+185500	2013111309212	2013-11-07 00:00:00	2013-09-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Containers			
+185642	2013111509412	2013-11-14 00:00:00	2013-10-27 11:20:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+185972	2013120309739	2013-11-29 00:00:00	2013-11-22 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+186096	2013120609938	2013-12-03 00:00:00	2013-11-16 00:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Food & Drink			
+186497	2013122710288	2013-12-19 00:00:00	2013-12-11 09:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+186567	2014010310433	2013-12-23 00:00:00	2013-12-15 13:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
+187018	2014011310757	2014-01-06 00:00:00	2013-09-05 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+187266	2014012211018	2014-01-15 00:00:00	2014-01-05 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+187743	2014020611503	2014-02-04 00:00:00	2014-01-23 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+187898	2014021211662	2014-02-04 00:00:00	2014-01-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+187953	2014021411719	2014-02-10 00:00:00	2013-10-05 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		16.0	Approve in Full
+188194	2014022511965	2014-02-19 00:00:00	2014-01-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		20.0	Approve in Full
+188226	2014022611998	2014-02-21 00:00:00	2014-02-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+188390	2014030312164	2014-02-26 00:00:00	2014-02-11 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		99.95	Approve in Full
+188556	2014031112333	2014-03-10 00:00:00	2014-03-06 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+188641	2014031312423	2014-03-12 00:00:00	2014-02-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+188644	2014031312426	2014-03-10 00:00:00	2014-03-01 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Other		15.75	Approve in Full
+188708	2014031412494	2014-03-10 00:00:00	2014-01-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+188747	2014031712535	2014-03-14 00:00:00	2014-03-12 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Cosmetics		0.0	Deny
+189398	2014041413198	2014-04-09 00:00:00	2014-03-21 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Other		114.99	Settle
+189554	2014041813357	2014-04-16 00:00:00	2014-02-15 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Other,Cosmetics		64.08	Approve in Full
+189574	2014041813377	2014-04-16 00:00:00	2014-02-23 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		57.21	Settle
+190777	2014061314602	2014-06-06 00:00:00	2014-05-04 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+190909	2014061914736	2014-06-19 00:00:00	2014-05-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		106.85	Approve in Full
+191489	2014072215330	2014-07-14 00:00:00	2014-07-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		32.68	Approve in Full
+193186	2014092617065	2014-09-12 00:00:00	2014-09-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+193236	2014092917116	2014-08-28 00:00:00	2014-06-12 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry			
+193516	2014100617400	2014-09-25 00:00:00	2014-09-19 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+193571	2014100717455	2014-09-19 00:00:00	2014-08-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+193662	2014101017548	2014-09-29 00:00:00	2014-09-18 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checkpoint		Other			
+194737	2014112618648	2014-11-26 00:00:00	2014-10-22 00:00:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other			
+194784	2014112818697	2014-11-17 00:00:00	2014-11-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+203639	2015011219807	2015-01-12 00:00:00	2014-12-28 00:00:00	SLC	Salt Lake City International Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checkpoint		Food & Drink,Other		180.0	Approve in Full
+203640	2015011619939	2015-01-15 00:00:00	2015-01-11 00:00:00	SLC	Salt Lake City International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+203641	2015012020008	2015-01-20 00:00:00	2014-12-24 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+203645	2015012520140	2015-01-25 00:00:00	2015-01-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+203651	2015021820638	2015-02-18 00:00:00	2015-02-07 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+203655	2015031021138	2015-03-10 00:00:00	2015-02-07 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items,Household Items		50.0	Approve in Full
+203656	2015031721273	2015-03-17 00:00:00	2015-03-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+203658	2015032421471	2015-03-24 00:00:00	2015-02-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.0	Approve in Full
+203662	2015042122047	2015-04-16 00:00:00	2015-03-29 00:00:00	SLC	Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+203663	2015042922204	2015-04-20 00:00:00	2015-03-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203668	2015051422523	2015-05-14 00:00:00	2015-04-23 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+203671	2015052622759	2015-05-20 00:00:00	2015-05-12 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+203674	2015061223112	2015-06-03 00:00:00	2015-05-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+203675	2015062423400	2015-06-17 00:00:00	2015-05-20 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+203679	2015072124023	2015-07-14 00:00:00	2015-06-27 00:00:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+203680	2015072424203	2015-07-20 00:00:00	2015-07-16 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+203686	2015080524590	2015-08-05 00:00:00	2015-07-28 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203688	2015080624664	2015-08-06 00:00:00	2015-07-19 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+203690	2015081324861	2015-08-13 00:00:00	2015-08-05 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Cosmetics,Food & Drink		0.0	Deny
+203694	2015082525061	2015-08-19 00:00:00	2015-07-18 00:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+203695	2015083125158	2015-08-24 00:00:00	2015-08-18 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+203699	2015100225845	2015-09-22 00:00:00	2015-09-13 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203703	2015111626898	2015-10-26 00:00:00	2015-10-11 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203704	2015111326847	2015-10-29 00:00:00	2015-10-16 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Cosmetics			
+203705	2015112427103	2015-11-05 00:00:00	2015-10-30 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+203706	2015121027456	2015-11-23 00:00:00	2015-11-08 00:00:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203708	2015121427533	2015-12-01 00:00:00	2015-11-15 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Office Supplies			
+203710	2015122427874	2015-12-11 00:00:00	2015-11-29 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Office Supplies,Clothing & Accessories,Electronics			
+211928	2016042230757	2016-04-04 00:00:00	2016-03-28 23:45:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			Insufficient
+211933	2016022629149	2016-02-03 00:00:00	2016-01-18 19:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		9.85	Approve in Full
+211935	2016032530070	2016-03-08 00:00:00	2016-02-17 04:30:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Other			Closed:Canceled
+211936	2016101934876	2016-09-12 00:00:00	2016-09-10 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			Closed:Canceled
+211937	2016031429683	2016-02-25 00:00:00	2016-01-30 05:40:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+211939	2016031129641	2016-02-25 00:00:00	2016-02-06 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
+211943	2016050331032	2016-04-14 00:00:00	2016-03-23 08:45:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+211944	2016071832771	2016-07-18 00:00:00	2016-06-09 00:00:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+211948	2016040430328	2016-03-17 00:00:00	2016-02-26 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics			In Review
+211949	2016052531758	2016-05-11 00:00:00	2016-03-27 17:50:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211950	2016042830912	2016-04-28 00:00:00	2016-03-30 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Cosmetics			In Review
+211951	2016042130700	2016-04-04 00:00:00	2016-03-30 12:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211952	2016042630825	2016-04-06 00:00:00	2016-04-03 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211953	2016051831435	2016-05-04 00:00:00	2016-04-08 09:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry			In Review
+211956	2016092333816	2016-08-04 00:00:00	2016-06-01 06:36:00	SLC	Salt Lake City International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
+211960	2016100334248	2016-08-19 00:00:00	2016-07-02 01:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+211961	2016092934086	2016-08-10 00:00:00	2016-07-17 19:00:00	SLC	Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+211964	2016101734757	2016-10-17 00:00:00	2016-08-12 22:00:00	SLC	Salt Lake City International Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Scientific Intruments			In Review
+211966	2016101434671	2016-09-06 00:00:00	2016-08-20 08:45:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211968	2016102134983	2016-09-19 00:00:00	2016-09-06 00:00:00	SLC	Salt Lake City International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211969	2016122036076	2016-10-24 00:00:00	2016-09-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics			In Review
+211976	2016121936068	2016-10-24 00:00:00	2016-10-07 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+211978	2017010436254	2016-11-02 00:00:00	2016-10-08 00:00:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Games & Toys			In Review
+211979	2017012436831	2016-11-16 00:00:00	2016-10-08 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+211981	2017012636878	2017-01-26 00:00:00	2016-10-14 00:00:00	SLC	Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+211987	2017020337274	2016-12-27 00:00:00	2016-12-18 15:10:00	SLC	Salt Lake City International Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Cosmetics,Household Items			In Review
+211988	2017020237195	2016-12-22 00:00:00	2016-12-20 07:15:00	SLC	Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry,Scientific Intruments			In Review
+211990	2016032330032	2016-03-07 00:00:00	2016-01-25 18:11:00	SLC	Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Settle
+220242	2017033038291	2017-02-01 00:00:00	2017-01-13 00:00:00	SLC	 Salt Lake City International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+220243	2017100243888	2017-09-01 00:00:00	2017-08-05 00:00:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint		Outdoors Supplies			In Review
+220244	2017112845500	2017-11-02 00:00:00	2017-10-28 00:00:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+220247	2017091443138	2017-08-03 00:00:00	2017-07-20 00:00:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+220250	2017122246273	2017-12-05 00:00:00	2017-11-20 00:00:00	SLC	 Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry			In Review
+220251	2017083142615	2017-07-05 00:00:00	2017-07-03 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items,Outdoors Supplies,Cosmetics			In Review
+220252	2017072441779	2017-06-05 00:00:00	2017-05-15 00:00:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		30.0	Approve in Full
+220257	2017050139154	2017-03-06 00:00:00	2017-02-01 08:00:00	SLC	 Salt Lake City International Airport	UAL	Passenger Property Loss	Checkpoint		Cosmetics			In Review
+220260	2017050139137	2017-03-07 00:00:00	2017-02-15 07:40:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry			In Review
+220261	2017050139164	2017-03-07 00:00:00	2017-01-18 00:00:00	SLC	 Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		11.7	Approve in Full
+220263	2017111645223	2017-10-08 00:00:00	2017-10-07 09:30:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint		Containers			In Review
+220264	2017081742316	2017-07-10 00:00:00	2017-07-09 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+220265	2017102644733	2017-10-10 00:00:00	2017-09-21 00:00:00	SLC	Salt Lake City International Airport Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+220266	2017120845833	2017-12-11 00:00:00	2017-11-10 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			In Review
+220267	2017072741886	2017-07-11 00:00:00	2017-07-05 09:30:00	SLC	 Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments			In Review
+220268	2017060140113	2017-05-11 00:00:00	2017-05-03 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+220271	2017071241405	2017-06-12 00:00:00	2017-06-07 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
+220274	2017101344360	2017-09-13 00:00:00	2017-08-24 16:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories			Insufficient
+220276	2017071841667	2017-06-14 00:00:00	2017-05-26 11:00:00	SLC	Salt Lake City International Airport Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
+220277	2017072541823	2017-06-14 00:00:00	2017-05-26 11:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
+220278	2017070341168	2017-05-15 00:00:00	2017-01-27 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Food & Drink			In Review
+220279	2017113045649	2017-11-15 00:00:00	2017-10-26 13:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Outdoors Supplies			In Review
+220281	2017092743603	2017-08-17 00:00:00	2017-05-21 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			In Review
+220282	2017122146196	2017-11-17 00:00:00	2017-10-27 11:40:00	SLC	 Salt Lake City International Airport	UAL	Passenger Property Loss	Checkpoint		Office Supplies			In Review
+220283	2017051839687	2017-05-18 00:00:00	2017-03-10 07:45:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry			Insufficient
+220287	2017083142561	2017-07-20 00:00:00	2017-07-10 00:00:00	SLC	 Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+220288	2017092143355	2017-08-21 00:00:00	2017-08-12 06:44:00	SLC	 Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			In Review
+220290	2017122846342	2017-11-22 00:00:00	2017-11-14 07:00:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Other,Electronics			In Review
+220291	2017101244289	2017-09-22 00:00:00	2017-09-21 00:00:00	SLC	 Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+220297	2017061340521	2017-04-26 00:00:00	2017-04-07 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments			In Review
+220299	2017122746308	2017-12-27 00:00:00	2017-11-21 22:00:00	SLC	 Salt Lake City International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics			In Review
+220303	2017042438836	2017-02-27 00:00:00	2017-02-20 07:22:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		12.81	Approve in Full
+220304	2017051739598	2017-03-27 00:00:00	2017-03-04 00:00:00	SLC	 Salt Lake City International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+220305	2017121946110	2017-11-28 00:00:00	2017-10-17 00:00:00	SLC	 Salt Lake City International Airport	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
+220308	2017091142910	2017-07-31 00:00:00	2017-07-26 00:00:00	SLC	 Salt Lake City International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review

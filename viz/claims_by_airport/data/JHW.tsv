@@ -1,0 +1,5 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+35618	2004060955244	2004-05-19 00:00:00	2004-04-24 00:00:00	JHW	Chautaugua County, Jamestown	USAir	Passenger Property Loss	Checked Baggage	5300.0	Other	Denied	0.0	Deny
+38716	2004071259072	2004-06-28 00:00:00	2004-05-20 00:00:00	JHW	Chautaugua County, Jamestown		Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
+64385	2005053185585	2005-05-19 00:00:00	2005-03-03 00:00:00	JHW	Chautaugua County, Jamestown	USAir	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Settled	37.5	Settle
+83869	2006042505206	2006-04-14 00:00:00	2005-11-09 00:00:00	JHW	Chautaugua County, Jamestown	USAir	Passenger Property Loss	Checked Baggage	269.19	Electronics	Denied	0.0	Deny

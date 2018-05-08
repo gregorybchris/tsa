@@ -1,0 +1,2 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+29833	2004051752464	2004-03-10 00:00:00	2004-02-26 00:00:00	MAZ	Mayaguez, PR	American Airlines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny

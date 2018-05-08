@@ -1,0 +1,32 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+14252	0826036M	2003-08-26 00:00:00	2003-08-14 00:00:00	GNV	Gainesville Regional	USAir	Passenger Property Loss	Checkpoint	1378.0	Watches & Jewelry	Approved	1378.0	Approve in Full
+37569	2004071259100	2004-06-08 00:00:00	2004-05-05 00:00:00	GNV	Gainesville Regional		Passenger Property Loss	Checked Baggage	1119.0	Other	Settled	884.0	Settle
+46811	2004111867365	2004-10-05 00:00:00	2004-01-02 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Settled	50.0	Settle
+51536	2005010372105	2004-12-07 00:00:00	2004-11-13 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	758.78	Watches & Jewelry	Settled	351.89	Settle
+54204	2005020275407	2005-01-11 00:00:00	2004-12-23 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Tools & Machines	Denied	0.0	Deny
+57584	2005032379500	2005-02-18 00:00:00	2005-02-03 00:00:00	GNV	Gainesville Regional		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+59733	2005033080642	2005-03-22 00:00:00	2005-03-10 00:00:00	GNV	Gainesville Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.5	Other	Approved	45.5	Approve in Full
+60468	2005040581478	2005-03-30 00:00:00	2005-01-24 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	10.0	Other	Approved	10.0	Approve in Full
+61190	2005041182086	2005-04-07 00:00:00	2005-04-01 00:00:00	GNV	Gainesville Regional		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+74375	2005102595142	2005-10-25 00:00:00	2005-10-06 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	619.5	Electronics	Denied	0.0	Deny
+83140	2006041204372	2006-03-30 00:00:00	2006-03-27 00:00:00	GNV	Gainesville Regional	USAir	Passenger Property Loss	Checked Baggage	160.0	Electronics	Settled	80.0	Settle
+85279	2006051806559	2006-05-16 00:00:00	2006-04-24 00:00:00	GNV	Gainesville Regional	Southeast Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+89376	2006080910653	2006-08-03 00:00:00	2006-07-15 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	156.69	Tools & Machines,Cosmetics	Denied	0.0	Deny
+96568	2006122818069	2006-12-21 00:00:00	2006-12-19 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	54.0	Cosmetics	Denied	0.0	Deny
+101980	2007033023298	2007-03-28 00:00:00	2007-03-14 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.37	Tools & Machines	Approved	10.37	Approve in Full
+107914	2007073129383	2007-07-25 00:00:00	2007-05-23 00:00:00	GNV	Gainesville Regional	USAir	Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+111451	2007092832749	2007-09-28 00:00:00	2007-09-25 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	300.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+112149	2007101633438	2007-10-15 00:00:00	2007-10-02 00:00:00	GNV	Gainesville Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	636.2	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+121878	2008042543401	2008-04-25 00:00:00	2008-04-11 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	363.98	Other,Electronics	Denied	0.0	Deny
+125193	2008071446856	2008-07-08 00:00:00	2008-07-05 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	907.85	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+130937	2008112552751	2008-11-21 00:00:00	2008-11-17 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	540.0	Electronics,Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+137589	2009060159665	2009-05-26 00:00:00	2009-04-17 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	228.44	Other	Canceled	0.0	
+142215	2009092964142	2009-09-29 00:00:00	2009-09-22 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	347.8	Electronics	Canceled	0.0	
+146148	2010031069324	2010-02-25 00:00:00	2010-01-23 00:00:00	GNV	Gainesville Regional	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+148489	2010051171681	2010-05-10 00:00:00	2010-04-08 14:30:00	GNV	Gainesville Regional	USAir	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+148687	2010051871888	2010-05-14 00:00:00	2010-05-02 09:30:00	GNV	Gainesville Regional	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+165679	2011112989206	2011-11-14 00:00:00	2011-10-23 00:00:00	GNV	Gainesville Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+170181	2012051493872	2012-04-19 00:00:00	2012-04-10 00:00:00	GNV	Gainesville Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+182540	2013083006427	2013-07-19 00:00:00	2013-06-21 05:30:00	GNV	Gainesville Regional	American Airlines	Passenger Property Loss	Checkpoint		Electronics			
+191439	2014072115277	2014-07-01 00:00:00	2014-05-19 00:00:00	GNV	Gainesville Regional	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage		Other			
+215204	2017042538903	2017-02-21 00:00:00	2017-01-31 00:00:00	GNV	Gainesville Regional Gainesville Regional		Passenger Property Loss	Checkpoint		Other		20.65	Approve in Full

@@ -1,0 +1,6 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+113955	2007112735450	2007-11-19 00:00:00	2007-10-16 00:00:00	BHB	Hancock County Bar Harbor		Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Denied	0.0	Deny
+128098	2008091549893	2008-09-10 00:00:00	2008-09-07 00:00:00	BHB	Hancock County Bar Harbor	USAir	Passenger Property Loss	Checked Baggage	48.5	Tools & Machines	Denied	0.0	Deny
+165359	2011110888766	2011-11-01 00:00:00	2011-10-01 11:30:00	BHB	Hancock County Bar Harbor	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+185341	2013111409309	2013-10-31 00:00:00	2013-10-04 05:50:00	BHB	Hancock County Bar Harbor	Cape Air	Passenger Property Loss	Checkpoint		Other			
+204793	2016032530114	2016-03-11 00:00:00	2016-03-11 00:00:00	BHB	Hancock County Bar Harbor Hancock County Bar Harbor	USAir	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry		0.0	Deny

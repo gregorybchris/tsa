@@ -1,0 +1,78 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+15997	0916057M	2003-09-16 00:00:00	2003-05-27 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checkpoint	64.19	Watches & Jewelry	Approved	64.19	Approve in Full
+20106	1117102M	2003-11-17 00:00:00	2003-10-03 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	84.99	Other	Approved	84.99	Approve in Full
+30380	2004051452286	2004-03-12 00:00:00	2004-01-26 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checked Baggage	50.0	Other	Settled	40.0	Settle
+31480	2004051151133	2004-03-29 00:00:00	2003-12-30 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checked Baggage	1700.0	Watches & Jewelry	Denied	0.0	Deny
+31819	2004051452117	2004-04-01 00:00:00	2004-03-18 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checkpoint	300.0	Other	Canceled	0.0	
+35553	2004062156470	2004-05-19 00:00:00	2004-05-07 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checkpoint	198.0	Other	Approved	198.0	Approve in Full
+35575	2004062156713	2004-05-19 00:00:00	2004-04-18 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	18.0	Other	Approved	18.0	Approve in Full
+42553	2004091362752	2004-08-12 00:00:00	2004-07-22 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checkpoint	300.0	Watches & Jewelry	Settled	214.08	Settle
+43497	2004092263572	2004-08-27 00:00:00	2004-06-21 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	310.0	Clothing & Accessories	Denied	0.0	Deny
+48358	2004121469144	2004-10-27 00:00:00	2004-09-04 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	23.65	Other	Approved	23.65	Approve in Full
+48495	2004122069592	2004-10-27 00:00:00	2004-10-18 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Electronics	Denied	0.0	Deny
+50840	2004122871463	2004-11-29 00:00:00	2004-09-01 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.3	Other	Approved	10.3	Approve in Full
+51405	2004122270399	2004-12-07 00:00:00	2004-12-01 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	550.0	Clothing & Accessories	Denied	0.0	Deny
+51796	2005010372301	2004-12-13 00:00:00	2004-11-29 00:00:00	TLH	Tallahassee Regional	Delta (Song)	Passenger Property Loss	Checked Baggage	34.99	Other	Approved	34.99	Approve in Full
+52678	2005011073281	2004-12-21 00:00:00	2004-11-30 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	756.0	Other	Denied	0.0	Deny
+54009	2005012774617	2005-01-10 00:00:00	2004-11-11 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	212.99	Watches & Jewelry	Settled	106.42	Settle
+57194	2005031578408	2005-02-11 00:00:00	2005-02-23 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checked Baggage	267.8	Outdoors Supplies	Denied	0.0	Deny
+58017	2005031978852	2005-02-26 00:00:00	2005-01-21 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	5099.89	Electronics	Settled	2795.15	Settle
+61181	2005040881971	2005-04-07 00:00:00	2005-03-21 00:00:00	TLH	Tallahassee Regional	American Airlines	Passenger Property Loss	Checked Baggage	101.72	Clothing & Accessories	Approved	101.72	Approve in Full
+62255	2005042283157	2005-04-21 00:00:00	2005-02-26 00:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checked Baggage	899.99	Electronics	Settled	249.6	Settle
+65520	2005061486382	2005-06-06 00:00:00	2004-04-17 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Containers	Denied	0.0	Deny
+68441	2005072189432	2005-07-20 00:00:00	2005-06-13 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+72855	2005100593980	2005-09-27 00:00:00	2005-09-07 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	5500.0	Other	Denied	0.0	Deny
+79318	2006012700488	2006-01-23 00:00:00	2005-12-14 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	130.87	Other	Denied	0.0	Deny
+80821	2006022201921	2006-02-16 00:00:00	2006-02-07 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checkpoint	2690.0	Watches & Jewelry	Denied	0.0	Deny
+81743	2006031302942	2006-03-07 00:00:00	2006-02-09 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3.25	Tools & Machines	Approved	3.25	Approve in Full
+82545	2006041004311	2006-03-21 00:00:00	2006-03-12 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	698.78	Watches & Jewelry	Canceled	0.0	
+83313	2006041404619	2006-04-04 00:00:00	2006-02-11 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
+84378	2006050105454	2006-04-26 00:00:00	2006-04-07 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+85170	2006051606405	2006-05-12 00:00:00	2006-05-08 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
+92042	2006092613257	2006-09-22 00:00:00	2006-08-11 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Settled	10.0	Settle
+92441	2006100613713	2006-10-02 00:00:00	2006-09-04 00:00:00	TLH	Tallahassee Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	190.0	Cosmetics,Scientific Intruments,Cosmetics	Denied	0.0	Deny
+97571	2007011018547	2007-01-08 00:00:00	2006-11-16 00:00:00	TLH	Tallahassee Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	521.5	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+100403	2007022821722	2007-02-26 00:00:00	2007-09-20 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	55.0	Tools & Machines	Denied	0.0	Deny
+106789	2007071028059	2007-07-05 00:00:00	2007-07-02 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	34.41	Other	Canceled	0.0	
+109756	2007082931079	2007-08-27 00:00:00	2007-08-16 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Cosmetics	Denied	0.0	Deny
+113148	2007110734606	2007-11-02 00:00:00	2007-10-23 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	209.98	Other	Denied	0.0	Deny
+113602	2007111935120	2007-11-13 00:00:00	2007-11-01 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	625.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
+114821	2007121036265	2007-12-06 00:00:00	2007-11-27 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Denied	0.0	Deny
+122110	2008050543775	2008-04-30 00:00:00	2008-04-24 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage	15.99	Tools & Machines	Approved	15.99	Approve in Full
+122292	2008042142970	2008-05-05 00:00:00	2008-03-08 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+122706	2008051644421	2008-05-13 00:00:00	2008-03-20 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	390.0	Scientific Intruments	Approved	390.0	Approve in Full
+124897	2008070946648	2008-07-01 00:00:00	2008-05-12 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	245.0	Clothing & Accessories	Denied	0.0	Deny
+126582	2008081248450	2008-08-06 00:00:00	2008-01-10 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.28	Tools & Machines	Denied	0.0	Deny
+126583	2008081248451	2008-08-06 00:00:00	2008-07-07 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.28	Tools & Machines	Denied	0.0	Deny
+126585	2008081248453	2008-08-06 00:00:00	2008-06-04 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	6.28	Tools & Machines	Denied	0.0	Deny
+131235	2008121053257	2008-12-01 00:00:00	2008-10-24 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Denied	0.0	Deny
+132682	2009011554540	2009-01-09 00:00:00	2008-10-24 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3256.92	Clothing & Accessories,Containers,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+143199	2009110565149	2009-11-02 00:00:00	2009-10-23 12:40:00	TLH	Tallahassee Regional		Passenger Property Loss	Checked Baggage	1127.45	Electronics	Denied	0.0	Deny
+147819	2010042070968	2010-04-18 00:00:00	2010-03-18 20:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+148671	2010051771856	2010-05-14 00:00:00	2010-05-05 10:30:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+150550	2010072374006	2010-07-12 00:00:00	2010-07-03 06:20:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories		0.0	Deny
+150740	2010072474032	2010-07-19 00:00:00	2010-06-12 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics		0.0	Deny
+155552	2010122279040	2010-12-13 00:00:00	2010-12-02 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		102.6	Approve in Full
+156991	2011022580607	2011-01-26 00:00:00	2010-12-30 08:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checkpoint		Electronics,Other			
+157728	2011031181134	2011-02-23 00:00:00	2011-01-29 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		82.0	Approve in Full
+161613	2011071285120	2011-06-29 00:00:00	2011-06-13 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		28.56	Approve in Full
+165221	2011111088856	2011-10-27 00:00:00	2011-10-03 05:40:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+165620	2011112989205	2011-11-10 00:00:00	2011-11-07 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+167939	2012030891607	2012-01-30 00:00:00	2011-11-02 14:00:00	TLH	Tallahassee Regional		Passenger Property Loss	Checkpoint		Other		100.0	Approve in Full
+169944	2012050393567	2012-04-11 00:00:00	2012-03-16 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+187207	2014012110958	2014-01-15 00:00:00	2013-12-19 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+187537	2014013011295	2014-01-24 00:00:00	2014-01-08 00:00:00	TLH	Tallahassee Regional	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+189009	2014032812802	2014-03-24 00:00:00	2014-03-17 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+192505	2014090316370	2014-08-14 00:00:00	2014-07-15 00:00:00	TLH	Tallahassee Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			
+192901	2014091916776	2014-09-03 00:00:00	2014-08-30 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+194722	2014112618633	2014-11-17 00:00:00	2014-10-25 00:00:00	TLH	Tallahassee Regional	USAir	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories			
+203934	2015011219798	2015-01-12 00:00:00	2014-11-15 00:00:00	TLH	Tallahassee Regional	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+203938	2016010628168	2015-12-28 00:00:00	2015-12-20 00:00:00	TLH	Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+212190	2016092133688	2016-07-29 00:00:00	2016-07-06 10:00:00	TLH	Tallahassee Regional Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		12.95	Approve in Full
+212191	2016022629172	2016-02-03 00:00:00	2016-01-15 00:00:00	TLH	Tallahassee Regional Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+212192	2016092834031	2016-07-27 00:00:00	2016-07-26 00:00:00	TLH	Tallahassee Regional Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
+220508	2017092043262	2017-08-04 00:00:00	2017-06-29 17:00:00	TLH	Tallahassee Regional Tallahassee Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
+220510	2017030337833	2017-01-19 00:00:00	2017-01-14 00:00:00	TLH	Tallahassee Regional Tallahassee Regional	American Airlines	Passenger Property Loss	Checkpoint		Cosmetics		6.2	Approve in Full
+220511	2017032038064	2017-01-26 00:00:00	2017-01-22 00:00:00	TLH	Tallahassee Regional Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.0	Approve in Full
+220512	2017091443051	2017-07-27 00:00:00	2017-06-29 17:00:00	TLH	Tallahassee Regional Tallahassee Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
+220513	2017062240951	2017-05-27 00:00:00	2017-05-23 00:00:00	TLH	Tallahassee Regional Tallahassee Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		16.59	Approve in Full

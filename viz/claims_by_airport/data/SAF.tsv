@@ -1,0 +1,30 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+90030	2006081811304	2006-08-16 00:00:00	2006-07-29 00:00:00	SAF	Santa Fe Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	63.73	Food & Drink,Clothing & Accessories,Other	Settled	40.49	Settle
+110546	2007091431915	2007-09-11 00:00:00	2007-09-10 00:00:00	SAF	Santa Fe Municipal	UAL	Passenger Property Loss	Checked Baggage	454.95	Clothing & Accessories	Denied	0.0	Deny
+149117	2010060472388	2010-05-27 00:00:00	2010-05-21 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+151072	2010080574418	2010-07-27 00:00:00	2010-07-12 13:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+153426	2010101276869	2010-10-04 00:00:00	2010-09-21 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Other,Other,Other,Other		0.0	Deny
+159683	2011050483186	2011-04-27 00:00:00	2011-04-13 07:30:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Office Supplies,Office Supplies		0.0	Deny
+160213	2011052483730	2011-05-16 00:00:00	2011-05-04 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+168534	2012032792181	2012-02-21 00:00:00	2012-01-22 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		189.33	Approve in Full
+171008	2012060894635	2012-05-17 00:00:00	2012-04-07 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+174206	2012071995589	2012-09-11 00:00:00	2012-06-08 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Other		36.99	Approve in Full
+176013	2013010999676	2012-11-19 00:00:00	2012-11-06 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+180241	2013060503986	2013-04-29 00:00:00	2013-04-15 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+184591	2013102708017	2013-09-30 00:00:00	2013-09-18 00:00:00	SAF	Santa Fe Municipal	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+188026	2014022011794	2014-02-18 00:00:00	2013-07-11 00:00:00	SAF	Santa Fe Municipal	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		200.0	Approve in Full
+188258	2014022712031	2014-02-27 00:00:00	2013-12-29 00:00:00	SAF	Santa Fe Municipal	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+189536	2014041713339	2014-04-14 00:00:00	2014-04-10 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+190052	2014051213865	2014-05-07 00:00:00	2014-04-19 00:00:00	SAF	Santa Fe Municipal		Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+203012	2015012020029	2015-01-19 00:00:00	2015-01-08 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+203014	2015022420820	2015-02-24 00:00:00	2014-07-28 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
+203015	2015051922603	2015-05-14 00:00:00	2015-04-18 00:00:00	SAF	Santa Fe Municipal	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+203016	2015100525905	2015-09-14 00:00:00	2015-09-08 00:00:00	SAF	Santa Fe Municipal	UAL	Passenger Property Loss	Checkpoint		Electronics			
+203017	2015102026133	2015-09-30 00:00:00	2015-09-20 00:00:00	SAF	Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+211359	2016051231288	2016-04-28 00:00:00	2016-04-20 09:15:00	SAF	Santa Fe Municipal Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		37.25	Approve in Full
+211365	2017011736551	2017-01-17 00:00:00	2016-10-20 00:00:00	SAF	Santa Fe Municipal Santa Fe Municipal	American Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
+219656	2017091443130	2017-08-02 00:00:00	2017-07-31 00:00:00	SAF	Santa Fe Municipal Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry			In Review
+219657	2017060140095	2017-05-09 00:00:00	2017-05-01 00:00:00	SAF	Santa Fe Municipal Santa Fe Municipal	UAL	Passenger Property Loss	Checked Baggage		Other		92.0	Approve in Full
+219658	2017113045640	2017-11-15 00:00:00	2017-11-13 00:00:00	SAF	Santa Fe Municipal Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+219659	2017092843705	2017-08-16 00:00:00	2017-08-13 14:30:00	SAF	Santa Fe Municipal Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
+219660	2017042538889	2017-02-21 00:00:00	2017-02-15 00:00:00	SAF	Santa Fe Municipal Santa Fe Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Scientific Intruments		116.5	Approve in Full

@@ -1,0 +1,42 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+2087	0131011L	2003-01-31 00:00:00	2003-12-31 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+16893	0929009M	2003-09-29 00:00:00	2003-09-03 00:00:00	FSD	Joe Foss Field	American Airlines	Passenger Property Loss	Checked Baggage	50.0	Watches & Jewelry	Settled	25.0	Settle
+19781	1107045M	2003-11-07 00:00:00	2003-09-27 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Canceled		
+39552	2004080960818	2004-07-09 00:00:00	2004-05-18 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Theft	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+41841	2004090862290	2004-08-05 00:00:00	2004-04-22 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	220.0	Watches & Jewelry	Denied	0.0	Deny
+43005	2004092864090	2004-08-23 00:00:00	2004-08-02 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checked Baggage	1130.0	Watches & Jewelry	Settled	774.5	Settle
+47111	2004112367676	2004-10-12 00:00:00	2004-09-11 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checked Baggage	289.0	Electronics	Denied	0.0	Deny
+47216	2004120168229	2004-10-14 00:00:00	2004-09-07 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+47808	2004121469083	2004-10-20 00:00:00	2004-10-10 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	7.25	Tools & Machines	Approved	7.25	Approve in Full
+47867	2004120568592	2004-10-20 00:00:00	2004-07-26 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checked Baggage	112.56	Other	Denied	0.0	Deny
+47988	2004121469076	2004-10-20 00:00:00	2004-10-09 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	513.0	Other	Settled	386.86	Settle
+49460	2004122971794	2004-11-08 00:00:00	2004-10-31 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checked Baggage	90.0	Other	Denied	0.0	Deny
+50149	2004122871282	2004-11-18 00:00:00	2004-10-26 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	29.0	Clothing & Accessories	Approved	29.0	Approve in Full
+52458	2005010673109	2004-12-20 00:00:00	2004-11-07 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checked Baggage	58.29	Other	Approved	58.29	Approve in Full
+55548	2005021175976	2005-01-26 00:00:00	2005-01-13 00:00:00	FSD	Joe Foss Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Denied	0.0	Deny
+57259	2005031578284	2005-02-15 00:00:00	2005-01-28 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.42	Other	Approved	25.42	Approve in Full
+57445	2005031578331	2005-02-16 00:00:00	2005-02-10 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	874.95	Watches & Jewelry	Denied	0.0	Deny
+58357	2005032279250	2005-03-04 00:00:00	2005-01-29 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checkpoint	700.0	Other	Denied	0.0	Deny
+66586	2005062887629	2005-06-21 00:00:00	2005-03-30 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	43.25	Clothing & Accessories	Approved	43.25	Approve in Full
+67419	2005070588191	2005-07-05 00:00:00	2005-05-03 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	400.0	Other	Settled	173.8	Settle
+68807	2005072989932	2005-07-26 00:00:00	2005-07-04 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checkpoint	211.99	Electronics	Approved	211.99	Approve in Full
+69294	2005080990231	2005-08-02 00:00:00	2005-07-14 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	76.87	Supplies	Denied	0.0	Deny
+70724	2005082991704	2005-08-23 00:00:00	2005-07-21 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	650.32	Electronics	Settled	375.0	Settle
+70963	2005090191997	2005-08-29 00:00:00	2005-08-16 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checkpoint	114.99	Electronics	Denied	0.0	Deny
+71664	2005091992825	2005-09-09 00:00:00	2005-08-30 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	90.0	Other	Approved	90.0	Approve in Full
+72711	2005100393800	2005-09-26 00:00:00	2005-09-15 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	278.0	Clothing & Accessories	Denied	0.0	Deny
+73478	2005102094911	2005-10-07 00:00:00	2005-09-13 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	449.52	Other	Denied	0.0	Deny
+74403	2005110295525	2005-10-25 00:00:00	2005-10-17 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	1600.0	Electronics	Denied	0.0	Deny
+76695	2005121998107	2005-12-06 00:00:00	2005-11-19 00:00:00	FSD	Joe Foss Field		Passenger Property Loss	Checked Baggage	106.0	Clothing & Accessories	Denied	0.0	Deny
+77133	2005122198199	2005-12-14 00:00:00	2005-11-30 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	700.0	Other	Settled	350.0	Settle
+77867	2006010699039	2006-01-03 00:00:00	2005-12-26 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+78952	2006012400173	2006-01-18 00:00:00	2005-12-31 00:00:00	FSD	Joe Foss Field	Allegiant Air	Passenger Property Loss	Checked Baggage	221.51	Other	Approved	221.51	Approve in Full
+79167	2006012400263	2006-01-19 00:00:00	2005-12-30 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Settled	35.0	Settle
+80055	2006020801224	2006-02-02 00:00:00	2006-01-27 00:00:00	FSD	Joe Foss Field	UAL	Passenger Property Loss	Checkpoint	634.0	Clothing & Accessories	Settled	317.0	Settle
+80199	2006021301430	2006-02-07 00:00:00	2005-11-16 00:00:00	FSD	Joe Foss Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	74.0	Other	Approved	74.0	Approve in Full
+151973	2010082575331	2010-08-23 00:00:00	2010-08-14 07:45:00	FSD	Joe Foss Field	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Other			
+198259	2015120727323	2015-11-19 00:00:00	2015-10-26 00:00:00	FSD	Joe Foss Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
+206917	2016111735794	2016-10-11 00:00:00	2016-09-21 04:00:00	FSD	Joe Foss Field Joe Foss Field	American Airlines	Passenger Property Loss	Checked Baggage		Containers			Closed:Contractor Claim
+206918	2017010636322	2016-11-17 00:00:00	2016-10-14 00:00:00	FSD	Joe Foss Field Joe Foss Field	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Closed:Contractor Claim
+215172	2017070541182	2017-06-02 00:00:00	2017-05-16 00:00:00	FSD	Joe Foss Field Joe Foss Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			losed: Contractor Claim
+215173	2017092643538	2017-09-11 00:00:00	2017-08-31 07:20:00	FSD	Joe Foss Field Joe Foss Field	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review

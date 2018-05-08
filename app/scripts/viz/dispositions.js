@@ -72,8 +72,8 @@ function setupDispositions() {
       .style("font-size", 14)
 
     let claim_value = values.append("text")
-      .attr("x", width - 150)
-      .attr("y", 15)
+      .attr("x", width - 132)
+      .attr("y", 10)
       .attr("dy", "0.4em")
       .style("font-weight", "bold")
 
@@ -89,8 +89,7 @@ function setupDispositions() {
       let bucket = bisect(data, x0 + 5, 1)
       d0 = data[bucket - 1]
       d1 = data[bucket]
-      // console.log(x_coord, x0, x(x0), bucket, x(bucket), d0, x(d0.claim_amount), d1, x(d1.claim_amount))
-      claim_value.text(`Claim Amount: $${d0.claim_amount}`)
+      claim_value.text(`Claim Amount: ~$${d0.claim_amount}`)
       labels.text(d => {
         let prefix = d0[d] + " "
         let sufix = ''
@@ -170,15 +169,15 @@ function setupDispositions() {
       .attr("transform", function(d, i) { return "translate(0," + i * 40 + ")"; });
 
     legend.append("rect")
-        .attr("x", width - 45)
-        .attr("y", 37)
+        .attr("x", width - 35)
+        .attr("y", 25)
         .attr("width", 30)
         .attr("height", 30)
         .style("fill", (_, i) => COLORS[i])
 
     labels = legend.append("text")
-        .attr("x", width - 56)
-        .attr("y", 50.5)
+        .attr("x", width - 45)
+        .attr("y", 38.5)
         .attr("dy", "0.4em")
         .text(d => d)
 

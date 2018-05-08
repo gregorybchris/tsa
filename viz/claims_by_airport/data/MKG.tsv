@@ -1,0 +1,9 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+34951	2004060955245	2004-05-10 00:00:00	2004-04-30 00:00:00	MKG	Muskegon County Airport		Passenger Property Loss	Checked Baggage	2966.46	Watches & Jewelry	Denied	0.0	Deny
+82777	2006040404008	2006-03-24 00:00:00	2006-03-07 00:00:00	MKG	Muskegon County Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	61.0	Clothing & Accessories	Approved	61.0	Approve in Full
+137880	2009060359829	2009-06-01 00:00:00	2009-04-08 00:00:00	MKG	Muskegon County Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	271.97	Watches & Jewelry	Settled	135.98	Settle
+139781	2009072861844	2009-07-21 00:00:00	2009-06-22 00:00:00	MKG	Muskegon County Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Electronics	Settled	25.0	Settle
+167375	2012021491014	2012-01-11 00:00:00	2011-11-26 11:31:00	MKG	Muskegon County Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+171145	2012052394192	2012-05-23 00:00:00	2011-11-07 00:00:00	MKG	Muskegon County Airport		Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+187972	2014021811739	2014-02-10 00:00:00	2013-12-27 00:00:00	MKG	Muskegon County Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		271.0	Approve in Full
+218221	2017081542209	2017-06-29 00:00:00	2017-05-16 00:00:00	MKG	Muskegon County Airport Muskegon County Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review

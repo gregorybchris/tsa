@@ -1,0 +1,33 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+19665	1107054M	2003-11-07 00:00:00	2003-09-01 00:00:00	TYR	Tyler Pounds Field		Passenger Property Loss	Checkpoint	145.0	Electronics	Approved	145.0	Approve in Full
+47681	2004110166091	2004-10-18 00:00:00	2004-09-27 00:00:00	TYR	Tyler Pounds Field	American Eagle	Passenger Property Loss	Checked Baggage	867.83	Electronics	Settled	405.72	Settle
+48515	2004122170028	2004-10-27 00:00:00	2004-09-15 00:00:00	TYR	Tyler Pounds Field		Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+63162	2005050584125	2005-05-04 00:00:00	2005-03-26 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	8.65	Tools & Machines	Approved	8.65	Approve in Full
+77445	2005122898531	2005-12-21 00:00:00	2005-11-27 00:00:00	TYR	Tyler Pounds Field	Continental Airlines	Passenger Property Loss	Checked Baggage	415.0	Watches & Jewelry	Settled	205.07	Settle
+82818	2006040404025	2006-03-24 00:00:00	2006-02-21 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	70.5	Watches & Jewelry	Denied	0.0	Deny
+92399	2006100613747	2006-10-02 00:00:00	2006-09-22 00:00:00	TYR	Tyler Pounds Field	American Eagle	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+96564	2006122818057	2006-12-21 00:00:00	2006-11-26 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	390.0	Containers,Cosmetics,Other	Denied	0.0	Deny
+100426	2007022721635	2007-02-27 00:00:00	2007-02-04 00:00:00	TYR	Tyler Pounds Field		Passenger Property Loss	Checked Baggage	3.5	Supplies	Approved	3.5	Approve in Full
+102892	2007041824133	2007-04-16 00:00:00	2007-03-12 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	48.0	Tools & Machines,Other	Denied	0.0	Deny
+103401	2007050124782	2007-04-25 00:00:00	2006-12-10 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	65.0	Clothing & Accessories,Other	Denied	0.0	Deny
+105175	2007070527855	2007-06-03 00:00:00	2007-02-02 00:00:00	TYR	Tyler Pounds Field	American Eagle	Passenger Property Loss	Checked Baggage	302.1	Clothing & Accessories	Denied	0.0	Deny
+114502	2007120435985	2007-11-30 00:00:00	2007-11-23 00:00:00	TYR	Tyler Pounds Field	Continental Airlines	Passenger Property Loss	Checked Baggage	432.55	Automobile & Mechanical	Denied	0.0	Deny
+119328	2008031441043	2008-03-06 00:00:00	2007-11-26 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	1050.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+140443	2009081262543	2009-08-07 00:00:00	2009-07-07 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage	330.0	Electronics	Denied	0.0	Deny
+142621	2009102164558	2009-10-14 00:00:00	2009-09-01 05:30:00	TYR	Tyler Pounds Field	American Eagle	Passenger Property Loss	Checked Baggage	56.59	Supplies	Denied	0.0	Deny
+149258	2010060872533	2010-06-02 00:00:00	2010-05-11 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Other		29.0	Approve in Full
+150210	2010070673378	2010-07-01 00:00:00	2010-06-30 13:40:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+155018	2010120178416	2010-11-23 00:00:00	2010-10-27 00:00:00	TYR	Tyler Pounds Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+155149	2010120878619	2010-11-29 00:00:00	2010-10-26 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		438.0	Approve in Full
+157400	2011010879321	2011-02-10 00:00:00	2010-10-27 00:00:00	TYR	Tyler Pounds Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+158893	2011041382194	2011-04-04 00:00:00	2011-03-18 00:00:00	TYR	Tyler Pounds Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+160859	2011061684397	2011-06-06 00:00:00	2011-06-16 00:00:00	TYR	Tyler Pounds Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+166140	2011121989771	2011-11-29 00:00:00	2011-11-13 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+173863	2012101197529	2012-08-28 00:00:00	2012-05-06 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+185940	2013120609921	2013-11-26 00:00:00	2013-10-04 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+189776	2014042913585	2014-04-29 00:00:00	2014-03-14 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		32.85	Approve in Full
+190920	2014061914747	2014-06-04 00:00:00	2014-05-27 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+194367	2014110718266	2014-11-03 00:00:00	2014-04-08 00:00:00	TYR	Tyler Pounds Field		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+194368	2014110718267	2014-11-03 00:00:00	2014-05-26 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+194369	2014110718268	2014-11-07 00:00:00	2014-06-22 00:00:00	TYR	Tyler Pounds Field		Passenger Property Loss	Checked Baggage		Cosmetics			
+204100	2015012120034	2015-01-21 00:00:00	2015-01-17 00:00:00	TYR	Tyler Pounds Field	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny

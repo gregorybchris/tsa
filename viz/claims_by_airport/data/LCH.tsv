@@ -1,0 +1,13 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+41394	2004090362046	2004-08-03 00:00:00	2004-07-11 00:00:00	LCH	Lake Charles Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	2000.0	Other	Approved	2000.0	Approve in Full
+84472	2006050205573	2006-04-27 00:00:00	2006-04-08 00:00:00	LCH	Lake Charles Regional Airport		Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+91150	2006091312490	2006-09-06 00:00:00	2006-06-05 00:00:00	LCH	Lake Charles Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1500.0	Other	Denied	0.0	Deny
+109952	2007083131223	2007-08-30 00:00:00	2007-08-14 00:00:00	LCH	Lake Charles Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	441.23	Electronics,Electronics	Denied	0.0	Deny
+110632	2007091832162	2007-09-12 00:00:00	2007-09-06 00:00:00	LCH	Lake Charles Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	6000.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+149766	2010062373003	2010-06-18 00:00:00	2010-06-14 00:00:00	LCH	Lake Charles Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+150045	2010070773433	2010-06-28 00:00:00	2010-06-14 21:00:00	LCH	Lake Charles Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+155807	2011012079673	2010-12-21 00:00:00	2010-12-16 00:00:00	LCH	Lake Charles Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories		0.0	Deny
+156339	2011013179813	2011-01-10 00:00:00	2010-12-23 00:00:00	LCH	Lake Charles Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+157174	2011030480910	2011-02-01 00:00:00	2011-01-25 09:36:00	LCH	Lake Charles Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+160864	2011061684409	2011-06-06 00:00:00	2011-05-04 00:00:00	LCH	Lake Charles Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+162379	2011081185965	2011-07-25 00:00:00	2011-07-07 11:55:00	LCH	Lake Charles Regional Airport	American Eagle	Passenger Property Loss	Checked Baggage		Clothing & Accessories		18.0	Settle

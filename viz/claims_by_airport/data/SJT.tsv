@@ -1,0 +1,44 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+22117	1208226M	2003-12-08 00:00:00	2003-11-14 00:00:00	SJT	San Angelo Regional	UAL	Passenger Property Loss	Checkpoint	68.0	Other	Approved	68.0	Approve in Full
+26414	0202332M	2004-02-02 00:00:00	2003-12-20 00:00:00	SJT	San Angelo Regional		Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
+37549	2004063058008	2004-06-08 00:00:00	2004-05-20 00:00:00	SJT	San Angelo Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	97.0	Other	Settled	48.5	Settle
+38563	2004071359169	2004-06-22 00:00:00	2004-01-25 00:00:00	SJT	San Angelo Regional		Passenger Property Loss	Checked Baggage	204.37	Cosmetics	Settled	102.19	Settle
+62333	2005042583195	2005-04-22 00:00:00	2005-03-31 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	3.5	Tools & Machines	Denied	0.0	Deny
+63379	2005051084371	2005-05-09 00:00:00	2005-04-24 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	20.9	Electronics	Approved	20.9	Approve in Full
+64530	2005052485403	2005-05-23 00:00:00	2005-05-11 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	14.04	Tools & Machines	Denied	0.0	Deny
+82799	2006040403958	2006-03-24 00:00:00	2006-03-10 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	3050.0	Watches & Jewelry	Denied	0.0	Deny
+86955	2006062008220	2006-06-16 00:00:00	2006-05-19 00:00:00	SJT	San Angelo Regional	American Eagle	Passenger Property Loss	Checkpoint	2317.0	Watches & Jewelry	Denied	0.0	Deny
+90983	2006090712086	2006-09-05 00:00:00	2006-08-08 00:00:00	SJT	San Angelo Regional	American Eagle	Passenger Property Loss	Checked Baggage	65.0	Clothing & Accessories	Canceled	0.0	
+92385	2006100513680	2006-09-29 00:00:00	2006-09-02 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Settled	150.0	Settle
+98049	2007011919030	2007-01-12 00:00:00	2007-01-08 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	211.65	Tools & Machines,Cosmetics,Supplies	Settled	105.83	Settle
+104710	2007052425918	2007-05-23 00:00:00	2007-05-07 00:00:00	SJT	San Angelo Regional	American Eagle	Passenger Property Loss	Checkpoint	19.72	Cosmetics	Denied	0.0	Deny
+105875	2007062027241	2007-06-15 00:00:00	2007-05-23 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	16.15	Tools & Machines	Approved	16.15	Approve in Full
+108532	2007080729763	2007-08-06 00:00:00	2007-07-21 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Clothing & Accessories	Denied	0.0	Deny
+109816	2007082830951	2007-08-27 00:00:00	2007-08-19 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	32.4	Electronics	Settled	16.2	Settle
+111458	2007100232838	2007-10-01 00:00:00	2007-09-22 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	49.99	Supplies,Other	Approved	49.99	Approve in Full
+114454	2007113035824	2007-11-29 00:00:00	2007-11-18 00:00:00	SJT	San Angelo Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.99	Clothing & Accessories,Other	Settled	35.5	Settle
+115078	2007121836623	2007-12-12 00:00:00	2007-12-07 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	151.53	Electronics,Electronics,Other	Approved	151.53	Approve in Full
+115245	2007122036740	2007-12-17 00:00:00	2007-12-14 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	4.99	Other	Approved	4.99	Approve in Full
+117319	2008013038850	2008-01-25 00:00:00	2007-11-10 00:00:00	SJT	San Angelo Regional	American Eagle	Passenger Property Loss	Checked Baggage	49.95	Clothing & Accessories	Denied	0.0	Deny
+120921	2008041642592	2008-04-07 00:00:00	2008-02-26 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	27.98	Tools & Machines	Denied	0.0	Deny
+126248	2008080648061	2008-07-30 00:00:00	2008-07-07 00:00:00	SJT	San Angelo Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1150.0	Watches & Jewelry	Denied	0.0	Deny
+127753	2008090449483	2008-09-03 00:00:00	2008-07-17 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	261.18	Other,Outdoors Supplies	Denied	0.0	Deny
+130437	2008111752277	2008-11-10 00:00:00	2008-11-03 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	3480.0	Cosmetics,Clothing & Accessories,Watches & Jewelry,Containers	Denied	0.0	Deny
+133795	2009022155697	2009-02-06 00:00:00	2008-12-20 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	700.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+134394	2009031656289	2009-02-25 00:00:00	2009-01-28 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checkpoint	600.0	Electronics	Denied	0.0	Deny
+140745	2009082062779	2009-08-17 00:00:00	2009-07-28 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Denied	0.0	Deny
+143765	2009120265954	2009-11-18 00:00:00	2009-10-08 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	170.0	Other,Clothing & Accessories	Canceled		
+144001	2009120265969	2009-11-25 00:00:00	2009-10-08 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage	170.0	Other,Clothing & Accessories	Denied	0.0	Deny
+150131	2010070973514	2010-06-29 00:00:00	2010-05-15 07:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+154717	2010112478141	2010-11-15 00:00:00	2010-11-04 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+157952	2011033081554	2011-03-01 00:00:00	2011-02-25 14:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+159511	2011042582962	2011-04-21 00:00:00	2011-02-21 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		404.06	Approve in Full
+163429	2011092087031	2011-08-25 00:00:00	2011-06-28 15:20:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics,Other		0.0	Deny
+168067	2012031591739	2012-02-02 00:00:00	2012-01-15 06:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		25.0	Settle
+170620	2012053194419	2012-05-03 00:00:00	2012-03-21 09:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+172935	2012072795775	2012-07-27 00:00:00	2012-06-01 00:00:00	SJT	San Angelo Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+178834	2013031202535	2013-03-05 00:00:00	2013-02-12 09:45:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		20.0	Settle
+183291	2013091707007	2013-08-14 00:00:00	2013-08-08 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+184808	2013110508670	2013-10-12 00:00:00	2013-10-01 05:59:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		22.24	Approve in Full
+192232	2014082016087	2014-07-28 00:00:00	2014-07-09 00:00:00	SJT	San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+211873	2016031429703	2016-02-11 00:00:00	2016-01-15 00:00:00	SJT	San Angelo Regional San Angelo Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny

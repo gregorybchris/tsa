@@ -1,0 +1,8 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+41325	2005022876825	2004-07-29 00:00:00	2004-03-21 00:00:00	I	Insurance Subrogation Claim		Passenger Property Loss	Checked Baggage	0.0	Watches & Jewelry	Denied	0.0	Deny
+43846	2005021276062	2004-08-31 00:00:00	2003-12-25 00:00:00	I	Insurance Subrogation Claim		Passenger Property Loss	Checked Baggage	1395.0	Watches & Jewelry	Settled	247.5	Settle
+80162	2007022221321	2006-02-06 00:00:00	2006-05-13 00:00:00	I	Insurance Subrogation Claim	Continental Airlines	Passenger Property Loss	Checked Baggage	4245.95	Watches & Jewelry	Denied	0.0	Deny
+115568	2008052944941	2007-12-26 00:00:00	2007-11-03 00:00:00	I	Insurance Subrogation Claim		Passenger Property Loss	Other	2661.44	Other	Canceled		
+119561	2008032741544	2008-03-11 00:00:00	2008-02-23 00:00:00	I	Insurance Subrogation Claim	Delta Air Lines	Passenger Property Loss	Checked Baggage	879.35	Electronics	Settled	100.76	Settle
+137173	2009052059169	2009-05-11 00:00:00	2009-03-07 00:00:00	I	Insurance Subrogation Claim		Passenger Property Loss	Checked Baggage	4300.0	Watches & Jewelry	Denied	0.0	Deny
+142637	2009102664725	2009-10-14 00:00:00	2009-10-06 06:05:00	I	Insurance Subrogation Claim	American Airlines	Passenger Property Loss	Checkpoint	18000.0	Watches & Jewelry	Denied	0.0	Deny

@@ -1,0 +1,15 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+43039	2004092864107	2004-08-24 00:00:00	2004-07-28 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Other	Approved	250.0	Approve in Full
+48079	2004120768744	2004-10-22 00:00:00	2004-09-18 00:00:00	BTM	Bert Mooney	Northwest Airlines	Passenger Property Loss	Checked Baggage	660.0	Electronics	Settled	173.96	Settle
+59478	2005032980365	2005-03-16 00:00:00	2005-03-06 00:00:00	BTM	Bert Mooney	Alaska Airlines	Passenger Property Loss	Checkpoint	54.99	Other	Denied	0.0	Deny
+60701	2005040681719	2005-04-04 00:00:00	2005-02-16 00:00:00	BTM	Bert Mooney	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	23.99	Clothing & Accessories	Approved	23.99	Approve in Full
+63612	2005051684766	2005-05-11 00:00:00	2005-04-30 00:00:00	BTM	Bert Mooney		Passenger Property Loss	Checked Baggage	18.5	Clothing & Accessories	Approved	18.5	Approve in Full
+71484	2005091692657	2005-09-08 00:00:00	2005-08-16 00:00:00	BTM	Bert Mooney	Horizon Air	Passenger Property Loss	Checked Baggage	20.0	Other,Other	Approved	20.0	Approve in Full
+73509	2005101794642	2005-10-11 00:00:00	2005-09-19 00:00:00	BTM	Bert Mooney		Passenger Property Loss	Checked Baggage	19.95	Other	Approved	19.95	Approve in Full
+73583	2005101794727	2005-10-12 00:00:00	2005-10-03 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.73	Tools & Machines	Approved	9.73	Approve in Full
+78022	2006011099201	2006-01-04 00:00:00	2005-11-29 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Canceled	0.0	
+85611	2006052306840	2006-05-22 00:00:00	2005-11-06 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage	2627.14	Other	Denied	0.0	Deny
+124568	2008062746307	2008-06-24 00:00:00	2008-06-14 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.41	Tools & Machines	Canceled	0.0	
+125307	2008071747059	2008-07-10 00:00:00	2008-06-22 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage	1050.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
+134939	2009032456815	2009-03-11 00:00:00	2009-02-28 00:00:00	BTM	Bert Mooney	Delta Air Lines	Passenger Property Loss	Checkpoint	215.78	Electronics,Electronics,Other	Denied	0.0	Deny
+213343	2017112545391	2017-10-23 00:00:00	2017-10-22 00:00:00	BTM	Bert Mooney Bert Mooney	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			losed: Contractor Claim

@@ -1,0 +1,74 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+13158	0813005M	2003-08-13 00:00:00	2003-07-29 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Settled	250.0	Settle
+21469	1205392M	2003-12-05 00:00:00	2003-09-04 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Approved	300.0	Approve in Full
+23552	0105066M	2004-01-05 00:00:00	2003-12-01 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Other	Approved	35.0	Approve in Full
+28767	0226310M	2004-02-26 00:00:00	2003-09-27 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	54.41	Other	Approved	54.41	Approve in Full
+31730	2004051151101	2004-04-01 00:00:00	2004-03-11 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.5	Other	Approved	12.5	Approve in Full
+38328	2004071259025	2004-06-21 00:00:00	2004-05-28 00:00:00	GTF	Great Falls International	Alaska Airlines	Passenger Property Loss	Checked Baggage	839.54	Electronics	Denied	0.0	Deny
+40732	2004091062569	2004-07-21 00:00:00	2004-07-20 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.95	Other	Approved	8.95	Approve in Full
+43138	2004100464347	2004-08-24 00:00:00	2004-08-06 00:00:00	GTF	Great Falls International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Canceled	60.0	
+43370	2004102065304	2004-08-25 00:00:00	2004-07-08 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	650.0	Other	Settled	370.13	Settle
+45626	2004110566487	2004-09-23 00:00:00	2004-08-30 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+48086	2004110466395	2004-10-25 00:00:00	2004-10-10 00:00:00	GTF	Great Falls International	Horizon Air	Passenger Property Loss	Checked Baggage	90.85	Other	Approved	90.85	Approve in Full
+48984	2004122069313	2004-11-04 00:00:00	2004-06-12 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	98.0	Watches & Jewelry	Approved	98.0	Approve in Full
+50601	2004122871299	2004-11-23 00:00:00	2004-11-07 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
+51266	2004122270595	2004-12-07 00:00:00	2004-11-23 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+53851	2005012774641	2005-01-07 00:00:00	2004-11-21 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+55207	2005021576157	2005-01-24 00:00:00	2004-12-19 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.72	Other	Approved	49.72	Approve in Full
+56307	2005031177767	2005-02-01 00:00:00	2005-01-19 00:00:00	GTF	Great Falls International	Alaska Airlines	Passenger Property Loss	Checked Baggage	598.89	Electronics	Settled	427.0	Settle
+64143	2005052085150	2005-05-17 00:00:00	2005-04-12 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	29.99	Other	Denied	0.0	Deny
+67111	2005070188121	2005-06-28 00:00:00	2005-06-09 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	17.34	Other	Denied	0.0	Deny
+67871	2005071488930	2005-07-13 00:00:00	2005-06-20 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.41	Other	Approved	159.41	Approve in Full
+68593	2005072689722	2005-07-22 00:00:00	2005-07-09 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.99	Other	Approved	36.99	Approve in Full
+69657	2005081990945	2005-08-05 00:00:00	2005-08-04 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	Electronics	Settled	105.45	Settle
+70144	2005082391298	2005-08-16 00:00:00	2005-08-02 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	67.99	Clothing & Accessories	Approved	67.99	Approve in Full
+70163	2005082491324	2005-08-16 00:00:00	2005-07-29 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.98	Other	Canceled	0.0	
+75949	2005120797240	2005-11-22 00:00:00	2005-11-19 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1492.42	Other	Denied	0.0	Deny
+77927	2006010999108	2006-01-03 00:00:00	2005-12-30 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage	20.0	Electronics	Denied	0.0	Deny
+79246	2006012500326	2006-01-20 00:00:00	2005-12-26 00:00:00	GTF	Great Falls International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1399.95	Electronics	Settled	1189.96	Settle
+80419	2006021601643	2006-02-08 00:00:00	2006-02-01 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	90.0	Other	Denied	0.0	Deny
+81418	2006030602626	2006-02-28 00:00:00	2005-12-01 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1065.0	Clothing & Accessories	Denied	0.0	Deny
+85455	2006052206733	2006-05-18 00:00:00	2006-05-08 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	21.32	Tools & Machines,Other	Approved	21.32	Approve in Full
+86944	2006061908191	2006-06-16 00:00:00	2006-04-30 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	94.0	Clothing & Accessories,Other	Denied	0.0	Deny
+92254	2006100213497	2006-09-28 00:00:00	2006-06-21 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	6.43	Tools & Machines	Approved	6.43	Approve in Full
+93102	2006102314412	2006-10-16 00:00:00	2006-10-01 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	180.0	Electronics	Denied	0.0	Deny
+94199	2006110915371	2006-11-06 00:00:00	2006-11-01 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	630.0	Electronics,Other	Settled	197.14	Settle
+94573	2006112216063	2006-11-13 00:00:00	2006-10-23 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	4165.92	Electronics,Electronics	Denied	0.0	Deny
+95760	2006121417132	2006-12-05 00:00:00	2006-11-26 00:00:00	GTF	Great Falls International	US Express	Passenger Property Loss	Checked Baggage	10.67	Tools & Machines	Settled	10.67	Settle
+99289	2007020820528	2007-02-02 00:00:00	2007-01-05 00:00:00	GTF	Great Falls International	Horizon Air	Passenger Property Loss	Checked Baggage	299.0	Clothing & Accessories,Other	Settled	149.5	Settle
+102735	2007041123768	2007-04-11 00:00:00	2007-04-03 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	30.0	Other	Settled	15.0	Settle
+103921	2007050925139	2007-05-08 00:00:00	2007-03-08 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checkpoint	145.77	Watches & Jewelry	Approved	145.77	Approve in Full
+105614	2007061426955	2007-06-11 00:00:00	2007-06-06 00:00:00	GTF	Great Falls International	Alaska Airlines	Passenger Property Loss	Checked Baggage	800.0	Other	Canceled	0.0	
+106075	2007062227399	2007-06-20 00:00:00	2007-06-09 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
+107822	2007072629153	2007-07-24 00:00:00	2007-07-18 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	780.0	Electronics,Electronics	Denied	0.0	Deny
+108806	2007081030076	2007-08-09 00:00:00	2007-08-06 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage	78.0	Clothing & Accessories	Settled	39.0	Settle
+111077	2007092432448	2007-09-21 00:00:00	2007-08-28 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.99	Other	Approved	12.99	Approve in Full
+111495	2007100332910	2007-10-01 00:00:00	2007-09-06 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage	64.45	Office Supplies	Denied	0.0	Deny
+111505	2007100332938	2007-10-01 00:00:00	2007-08-29 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage	289.98	Electronics	Denied	0.0	Deny
+113050	2007110534523	2007-11-01 00:00:00	2007-06-24 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checkpoint	125.0	Other	Approved	125.0	Approve in Full
+113129	2007110534460	2007-11-02 00:00:00	2007-10-30 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage	319.99	Other	Denied	0.0	Deny
+114623	2007120435955	2007-12-03 00:00:00	2007-11-28 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checkpoint	5335.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+121521	2008042343210	2008-04-17 00:00:00	2008-04-07 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Denied	0.0	Deny
+127248	2008082549053	2008-08-21 00:00:00	2008-08-18 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	72.0	Cosmetics	Denied	0.0	Deny
+129283	2008101451114	2008-10-09 00:00:00	2008-09-28 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage	39.8	Tools & Machines	Denied	0.0	Deny
+130852	2008112152683	2008-11-20 00:00:00	2008-11-15 00:00:00	GTF	Great Falls International	Horizon Air	Passenger Property Loss	Checked Baggage	328.99	Clothing & Accessories	Approved	328.99	Approve in Full
+132061	2009010553992	2008-12-22 00:00:00	2008-12-11 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	119.93	Containers,Cosmetics	Denied	0.0	Deny
+132732	2009011654645	2009-01-12 00:00:00	2008-12-31 00:00:00	GTF	Great Falls International	Horizon Air	Passenger Property Loss	Checked Baggage	74.95	Outdoors Supplies	Approved	74.95	Approve in Full
+135515	2009041457476	2009-03-26 00:00:00	2009-03-13 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Clothing & Accessories	Denied	0.0	Deny
+135584	2009041557558	2009-03-27 00:00:00	2009-02-01 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
+136145	2009043058200	2009-04-10 00:00:00	2008-12-16 00:00:00	GTF	Great Falls International	Alaska Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories,Electronics,Containers,Other	Settled	48.0	Settle
+136361	2009050558361	2009-04-20 00:00:00	2009-02-12 00:00:00	GTF	Great Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage	72.25	Clothing & Accessories	Approved	72.25	Approve in Full
+138425	2009061960422	2009-06-16 00:00:00	2009-06-11 00:00:00	GTF	Great Falls International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.98	Cosmetics	Denied	0.0	Deny
+140214	2009080562257	2009-08-03 00:00:00	2009-07-29 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	117.0	Clothing & Accessories	Approved	117.0	Approve in Full
+140419	2009080762390	2009-08-06 00:00:00	2009-08-03 00:00:00	GTF	Great Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage	130.0	Household Items,Containers	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+142564	2009102664711	2009-10-13 00:00:00	2009-10-04 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage	425.0	Outdoors Supplies	Approved	425.0	Approve in Full
+152383	2010091075884	2010-08-31 00:00:00	2010-07-31 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+153824	2010102377233	2010-10-15 00:00:00	2010-09-02 00:00:00	GTF	Great Falls International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+159179	2011041482601	2011-04-11 00:00:00	2011-02-25 00:00:00	GTF	Great Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		185.0	Approve in Full
+161998	2011072785531	2011-07-13 00:00:00	2011-07-10 00:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		369.0	Approve in Full
+162327	2011081085901	2011-07-22 00:00:00	2011-05-13 11:30:00	GTF	Great Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		145.0	Settle
+167091	2012020790747	2012-01-04 00:00:00	2011-12-03 00:00:00	GTF	Great Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies		60.0	Approve in Full
+175672	2012122899427	2012-11-05 00:00:00	2012-10-14 10:30:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments		102.4	Approve in Full
+175809	2012110998497	2012-11-09 00:00:00	2012-09-27 06:00:00	GTF	Great Falls International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+177580	2013020801292	2013-01-18 00:00:00	2012-12-14 00:00:00	GTF	Great Falls International		Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+198347	2015011319840	2015-01-13 00:00:00	2014-12-24 00:00:00	GTF	Great Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
