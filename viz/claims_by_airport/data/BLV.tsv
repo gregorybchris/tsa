@@ -1,7 +1,7 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-99383	2007020920598	2007-02-05 00:00:00	2006-12-17 00:00:00	BLV	Midamerica Airport		Passenger Property Loss	Checked Baggage	249.0	Electronics	Settled	135.51	Settle
+99383	2007020920598	2007-02-05 00:00:00	2006-12-17 00:00:00	BLV	Midamerica Airport		Passenger Property Loss	Checked Baggage	249.0	MP3 Players-(iPods, etc)	Settled	135.51	Settle
 110874	2007091932233	2007-09-17 00:00:00	2007-07-15 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage	47.94	Other	Settled	23.97	Settle
-187373	2014012411127	2014-01-17 00:00:00	2014-01-09 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Scientific Intruments		2001.98	Settle
-192006	2014081315857	2014-07-25 00:00:00	2014-07-06 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics,Outdoors Supplies			
-196180	2015051322509	2015-05-07 00:00:00	2015-03-19 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-213057	2017071941693	2017-06-01 00:00:00	2017-05-07 08:30:00	BLV	Midamerica Airport Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		14.0	Approve in Full
+187373	2014012411127	2014-01-17 00:00:00	2014-01-09 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Medical/Science		2001.98	Settle
+192006	2014081315857	2014-07-25 00:00:00	2014-07-06 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Hunting & Fishing Items			
+196180	2015051322509	2015-05-07 00:00:00	2015-03-19 00:00:00	BLV	Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+213057	2017071941693	2017-06-01 00:00:00	2017-05-07 08:30:00	BLV	Midamerica Airport Midamerica Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Travel Accessories		14.0	Approve in Full

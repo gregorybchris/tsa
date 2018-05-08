@@ -1,61 +1,61 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-39398	2004072059808	2004-07-07 00:00:00	2004-05-31 00:00:00	BQN	Rafael Hernandez	Pan American Airways Corp.	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
-62638	2005042883590	2005-04-26 00:00:00	2005-03-26 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Denied	0.0	Deny
-66211	2005062387009	2005-06-14 00:00:00	2005-05-09 00:00:00	BQN	Rafael Hernandez		Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	378.43	Settle
-72430	2005093093586	2005-09-20 00:00:00	2005-09-14 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	2500.0	Watches & Jewelry	Denied	0.0	Deny
-73527	2005101794599	2005-10-11 00:00:00	2005-07-25 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	1533.88	Watches & Jewelry	Denied	0.0	Deny
-75908	2005120596988	2005-11-22 00:00:00	2005-10-31 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	375.0	Watches & Jewelry	Denied	0.0	Deny
-76479	2005121297538	2005-12-02 00:00:00	2005-06-03 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	700.0	Watches & Jewelry	Settled	350.0	Settle
-78061	2006011099211	2006-01-04 00:00:00	2005-11-15 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	8258.0	Watches & Jewelry	Denied	0.0	Deny
-79653	2006020100758	2006-01-26 00:00:00	2006-01-15 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint	450.0	Electronics	Settled	223.97	Settle
-84049	2006042405011	2006-04-18 00:00:00	2006-04-03 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	473.27	Electronics	Settled	213.78	Settle
-84202	2006050305683	2006-04-24 00:00:00	2006-04-13 00:00:00	BQN	Rafael Hernandez		Passenger Property Loss	Checked Baggage	85.0	Watches & Jewelry	Approved	85.0	Approve in Full
-84338	2006031503174	2006-04-25 00:00:00	2006-04-13 00:00:00	BQN	Rafael Hernandez	Pan American Airways Corp.	Passenger Property Loss	Checked Baggage	85.0	Watches & Jewelry	Canceled	0.0	
-93550	2006110615210	2006-10-23 00:00:00	2006-10-15 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-93792	2006110315115	2006-10-27 00:00:00	2006-07-21 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Settled	75.0	Settle
+39398	2004072059808	2004-07-07 00:00:00	2004-05-31 00:00:00	BQN	Rafael Hernandez	Pan American Airways Corp.	Passenger Property Loss	Checked Baggage	200.0	Currency	Denied	0.0	Deny
+62638	2005042883590	2005-04-26 00:00:00	2005-03-26 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Jewelry - Fine	Denied	0.0	Deny
+66211	2005062387009	2005-06-14 00:00:00	2005-05-09 00:00:00	BQN	Rafael Hernandez		Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Settled	378.43	Settle
+72430	2005093093586	2005-09-20 00:00:00	2005-09-14 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	2500.0	Jewelry - Fine	Denied	0.0	Deny
+73527	2005101794599	2005-10-11 00:00:00	2005-07-25 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	1533.88	Jewelry - Fine	Denied	0.0	Deny
+75908	2005120596988	2005-11-22 00:00:00	2005-10-31 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	375.0	Jewelry - Fine	Denied	0.0	Deny
+76479	2005121297538	2005-12-02 00:00:00	2005-06-03 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	700.0	Jewelry - Fine	Settled	350.0	Settle
+78061	2006011099211	2006-01-04 00:00:00	2005-11-15 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	8258.0	Jewelry - Fine	Denied	0.0	Deny
+79653	2006020100758	2006-01-26 00:00:00	2006-01-15 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint	450.0	Stereo Items & Accessories	Settled	223.97	Settle
+84049	2006042405011	2006-04-18 00:00:00	2006-04-03 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	473.27	Stereo Items & Accessories	Settled	213.78	Settle
+84202	2006050305683	2006-04-24 00:00:00	2006-04-13 00:00:00	BQN	Rafael Hernandez		Passenger Property Loss	Checked Baggage	85.0	Jewelry - Fine	Approved	85.0	Approve in Full
+84338	2006031503174	2006-04-25 00:00:00	2006-04-13 00:00:00	BQN	Rafael Hernandez	Pan American Airways Corp.	Passenger Property Loss	Checked Baggage	85.0	Jewelry - Fine	Canceled	0.0	
+93550	2006110615210	2006-10-23 00:00:00	2006-10-15 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+93792	2006110315115	2006-10-27 00:00:00	2006-07-21 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Jewelry - Fine	Settled	75.0	Settle
 94764	2006112816286	2006-11-16 00:00:00	2006-10-10 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	8225.0	Other	Denied	0.0	Deny
-98991	2007020520132	2007-01-29 00:00:00	2007-01-28 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Denied	0.0	Deny
-99560	2007020820529	2007-02-07 00:00:00	2007-02-06 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	341.35	Electronics	Settled	170.68	Settle
+98991	2007020520132	2007-01-29 00:00:00	2007-01-28 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	3000.0	Jewelry - Fine	Denied	0.0	Deny
+99560	2007020820529	2007-02-07 00:00:00	2007-02-06 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	341.35	GPS - Global Positioning System	Settled	170.68	Settle
 100018	2007022121236	2007-02-15 00:00:00	2007-01-01 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint	30.0	Other	Denied	0.0	Deny
-103205	2007042424370	2007-04-23 00:00:00	2006-08-13 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checkpoint	150.0	Other	Approved	150.0	Approve in Full
-106449	2007062927666	2007-06-27 00:00:00	2007-06-23 00:00:00	BQN	Rafael Hernandez	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-108342	2007080329582	2007-08-02 00:00:00	2007-07-18 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
-108385	2007080729726	2007-08-02 00:00:00	2007-05-21 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	2139.32	Watches & Jewelry	Denied	0.0	Deny
-108548	2007080829836	2007-08-06 00:00:00	2007-08-05 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	1600.0	Watches & Jewelry	Denied	0.0	Deny
-114877	2007121136399	2007-12-07 00:00:00	2007-10-25 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	289.69	Supplies	Denied	0.0	Deny
-115486	2007122736985	2007-12-20 00:00:00	2007-10-19 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	449.99	Electronics	Denied	0.0	Deny
-116430	2008011537948	2008-01-09 00:00:00	2007-11-07 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	519.99	Containers,Cosmetics,Electronics	Denied	0.0	Deny
-117054	2008010437364	2008-01-22 00:00:00	2007-12-30 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Denied	0.0	Deny
-117351	2008013038934	2008-01-25 00:00:00	2008-01-21 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Denied	0.0	Deny
-118999	2008030740625	2008-02-28 00:00:00	2008-01-31 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry	Canceled	0.0	
-119157	2008031140777	2008-03-03 00:00:00	2008-02-25 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	170.49	Electronics	Denied	0.0	Deny
-121863	2008050143687	2008-04-24 00:00:00	2008-03-01 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	839.37	Watches & Jewelry	Denied	0.0	Deny
-121887	2008042943519	2008-04-25 00:00:00	2008-04-04 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
-123881	2008061245604	2008-06-06 00:00:00	2008-02-03 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	424.98	Electronics	Denied	0.0	Deny
-126427	2008080748236	2008-08-04 00:00:00	2008-07-03 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	304.0	Clothing & Accessories	Denied	0.0	Deny
-126786	2008081448622	2008-08-11 00:00:00	2008-06-10 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	800.0	Food & Drink,Other	Denied	0.0	Deny
-129412	2008102151356	2008-10-14 00:00:00	2008-09-11 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	6500.0	Watches & Jewelry	Denied	0.0	Deny
-130469	2008111852379	2008-11-10 00:00:00	2008-09-15 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	1425.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-131824	2008122253720	2008-12-16 00:00:00	2008-12-08 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	75.0	Cosmetics	Denied	0.0	Deny
-132242	2009010654159	2008-12-29 00:00:00	2008-11-26 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	300.0	Electronics,Electronics	Denied	0.0	Deny
-134550	2009031956465	2009-03-03 00:00:00	2009-02-05 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-141401	2009090863410	2009-09-04 00:00:00	2009-08-31 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	105.0	Electronics,Clothing & Accessories,Containers	Denied	0.0	Deny
-142057	2009092964121	2009-09-24 00:00:00	2009-09-10 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	10.95	Food & Drink	Approved	10.95	Approve in Full
-144716	2009122866850	2009-12-16 00:00:00	2009-12-15 03:50:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checkpoint	655.0	Supplies,Household Decor,Clothing & Accessories	Denied	0.0	Deny
+103205	2007042424370	2007-04-23 00:00:00	2006-08-13 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checkpoint	150.0	Currency	Approved	150.0	Approve in Full
+106449	2007062927666	2007-06-27 00:00:00	2007-06-23 00:00:00	BQN	Rafael Hernandez	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+108342	2007080329582	2007-08-02 00:00:00	2007-07-18 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	1000.0	Jewelry - Costume	Denied	0.0	Deny
+108385	2007080729726	2007-08-02 00:00:00	2007-05-21 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	2139.32	Jewelry - Fine	Denied	0.0	Deny
+108548	2007080829836	2007-08-06 00:00:00	2007-08-05 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	1600.0	Jewelry - Fine	Denied	0.0	Deny
+114877	2007121136399	2007-12-07 00:00:00	2007-10-25 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	289.69	Medicines	Denied	0.0	Deny
+115486	2007122736985	2007-12-20 00:00:00	2007-10-19 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	449.99	Cameras - Digital	Denied	0.0	Deny
+116430	2008011537948	2008-01-09 00:00:00	2007-11-07 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	519.99	Boxes - Jewelry, Cigarette, Music, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+117054	2008010437364	2008-01-22 00:00:00	2007-12-30 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Jewelry - Fine	Denied	0.0	Deny
+117351	2008013038934	2008-01-25 00:00:00	2008-01-21 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	3000.0	Jewelry - Fine	Denied	0.0	Deny
+118999	2008030740625	2008-02-28 00:00:00	2008-01-31 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage		Jewelry - Costume*Jewelry - Fine	Canceled	0.0	
+119157	2008031140777	2008-03-03 00:00:00	2008-02-25 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	170.49	Cameras - Digital	Denied	0.0	Deny
+121863	2008050143687	2008-04-24 00:00:00	2008-03-01 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	839.37	Jewelry - Fine	Denied	0.0	Deny
+121887	2008042943519	2008-04-25 00:00:00	2008-04-04 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Currency	Denied	0.0	Deny
+123881	2008061245604	2008-06-06 00:00:00	2008-02-03 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	424.98	Cameras - Digital	Denied	0.0	Deny
+126427	2008080748236	2008-08-04 00:00:00	2008-07-03 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	304.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+126786	2008081448622	2008-08-11 00:00:00	2008-06-10 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	800.0	Alcoholic beverages*Other	Denied	0.0	Deny
+129412	2008102151356	2008-10-14 00:00:00	2008-09-11 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage	6500.0	Jewelry - Fine	Denied	0.0	Deny
+130469	2008111852379	2008-11-10 00:00:00	2008-09-15 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	1425.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+131824	2008122253720	2008-12-16 00:00:00	2008-12-08 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	75.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+132242	2009010654159	2008-12-29 00:00:00	2008-11-26 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	300.0	Batteries - Dry cell only*Cameras - Digital	Denied	0.0	Deny
+134550	2009031956465	2009-03-03 00:00:00	2009-02-05 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Locks	Denied	0.0	Deny
+141401	2009090863410	2009-09-04 00:00:00	2009-08-31 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	105.0	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+142057	2009092964121	2009-09-24 00:00:00	2009-09-10 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage	10.95	Alcoholic beverages	Approved	10.95	Approve in Full
+144716	2009122866850	2009-12-16 00:00:00	2009-12-15 03:50:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checkpoint	655.0	Medicines*Mirrors (including frames)*Sunglasses	Denied	0.0	Deny
 148540	2010051771841	2010-05-10 00:00:00	2010-04-06 00:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-149909	2010070673343	2010-06-23 00:00:00	2010-05-31 07:30:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage		Food & Drink,Food & Drink		0.0	Deny
+149909	2010070673343	2010-06-23 00:00:00	2010-05-31 07:30:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checked Baggage		Food & Drink*Food & Drink		0.0	Deny
 150206	2010061872786	2010-07-01 00:00:00	2010-05-17 03:30:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-152238	2010090275586	2010-08-29 00:00:00	2010-08-23 09:30:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+152238	2010090275586	2010-08-29 00:00:00	2010-08-23 09:30:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
 153870	2010102377286	2010-10-18 00:00:00	2010-10-09 09:30:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-156240	2011020779966	2011-01-06 00:00:00	2010-11-16 00:00:00	BQN	Rafael Hernandez		Passenger Property Loss	Checkpoint		Watches & Jewelry			
+156240	2011020779966	2011-01-06 00:00:00	2010-11-16 00:00:00	BQN	Rafael Hernandez		Passenger Property Loss	Checkpoint		Jewelry & Watches			
 157090	2011022480545	2011-01-31 00:00:00	2010-12-26 15:30:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-160230	2011052583749	2011-05-16 00:00:00	2011-04-23 01:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry		500.0	Settle
-161238	2011062984759	2011-06-17 00:00:00	2011-06-04 01:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-162089	2011080385700	2011-07-15 00:00:00	2011-07-10 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-162997	2011081286104	2011-08-12 00:00:00	2011-07-25 12:50:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-191120	2014063014953	2014-06-23 00:00:00	2014-05-14 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Electronics,Electronics		0.0	Deny
-192613	2014090916480	2014-08-17 00:00:00	2014-08-05 00:00:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checkpoint		Electronics			
-192904	2014091916779	2014-08-25 00:00:00	2014-08-05 00:00:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checkpoint		Electronics			
-196477	2015070623652	2015-07-01 00:00:00	2015-06-01 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Cosmetics,Watches & Jewelry,Watches & Jewelry,Clothing & Accessories			
-205104	2017021537555	2017-01-01 00:00:00	2016-11-21 05:00:00	BQN	Rafael Hernandez Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Other			Insufficient
-213340	2017041938671	2017-02-27 00:00:00	2017-02-12 00:00:00	BQN	Rafael Hernandez Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
+160230	2011052583749	2011-05-16 00:00:00	2011-04-23 01:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Jewelry & Watches		500.0	Settle
+161238	2011062984759	2011-06-17 00:00:00	2011-06-04 01:00:00	BQN	Rafael Hernandez	Continental Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+162089	2011080385700	2011-07-15 00:00:00	2011-07-10 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+162997	2011081286104	2011-08-12 00:00:00	2011-07-25 12:50:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+191120	2014063014953	2014-06-23 00:00:00	2014-05-14 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Personal Electronics*Personal Electronics		0.0	Deny
+192613	2014090916480	2014-08-17 00:00:00	2014-08-05 00:00:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checkpoint		Personal Electronics			
+192904	2014091916779	2014-08-25 00:00:00	2014-08-05 00:00:00	BQN	Rafael Hernandez	Spirit Airlines	Passenger Property Loss	Checkpoint		Personal Electronics			
+196477	2015070623652	2015-07-01 00:00:00	2015-06-01 00:00:00	BQN	Rafael Hernandez	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Cosmetics & Grooming*Cosmetics & Grooming*Jewelry & Watches*Jewelry & Watches*Personal Accessories			
+205104	2017021537555	2017-01-01 00:00:00	2016-11-21 05:00:00	BQN	Rafael Hernandez Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Currency			Insufficient
+213340	2017041938671	2017-02-27 00:00:00	2017-02-12 00:00:00	BQN	Rafael Hernandez Rafael Hernandez	Jet Blue	Passenger Property Loss	Checkpoint		Clothing			In Review

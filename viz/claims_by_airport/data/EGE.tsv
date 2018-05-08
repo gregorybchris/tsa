@@ -1,81 +1,81 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-2012	0129045L	2003-01-29 00:00:00	2002-12-28 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	769.93	Electronics	Denied	0.0	Deny
+2012	0129045L	2003-01-29 00:00:00	2002-12-28 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	769.93	Stereo Items & Accessories	Denied	0.0	Deny
 8550	0616020L	2003-06-16 00:00:00	2003-02-13 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	1488.0	Other	Denied	0.0	Deny
-32256	2004060154045	2004-04-06 00:00:00	2004-03-15 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
-55980	2005030476928	2005-02-01 00:00:00	2005-01-22 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	300.0	Electronics	Approved	300.0	Approve in Full
-56127	2005030476909	2005-02-01 00:00:00	2005-01-02 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	179.23	Cosmetics	Denied	0.0	Deny
-57519	2005031578369	2005-02-16 00:00:00	2005-01-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checkpoint	448.16	Electronics	Settled	329.21	Settle
-61494	2005041382496	2005-04-12 00:00:00	2005-03-30 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	230.9	Electronics	Canceled		
-61852	2005041882766	2005-04-15 00:00:00	2005-03-25 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	838.59	Electronics	Denied	0.0	Deny
-64767	2005060285703	2005-05-24 00:00:00	2005-03-29 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	300.0	Electronics	Settled	135.7	Settle
-66262	2005062487158	2005-06-15 00:00:00	2005-05-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	544.64	Electronics	Denied	0.0	Deny
-66271	2005062487201	2005-06-15 00:00:00	2005-05-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	708.0	Electronics	Denied	0.0	Deny
-67526	2005071188561	2005-07-06 00:00:00	2005-06-19 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	499.08	Electronics	Denied	0.0	Deny
-68254	2005072089275	2005-07-18 00:00:00	2005-07-09 00:00:00	EGE	Eagle County Regional		Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Approved	200.0	Approve in Full
-69116	2005080890206	2005-07-29 00:00:00	2005-06-19 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	303.0	Watches & Jewelry	Denied	0.0	Deny
-70727	2005082991719	2005-08-23 00:00:00	2005-08-08 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Settled	490.0	Settle
+32256	2004060154045	2004-04-06 00:00:00	2004-03-15 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	2000.0	Computer - Laptop	Denied	0.0	Deny
+55980	2005030476928	2005-02-01 00:00:00	2005-01-22 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	300.0	Cameras - Digital	Approved	300.0	Approve in Full
+56127	2005030476909	2005-02-01 00:00:00	2005-01-02 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	179.23	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+57519	2005031578369	2005-02-16 00:00:00	2005-01-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checkpoint	448.16	Cameras - Digital	Settled	329.21	Settle
+61494	2005041382496	2005-04-12 00:00:00	2005-03-30 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	230.9	Cameras - Digital	Canceled		
+61852	2005041882766	2005-04-15 00:00:00	2005-03-25 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	838.59	Cameras - Digital	Denied	0.0	Deny
+64767	2005060285703	2005-05-24 00:00:00	2005-03-29 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	300.0	Cameras - Digital	Settled	135.7	Settle
+66262	2005062487158	2005-06-15 00:00:00	2005-05-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	544.64	Cameras - Digital	Denied	0.0	Deny
+66271	2005062487201	2005-06-15 00:00:00	2005-05-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	708.0	Cameras - Digital	Denied	0.0	Deny
+67526	2005071188561	2005-07-06 00:00:00	2005-06-19 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	499.08	DVD/CD Players	Denied	0.0	Deny
+68254	2005072089275	2005-07-18 00:00:00	2005-07-09 00:00:00	EGE	Eagle County Regional		Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Approved	200.0	Approve in Full
+69116	2005080890206	2005-07-29 00:00:00	2005-06-19 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	303.0	Jewelry - Fine	Denied	0.0	Deny
+70727	2005082991719	2005-08-23 00:00:00	2005-08-08 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Settled	490.0	Settle
 71270	2005091492481	2005-09-01 00:00:00	2005-08-21 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checkpoint	33.55	Other	Approved	33.55	Approve in Full
-72035	2005092193060	2005-09-14 00:00:00	2005-08-09 00:00:00	EGE	Eagle County Regional	USAir	Passenger Property Loss	Checkpoint	489.9	Electronics	Settled	454.0	Settle
-74834	2005111095958	2005-11-01 00:00:00	2005-10-05 00:00:00	EGE	Eagle County Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	732.97	Electronics	Denied	0.0	Deny
-80123	2006020801173	2006-02-03 00:00:00	2006-01-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	349.0	Clothing & Accessories	Settled	306.34	Settle
-81502	2006030702641	2006-03-01 00:00:00	2006-02-09 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	159.99	Electronics	Settled	82.08	Settle
-81620	2006030802754	2006-03-03 00:00:00	2006-02-25 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	326.95	Cosmetics	Settled	163.48	Settle
-81902	2006031503112	2006-03-08 00:00:00	2006-02-18 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Cosmetics	Settled	200.0	Settle
-82005	2006031603225	2006-03-10 00:00:00	2006-02-27 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	150.04	Electronics	Approved	150.04	Approve in Full
-82558	2006032403662	2006-03-21 00:00:00	2006-02-24 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	474.99	Electronics	Denied	0.0	Deny
-84219	2006042605388	2006-04-24 00:00:00	2006-04-09 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.4	Tools & Machines	Denied	0.0	Deny
-84879	2006051106001	2006-05-05 00:00:00	2006-01-02 00:00:00	EGE	Eagle County Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Tools & Machines,Games & Toys	Denied	0.0	Deny
-88736	2006072510004	2006-07-21 00:00:00	2006-07-13 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	10.5	Tools & Machines	Approved	10.5	Approve in Full
-89461	2006081010724	2006-08-07 00:00:00	2006-07-24 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	36.95	Clothing & Accessories	Approved	36.95	Approve in Full
-89657	2006081110835	2006-08-09 00:00:00	2006-07-31 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Settled	63.0	Settle
-90822	2006090612052	2006-08-31 00:00:00	2006-08-11 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Approved	125.0	Approve in Full
+72035	2005092193060	2005-09-14 00:00:00	2005-08-09 00:00:00	EGE	Eagle County Regional	USAir	Passenger Property Loss	Checkpoint	489.9	Cameras - Digital	Settled	454.0	Settle
+74834	2005111095958	2005-11-01 00:00:00	2005-10-05 00:00:00	EGE	Eagle County Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	732.97	Cameras - Digital	Denied	0.0	Deny
+80123	2006020801173	2006-02-03 00:00:00	2006-01-28 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	349.0	Clothing - Shoes, belts, accessories, etc.	Settled	306.34	Settle
+81502	2006030702641	2006-03-01 00:00:00	2006-02-09 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	159.99	Cameras - Digital	Settled	82.08	Settle
+81620	2006030802754	2006-03-03 00:00:00	2006-02-25 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	326.95	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	163.48	Settle
+81902	2006031503112	2006-03-08 00:00:00	2006-02-18 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	200.0	Settle
+82005	2006031603225	2006-03-10 00:00:00	2006-02-27 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	150.04	Cameras - Digital	Approved	150.04	Approve in Full
+82558	2006032403662	2006-03-21 00:00:00	2006-02-24 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	474.99	Cameras - Digital	Denied	0.0	Deny
+84219	2006042605388	2006-04-24 00:00:00	2006-04-09 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.4	Locks	Denied	0.0	Deny
+84879	2006051106001	2006-05-05 00:00:00	2006-01-02 00:00:00	EGE	Eagle County Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Locks*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+88736	2006072510004	2006-07-21 00:00:00	2006-07-13 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	10.5	Locks	Approved	10.5	Approve in Full
+89461	2006081010724	2006-08-07 00:00:00	2006-07-24 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	36.95	Clothing - Shoes, belts, accessories, etc.	Approved	36.95	Approve in Full
+89657	2006081110835	2006-08-09 00:00:00	2006-07-31 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing - Shoes, belts, accessories, etc.	Settled	63.0	Settle
+90822	2006090612052	2006-08-31 00:00:00	2006-08-11 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing - Shoes, belts, accessories, etc.	Approved	125.0	Approve in Full
 95638	2006121216969	2006-12-04 00:00:00	2006-05-30 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	50.0	Other	Settled	25.0	Settle
-97781	2007011718920	2007-01-09 00:00:00	2006-12-22 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	455.0	Electronics,Electronics	Denied	0.0	Deny
-99517	2007020920617	2007-02-07 00:00:00	2007-01-02 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	79.0	Clothing & Accessories	Approved	79.0	Approve in Full
-102051	2007040323397	2007-03-29 00:00:00	2007-03-09 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	7.09	Tools & Machines	Approved	7.09	Approve in Full
-104547	2007052325865	2007-05-21 00:00:00	2007-02-22 00:00:00	EGE	Eagle County Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	11.43	Tools & Machines	Approved	11.43	Approve in Full
-105581	2007061126717	2007-06-08 00:00:00	2006-12-25 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Settled	72.73	Settle
+97781	2007011718920	2007-01-09 00:00:00	2006-12-22 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	455.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+99517	2007020920617	2007-02-07 00:00:00	2007-01-02 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	79.0	Clothing - Shoes, belts, accessories, etc.	Approved	79.0	Approve in Full
+102051	2007040323397	2007-03-29 00:00:00	2007-03-09 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	7.09	Locks	Approved	7.09	Approve in Full
+104547	2007052325865	2007-05-21 00:00:00	2007-02-22 00:00:00	EGE	Eagle County Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	11.43	Locks	Approved	11.43	Approve in Full
+105581	2007061126717	2007-06-08 00:00:00	2006-12-25 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Jewelry - Costume	Settled	72.73	Settle
 115774	2008010337291	2007-12-28 00:00:00	2007-12-26 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	148.97	Other	Canceled	0.0	
-117078	2008012538619	2008-01-22 00:00:00	2008-01-12 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	7.52	Tools & Machines	Denied	0.0	Deny
-117602	2008020739272	2008-01-30 00:00:00	2008-01-16 00:00:00	EGE	Eagle County Regional		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-117799	2008020839305	2008-02-04 00:00:00	2008-01-30 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	11.99	Tools & Machines	Denied	0.0	Deny
+117078	2008012538619	2008-01-22 00:00:00	2008-01-12 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	7.52	Locks	Denied	0.0	Deny
+117602	2008020739272	2008-01-30 00:00:00	2008-01-16 00:00:00	EGE	Eagle County Regional		Passenger Property Loss	Checked Baggage	20.0	Locks	Denied	0.0	Deny
+117799	2008020839305	2008-02-04 00:00:00	2008-01-30 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	11.99	Locks	Denied	0.0	Deny
 117871	2008021339532	2008-02-04 00:00:00	2008-01-24 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	155.0	Other	Settled	77.5	Settle
-118454	2008022540057	2008-02-19 00:00:00	2008-02-16 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	10.82	Tools & Machines	Denied	0.0	Deny
-119449	2008031341021	2008-03-10 00:00:00	2008-03-05 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	3900.0	Containers,Other	Denied	0.0	Deny
-119785	2008032641430	2008-03-17 00:00:00	2008-03-10 00:00:00	EGE	Eagle County Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Denied	0.0	Deny
-119899	2008032641459	2008-03-19 00:00:00	2008-03-15 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Denied	0.0	Deny
-120238	2008040441883	2008-03-25 00:00:00	2008-03-17 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checkpoint	8.98	Tools & Machines	Denied	0.0	Deny
-131674	2008121853536	2008-12-12 00:00:00	2008-12-05 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	695.0	Clothing & Accessories,Other	Denied	0.0	Deny
-132857	2009012254749	2009-01-13 00:00:00	2008-12-22 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	96.89	Clothing & Accessories,Other	Denied	0.0	Deny
-133261	2009012754970	2009-01-27 00:00:00	2008-12-05 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	6459.72	Electronics,Electronics	Denied	0.0	Deny
-135109	2009031356239	2009-03-16 00:00:00	2009-02-18 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Denied	0.0	Deny
-135967	2009050158205	2009-04-07 00:00:00	2009-03-07 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	102.35	Tools & Machines	Denied	0.0	Deny
-136161	2009042457960	2009-04-13 00:00:00	2009-03-06 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	486.85	Containers	Denied	0.0	Deny
-146047	2010030268943	2010-02-23 00:00:00	2010-02-13 11:15:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+118454	2008022540057	2008-02-19 00:00:00	2008-02-16 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	10.82	Locks	Denied	0.0	Deny
+119449	2008031341021	2008-03-10 00:00:00	2008-03-05 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	3900.0	Luggage (all types including footlockers)*Other	Denied	0.0	Deny
+119785	2008032641430	2008-03-17 00:00:00	2008-03-10 00:00:00	EGE	Eagle County Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+119899	2008032641459	2008-03-19 00:00:00	2008-03-15 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+120238	2008040441883	2008-03-25 00:00:00	2008-03-17 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checkpoint	8.98	Locks	Denied	0.0	Deny
+131674	2008121853536	2008-12-12 00:00:00	2008-12-05 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	695.0	Eyeglasses - (including contact lenses)*Other	Denied	0.0	Deny
+132857	2009012254749	2009-01-13 00:00:00	2008-12-22 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	96.89	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+133261	2009012754970	2009-01-27 00:00:00	2008-12-05 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage	6459.72	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+135109	2009031356239	2009-03-16 00:00:00	2009-02-18 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Denied	0.0	Deny
+135967	2009050158205	2009-04-07 00:00:00	2009-03-07 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	102.35	Barber Supplies - Scissors, shears, elecric razors, etc.	Denied	0.0	Deny
+136161	2009042457960	2009-04-13 00:00:00	2009-03-06 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage	486.85	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+146047	2010030268943	2010-02-23 00:00:00	2010-02-13 11:15:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			
 146740	2010031969780	2010-03-16 00:00:00	2010-03-10 06:50:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-146846	2010030268979	2010-03-19 00:00:00	2010-02-22 15:15:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		16.11	Approve in Full
-147360	2010040870574	2010-04-05 00:00:00	2010-02-13 06:30:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories		0.0	Deny
-151123	2010080574421	2010-07-28 00:00:00	2010-07-25 11:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+146846	2010030268979	2010-03-19 00:00:00	2010-02-22 15:15:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		16.11	Approve in Full
+147360	2010040870574	2010-04-05 00:00:00	2010-02-13 06:30:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Currency*Personal Accessories		0.0	Deny
+151123	2010080574421	2010-07-28 00:00:00	2010-07-25 11:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
 156571	2011020880027	2011-01-18 00:00:00	2011-01-09 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-157075	2011022480528	2011-01-31 00:00:00	2011-01-11 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+157075	2011022480528	2011-01-31 00:00:00	2011-01-11 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			
 157117	2011022480549	2011-02-01 00:00:00	2011-01-09 00:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
-157321	2011030380892	2011-02-07 00:00:00	2011-01-01 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		172.68	Settle
-157480	2011030480932	2011-02-14 00:00:00	2011-02-09 12:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-162963	2011083186577	2011-08-10 00:00:00	2011-07-21 08:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		3.22	Approve in Full
-163964	2011100587520	2011-09-14 00:00:00	2011-03-20 11:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments,Scientific Intruments		209.47	Settle
-168333	2012032291971	2012-02-13 00:00:00	2011-12-30 00:00:00	EGE	Eagle County Regional		Passenger Property Loss	Checked Baggage		Clothing & Accessories		55.96	Approve in Full
-168684	2012040292327	2012-02-23 00:00:00	2012-02-12 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-169477	2012032692034	2012-03-26 00:00:00	2012-01-15 11:45:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
-170391	2012041692922	2012-04-27 00:00:00	2012-03-10 14:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+157321	2011030380892	2011-02-07 00:00:00	2011-01-01 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		172.68	Settle
+157480	2011030480932	2011-02-14 00:00:00	2011-02-09 12:00:00	EGE	Eagle County Regional	Continental Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+162963	2011083186577	2011-08-10 00:00:00	2011-07-21 08:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		3.22	Approve in Full
+163964	2011100587520	2011-09-14 00:00:00	2011-03-20 11:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Medical/Science*Medical/Science		209.47	Settle
+168333	2012032291971	2012-02-13 00:00:00	2011-12-30 00:00:00	EGE	Eagle County Regional		Passenger Property Loss	Checked Baggage		Clothing		55.96	Approve in Full
+168684	2012040292327	2012-02-23 00:00:00	2012-02-12 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+169477	2012032692034	2012-03-26 00:00:00	2012-01-15 11:45:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Cosmetics & Grooming		0.0	Deny
+170391	2012041692922	2012-04-27 00:00:00	2012-03-10 14:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
 170838	2012060294462	2012-05-10 00:00:00	2012-03-05 11:15:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-179816	2013050803576	2013-04-12 00:00:00	2013-03-29 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-184678	2013102908204	2013-10-03 00:00:00	2013-08-02 08:10:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		168.0	Approve in Full
-185374	2013110208612	2013-11-02 00:00:00	2013-08-02 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-187012	2014011310751	2014-01-06 00:00:00	2014-01-03 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-187251	2014012211003	2014-01-15 00:00:00	2014-01-01 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-193012	2014092216888	2014-09-04 00:00:00	2014-08-21 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-197616	2015012620168	2015-01-26 00:00:00	2015-01-21 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-197617	2015020320363	2015-02-03 00:00:00	2015-01-26 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checkpoint		Household Decor			
-214494	2018010946655	2017-01-09 00:00:00	2017-12-31 00:00:00	EGE	Eagle County Regional Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-214496	2017041838646	2017-02-15 00:00:00	2017-02-11 00:00:00	EGE	Eagle County Regional Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-214497	2017092843756	2017-09-28 00:00:00	2017-09-13 07:30:00	EGE	Eagle County Regional Eagle County Regional	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+179816	2013050803576	2013-04-12 00:00:00	2013-03-29 00:00:00	EGE	Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+184678	2013102908204	2013-10-03 00:00:00	2013-08-02 08:10:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		168.0	Approve in Full
+185374	2013110208612	2013-11-02 00:00:00	2013-08-02 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+187012	2014011310751	2014-01-06 00:00:00	2014-01-03 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+187251	2014012211003	2014-01-15 00:00:00	2014-01-01 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+193012	2014092216888	2014-09-04 00:00:00	2014-08-21 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+197616	2015012620168	2015-01-26 00:00:00	2015-01-21 00:00:00	EGE	Eagle County Regional	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+197617	2015020320363	2015-02-03 00:00:00	2015-01-26 00:00:00	EGE	Eagle County Regional	American Airlines	Passenger Property Loss	Checkpoint		Home Decor			
+214494	2018010946655	2017-01-09 00:00:00	2017-12-31 00:00:00	EGE	Eagle County Regional Eagle County Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+214496	2017041838646	2017-02-15 00:00:00	2017-02-11 00:00:00	EGE	Eagle County Regional Eagle County Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+214497	2017092843756	2017-09-28 00:00:00	2017-09-13 07:30:00	EGE	Eagle County Regional Eagle County Regional	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny

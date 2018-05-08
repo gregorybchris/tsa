@@ -1,322 +1,322 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-181	19744	2002-11-05 00:00:00	2002-10-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	280.0	Watches & Jewelry	Denied	280.0	Deny
-610	0715523M	2002-12-13 00:00:00	2002-08-23 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	250.0	Containers	Approved	250.0	Approve in Full
-625	19416	2002-12-13 00:00:00	2002-09-26 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
-1726	0617608L	2003-01-22 00:00:00	2002-12-25 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	106.0	Watches & Jewelry	Denied	0.0	Deny
+181	19744	2002-11-05 00:00:00	2002-10-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	280.0	Jewelry - Fine	Denied	280.0	Deny
+610	0715523M	2002-12-13 00:00:00	2002-08-23 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	250.0	Luggage (all types including footlockers)	Approved	250.0	Approve in Full
+625	19416	2002-12-13 00:00:00	2002-09-26 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+1726	0617608L	2003-01-22 00:00:00	2002-12-25 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	106.0	Jewelry - Fine	Denied	0.0	Deny
 1982	0616709L	2003-01-29 00:00:00	2002-12-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	70.0	Other	Approved	70.0	Approve in Full
 2080	0130028L	2003-01-30 00:00:00	2003-01-10 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	400.0	Other	Settled	200.0	Settle
-2224	0204016L	2003-02-04 00:00:00	2003-01-15 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	200.0	Clothing & Accessories	Denied	0.0	Deny
-3883	0318046L	2003-03-18 00:00:00	2003-02-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	200.0	Clothing & Accessories	Settled	180.5	Settle
+2224	0204016L	2003-02-04 00:00:00	2003-01-15 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	200.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+3883	0318046L	2003-03-18 00:00:00	2003-02-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	200.0	Eyeglasses - (including contact lenses)	Settled	180.5	Settle
 4030	0321036L	2003-03-21 00:00:00	2003-02-27 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	230.0	Other	Settled	199.0	Settle
 5081	0415004L	2003-04-15 00:00:00	2003-03-14 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	68.0	Other	Settled	34.0	Settle
 5328	0421024L	2003-04-21 00:00:00	2003-03-06 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	13.85	Other	Approved	14.0	Approve in Full
 5703	0909827M	2003-04-28 00:00:00	2003-03-22 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.48	Other	Approved	126.0	Approve in Full
-6834	0520101L	2003-05-20 00:00:00	2003-04-20 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Settled	15.0	Settle
-7228	0529074L	2003-05-29 00:00:00	2003-05-13 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	315.85	Electronics	Denied	0.0	Deny
+6834	0520101L	2003-05-20 00:00:00	2003-04-20 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Settled	15.0	Settle
+7228	0529074L	2003-05-29 00:00:00	2003-05-13 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	315.85	Cell Phones	Denied	0.0	Deny
 7395	0602039L	2003-06-02 00:00:00	2003-05-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	105.0	Other	Settled	53.0	Settle
-7693	0603159L	2003-06-03 00:00:00	2003-02-25 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Settled	75.0	Settle
+7693	0603159L	2003-06-03 00:00:00	2003-02-25 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Settled	75.0	Settle
 10036	0703057M	2003-07-03 00:00:00	2003-04-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
 10544	0711001M	2003-07-11 00:00:00	2003-07-01 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-12244	0731017M	2003-07-31 00:00:00	2003-07-20 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	150.0	Watches & Jewelry	Settled	75.0	Settle
-14055	0822003M	2003-08-22 00:00:00	2003-08-12 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	50.43	Clothing & Accessories	Approved	50.0	Approve in Full
-14102	0822072M	2003-08-22 00:00:00	2003-06-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	799.99	Electronics	Denied	0.0	Deny
+12244	0731017M	2003-07-31 00:00:00	2003-07-20 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	150.0	Jewelry - Fine	Settled	75.0	Settle
+14055	0822003M	2003-08-22 00:00:00	2003-08-12 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	50.43	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+14102	0822072M	2003-08-22 00:00:00	2003-06-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	799.99	DVD/CD Players	Denied	0.0	Deny
 14664	0829062M	2003-08-29 00:00:00	2003-08-20 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	139.99	Other	Canceled	0.0	
-14964	0903081M	2003-09-03 00:00:00	2003-08-23 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Settled	240.0	Settle
+14964	0903081M	2003-09-03 00:00:00	2003-08-23 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	600.0	DVD/CD Players	Settled	240.0	Settle
 15999	0916085M	2003-09-16 00:00:00	2003-08-30 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	51.36	Other	Approved	51.36	Approve in Full
-17051	1002143M	2003-10-02 00:00:00	2003-09-02 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint	3300.0	Watches & Jewelry	Canceled	0.0	
-17766	1009019M	2003-10-09 00:00:00		PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	77.4	Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+17051	1002143M	2003-10-02 00:00:00	2003-09-02 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint	3300.0	Jewelry - Fine	Canceled	0.0	
+17766	1009019M	2003-10-09 00:00:00		PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	77.4	Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
 22254	1208147M	2003-12-08 00:00:00	2003-10-23 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	107.24	Other	Denied	0.0	Deny
-26588	0202426M	2004-02-02 00:00:00	2003-12-22 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	835.0	Clothing & Accessories	Settled	417.5	Settle
-27079	0205102M	2004-02-05 00:00:00	2003-12-30 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
-28254	2004050550520	2004-02-19 00:00:00	2004-02-26 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
-28326	0219456M	2004-02-19 00:00:00	2004-01-14 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	110.0	Cosmetics	Settled	55.0	Settle
-28377	0219677M	2004-02-19 00:00:00	2004-01-01 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	350.0	Electronics	Settled	175.0	Settle
-28454	0223184M	2004-02-23 00:00:00	2004-01-17 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	89.24	Electronics	Approved	89.24	Approve in Full
-30587	2004051752487	2004-03-18 00:00:00	2004-01-15 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	65.34	Clothing & Accessories	Approved	65.34	Approve in Full
-31140	2004051351809	2004-03-24 00:00:00	2004-03-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Approved	60.0	Approve in Full
-31938	2004051151172	2004-04-01 00:00:00	2004-01-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	62.99	Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+26588	0202426M	2004-02-02 00:00:00	2003-12-22 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	835.0	Clothing - Shoes, belts, accessories, etc.	Settled	417.5	Settle
+27079	0205102M	2004-02-05 00:00:00	2003-12-30 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
+28254	2004050550520	2004-02-19 00:00:00	2004-02-26 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	1000.0	Jewelry - Fine	Denied	0.0	Deny
+28326	0219456M	2004-02-19 00:00:00	2004-01-14 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	110.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	55.0	Settle
+28377	0219677M	2004-02-19 00:00:00	2004-01-01 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	350.0	Cameras - Digital	Settled	175.0	Settle
+28454	0223184M	2004-02-23 00:00:00	2004-01-17 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	89.24	Cameras - Digital	Approved	89.24	Approve in Full
+30587	2004051752487	2004-03-18 00:00:00	2004-01-15 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	65.34	Clothing - Shoes, belts, accessories, etc.	Approved	65.34	Approve in Full
+31140	2004051351809	2004-03-24 00:00:00	2004-03-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Jewelry - Fine	Approved	60.0	Approve in Full
+31938	2004051151172	2004-04-01 00:00:00	2004-01-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	62.99	DVD/CD Players	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
 32288	2004051852758	2004-04-06 00:00:00	2004-03-21 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Other	Settled	5.0	Settle
 33741	2004072259873	2004-05-01 00:00:00	2004-02-08 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	8.0	Other	Approved	8.0	Approve in Full
-33995	2004051852637	2004-05-03 00:00:00	2004-04-02 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry	Settled	202.33	Settle
+33995	2004051852637	2004-05-03 00:00:00	2004-04-02 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	800.0	Jewelry - Fine	Settled	202.33	Settle
 34054	2004051151069	2004-05-04 00:00:00	2004-03-13 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	157.0	Other	Approved	157.0	Approve in Full
-34256	2004060855051	2004-05-04 00:00:00	2004-03-14 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Tools & Machines	Canceled		
+34256	2004060855051	2004-05-04 00:00:00	2004-03-14 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Locks	Canceled		
 34624	2004061055436	2004-05-05 00:00:00	2004-04-14 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	34.17	Other	Canceled		
-34749	2004061655995	2004-05-05 00:00:00	2004-04-16 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	134.97	Clothing & Accessories	Settled	67.5	Settle
-35648	2004061756106	2004-05-19 00:00:00	2004-04-22 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	29.99	Clothing & Accessories	Denied	0.0	Deny
-35913	2004061856276	2004-05-27 00:00:00	2004-03-19 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Supplies	Approved	45.0	Approve in Full
-36542	2004062256943	2004-05-28 00:00:00	2004-05-05 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	420.39	Electronics	Approved	420.39	Approve in Full
-38078	2004070658382	2004-06-16 00:00:00	2004-06-02 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	76.0	Cosmetics	Settled	38.0	Settle
-38094	2004070658477	2004-06-16 00:00:00	2004-06-07 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	240.0	Watches & Jewelry	Settled	151.61	Settle
-38667	2004071559410	2004-06-24 00:00:00	2004-05-27 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	78.48	Clothing & Accessories	Settled	39.24	Settle
+34749	2004061655995	2004-05-05 00:00:00	2004-04-16 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	134.97	Clothing - Shoes, belts, accessories, etc.	Settled	67.5	Settle
+35648	2004061756106	2004-05-19 00:00:00	2004-04-22 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	29.99	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+35913	2004061856276	2004-05-27 00:00:00	2004-03-19 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Medicines	Approved	45.0	Approve in Full
+36542	2004062256943	2004-05-28 00:00:00	2004-05-05 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	420.39	Cameras - Digital	Approved	420.39	Approve in Full
+38078	2004070658382	2004-06-16 00:00:00	2004-06-02 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	76.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	38.0	Settle
+38094	2004070658477	2004-06-16 00:00:00	2004-06-07 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	240.0	Jewelry - Fine	Settled	151.61	Settle
+38667	2004071559410	2004-06-24 00:00:00	2004-05-27 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	78.48	Clothing - Shoes, belts, accessories, etc.	Settled	39.24	Settle
 38822	2004071659594	2004-06-28 00:00:00	2004-05-29 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Other	Settled	40.0	Settle
 39279	2004071959742	2004-07-06 00:00:00	2004-06-02 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	50.0	Other	Settled	48.16	Settle
-39587	2004081161167	2004-07-09 00:00:00	2004-05-30 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Approved	50.0	Approve in Full
-39671	2004073060267	2004-07-09 00:00:00	2004-06-26 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	2743.0	Watches & Jewelry	Denied	0.0	Deny
-39775	2004072760085	2004-07-09 00:00:00	2004-06-28 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	775.0	Watches & Jewelry	Settled	565.0	Settle
+39587	2004081161167	2004-07-09 00:00:00	2004-05-30 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	50.0	Approve in Full
+39671	2004073060267	2004-07-09 00:00:00	2004-06-26 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	2743.0	Jewelry - Fine	Denied	0.0	Deny
+39775	2004072760085	2004-07-09 00:00:00	2004-06-28 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	775.0	Jewelry - Fine	Settled	565.0	Settle
 40264	2004080960757	2004-07-15 00:00:00	2004-06-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	51.6	Other	Denied	0.0	Deny
-40505	2004081060976	2004-07-20 00:00:00	2004-07-10 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
-40610	2004081061049	2004-07-20 00:00:00	2004-04-12 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Denied	0.0	Deny
-41359	2004083161668	2004-08-03 00:00:00	2004-07-14 00:00:00	PVD	TF Green Airport, Providence	American Eagle	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
-42418	2004091362703	2004-08-10 00:00:00	2004-06-13 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Theft	Checked Baggage	160.0	Clothing & Accessories	Settled	80.0	Settle
+40505	2004081060976	2004-07-20 00:00:00	2004-07-10 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	35.0	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
+40610	2004081061049	2004-07-20 00:00:00	2004-04-12 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	80.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+41359	2004083161668	2004-08-03 00:00:00	2004-07-14 00:00:00	PVD	TF Green Airport, Providence	American Eagle	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+42418	2004091362703	2004-08-10 00:00:00	2004-06-13 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Theft	Checked Baggage	160.0	Clothing - Shoes, belts, accessories, etc.	Settled	80.0	Settle
 42745	2004092263414	2004-08-19 00:00:00	2004-04-28 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	12.99	Other	Approved	12.99	Approve in Full
-42805	2004102765714	2004-08-19 00:00:00	2004-06-16 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint	10000.0	Watches & Jewelry	Approved	10000.0	Approve in Full
+42805	2004102765714	2004-08-19 00:00:00	2004-06-16 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint	10000.0	Jewelry - Fine	Approved	10000.0	Approve in Full
 43378	2004091362762	2004-08-26 00:00:00	2004-07-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	74.99	Other	Approved	74.99	Approve in Full
-43609	2004092163265	2004-08-31 00:00:00	2004-06-21 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	1869.0	Watches & Jewelry	Approved	1869.0	Approve in Full
+43609	2004092163265	2004-08-31 00:00:00	2004-06-21 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	1869.0	Jewelry - Fine	Approved	1869.0	Approve in Full
 44102	2004102065371	2004-09-09 00:00:00	2004-08-16 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	39.1	Other	Approved	39.1	Approve in Full
-44211	2004100664729	2004-09-09 00:00:00	2004-07-24 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	2684.0	Electronics	Denied		Deny
-44685	2004092964173	2004-09-13 00:00:00	2004-07-28 00:00:00	PVD	TF Green Airport, Providence		Passenger Theft	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
-45712	2004093064271	2004-09-23 00:00:00	2004-08-02 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Theft	Checkpoint	65.0	Clothing & Accessories	Denied		Deny
-47758	2004120568572	2004-10-20 00:00:00	2004-03-16 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	43.0	Watches & Jewelry	Approved	43.0	Approve in Full
-47939	2004120568549	2004-10-20 00:00:00	2004-10-06 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	125.0	Clothing & Accessories	Settled	93.75	Settle
-48238	2004121469101	2004-10-26 00:00:00	2004-08-09 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	27.18	Tools & Machines	Approved	27.18	Approve in Full
-48405	2004122170092	2004-10-27 00:00:00	2004-10-21 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	53.89	Supplies	Approved	53.89	Approve in Full
+44211	2004100664729	2004-09-09 00:00:00	2004-07-24 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	2684.0	Computer - Laptop	Denied		Deny
+44685	2004092964173	2004-09-13 00:00:00	2004-07-28 00:00:00	PVD	TF Green Airport, Providence		Passenger Theft	Checked Baggage	15.0	Locks	Denied	0.0	Deny
+45712	2004093064271	2004-09-23 00:00:00	2004-08-02 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Theft	Checkpoint	65.0	Clothing - Shoes, belts, accessories, etc.	Denied		Deny
+47758	2004120568572	2004-10-20 00:00:00	2004-03-16 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	43.0	Jewelry - Fine	Approved	43.0	Approve in Full
+47939	2004120568549	2004-10-20 00:00:00	2004-10-06 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	125.0	Eyeglasses - (including contact lenses)	Settled	93.75	Settle
+48238	2004121469101	2004-10-26 00:00:00	2004-08-09 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	27.18	Locks	Approved	27.18	Approve in Full
+48405	2004122170092	2004-10-27 00:00:00	2004-10-21 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	53.89	Medicines	Approved	53.89	Approve in Full
 48730	2004122169904	2004-10-29 00:00:00	2004-10-20 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-49142	2004122069334	2004-11-04 00:00:00	2004-09-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	6300.0	Watches & Jewelry	Denied	0.0	Deny
+49142	2004122069334	2004-11-04 00:00:00	2004-09-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	6300.0	Jewelry - Fine	Denied	0.0	Deny
 49541	2005010572738	2004-11-09 00:00:00	2004-10-04 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	59.85	Other	Approved	59.85	Approve in Full
-51610	2005010372178	2004-12-10 00:00:00	2004-12-04 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	34.5	Clothing & Accessories	Approved	34.5	Approve in Full
-51781	2005010372163	2004-12-13 00:00:00	2004-11-15 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
+51610	2005010372178	2004-12-10 00:00:00	2004-12-04 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	34.5	Clothing - Shoes, belts, accessories, etc.	Approved	34.5	Approve in Full
+51781	2005010372163	2004-12-13 00:00:00	2004-11-15 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
 52039	2005010372189	2004-12-14 00:00:00	2004-12-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	130.0	Other	Denied	0.0	Deny
-54145	2005020375616	2005-01-11 00:00:00	2004-12-31 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	59.99	Clothing & Accessories	Canceled	0.0	
-59490	2005032980386	2005-03-16 00:00:00	2004-11-15 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	462.06	Electronics	Denied	0.0	Deny
-59746	2005033080559	2005-03-22 00:00:00	2005-01-02 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	1089.0	Watches & Jewelry	Denied	0.0	Deny
-61087	2005040882039	2005-04-06 00:00:00	2005-03-07 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	1459.98	Electronics	Denied	0.0	Deny
-61108	2005041182115	2005-04-06 00:00:00	2005-03-12 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
-64490	2005052485416	2005-05-23 00:00:00	2005-05-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	15.0	Cosmetics	Approved	15.0	Approve in Full
-65100	2005072789744	2005-05-31 00:00:00	2005-05-16 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	579.85	Electronics	Settled	153.96	Settle
-65558	2005062086596	2005-06-06 00:00:00	2004-12-05 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	3500.0	Watches & Jewelry	Denied	0.0	Deny
-66042	2005062487097	2005-06-13 00:00:00	2005-05-05 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	356.24	Electronics	Denied	0.0	Deny
-66574	2005062887562	2005-06-21 00:00:00	2005-05-26 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Approved	45.0	Approve in Full
-67072	2005063087910	2005-06-28 00:00:00	2005-06-16 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	37.98	Clothing & Accessories	Denied	0.0	Deny
+54145	2005020375616	2005-01-11 00:00:00	2004-12-31 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	59.99	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+59490	2005032980386	2005-03-16 00:00:00	2004-11-15 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	462.06	Cameras - Digital	Denied	0.0	Deny
+59746	2005033080559	2005-03-22 00:00:00	2005-01-02 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	1089.0	Jewelry - Fine	Denied	0.0	Deny
+61087	2005040882039	2005-04-06 00:00:00	2005-03-07 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	1459.98	Computer - Laptop	Denied	0.0	Deny
+61108	2005041182115	2005-04-06 00:00:00	2005-03-12 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+64490	2005052485416	2005-05-23 00:00:00	2005-05-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	15.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	15.0	Approve in Full
+65100	2005072789744	2005-05-31 00:00:00	2005-05-16 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	579.85	Cameras - Digital	Settled	153.96	Settle
+65558	2005062086596	2005-06-06 00:00:00	2004-12-05 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	3500.0	Jewelry - Fine	Denied	0.0	Deny
+66042	2005062487097	2005-06-13 00:00:00	2005-05-05 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	356.24	Cell Phones	Denied	0.0	Deny
+66574	2005062887562	2005-06-21 00:00:00	2005-05-26 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	45.0	Clothing - Shoes, belts, accessories, etc.	Approved	45.0	Approve in Full
+67072	2005063087910	2005-06-28 00:00:00	2005-06-16 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	37.98	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 67187	2005070188051	2005-06-29 00:00:00	2005-06-16 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	99.99	Other	Denied	0.0	Deny
 67522	2005071188531	2005-07-06 00:00:00	2005-06-12 00:00:00	PVD	TF Green Airport, Providence	Independence Air	Passenger Property Loss	Other	46.2	Other	Denied	0.0	Deny
 68270	2005072089313	2005-07-18 00:00:00	2005-06-18 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	772.35	Other	Canceled	0.0	
-69186	2005080990250	2005-08-01 00:00:00	2005-07-16 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	430.7	Electronics	Denied	0.0	Deny
-69562	2005081790703	2005-08-05 00:00:00	2005-07-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.99	Tools & Machines	Approved	8.99	Approve in Full
-69774	2005081990986	2005-08-09 00:00:00	2005-05-24 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	132.0	Clothing & Accessories	Approved	132.0	Approve in Full
+69186	2005080990250	2005-08-01 00:00:00	2005-07-16 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	430.7	Cameras - Digital	Denied	0.0	Deny
+69562	2005081790703	2005-08-05 00:00:00	2005-07-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.99	Locks	Approved	8.99	Approve in Full
+69774	2005081990986	2005-08-09 00:00:00	2005-05-24 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	132.0	Clothing - Shoes, belts, accessories, etc.	Approved	132.0	Approve in Full
 70451	2005082591451	2005-08-19 00:00:00	2005-05-11 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	258.38	Other	Denied	0.0	Deny
-70615	2005082991659	2005-08-23 00:00:00	2005-07-26 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	10.02	Tools & Machines	Denied	0.0	Deny
+70615	2005082991659	2005-08-23 00:00:00	2005-07-26 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	10.02	Locks	Denied	0.0	Deny
 71496	2005091992773	2005-09-08 00:00:00	2005-08-17 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	124.0	Other	Approved	124.0	Approve in Full
-71659	2005091992801	2005-09-09 00:00:00	2005-08-23 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+71659	2005091992801	2005-09-09 00:00:00	2005-08-23 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
 72042	2005092193084	2005-09-14 00:00:00	2005-09-05 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Other	Settled	165.77	Settle
 72763	2005100493965	2005-09-27 00:00:00	2005-08-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	607.58	Other	Approved	607.58	Approve in Full
-73668	2005101894823	2005-10-12 00:00:00	2005-08-09 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checkpoint	1715.0	Other	Denied	0.0	Deny
-73921	2005102595159	2005-10-17 00:00:00	2005-09-18 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	279.8	Electronics	Denied	0.0	Deny
-74008	2005102495088	2005-10-18 00:00:00	2005-09-07 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	209.01	Electronics	Denied	0.0	Deny
+73668	2005101894823	2005-10-12 00:00:00	2005-08-09 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checkpoint	1715.0	Currency	Denied	0.0	Deny
+73921	2005102595159	2005-10-17 00:00:00	2005-09-18 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	279.8	Cameras - Digital	Denied	0.0	Deny
+74008	2005102495088	2005-10-18 00:00:00	2005-09-07 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checked Baggage	209.01	Cameras - Digital	Denied	0.0	Deny
 75364	2005112896538	2005-11-14 00:00:00	2005-10-11 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	62.99	Other	Approved	62.99	Approve in Full
-75366	2005112896554	2005-11-14 00:00:00	2005-10-25 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	10.67	Tools & Machines	Approved	10.67	Approve in Full
+75366	2005112896554	2005-11-14 00:00:00	2005-10-25 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	10.67	Locks	Approved	10.67	Approve in Full
 75703	2005120196769	2005-11-18 00:00:00	2005-09-22 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	69.99	Other	Denied	0.0	Deny
-76805	2005121497785	2005-12-08 00:00:00	2005-11-13 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Watches & Jewelry	Denied	0.0	Deny
-77590	2006010598844	2005-12-23 00:00:00	2005-10-30 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
-78626	2006011899737	2006-01-11 00:00:00	2006-01-01 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-78705	2006012099861	2006-01-12 00:00:00	2005-11-15 00:00:00	PVD	TF Green Airport, Providence	Independence Air	Passenger Property Loss	Checked Baggage	690.0	Watches & Jewelry	Denied	0.0	Deny
-80822	2006022201948	2006-02-16 00:00:00	2006-01-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Denied	0.0	Deny
-82221	2006032103415	2006-03-14 00:00:00	2006-03-02 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1859.93	Electronics	Denied	0.0	Deny
-84417	2006050105452	2006-04-26 00:00:00	2006-04-03 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	399.94	Electronics	Settled	176.09	Settle
-85445	2006052206688	2006-05-18 00:00:00	2006-05-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-85534	2006052206714	2006-05-18 00:00:00	2006-04-23 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories,Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-85639	2006052406902	2006-05-22 00:00:00	2006-05-17 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
+76805	2005121497785	2005-12-08 00:00:00	2005-11-13 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Jewelry - Fine	Denied	0.0	Deny
+77590	2006010598844	2005-12-23 00:00:00	2005-10-30 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	1000.0	Jewelry - Fine	Denied	0.0	Deny
+78626	2006011899737	2006-01-11 00:00:00	2006-01-01 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Currency	Denied	0.0	Deny
+78705	2006012099861	2006-01-12 00:00:00	2005-11-15 00:00:00	PVD	TF Green Airport, Providence	Independence Air	Passenger Property Loss	Checked Baggage	690.0	Jewelry - Fine	Denied	0.0	Deny
+80822	2006022201948	2006-02-16 00:00:00	2006-01-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+82221	2006032103415	2006-03-14 00:00:00	2006-03-02 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1859.93	Computer - Laptop	Denied	0.0	Deny
+84417	2006050105452	2006-04-26 00:00:00	2006-04-03 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	399.94	Cameras - Digital	Settled	176.09	Settle
+85445	2006052206688	2006-05-18 00:00:00	2006-05-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+85534	2006052206714	2006-05-18 00:00:00	2006-04-23 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checkpoint		Eyeglasses - (including contact lenses)*Watches - Expensive more than $100	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+85639	2006052406902	2006-05-22 00:00:00	2006-05-17 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Denied	0.0	Deny
 87657	2006070508880	2006-06-30 00:00:00		PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-88185	2006071309362	2006-07-11 00:00:00	2005-12-29 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checkpoint	5500.0	Watches & Jewelry	Denied	0.0	Deny
-88910	2006072710187	2006-07-25 00:00:00	2006-06-27 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checkpoint	1511.6	Outdoors Supplies	Denied	0.0	Deny
-89040	2006080110290	2006-07-27 00:00:00	2006-07-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	2500.0	Electronics	Denied	0.0	Deny
+88185	2006071309362	2006-07-11 00:00:00	2005-12-29 00:00:00	PVD	TF Green Airport, Providence	Spirit Airlines	Passenger Property Loss	Checkpoint	5500.0	Jewelry - Fine	Denied	0.0	Deny
+88910	2006072710187	2006-07-25 00:00:00	2006-06-27 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checkpoint	1511.6	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+89040	2006080110290	2006-07-27 00:00:00	2006-07-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	2500.0	Hearing Aids	Denied	0.0	Deny
 89320	2006080810593	2006-08-02 00:00:00	2006-07-05 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	89.0	Other	Denied	0.0	Deny
-89764	2006081611134	2006-08-11 00:00:00	2006-07-24 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	910.94	Electronics	Denied	0.0	Deny
+89764	2006081611134	2006-08-11 00:00:00	2006-07-24 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	910.94	Computer - Laptop	Denied	0.0	Deny
 90371	2006082511568	2006-08-23 00:00:00	2006-08-14 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	312.81	Other	Approved	312.81	Approve in Full
-90426	2006082511589	2006-08-23 00:00:00	2006-08-20 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	220.0	Electronics	Settled	163.66	Settle
-90557	2006090111924	2006-08-25 00:00:00	2006-08-01 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	10.0	Clothing & Accessories	Denied	0.0	Deny
-90743	2006082911727	2006-08-29 00:00:00	2006-07-24 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint	599.0	Electronics	Settled	149.75	Settle
-91341	2006091912796	2006-09-11 00:00:00	2006-09-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	329.0	Clothing & Accessories	Canceled	0.0	
-92016	2006092613256	2006-09-22 00:00:00	2006-09-18 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	77.0	Cosmetics,Outdoors Supplies,Outdoors Supplies	Denied	0.0	Deny
+90426	2006082511589	2006-08-23 00:00:00	2006-08-20 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	220.0	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	163.66	Settle
+90557	2006090111924	2006-08-25 00:00:00	2006-08-01 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	10.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+90743	2006082911727	2006-08-29 00:00:00	2006-07-24 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint	599.0	Cameras - Digital	Settled	149.75	Settle
+91341	2006091912796	2006-09-11 00:00:00	2006-09-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	329.0	Eyeglasses - (including contact lenses)	Canceled	0.0	
+92016	2006092613256	2006-09-22 00:00:00	2006-09-18 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	77.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Tools - Manual (not in a vehicle)*Tools - Power (including air tools, not in a vehicle)	Denied	0.0	Deny
 92936	2006101914167	2006-10-12 00:00:00	2006-09-25 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.0	Other	Denied	0.0	Deny
-93360	2006102614602	2006-10-19 00:00:00	2006-10-07 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Denied	0.0	Deny
-94662	2006112115904	2006-11-15 00:00:00	2006-07-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	439.95	Clothing & Accessories	Denied	0.0	Deny
-96861	2006122918192	2006-12-28 00:00:00	2006-12-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	163.78	Clothing & Accessories	Denied	0.0	Deny
-97262	2007010418342	2007-01-03 00:00:00	2006-12-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	840.0	Clothing & Accessories	Denied	0.0	Deny
-97446	2007010918492	2007-01-05 00:00:00	2006-09-25 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	1500.0	Watches & Jewelry	Denied	0.0	Deny
-98150	2007012319231	2007-01-16 00:00:00	2006-11-19 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	25.0	Watches & Jewelry	Denied	0.0	Deny
-98337	2007012419309	2007-01-18 00:00:00	2006-12-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	130.57	Other,Other,Other	Denied	0.0	Deny
-98456	2007012519526	2007-01-19 00:00:00	2006-11-24 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	342.36	Electronics,Electronics	Settled	135.99	Settle
-99193	2007020520225	2007-02-01 00:00:00	2007-12-14 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	2800.0	Watches & Jewelry	Denied	0.0	Deny
-101866	2007032823153	2007-03-26 00:00:00	2007-03-09 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	640.0	Cosmetics,Scientific Intruments	Denied	0.0	Deny
-102357	2007040623580	2007-04-04 00:00:00	2007-03-05 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	852.27	Electronics,Electronics	Denied	0.0	Deny
-105220	2007060626410	2007-06-04 00:00:00	2007-05-23 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	47.0	Cosmetics	Denied	0.0	Deny
-108890	2007081530279	2007-08-13 00:00:00	2007-07-26 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.95	Tools & Machines	Approved	20.95	Approve in Full
-109873	2007090631471	2007-08-29 00:00:00	2007-08-13 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	13.0	Tools & Machines	Approved	13.0	Approve in Full
-110259	2007091231753	2007-09-06 00:00:00	2007-08-24 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	324.95	Clothing & Accessories	Approved	324.95	Approve in Full
-111215	2007092832746	2007-09-24 00:00:00	2007-09-16 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	350.0	Watches & Jewelry	Denied	0.0	Deny
+93360	2006102614602	2006-10-19 00:00:00	2006-10-07 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+94662	2006112115904	2006-11-15 00:00:00	2006-07-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	439.95	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+96861	2006122918192	2006-12-28 00:00:00	2006-12-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	163.78	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+97262	2007010418342	2007-01-03 00:00:00	2006-12-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	840.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+97446	2007010918492	2007-01-05 00:00:00	2006-09-25 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	1500.0	Jewelry - Fine	Denied	0.0	Deny
+98150	2007012319231	2007-01-16 00:00:00	2006-11-19 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	25.0	Jewelry - Costume	Denied	0.0	Deny
+98337	2007012419309	2007-01-18 00:00:00	2006-12-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	130.57	Currency*Other*Other	Denied	0.0	Deny
+98456	2007012519526	2007-01-19 00:00:00	2006-11-24 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	342.36	Cameras - Digital*Video Recordings (blank & commercial)	Settled	135.99	Settle
+99193	2007020520225	2007-02-01 00:00:00	2007-12-14 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	2800.0	Jewelry - Fine	Denied	0.0	Deny
+101866	2007032823153	2007-03-26 00:00:00	2007-03-09 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	640.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Dental Equipment and Instruments	Denied	0.0	Deny
+102357	2007040623580	2007-04-04 00:00:00	2007-03-05 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	852.27	Cameras - Digital*Computer - Laptop	Denied	0.0	Deny
+105220	2007060626410	2007-06-04 00:00:00	2007-05-23 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checked Baggage	47.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+108890	2007081530279	2007-08-13 00:00:00	2007-07-26 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.95	Locks	Approved	20.95	Approve in Full
+109873	2007090631471	2007-08-29 00:00:00	2007-08-13 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	13.0	Locks	Approved	13.0	Approve in Full
+110259	2007091231753	2007-09-06 00:00:00	2007-08-24 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint	324.95	Eyeglasses - (including contact lenses)	Approved	324.95	Approve in Full
+111215	2007092832746	2007-09-24 00:00:00	2007-09-16 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	350.0	Jewelry - Fine	Denied	0.0	Deny
 111472	2007091131634	2007-10-01 00:00:00	2007-08-24 00:00:00	PVD	TF Green Airport, Providence	Cape Air	Passenger Property Loss	Checked Baggage	189.0	Other	Denied	0.0	Deny
-111608	2007100332889	2007-10-02 00:00:00	2007-02-16 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	98.0	Cosmetics	Settled	24.5	Settle
+111608	2007100332889	2007-10-02 00:00:00	2007-02-16 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	98.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	24.5	Settle
 112726	2007103034122	2007-10-25 00:00:00	2007-10-17 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	210.0	Other	Denied	0.0	Deny
-113447	2007111635087	2007-11-08 00:00:00	2007-08-09 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	125.18	Clothing & Accessories	Denied	0.0	Deny
-113730	2007112035249	2007-11-15 00:00:00	2007-10-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	10.0	Tools & Machines	Approved	10.0	Approve in Full
+113447	2007111635087	2007-11-08 00:00:00	2007-08-09 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage	125.18	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+113730	2007112035249	2007-11-15 00:00:00	2007-10-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	10.0	Locks	Approved	10.0	Approve in Full
 115616	2007123137108	2007-12-26 00:00:00	2007-12-20 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	119.99	Other	Denied	0.0	Deny
 117642	2008020139021	2008-01-31 00:00:00	2008-01-25 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	290.0	Other	Denied	0.0	Deny
-117729	2008020739260	2008-02-01 00:00:00	2007-12-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.48	Tools & Machines	Denied	0.0	Deny
-117895	2008021239427	2008-02-05 00:00:00	2008-01-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Denied	0.0	Deny
-118022	2008021339553	2008-02-08 00:00:00	2008-01-26 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Games & Toys	Denied	0.0	Deny
-118570	2008022640154	2008-02-20 00:00:00	2008-01-27 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	729.94	Games & Toys	Denied	0.0	Deny
-120064	2008040141651	2008-03-21 00:00:00	2007-10-10 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checkpoint	209.99	Electronics	Denied	0.0	Deny
-120536	2008040942262	2008-03-31 00:00:00	2008-03-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	2500.0	Other,Other	Denied	0.0	Deny
-122465	2008051344157	2008-05-07 00:00:00	2008-05-01 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	4.83	Tools & Machines	Denied	0.0	Deny
+117729	2008020739260	2008-02-01 00:00:00	2007-12-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.48	Locks	Denied	0.0	Deny
+117895	2008021239427	2008-02-05 00:00:00	2008-01-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	GPS - Global Positioning System	Denied	0.0	Deny
+118022	2008021339553	2008-02-08 00:00:00	2008-01-26 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+118570	2008022640154	2008-02-20 00:00:00	2008-01-27 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	729.94	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+120064	2008040141651	2008-03-21 00:00:00	2007-10-10 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checkpoint	209.99	Cameras - Digital	Denied	0.0	Deny
+120536	2008040942262	2008-03-31 00:00:00	2008-03-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	2500.0	Currency*Other	Denied	0.0	Deny
+122465	2008051344157	2008-05-07 00:00:00	2008-05-01 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	4.83	Locks	Denied	0.0	Deny
 123423	2008060245106	2008-05-28 00:00:00	2008-05-14 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	164.76	Other	Denied	0.0	Deny
-124468	2008070346557	2008-06-23 00:00:00	2008-06-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Other,Cosmetics	Canceled	0.0	
-125515	2008072147177	2008-07-15 00:00:00	2008-05-21 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	71.16	Scientific Intruments	Approved	71.16	Approve in Full
-125799	2008072547415	2008-07-22 00:00:00	2008-05-19 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checkpoint	275.84	Clothing & Accessories	Denied	0.0	Deny
-126730	2008082148921	2008-08-10 00:00:00	2008-07-24 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	102.58	Clothing & Accessories	Denied	0.0	Deny
-126834	2008081348550	2008-08-12 00:00:00	2008-08-09 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	68.0	Outdoors Supplies	Denied	0.0	Deny
-127202	2008082549058	2008-08-20 00:00:00	2008-07-31 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	357.88	Electronics,Other,Other	Denied	0.0	Deny
-127755	2008090449485	2008-09-03 00:00:00	2008-06-16 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	57.22	Clothing & Accessories	Denied	0.0	Deny
-128414	2008092550487	2008-09-17 00:00:00	2008-09-06 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1724.05	Electronics,Electronics,Electronics,Electronics	Denied	0.0	Deny
-128713	2008092550489	2008-09-25 00:00:00	2008-09-05 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	167.98	Clothing & Accessories,Games & Toys	Denied	0.0	Deny
+124468	2008070346557	2008-06-23 00:00:00	2008-06-12 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Other*Razors (other than electric)	Canceled	0.0	
+125515	2008072147177	2008-07-15 00:00:00	2008-05-21 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	71.16	Medical Equipment & Insturments	Approved	71.16	Approve in Full
+125799	2008072547415	2008-07-22 00:00:00	2008-05-19 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checkpoint	275.84	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+126730	2008082148921	2008-08-10 00:00:00	2008-07-24 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checkpoint	102.58	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+126834	2008081348550	2008-08-12 00:00:00	2008-08-09 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	68.0	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+127202	2008082549058	2008-08-20 00:00:00	2008-07-31 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	357.88	Cameras - Digital*Currency*Other	Denied	0.0	Deny
+127755	2008090449485	2008-09-03 00:00:00	2008-06-16 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	57.22	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+128414	2008092550487	2008-09-17 00:00:00	2008-09-06 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1724.05	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Computer - Laptop*GPS - Global Positioning System	Denied	0.0	Deny
+128713	2008092550489	2008-09-25 00:00:00	2008-09-05 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	167.98	Clothing - Shoes, belts, accessories, etc.*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
 128998	2008100650838	2008-10-02 00:00:00	2007-05-05 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	8190.0	Other	Denied	0.0	Deny
-129705	2008102251422	2008-10-21 00:00:00	2008-10-17 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	2000.0	Electronics,Other	Denied	0.0	Deny
-129838	2008110351665	2008-10-24 00:00:00	2008-10-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1602.81	Containers,Electronics,Containers,Containers,Other	Canceled	0.0	
+129705	2008102251422	2008-10-21 00:00:00	2008-10-17 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	2000.0	Computer - Laptop*Other	Denied	0.0	Deny
+129838	2008110351665	2008-10-24 00:00:00	2008-10-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1602.81	Bags - Fabric, plastic, etc. (not purses)*Computer - Laptop*Luggage (all types including footlockers)*Luggage (all types including footlockers)*Other	Canceled	0.0	
 129846	2008110351644	2008-10-24 00:00:00	2008-10-14 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	1885.0	Other	Denied	0.0	Deny
-129915	2008110451720	2008-10-27 00:00:00	2008-10-07 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	40000.0	Electronics,Electronics,Electronics,Other	Denied	0.0	Deny
-129989	2008110451822	2008-10-28 00:00:00	2008-10-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	312.98	Electronics,Tools & Machines,Containers	Denied	0.0	Deny
-129997	2008110451852	2008-10-28 00:00:00	2008-10-12 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	2004.38	Electronics,Electronics,Electronics	Denied	0.0	Deny
-131019	2008112852875	2008-11-24 00:00:00	2008-10-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	5008.0	Electronics,Electronics,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-132559	2009011354414	2009-01-07 00:00:00	2008-12-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Scientific Intruments	Denied	0.0	Deny
-133517	2009022455767	2009-01-29 00:00:00	2009-01-11 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	79.99	Household Items	Denied	0.0	Deny
-133909	2009022555813	2009-02-10 00:00:00	2008-12-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	3990.0	Watches & Jewelry	Denied	0.0	Deny
-134982	2009032757017	2009-03-11 00:00:00	2009-03-09 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	600.0	Household Items	Denied	0.0	Deny
-135174	2009040257147	2009-03-17 00:00:00	2008-12-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	134.0	Clothing & Accessories	Denied	0.0	Deny
-135466	2009041157364	2009-03-25 00:00:00	2009-02-20 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	10.95	Tools & Machines	Denied	0.0	Deny
-135486	2009041357456	2009-03-25 00:00:00	2009-02-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	3675.0	Containers,Containers,Watches & Jewelry	Denied	0.0	Deny
-136139	2009050158209	2009-04-10 00:00:00	2009-03-30 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Denied	0.0	Deny
-136888	2009051858901	2009-05-01 00:00:00	2009-04-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	93.0	Supplies	Denied	0.0	Deny
-137016	2009051958921	2009-05-06 00:00:00	2009-02-26 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	89.0	Clothing & Accessories	Denied	0.0	Deny
-137287	2009052159191	2009-05-15 00:00:00	2009-04-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.83	Tools & Machines	Approved	12.83	Approve in Full
-137604	2009052859548	2009-05-26 00:00:00	2009-04-21 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Denied	0.0	Deny
-137624	2009052959598	2009-05-26 00:00:00	2009-04-27 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	2500.0	Watches & Jewelry	Denied	0.0	Deny
+129915	2008110451720	2008-10-27 00:00:00	2008-10-07 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	40000.0	Audio - CD's*Cell Phones*Computer - Laptop*Other	Denied	0.0	Deny
+129989	2008110451822	2008-10-28 00:00:00	2008-10-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	312.98	Cameras - Digital*Locks*Luggage (all types including footlockers)	Denied	0.0	Deny
+129997	2008110451852	2008-10-28 00:00:00	2008-10-12 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	2004.38	Cameras - Digital*Computer - Laptop*GPS - Global Positioning System	Denied	0.0	Deny
+131019	2008112852875	2008-11-24 00:00:00	2008-10-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	5008.0	Computer - Laptop*GPS - Global Positioning System*Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+132559	2009011354414	2009-01-07 00:00:00	2008-12-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Medical Equipment & Insturments	Denied	0.0	Deny
+133517	2009022455767	2009-01-29 00:00:00	2009-01-11 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	79.99	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
+133909	2009022555813	2009-02-10 00:00:00	2008-12-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	3990.0	Watches - Expensive more than $100	Denied	0.0	Deny
+134982	2009032757017	2009-03-11 00:00:00	2009-03-09 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	600.0	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
+135174	2009040257147	2009-03-17 00:00:00	2008-12-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	134.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+135466	2009041157364	2009-03-25 00:00:00	2009-02-20 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	10.95	Baby - Strollers, car seats, playpen, etc.	Denied	0.0	Deny
+135486	2009041357456	2009-03-25 00:00:00	2009-02-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	3675.0	Bags - Fabric, plastic, etc. (not purses)*Boxes - Jewelry, Cigarette, Music, etc.*Jewelry - Fine	Denied	0.0	Deny
+136139	2009050158209	2009-04-10 00:00:00	2009-03-30 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+136888	2009051858901	2009-05-01 00:00:00	2009-04-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	93.0	Photographic Film	Denied	0.0	Deny
+137016	2009051958921	2009-05-06 00:00:00	2009-02-26 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage	89.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+137287	2009052159191	2009-05-15 00:00:00	2009-04-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.83	Locks	Approved	12.83	Approve in Full
+137604	2009052859548	2009-05-26 00:00:00	2009-04-21 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	80.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+137624	2009052959598	2009-05-26 00:00:00	2009-04-27 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	2500.0	Jewelry - Fine	Denied	0.0	Deny
 138568	2009062260454	2009-06-19 00:00:00	2009-06-12 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage	725.0	Other	Canceled	0.0	
-138759	2009070260813	2009-06-25 00:00:00	2009-05-22 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checkpoint	305.0	Clothing & Accessories	Approved	305.0	Approve in Full
-138821	2009070160790	2009-06-25 00:00:00	2009-05-24 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	395.0	Watches & Jewelry	Settled	197.5	Settle
-139292	2009071661314	2009-07-09 00:00:00	2009-03-22 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	67.37	Clothing & Accessories	Denied	0.0	Deny
-139625	2009072361678	2009-07-16 00:00:00	2009-07-01 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-139668	2009072761768	2009-07-20 00:00:00	2009-07-07 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-141993	2009092463956	2009-09-22 00:00:00	2009-08-22 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-142045	2009092964096	2009-09-23 00:00:00	2009-08-16 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	62.7	Clothing & Accessories	Denied	0.0	Deny
-142864	2009102964939	2009-10-22 00:00:00	2009-06-16 11:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Canceled		
-143500	2009112465658	2009-11-12 00:00:00	2009-08-13 13:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.8	Clothing & Accessories	Approved	39.8	Approve in Full
-143928	2009120365999	2009-11-23 00:00:00	2009-11-03 05:55:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	90.95	Clothing & Accessories	Denied	0.0	Deny
-144064	2009120366019	2009-11-27 00:00:00	2009-11-11 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Tools & Machines	Settled	20.0	Settle
-144223	2009120966341	2009-12-02 00:00:00	2009-11-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	150.0	Tools & Machines	Approved	150.0	Approve in Full
-144472	2009121766629	2009-12-09 00:00:00	2009-11-13 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	36.0	Electronics	Denied	0.0	Deny
-144784	2010031269519	2009-12-17 00:00:00	2009-08-01 17:08:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	330.0	Electronics	Denied	0.0	Deny
-144804	2009121866687	2009-12-18 00:00:00	2009-12-11 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.0	Tools & Machines	Denied	0.0	Deny
-144859	2009123066929	2009-12-22 00:00:00	2009-11-13 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	1427.4	Electronics,Clothing & Accessories,Tools & Machines,Containers	Denied	0.0	Deny
-146306	2010031069372	2010-03-03 00:00:00	2010-02-15 17:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		20.0	Approve in Full
-146457	2010031669620	2010-03-08 00:00:00	2010-01-12 16:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-146843	2010032670090	2010-03-18 00:00:00	2010-03-17 20:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-146959	2010032570052	2010-03-23 00:00:00	2010-02-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Food & Drink,Cosmetics		0.0	Deny
-148184	2010050471470	2010-04-28 00:00:00	2010-04-06 06:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-148475	2010051471780	2010-05-07 00:00:00	2010-05-07 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-150048	2010070773440	2010-06-28 00:00:00	2010-06-16 15:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+138759	2009070260813	2009-06-25 00:00:00	2009-05-22 00:00:00	PVD	TF Green Airport, Providence	Northwest Airlines	Passenger Property Loss	Checkpoint	305.0	Eyeglasses - (including contact lenses)	Approved	305.0	Approve in Full
+138821	2009070160790	2009-06-25 00:00:00	2009-05-24 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	395.0	Jewelry - Costume	Settled	197.5	Settle
+139292	2009071661314	2009-07-09 00:00:00	2009-03-22 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	67.37	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+139625	2009072361678	2009-07-16 00:00:00	2009-07-01 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+139668	2009072761768	2009-07-20 00:00:00	2009-07-07 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+141993	2009092463956	2009-09-22 00:00:00	2009-08-22 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Jewelry - Costume	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+142045	2009092964096	2009-09-23 00:00:00	2009-08-16 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage	62.7	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+142864	2009102964939	2009-10-22 00:00:00	2009-06-16 11:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	3000.0	Jewelry - Costume	Canceled		
+143500	2009112465658	2009-11-12 00:00:00	2009-08-13 13:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.8	Clothing - Shoes, belts, accessories, etc.	Approved	39.8	Approve in Full
+143928	2009120365999	2009-11-23 00:00:00	2009-11-03 05:55:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	90.95	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+144064	2009120366019	2009-11-27 00:00:00	2009-11-11 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Locks	Settled	20.0	Settle
+144223	2009120966341	2009-12-02 00:00:00	2009-11-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint	150.0	Baby - Strollers, car seats, playpen, etc.	Approved	150.0	Approve in Full
+144472	2009121766629	2009-12-09 00:00:00	2009-11-13 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	36.0	Video Recordings (blank & commercial)	Denied	0.0	Deny
+144784	2010031269519	2009-12-17 00:00:00	2009-08-01 17:08:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	330.0	Computer - Laptop	Denied	0.0	Deny
+144804	2009121866687	2009-12-18 00:00:00	2009-12-11 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.0	Locks	Denied	0.0	Deny
+144859	2009123066929	2009-12-22 00:00:00	2009-11-13 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage	1427.4	Audio - CD's*Clothing - Shoes, belts, accessories, etc.*Locks*Luggage (all types including footlockers)	Denied	0.0	Deny
+146306	2010031069372	2010-03-03 00:00:00	2010-02-15 17:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		20.0	Approve in Full
+146457	2010031669620	2010-03-08 00:00:00	2010-01-12 16:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+146843	2010032670090	2010-03-18 00:00:00	2010-03-17 20:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+146959	2010032570052	2010-03-23 00:00:00	2010-02-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras*Food & Drink*Travel Accessories		0.0	Deny
+148184	2010050471470	2010-04-28 00:00:00	2010-04-06 06:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+148475	2010051471780	2010-05-07 00:00:00	2010-05-07 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+150048	2010070773440	2010-06-28 00:00:00	2010-06-16 15:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Travel Accessories		0.0	Deny
 150342	2010071673770	2010-07-06 00:00:00	2010-06-04 12:55:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Other		3.72	Approve in Full
-151023	2010080574502	2010-07-26 00:00:00	2010-07-05 09:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-151265	2010080774654	2010-08-02 00:00:00	2010-07-15 06:15:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-151842	2010082575348	2010-08-17 00:00:00	2010-06-30 04:30:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-152927	2010092276311	2010-09-17 00:00:00	2010-09-06 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		12.26	Approve in Full
-153115	2010092976490	2010-09-23 00:00:00	2010-09-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
-153239	2010100376626	2010-09-28 00:00:00	2010-09-08 13:55:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-153912	2010102477308	2010-10-19 00:00:00	2010-10-13 10:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories			
-153940	2010102677392	2010-10-19 00:00:00	2010-09-16 17:30:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-154835	2010112878282	2010-11-17 00:00:00	2010-07-31 05:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+151023	2010080574502	2010-07-26 00:00:00	2010-07-05 09:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
+151265	2010080774654	2010-08-02 00:00:00	2010-07-15 06:15:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+151842	2010082575348	2010-08-17 00:00:00	2010-06-30 04:30:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+152927	2010092276311	2010-09-17 00:00:00	2010-09-06 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		12.26	Approve in Full
+153115	2010092976490	2010-09-23 00:00:00	2010-09-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Cosmetics & Grooming		0.0	Deny
+153239	2010100376626	2010-09-28 00:00:00	2010-09-08 13:55:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+153912	2010102477308	2010-10-19 00:00:00	2010-10-13 10:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing			
+153940	2010102677392	2010-10-19 00:00:00	2010-09-16 17:30:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
+154835	2010112878282	2010-11-17 00:00:00	2010-07-31 05:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
 156835	2011022280330	2011-01-24 00:00:00	2010-12-25 05:45:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-156844	2011022380390	2011-01-24 00:00:00	2010-12-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-157253	2011030280743	2011-02-04 00:00:00	2011-01-19 05:30:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		14.65	Approve in Full
-158090	2011033081561	2011-03-07 00:00:00	2011-02-08 10:15:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159957	2011051783474	2011-05-05 00:00:00	2011-04-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-160807	2011061684365	2011-06-03 00:00:00	2011-04-24 15:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Settle
-161121	2011061484299	2011-06-14 00:00:00	2011-05-15 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.65	Approve in Full
+156844	2011022380390	2011-01-24 00:00:00	2010-12-29 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+157253	2011030280743	2011-02-04 00:00:00	2011-01-19 05:30:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories		14.65	Approve in Full
+158090	2011033081561	2011-03-07 00:00:00	2011-02-08 10:15:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+159957	2011051783474	2011-05-05 00:00:00	2011-04-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+160807	2011061684365	2011-06-03 00:00:00	2011-04-24 15:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		50.0	Settle
+161121	2011061484299	2011-06-14 00:00:00	2011-05-15 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.65	Approve in Full
 161303	2011063084860	2011-06-20 00:00:00	2011-05-22 12:55:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-161960	2011072785569	2011-07-12 00:00:00	2011-06-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-162649	2011081886235	2011-08-02 00:00:00	2011-07-18 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-162991	2011090286717	2011-08-11 00:00:00	2011-07-30 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Cosmetics		8.65	Settle
-163033	2011081586155	2011-08-15 00:00:00	2011-07-25 16:15:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-164281	2011101487852	2011-09-27 00:00:00	2011-09-06 06:25:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-164873	2011101788014	2011-10-17 00:00:00	2011-09-06 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-164894	2011102788408	2011-10-17 00:00:00	2011-09-30 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		7.99	Approve in Full
-164907	2011102888537	2011-10-17 00:00:00	2011-09-04 05:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-166220	2011122289812	2011-12-02 00:00:00	2011-11-11 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checkpoint		Other,Watches & Jewelry		0.0	Deny
-166594	2012011190162	2011-12-15 00:00:00	2011-12-12 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-167605	2012020390672	2012-01-19 00:00:00	2011-12-21 17:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-169043	2012040992642	2012-03-07 00:00:00	2012-02-26 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-169186	2012041993041	2012-03-13 00:00:00	2012-03-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-169341	2012042693302	2012-03-19 00:00:00	2012-03-12 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		46.0	Approve in Full
-170504	2012052294136	2012-05-01 00:00:00	2012-03-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.59	Approve in Full
-170510	2012052294144	2012-05-01 00:00:00	2012-04-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.59	Approve in Full
-170827	2012053094413	2012-05-10 00:00:00	2012-02-21 12:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-171259	2012062394879	2012-05-29 00:00:00	2012-05-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-171556	2012071295299	2012-06-06 00:00:00	2012-01-19 13:25:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-171586	2012071295313	2012-06-07 00:00:00	2012-02-25 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics			
-171596	2012071295356	2012-06-07 00:00:00	2012-04-15 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-171841	2012071995519	2012-06-18 00:00:00	2012-04-05 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-171959	2012072595694	2012-06-20 00:00:00	2012-06-11 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.25	Approve in Full
-172158	2012080295856	2012-06-28 00:00:00	2012-05-27 05:30:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
-173552	2012092797207	2012-08-17 00:00:00	2012-07-27 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-174702	2012110898446	2012-09-27 00:00:00	2012-09-06 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		4.99	Approve in Full
+161960	2011072785569	2011-07-12 00:00:00	2011-06-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras			
+162649	2011081886235	2011-08-02 00:00:00	2011-07-18 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+162991	2011090286717	2011-08-11 00:00:00	2011-07-30 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Travel Accessories		8.65	Settle
+163033	2011081586155	2011-08-15 00:00:00	2011-07-25 16:15:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
+164281	2011101487852	2011-09-27 00:00:00	2011-09-06 06:25:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+164873	2011101788014	2011-10-17 00:00:00	2011-09-06 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+164894	2011102788408	2011-10-17 00:00:00	2011-09-30 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		7.99	Approve in Full
+164907	2011102888537	2011-10-17 00:00:00	2011-09-04 05:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+166220	2011122289812	2011-12-02 00:00:00	2011-11-11 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checkpoint		Currency*Jewelry & Watches		0.0	Deny
+166594	2012011190162	2011-12-15 00:00:00	2011-12-12 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+167605	2012020390672	2012-01-19 00:00:00	2011-12-21 17:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+169043	2012040992642	2012-03-07 00:00:00	2012-02-26 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+169186	2012041993041	2012-03-13 00:00:00	2012-03-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+169341	2012042693302	2012-03-19 00:00:00	2012-03-12 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		46.0	Approve in Full
+170504	2012052294136	2012-05-01 00:00:00	2012-03-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.59	Approve in Full
+170510	2012052294144	2012-05-01 00:00:00	2012-04-10 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.59	Approve in Full
+170827	2012053094413	2012-05-10 00:00:00	2012-02-21 12:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+171259	2012062394879	2012-05-29 00:00:00	2012-05-03 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+171556	2012071295299	2012-06-06 00:00:00	2012-01-19 13:25:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+171586	2012071295313	2012-06-07 00:00:00	2012-02-25 00:00:00	PVD	TF Green Airport, Providence	Continental Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cosmetics & Grooming			
+171596	2012071295356	2012-06-07 00:00:00	2012-04-15 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+171841	2012071995519	2012-06-18 00:00:00	2012-04-05 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Clothing			
+171959	2012072595694	2012-06-20 00:00:00	2012-06-11 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.25	Approve in Full
+172158	2012080295856	2012-06-28 00:00:00	2012-05-27 05:30:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checkpoint		Cosmetics & Grooming		0.0	Deny
+173552	2012092797207	2012-08-17 00:00:00	2012-07-27 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+174702	2012110898446	2012-09-27 00:00:00	2012-09-06 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		4.99	Approve in Full
 175404	2012120799163	2012-10-24 00:00:00	2012-09-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-175551	2012121199240	2012-10-31 00:00:00	2012-10-24 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-175822	2013010799559	2012-11-09 00:00:00	2012-07-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Other,Other		0.0	Deny
-176689	2013020400887	2012-12-13 00:00:00	2012-11-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-178500	2013022101867	2013-02-21 00:00:00	2013-01-24 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-178545	2013030402327	2013-02-22 00:00:00	2013-02-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		99.0	Approve in Full
+175551	2012121199240	2012-10-31 00:00:00	2012-10-24 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies			
+175822	2013010799559	2012-11-09 00:00:00	2012-07-01 00:00:00	PVD	TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Currency*Other		0.0	Deny
+176689	2013020400887	2012-12-13 00:00:00	2012-11-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+178500	2013022101867	2013-02-21 00:00:00	2013-01-24 00:00:00	PVD	TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+178545	2013030402327	2013-02-22 00:00:00	2013-02-21 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing		99.0	Approve in Full
 179353	2013040903077	2013-03-25 00:00:00	2013-02-23 07:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-179597	2013042303281	2013-04-03 00:00:00	2013-03-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		121.32	Settle
+179597	2013042303281	2013-04-03 00:00:00	2013-03-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Travel Accessories		121.32	Settle
 180100	2013052203793	2013-04-23 00:00:00	2013-04-09 06:15:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Other		20.0	Approve in Full
-180333	2013061104203	2013-05-01 00:00:00	2013-04-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-180519	2013061304318	2013-05-08 00:00:00	2013-04-13 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		175.99	Approve in Full
-182175	2013081005821	2013-07-08 00:00:00	2013-06-13 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		152.0	Approve in Full
+180333	2013061104203	2013-05-01 00:00:00	2013-04-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+180519	2013061304318	2013-05-08 00:00:00	2013-04-13 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		175.99	Approve in Full
+182175	2013081005821	2013-07-08 00:00:00	2013-06-13 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		152.0	Approve in Full
 182297	2013081605973	2013-07-15 00:00:00	2013-07-02 15:55:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-183198	2013091606952	2013-08-09 00:00:00	2013-08-02 16:30:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		14.77	Approve in Full
+183198	2013091606952	2013-08-09 00:00:00	2013-08-02 16:30:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		14.77	Approve in Full
 183515	2013101807474	2013-08-20 00:00:00	2013-08-17 15:20:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
-183685	2013082806345	2013-08-28 00:00:00	2013-07-09 12:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-184463	2013102808066	2013-09-24 00:00:00	2013-09-12 06:51:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
-184597	2013102808110	2013-09-30 00:00:00	2013-08-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Watches & Jewelry,Clothing & Accessories			
-184835	2013110808962	2013-10-15 00:00:00	2013-09-30 05:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-184856	2013111209162	2013-10-16 00:00:00	2013-09-28 13:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Household Items			
+183685	2013082806345	2013-08-28 00:00:00	2013-07-09 12:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+184463	2013102808066	2013-09-24 00:00:00	2013-09-12 06:51:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			
+184597	2013102808110	2013-09-30 00:00:00	2013-08-27 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Cosmetics & Grooming*Jewelry & Watches*Personal Accessories			
+184835	2013110808962	2013-10-15 00:00:00	2013-09-30 05:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+184856	2013111209162	2013-10-16 00:00:00	2013-09-28 13:30:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Household Items			
 184872	2013110608790	2013-10-17 00:00:00	2013-08-30 12:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-185396	2013111009078	2013-11-04 00:00:00	2013-10-23 23:49:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Food & Drink,Cosmetics			
+185396	2013111009078	2013-11-04 00:00:00	2013-10-23 23:49:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Clothing*Food & Drink*Travel Accessories			
 186071	2013120309762	2013-12-03 00:00:00	2013-11-24 19:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-186455	2013122710290	2013-12-18 00:00:00	2013-12-04 06:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-186559	2014010210397	2013-12-23 00:00:00	2013-12-23 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-187889	2014021211653	2014-02-07 00:00:00	2014-01-14 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-188472	2014030612247	2014-03-06 00:00:00	2013-12-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		24.15	Approve in Full
-188689	2014031412474	2014-03-13 00:00:00	2014-02-20 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-188717	2014031412503	2014-03-14 00:00:00	2014-01-26 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Games & Toys		104.0	Approve in Full
-189394	2014041413194	2014-04-09 00:00:00	2014-03-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-190432	2014052814250	2014-05-28 00:00:00	2014-05-14 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-190628	2014060614449	2014-06-02 00:00:00	2014-05-24 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-190648	2014060614469	2014-06-03 00:00:00	2014-05-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.35	Approve in Full
-191067	2014062614900	2014-06-18 00:00:00	2014-05-22 00:00:00	PVD	TF Green Airport, Providence	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-192628	2014091016496	2014-08-14 00:00:00	2014-07-26 00:00:00	PVD	TF Green Airport, Providence	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		25.44	Approve in Full
-193580	2014100717464	2014-09-29 00:00:00	2014-09-24 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss			Clothing & Accessories,Cosmetics,Other			
-193736	2014101417625	2014-10-08 00:00:00	2014-07-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-194360	2014110718259	2014-11-03 00:00:00	2014-10-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-202784	2015031721308	2015-03-17 00:00:00	2015-03-03 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Electronics		18.0	Settle
-202786	2015061923239	2015-06-10 00:00:00	2015-06-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-202788	2015070123597	2015-06-25 00:00:00	2015-06-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor,Watches & Jewelry		0.0	Deny
-202789	2015072124052	2015-07-10 00:00:00	2015-05-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items,Scientific Intruments		0.0	Deny
-202791	2015072824277	2015-07-22 00:00:00	2015-06-29 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		8.09	Approve in Full
-202793	2015100225843	2015-09-11 00:00:00	2015-09-09 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-211176	2016050931159	2016-04-13 00:00:00	2016-03-03 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-211177	2016052531720	2016-05-13 00:00:00	2016-05-06 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
-211178	2016061032158	2016-06-02 00:00:00	2016-05-21 14:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-211179	2016081833152	2016-07-08 00:00:00	2016-06-16 04:30:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-211180	2016072532860	2016-06-25 00:00:00	2016-06-17 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-211182	2016101934908	2016-08-18 00:00:00	2016-08-08 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-211185	2017011736574	2016-11-16 00:00:00	2016-11-06 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Tools & Machines			In Review
-211187	2017021337485	2017-01-03 00:00:00	2016-12-28 06:55:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-219428	2017102644759	2017-10-02 00:00:00	2017-09-30 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-219431	2017062741026	2017-05-05 00:00:00	2017-05-03 11:23:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Office Supplies,Clothing & Accessories,Household Decor			In Review
-219432	2017103144917	2017-10-05 00:00:00	2017-09-11 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-219433	2017071941702	2017-06-06 00:00:00	2017-05-27 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Containers		25.95	Approve in Full
-219436	2017090842786	2017-09-08 00:00:00	2017-09-08 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-219437	2017102644695	2017-10-09 00:00:00	2017-09-28 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Frontier Airlines	Passenger Property Loss	Checked Baggage		Food & Drink,Scientific Intruments,Other			In Review
-219441	2017101744471	2017-09-18 00:00:00	2017-09-15 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-219445	2017031537990	2017-01-24 00:00:00	2017-01-02 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Games & Toys		35.7	Approve in Full
-219448	2018010946614	2017-12-26 00:00:00	2017-10-30 15:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Not Provided	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
-219451	2017092843729	2017-08-28 00:00:00	2017-08-11 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219452	2017092843743	2017-08-28 00:00:00	2017-08-24 17:30:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
+186455	2013122710290	2013-12-18 00:00:00	2013-12-04 06:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+186559	2014010210397	2013-12-23 00:00:00	2013-12-23 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			
+187889	2014021211653	2014-02-07 00:00:00	2014-01-14 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+188472	2014030612247	2014-03-06 00:00:00	2013-12-20 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		24.15	Approve in Full
+188689	2014031412474	2014-03-13 00:00:00	2014-02-20 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+188717	2014031412503	2014-03-14 00:00:00	2014-01-26 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Toys & Games		104.0	Approve in Full
+189394	2014041413194	2014-04-09 00:00:00	2014-03-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+190432	2014052814250	2014-05-28 00:00:00	2014-05-14 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+190628	2014060614449	2014-06-02 00:00:00	2014-05-24 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+190648	2014060614469	2014-06-03 00:00:00	2014-05-31 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		14.35	Approve in Full
+191067	2014062614900	2014-06-18 00:00:00	2014-05-22 00:00:00	PVD	TF Green Airport, Providence	Jet Blue	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+192628	2014091016496	2014-08-14 00:00:00	2014-07-26 00:00:00	PVD	TF Green Airport, Providence	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing		25.44	Approve in Full
+193580	2014100717464	2014-09-29 00:00:00	2014-09-24 00:00:00	PVD	TF Green Airport, Providence	UAL	Passenger Property Loss			Clothing*Cosmetics & Grooming*Other			
+193736	2014101417625	2014-10-08 00:00:00	2014-07-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+194360	2014110718259	2014-11-03 00:00:00	2014-10-18 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+202784	2015031721308	2015-03-17 00:00:00	2015-03-03 00:00:00	PVD	TF Green Airport, Providence	USAir	Passenger Property Loss	Checked Baggage		Personal Electronics		18.0	Settle
+202786	2015061923239	2015-06-10 00:00:00	2015-06-04 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+202788	2015070123597	2015-06-25 00:00:00	2015-06-08 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Home Decor*Jewelry & Watches		0.0	Deny
+202789	2015072124052	2015-07-10 00:00:00	2015-05-19 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items*Medical/Science		0.0	Deny
+202791	2015072824277	2015-07-22 00:00:00	2015-06-29 00:00:00	PVD	TF Green Airport, Providence	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		8.09	Approve in Full
+202793	2015100225843	2015-09-11 00:00:00	2015-09-09 00:00:00	PVD	TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoor Items		0.0	Deny
+211176	2016050931159	2016-04-13 00:00:00	2016-03-03 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence		Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+211177	2016052531720	2016-05-13 00:00:00	2016-05-06 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing*Other		0.0	Deny
+211178	2016061032158	2016-06-02 00:00:00	2016-05-21 14:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+211179	2016081833152	2016-07-08 00:00:00	2016-06-16 04:30:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+211180	2016072532860	2016-06-25 00:00:00	2016-06-17 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+211182	2016101934908	2016-08-18 00:00:00	2016-08-08 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	UAL	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+211185	2017011736574	2016-11-16 00:00:00	2016-11-06 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Locks			In Review
+211187	2017021337485	2017-01-03 00:00:00	2016-12-28 06:55:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+219428	2017102644759	2017-10-02 00:00:00	2017-09-30 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies			In Review
+219431	2017062741026	2017-05-05 00:00:00	2017-05-03 11:23:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Books, Magazines & Other*Clothing*Home Decor			In Review
+219432	2017103144917	2017-10-05 00:00:00	2017-09-11 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+219433	2017071941702	2017-06-06 00:00:00	2017-05-27 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		25.95	Approve in Full
+219436	2017090842786	2017-09-08 00:00:00	2017-09-08 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+219437	2017102644695	2017-10-09 00:00:00	2017-09-28 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Frontier Airlines	Passenger Property Loss	Checked Baggage		Food & Drink*Medical/Science*Other			In Review
+219441	2017101744471	2017-09-18 00:00:00	2017-09-15 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			In Review
+219445	2017031537990	2017-01-24 00:00:00	2017-01-02 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checked Baggage		Toys & Games		35.7	Approve in Full
+219448	2018010946614	2017-12-26 00:00:00	2017-10-30 15:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Not Provided	Passenger Property Loss	Checked Baggage		Jewelry & Watches			Insufficient
+219451	2017092843729	2017-08-28 00:00:00	2017-08-11 00:00:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review
+219452	2017092843743	2017-08-28 00:00:00	2017-08-24 17:30:00	PVD	TF Green Airport, Providence TF Green Airport, Providence	American Airlines	Passenger Property Loss	Checkpoint		Computer & Accessories			In Review

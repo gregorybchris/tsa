@@ -1,31 +1,31 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-147856	2010042371134	2010-04-19 00:00:00	2010-03-27 00:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-155547	2010122279025	2010-12-13 00:00:00	2010-12-03 11:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		8.73	Approve in Full
-159272	2011041582711	2011-04-13 00:00:00	2011-01-11 00:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-160183	2011052383681	2011-05-13 00:00:00	2011-04-19 06:30:00	YUM	Yuma International Airport	Air Canada	Passenger Property Loss	Checked Baggage		Electronics		102.5	Settle
-160357	2011060183866	2011-05-19 00:00:00	2011-04-27 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-161483	2011070184917	2011-06-27 00:00:00	2011-05-04 22:00:00	YUM	Yuma International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+147856	2010042371134	2010-04-19 00:00:00	2010-03-27 00:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+155547	2010122279025	2010-12-13 00:00:00	2010-12-03 11:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories		8.73	Approve in Full
+159272	2011041582711	2011-04-13 00:00:00	2011-01-11 00:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+160183	2011052383681	2011-05-13 00:00:00	2011-04-19 06:30:00	YUM	Yuma International Airport	Air Canada	Passenger Property Loss	Checked Baggage		Personal Electronics		102.5	Settle
+160357	2011060183866	2011-05-19 00:00:00	2011-04-27 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+161483	2011070184917	2011-06-27 00:00:00	2011-05-04 22:00:00	YUM	Yuma International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
 161688	2011071485222	2011-07-01 00:00:00	2011-06-18 11:30:00	YUM	Yuma International Airport		Passenger Property Loss	Checked Baggage		Other		100.0	Approve in Full
 166596	2012011190164	2011-12-15 00:00:00	2011-12-10 09:30:00	YUM	Yuma International Airport		Passenger Property Loss	Checked Baggage		Other		35.0	Approve in Full
 169076	2012041092699	2012-03-08 00:00:00	2012-02-15 20:30:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Other			
 169236	2012041692887	2012-03-15 00:00:00	2012-02-15 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-171411	2012070395060	2012-06-01 00:00:00	2012-05-24 06:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checkpoint		Containers		21.35	Settle
-180261	2013061204290	2013-04-29 00:00:00	2013-04-01 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-182562	2013090406501	2013-07-19 00:00:00	2013-06-19 07:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		80.0	Approve in Full
-187292	2014012211044	2014-01-17 00:00:00	2014-01-12 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-187484	2014012911241	2014-01-23 00:00:00	2013-12-23 00:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-193412	2014100217294	2014-09-23 00:00:00	2014-09-11 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry		45.0	Approve in Full
-194816	2014112818730	2014-11-20 00:00:00	2014-11-07 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-204127	2015033121640	2015-03-30 00:00:00	2015-03-26 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		40.0	Approve in Full
+171411	2012070395060	2012-06-01 00:00:00	2012-05-24 06:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses		21.35	Settle
+180261	2013061204290	2013-04-29 00:00:00	2013-04-01 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+182562	2013090406501	2013-07-19 00:00:00	2013-06-19 07:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		80.0	Approve in Full
+187292	2014012211044	2014-01-17 00:00:00	2014-01-12 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+187484	2014012911241	2014-01-23 00:00:00	2013-12-23 00:00:00	YUM	Yuma International Airport	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+193412	2014100217294	2014-09-23 00:00:00	2014-09-11 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches		45.0	Approve in Full
+194816	2014112818730	2014-11-20 00:00:00	2014-11-07 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			
+204127	2015033121640	2015-03-30 00:00:00	2015-03-26 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		40.0	Approve in Full
 204128	2015042122048	2015-04-21 00:00:00	2015-03-15 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Other		149.99	Approve in Full
-204129	2015042722126	2015-04-27 00:00:00	2015-04-22 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-204132	2015080324457	2015-08-03 00:00:00	2015-03-19 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		106.99	Approve in Full
-204133	2015102126149	2015-10-01 00:00:00	2015-09-30 00:00:00	YUM	Yuma International Airport	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-212327	2016090733478	2016-07-22 00:00:00	2016-07-13 16:45:00	YUM	Yuma International Airport Yuma International Airport	American Eagle	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-212329	2017011936714	2016-11-23 00:00:00	2016-11-05 03:10:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry,Scientific Intruments			In Review
-212330	2016053131902	2016-05-20 00:00:00	2016-04-18 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		42.0	Settle
-220693	2017041838640	2017-04-05 00:00:00	2017-03-21 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-220694	2017022437702	2017-01-13 00:00:00	2017-01-06 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-220695	2017081542201	2017-08-15 00:00:00	2017-05-05 10:30:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
-220696	2017051039379	2017-03-16 00:00:00	2017-02-27 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-220697	2017041938697	2017-02-23 00:00:00	2017-02-16 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Closed: Canceled
+204129	2015042722126	2015-04-27 00:00:00	2015-04-22 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+204132	2015080324457	2015-08-03 00:00:00	2015-03-19 00:00:00	YUM	Yuma International Airport	USAir	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		106.99	Approve in Full
+204133	2015102126149	2015-10-01 00:00:00	2015-09-30 00:00:00	YUM	Yuma International Airport	American Airlines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
+212327	2016090733478	2016-07-22 00:00:00	2016-07-13 16:45:00	YUM	Yuma International Airport Yuma International Airport	American Eagle	Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
+212329	2017011936714	2016-11-23 00:00:00	2016-11-05 03:10:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Jewelry & Watches*Medical/Science			In Review
+212330	2016053131902	2016-05-20 00:00:00	2016-04-18 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		42.0	Settle
+220693	2017041838640	2017-04-05 00:00:00	2017-03-21 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+220694	2017022437702	2017-01-13 00:00:00	2017-01-06 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories			In Review
+220695	2017081542201	2017-08-15 00:00:00	2017-05-05 10:30:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checkpoint		Computer & Accessories			In Review
+220696	2017051039379	2017-03-16 00:00:00	2017-02-27 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Personal Navigation			In Review
+220697	2017041938697	2017-02-23 00:00:00	2017-02-16 00:00:00	YUM	Yuma International Airport Yuma International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			Closed: Canceled

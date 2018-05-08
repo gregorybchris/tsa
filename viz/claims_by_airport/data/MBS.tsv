@@ -1,40 +1,40 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-27405	0210332M	2004-02-10 00:00:00	2004-01-18 00:00:00	MBS	MBS International	Air France	Passenger Property Loss	Checked Baggage	155.0	Clothing & Accessories	Approved	155.0	Approve in Full
+27405	0210332M	2004-02-10 00:00:00	2004-01-18 00:00:00	MBS	MBS International	Air France	Passenger Property Loss	Checked Baggage	155.0	Clothing - Shoes, belts, accessories, etc.	Approved	155.0	Approve in Full
 39386	2004071959734	2004-07-07 00:00:00	2004-04-21 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checkpoint	199.99	Other	Denied	0.0	Deny
-47991	2004123071899	2004-10-20 00:00:00	2004-09-11 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Settled	37.5	Settle
-60932	2005040681755	2005-04-05 00:00:00	2005-02-24 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	542.61	Tools & Machines	Settled	148.8	Settle
-66561	2005062887459	2005-06-21 00:00:00	2005-06-07 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	87.0	Clothing & Accessories	Approved	87.0	Approve in Full
-67207	2005070188074	2005-06-29 00:00:00	2005-06-07 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	298.56	Electronics	Settled	74.64	Settle
-67276	2005070588150	2005-07-01 00:00:00	2005-06-04 00:00:00	MBS	MBS International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Approved	200.0	Approve in Full
+47991	2004123071899	2004-10-20 00:00:00	2004-09-11 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	70.0	Jewelry - Fine	Settled	37.5	Settle
+60932	2005040681755	2005-04-05 00:00:00	2005-02-24 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	542.61	Baby - Strollers, car seats, playpen, etc.	Settled	148.8	Settle
+66561	2005062887459	2005-06-21 00:00:00	2005-06-07 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	87.0	Clothing - Shoes, belts, accessories, etc.	Approved	87.0	Approve in Full
+67207	2005070188074	2005-06-29 00:00:00	2005-06-07 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	298.56	Cameras - Digital	Settled	74.64	Settle
+67276	2005070588150	2005-07-01 00:00:00	2005-06-04 00:00:00	MBS	MBS International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	200.0	Eyeglasses - (including contact lenses)	Approved	200.0	Approve in Full
 70850	2005083091910	2005-08-25 00:00:00	2005-07-14 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.99	Other	Denied	0.0	Deny
-71435	2005091992668	2005-09-07 00:00:00	2005-08-22 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	216.01	Electronics	Denied	0.0	Deny
-79575	2006020100759	2006-01-25 00:00:00	2006-01-13 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Settled	100.0	Settle
-83903	2006042505218	2006-04-17 00:00:00	2006-02-14 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-85439	2006051906656	2006-05-17 00:00:00	2006-05-05 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	378.1	Clothing & Accessories,Other	Settled	189.05	Settle
-85692	2006052507032	2006-05-23 00:00:00	2006-04-24 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Electronics	Approved	35.0	Approve in Full
+71435	2005091992668	2005-09-07 00:00:00	2005-08-22 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	216.01	Cameras - Digital	Denied	0.0	Deny
+79575	2006020100759	2006-01-25 00:00:00	2006-01-13 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing - Shoes, belts, accessories, etc.	Settled	100.0	Settle
+83903	2006042505218	2006-04-17 00:00:00	2006-02-14 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+85439	2006051906656	2006-05-17 00:00:00	2006-05-05 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	378.1	Clothing - Shoes, belts, accessories, etc.*Other	Settled	189.05	Settle
+85692	2006052507032	2006-05-23 00:00:00	2006-04-24 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Audio - Other (Phonograph, cassettes, etc)	Approved	35.0	Approve in Full
 85784	2006052607049	2006-05-24 00:00:00	2006-05-16 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	5.0	Other	Approved	5.0	Approve in Full
-87442	2006062808665	2006-06-28 00:00:00	2006-06-20 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
-89120	2006080210406	2006-07-31 00:00:00	2006-07-23 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines,Other	Approved	30.0	Approve in Full
-89195	2006080410545	2006-07-31 00:00:00	2006-07-11 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	39.12	Clothing & Accessories	Denied	0.0	Deny
-90677	2006083111874	2006-08-28 00:00:00	2006-08-15 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	183.18	Clothing & Accessories	Settled	91.59	Settle
-96346	2006122217710	2006-12-18 00:00:00	2006-10-13 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	378.35	Electronics,Electronics	Denied	0.0	Deny
-97335	2007010518376	2007-01-04 00:00:00	2006-12-18 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	317.99	Electronics	Denied	0.0	Deny
-97716	2007012219076	2007-01-09 00:00:00	2006-12-27 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.1	Tools & Machines	Approved	17.1	Approve in Full
-98024	2007012319118	2007-01-12 00:00:00	2006-10-29 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Electronics,Electronics	Denied	0.0	Deny
-98074	2007012319206	2007-01-16 00:00:00	2006-10-08 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	104.94	Clothing & Accessories	Approved	104.94	Approve in Full
-102574	2007041323965	2007-04-09 00:00:00	2007-01-25 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Games & Toys	Denied	0.0	Deny
-104251	2007051825599	2007-05-14 00:00:00	2007-05-05 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	245.0	Electronics	Denied	0.0	Deny
+87442	2006062808665	2006-06-28 00:00:00	2006-06-20 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	1000.0	Computer - Laptop	Denied	0.0	Deny
+89120	2006080210406	2006-07-31 00:00:00	2006-07-23 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Locks*Other	Approved	30.0	Approve in Full
+89195	2006080410545	2006-07-31 00:00:00	2006-07-11 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	39.12	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+90677	2006083111874	2006-08-28 00:00:00	2006-08-15 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	183.18	Eyeglasses - (including contact lenses)	Settled	91.59	Settle
+96346	2006122217710	2006-12-18 00:00:00	2006-10-13 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	378.35	Cameras - Digital*Video Recordings - Laser Discs	Denied	0.0	Deny
+97335	2007010518376	2007-01-04 00:00:00	2006-12-18 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	317.99	GPS - Global Positioning System	Denied	0.0	Deny
+97716	2007012219076	2007-01-09 00:00:00	2006-12-27 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.1	Locks	Approved	17.1	Approve in Full
+98024	2007012319118	2007-01-12 00:00:00	2006-10-29 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Batteries - Dry cell only*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+98074	2007012319206	2007-01-16 00:00:00	2006-10-08 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	104.94	Clothing - Shoes, belts, accessories, etc.	Approved	104.94	Approve in Full
+102574	2007041323965	2007-04-09 00:00:00	2007-01-25 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Stuffed Animals	Denied	0.0	Deny
+104251	2007051825599	2007-05-14 00:00:00	2007-05-05 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage	245.0	Video Recordings - Laser Discs	Denied	0.0	Deny
 110183	2007090631406	2007-09-05 00:00:00	2007-09-03 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	174.65	Other	Denied	0.0	Deny
-111951	2007101133268	2007-10-10 00:00:00	2007-10-03 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	138.5	Cosmetics,Other	Denied	0.0	Deny
-112165	2007101733516	2007-10-15 00:00:00	2007-09-24 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	102.4	Watches & Jewelry	Denied	0.0	Deny
-115155	2007121836631	2007-12-13 00:00:00	2007-09-28 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	2871.61	Watches & Jewelry,Outdoors Supplies	Denied	0.0	Deny
-116472	2008011537934	2008-01-09 00:00:00	2007-12-28 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	568.94	Electronics	Settled	284.47	Settle
-122850	2008052044589	2008-05-16 00:00:00	2008-05-11 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	643.01	Electronics,Electronics,Other	Canceled	0.0	
+111951	2007101133268	2007-10-10 00:00:00	2007-10-03 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	138.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+112165	2007101733516	2007-10-15 00:00:00	2007-09-24 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	102.4	Jewelry - Costume	Denied	0.0	Deny
+115155	2007121836631	2007-12-13 00:00:00	2007-09-28 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	2871.61	Jewelry - Fine*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+116472	2008011537934	2008-01-09 00:00:00	2007-12-28 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	568.94	Cameras - Digital	Settled	284.47	Settle
+122850	2008052044589	2008-05-16 00:00:00	2008-05-11 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	643.01	Cameras - Digital*GPS - Global Positioning System*Other	Canceled	0.0	
 123754	2008060945433	2008-06-04 00:00:00	2008-05-01 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	120.29	Other	Denied	0.0	Deny
-123779	2008051544335	2008-06-05 00:00:00	2008-04-22 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Denied	0.0	Deny
-124448	2008062646174	2008-06-23 00:00:00	2008-06-09 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Electronics	Approved	49.99	Approve in Full
+123779	2008051544335	2008-06-05 00:00:00	2008-04-22 00:00:00	MBS	MBS International	UAL	Passenger Property Loss	Checked Baggage	90.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+124448	2008062646174	2008-06-23 00:00:00	2008-06-09 00:00:00	MBS	MBS International	Northwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Approved	49.99	Approve in Full
 166452	2012010990056	2011-12-12 00:00:00	2011-12-08 17:30:00	MBS	MBS International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-189823	2014043013633	2014-04-30 00:00:00	2014-04-30 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage		Containers,Other			
-200574	2015012019960	2015-01-16 00:00:00	2015-01-06 00:00:00	MBS	MBS International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other,Clothing & Accessories		0.0	Deny
-209094	2016100734529	2016-08-16 00:00:00	2016-07-26 00:00:00	MBS	MBS International MBS International	UAL	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-217372	2017072041741	2017-06-07 00:00:00	2017-05-22 00:00:00	MBS	MBS International MBS International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		12.91	Approve in Full
+189823	2014043013633	2014-04-30 00:00:00	2014-04-30 00:00:00	MBS	MBS International		Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Currency			
+200574	2015012019960	2015-01-16 00:00:00	2015-01-06 00:00:00	MBS	MBS International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Other*Personal Accessories		0.0	Deny
+209094	2016100734529	2016-08-16 00:00:00	2016-07-26 00:00:00	MBS	MBS International MBS International	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+217372	2017072041741	2017-06-07 00:00:00	2017-05-22 00:00:00	MBS	MBS International MBS International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		12.91	Approve in Full

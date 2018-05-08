@@ -1,264 +1,264 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-11133	0717067M	2003-07-17 00:00:00	2003-04-03 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	12000.0	Watches & Jewelry	Denied	0.0	Deny
-25726	0129062M	2004-01-29 00:00:00		PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Canceled	0.0	
-28596	0223018M	2004-02-23 00:00:00	2004-01-26 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	66.5	Cosmetics	Settled	33.25	Settle
+11133	0717067M	2003-07-17 00:00:00	2003-04-03 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	12000.0	Jewelry - Fine	Denied	0.0	Deny
+25726	0129062M	2004-01-29 00:00:00		PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	75.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+28596	0223018M	2004-02-23 00:00:00	2004-01-26 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	66.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	33.25	Settle
 28969	0226482M	2004-02-26 00:00:00	2004-01-16 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	76.8	Other	Denied	0.0	Deny
-30317	2004051452280	2004-03-12 00:00:00	2004-01-03 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	325.39	Containers	Denied	0.0	Deny
+30317	2004051452280	2004-03-12 00:00:00	2004-01-03 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	325.39	Luggage (all types including footlockers)	Denied	0.0	Deny
 30970	2004051251363	2004-03-22 00:00:00	2004-01-26 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	68.0	Other	Canceled	0.0	
 31776	2004051452257	2004-04-01 00:00:00	2004-03-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
 32463	2004110866687	2004-04-15 00:00:00	2004-03-26 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	8.48	Other	Approved	8.48	Approve in Full
-33938	2004052453101	2004-05-03 00:00:00	2004-04-10 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	25.8	Tools & Machines	Denied	25.8	Deny
-34114	2004052453205	2004-05-04 00:00:00	2004-02-29 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	125.0	Watches & Jewelry	Approved	125.0	Approve in Full
-34218	2004061455508	2004-05-04 00:00:00	2004-04-05 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-34809	2004060754912	2004-05-10 00:00:00	2004-04-23 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
+33938	2004052453101	2004-05-03 00:00:00	2004-04-10 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	25.8	Locks	Denied	25.8	Deny
+34114	2004052453205	2004-05-04 00:00:00	2004-02-29 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	125.0	Jewelry - Fine	Approved	125.0	Approve in Full
+34218	2004061455508	2004-05-04 00:00:00	2004-04-05 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
+34809	2004060754912	2004-05-10 00:00:00	2004-04-23 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
 35117	2004061055316	2004-05-13 00:00:00	2004-05-01 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checkpoint	15.03	Other	Approved	15.03	Approve in Full
-35801	2004062657438	2004-05-26 00:00:00	2004-05-06 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	72.0	Watches & Jewelry	Approved	72.0	Approve in Full
-36137	2004061856350	2004-05-27 00:00:00	2004-04-22 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	1231.59	Clothing & Accessories	Canceled		
-37393	2004070358242	2004-06-08 00:00:00	2004-04-29 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	30.3	Clothing & Accessories	Approved	30.3	Approve in Full
-38218	2004070758683	2004-06-21 00:00:00	2004-05-11 00:00:00	PSP	Palm Springs International	Scandinavian Airlines Systems	Passenger Property Loss	Checked Baggage	20.25	Supplies	Approved	20.25	Approve in Full
-39087	2004071659572	2004-07-04 00:00:00	2004-05-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	399.99	Electronics	Approved	399.99	Approve in Full
+35801	2004062657438	2004-05-26 00:00:00	2004-05-06 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	72.0	Jewelry - Fine	Approved	72.0	Approve in Full
+36137	2004061856350	2004-05-27 00:00:00	2004-04-22 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	1231.59	Clothing - Shoes, belts, accessories, etc.	Canceled		
+37393	2004070358242	2004-06-08 00:00:00	2004-04-29 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	30.3	Clothing - Shoes, belts, accessories, etc.	Approved	30.3	Approve in Full
+38218	2004070758683	2004-06-21 00:00:00	2004-05-11 00:00:00	PSP	Palm Springs International	Scandinavian Airlines Systems	Passenger Property Loss	Checked Baggage	20.25	Medicines	Approved	20.25	Approve in Full
+39087	2004071659572	2004-07-04 00:00:00	2004-05-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	399.99	Cameras - Digital	Approved	399.99	Approve in Full
 40565	2004072660005	2004-07-20 00:00:00	2004-06-17 00:00:00	PSP	Palm Springs International	Jet Blue	Passenger Property Loss	Checkpoint	140.0	Other	Denied	0.0	Deny
-41230	2004083061611	2004-07-27 00:00:00	2004-07-19 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Settled	100.0	Settle
-41309	2004083161719	2004-07-29 00:00:00	2004-07-02 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry	Denied	0.0	Deny
+41230	2004083061611	2004-07-27 00:00:00	2004-07-19 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Eyeglasses - (including contact lenses)	Settled	100.0	Settle
+41309	2004083161719	2004-07-29 00:00:00	2004-07-02 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Jewelry - Fine	Denied	0.0	Deny
 41467	2004091562861	2004-08-03 00:00:00	2004-07-23 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
 48109	2004120868905	2004-10-25 00:00:00	2004-09-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	18.0	Other	Approved	18.0	Approve in Full
-48433	2004122069531	2004-10-27 00:00:00	2004-10-04 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Canceled		
+48433	2004122069531	2004-10-27 00:00:00	2004-10-04 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Canceled		
 49290	2004122169958	2004-11-05 00:00:00	2004-10-30 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	48.99	Other	Approved	48.99	Approve in Full
-49691	2004122971589	2004-11-09 00:00:00	2004-03-15 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	120.0	Electronics	Settled	60.0	Settle
-51074	2004122971729	2004-12-02 00:00:00	2004-11-27 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Clothing & Accessories	Approved	135.0	Approve in Full
-51637	2005010472543	2004-12-10 00:00:00	2004-09-13 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Approved	45.0	Approve in Full
-52002	2005030777139	2004-12-14 00:00:00	2004-11-30 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint	140.0	Tools & Machines	Approved	140.0	Approve in Full
-52057	2005010372382	2004-12-14 00:00:00	2004-09-30 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	19.72	Tools & Machines	Denied		Deny
+49691	2004122971589	2004-11-09 00:00:00	2004-03-15 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	120.0	DVD/CD Players	Settled	60.0	Settle
+51074	2004122971729	2004-12-02 00:00:00	2004-11-27 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Clothing - Shoes, belts, accessories, etc.	Approved	135.0	Approve in Full
+51637	2005010472543	2004-12-10 00:00:00	2004-09-13 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	45.0	Clothing - Shoes, belts, accessories, etc.	Approved	45.0	Approve in Full
+52002	2005030777139	2004-12-14 00:00:00	2004-11-30 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint	140.0	Baby - Strollers, car seats, playpen, etc.	Approved	140.0	Approve in Full
+52057	2005010372382	2004-12-14 00:00:00	2004-09-30 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	19.72	Locks	Denied		Deny
 53483	2005012474082	2005-01-04 00:00:00	2004-12-02 00:00:00	PSP	Palm Springs International	American Eagle	Passenger Property Loss	Checked Baggage	301.69	Other	Denied	0.0	Deny
 53501	2005012474144	2005-01-04 00:00:00	2004-12-26 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	37.0	Other	Denied	0.0	Deny
-53620	2005012574171	2005-01-04 00:00:00	2004-11-11 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	389.93	Clothing & Accessories	Settled	194.97	Settle
+53620	2005012574171	2005-01-04 00:00:00	2004-11-11 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	389.93	Clothing - Shoes, belts, accessories, etc.	Settled	194.97	Settle
 53717	2005012674345	2005-01-06 00:00:00	2004-12-22 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	28.0	Other	Denied	0.0	Deny
 54952	2005020375450	2005-01-19 00:00:00	2004-12-05 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	310.0	Other	Denied	0.0	Deny
-55035	2005020975754	2005-01-19 00:00:00	2004-12-20 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checkpoint	6500.0	Watches & Jewelry	In litigation		Deny
+55035	2005020975754	2005-01-19 00:00:00	2004-12-20 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checkpoint	6500.0	Jewelry - Fine	In litigation		Deny
 56544	2005031277901	2005-02-05 00:00:00	2005-01-16 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	2215.0	Other	Denied	0.0	Deny
-56938	2005031978815	2005-02-09 00:00:00	2004-12-31 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	90.0	Settle
+56938	2005031978815	2005-02-09 00:00:00	2004-12-31 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	250.0	Clothing - Shoes, belts, accessories, etc.	Settled	90.0	Settle
 57104	2005031478065	2005-02-11 00:00:00	2005-02-02 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
 57573	2005032379444	2005-02-18 00:00:00	2005-02-02 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
 57770	2005032178952	2005-02-23 00:00:00	2005-02-13 00:00:00	PSP	Palm Springs International	American Eagle	Passenger Property Loss	Checked Baggage	242.97	Other	Settled	147.78	Settle
-58710	2005032379497	2005-03-07 00:00:00	2005-02-18 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	172.5	Containers	Settled	50.0	Settle
-59293	2005032980223	2005-03-15 00:00:00	2005-02-26 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	69.99	Clothing & Accessories	Denied	0.0	Deny
-59559	2005032980334	2005-03-16 00:00:00	2004-11-30 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Cosmetics	Settled	20.0	Settle
-59822	2005033180745	2005-03-23 00:00:00	2005-03-06 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-60139	2005040181177	2005-03-28 00:00:00	2005-03-19 00:00:00	PSP	Palm Springs International	American Eagle	Passenger Property Loss	Checked Baggage	109.96	Clothing & Accessories	Approved	109.96	Approve in Full
+58710	2005032379497	2005-03-07 00:00:00	2005-02-18 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	172.5	Luggage (all types including footlockers)	Settled	50.0	Settle
+59293	2005032980223	2005-03-15 00:00:00	2005-02-26 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	69.99	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+59559	2005032980334	2005-03-16 00:00:00	2004-11-30 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	20.0	Settle
+59822	2005033180745	2005-03-23 00:00:00	2005-03-06 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
+60139	2005040181177	2005-03-28 00:00:00	2005-03-19 00:00:00	PSP	Palm Springs International	American Eagle	Passenger Property Loss	Checked Baggage	109.96	Clothing - Shoes, belts, accessories, etc.	Approved	109.96	Approve in Full
 60876	2005040681757	2005-04-05 00:00:00	2005-03-13 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	27.99	Other	Denied	0.0	Deny
 61041	2005040781892	2005-04-06 00:00:00	2005-02-02 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss		155.0	Other	Denied	0.0	Deny
-61698	2005041382474	2005-04-13 00:00:00	2005-03-26 00:00:00	PSP	Palm Springs International	Continental Express Inc	Passenger Property Loss	Checked Baggage	50.0	Musical Intruments	Settled	25.0	Settle
-62440	2005042683375	2005-04-25 00:00:00	2005-04-18 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.64	Tools & Machines	Approved	21.64	Approve in Full
-62944	2005050383870	2005-05-02 00:00:00	2005-01-31 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Approved	180.0	Approve in Full
-63735	2005051684748	2005-05-12 00:00:00	2005-03-22 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
-63779	2005051684731	2005-05-12 00:00:00	2005-04-05 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
-63944	2005051884924	2005-05-16 00:00:00	2005-03-06 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	9.3	Tools & Machines	Approved	9.3	Approve in Full
-64542	2005052485459	2005-05-23 00:00:00	2005-02-27 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1400.0	Clothing & Accessories	Denied	0.0	Deny
-65460	2005062086644	2005-06-03 00:00:00	2005-01-05 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	500.0	Containers	Denied	0.0	Deny
-66599	2005063087945	2005-06-21 00:00:00	2005-06-17 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	17.0	Tools & Machines	Approved	17.0	Approve in Full
-66806	2005062987765	2005-06-23 00:00:00	2005-06-17 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint	179.99	Electronics	Denied	0.0	Deny
+61698	2005041382474	2005-04-13 00:00:00	2005-03-26 00:00:00	PSP	Palm Springs International	Continental Express Inc	Passenger Property Loss	Checked Baggage	50.0	Musical Instruments - Other - Over $250	Settled	25.0	Settle
+62440	2005042683375	2005-04-25 00:00:00	2005-04-18 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.64	Locks	Approved	21.64	Approve in Full
+62944	2005050383870	2005-05-02 00:00:00	2005-01-31 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing - Shoes, belts, accessories, etc.	Approved	180.0	Approve in Full
+63735	2005051684748	2005-05-12 00:00:00	2005-03-22 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
+63779	2005051684731	2005-05-12 00:00:00	2005-04-05 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1500.0	Jewelry - Fine	Denied	0.0	Deny
+63944	2005051884924	2005-05-16 00:00:00	2005-03-06 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	9.3	Locks	Approved	9.3	Approve in Full
+64542	2005052485459	2005-05-23 00:00:00	2005-02-27 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1400.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+65460	2005062086644	2005-06-03 00:00:00	2005-01-05 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	500.0	Luggage (all types including footlockers)	Denied	0.0	Deny
+66599	2005063087945	2005-06-21 00:00:00	2005-06-17 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	17.0	Locks	Approved	17.0	Approve in Full
+66806	2005062987765	2005-06-23 00:00:00	2005-06-17 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint	179.99	Cell Phones	Denied	0.0	Deny
 67390	2005070688339	2005-07-05 00:00:00	2005-06-03 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
 69589	2005081690643	2005-08-05 00:00:00	2005-07-30 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
 69938	2005081590525	2005-08-11 00:00:00	2005-07-30 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
-70174	2005082291133	2005-08-16 00:00:00	2005-06-24 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	1250.0	Electronics	Denied	0.0	Deny
-70177	2005082291138	2005-08-16 00:00:00	2005-08-04 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1700.35	Containers	Denied	0.0	Deny
+70174	2005082291133	2005-08-16 00:00:00	2005-06-24 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	1250.0	Computer - Laptop	Denied	0.0	Deny
+70177	2005082291138	2005-08-16 00:00:00	2005-08-04 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1700.35	Luggage (all types including footlockers)	Denied	0.0	Deny
 71610	2005091692606	2005-09-08 00:00:00	2005-08-12 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	34.05	Other	Settled	7.04	Settle
-72590	2005100393691	2005-09-23 00:00:00	2005-08-25 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Approved	7.99	Approve in Full
+72590	2005100393691	2005-09-23 00:00:00	2005-08-25 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage	7.99	Locks	Approved	7.99	Approve in Full
 74458	2005110295505	2005-10-25 00:00:00	2005-10-03 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	2013.97	Other	Settled	501.18	Settle
-74825	2005110995922	2005-11-01 00:00:00	2005-10-23 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	311.0	Electronics	Denied	0.0	Deny
-75980	2005120697018	2005-11-22 00:00:00	2005-11-18 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	2452.0	Electronics	Settled	451.75	Settle
+74825	2005110995922	2005-11-01 00:00:00	2005-10-23 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	311.0	Cameras - Digital	Denied	0.0	Deny
+75980	2005120697018	2005-11-22 00:00:00	2005-11-18 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	2452.0	Computer - Laptop	Settled	451.75	Settle
 76101	2005120797124	2005-11-28 00:00:00	2005-09-28 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	76.76	Other	Denied	0.0	Deny
-78118	2006010999161	2006-01-04 00:00:00	2005-12-20 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	1208.27	Clothing & Accessories	Settled	441.25	Settle
-79735	2006020200890	2006-01-27 00:00:00		PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	8.12	Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+78118	2006010999161	2006-01-04 00:00:00	2005-12-20 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	1208.27	Eyeglasses - (including contact lenses)	Settled	441.25	Settle
+79735	2006020200890	2006-01-27 00:00:00		PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	8.12	Locks	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
 81945	2006031503106	2006-03-09 00:00:00	2006-02-06 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-82534	2006033003819	2006-03-21 00:00:00	2006-03-13 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	8.5	Tools & Machines	Approved	8.5	Approve in Full
-83663	2006042004823	2006-04-11 00:00:00	2006-04-09 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	2853.01	Clothing & Accessories	Denied	0.0	Deny
-83772	2006042104910	2006-04-13 00:00:00	2006-03-29 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	1461.57	Electronics	Denied	0.0	Deny
-84839	2006051005785	2006-05-04 00:00:00	2006-04-24 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	150.0	Containers,Household Decor,Household Decor,Outdoors Supplies	Settled	75.0	Settle
-85361	2006051706521	2006-05-16 00:00:00	2006-05-02 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	501.93	Electronics,Clothing & Accessories,Clothing & Accessories	Settled	197.9	Settle
+82534	2006033003819	2006-03-21 00:00:00	2006-03-13 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	8.5	Locks	Approved	8.5	Approve in Full
+83663	2006042004823	2006-04-11 00:00:00	2006-04-09 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	2853.01	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+83772	2006042104910	2006-04-13 00:00:00	2006-03-29 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	1461.57	Computer - Laptop	Denied	0.0	Deny
+84839	2006051005785	2006-05-04 00:00:00	2006-04-24 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	150.0	Bags - Fabric, plastic, etc. (not purses)*Clocks - Inexpensive ($75.00 or less)*Mirrors (including frames)*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Settled	75.0	Settle
+85361	2006051706521	2006-05-16 00:00:00	2006-05-02 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	501.93	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Clothing - Shoes, belts, accessories, etc.	Settled	197.9	Settle
 85785	2006052607052	2006-05-24 00:00:00	2006-03-26 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	24.75	Other	Approved	24.75	Approve in Full
-86239	2006060707497	2006-06-05 00:00:00	2006-05-23 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint	324.98	Other	Approved	324.98	Approve in Full
-87841	2006070709137	2006-07-06 00:00:00	2006-06-06 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Canceled	0.0	
-91521	2006091812741	2006-09-13 00:00:00	2006-09-09 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	31.95	Tools & Machines	Denied	0.0	Deny
+86239	2006060707497	2006-06-05 00:00:00	2006-05-23 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint	324.98	Currency	Approved	324.98	Approve in Full
+87841	2006070709137	2006-07-06 00:00:00	2006-06-06 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Toys - Other (including games, toys, play dolls etc.)	Canceled	0.0	
+91521	2006091812741	2006-09-13 00:00:00	2006-09-09 00:00:00	PSP	Palm Springs International	America West	Passenger Property Loss	Checked Baggage	31.95	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
 92357	2006100513689	2006-09-29 00:00:00	2006-04-01 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Denied	0.0	Deny
-97316	2008010937640	2007-01-03 00:00:00	2007-12-12 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	658.61	Clothing & Accessories	Settled	329.3	Settle
-98101	2007012219097	2007-01-16 00:00:00	2007-01-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	909.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
-98520	2007013019833	2007-01-22 00:00:00	2006-12-16 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	698.6	Clothing & Accessories,Containers,Supplies	Denied	0.0	Deny
-99265	2007020920603	2007-02-02 00:00:00	2007-01-28 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	54.96	Food & Drink	Denied	0.0	Deny
-99434	2007020820487	2007-02-06 00:00:00	2006-12-14 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checked Baggage	170.0	Electronics	Denied	0.0	Deny
-100549	2007030221833	2007-02-28 00:00:00	2007-02-20 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-101182	2007032022549	2007-03-13 00:00:00	2007-03-03 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	91.58	Clothing & Accessories	Approved	91.58	Approve in Full
-101439	2007032122662	2007-03-18 00:00:00	2007-01-22 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint	150.0	Watches & Jewelry	Approved	150.0	Approve in Full
-102285	2007040523514	2007-04-02 00:00:00	2007-03-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories,Containers,Watches & Jewelry	Settled	80.0	Settle
-102413	2007041023692	2007-04-05 00:00:00	2007-02-26 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	58.29	Clothing & Accessories	Denied	0.0	Deny
-102435	2007041123730	2007-04-05 00:00:00	2007-03-19 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	252.0	Watches & Jewelry	Settled	126.0	Settle
-102792	2007041724086	2007-04-12 00:00:00	2007-04-03 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	57.89	Food & Drink	Denied	0.0	Deny
-102983	2007041824210	2007-04-17 00:00:00	2007-03-25 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	116.88	Cosmetics	Denied	0.0	Deny
-103048	2007042324350	2007-04-18 00:00:00	2007-04-01 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	199.0	Electronics	Denied	0.0	Deny
+97316	2008010937640	2007-01-03 00:00:00	2007-12-12 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	658.61	Eyeglasses - (including contact lenses)	Settled	329.3	Settle
+98101	2007012219097	2007-01-16 00:00:00	2007-01-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	909.0	Cameras - Digital*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+98520	2007013019833	2007-01-22 00:00:00	2006-12-16 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	698.6	Eyeglasses - (including contact lenses)*Luggage (all types including footlockers)*Medicines	Denied	0.0	Deny
+99265	2007020920603	2007-02-02 00:00:00	2007-01-28 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	54.96	Alcoholic beverages	Denied	0.0	Deny
+99434	2007020820487	2007-02-06 00:00:00	2006-12-14 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checked Baggage	170.0	Cameras - Digital	Denied	0.0	Deny
+100549	2007030221833	2007-02-28 00:00:00	2007-02-20 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+101182	2007032022549	2007-03-13 00:00:00	2007-03-03 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	91.58	Clothing - Shoes, belts, accessories, etc.	Approved	91.58	Approve in Full
+101439	2007032122662	2007-03-18 00:00:00	2007-01-22 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint	150.0	Jewelry - Costume	Approved	150.0	Approve in Full
+102285	2007040523514	2007-04-02 00:00:00	2007-03-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)*Jewelry - Costume	Settled	80.0	Settle
+102413	2007041023692	2007-04-05 00:00:00	2007-02-26 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	58.29	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+102435	2007041123730	2007-04-05 00:00:00	2007-03-19 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	252.0	Jewelry - Fine	Settled	126.0	Settle
+102792	2007041724086	2007-04-12 00:00:00	2007-04-03 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	57.89	Alcoholic beverages	Denied	0.0	Deny
+102983	2007041824210	2007-04-17 00:00:00	2007-03-25 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	116.88	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+103048	2007042324350	2007-04-18 00:00:00	2007-04-01 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	199.0	MP3 Players-(iPods, etc)	Denied	0.0	Deny
 103984	2007051125295	2007-05-08 00:00:00	2007-05-02 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-106840	2007071128106	2007-07-05 00:00:00	2007-04-30 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	325.0	Watches & Jewelry	Settled	162.5	Settle
-107549	2007072028801	2007-07-19 00:00:00	2007-07-07 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	45.81	Household Items,Other,Household Decor	Denied	0.0	Deny
-109191	2007082130584	2007-08-17 00:00:00	2007-03-25 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	64.64	Clothing & Accessories	Approved	64.64	Approve in Full
-109385	2007082430804	2007-08-21 00:00:00	2007-07-22 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	1700.0	Clothing & Accessories	Denied	0.0	Deny
-109406	2007082730895	2007-08-21 00:00:00	2007-06-20 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2625.0	Clothing & Accessories,Containers	Denied	0.0	Deny
-110267	2007091031569	2007-09-06 00:00:00	2007-08-17 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines,Containers	Denied	0.0	Deny
-111293	2007092732682	2007-09-26 00:00:00	2007-09-03 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	443.11	Clothing & Accessories,Other,Outdoors Supplies	Canceled	0.0	
-113071	2007110534484	2007-11-01 00:00:00	2007-08-13 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checked Baggage	264.95	Electronics	Denied	0.0	Deny
+106840	2007071128106	2007-07-05 00:00:00	2007-04-30 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	325.0	Jewelry - Fine	Settled	162.5	Settle
+107549	2007072028801	2007-07-19 00:00:00	2007-07-07 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	45.81	Dishes, Pottery, Glassware, Plasticware*Other*Rugs - under $500	Denied	0.0	Deny
+109191	2007082130584	2007-08-17 00:00:00	2007-03-25 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	64.64	Clothing - Shoes, belts, accessories, etc.	Approved	64.64	Approve in Full
+109385	2007082430804	2007-08-21 00:00:00	2007-07-22 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	1700.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+109406	2007082730895	2007-08-21 00:00:00	2007-06-20 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2625.0	Clothing - Shoes, belts, accessories, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+110267	2007091031569	2007-09-06 00:00:00	2007-08-17 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Locks*Luggage (all types including footlockers)	Denied	0.0	Deny
+111293	2007092732682	2007-09-26 00:00:00	2007-09-03 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	443.11	Clothing - Shoes, belts, accessories, etc.*Other*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Canceled	0.0	
+113071	2007110534484	2007-11-01 00:00:00	2007-08-13 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checked Baggage	264.95	Cameras - Digital	Denied	0.0	Deny
 113842	2007112035296	2007-11-16 00:00:00	2007-09-09 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	39.95	Other	Denied	0.0	Deny
-114725	2007121036291	2007-12-04 00:00:00	2007-10-16 00:00:00	PSP	Palm Springs International	Air Canada	Passenger Property Loss	Checked Baggage	3133.0	Watches & Jewelry,Other,Watches & Jewelry	Denied	0.0	Deny
-115021	2007121436519	2007-12-11 00:00:00	2007-11-25 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	53.86	Clothing & Accessories,Other	Denied	0.0	Deny
-115400	2007122136793	2007-12-19 00:00:00	2007-12-13 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	26.83	Clothing & Accessories	Denied	0.0	Deny
-115545	2007123137095	2007-12-21 00:00:00	2007-12-06 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Denied	0.0	Deny
+114725	2007121036291	2007-12-04 00:00:00	2007-10-16 00:00:00	PSP	Palm Springs International	Air Canada	Passenger Property Loss	Checked Baggage	3133.0	Jewelry - Fine*Other*Watches - Expensive more than $100	Denied	0.0	Deny
+115021	2007121436519	2007-12-11 00:00:00	2007-11-25 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	53.86	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+115400	2007122136793	2007-12-19 00:00:00	2007-12-13 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	26.83	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+115545	2007123137095	2007-12-21 00:00:00	2007-12-06 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Jewelry - Costume	Denied	0.0	Deny
 115633	2008010237149	2007-12-26 00:00:00	2007-10-19 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-118638	2008022740258	2008-02-21 00:00:00	2008-02-12 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	175.0	Electronics	Denied	0.0	Deny
-120156	2008040141693	2008-03-25 00:00:00	2008-03-22 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Canceled	0.0	
-120224	2008040341797	2008-03-25 00:00:00	2008-03-09 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Clothing & Accessories	Denied	0.0	Deny
-120571	2008040942155	2008-03-31 00:00:00	2008-03-22 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checkpoint	400.0	Watches & Jewelry	Settled	239.49	Settle
-120945	2008041642650	2008-04-07 00:00:00	2008-04-02 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	150.0	Outdoors Supplies	Denied	0.0	Deny
-121426	2008041842881	2008-04-15 00:00:00	2008-04-07 00:00:00	PSP	Palm Springs International	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Settled	50.0	Settle
-121485	2008042243111	2008-04-16 00:00:00	2008-03-20 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	30.0	Electronics	Settled	22.0	Settle
-121927	2008043043556	2008-04-25 00:00:00	2008-02-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Household Decor	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-123064	2008052244723	2008-05-21 00:00:00	2008-04-30 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
-123681	2008060445278	2008-06-03 00:00:00	2008-05-04 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	911.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
-124972	2008071046712	2008-07-02 00:00:00	2008-05-17 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	64.99	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-127804	2008072447312	2008-09-04 00:00:00	2008-06-05 00:00:00	PSP	Palm Springs International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	306.37	Cosmetics	Denied	0.0	Deny
-128534	2008100150644	2008-09-19 00:00:00	2008-08-07 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	1200.0	Electronics,Watches & Jewelry	Denied	0.0	Deny
-128842	2008100150648	2008-09-29 00:00:00	2008-09-24 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	2800.0	Electronics	Denied	0.0	Deny
-130557	2008111852357	2008-11-13 00:00:00	2008-10-26 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	1590.15	Clothing & Accessories,Containers,Outdoors Supplies	Denied	0.0	Deny
-131747	2008121953618	2008-12-15 00:00:00	2008-12-09 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	886.91	Cosmetics,Other,Household Decor	Denied	0.0	Deny
-134152	2009031656298	2009-02-18 00:00:00	2008-11-02 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	36.95	Food & Drink	Denied	0.0	Deny
-135025	2009040257131	2009-03-12 00:00:00	2009-02-25 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Denied	0.0	Deny
-135026	2009040357157	2009-03-12 00:00:00	2009-02-25 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.95	Tools & Machines	Denied	0.0	Deny
+118638	2008022740258	2008-02-21 00:00:00	2008-02-12 00:00:00	PSP	Palm Springs International	Continental Airlines	Passenger Property Loss	Checked Baggage	175.0	DVD/CD Players	Denied	0.0	Deny
+120156	2008040141693	2008-03-25 00:00:00	2008-03-22 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+120224	2008040341797	2008-03-25 00:00:00	2008-03-09 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+120571	2008040942155	2008-03-31 00:00:00	2008-03-22 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checkpoint	400.0	Watches - Expensive more than $100	Settled	239.49	Settle
+120945	2008041642650	2008-04-07 00:00:00	2008-04-02 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	150.0	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+121426	2008041842881	2008-04-15 00:00:00	2008-04-07 00:00:00	PSP	Palm Springs International	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage	100.0	Clothing - Shoes, belts, accessories, etc.	Settled	50.0	Settle
+121485	2008042243111	2008-04-16 00:00:00	2008-03-20 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	30.0	DVD/CD Players	Settled	22.0	Settle
+121927	2008043043556	2008-04-25 00:00:00	2008-02-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Candles - Decorative and other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+123064	2008052244723	2008-05-21 00:00:00	2008-04-30 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing - Shoes, belts, accessories, etc.	Approved	75.0	Approve in Full
+123681	2008060445278	2008-06-03 00:00:00	2008-05-04 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	911.0	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+124972	2008071046712	2008-07-02 00:00:00	2008-05-17 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	64.99	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+127804	2008072447312	2008-09-04 00:00:00	2008-06-05 00:00:00	PSP	Palm Springs International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	306.37	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+128534	2008100150644	2008-09-19 00:00:00	2008-08-07 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	1200.0	Computer - Laptop*Jewelry - Costume	Denied	0.0	Deny
+128842	2008100150648	2008-09-29 00:00:00	2008-09-24 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage	2800.0	Computer - Laptop	Denied	0.0	Deny
+130557	2008111852357	2008-11-13 00:00:00	2008-10-26 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	1590.15	Eyeglasses - (including contact lenses)*Luggage (all types including footlockers)*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+131747	2008121953618	2008-12-15 00:00:00	2008-12-09 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage	886.91	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other*Paintings and Pictures (including frames, etchings, photos, etc)	Denied	0.0	Deny
+134152	2009031656298	2009-02-18 00:00:00	2008-11-02 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	36.95	Alcoholic beverages	Denied	0.0	Deny
+135025	2009040257131	2009-03-12 00:00:00	2009-02-25 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	90.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+135026	2009040357157	2009-03-12 00:00:00	2009-02-25 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.95	Locks	Denied	0.0	Deny
 135301	2009041157430	2009-03-20 00:00:00	2009-02-14 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage	288.91	Other	Approved	288.91	Approve in Full
-135321	2009041057271	2009-03-20 00:00:00	2009-02-27 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checkpoint	200.0	Other	Denied	0.0	Deny
-135864	2009042057764	2009-04-02 00:00:00	2009-03-28 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	320.0	Clothing & Accessories	Settled	208.0	Settle
-136826	2009051958928	2009-04-30 00:00:00	2009-03-30 00:00:00	PSP	Palm Springs International	Air Canada	Passenger Property Loss	Checked Baggage	32.31	Food & Drink	Denied	0.0	Deny
-138055	2009020955386	2009-06-05 00:00:00	2009-01-10 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	360.0	Clothing & Accessories	Settled	222.57	Settle
+135321	2009041057271	2009-03-20 00:00:00	2009-02-27 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checkpoint	200.0	Currency	Denied	0.0	Deny
+135864	2009042057764	2009-04-02 00:00:00	2009-03-28 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage	320.0	Clothing - Shoes, belts, accessories, etc.	Settled	208.0	Settle
+136826	2009051958928	2009-04-30 00:00:00	2009-03-30 00:00:00	PSP	Palm Springs International	Air Canada	Passenger Property Loss	Checked Baggage	32.31	Alcoholic beverages	Denied	0.0	Deny
+138055	2009020955386	2009-06-05 00:00:00	2009-01-10 00:00:00	PSP	Palm Springs International	Northwest Airlines	Passenger Property Loss	Checked Baggage	360.0	Clothing - Shoes, belts, accessories, etc.	Settled	222.57	Settle
 140466	2009081462609	2009-08-10 00:00:00	2009-08-02 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checkpoint	21.16	Other	Approved	21.16	Approve in Full
-143093	2009110665204	2009-10-28 00:00:00	2009-10-25 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checkpoint	95.0	Watches & Jewelry	Denied	0.0	Deny
-144408	2009121466541	2009-12-07 00:00:00	2009-12-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	303.1	Electronics	Settled	91.08	Settle
-145230	2010012067679	2010-01-14 00:00:00	2010-01-09 18:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-145580	2010021868500	2010-02-01 00:00:00	2010-01-21 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		7.32	Approve in Full
-145713	2010021968582	2010-02-12 00:00:00	2010-02-07 06:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-145874	2010022768829	2010-02-17 00:00:00	2010-01-20 15:30:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		245.0	Settle
-146093	2010031069364	2010-02-25 00:00:00	2010-02-13 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-146346	2010030168865	2010-03-04 00:00:00	2010-02-21 12:00:00	PSP	Palm Springs International	Air Canada	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-146427	2010031369551	2010-03-05 00:00:00	2010-02-28 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Scientific Intruments		72.32	Approve in Full
-146645	2010032269836	2010-03-12 00:00:00	2010-02-28 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		12.0	Approve in Full
+143093	2009110665204	2009-10-28 00:00:00	2009-10-25 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checkpoint	95.0	Jewelry - Costume	Denied	0.0	Deny
+144408	2009121466541	2009-12-07 00:00:00	2009-12-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage	303.1	GPS - Global Positioning System	Settled	91.08	Settle
+145230	2010012067679	2010-01-14 00:00:00	2010-01-09 18:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+145580	2010021868500	2010-02-01 00:00:00	2010-01-21 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		7.32	Approve in Full
+145713	2010021968582	2010-02-12 00:00:00	2010-02-07 06:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+145874	2010022768829	2010-02-17 00:00:00	2010-01-20 15:30:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing		245.0	Settle
+146093	2010031069364	2010-02-25 00:00:00	2010-02-13 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			
+146346	2010030168865	2010-03-04 00:00:00	2010-02-21 12:00:00	PSP	Palm Springs International	Air Canada	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+146427	2010031369551	2010-03-05 00:00:00	2010-02-28 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Medical/Science		72.32	Approve in Full
+146645	2010032269836	2010-03-12 00:00:00	2010-02-28 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		12.0	Approve in Full
 146797	2010032269901	2010-03-17 00:00:00	2010-03-01 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		25.0	Approve in Full
 147871	2010042671170	2010-04-19 00:00:00	2010-04-29 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
-147922	2010042671163	2010-04-20 00:00:00	2010-03-23 11:20:00	PSP	Palm Springs International	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-148085	2010043071360	2010-04-26 00:00:00	2010-03-03 17:30:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-150851	2010073074232	2010-07-20 00:00:00	2010-07-08 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		145.0	Approve in Full
-153058	2010092576376	2010-09-22 00:00:00	2010-09-19 06:07:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		70.79	Settle
-153178	2010100276596	2010-09-27 00:00:00	2010-09-17 09:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		0.0	Deny
-153856	2010102377268	2010-10-18 00:00:00	2010-10-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		42.09	Approve in Full
-154962	2010120778594	2010-11-22 00:00:00	2010-10-30 07:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-155424	2010122078861	2010-12-07 00:00:00	2010-12-05 12:15:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Clothing & Accessories		86.98	Approve in Full
-155854	2011012079676	2010-12-23 00:00:00	2010-11-29 10:45:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		63.0	Settle
-155929	2011010779257	2010-12-28 00:00:00	2010-12-12 06:30:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-155987	2011012079670	2010-12-28 00:00:00	2010-11-20 17:03:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-156355	2011020379907	2011-01-10 00:00:00	2010-12-30 06:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-156660	2011021080091	2011-01-19 00:00:00	2011-01-14 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics		0.0	Deny
-156964	2011022380428	2011-01-26 00:00:00	2011-01-02 18:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-158002	2011041382180	2011-03-02 00:00:00	2011-02-03 13:25:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+147922	2010042671163	2010-04-20 00:00:00	2010-03-23 11:20:00	PSP	Palm Springs International	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+148085	2010043071360	2010-04-26 00:00:00	2010-03-03 17:30:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+150851	2010073074232	2010-07-20 00:00:00	2010-07-08 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checkpoint		Jewelry & Watches		145.0	Approve in Full
+153058	2010092576376	2010-09-22 00:00:00	2010-09-19 06:07:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing		70.79	Settle
+153178	2010100276596	2010-09-27 00:00:00	2010-09-17 09:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing*Personal Accessories		0.0	Deny
+153856	2010102377268	2010-10-18 00:00:00	2010-10-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		42.09	Approve in Full
+154962	2010120778594	2010-11-22 00:00:00	2010-10-30 07:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+155424	2010122078861	2010-12-07 00:00:00	2010-12-05 12:15:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Clothing		86.98	Approve in Full
+155854	2011012079676	2010-12-23 00:00:00	2010-11-29 10:45:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checked Baggage		Clothing*Travel Accessories		63.0	Settle
+155929	2011010779257	2010-12-28 00:00:00	2010-12-12 06:30:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+155987	2011012079670	2010-12-28 00:00:00	2010-11-20 17:03:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+156355	2011020379907	2011-01-10 00:00:00	2010-12-30 06:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+156660	2011021080091	2011-01-19 00:00:00	2011-01-14 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories*Computer & Accessories*Personal Electronics		0.0	Deny
+156964	2011022380428	2011-01-26 00:00:00	2011-01-02 18:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+158002	2011041382180	2011-03-02 00:00:00	2011-02-03 13:25:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
 158537	2011040782015	2011-03-21 00:00:00	2011-03-05 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-159208	2011041482617	2011-04-12 00:00:00	2011-04-01 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-159246	2011041582720	2011-04-12 00:00:00	2011-03-30 00:00:00	PSP	Palm Springs International	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-159311	2011042082770	2011-04-15 00:00:00	2011-03-09 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-159656	2011050383168	2011-04-26 00:00:00	2011-03-28 10:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		156.06	Settle
-159674	2011050383150	2011-04-27 00:00:00	2011-04-14 06:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		59.43	Approve in Full
-159799	2011051083313	2011-05-02 00:00:00	2011-04-26 12:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		150.0	Approve in Full
-159916	2011051983539	2011-05-04 00:00:00	2011-03-31 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+159208	2011041482617	2011-04-12 00:00:00	2011-04-01 00:00:00	PSP	Palm Springs International	Horizon Air	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+159246	2011041582720	2011-04-12 00:00:00	2011-03-30 00:00:00	PSP	Palm Springs International	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+159311	2011042082770	2011-04-15 00:00:00	2011-03-09 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
+159656	2011050383168	2011-04-26 00:00:00	2011-03-28 10:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Travel Accessories		156.06	Settle
+159674	2011050383150	2011-04-27 00:00:00	2011-04-14 06:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Audio/Video		59.43	Approve in Full
+159799	2011051083313	2011-05-02 00:00:00	2011-04-26 12:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		150.0	Approve in Full
+159916	2011051983539	2011-05-04 00:00:00	2011-03-31 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Clothing			
 159961	2011051683454	2011-05-06 00:00:00	2011-04-23 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Other		202.1	Settle
-160657	2011060884161	2011-05-31 00:00:00	2011-05-06 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-161064	2011062384578	2011-06-13 00:00:00	2011-03-20 13:40:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		134.99	Approve in Full
-162702	2011081986296	2011-08-03 00:00:00	2011-05-13 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		505.0	Approve in Full
-164954	2011110488671	2011-10-18 00:00:00	2011-03-15 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Electronics		64.19	Settle
-165082	2011103188592	2011-10-24 00:00:00	2011-10-15 11:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Electronics		632.23	Settle
-165629	2011120189297	2011-11-10 00:00:00	2011-10-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Containers		100.0	Approve in Full
-166650	2012011790212	2011-12-19 00:00:00	2011-12-12 10:15:00	PSP	Palm Springs International	Frontier Airlines	Passenger Property Loss	Checkpoint		Cosmetics		88.15	Approve in Full
-167568	2012030191430	2012-01-18 00:00:00	2012-01-06 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		16.16	Approve in Full
-168379	2012021491032	2012-02-14 00:00:00	2012-01-05 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
-168405	2012032692093	2012-02-14 00:00:00	2012-02-10 06:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		199.96	Settle
-168621	2012032992242	2012-02-22 00:00:00	2012-02-16 00:00:00	PSP	Palm Springs International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.67	Approve in Full
-168636	2012033092280	2012-02-22 00:00:00	2012-02-11 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+160657	2011060884161	2011-05-31 00:00:00	2011-05-06 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+161064	2011062384578	2011-06-13 00:00:00	2011-03-20 13:40:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		134.99	Approve in Full
+162702	2011081986296	2011-08-03 00:00:00	2011-05-13 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Personal Accessories		505.0	Approve in Full
+164954	2011110488671	2011-10-18 00:00:00	2011-03-15 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Cameras		64.19	Settle
+165082	2011103188592	2011-10-24 00:00:00	2011-10-15 11:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		632.23	Settle
+165629	2011120189297	2011-11-10 00:00:00	2011-10-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		100.0	Approve in Full
+166650	2012011790212	2011-12-19 00:00:00	2011-12-12 10:15:00	PSP	Palm Springs International	Frontier Airlines	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		88.15	Approve in Full
+167568	2012030191430	2012-01-18 00:00:00	2012-01-06 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		16.16	Approve in Full
+168379	2012021491032	2012-02-14 00:00:00	2012-01-05 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage		Travel Accessories		15.0	Approve in Full
+168405	2012032692093	2012-02-14 00:00:00	2012-02-10 06:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		199.96	Settle
+168621	2012032992242	2012-02-22 00:00:00	2012-02-16 00:00:00	PSP	Palm Springs International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		9.67	Approve in Full
+168636	2012033092280	2012-02-22 00:00:00	2012-02-11 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
 169306	2012041292843	2012-03-19 00:00:00	2012-03-04 12:15:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint		Other		0.0	Deny
 169315	2012041292861	2012-03-19 00:00:00	2012-02-23 10:45:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint		Other		0.0	Deny
 169538	2012042093076	2012-03-27 00:00:00	2012-02-23 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Other			
-169633	2012042593259	2012-03-29 00:00:00	2012-03-01 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Approve in Full
+169633	2012042593259	2012-03-29 00:00:00	2012-03-01 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		50.0	Approve in Full
 169749	2012043093366	2012-04-04 00:00:00	2012-03-15 23:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Other		268.88	Settle
-169893	2012050293490	2012-04-10 00:00:00	2012-03-02 10:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checkpoint		Electronics		214.7	Approve in Full
+169893	2012050293490	2012-04-10 00:00:00	2012-03-02 10:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checkpoint		Computer & Accessories		214.7	Approve in Full
 169980	2012041292821	2012-04-12 00:00:00	2012-03-03 00:00:00	PSP	Palm Springs International		Passenger Property Loss	Checked Baggage		Household Items			
-170166	2012051493895	2012-04-18 00:00:00	2012-03-09 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		79.68	Approve in Full
-170279	2012051794077	2012-04-23 00:00:00	2012-04-21 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		107.95	Approve in Full
-170437	2012043093423	2012-04-30 00:00:00	2012-04-05 15:30:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+170166	2012051493895	2012-04-18 00:00:00	2012-03-09 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing		79.68	Approve in Full
+170279	2012051794077	2012-04-23 00:00:00	2012-04-21 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		107.95	Approve in Full
+170437	2012043093423	2012-04-30 00:00:00	2012-04-05 15:30:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		0.0	Deny
 170752	2012052994382	2012-05-08 00:00:00	2012-05-03 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
 172285	2012070595080	2012-07-05 00:00:00	2012-05-13 05:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-173561	2012100297305	2012-08-17 00:00:00	2012-05-20 09:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-174620	2012110798410	2012-09-24 00:00:00	2012-09-09 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		75.0	Settle
-174932	2012112798886	2012-10-05 00:00:00	2012-09-30 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics		0.0	Deny
-175197	2012112798884	2012-10-17 00:00:00	2012-05-31 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-175382	2012120599091	2012-10-23 00:00:00	2012-10-12 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		249.99	Approve in Full
-176231	2013011099880	2012-11-26 00:00:00	2012-11-17 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+173561	2012100297305	2012-08-17 00:00:00	2012-05-20 09:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+174620	2012110798410	2012-09-24 00:00:00	2012-09-09 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Clothing		75.0	Settle
+174932	2012112798886	2012-10-05 00:00:00	2012-09-30 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cameras*Personal Electronics		0.0	Deny
+175197	2012112798884	2012-10-17 00:00:00	2012-05-31 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+175382	2012120599091	2012-10-23 00:00:00	2012-10-12 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		249.99	Approve in Full
+176231	2013011099880	2012-11-26 00:00:00	2012-11-17 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
 178330	2013040302975	2013-02-14 00:00:00	2013-01-15 07:30:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Other		57.49	Approve in Full
-178921	2013031302568	2013-03-08 00:00:00	2013-02-28 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Household Decor		50.0	Approve in Full
-178970	2013031902644	2013-03-11 00:00:00	2013-01-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		339.95	Settle
-179363	2013041003109	2013-03-25 00:00:00	2013-03-19 22:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-179389	2013040803040	2013-03-26 00:00:00	2013-03-19 09:18:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-179654	2013050303495	2013-04-05 00:00:00	2013-02-27 12:05:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-180219	2013052303825	2013-04-29 00:00:00	2013-04-27 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-180436	2013061104171	2013-05-06 00:00:00	2013-03-23 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-180439	2013061104184	2013-05-06 00:00:00	2013-04-27 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-180567	2013070905060	2013-05-09 00:00:00	2013-04-27 00:00:00	PSP	Palm Springs International	Allegiant Air	Passenger Property Loss	Checked Baggage		Scientific Intruments		136.31	Approve in Full
-180768	2013071005092	2013-05-17 00:00:00	2013-04-04 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-182226	2013080805758	2013-07-10 00:00:00	2013-03-29 05:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories		0.0	Deny
+178921	2013031302568	2013-03-08 00:00:00	2013-02-28 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Home Decor		50.0	Approve in Full
+178970	2013031902644	2013-03-11 00:00:00	2013-01-22 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		339.95	Settle
+179363	2013041003109	2013-03-25 00:00:00	2013-03-19 22:30:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.0	Approve in Full
+179389	2013040803040	2013-03-26 00:00:00	2013-03-19 09:18:00	PSP	Palm Springs International		Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+179654	2013050303495	2013-04-05 00:00:00	2013-02-27 12:05:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+180219	2013052303825	2013-04-29 00:00:00	2013-04-27 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
+180436	2013061104171	2013-05-06 00:00:00	2013-03-23 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+180439	2013061104184	2013-05-06 00:00:00	2013-04-27 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+180567	2013070905060	2013-05-09 00:00:00	2013-04-27 00:00:00	PSP	Palm Springs International	Allegiant Air	Passenger Property Loss	Checked Baggage		Medical/Science		136.31	Approve in Full
+180768	2013071005092	2013-05-17 00:00:00	2013-04-04 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+182226	2013080805758	2013-07-10 00:00:00	2013-03-29 05:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing		0.0	Deny
 184613	2013103008395	2013-09-30 00:00:00	2013-05-13 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Other		9.99	Approve in Full
-185306	2013111509394	2013-10-30 00:00:00	2013-08-25 07:40:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-186613	2014010610509	2013-12-26 00:00:00	2013-12-02 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-188313	2014022812087	2014-02-24 00:00:00	2014-01-26 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-190071	2014051313884	2014-05-07 00:00:00	2014-04-07 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-190269	2014052014084	2014-05-16 00:00:00	2014-05-12 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
-190600	2014060414421	2014-06-01 00:00:00	2014-05-25 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+185306	2013111509394	2013-10-30 00:00:00	2013-08-25 07:40:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			
+186613	2014010610509	2013-12-26 00:00:00	2013-12-02 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras			
+188313	2014022812087	2014-02-24 00:00:00	2014-01-26 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Personal Accessories			
+190071	2014051313884	2014-05-07 00:00:00	2014-04-07 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+190269	2014052014084	2014-05-16 00:00:00	2014-05-12 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checkpoint		Medical/Science		0.0	Deny
+190600	2014060414421	2014-06-01 00:00:00	2014-05-25 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
 192229	2014082016083	2014-08-05 00:00:00	2014-07-27 00:00:00	PSP	Palm Springs International	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-194896	2014120218811	2014-11-15 00:00:00	2014-11-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-202760	2015010719624	2015-01-05 00:00:00	2014-12-30 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checkpoint		Electronics,Electronics		0.0	Deny
+194896	2014120218811	2014-11-15 00:00:00	2014-11-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			
+202760	2015010719624	2015-01-05 00:00:00	2014-12-30 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checkpoint		Personal Electronics*Personal Electronics		0.0	Deny
 202763	2015022020739	2015-02-18 00:00:00	2015-01-22 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-202767	2015031921361	2015-03-19 00:00:00	2015-02-28 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		40.0	Approve in Full
-202768	2015040621765	2015-04-03 00:00:00	2015-03-04 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Containers		28.02	Approve in Full
-202770	2015062423382	2015-06-08 00:00:00	2015-05-14 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Scientific Intruments		878.74	Settle
-202772	2015101626053	2015-09-22 00:00:00	2014-04-29 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-202774	2015111426869	2015-10-28 00:00:00	2015-10-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-202775	2015112327094	2015-11-05 00:00:00	2015-07-26 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		22.0	Settle
-202776	2015120127200	2015-11-13 00:00:00	2015-11-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-202777	2015120727320	2015-11-17 00:00:00	2015-11-15 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Electronics		35.0	Approve in Full
-202778	2015120727362	2015-11-18 00:00:00	2015-11-16 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-202780	2015121527584	2015-11-30 00:00:00	2015-03-30 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-211153	2016022929224	2016-02-01 00:00:00	2016-01-22 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Games & Toys			Insufficient
+202767	2015031921361	2015-03-19 00:00:00	2015-02-28 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing		40.0	Approve in Full
+202768	2015040621765	2015-04-03 00:00:00	2015-03-04 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		28.02	Approve in Full
+202770	2015062423382	2015-06-08 00:00:00	2015-05-14 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Medical/Science		878.74	Settle
+202772	2015101626053	2015-09-22 00:00:00	2014-04-29 00:00:00	PSP	Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+202774	2015111426869	2015-10-28 00:00:00	2015-10-02 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+202775	2015112327094	2015-11-05 00:00:00	2015-07-26 00:00:00	PSP	Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		22.0	Settle
+202776	2015120127200	2015-11-13 00:00:00	2015-11-03 00:00:00	PSP	Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+202777	2015120727320	2015-11-17 00:00:00	2015-11-15 00:00:00	PSP	Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Computer & Accessories		35.0	Approve in Full
+202778	2015120727362	2015-11-18 00:00:00	2015-11-16 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+202780	2015121527584	2015-11-30 00:00:00	2015-03-30 00:00:00	PSP	Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing			
+211153	2016022929224	2016-02-01 00:00:00	2016-01-22 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Toys & Games			Insufficient
 211154	2016022429070	2016-02-02 00:00:00	2016-01-22 12:45:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Other			Insufficient
-211155	2016041930644	2016-04-01 00:00:00	2016-03-30 10:30:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		45.0	Approve in Full
-211156	2016041230507	2016-04-12 00:00:00	2016-01-26 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-211158	2016032830157	2016-03-11 00:00:00	2016-02-18 11:00:00	PSP	Palm Springs International Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-211159	2016050931169	2016-04-13 00:00:00	2016-03-18 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+211155	2016041930644	2016-04-01 00:00:00	2016-03-30 10:30:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		45.0	Approve in Full
+211156	2016041230507	2016-04-12 00:00:00	2016-01-26 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+211158	2016032830157	2016-03-11 00:00:00	2016-02-18 11:00:00	PSP	Palm Springs International Palm Springs International	Alaska Airlines	Passenger Property Loss	Checkpoint		Clothing		0.0	Deny
+211159	2016050931169	2016-04-13 00:00:00	2016-03-18 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
 211161	2016061632274	2016-06-06 00:00:00	2016-04-10 07:05:00	PSP	Palm Springs International Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-211165	2016121936042	2016-10-27 00:00:00	2016-10-24 00:00:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink,Household Items			In Review
-211167	2017021337495	2017-01-05 00:00:00	2016-12-30 00:00:00	PSP	Palm Springs International Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219399	2017120145695	2017-12-01 00:00:00	2017-12-01 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+211165	2016121936042	2016-10-27 00:00:00	2016-10-24 00:00:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink*Household Items			In Review
+211167	2017021337495	2017-01-05 00:00:00	2016-12-30 00:00:00	PSP	Palm Springs International Palm Springs International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review
+219399	2017120145695	2017-12-01 00:00:00	2017-12-01 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review
 219401	2017042438850	2017-03-02 00:00:00	2017-02-10 00:00:00	PSP	Palm Springs International Palm Springs International	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage		Other			Closed: Canceled
-219402	2017071841675	2017-06-03 00:00:00	2017-03-16 00:00:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-219403	2017042138787	2017-03-03 00:00:00	2017-02-28 13:30:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics,Office Supplies			In Review
-219404	2018010446445	2017-01-04 00:00:00	2017-12-13 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219405	2018010346405	2017-12-07 00:00:00	2017-11-20 00:00:00	PSP	Palm Springs International Palm Springs International	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage		Electronics			In Review
+219402	2017071841675	2017-06-03 00:00:00	2017-03-16 00:00:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Clothing			In Review
+219403	2017042138787	2017-03-03 00:00:00	2017-02-28 13:30:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing*Cosmetics & Grooming*Office Equipment & Supplies			In Review
+219404	2018010446445	2017-01-04 00:00:00	2017-12-13 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+219405	2018010346405	2017-12-07 00:00:00	2017-11-20 00:00:00	PSP	Palm Springs International Palm Springs International	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage		Computer & Accessories			In Review
 219406	2017092543521	2017-08-09 00:00:00	2017-07-28 00:00:00	PSP	Palm Springs International Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		27.17	Approve in Full
-219411	2017041338573	2017-02-13 00:00:00	2017-02-07 00:00:00	PSP	Palm Springs International Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-219413	2017032738230	2017-01-16 00:00:00	2017-01-02 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
+219411	2017041338573	2017-02-13 00:00:00	2017-02-07 00:00:00	PSP	Palm Springs International Palm Springs International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+219413	2017032738230	2017-01-16 00:00:00	2017-01-02 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
 219414	2017101844500	2017-09-18 00:00:00	2017-09-14 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-219415	2017090542744	2017-07-19 00:00:00	2017-05-01 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Games & Toys			In Review
+219415	2017090542744	2017-07-19 00:00:00	2017-05-01 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Toys & Games			In Review
 219416	2017060140120	2017-05-19 00:00:00	2017-04-28 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-219417	2017063041159	2017-05-19 00:00:00	2017-04-29 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219418	2017032338150	2017-02-20 00:00:00	2017-02-10 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-219420	2017111445148	2017-10-24 00:00:00	2017-10-02 13:25:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-219421	2017042638976	2017-04-25 00:00:00	2017-03-30 11:45:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-219422	2017032338149	2017-01-25 00:00:00	2017-01-21 22:30:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+219417	2017063041159	2017-05-19 00:00:00	2017-04-29 00:00:00	PSP	Palm Springs International Palm Springs International	Westjet Airlines Ltd	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+219418	2017032338150	2017-02-20 00:00:00	2017-02-10 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+219420	2017111445148	2017-10-24 00:00:00	2017-10-02 13:25:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+219421	2017042638976	2017-04-25 00:00:00	2017-03-30 11:45:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+219422	2017032338149	2017-01-25 00:00:00	2017-01-21 22:30:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
 219423	2017042839081	2017-04-28 00:00:00	2017-04-28 00:00:00	PSP	Palm Springs International Palm Springs International	UAL	Passenger Property Loss	Checked Baggage		Other			In Review
-219424	2017111345082	2017-10-30 00:00:00	2017-10-03 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+219424	2017111345082	2017-10-30 00:00:00	2017-10-03 00:00:00	PSP	Palm Springs International Palm Springs International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review

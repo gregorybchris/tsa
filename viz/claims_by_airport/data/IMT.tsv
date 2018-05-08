@@ -1,6 +1,6 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-111922	2007101533415	2007-10-09 00:00:00	2007-09-21 00:00:00	IMT	Ford Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	17.64	Tools & Machines	Denied	0.0	Deny
-132869	2009012354779	2009-01-13 00:00:00	2009-01-04 00:00:00	IMT	Ford Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	31.79	Clothing & Accessories	Denied	0.0	Deny
-137772	2009040257132	2009-05-28 00:00:00	2009-03-09 00:00:00	IMT	Ford Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	204.0	Cosmetics	Settled	51.0	Settle
-164626	2011101888060	2011-10-07 00:00:00	2011-10-05 00:00:00	IMT	Ford Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		13.5	Settle
-180428	2013061004135	2013-05-06 00:00:00	2013-04-26 00:00:00	IMT	Ford Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+111922	2007101533415	2007-10-09 00:00:00	2007-09-21 00:00:00	IMT	Ford Airport	Midwest Express Airlines	Passenger Property Loss	Checked Baggage	17.64	Locks	Denied	0.0	Deny
+132869	2009012354779	2009-01-13 00:00:00	2009-01-04 00:00:00	IMT	Ford Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	31.79	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+137772	2009040257132	2009-05-28 00:00:00	2009-03-09 00:00:00	IMT	Ford Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	204.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	51.0	Settle
+164626	2011101888060	2011-10-07 00:00:00	2011-10-05 00:00:00	IMT	Ford Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		13.5	Settle
+180428	2013061004135	2013-05-06 00:00:00	2013-04-26 00:00:00	IMT	Ford Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny

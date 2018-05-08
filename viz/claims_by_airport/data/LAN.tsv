@@ -1,39 +1,39 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-39418	2004080260345	2004-07-07 00:00:00	2004-01-18 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage	775.0	Clothing & Accessories	Denied	0.0	Deny
-49627	2004122971490	2004-11-09 00:00:00	2004-10-11 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	2650.0	Watches & Jewelry	Denied	0.0	Deny
+39418	2004080260345	2004-07-07 00:00:00	2004-01-18 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage	775.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+49627	2004122971490	2004-11-09 00:00:00	2004-10-11 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	2650.0	Jewelry - Fine	Denied	0.0	Deny
 66156	2005062387088	2005-06-14 00:00:00	2005-06-03 00:00:00	LAN	Capital City, Lansing		Passenger Property Loss	Checkpoint	31.64	Other	Denied	0.0	Deny
 68265	2005072289491	2005-07-18 00:00:00	2005-06-18 00:00:00	LAN	Capital City, Lansing	Korean Airlines	Passenger Property Loss	Checked Baggage	31.0	Other	Approved	31.0	Approve in Full
-72951	2005100594059	2005-09-29 00:00:00	2005-09-06 00:00:00	LAN	Capital City, Lansing		Passenger Property Loss	Checkpoint	42.0	Watches & Jewelry	Denied	0.0	Deny
-72991	2005100594064	2005-09-29 00:00:00	2005-09-22 00:00:00	LAN	Capital City, Lansing		Passenger Property Loss	Checked Baggage	190.0	Clothing & Accessories	Settled	60.0	Settle
-76923	2005121597876	2005-12-12 00:00:00	2005-12-01 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage	699.5	Clothing & Accessories	Denied	0.0	Deny
+72951	2005100594059	2005-09-29 00:00:00	2005-09-06 00:00:00	LAN	Capital City, Lansing		Passenger Property Loss	Checkpoint	42.0	Jewelry - Fine	Denied	0.0	Deny
+72991	2005100594064	2005-09-29 00:00:00	2005-09-22 00:00:00	LAN	Capital City, Lansing		Passenger Property Loss	Checked Baggage	190.0	Clothing - Shoes, belts, accessories, etc.	Settled	60.0	Settle
+76923	2005121597876	2005-12-12 00:00:00	2005-12-01 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage	699.5	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
 77082	2005122198159	2005-12-14 00:00:00	2005-09-05 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	117.9	Other	Denied	0.0	Deny
 78263	2006011199404	2006-01-06 00:00:00	2005-12-25 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-79417	2006012600369	2006-01-24 00:00:00	2006-01-08 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Canceled	0.0	
+79417	2006012600369	2006-01-24 00:00:00	2006-01-08 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Jewelry - Fine	Canceled	0.0	
 81928	2006031403074	2006-03-09 00:00:00	2005-11-28 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage	118.69	Other	Denied	0.0	Deny
 84728	2006051206206	2006-05-02 00:00:00	2006-04-20 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Other	Denied	0.0	Deny
-84870	2006051005848	2006-05-05 00:00:00	2006-04-30 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	858.3	Games & Toys,Other	Denied	0.0	Deny
-88961	2006073110221	2006-07-26 00:00:00	2006-01-15 00:00:00	LAN	Capital City, Lansing	Allegiant Air	Passenger Property Loss	Checked Baggage	100.0	Tools & Machines	Denied	0.0	Deny
-94268	2006111515619	2006-11-07 00:00:00	2006-05-25 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Watches & Jewelry	Denied	0.0	Deny
-104324	2007052325876	2007-05-15 00:00:00	2007-05-10 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checkpoint	210.5	Cosmetics	Denied	0.0	Deny
-106017	2007062127295	2007-06-19 00:00:00	2007-05-16 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	29.99	Electronics	Denied	0.0	Deny
-109539	2007082330746	2007-08-23 00:00:00	2007-08-20 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	455.64	Electronics	Denied	0.0	Deny
-114443	2007120335902	2007-11-29 00:00:00	2007-10-26 00:00:00	LAN	Capital City, Lansing	Allegiant Air	Passenger Property Loss	Checked Baggage	120.21	Watches & Jewelry	Denied	0.0	Deny
-116530	2008011638039	2008-01-10 00:00:00	2007-12-27 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	49.49	Clothing & Accessories,Other	Denied	0.0	Deny
-122283	2008020139027	2008-05-04 00:00:00	2008-01-19 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	9.86	Tools & Machines	Denied	0.0	Deny
-123538	2008060345186	2008-05-30 00:00:00	2008-04-04 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	1897.4	Electronics	Denied	0.0	Deny
-123590	2008060345185	2008-06-02 00:00:00	2008-02-23 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checkpoint	16950.0	Watches & Jewelry	Denied	0.0	Deny
-125440	2008071847112	2008-07-14 00:00:00	2008-07-09 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Denied	0.0	Deny
+84870	2006051005848	2006-05-05 00:00:00	2006-04-30 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	858.3	Game Equipment (poker chips, checker sets, chess etc.)*Other	Denied	0.0	Deny
+88961	2006073110221	2006-07-26 00:00:00	2006-01-15 00:00:00	LAN	Capital City, Lansing	Allegiant Air	Passenger Property Loss	Checked Baggage	100.0	Barber Supplies - Scissors, shears, elecric razors, etc.	Denied	0.0	Deny
+94268	2006111515619	2006-11-07 00:00:00	2006-05-25 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Jewelry - Fine	Denied	0.0	Deny
+104324	2007052325876	2007-05-15 00:00:00	2007-05-10 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checkpoint	210.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+106017	2007062127295	2007-06-19 00:00:00	2007-05-16 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	29.99	Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)	Denied	0.0	Deny
+109539	2007082330746	2007-08-23 00:00:00	2007-08-20 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	455.64	Cameras - Digital	Denied	0.0	Deny
+114443	2007120335902	2007-11-29 00:00:00	2007-10-26 00:00:00	LAN	Capital City, Lansing	Allegiant Air	Passenger Property Loss	Checked Baggage	120.21	Jewelry - Fine	Denied	0.0	Deny
+116530	2008011638039	2008-01-10 00:00:00	2007-12-27 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	49.49	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+122283	2008020139027	2008-05-04 00:00:00	2008-01-19 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	9.86	Locks	Denied	0.0	Deny
+123538	2008060345186	2008-05-30 00:00:00	2008-04-04 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	1897.4	Computer - Laptop	Denied	0.0	Deny
+123590	2008060345185	2008-06-02 00:00:00	2008-02-23 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checkpoint	16950.0	Jewelry - Fine	Denied	0.0	Deny
+125440	2008071847112	2008-07-14 00:00:00	2008-07-09 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	60.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
 126797	2008081448648	2008-08-11 00:00:00	2008-07-28 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	127.0	Other	Denied	0.0	Deny
-130657	2008111952554	2008-11-14 00:00:00	2008-10-19 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Denied	0.0	Deny
-131660	2008121853517	2008-12-11 00:00:00	2008-11-30 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-138698	2009062960711	2009-06-23 00:00:00	2009-06-20 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	210.6	Supplies	Denied	0.0	Deny
-142161	2009093064182	2009-09-28 00:00:00	2009-08-24 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	3045.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+130657	2008111952554	2008-11-14 00:00:00	2008-10-19 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	14.0	Locks	Denied	0.0	Deny
+131660	2008121853517	2008-12-11 00:00:00	2008-11-30 00:00:00	LAN	Capital City, Lansing	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+138698	2009062960711	2009-06-23 00:00:00	2009-06-20 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	210.6	Medicines	Denied	0.0	Deny
+142161	2009093064182	2009-09-28 00:00:00	2009-08-24 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage	3045.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
 157473	2011021480196	2011-02-14 00:00:00	2011-01-31 05:00:00	LAN	Capital City, Lansing		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-163492	2011091687000	2011-08-29 00:00:00	2011-08-14 08:15:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
-165674	2011112989196	2011-11-14 00:00:00	2011-10-23 08:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-167653	2012022491291	2012-01-20 00:00:00	2011-12-17 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-182820	2013091206837	2013-07-30 00:00:00	2013-07-04 18:00:00	LAN	Capital City, Lansing	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		35.0	Approve in Full
-199601	2015040321752	2015-04-03 00:00:00	2015-04-01 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		250.0	Settle
-208136	2016032330036	2016-03-11 00:00:00	2016-02-23 21:00:00	LAN	 Capital City, Lansing	Inc	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry		0.0	Deny
-216394	2017053140069	2017-05-08 00:00:00	2017-05-05 00:00:00	LAN	Capital City, Lansing Capital City, Lansing	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-216395	2017072641846	2017-07-11 00:00:00	2017-07-07 16:00:00	LAN	Capital City, Lansing Capital City, Lansing	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Electronics,Other			In Review
+163492	2011091687000	2011-08-29 00:00:00	2011-08-14 08:15:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Clothing*Other		0.0	Deny
+165674	2011112989196	2011-11-14 00:00:00	2011-10-23 08:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+167653	2012022491291	2012-01-20 00:00:00	2011-12-17 00:00:00	LAN	Capital City, Lansing	UAL	Passenger Property Loss	Checked Baggage		Audio/Video*Personal Electronics		0.0	Deny
+182820	2013091206837	2013-07-30 00:00:00	2013-07-04 18:00:00	LAN	Capital City, Lansing	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		35.0	Approve in Full
+199601	2015040321752	2015-04-03 00:00:00	2015-04-01 00:00:00	LAN	Capital City, Lansing	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		250.0	Settle
+208136	2016032330036	2016-03-11 00:00:00	2016-02-23 21:00:00	LAN	 Capital City, Lansing	Inc	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches*Jewelry & Watches		0.0	Deny
+216394	2017053140069	2017-05-08 00:00:00	2017-05-05 00:00:00	LAN	Capital City, Lansing Capital City, Lansing	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories			In Review
+216395	2017072641846	2017-07-11 00:00:00	2017-07-07 16:00:00	LAN	Capital City, Lansing Capital City, Lansing	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Computer & Accessories*Personal Documents			In Review

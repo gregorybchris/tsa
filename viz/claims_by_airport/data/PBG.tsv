@@ -1,9 +1,9 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-131657	2008122253697	2008-12-11 00:00:00	2008-12-01 00:00:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checked Baggage	265.18	Cosmetics,Tools & Machines	Denied	0.0	Deny
-136433	2009050758421	2009-04-21 00:00:00	2009-03-30 00:00:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checkpoint	323.97	Electronics	Denied	0.0	Deny
-143540	2009112465668	2009-11-12 00:00:00	2009-10-10 08:30:00	PBG	Plattsburgh International Aiport		Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Denied	0.0	Deny
-158319	2011040281798	2011-03-14 00:00:00	2011-01-02 10:45:00	PBG	Plattsburgh International Aiport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		7.41	Approve in Full
+131657	2008122253697	2008-12-11 00:00:00	2008-12-01 00:00:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checked Baggage	265.18	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Locks	Denied	0.0	Deny
+136433	2009050758421	2009-04-21 00:00:00	2009-03-30 00:00:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checkpoint	323.97	Cameras - Digital	Denied	0.0	Deny
+143540	2009112465668	2009-11-12 00:00:00	2009-10-10 08:30:00	PBG	Plattsburgh International Aiport		Passenger Property Loss	Checked Baggage	180.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+158319	2011040281798	2011-03-14 00:00:00	2011-01-02 10:45:00	PBG	Plattsburgh International Aiport	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories		7.41	Approve in Full
 161083	2011062484600	2011-06-13 00:00:00	2011-04-19 00:00:00	PBG	Plattsburgh International Aiport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-171386	2012062895004	2012-05-31 00:00:00	2012-04-19 11:30:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-202137	2015111326842	2015-10-27 00:00:00	2015-10-15 00:00:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checkpoint		Clothing & Accessories		50.0	Approve in Full
-210623	2016060331976	2016-05-25 00:00:00	2016-05-22 12:35:00	PBG	Plattsburgh International Aiport		Passenger Property Loss	Checkpoint		Other		0.0	Deny
+171386	2012062895004	2012-05-31 00:00:00	2012-04-19 11:30:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+202137	2015111326842	2015-10-27 00:00:00	2015-10-15 00:00:00	PBG	Plattsburgh International Aiport	Allegiant Air	Passenger Property Loss	Checkpoint		Clothing		50.0	Approve in Full
+210623	2016060331976	2016-05-25 00:00:00	2016-05-22 12:35:00	PBG	Plattsburgh International Aiport		Passenger Property Loss	Checkpoint		Currency		0.0	Deny

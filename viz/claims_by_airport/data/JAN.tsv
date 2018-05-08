@@ -1,129 +1,129 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-1824	0124012L	2003-01-24 00:00:00	2002-12-16 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	360.4	Electronics	Denied	360.4	Deny
-3903	0318109L	2003-03-18 00:00:00	2003-02-11 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	1160.0	Watches & Jewelry	Settled	580.0	Settle
-32294	2004052052907	2004-04-06 00:00:00	2004-03-10 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	151.41	Electronics	Settled	76.0	Settle
-35506	2004061656041	2004-05-19 00:00:00	2003-12-29 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	275.0	Electronics	Approved	275.0	Approve in Full
+1824	0124012L	2003-01-24 00:00:00	2002-12-16 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	360.4	Cell Phones	Denied	360.4	Deny
+3903	0318109L	2003-03-18 00:00:00	2003-02-11 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	1160.0	Jewelry - Fine	Settled	580.0	Settle
+32294	2004052052907	2004-04-06 00:00:00	2004-03-10 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	151.41	Cameras - Digital	Settled	76.0	Settle
+35506	2004061656041	2004-05-19 00:00:00	2003-12-29 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	275.0	Cameras - Digital	Approved	275.0	Approve in Full
 39806	2004080360452	2004-07-09 00:00:00	2004-06-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	65.0	Other	Settled	32.5	Settle
-40513	2004081061020	2004-07-20 00:00:00	2004-07-06 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	400.0	Other	Approved	400.0	Approve in Full
-43898	2004091562941	2004-09-01 00:00:00	2004-08-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Theft	Checked Baggage	350.0	Electronics	Denied	0.0	Deny
+40513	2004081061020	2004-07-20 00:00:00	2004-07-06 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	400.0	Currency	Approved	400.0	Approve in Full
+43898	2004091562941	2004-09-01 00:00:00	2004-08-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Theft	Checked Baggage	350.0	Cameras - Digital	Denied	0.0	Deny
 43901	2004091562966	2004-09-01 00:00:00	2004-08-17 00:00:00	JAN	Jackson International		Passenger Theft	Checked Baggage	115.0	Other	Denied	0.0	Deny
 47578	2004120368438	2004-10-18 00:00:00	2004-09-01 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	3.98	Other	Approved	3.98	Approve in Full
-51643	2005010472600	2004-12-10 00:00:00	2004-10-26 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	100.0	Supplies	Approved	100.0	Approve in Full
+51643	2005010472600	2004-12-10 00:00:00	2004-10-26 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	100.0	Medicines	Approved	100.0	Approve in Full
 52122	2005010472658	2004-12-14 00:00:00	2004-11-07 00:00:00	JAN	Jackson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	235.39	Other	Denied	0.0	Deny
 56677	2005031077646	2005-02-08 00:00:00	2005-01-03 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	18.5	Other	Approved	18.5	Approve in Full
-64171	2005052385280	2005-05-17 00:00:00	2005-02-15 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Denied	0.0	Deny
+64171	2005052385280	2005-05-17 00:00:00	2005-02-15 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	70.0	Jewelry - Fine	Denied	0.0	Deny
 67747	2005071288733	2005-07-11 00:00:00	2005-06-05 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
 67861	2005071488883	2005-07-13 00:00:00	2005-05-30 00:00:00	JAN	Jackson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	126.17	Other	Approved	126.17	Approve in Full
-68376	2005072289485	2005-07-20 00:00:00	2005-07-14 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.55	Watches & Jewelry	Approved	69.55	Approve in Full
+68376	2005072289485	2005-07-20 00:00:00	2005-07-14 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.55	Jewelry - Fine	Approved	69.55	Approve in Full
 68456	2005072289470	2005-07-20 00:00:00	2005-07-02 00:00:00	JAN	Jackson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	275.0	Other	Denied	0.0	Deny
 69246	2005081090311	2005-08-02 00:00:00	2005-07-19 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	18.0	Other	Approved	18.0	Approve in Full
-70775	2005083091812	2005-08-24 00:00:00	2005-08-13 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	615.78	Electronics	Denied	0.0	Deny
-71594	2005091992682	2005-09-08 00:00:00	2005-06-17 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	3850.0	Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-72345	2005092993454	2005-09-19 00:00:00	2005-07-19 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	884.92	Electronics	Settled	269.9	Settle
-73292	2005101194350	2005-10-04 00:00:00	2005-09-08 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	215.0	Electronics	Settled	194.23	Settle
-73686	2005101794726	2005-10-12 00:00:00	2005-01-09 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+70775	2005083091812	2005-08-24 00:00:00	2005-08-13 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	615.78	Cameras - Digital	Denied	0.0	Deny
+71594	2005091992682	2005-09-08 00:00:00	2005-06-17 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	3850.0	Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+72345	2005092993454	2005-09-19 00:00:00	2005-07-19 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	884.92	Stereo Items & Accessories	Settled	269.9	Settle
+73292	2005101194350	2005-10-04 00:00:00	2005-09-08 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	215.0	Cameras - Digital	Settled	194.23	Settle
+73686	2005101794726	2005-10-12 00:00:00	2005-01-09 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras - Digital	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
 74628	2005110895749	2005-10-28 00:00:00	2005-09-14 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	186.0	Other	Denied	0.0	Deny
 74923	2005111596100	2005-11-02 00:00:00	2005-07-25 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	633.0	Other	Settled	582.09	Settle
-76226	2005120897358	2005-11-29 00:00:00	2005-09-15 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint	35.0	Other	Approved	35.0	Approve in Full
-76956	2005122198215	2005-12-12 00:00:00	2005-11-14 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint	43000.0	Watches & Jewelry	Denied	0.0	Deny
-78119	2006010999175	2006-01-04 00:00:00	2005-11-23 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	368.0	Clothing & Accessories	Settled	119.99	Settle
-78827	2006012400228	2006-01-14 00:00:00	2005-11-06 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1560.0	Other	Denied	0.0	Deny
+76226	2005120897358	2005-11-29 00:00:00	2005-09-15 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint	35.0	Currency	Approved	35.0	Approve in Full
+76956	2005122198215	2005-12-12 00:00:00	2005-11-14 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint	43000.0	Jewelry - Fine	Denied	0.0	Deny
+78119	2006010999175	2006-01-04 00:00:00	2005-11-23 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	368.0	Clothing - Shoes, belts, accessories, etc.	Settled	119.99	Settle
+78827	2006012400228	2006-01-14 00:00:00	2005-11-06 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1560.0	Currency	Denied	0.0	Deny
 80792	2006022201885	2006-02-15 00:00:00	2006-02-02 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	58.5	Other	Settled	29.25	Settle
-82272	2006032103418	2006-03-15 00:00:00	2006-02-01 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	189.0	Electronics	Denied	0.0	Deny
-82735	2006040403947	2006-03-23 00:00:00	2006-03-09 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1500.0	Watches & Jewelry	Denied	0.0	Deny
-83910	2006042505323	2006-04-17 00:00:00	2006-04-04 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
-85722	2006052406948	2006-05-23 00:00:00	2006-05-20 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	223.0	Clothing & Accessories	Denied	0.0	Deny
-89095	2006080110325	2006-07-28 00:00:00	2006-07-23 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	110.0	Cosmetics	Denied	0.0	Deny
-91527	2006091812761	2006-09-13 00:00:00	2006-09-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint	663.96	Electronics	Denied	0.0	Deny
-97349	2007010818477	2007-01-04 00:00:00	2006-11-28 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	257.99	Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
-98887	2007020520124	2007-01-26 00:00:00	2007-01-15 00:00:00	JAN	Jackson International	USAir	Passenger Property Loss	Checked Baggage	2695.99	Containers,Electronics,Electronics,Cosmetics,Scientific Intruments,Clothing & Accessories	Denied	0.0	Deny
-99084	2007020520185	2007-01-30 00:00:00	2006-12-31 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	132.06	Cosmetics	Denied	0.0	Deny
-101120	2007031422302	2007-03-12 00:00:00	2007-02-11 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5642.25	Watches & Jewelry	Denied	0.0	Deny
-103078	2007042424441	2007-04-19 00:00:00	2007-04-13 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Approved	30.0	Approve in Full
-104560	2007052325854	2007-05-21 00:00:00	2007-04-13 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	1925.04	Watches & Jewelry	Canceled	0.0	
-105205	2007061326820	2007-06-04 00:00:00	2007-05-29 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	65.0	Watches & Jewelry	Approved	65.0	Approve in Full
-105684	2007061226770	2007-06-12 00:00:00	2007-03-17 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.62	Scientific Intruments	Approved	25.62	Approve in Full
-109153	2007082030481	2007-08-16 00:00:00	2007-08-08 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	349.99	Electronics	Denied	0.0	Deny
-109335	2007082430864	2007-08-21 00:00:00	2007-06-20 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.0	Household Items	Approved	27.0	Approve in Full
-112066	2007101533385	2007-10-12 00:00:00	2007-09-26 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	147.35	Electronics	Denied	0.0	Deny
-112411	2007102433832	2007-10-19 00:00:00	2007-10-17 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	59.99	Electronics	Approved	59.99	Approve in Full
-114396	2007120335896	2007-11-28 00:00:00	2007-11-13 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	7600.0	Watches & Jewelry	Denied	0.0	Deny
-115292	2007122136794	2007-12-17 00:00:00	2007-11-27 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	109.36	Scientific Intruments	Denied	0.0	Deny
-116354	2008011437808	2008-01-08 00:00:00	2008-01-03 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	85.59	Electronics	Denied	0.0	Deny
-116844	2008012338384	2008-01-15 00:00:00	2007-12-29 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage	202.0	Clothing & Accessories	Denied	0.0	Deny
-117128	2008012938759	2008-01-22 00:00:00	2008-01-06 00:00:00	JAN	Jackson International	American Eagle	Passenger Property Loss	Checked Baggage	523.0	Clothing & Accessories,Electronics,Supplies,Other	Denied	0.0	Deny
-119034	2008041542542	2008-02-28 00:00:00	2008-02-07 00:00:00	JAN	Jackson International	American Central	Passenger Property Loss	Checkpoint	950.0	Watches & Jewelry	Denied	0.0	Deny
-123599	2008060345207	2008-06-02 00:00:00	2008-05-20 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	1408.56	Electronics	Denied	0.0	Deny
-123822	2008061145546	2008-06-06 00:00:00	2008-05-21 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	158.44	Other,Electronics	Canceled	0.0	
-125151	2008071646967	2008-07-07 00:00:00	2008-05-10 00:00:00	JAN	Jackson International	Condor Air	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
-125549	2008072347257	2008-07-15 00:00:00	2008-06-04 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	106.99	Electronics	Denied	0.0	Deny
-127105	2008082148942	2008-08-18 00:00:00	2008-08-08 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Tools & Machines	Denied	0.0	Deny
-127411	2008082949264	2008-08-26 00:00:00	2008-08-20 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage	420.0	Food & Drink,Tools & Machines	Canceled	0.0	
-127549	2008090549584	2008-08-27 00:00:00	2008-07-28 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	4000.0	Watches & Jewelry	In litigation		Deny
-129384	2008101651238	2008-10-14 00:00:00	2008-10-10 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage	70.0	Outdoors Supplies	Denied	0.0	Deny
-131284	2008120453103	2008-12-02 00:00:00	2008-11-26 00:00:00	JAN	Jackson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	342.49	Games & Toys	Denied	0.0	Deny
+82272	2006032103418	2006-03-15 00:00:00	2006-02-01 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	189.0	Cameras - Digital	Denied	0.0	Deny
+82735	2006040403947	2006-03-23 00:00:00	2006-03-09 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1500.0	Jewelry - Fine	Denied	0.0	Deny
+83910	2006042505323	2006-04-17 00:00:00	2006-04-04 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	100.0	Currency	Approved	100.0	Approve in Full
+85722	2006052406948	2006-05-23 00:00:00	2006-05-20 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	223.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+89095	2006080110325	2006-07-28 00:00:00	2006-07-23 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	110.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+91527	2006091812761	2006-09-13 00:00:00	2006-09-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint	663.96	Cameras - Digital	Denied	0.0	Deny
+97349	2007010818477	2007-01-04 00:00:00	2006-11-28 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	257.99	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+98887	2007020520124	2007-01-26 00:00:00	2007-01-15 00:00:00	JAN	Jackson International	USAir	Passenger Property Loss	Checked Baggage	2695.99	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Dental Equipment and Instruments*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+99084	2007020520185	2007-01-30 00:00:00	2006-12-31 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	132.06	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+101120	2007031422302	2007-03-12 00:00:00	2007-02-11 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5642.25	Jewelry - Fine	Denied	0.0	Deny
+103078	2007042424441	2007-04-19 00:00:00	2007-04-13 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Locks	Approved	30.0	Approve in Full
+104560	2007052325854	2007-05-21 00:00:00	2007-04-13 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	1925.04	Jewelry - Fine	Canceled	0.0	
+105205	2007061326820	2007-06-04 00:00:00	2007-05-29 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	65.0	Watches - Inexpensive $100 or less	Approved	65.0	Approve in Full
+105684	2007061226770	2007-06-12 00:00:00	2007-03-17 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.62	Medical Equipment & Insturments	Approved	25.62	Approve in Full
+109153	2007082030481	2007-08-16 00:00:00	2007-08-08 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	349.99	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+109335	2007082430864	2007-08-21 00:00:00	2007-06-20 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.0	Linens - Quilts, Comforters	Approved	27.0	Approve in Full
+112066	2007101533385	2007-10-12 00:00:00	2007-09-26 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	147.35	Cameras - Digital	Denied	0.0	Deny
+112411	2007102433832	2007-10-19 00:00:00	2007-10-17 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	59.99	Cell Phones	Approved	59.99	Approve in Full
+114396	2007120335896	2007-11-28 00:00:00	2007-11-13 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	7600.0	Jewelry - Fine	Denied	0.0	Deny
+115292	2007122136794	2007-12-17 00:00:00	2007-11-27 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	109.36	Professional Equipment	Denied	0.0	Deny
+116354	2008011437808	2008-01-08 00:00:00	2008-01-03 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	85.59	Stereo Items & Accessories	Denied	0.0	Deny
+116844	2008012338384	2008-01-15 00:00:00	2007-12-29 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage	202.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+117128	2008012938759	2008-01-22 00:00:00	2008-01-06 00:00:00	JAN	Jackson International	American Eagle	Passenger Property Loss	Checked Baggage	523.0	Eyeglasses - (including contact lenses)*MP3 Players-(iPods, etc)*Medicines*Other	Denied	0.0	Deny
+119034	2008041542542	2008-02-28 00:00:00	2008-02-07 00:00:00	JAN	Jackson International	American Central	Passenger Property Loss	Checkpoint	950.0	Jewelry - Fine	Denied	0.0	Deny
+123599	2008060345207	2008-06-02 00:00:00	2008-05-20 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage	1408.56	Computer - Laptop	Denied	0.0	Deny
+123822	2008061145546	2008-06-06 00:00:00	2008-05-21 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	158.44	Other*Video Recordings - Laser Discs	Canceled	0.0	
+125151	2008071646967	2008-07-07 00:00:00	2008-05-10 00:00:00	JAN	Jackson International	Condor Air	Passenger Property Loss	Checkpoint	100.0	Currency	Denied	0.0	Deny
+125549	2008072347257	2008-07-15 00:00:00	2008-06-04 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	106.99	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+127105	2008082148942	2008-08-18 00:00:00	2008-08-08 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Locks	Denied	0.0	Deny
+127411	2008082949264	2008-08-26 00:00:00	2008-08-20 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage	420.0	Alcoholic beverages*Barber Supplies - Scissors, shears, elecric razors, etc.	Canceled	0.0	
+127549	2008090549584	2008-08-27 00:00:00	2008-07-28 00:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checkpoint	4000.0	Jewelry - Fine	In litigation		Deny
+129384	2008101651238	2008-10-14 00:00:00	2008-10-10 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage	70.0	Umbrellas	Denied	0.0	Deny
+131284	2008120453103	2008-12-02 00:00:00	2008-11-26 00:00:00	JAN	Jackson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	342.49	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
 137362	2009040957253	2009-05-18 00:00:00	2009-02-15 00:00:00	JAN	Jackson International		Passenger Property Loss	Checked Baggage	57.0	Other	Denied	0.0	Deny
-137836	2009060559898	2009-06-01 00:00:00	2009-05-15 00:00:00	JAN	Jackson International	American Eagle	Passenger Property Loss	Checkpoint	139.0	Clothing & Accessories	Approved	139.0	Approve in Full
-143324	2009111365353	2009-11-04 00:00:00	2009-10-15 10:30:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.94	Tools & Machines	Denied	0.0	Deny
-144571	2009121766631	2009-12-11 00:00:00	2009-12-03 12:10:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	499.97	Electronics	Denied	0.0	Deny
-144662	2009122266730	2009-12-15 00:00:00	2009-11-28 06:30:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	200.0	Watches & Jewelry	Denied	0.0	Deny
-146682	2010032269840	2010-03-15 00:00:00	2010-03-14 07:46:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-147103	2010033070241	2010-03-29 00:00:00	2010-03-09 16:50:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-149262	2010060972546	2010-06-02 00:00:00	2010-05-29 16:50:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-149696	2010062272944	2010-06-16 00:00:00	2010-05-27 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-149927	2010062172860	2010-06-24 00:00:00	2010-05-31 11:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-149999	2010062973206	2010-06-28 00:00:00	2010-06-13 23:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-150080	2010070173285	2010-06-29 00:00:00	2010-06-15 07:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+137836	2009060559898	2009-06-01 00:00:00	2009-05-15 00:00:00	JAN	Jackson International	American Eagle	Passenger Property Loss	Checkpoint	139.0	Eyeglasses - (including contact lenses)	Approved	139.0	Approve in Full
+143324	2009111365353	2009-11-04 00:00:00	2009-10-15 10:30:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.94	Locks	Denied	0.0	Deny
+144571	2009121766631	2009-12-11 00:00:00	2009-12-03 12:10:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	499.97	Cameras - Digital	Denied	0.0	Deny
+144662	2009122266730	2009-12-15 00:00:00	2009-11-28 06:30:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint	200.0	Watches - Expensive more than $100	Denied	0.0	Deny
+146682	2010032269840	2010-03-15 00:00:00	2010-03-14 07:46:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+147103	2010033070241	2010-03-29 00:00:00	2010-03-09 16:50:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+149262	2010060972546	2010-06-02 00:00:00	2010-05-29 16:50:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing			
+149696	2010062272944	2010-06-16 00:00:00	2010-05-27 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+149927	2010062172860	2010-06-24 00:00:00	2010-05-31 11:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+149999	2010062973206	2010-06-28 00:00:00	2010-06-13 23:00:00	JAN	Jackson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+150080	2010070173285	2010-06-29 00:00:00	2010-06-15 07:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
 150866	2010072373995	2010-07-21 00:00:00	2010-07-16 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Other		1593.91	Approve in Full
-151561	2010081374765	2010-08-10 00:00:00	2010-08-08 07:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-152136	2010083075458	2010-08-25 00:00:00	2010-08-02 06:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-153895	2010102677398	2010-10-18 00:00:00	2010-09-18 00:00:00	JAN	Jackson International	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-154095	2010110177519	2010-10-25 00:00:00	2010-10-19 10:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
-159567	2011042683006	2011-04-25 00:00:00	2011-04-17 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-160730	2011061084256	2011-06-01 00:00:00	2011-04-25 15:40:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		350.0	Settle
-161639	2011071385129	2011-06-30 00:00:00	2011-06-23 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-163483	2011093087264	2011-08-26 00:00:00	2011-02-02 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-163645	2011090286675	2011-09-02 00:00:00	2011-07-31 06:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+151561	2010081374765	2010-08-10 00:00:00	2010-08-08 07:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+152136	2010083075458	2010-08-25 00:00:00	2010-08-02 06:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+153895	2010102677398	2010-10-18 00:00:00	2010-09-18 00:00:00	JAN	Jackson International	USAir	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+154095	2010110177519	2010-10-25 00:00:00	2010-10-19 10:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Personal Electronics		0.0	Deny
+159567	2011042683006	2011-04-25 00:00:00	2011-04-17 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+160730	2011061084256	2011-06-01 00:00:00	2011-04-25 15:40:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		350.0	Settle
+161639	2011071385129	2011-06-30 00:00:00	2011-06-23 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+163483	2011093087264	2011-08-26 00:00:00	2011-02-02 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Computer & Accessories		0.0	Deny
+163645	2011090286675	2011-09-02 00:00:00	2011-07-31 06:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
 164082	2011101287717	2011-09-19 00:00:00	2011-08-29 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-164212	2011062984773	2011-09-23 00:00:00	2011-06-21 14:30:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-165581	2011112289167	2011-11-09 00:00:00	2011-10-31 13:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-168048	2012031591731	2012-02-01 00:00:00	2011-12-03 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-172210	2012080895907	2012-07-02 00:00:00	2012-04-28 06:39:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-172637	2012082996390	2012-07-16 00:00:00	2012-07-09 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-172985	2012091096701	2012-07-30 00:00:00	2012-07-21 05:15:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-173760	2012101697616	2012-08-24 00:00:00	2012-08-02 16:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		310.5	Settle
-178150	2013022501976	2013-02-07 00:00:00	2012-12-24 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry		0.0	Deny
-179754	2013042903386	2013-04-09 00:00:00	2012-08-13 10:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Approve in Full
-180307	2013061104204	2013-05-01 00:00:00	2013-03-22 18:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Clothing & Accessories		0.0	Deny
+164212	2011062984773	2011-09-23 00:00:00	2011-06-21 14:30:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Travel Accessories		0.0	Deny
+165581	2011112289167	2011-11-09 00:00:00	2011-10-31 13:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+168048	2012031591731	2012-02-01 00:00:00	2011-12-03 00:00:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Currency		0.0	Deny
+172210	2012080895907	2012-07-02 00:00:00	2012-04-28 06:39:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+172637	2012082996390	2012-07-16 00:00:00	2012-07-09 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+172985	2012091096701	2012-07-30 00:00:00	2012-07-21 05:15:00	JAN	Jackson International		Passenger Property Loss	Checkpoint		Computer & Accessories		0.0	Deny
+173760	2012101697616	2012-08-24 00:00:00	2012-08-02 16:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		310.5	Settle
+178150	2013022501976	2013-02-07 00:00:00	2012-12-24 00:00:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing*Jewelry & Watches		0.0	Deny
+179754	2013042903386	2013-04-09 00:00:00	2012-08-13 10:30:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		50.0	Approve in Full
+180307	2013061104204	2013-05-01 00:00:00	2013-03-22 18:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items*Personal Accessories		0.0	Deny
 180654	2013061904533	2013-05-14 00:00:00	2013-04-21 08:25:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		76.0	Approve in Full
-181800	2013062804931	2013-06-25 00:00:00	2013-06-03 15:40:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-181892	2013080805764	2013-06-27 00:00:00	2013-06-23 11:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-182001	2013080505661	2013-07-01 00:00:00	2013-06-23 11:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		19.0	Approve in Full
-184629	2013102808109	2013-10-01 00:00:00	2013-09-30 06:40:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checkpoint		Containers		80.0	Approve in Full
-184802	2013110808989	2013-10-11 00:00:00	2013-10-10 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
-186198	2013121009981	2013-12-09 00:00:00	2013-11-25 09:56:00	JAN	Jackson International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-186222	2013121310045	2013-12-09 00:00:00	2013-10-02 07:05:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-189677	2014042413483	2014-04-21 00:00:00	2014-04-06 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+181800	2013062804931	2013-06-25 00:00:00	2013-06-03 15:40:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+181892	2013080805764	2013-06-27 00:00:00	2013-06-23 11:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+182001	2013080505661	2013-07-01 00:00:00	2013-06-23 11:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		19.0	Approve in Full
+184629	2013102808109	2013-10-01 00:00:00	2013-09-30 06:40:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses		80.0	Approve in Full
+184802	2013110808989	2013-10-11 00:00:00	2013-10-10 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories			
+186198	2013121009981	2013-12-09 00:00:00	2013-11-25 09:56:00	JAN	Jackson International	UAL	Passenger Property Loss	Checkpoint		Jewelry & Watches			
+186222	2013121310045	2013-12-09 00:00:00	2013-10-02 07:05:00	JAN	Jackson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			
+189677	2014042413483	2014-04-21 00:00:00	2014-04-06 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
 189805	2014043013614	2014-04-28 00:00:00	2014-04-22 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		303.21	Approve in Full
-190501	2014053014321	2014-05-22 00:00:00	2014-05-14 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		146.04	Settle
-191237	2014071015071	2014-06-26 00:00:00	2014-06-08 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		567.09	Approve in Full
-191613	2014072915457	2014-07-10 00:00:00	2014-07-07 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Cosmetics,Watches & Jewelry		0.0	Deny
-193233	2014092917113	2014-08-28 00:00:00	2014-08-23 00:00:00	JAN	Jackson International	USAir	Passenger Property Loss	Checked Baggage		Other,Other		0.0	Deny
-198992	2015020220330	2015-02-02 00:00:00	2014-12-09 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-198994	2015031721294	2015-03-17 00:00:00	2014-06-24 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-198995	2015050822407	2015-05-04 00:00:00	2015-04-28 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-198998	2015080424548	2015-07-29 00:00:00	2015-07-05 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
-199001	2015092425616	2015-09-08 00:00:00	2015-09-05 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-199003	2015111226814	2015-11-02 00:00:00	2015-10-23 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
-199004	2015122227789	2015-12-03 00:00:00	2015-11-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-207602	2017020337248	2016-12-21 00:00:00	2016-12-12 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
-207603	2017020337268	2016-12-28 00:00:00	2016-12-26 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			Insufficient
-207604	2016020828754	2016-01-15 00:00:00	2016-01-13 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Closed:Canceled
-207605	2016100634438	2016-08-23 00:00:00	2016-08-09 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			Closed:Canceled
-207606	2016022529124	2016-02-03 00:00:00	2016-01-31 09:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics		0.0	Deny
-207607	2016040430285	2016-03-15 00:00:00	2016-03-06 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Electronics		0.0	Deny
-207609	2016061532228	2016-06-03 00:00:00	2016-05-30 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-207610	2016071532750	2016-06-23 00:00:00	2016-05-30 07:20:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		0.0	Deny
-207614	2017010636316	2016-11-04 00:00:00	2016-10-04 04:45:00	JAN	Jackson International Jackson International		Passenger Property Loss	Checkpoint		Electronics			In Review
-207615	2016062132334	2016-06-08 00:00:00	2016-05-19 07:20:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		46.5	Settle
-215837	2017030837892	2017-01-18 00:00:00	2017-01-06 10:00:00	JAN	Jackson International Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		6.98	Approve in Full
+190501	2014053014321	2014-05-22 00:00:00	2014-05-14 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		146.04	Settle
+191237	2014071015071	2014-06-26 00:00:00	2014-06-08 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		567.09	Approve in Full
+191613	2014072915457	2014-07-10 00:00:00	2014-07-07 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras*Clothing*Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+193233	2014092917113	2014-08-28 00:00:00	2014-08-23 00:00:00	JAN	Jackson International	USAir	Passenger Property Loss	Checked Baggage		Other*Other		0.0	Deny
+198992	2015020220330	2015-02-02 00:00:00	2014-12-09 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+198994	2015031721294	2015-03-17 00:00:00	2014-06-24 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+198995	2015050822407	2015-05-04 00:00:00	2015-04-28 00:00:00	JAN	Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+198998	2015080424548	2015-07-29 00:00:00	2015-07-05 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches		0.0	Deny
+199001	2015092425616	2015-09-08 00:00:00	2015-09-05 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+199003	2015111226814	2015-11-02 00:00:00	2015-10-23 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics			
+199004	2015122227789	2015-12-03 00:00:00	2015-11-04 00:00:00	JAN	Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+207602	2017020337248	2016-12-21 00:00:00	2016-12-12 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Audio/Video			Insufficient
+207603	2017020337268	2016-12-28 00:00:00	2016-12-26 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			Insufficient
+207604	2016020828754	2016-01-15 00:00:00	2016-01-13 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Toys & Games		0.0	Closed:Canceled
+207605	2016100634438	2016-08-23 00:00:00	2016-08-09 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming			Closed:Canceled
+207606	2016022529124	2016-02-03 00:00:00	2016-01-31 09:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Audio/Video*Cosmetics & Grooming		0.0	Deny
+207607	2016040430285	2016-03-15 00:00:00	2016-03-06 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Personal Electronics		0.0	Deny
+207609	2016061532228	2016-06-03 00:00:00	2016-05-30 00:00:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+207610	2016071532750	2016-06-23 00:00:00	2016-05-30 07:20:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+207614	2017010636316	2016-11-04 00:00:00	2016-10-04 04:45:00	JAN	Jackson International Jackson International		Passenger Property Loss	Checkpoint		Audio/Video			In Review
+207615	2016062132334	2016-06-08 00:00:00	2016-05-19 07:20:00	JAN	Jackson International Jackson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		46.5	Settle
+215837	2017030837892	2017-01-18 00:00:00	2017-01-06 10:00:00	JAN	Jackson International Jackson International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		6.98	Approve in Full

@@ -1,3 +1,3 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-53414	2005012574274	2005-01-04 00:00:00	2004-12-05 00:00:00	VDZ	Valdez Airport		Passenger Property Loss	Checked Baggage	10.99	Tools & Machines	Approved	10.99	Approve in Full
-109115	2007081730398	2007-08-15 00:00:00	2007-07-07 00:00:00	VDZ	Valdez Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	501.58	Outdoors Supplies,Outdoors Supplies	Settled	233.1	Settle
+53414	2005012574274	2005-01-04 00:00:00	2004-12-05 00:00:00	VDZ	Valdez Airport		Passenger Property Loss	Checked Baggage	10.99	Locks	Approved	10.99	Approve in Full
+109115	2007081730398	2007-08-15 00:00:00	2007-07-07 00:00:00	VDZ	Valdez Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	501.58	Sporting Equipment & Supplies (footballs, parachutes, etc.)*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Settled	233.1	Settle

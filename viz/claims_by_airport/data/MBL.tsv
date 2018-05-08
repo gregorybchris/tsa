@@ -1,3 +1,3 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-41334	2004090161820	2004-07-29 00:00:00	2004-07-20 00:00:00	MBL	Manistee County	American Eagle	Passenger Theft	Checked Baggage	1964.12	Electronics	Settled	500.0	Settle
-126299	2008080648099	2008-07-31 00:00:00	2008-07-18 00:00:00	MBL	Manistee County	Great Lakes Airline	Passenger Property Loss	Checked Baggage	76.0	Games & Toys	Denied	0.0	Deny
+41334	2004090161820	2004-07-29 00:00:00	2004-07-20 00:00:00	MBL	Manistee County	American Eagle	Passenger Theft	Checked Baggage	1964.12	Cameras - Digital	Settled	500.0	Settle
+126299	2008080648099	2008-07-31 00:00:00	2008-07-18 00:00:00	MBL	Manistee County	Great Lakes Airline	Passenger Property Loss	Checked Baggage	76.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny

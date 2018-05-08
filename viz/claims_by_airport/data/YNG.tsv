@@ -1,19 +1,19 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-102675	2007041624017	2007-04-11 00:00:00	2007-04-06 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	4.52	Tools & Machines	Approved	4.52	Approve in Full
-103014	2007041824218	2007-04-18 00:00:00	2007-04-06 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	4.52	Tools & Machines	Denied	0.0	Deny
-107305	2007071728539	2007-07-16 00:00:00	2007-07-13 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	467.51	Electronics	Canceled	0.0	
-123505	2008060545295	2008-05-30 00:00:00	2008-05-26 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checkpoint	60.0	Supplies	Approved	60.0	Approve in Full
-150149	2010071473678	2010-06-29 00:00:00	2010-06-11 00:00:00	YNG	Youngstown-Warren Regional		Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-160449	2011060283956	2011-05-23 00:00:00	2011-05-07 00:00:00	YNG	Youngstown-Warren Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		87.5	Settle
-173879	2012101597562	2012-08-28 00:00:00	2012-08-12 18:20:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		99.0	Approve in Full
-188227	2014022611999	2014-02-24 00:00:00	2014-01-30 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-188986	2014032712779	2014-03-25 00:00:00	2014-02-02 00:00:00	YNG	Youngstown-Warren Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-190009	2014050913822	2014-04-28 00:00:00	2014-03-30 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Other			
-191350	2014071615186	2014-07-11 00:00:00	2014-06-26 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-192204	2014082016058	2014-08-20 00:00:00	2014-07-26 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics			
-194854	2014120118768	2014-11-06 00:00:00	2014-10-19 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Scientific Intruments			
-204125	2015072023983	2015-07-13 00:00:00	2015-07-06 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-204126	2015080424556	2015-07-30 00:00:00	2015-07-20 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		3.0	Settle
-212323	2016052631790	2016-05-12 00:00:00	2016-05-08 00:00:00	YNG	Youngstown-Warren Regional Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+102675	2007041624017	2007-04-11 00:00:00	2007-04-06 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	4.52	Locks	Approved	4.52	Approve in Full
+103014	2007041824218	2007-04-18 00:00:00	2007-04-06 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	4.52	Locks	Denied	0.0	Deny
+107305	2007071728539	2007-07-16 00:00:00	2007-07-13 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	467.51	Cameras - Digital	Canceled	0.0	
+123505	2008060545295	2008-05-30 00:00:00	2008-05-26 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checkpoint	60.0	Medicines	Approved	60.0	Approve in Full
+150149	2010071473678	2010-06-29 00:00:00	2010-06-11 00:00:00	YNG	Youngstown-Warren Regional		Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+160449	2011060283956	2011-05-23 00:00:00	2011-05-07 00:00:00	YNG	Youngstown-Warren Regional	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		87.5	Settle
+173879	2012101597562	2012-08-28 00:00:00	2012-08-12 18:20:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		99.0	Approve in Full
+188227	2014022611999	2014-02-24 00:00:00	2014-01-30 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+188986	2014032712779	2014-03-25 00:00:00	2014-02-02 00:00:00	YNG	Youngstown-Warren Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+190009	2014050913822	2014-04-28 00:00:00	2014-03-30 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Currency			
+191350	2014071615186	2014-07-11 00:00:00	2014-06-26 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+192204	2014082016058	2014-08-20 00:00:00	2014-07-26 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+194854	2014120118768	2014-11-06 00:00:00	2014-10-19 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Medical/Science			
+204125	2015072023983	2015-07-13 00:00:00	2015-07-06 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+204126	2015080424556	2015-07-30 00:00:00	2015-07-20 00:00:00	YNG	Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Travel Accessories		3.0	Settle
+212323	2016052631790	2016-05-12 00:00:00	2016-05-08 00:00:00	YNG	Youngstown-Warren Regional Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
 212324	2016062032320	2016-06-06 00:00:00	2016-05-26 00:00:00	YNG	Youngstown-Warren Regional Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-212325	2016102635211	2016-09-21 00:00:00	2016-08-14 00:00:00	YNG	Youngstown-Warren Regional Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+212325	2016102635211	2016-09-21 00:00:00	2016-08-14 00:00:00	YNG	Youngstown-Warren Regional Youngstown-Warren Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review

@@ -1,102 +1,102 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 11509	0723001M	2003-07-23 00:00:00	2003-07-13 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	40.0	Other	Approved	40.0	Approve in Full
-27711	0212252M	2004-02-12 00:00:00	2004-02-03 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Approved	200.0	Approve in Full
+27711	0212252M	2004-02-12 00:00:00	2004-02-03 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Approved	200.0	Approve in Full
 35867	2004061055327	2004-05-27 00:00:00	2004-03-07 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
-35957	2004062156456	2004-05-27 00:00:00	2004-05-15 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.73	Watches & Jewelry	Approved	159.73	Approve in Full
-36671	2004062357077	2004-06-02 00:00:00	2004-03-04 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	228.0	Clothing & Accessories	Approved	228.0	Approve in Full
+35957	2004062156456	2004-05-27 00:00:00	2004-05-15 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.73	Jewelry - Fine	Approved	159.73	Approve in Full
+36671	2004062357077	2004-06-02 00:00:00	2004-03-04 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	228.0	Clothing - Shoes, belts, accessories, etc.	Approved	228.0	Approve in Full
 37530	2004062957791	2004-06-08 00:00:00	2004-05-31 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	55.97	Other	Settled	28.0	Settle
-39682	2004080360476	2004-07-09 00:00:00	2004-06-23 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	122.0	Watches & Jewelry	Denied	0.0	Deny
+39682	2004080360476	2004-07-09 00:00:00	2004-06-23 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	122.0	Jewelry - Fine	Denied	0.0	Deny
 40775	2004082661348	2004-07-21 00:00:00	2004-07-15 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	183.99	Other	Settled	92.0	Settle
-40777	2004082761439	2004-07-21 00:00:00	2004-06-05 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Settled	40.0	Settle
-41048	2004083061581	2004-07-27 00:00:00	2004-06-02 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	74.9	Clothing & Accessories	Approved	74.9	Approve in Full
+40777	2004082761439	2004-07-21 00:00:00	2004-06-05 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Settled	40.0	Settle
+41048	2004083061581	2004-07-27 00:00:00	2004-06-02 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	74.9	Clothing - Shoes, belts, accessories, etc.	Approved	74.9	Approve in Full
 42256	2004091062589	2004-08-10 00:00:00	2004-07-20 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	972.28	Other	Canceled		
 45982	2004110866697	2004-09-28 00:00:00	2004-09-21 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Canceled	0.0	
-48335	2004121769190	2004-10-26 00:00:00	2004-09-27 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Settled	129.76	Settle
+48335	2004121769190	2004-10-26 00:00:00	2004-09-27 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Cameras - Digital	Settled	129.76	Settle
 53995	2005012774552	2005-01-10 00:00:00	2004-12-28 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	140.0	Other	Settled	70.0	Settle
-55886	2005022376709	2005-01-28 00:00:00	2004-12-23 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Supplies	Denied	0.0	Deny
-58752	2005062386965	2005-03-07 00:00:00	2005-02-15 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	270.0	Watches & Jewelry	Settled	135.0	Settle
-62030	2005042082856	2005-04-19 00:00:00	2005-03-23 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.03	Clothing & Accessories	Denied	0.0	Deny
-65099	2005072789735	2005-05-31 00:00:00	2005-05-16 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Electronics	Settled	114.46	Settle
-65932	2005062186845	2005-06-10 00:00:00	2005-05-13 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	204.85	Clothing & Accessories	Denied	0.0	Deny
+55886	2005022376709	2005-01-28 00:00:00	2004-12-23 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Medicines	Denied	0.0	Deny
+58752	2005062386965	2005-03-07 00:00:00	2005-02-15 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	270.0	Jewelry - Fine	Settled	135.0	Settle
+62030	2005042082856	2005-04-19 00:00:00	2005-03-23 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.03	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+65099	2005072789735	2005-05-31 00:00:00	2005-05-16 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Cameras - Digital	Settled	114.46	Settle
+65932	2005062186845	2005-06-10 00:00:00	2005-05-13 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	204.85	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 65987	2005062286860	2005-06-13 00:00:00	2005-05-27 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	56.0	Other	Approved	56.0	Approve in Full
-67221	2005070688293	2005-06-30 00:00:00	2005-04-29 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	318.02	Clothing & Accessories	Approved	323.94	Approve in Full
+67221	2005070688293	2005-06-30 00:00:00	2005-04-29 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	318.02	Eyeglasses - (including contact lenses)	Approved	323.94	Approve in Full
 68186	2005071889153	2005-07-15 00:00:00	2005-04-08 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	665.9	Other	Denied	0.0	Deny
-68288	2005072089280	2005-07-18 00:00:00	2005-07-09 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	550.0	Clothing & Accessories	Denied	0.0	Deny
+68288	2005072089280	2005-07-18 00:00:00	2005-07-09 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	550.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 70821	2005083191975	2005-08-25 00:00:00	2005-07-24 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	16.94	Other	Approved	16.94	Approve in Full
-72661	2005100393705	2005-09-26 00:00:00	2005-09-17 00:00:00	RAP	Rapid City Regional	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	6.95	Tools & Machines	Approved	6.95	Approve in Full
-73534	2005101794631	2005-10-11 00:00:00	2005-09-10 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	325.0	Clothing & Accessories	Denied	0.0	Deny
+72661	2005100393705	2005-09-26 00:00:00	2005-09-17 00:00:00	RAP	Rapid City Regional	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	6.95	Locks	Approved	6.95	Approve in Full
+73534	2005101794631	2005-10-11 00:00:00	2005-09-10 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	325.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 74142	2005102795246	2005-10-20 00:00:00	2005-09-28 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.95	Other	Canceled	0.0	
-76049	2005120797167	2005-11-28 00:00:00	2005-11-17 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-76052	2005120797176	2005-11-28 00:00:00	2005-10-13 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Approved	150.0	Approve in Full
-77699	2006010598915	2005-12-28 00:00:00	2005-12-14 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checkpoint	211.99	Watches & Jewelry	Approved	211.99	Approve in Full
+76049	2005120797167	2005-11-28 00:00:00	2005-11-17 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
+76052	2005120797176	2005-11-28 00:00:00	2005-10-13 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Jewelry - Fine	Approved	150.0	Approve in Full
+77699	2006010598915	2005-12-28 00:00:00	2005-12-14 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checkpoint	211.99	Jewelry - Fine	Approved	211.99	Approve in Full
 78079	2006011099271	2006-01-04 00:00:00	2005-11-12 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	1500.0	Other	Denied	0.0	Deny
-78292	2006011299435	2006-01-09 00:00:00	2004-12-13 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
+78292	2006011299435	2006-01-09 00:00:00	2004-12-13 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Currency	Approved	100.0	Approve in Full
 78786	2006012099919	2006-01-13 00:00:00	2005-12-31 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checkpoint	50.0	Other	Denied	0.0	Deny
-79665	2006013000498	2006-01-27 00:00:00	2006-01-01 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	147.26	Clothing & Accessories	Approved	147.26	Approve in Full
-81873	2006031403029	2006-03-08 00:00:00	2006-01-27 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	392.47	Electronics	Denied	0.0	Deny
+79665	2006013000498	2006-01-27 00:00:00	2006-01-01 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	147.26	Clothing - Shoes, belts, accessories, etc.	Approved	147.26	Approve in Full
+81873	2006031403029	2006-03-08 00:00:00	2006-01-27 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	392.47	Cameras - Digital	Denied	0.0	Deny
 84781	2006051005883	2006-05-03 00:00:00	2006-04-17 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	72.8	Other	Settled	36.4	Settle
-85221	2006051706456	2006-05-12 00:00:00	2006-03-13 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	198.0	Clothing & Accessories	Settled	99.0	Settle
-85394	2006051906627	2006-05-17 00:00:00	2006-05-10 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	447.99	Electronics	Canceled	0.0	
-85829	2006060107132	2006-05-25 00:00:00	2006-05-01 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.85	Tools & Machines	Approved	6.85	Approve in Full
-87148	2006062108383	2006-06-20 00:00:00	2006-05-02 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	296.65	Clothing & Accessories,Watches & Jewelry	Settled	148.0	Settle
+85221	2006051706456	2006-05-12 00:00:00	2006-03-13 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	198.0	Clothing - Shoes, belts, accessories, etc.	Settled	99.0	Settle
+85394	2006051906627	2006-05-17 00:00:00	2006-05-10 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	447.99	Cameras - Digital	Canceled	0.0	
+85829	2006060107132	2006-05-25 00:00:00	2006-05-01 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.85	Locks	Approved	6.85	Approve in Full
+87148	2006062108383	2006-06-20 00:00:00	2006-05-02 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	296.65	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Settled	148.0	Settle
 87874	2006070709134	2006-07-06 00:00:00	2006-06-08 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.7	Other	Denied	0.0	Deny
-88112	2006071309440	2006-07-10 00:00:00	2005-12-11 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-88534	2006071909704	2006-07-17 00:00:00	2006-05-26 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Settled	125.0	Settle
-89056	2006081511052	2006-07-27 00:00:00	2006-07-05 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	149.99	Electronics	Settled	75.0	Settle
-89950	2006081611135	2006-08-15 00:00:00	2006-05-14 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	4620.46	Tools & Machines,Electronics,Weapons & Knives,Electronics,Other	Denied	0.0	Deny
-91012	2006090812197	2006-09-05 00:00:00	2006-08-29 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	130.22	Clothing & Accessories,Other,Electronics	Denied	0.0	Deny
-92606	2006101914195	2006-10-05 00:00:00	2006-09-24 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Tools & Machines,Other	Approved	75.0	Approve in Full
-93327	2006102614622	2006-10-19 00:00:00	2006-09-26 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-95214	2006113016516	2006-11-27 00:00:00	2006-11-25 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	25.0	Supplies	Denied	0.0	Deny
-98877	2007013119944	2007-01-26 00:00:00	2007-01-09 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	140.0	Watches & Jewelry	Denied	0.0	Deny
-102263	2007040623566	2007-04-02 00:00:00	2006-12-10 00:00:00	RAP	Rapid City Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	2300.0	Watches & Jewelry	Denied	0.0	Deny
-108211	2007080229498	2007-07-31 00:00:00	2007-07-26 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	600.62	Clothing & Accessories,Outdoors Supplies,Other	Canceled	0.0	
-113466	2007111434927	2007-11-09 00:00:00	2007-10-27 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	16.0	Tools & Machines	Approved	16.0	Approve in Full
-113866	2007112335336	2007-11-19 00:00:00	2007-11-15 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.39	Tools & Machines	Approved	12.39	Approve in Full
-116101	2008011037671	2008-01-04 00:00:00	2007-12-09 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Denied	0.0	Deny
-116258	2008011437819	2008-01-07 00:00:00	2002-11-30 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories,Containers	Denied	0.0	Deny
-117250	2008012938792	2008-01-24 00:00:00	2008-01-17 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Denied	0.0	Deny
-119929	2008032841587	2008-03-19 00:00:00	2008-03-03 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	181.06	Electronics,Watches & Jewelry	Denied	0.0	Deny
-121690	2008042843474	2008-04-21 00:00:00	2008-02-27 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	95.75	Cosmetics	Denied	0.0	Deny
-121770	2008042543404	2008-04-23 00:00:00	2008-04-21 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	8057.0	Watches & Jewelry	Approved	8057.0	Approve in Full
-122943	2008052044595	2008-05-19 00:00:00	2008-04-26 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	171.46	Clothing & Accessories,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-123578	2008060545335	2008-06-02 00:00:00	2008-05-28 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	82.98	Clothing & Accessories	Approved	82.98	Approve in Full
+88112	2006071309440	2006-07-10 00:00:00	2005-12-11 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Binoculars	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+88534	2006071909704	2006-07-17 00:00:00	2006-05-26 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Jewelry - Fine	Settled	125.0	Settle
+89056	2006081511052	2006-07-27 00:00:00	2006-07-05 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	149.99	Cameras - Digital	Settled	75.0	Settle
+89950	2006081611135	2006-08-15 00:00:00	2006-05-14 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	4620.46	Binoculars*Cameras - Digital*Firearms*GPS - Global Positioning System*Other	Denied	0.0	Deny
+91012	2006090812197	2006-09-05 00:00:00	2006-08-29 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	130.22	Clothing - Shoes, belts, accessories, etc.*Other*Video Recordings - Laser Discs	Denied	0.0	Deny
+92606	2006101914195	2006-10-05 00:00:00	2006-09-24 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Barber Supplies - Scissors, shears, elecric razors, etc.*Other	Approved	75.0	Approve in Full
+93327	2006102614622	2006-10-19 00:00:00	2006-09-26 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+95214	2006113016516	2006-11-27 00:00:00	2006-11-25 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	25.0	Medicines	Denied	0.0	Deny
+98877	2007013119944	2007-01-26 00:00:00	2007-01-09 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	140.0	Jewelry - Fine	Denied	0.0	Deny
+102263	2007040623566	2007-04-02 00:00:00	2006-12-10 00:00:00	RAP	Rapid City Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	2300.0	Jewelry - Fine	Denied	0.0	Deny
+108211	2007080229498	2007-07-31 00:00:00	2007-07-26 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	600.62	Clothing - Shoes, belts, accessories, etc.*Compasses*Other	Canceled	0.0	
+113466	2007111434927	2007-11-09 00:00:00	2007-10-27 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	16.0	Locks	Approved	16.0	Approve in Full
+113866	2007112335336	2007-11-19 00:00:00	2007-11-15 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.39	Locks	Approved	12.39	Approve in Full
+116101	2008011037671	2008-01-04 00:00:00	2007-12-09 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+116258	2008011437819	2008-01-07 00:00:00	2002-11-30 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing - Shoes, belts, accessories, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+117250	2008012938792	2008-01-24 00:00:00	2008-01-17 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	60.0	Jewelry - Costume	Denied	0.0	Deny
+119929	2008032841587	2008-03-19 00:00:00	2008-03-03 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	181.06	Cell Phones*Jewelry - Fine	Denied	0.0	Deny
+121690	2008042843474	2008-04-21 00:00:00	2008-02-27 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	95.75	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+121770	2008042543404	2008-04-23 00:00:00	2008-04-21 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	8057.0	Watches - Expensive more than $100	Approved	8057.0	Approve in Full
+122943	2008052044595	2008-05-19 00:00:00	2008-04-26 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	171.46	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)*Jewelry - Costume	Denied	0.0	Deny
+123578	2008060545335	2008-06-02 00:00:00	2008-05-28 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	82.98	Clothing - Shoes, belts, accessories, etc.	Approved	82.98	Approve in Full
 124405	2008062446093	2008-06-19 00:00:00	2008-06-07 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	72.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-125534	2008072247187	2008-07-15 00:00:00	2006-08-17 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	628.95	Clothing & Accessories	Denied	0.0	Deny
-126159	2008080447939	2008-07-29 00:00:00	2008-07-25 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	432.0	Clothing & Accessories,Cosmetics,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-126205	2008080447961	2008-07-30 00:00:00	2008-07-26 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	300.96	Office Supplies,Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
+125534	2008072247187	2008-07-15 00:00:00	2006-08-17 00:00:00	RAP	Rapid City Regional		Passenger Property Loss	Checked Baggage	628.95	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+126159	2008080447939	2008-07-29 00:00:00	2008-07-25 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	432.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+126205	2008080447961	2008-07-30 00:00:00	2008-07-26 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	300.96	Books - Other (Hardcover non-fiction)*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
 126318	2008080748183	2008-07-31 00:00:00	2008-07-28 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	12.98	Other	Denied	0.0	Deny
-126967	2008062746295	2008-08-15 00:00:00	2008-05-04 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Other,Household Decor	Denied	0.0	Deny
-126979	2008081848760	2008-08-15 00:00:00	2008-07-16 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	1563.97	Electronics,Other	Denied	0.0	Deny
-129001	2008100750857	2008-10-02 00:00:00	2008-09-30 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	69.97	Cosmetics	Denied	0.0	Deny
-129290	2008101551140	2008-10-09 00:00:00	2008-09-21 00:00:00	RAP	Rapid City Regional	US Express	Passenger Property Loss	Checked Baggage	323.19	Electronics	Denied	0.0	Deny
-130378	2008111352202	2008-11-07 00:00:00	2008-11-01 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	9.36	Tools & Machines	Denied	0.0	Deny
-130705	2008111952541	2008-11-17 00:00:00	2008-10-16 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	265.19	Electronics,Electronics	Denied	0.0	Deny
-131352	2008120953205	2008-12-03 00:00:00	2008-11-16 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	29.9	Tools & Machines	Denied	0.0	Deny
-136974	2009051958977	2009-05-05 00:00:00	2009-03-16 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Denied	0.0	Deny
-139983	2009073162077	2009-07-27 00:00:00	2008-12-19 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	455.0	Office Supplies,Clothing & Accessories,Tools & Machines	Denied	0.0	Deny
-140082	2009073162092	2009-07-29 00:00:00	2009-05-13 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	56.0	Tools & Machines,Other	Denied	0.0	Deny
-140680	2009073162068	2009-08-14 00:00:00	2009-07-05 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	125.0	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
-141462	2009091163525	2009-09-08 00:00:00	2009-03-06 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	1704.18	Clothing & Accessories,Scientific Intruments,Supplies	Denied	0.0	Deny
-143020	2009103064987	2009-10-27 00:00:00	2009-10-24 12:50:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	599.95	Electronics	Denied	0.0	Deny
-144999	2010010567123	2009-12-28 00:00:00	2009-12-14 06:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	20.0	Food & Drink	Denied	0.0	Deny
-145078	2010010467093	2009-12-30 00:00:00	2009-12-28 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	6.89	Clothing & Accessories	Denied	0.0	Deny
-147923	2010042671168	2010-04-20 00:00:00	2010-03-19 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-148836	2010052172018	2010-05-19 00:00:00	2010-05-18 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
-151039	2010080974675	2010-07-26 00:00:00	2010-07-23 00:00:00	RAP	Rapid City Regional		Passenger Property Loss			Electronics		0.0	Deny
-151792	2010081975051	2010-08-17 00:00:00	2010-07-31 13:25:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		78.0	Settle
-152619	2010091576031	2010-09-08 00:00:00	2010-07-30 00:00:00	RAP	Rapid City Regional	Emirates	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-153668	2010102077116	2010-10-12 00:00:00	2010-10-05 09:00:00	RAP	Rapid City Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry,Other,Other,Other,Outdoors Supplies		0.0	Deny
-156600	2011020980057	2011-01-18 00:00:00	2010-11-12 11:30:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-162865	2011082686444	2011-08-08 00:00:00	2011-07-20 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		190.0	Settle
-166218	2011122289808	2011-12-02 00:00:00	2011-11-23 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other			
-172414	2012082396142	2012-07-10 00:00:00	2012-07-08 00:00:00	RAP	Rapid City Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+126967	2008062746295	2008-08-15 00:00:00	2008-05-04 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Other*Paintings and Pictures (including frames, etchings, photos, etc)	Denied	0.0	Deny
+126979	2008081848760	2008-08-15 00:00:00	2008-07-16 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	1563.97	Cameras - Digital*Other	Denied	0.0	Deny
+129001	2008100750857	2008-10-02 00:00:00	2008-09-30 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	69.97	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+129290	2008101551140	2008-10-09 00:00:00	2008-09-21 00:00:00	RAP	Rapid City Regional	US Express	Passenger Property Loss	Checked Baggage	323.19	Cameras - Digital	Denied	0.0	Deny
+130378	2008111352202	2008-11-07 00:00:00	2008-11-01 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	9.36	Locks	Denied	0.0	Deny
+130705	2008111952541	2008-11-17 00:00:00	2008-10-16 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	265.19	Cameras - Digital*Cell Phones	Denied	0.0	Deny
+131352	2008120953205	2008-12-03 00:00:00	2008-11-16 00:00:00	RAP	Rapid City Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	29.9	Locks	Denied	0.0	Deny
+136974	2009051958977	2009-05-05 00:00:00	2009-03-16 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Jewelry - Fine	Denied	0.0	Deny
+139983	2009073162077	2009-07-27 00:00:00	2008-12-19 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	455.0	Books - Reference books, cookbooks, etc.*Eyeglasses - (including contact lenses)*Locks	Denied	0.0	Deny
+140082	2009073162092	2009-07-29 00:00:00	2009-05-13 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	56.0	Locks*Other	Denied	0.0	Deny
+140680	2009073162068	2009-08-14 00:00:00	2009-07-05 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage	125.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Fine	Denied	0.0	Deny
+141462	2009091163525	2009-09-08 00:00:00	2009-03-06 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	1704.18	Clothing - Shoes, belts, accessories, etc.*Medical Equipment & Insturments*Medicines	Denied	0.0	Deny
+143020	2009103064987	2009-10-27 00:00:00	2009-10-24 12:50:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage	599.95	Cameras - Digital	Denied	0.0	Deny
+144999	2010010567123	2009-12-28 00:00:00	2009-12-14 06:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	20.0	Alcoholic beverages	Denied	0.0	Deny
+145078	2010010467093	2009-12-30 00:00:00	2009-12-28 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	6.89	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+147923	2010042671168	2010-04-20 00:00:00	2010-03-19 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming		0.0	Deny
+148836	2010052172018	2010-05-19 00:00:00	2010-05-18 00:00:00	RAP	Rapid City Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage		Medical/Science			
+151039	2010080974675	2010-07-26 00:00:00	2010-07-23 00:00:00	RAP	Rapid City Regional		Passenger Property Loss			Personal Electronics		0.0	Deny
+151792	2010081975051	2010-08-17 00:00:00	2010-07-31 13:25:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Cameras		78.0	Settle
+152619	2010091576031	2010-09-08 00:00:00	2010-07-30 00:00:00	RAP	Rapid City Regional	Emirates	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+153668	2010102077116	2010-10-12 00:00:00	2010-10-05 09:00:00	RAP	Rapid City Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Jewelry & Watches*Other*Other*Other*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+156600	2011020980057	2011-01-18 00:00:00	2010-11-12 11:30:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+162865	2011082686444	2011-08-08 00:00:00	2011-07-20 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Personal Accessories		190.0	Settle
+166218	2011122289808	2011-12-02 00:00:00	2011-11-23 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Other			
+172414	2012082396142	2012-07-10 00:00:00	2012-07-08 00:00:00	RAP	Rapid City Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
 173043	2012091496804	2012-07-31 00:00:00	2012-07-21 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		182.9	Approve in Full
-174894	2012111498687	2012-10-04 00:00:00	2012-09-10 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+174894	2012111498687	2012-10-04 00:00:00	2012-09-10 00:00:00	RAP	Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
 192124	2014081815977	2014-08-01 00:00:00	2014-06-16 00:00:00	RAP	Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-202811	2015062223289	2015-06-11 00:00:00	2015-06-07 00:00:00	RAP	Rapid City Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-202812	2015072324166	2015-07-16 00:00:00	2015-05-01 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-211196	2016082333221	2016-07-08 00:00:00	2016-06-18 13:00:00	RAP	Rapid City Regional Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient
-211197	2016082233167	2016-07-08 00:00:00	2016-06-21 12:00:00	RAP	Rapid City Regional Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.27	Approve in Full
-211198	2016082533301	2016-07-13 00:00:00	2016-06-21 00:00:00	RAP	Rapid City Regional Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
-211200	2017011136444	2017-01-11 00:00:00	2016-12-05 00:00:00	RAP	Rapid City Regional Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+202811	2015062223289	2015-06-11 00:00:00	2015-06-07 00:00:00	RAP	Rapid City Regional	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			
+202812	2015072324166	2015-07-16 00:00:00	2015-05-01 00:00:00	RAP	Rapid City Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+211196	2016082333221	2016-07-08 00:00:00	2016-06-18 13:00:00	RAP	Rapid City Regional Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			Insufficient
+211197	2016082233167	2016-07-08 00:00:00	2016-06-21 12:00:00	RAP	Rapid City Regional Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		9.27	Approve in Full
+211198	2016082533301	2016-07-13 00:00:00	2016-06-21 00:00:00	RAP	Rapid City Regional Rapid City Regional	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories			In Review
+211200	2017011136444	2017-01-11 00:00:00	2016-12-05 00:00:00	RAP	Rapid City Regional Rapid City Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review

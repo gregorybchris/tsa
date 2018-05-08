@@ -2,14 +2,14 @@ id	claim_number	date_received	incident_date	airport_code	airport_name	airline	cl
 47143	2004112467818	2004-10-13 00:00:00	2004-09-11 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	687.39	Other	Denied	0.0	Deny
 48058	2004120768760	2004-10-22 00:00:00	2004-09-26 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	85.0	Other	Denied	0.0	Deny
 70037	2005082291151	2005-08-12 00:00:00	2005-07-26 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	45.0	Other	Denied	0.0	Deny
-71558	2005091992672	2005-09-08 00:00:00	2005-08-13 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Denied	0.0	Deny
-88225	2006071209316	2006-07-11 00:00:00	2006-07-02 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	300.0	Outdoors Supplies	Settled	150.0	Settle
-88730	2006072409972	2006-07-20 00:00:00	2006-07-02 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	450.0	Outdoors Supplies	Settled	225.0	Settle
-90574	2006083011805	2006-08-25 00:00:00	2006-08-04 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Settled	100.0	Settle
-95981	2006121817356	2006-12-11 00:00:00	2006-01-18 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	539.62	Weapons & Knives	Denied	0.0	Deny
-113692	2007111535021	2007-11-14 00:00:00	2007-11-05 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	274.0	Weapons & Knives	Denied	0.0	Deny
-122716	2008051544289	2008-05-13 00:00:00	2008-05-01 00:00:00	ADQ	Kodiak State Airport	Aloha Airlines	Passenger Property Loss	Checkpoint	400.0	Other	Denied	0.0	Deny
+71558	2005091992672	2005-09-08 00:00:00	2005-08-13 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	18.0	Locks	Denied	0.0	Deny
+88225	2006071209316	2006-07-11 00:00:00	2006-07-02 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	300.0	Fish/Game	Settled	150.0	Settle
+88730	2006072409972	2006-07-20 00:00:00	2006-07-02 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	450.0	Fish/Game	Settled	225.0	Settle
+90574	2006083011805	2006-08-25 00:00:00	2006-08-04 00:00:00	ADQ	Kodiak State Airport		Passenger Property Loss	Checked Baggage	200.0	Clothing - Shoes, belts, accessories, etc.	Settled	100.0	Settle
+95981	2006121817356	2006-12-11 00:00:00	2006-01-18 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	539.62	Firearms	Denied	0.0	Deny
+113692	2007111535021	2007-11-14 00:00:00	2007-11-05 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	274.0	Firearms	Denied	0.0	Deny
+122716	2008051544289	2008-05-13 00:00:00	2008-05-01 00:00:00	ADQ	Kodiak State Airport	Aloha Airlines	Passenger Property Loss	Checkpoint	400.0	Currency	Denied	0.0	Deny
 126831	2008081348533	2008-08-12 00:00:00	2008-08-05 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-130527	2008111952438	2008-11-12 00:00:00	2008-09-27 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	290.23	Electronics	Denied	0.0	Deny
-156770	2011021480194	2011-01-21 00:00:00	2010-11-05 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+130527	2008111952438	2008-11-12 00:00:00	2008-09-27 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	290.23	Cameras - Digital	Denied	0.0	Deny
+156770	2011021480194	2011-01-21 00:00:00	2010-11-05 00:00:00	ADQ	Kodiak State Airport	Alaska Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
 171001	2012061294773	2012-05-17 00:00:00	2012-05-15 00:00:00	ADQ	Kodiak State Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny

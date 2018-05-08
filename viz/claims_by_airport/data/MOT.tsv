@@ -1,7 +1,7 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-154769	2010112978327	2010-11-15 00:00:00	2010-11-13 14:30:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-155833	2011012079667	2010-12-22 00:00:00	2010-11-14 14:13:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-160328	2011052783829	2011-05-18 00:00:00	2011-04-10 05:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-164929	2011101888028	2011-10-18 00:00:00	2011-08-19 00:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-188666	2014031312449	2014-03-11 00:00:00	2014-02-23 00:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
-201461	2015072724264	2015-07-22 00:00:00	2015-07-12 00:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		51.0	Approve in Full
+154769	2010112978327	2010-11-15 00:00:00	2010-11-13 14:30:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+155833	2011012079667	2010-12-22 00:00:00	2010-11-14 14:13:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			
+160328	2011052783829	2011-05-18 00:00:00	2011-04-10 05:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+164929	2011101888028	2011-10-18 00:00:00	2011-08-19 00:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+188666	2014031312449	2014-03-11 00:00:00	2014-02-23 00:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checkpoint		Computer & Accessories			
+201461	2015072724264	2015-07-22 00:00:00	2015-07-12 00:00:00	MOT	Minot International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		51.0	Approve in Full

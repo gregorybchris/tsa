@@ -1,159 +1,159 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 1404	25058	2003-01-14 00:00:00	2002-10-18 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Denied	0.0	Deny
-2718	0702562M	2003-02-21 00:00:00	2002-12-03 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Electronics	Settled	50.0	Settle
-15376	0908079M	2003-09-08 00:00:00	2003-07-23 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	192.0	Clothing & Accessories	Settled	96.0	Settle
-21652	1205218M	2003-12-05 00:00:00	2003-11-21 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	2890.0	Watches & Jewelry	Denied	0.0	Deny
+2718	0702562M	2003-02-21 00:00:00	2002-12-03 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Cell Phones	Settled	50.0	Settle
+15376	0908079M	2003-09-08 00:00:00	2003-07-23 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	192.0	Eyeglasses - (including contact lenses)	Settled	96.0	Settle
+21652	1205218M	2003-12-05 00:00:00	2003-11-21 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	2890.0	Jewelry - Fine	Denied	0.0	Deny
 23792	0105173M	2004-01-05 00:00:00	2003-12-21 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	350.0	Other	Denied	0.0	Deny
 28839	0226301M	2004-02-26 00:00:00	2004-02-07 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	539.97	Other	Canceled	0.0	
 32971	2004060354604	2004-04-21 00:00:00	2004-03-24 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	37.78	Other	Approved	37.78	Approve in Full
-34980	2004061455660	2004-05-10 00:00:00	2004-04-28 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	818.96	Watches & Jewelry	Denied	0.0	Deny
-35121	2004061055360	2004-05-13 00:00:00	2004-04-30 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	306.16	Watches & Jewelry	Approved	306.16	Approve in Full
-36661	2004062357023	2004-06-02 00:00:00	2004-05-13 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint	30.0	Cosmetics	Approved	30.0	Approve in Full
+34980	2004061455660	2004-05-10 00:00:00	2004-04-28 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	818.96	Jewelry - Fine	Denied	0.0	Deny
+35121	2004061055360	2004-05-13 00:00:00	2004-04-30 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	306.16	Jewelry - Fine	Approved	306.16	Approve in Full
+36661	2004062357023	2004-06-02 00:00:00	2004-05-13 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint	30.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	30.0	Approve in Full
 38400	2004070858940	2004-06-22 00:00:00	2004-02-29 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	44.5	Other	Approved	44.5	Approve in Full
-42055	2004090862322	2004-08-09 00:00:00	2004-06-21 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	550.0	Watches & Jewelry	Denied	0.0	Deny
-47110	2004112367671	2004-10-12 00:00:00	2004-09-26 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	54.0	Clothing & Accessories	Denied		Deny
-48432	2004122069455	2004-10-27 00:00:00	2004-10-07 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	1071.16	Watches & Jewelry	Canceled	0.0	
-50355	2004122771100	2004-11-19 00:00:00	2004-11-14 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-50789	2004122871469	2004-11-28 00:00:00	2004-10-05 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Canceled	0.0	
-50962	2004122971625	2004-11-30 00:00:00	2004-10-31 00:00:00	FNT	Bishop International, Flint	America Trans Air	Passenger Property Loss	Checked Baggage	481.98	Watches & Jewelry	Settled	240.99	Settle
+42055	2004090862322	2004-08-09 00:00:00	2004-06-21 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	550.0	Jewelry - Fine	Denied	0.0	Deny
+47110	2004112367671	2004-10-12 00:00:00	2004-09-26 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	54.0	Clothing - Shoes, belts, accessories, etc.	Denied		Deny
+48432	2004122069455	2004-10-27 00:00:00	2004-10-07 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	1071.16	Jewelry - Fine	Canceled	0.0	
+50355	2004122771100	2004-11-19 00:00:00	2004-11-14 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	100.0	Currency	Denied	0.0	Deny
+50789	2004122871469	2004-11-28 00:00:00	2004-10-05 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry - Fine	Canceled	0.0	
+50962	2004122971625	2004-11-30 00:00:00	2004-10-31 00:00:00	FNT	Bishop International, Flint	America Trans Air	Passenger Property Loss	Checked Baggage	481.98	Jewelry - Fine	Settled	240.99	Settle
 51650	2005010472690	2004-12-10 00:00:00	2004-11-07 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	52.5	Other	Approved	52.5	Approve in Full
-52613	2005011073356	2004-12-21 00:00:00	2004-11-29 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	82.95	Supplies	Approved	82.95	Approve in Full
-52860	2005011273599	2004-12-22 00:00:00	2004-12-18 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Settled	84.0	Settle
+52613	2005011073356	2004-12-21 00:00:00	2004-11-29 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	82.95	Medicines	Approved	82.95	Approve in Full
+52860	2005011273599	2004-12-22 00:00:00	2004-12-18 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Settled	84.0	Settle
 53909	2005012874699	2005-01-10 00:00:00	2004-12-30 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	150.0	Other	Approved	150.0	Approve in Full
-54334	2005020375555	2005-01-11 00:00:00	2004-12-22 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	350.0	Supplies	Settled	52.5	Settle
-55440	2005021776395	2005-01-25 00:00:00	2005-01-04 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	62.0	Clothing & Accessories	Approved	62.0	Approve in Full
-55630	2005022276540	2005-01-26 00:00:00	2005-01-13 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	2580.0	Clothing & Accessories	Denied		Deny
-55632	2005022276550	2005-01-26 00:00:00	2005-01-10 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	275.0	Clothing & Accessories	Denied	0.0	Deny
-55702	2005021676236	2005-01-27 00:00:00	2004-12-28 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	89.25	Watches & Jewelry	Approved	89.25	Approve in Full
-55804	2005022276552	2005-01-27 00:00:00	2004-12-02 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	473.96	Electronics	Settled	313.06	Settle
+54334	2005020375555	2005-01-11 00:00:00	2004-12-22 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	350.0	Medicines	Settled	52.5	Settle
+55440	2005021776395	2005-01-25 00:00:00	2005-01-04 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	62.0	Clothing - Shoes, belts, accessories, etc.	Approved	62.0	Approve in Full
+55630	2005022276540	2005-01-26 00:00:00	2005-01-13 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	2580.0	Clothing - Shoes, belts, accessories, etc.	Denied		Deny
+55632	2005022276550	2005-01-26 00:00:00	2005-01-10 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	275.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+55702	2005021676236	2005-01-27 00:00:00	2004-12-28 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	89.25	Jewelry - Fine	Approved	89.25	Approve in Full
+55804	2005022276552	2005-01-27 00:00:00	2004-12-02 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	473.96	Cameras - Digital	Settled	313.06	Settle
 56028	2005030777041	2005-02-01 00:00:00	2004-12-04 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checked Baggage	47.15	Other	Approved	47.15	Approve in Full
-60477	2005040581531	2005-03-30 00:00:00	2005-03-18 00:00:00	FNT	Bishop International, Flint	Royal Dutch Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-61634	2005041382424	2005-04-12 00:00:00	2005-03-10 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-61703	2005041482556	2005-04-14 00:00:00	2005-04-03 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	89.0	Clothing & Accessories	Approved	89.0	Approve in Full
+60477	2005040581531	2005-03-30 00:00:00	2005-03-18 00:00:00	FNT	Bishop International, Flint	Royal Dutch Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+61634	2005041382424	2005-04-12 00:00:00	2005-03-10 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+61703	2005041482556	2005-04-14 00:00:00	2005-04-03 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	89.0	Clothing - Shoes, belts, accessories, etc.	Approved	89.0	Approve in Full
 62344	2005042583217	2005-04-22 00:00:00	2005-04-18 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
-62508	2005042683392	2005-04-26 00:00:00	2005-03-28 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	182.0	Clothing & Accessories	Approved	182.0	Approve in Full
-62521	2005042783464	2005-04-26 00:00:00	2005-03-23 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	31.79	Clothing & Accessories	Approved	31.79	Approve in Full
+62508	2005042683392	2005-04-26 00:00:00	2005-03-28 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	182.0	Clothing - Shoes, belts, accessories, etc.	Approved	182.0	Approve in Full
+62521	2005042783464	2005-04-26 00:00:00	2005-03-23 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	31.79	Clothing - Shoes, belts, accessories, etc.	Approved	31.79	Approve in Full
 63065	2005050484087	2005-05-03 00:00:00	2005-04-22 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.0	Other	Approved	42.0	Approve in Full
-63571	2005051084415	2005-05-10 00:00:00	2005-04-28 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Settled	150.0	Settle
-63686	2005051984998	2005-05-11 00:00:00	2005-04-12 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	345.0	Watches & Jewelry	Denied	0.0	Deny
-64533	2005052485412	2005-05-23 00:00:00	2005-04-13 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	130.0	Clothing & Accessories	Denied	0.0	Deny
-64823	2005060785899	2005-05-31 00:00:00	2005-05-10 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	29.99	Electronics	Approved	29.99	Approve in Full
-65352	2005061386295	2005-06-03 00:00:00	2005-05-02 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-66234	2005062487121	2005-06-15 00:00:00	2004-11-17 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	265.0	Watches & Jewelry	Approved	265.0	Approve in Full
-67401	2005070688368	2005-07-05 00:00:00	2005-05-06 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-68029	2005071488940	2005-07-13 00:00:00	2005-05-15 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Settled	28.0	Settle
-68686	2005072589620	2005-07-22 00:00:00	2005-06-11 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	696.49	Electronics	Settled	525.23	Settle
-68760	2005072889831	2005-07-25 00:00:00	2005-07-16 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Denied	0.0	Deny
-70804	2005083091852	2005-08-24 00:00:00	2005-08-04 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	60.95	Clothing & Accessories	Settled	30.45	Settle
+63571	2005051084415	2005-05-10 00:00:00	2005-04-28 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	DVD/CD Players	Settled	150.0	Settle
+63686	2005051984998	2005-05-11 00:00:00	2005-04-12 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	345.0	Jewelry - Fine	Denied	0.0	Deny
+64533	2005052485412	2005-05-23 00:00:00	2005-04-13 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	130.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+64823	2005060785899	2005-05-31 00:00:00	2005-05-10 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	29.99	Cell Phones	Approved	29.99	Approve in Full
+65352	2005061386295	2005-06-03 00:00:00	2005-05-02 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+66234	2005062487121	2005-06-15 00:00:00	2004-11-17 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	265.0	Jewelry - Fine	Approved	265.0	Approve in Full
+67401	2005070688368	2005-07-05 00:00:00	2005-05-06 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1000.0	Currency	Denied	0.0	Deny
+68029	2005071488940	2005-07-13 00:00:00	2005-05-15 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Settled	28.0	Settle
+68686	2005072589620	2005-07-22 00:00:00	2005-06-11 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	696.49	Cameras - Digital	Settled	525.23	Settle
+68760	2005072889831	2005-07-25 00:00:00	2005-07-16 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Denied	0.0	Deny
+70804	2005083091852	2005-08-24 00:00:00	2005-08-04 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	60.95	Clothing - Shoes, belts, accessories, etc.	Settled	30.45	Settle
 71366	2005091692592	2005-09-06 00:00:00	2005-08-21 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	49.99	Other	Approved	49.99	Approve in Full
 72449	2005100393683	2005-09-20 00:00:00	2005-08-24 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-72583	2005100393652	2005-09-23 00:00:00	2005-08-19 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	50.0	Watches & Jewelry	Approved	50.0	Approve in Full
-72598	2005100393718	2005-09-23 00:00:00	2005-08-20 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	45.0	Other	Approved	45.0	Approve in Full
-72741	2005100493838	2005-09-27 00:00:00	2005-09-15 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	33.0	Supplies	Approved	33.0	Approve in Full
+72583	2005100393652	2005-09-23 00:00:00	2005-08-19 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	50.0	Jewelry - Fine	Approved	50.0	Approve in Full
+72598	2005100393718	2005-09-23 00:00:00	2005-08-20 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	45.0	Currency	Approved	45.0	Approve in Full
+72741	2005100493838	2005-09-27 00:00:00	2005-09-15 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	33.0	Medicines	Approved	33.0	Approve in Full
 72954	2005100594067	2005-09-29 00:00:00	2005-09-19 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	350.0	Other	Denied	0.0	Deny
-74989	2005111696144	2005-11-04 00:00:00	2005-10-06 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	11.12	Tools & Machines	Approved	11.12	Approve in Full
-75548	2005113096732	2005-11-15 00:00:00	2005-10-23 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	3175.0	Watches & Jewelry	Denied	0.0	Deny
-75576	2005112896572	2005-11-15 00:00:00	2005-10-27 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	47.35	Clothing & Accessories	Settled	35.85	Settle
-76496	2005121397627	2005-12-05 00:00:00	2005-11-20 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	24.95	Clothing & Accessories	Approved	24.95	Approve in Full
-76809	2005121497840	2005-12-08 00:00:00	2005-11-03 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1834.99	Watches & Jewelry	Denied	0.0	Deny
-77329	2005122798414	2005-12-19 00:00:00	2005-11-08 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	Clothing & Accessories	Settled	200.0	Settle
-78074	2006011099246	2006-01-04 00:00:00	2005-12-05 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checked Baggage	1070.0	Electronics	Denied	0.0	Deny
-78799	2006012099951	2006-01-13 00:00:00	2004-12-03 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	167.98	Clothing & Accessories	Denied	0.0	Deny
+74989	2005111696144	2005-11-04 00:00:00	2005-10-06 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	11.12	Locks	Approved	11.12	Approve in Full
+75548	2005113096732	2005-11-15 00:00:00	2005-10-23 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	3175.0	Jewelry - Fine	Denied	0.0	Deny
+75576	2005112896572	2005-11-15 00:00:00	2005-10-27 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	47.35	Clothing - Shoes, belts, accessories, etc.	Settled	35.85	Settle
+76496	2005121397627	2005-12-05 00:00:00	2005-11-20 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	24.95	Clothing - Shoes, belts, accessories, etc.	Approved	24.95	Approve in Full
+76809	2005121497840	2005-12-08 00:00:00	2005-11-03 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1834.99	Jewelry - Fine	Denied	0.0	Deny
+77329	2005122798414	2005-12-19 00:00:00	2005-11-08 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	Clothing - Shoes, belts, accessories, etc.	Settled	200.0	Settle
+78074	2006011099246	2006-01-04 00:00:00	2005-12-05 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checked Baggage	1070.0	Computer - Laptop	Denied	0.0	Deny
+78799	2006012099951	2006-01-13 00:00:00	2004-12-03 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	167.98	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 78885	2006012300029	2006-01-17 00:00:00	2005-12-28 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-79507	2006013000533	2006-01-24 00:00:00	2005-12-21 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	81.0	Tools & Machines	Settled	75.0	Settle
-79521	2006013100639	2006-01-24 00:00:00	2006-01-13 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	300.0	Other	Settled	150.0	Settle
-79525	2006013100653	2006-01-24 00:00:00	2005-11-09 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Settled	35.0	Settle
+79507	2006013000533	2006-01-24 00:00:00	2005-12-21 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	81.0	Locks	Settled	75.0	Settle
+79521	2006013100639	2006-01-24 00:00:00	2006-01-13 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	300.0	Currency	Settled	150.0	Settle
+79525	2006013100653	2006-01-24 00:00:00	2005-11-09 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	70.0	Clothing - Shoes, belts, accessories, etc.	Settled	35.0	Settle
 79666	2006020200818	2006-01-27 00:00:00	2005-11-05 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	70.0	Other	Approved	70.0	Approve in Full
-79726	2006020300925	2006-01-27 00:00:00	2006-01-18 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Denied	0.0	Deny
-82884	2006040504080	2006-03-27 00:00:00	2006-02-28 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	30.0	Supplies	Denied	0.0	Deny
+79726	2006020300925	2006-01-27 00:00:00	2006-01-18 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+82884	2006040504080	2006-03-27 00:00:00	2006-02-28 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	30.0	Medicines	Denied	0.0	Deny
 83399	2006041404627	2006-04-04 00:00:00	2006-03-22 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	100.0	Other	Settled	98.0	Settle
-83433	2006041904717	2006-04-06 00:00:00	2006-01-24 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	17.72	Clothing & Accessories	Approved	17.72	Approve in Full
+83433	2006041904717	2006-04-06 00:00:00	2006-01-24 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	17.72	Clothing - Shoes, belts, accessories, etc.	Approved	17.72	Approve in Full
 83500	2006042104921	2006-04-07 00:00:00	2006-03-25 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	137.79	Other	Approved	137.79	Approve in Full
 83576	2006041904729	2006-04-10 00:00:00	2006-04-03 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	1388.94	Other	Denied	0.0	Deny
-83832	2006042505204	2006-04-14 00:00:00	2006-03-24 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-85827	2006060107125	2006-05-25 00:00:00	2006-05-11 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	27.5	Household Items	Approved	27.5	Approve in Full
-85872	2006053107108	2006-05-25 00:00:00	2006-04-19 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	174.99	Clothing & Accessories	Settled	87.5	Settle
-85957	2006060207207	2006-05-30 00:00:00	2006-04-22 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	80.56	Watches & Jewelry	Denied	0.0	Deny
-86119	2006060507348	2006-06-01 00:00:00	2006-05-21 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	0.0	Containers,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-86592	2006061307900	2006-06-12 00:00:00	2006-06-05 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Canceled	0.0	
-87079	2006062008266	2006-06-20 00:00:00	2006-06-18 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	731.0	Clothing & Accessories,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-87611	2006063008794	2006-06-29 00:00:00	2006-06-05 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	162.95	Outdoors Supplies	Settled	81.48	Settle
-87616	2006063008814	2006-06-29 00:00:00	2006-06-14 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	162.93	Clothing & Accessories,Other	Settled	81.47	Settle
-87875	2006070709135	2006-07-06 00:00:00	2006-05-13 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.4	Watches & Jewelry	Denied	0.0	Deny
-89046	2006073110219	2006-07-27 00:00:00	2006-07-16 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	91.0	Electronics	Settled	69.99	Settle
+83832	2006042505204	2006-04-14 00:00:00	2006-03-24 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+85827	2006060107125	2006-05-25 00:00:00	2006-05-11 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	27.5	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Approved	27.5	Approve in Full
+85872	2006053107108	2006-05-25 00:00:00	2006-04-19 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	174.99	Clothing - Shoes, belts, accessories, etc.	Settled	87.5	Settle
+85957	2006060207207	2006-05-30 00:00:00	2006-04-22 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	80.56	Jewelry - Costume	Denied	0.0	Deny
+86119	2006060507348	2006-06-01 00:00:00	2006-05-21 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	0.0	Bags - Fabric, plastic, etc. (not purses)*Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Denied	0.0	Deny
+86592	2006061307900	2006-06-12 00:00:00	2006-06-05 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Jewelry - Fine	Canceled	0.0	
+87079	2006062008266	2006-06-20 00:00:00	2006-06-18 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	731.0	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)*Watches - Expensive more than $100	Denied	0.0	Deny
+87611	2006063008794	2006-06-29 00:00:00	2006-06-05 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	162.95	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Settled	81.48	Settle
+87616	2006063008814	2006-06-29 00:00:00	2006-06-14 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	162.93	Clothing - Shoes, belts, accessories, etc.*Other	Settled	81.47	Settle
+87875	2006070709135	2006-07-06 00:00:00	2006-05-13 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.4	Jewelry - Fine	Denied	0.0	Deny
+89046	2006073110219	2006-07-27 00:00:00	2006-07-16 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	91.0	MP3 Players-(iPods, etc)	Settled	69.99	Settle
 91427	2006091512618	2006-09-11 00:00:00	2006-07-11 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	178.12	Other	Settled	169.5	Settle
-92100	2006092713361	2006-09-25 00:00:00	2006-09-07 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	316.94	Electronics	Denied	0.0	Deny
-92648	2006102314418	2006-10-05 00:00:00	2006-08-11 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checked Baggage	193.51	Watches & Jewelry	Settled	82.96	Settle
-93111	2006102314444	2006-10-16 00:00:00	2006-08-27 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	40.8	Electronics	Denied	0.0	Deny
-95832	2006121417076	2006-12-07 00:00:00	2006-12-04 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	899.99	Electronics	Denied	0.0	Deny
-95932	2006121517289	2006-12-09 00:00:00	2006-11-21 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	2642.0	Watches & Jewelry	Denied	0.0	Deny
-96264	2006122818083	2006-12-14 00:00:00	2006-10-20 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
-98004	2007012219108	2007-01-12 00:00:00	2006-12-25 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	11.76	Tools & Machines	Approved	11.76	Approve in Full
-98397	2007012519499	2007-01-18 00:00:00	2007-11-24 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checkpoint	323.27	Electronics,Electronics	Settled	259.8	Settle
-99053	2007020820461	2007-01-29 00:00:00	2006-12-12 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	118.82	Clothing & Accessories,Cosmetics	Settled	45.66	Settle
-99824	2007021320902	2007-02-13 00:00:00	2007-02-06 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	80.0	Tools & Machines	Canceled	0.0	
-99852	2007021520957	2007-02-13 00:00:00	2006-12-29 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1678.3	Watches & Jewelry	Denied	0.0	Deny
-100375	2007022721583	2007-02-26 00:00:00	2007-02-23 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	1100.0	Electronics,Other	Denied	0.0	Deny
-100921	2007032022534	2007-03-07 00:00:00	2007-03-01 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	375.0	Electronics	Denied	0.0	Deny
-102816	2007041724097	2007-04-13 00:00:00	2007-03-30 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Canceled	0.0	
-103293	2007042624572	2007-04-23 00:00:00	2007-04-12 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Denied	0.0	Deny
-104656	2007052925934	2007-05-21 00:00:00	2007-05-04 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	214.65	Cosmetics	Settled	107.32	Settle
-104759	2007060126051	2007-05-24 00:00:00	2007-05-11 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	138.63	Watches & Jewelry	Denied	0.0	Deny
-104772	2007060126089	2007-05-24 00:00:00	2007-05-11 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	328.12	Containers,Watches & Jewelry	Denied	0.0	Deny
-106507	2007070327776	2007-06-28 00:00:00	2007-06-09 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	190.0	Cosmetics	Denied	0.0	Deny
-109151	2007082030475	2007-08-16 00:00:00	2007-07-12 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	120.0	Cosmetics	Denied	0.0	Deny
-110910	2007091932239	2007-09-18 00:00:00	2007-07-20 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	226.84	Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
-111729	2007100933134	2007-10-04 00:00:00	2007-08-26 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	65.0	Cosmetics	Denied	0.0	Deny
-112285	2007101933716	2007-10-16 00:00:00	2007-10-07 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	83.74	Clothing & Accessories	Denied	0.0	Deny
-112703	2007102934068	2007-10-25 00:00:00	2007-10-19 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	9.99	Tools & Machines	Denied	0.0	Deny
-113935	2007112635407	2007-11-19 00:00:00	2007-10-24 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	155.0	Cosmetics,Other	Denied	0.0	Deny
+92100	2006092713361	2006-09-25 00:00:00	2006-09-07 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	316.94	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+92648	2006102314418	2006-10-05 00:00:00	2006-08-11 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checked Baggage	193.51	Watches - Expensive more than $100	Settled	82.96	Settle
+93111	2006102314444	2006-10-16 00:00:00	2006-08-27 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	40.8	Cameras - Digital	Denied	0.0	Deny
+95832	2006121417076	2006-12-07 00:00:00	2006-12-04 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	899.99	Computer - Laptop	Denied	0.0	Deny
+95932	2006121517289	2006-12-09 00:00:00	2006-11-21 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	2642.0	Jewelry - Fine	Denied	0.0	Deny
+96264	2006122818083	2006-12-14 00:00:00	2006-10-20 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	2000.0	Computer - Laptop	Denied	0.0	Deny
+98004	2007012219108	2007-01-12 00:00:00	2006-12-25 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	11.76	Locks	Approved	11.76	Approve in Full
+98397	2007012519499	2007-01-18 00:00:00	2007-11-24 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checkpoint	323.27	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	259.8	Settle
+99053	2007020820461	2007-01-29 00:00:00	2006-12-12 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	118.82	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	45.66	Settle
+99824	2007021320902	2007-02-13 00:00:00	2007-02-06 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	80.0	Scissors, Shears (other than electric)	Canceled	0.0	
+99852	2007021520957	2007-02-13 00:00:00	2006-12-29 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1678.3	Jewelry - Fine	Denied	0.0	Deny
+100375	2007022721583	2007-02-26 00:00:00	2007-02-23 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	1100.0	Cameras - Digital*Other	Denied	0.0	Deny
+100921	2007032022534	2007-03-07 00:00:00	2007-03-01 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	375.0	Video Recordings (blank & commercial)	Denied	0.0	Deny
+102816	2007041724097	2007-04-13 00:00:00	2007-03-30 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	35.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+103293	2007042624572	2007-04-23 00:00:00	2007-04-12 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Jewelry - Fine	Denied	0.0	Deny
+104656	2007052925934	2007-05-21 00:00:00	2007-05-04 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	214.65	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	107.32	Settle
+104759	2007060126051	2007-05-24 00:00:00	2007-05-11 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	138.63	Jewelry - Costume	Denied	0.0	Deny
+104772	2007060126089	2007-05-24 00:00:00	2007-05-11 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	328.12	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Fine	Denied	0.0	Deny
+106507	2007070327776	2007-06-28 00:00:00	2007-06-09 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	190.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+109151	2007082030475	2007-08-16 00:00:00	2007-07-12 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	120.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+110910	2007091932239	2007-09-18 00:00:00	2007-07-20 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	226.84	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+111729	2007100933134	2007-10-04 00:00:00	2007-08-26 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	65.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+112285	2007101933716	2007-10-16 00:00:00	2007-10-07 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	83.74	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+112703	2007102934068	2007-10-25 00:00:00	2007-10-19 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	9.99	Locks	Denied	0.0	Deny
+113935	2007112635407	2007-11-19 00:00:00	2007-10-24 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage	155.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
 114427	2007113035796	2007-11-29 00:00:00	2007-11-25 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	48.5	Other	Denied	0.0	Deny
-115655	2008010337189	2007-12-26 00:00:00	2007-11-28 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Tools & Machines	Denied	0.0	Deny
-121761	2008042343268	2008-04-22 00:00:00	2008-04-06 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checkpoint	74.2	Watches & Jewelry	Settled	52.46	Settle
-122149	2008051444225	2008-04-30 00:00:00	2008-04-21 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checkpoint	112.18	Electronics	Denied	0.0	Deny
-123026	2008050543805	2008-05-20 00:00:00	2008-04-19 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	1313.15	Electronics	Denied	0.0	Deny
-124502	2008062646200	2008-06-23 00:00:00	2008-03-14 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	73.14	Clothing & Accessories	Denied	0.0	Deny
-126466	2008080648110	2008-08-05 00:00:00	2008-07-16 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.25	Household Decor	Denied	0.0	Deny
-126694	2008081348484	2008-08-08 00:00:00	2008-07-06 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	63.95	Cosmetics	Denied	0.0	Deny
-130850	2008112552796	2008-11-19 00:00:00	2008-10-21 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	63.5	Clothing & Accessories	Settled	31.75	Settle
-133010	2009012654931	2009-01-15 00:00:00	2008-11-22 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	55.47	Containers	Denied	0.0	Deny
-134313	2009031156106	2009-02-23 00:00:00	2009-02-12 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint	1463.97	Scientific Intruments	Denied	0.0	Deny
-134497	2009031956467	2009-02-27 00:00:00	2007-03-17 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	508.63	Containers,Watches & Jewelry,Watches & Jewelry,Other	Denied	0.0	Deny
-135588	2009041557562	2009-03-27 00:00:00	2009-02-28 00:00:00	FNT	Bishop International, Flint	Delta (Song)	Passenger Property Loss	Checkpoint	239.43	Electronics	Denied	0.0	Deny
-136163	2009042457962	2009-04-13 00:00:00	2009-03-27 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint	25.0	Cosmetics	Denied	0.0	Deny
-138599	2009070160797	2009-06-19 00:00:00	2009-06-09 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	875.57	Watches & Jewelry	Denied	0.0	Deny
-139050	2009071061045	2009-07-01 00:00:00	2009-06-27 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checkpoint	124.99	Electronics	Settled	110.07	Settle
-139272	2009071561267	2009-07-09 00:00:00	2009-07-03 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checkpoint	535.3	Outdoors Supplies	Denied	0.0	Deny
-140450	2009081162509	2009-08-07 00:00:00	2009-07-25 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	110.21	Clothing & Accessories	Settled	55.11	Settle
+115655	2008010337189	2007-12-26 00:00:00	2007-11-28 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Locks	Denied	0.0	Deny
+121761	2008042343268	2008-04-22 00:00:00	2008-04-06 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checkpoint	74.2	Watches - Inexpensive $100 or less	Settled	52.46	Settle
+122149	2008051444225	2008-04-30 00:00:00	2008-04-21 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checkpoint	112.18	Cameras - Digital	Denied	0.0	Deny
+123026	2008050543805	2008-05-20 00:00:00	2008-04-19 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	1313.15	Computer - Laptop	Denied	0.0	Deny
+124502	2008062646200	2008-06-23 00:00:00	2008-03-14 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	73.14	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+126466	2008080648110	2008-08-05 00:00:00	2008-07-16 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.25	Clocks - Inexpensive ($75.00 or less)	Denied	0.0	Deny
+126694	2008081348484	2008-08-08 00:00:00	2008-07-06 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	63.95	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+130850	2008112552796	2008-11-19 00:00:00	2008-10-21 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	63.5	Clothing - Shoes, belts, accessories, etc.	Settled	31.75	Settle
+133010	2009012654931	2009-01-15 00:00:00	2008-11-22 00:00:00	FNT	Bishop International, Flint	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	55.47	Luggage (all types including footlockers)	Denied	0.0	Deny
+134313	2009031156106	2009-02-23 00:00:00	2009-02-12 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint	1463.97	Medical Equipment & Insturments	Denied	0.0	Deny
+134497	2009031956467	2009-02-27 00:00:00	2007-03-17 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	508.63	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Costume*Jewelry - Fine*Other	Denied	0.0	Deny
+135588	2009041557562	2009-03-27 00:00:00	2009-02-28 00:00:00	FNT	Bishop International, Flint	Delta (Song)	Passenger Property Loss	Checkpoint	239.43	Cell Phones	Denied	0.0	Deny
+136163	2009042457962	2009-04-13 00:00:00	2009-03-27 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint	25.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+138599	2009070160797	2009-06-19 00:00:00	2009-06-09 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage	875.57	Jewelry - Fine	Denied	0.0	Deny
+139050	2009071061045	2009-07-01 00:00:00	2009-06-27 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checkpoint	124.99	DVD/CD Players	Settled	110.07	Settle
+139272	2009071561267	2009-07-09 00:00:00	2009-07-03 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checkpoint	535.3	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+140450	2009081162509	2009-08-07 00:00:00	2009-07-25 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage	110.21	Clothing - Shoes, belts, accessories, etc.	Settled	55.11	Settle
 141827	2009091863817	2009-09-17 00:00:00	2009-09-10 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	129.99	Other	Denied	0.0	Deny
-143477	2009111865460	2009-11-10 00:00:00	2009-09-17 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checkpoint	190.0	Electronics	Settled	144.69	Settle
-144357	2009121066380	2009-12-07 00:00:00	2009-10-23 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	18.99	Household Items	Approved	18.99	Approve in Full
-144988	2010010467076	2009-12-28 00:00:00	2009-12-03 05:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Denied	0.0	Deny
-149861	2010062873161	2010-06-22 00:00:00	2010-06-28 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+143477	2009111865460	2009-11-10 00:00:00	2009-09-17 00:00:00	FNT	Bishop International, Flint	Continental Airlines	Passenger Property Loss	Checkpoint	190.0	Cameras - Digital	Settled	144.69	Settle
+144357	2009121066380	2009-12-07 00:00:00	2009-10-23 00:00:00	FNT	Bishop International, Flint	Northwest Airlines	Passenger Property Loss	Checked Baggage	18.99	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Approved	18.99	Approve in Full
+144988	2010010467076	2009-12-28 00:00:00	2009-12-03 05:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+149861	2010062873161	2010-06-22 00:00:00	2010-06-28 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing*Travel Accessories		0.0	Deny
 150245	2010070973519	2010-07-02 00:00:00	2010-06-19 11:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-156568	2011020880024	2011-01-18 00:00:00	2010-10-26 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		98.24	Settle
-158230	2011033181647	2011-03-10 00:00:00	2011-03-04 18:18:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Containers,Outdoors Supplies		0.0	Deny
-158356	2011041182074	2011-03-14 00:00:00	2011-02-21 12:47:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159362	2011042082799	2011-04-18 00:00:00	2011-04-05 15:30:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-160608	2011051983577	2011-05-27 00:00:00	2011-05-02 20:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+156568	2011020880024	2011-01-18 00:00:00	2010-10-26 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Accessories		98.24	Settle
+158230	2011033181647	2011-03-10 00:00:00	2011-03-04 18:18:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Hunting & Fishing Items		0.0	Deny
+158356	2011041182074	2011-03-14 00:00:00	2011-02-21 12:47:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+159362	2011042082799	2011-04-18 00:00:00	2011-04-05 15:30:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+160608	2011051983577	2011-05-27 00:00:00	2011-05-02 20:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming		0.0	Deny
 164473	2011101988144	2011-10-04 00:00:00	2011-09-17 06:15:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-166437	2012011990243	2011-12-11 00:00:00	2011-12-04 13:57:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-166746	2012050793643	2011-12-21 00:00:00	2011-11-28 14:59:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Food & Drink,Scientific Intruments,Other		0.0	Deny
+166437	2012011990243	2011-12-11 00:00:00	2011-12-04 13:57:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+166746	2012050793643	2011-12-21 00:00:00	2011-11-28 14:59:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Food & Drink*Medical/Science*Other		0.0	Deny
 167016	2012020390640	2012-01-03 00:00:00	2011-12-23 00:00:00	FNT	Bishop International, Flint	AirTran Airlines	Passenger Property Loss	Checked Baggage		Other		25.99	Approve in Full
-167538	2012022891338	2012-01-17 00:00:00	2011-10-19 07:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-168139	2012031891805	2012-02-06 00:00:00	2011-12-31 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		8.49	Approve in Full
-168237	2012032291951	2012-02-08 00:00:00	2012-01-09 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-169843	2012043093419	2012-04-09 00:00:00	2012-02-22 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-170989	2012060794607	2012-05-16 00:00:00	2012-03-10 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-171916	2012071995565	2012-06-19 00:00:00	2012-05-17 09:57:00	FNT	Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+167538	2012022891338	2012-01-17 00:00:00	2011-10-19 07:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+168139	2012031891805	2012-02-06 00:00:00	2011-12-31 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		8.49	Approve in Full
+168237	2012032291951	2012-02-08 00:00:00	2012-01-09 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+169843	2012043093419	2012-04-09 00:00:00	2012-02-22 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+170989	2012060794607	2012-05-16 00:00:00	2012-03-10 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+171916	2012071995565	2012-06-19 00:00:00	2012-05-17 09:57:00	FNT	Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
 178497	2013022101845	2013-02-21 00:00:00	2013-02-03 11:00:00	FNT	Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-180619	2013061304332	2013-05-13 00:00:00	2013-02-13 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checkpoint		Other		25.42	Approve in Full
-181507	2013080105573	2013-06-14 00:00:00	2013-06-11 05:00:00	FNT	Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Other,Outdoors Supplies		0.0	Deny
-184624	2013101707468	2013-10-01 00:00:00	2013-09-11 16:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-187460	2014012811216	2014-01-24 00:00:00	2013-12-20 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-189882	2014050213693	2014-04-30 00:00:00	2014-02-19 00:00:00	FNT	Bishop International, Flint	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		95.4	Approve in Full
+180619	2013061304332	2013-05-13 00:00:00	2013-02-13 00:00:00	FNT	Bishop International, Flint		Passenger Property Loss	Checkpoint		Currency		25.42	Approve in Full
+181507	2013080105573	2013-06-14 00:00:00	2013-06-11 05:00:00	FNT	Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Other*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+184624	2013101707468	2013-10-01 00:00:00	2013-09-11 16:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches			
+187460	2014012811216	2014-01-24 00:00:00	2013-12-20 00:00:00	FNT	Bishop International, Flint	American Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+189882	2014050213693	2014-04-30 00:00:00	2014-02-19 00:00:00	FNT	Bishop International, Flint	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		95.4	Approve in Full
 195489	2014122919436	2014-12-24 00:00:00	2014-12-09 00:00:00	FNT	Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-206915	2016080932978	2016-07-05 00:00:00	2016-06-24 00:00:00	FNT	Bishop International, Flint Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry		0.0	Deny
-215169	2017092043233	2017-08-11 00:00:00	2017-06-29 12:00:00	FNT	Bishop International, Flint Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments			In Review
-215170	2017101844576	2017-09-12 00:00:00	2017-08-11 00:00:00	FNT	Bishop International, Flint Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-215171	2017071341534	2017-05-24 00:00:00	2017-05-10 00:00:00	FNT	Bishop International, Flint Bishop International, Flint	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
+206915	2016080932978	2016-07-05 00:00:00	2016-06-24 00:00:00	FNT	Bishop International, Flint Bishop International, Flint	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories*Jewelry & Watches		0.0	Deny
+215169	2017092043233	2017-08-11 00:00:00	2017-06-29 12:00:00	FNT	Bishop International, Flint Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checkpoint		Medical/Science			In Review
+215170	2017101844576	2017-09-12 00:00:00	2017-08-11 00:00:00	FNT	Bishop International, Flint Bishop International, Flint	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories			In Review
+215171	2017071341534	2017-05-24 00:00:00	2017-05-10 00:00:00	FNT	Bishop International, Flint Bishop International, Flint	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			Insufficient

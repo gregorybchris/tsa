@@ -1,11 +1,11 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-62312	2005042583180	2005-04-22 00:00:00	2005-01-25 00:00:00	HTS	Tri-State, Huntington	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Canceled	0.0	
-105298	2007060726494	2007-06-04 00:00:00	2007-05-29 00:00:00	HTS	Tri-State, Huntington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-128723	2008092650546	2008-09-25 00:00:00	2008-07-05 00:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Denied	0.0	Deny
-146527	2010031869682	2010-03-09 00:00:00	2010-02-08 19:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-146545	2010051271698	2010-03-09 00:00:00	2010-02-08 19:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-153345	2010100776757	2010-09-30 00:00:00	2010-09-10 00:00:00	HTS	Tri-State, Huntington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
-157335	2011030180719	2011-02-08 00:00:00	2010-12-30 09:35:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
+62312	2005042583180	2005-04-22 00:00:00	2005-01-25 00:00:00	HTS	Tri-State, Huntington	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Jewelry - Fine	Canceled	0.0	
+105298	2007060726494	2007-06-04 00:00:00	2007-05-29 00:00:00	HTS	Tri-State, Huntington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+128723	2008092650546	2008-09-25 00:00:00	2008-07-05 00:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+146527	2010031869682	2010-03-09 00:00:00	2010-02-08 19:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+146545	2010051271698	2010-03-09 00:00:00	2010-02-08 19:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+153345	2010100776757	2010-09-30 00:00:00	2010-09-10 00:00:00	HTS	Tri-State, Huntington	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras			
+157335	2011030180719	2011-02-08 00:00:00	2010-12-30 09:35:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
 161448	2011070184923	2011-06-24 00:00:00	2011-06-13 09:50:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		99.99	Approve in Full
-198573	2015081224816	2015-08-11 00:00:00	2015-08-07 00:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		190.8	Approve in Full
+198573	2015081224816	2015-08-11 00:00:00	2015-08-07 00:00:00	HTS	Tri-State, Huntington	Allegiant Air	Passenger Property Loss	Checked Baggage		Personal Accessories		190.8	Approve in Full
 215439	2017091443116	2017-08-01 00:00:00	2017-07-28 14:55:00	HTS	Tri-State, Huntington Tri-State, Huntington	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review

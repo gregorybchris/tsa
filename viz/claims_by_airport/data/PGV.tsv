@@ -1,18 +1,18 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-87349	2006062708573	2006-06-26 00:00:00	2006-06-22 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-105397	2007060826579	2007-06-06 00:00:00	2007-05-25 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	37.0	Supplies	Canceled	0.0	
-106651	2007070627893	2007-07-02 00:00:00	2007-06-14 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	490.0	Other,Outdoors Supplies	Denied	0.0	Deny
-110725	2007091732060	2007-09-14 00:00:00	2007-09-12 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	143.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-124262	2008062446055	2008-06-16 00:00:00	2008-05-15 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	313.16	Cosmetics,Containers	Denied	0.0	Deny
-135720	2009041757689	2009-03-31 00:00:00	2009-03-22 00:00:00	PGV	Pitt-Greenville Airport		Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
-149490	2010062372965	2010-06-09 00:00:00	2010-05-25 06:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics		0.0	Deny
-152893	2010092276272	2010-09-16 00:00:00	2010-08-03 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-152990	2010092876475	2010-09-20 00:00:00	2010-08-17 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-155128	2010120678527	2010-11-29 00:00:00	2010-10-31 10:55:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-175958	2012122899394	2012-11-15 00:00:00	2012-10-20 12:18:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics			
-181793	2013062504680	2013-06-25 00:00:00	2013-03-16 07:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-187679	2014020511438	2014-01-31 00:00:00	2014-01-01 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-190252	2014052014067	2014-05-14 00:00:00	2014-04-08 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-210744	2016052431692	2016-05-07 00:00:00	2016-05-06 00:00:00	PGV	Pitt-Greenville Airport Pitt-Greenville Airport	American Airlines	Passenger Property Loss	Checkpoint		Containers		0.0	Deny
-210745	2016092333778	2016-08-01 00:00:00	2016-06-13 12:55:00	PGV	Pitt-Greenville Airport Pitt-Greenville Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-218976	2017121245963	2017-12-04 00:00:00	2017-11-24 00:00:00	PGV	Pitt-Greenville Airport Pitt-Greenville Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+87349	2006062708573	2006-06-26 00:00:00	2006-06-22 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Computer - Laptop	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+105397	2007060826579	2007-06-06 00:00:00	2007-05-25 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	37.0	Medicines	Canceled	0.0	
+106651	2007070627893	2007-07-02 00:00:00	2007-06-14 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	490.0	Other*Umbrellas	Denied	0.0	Deny
+110725	2007091732060	2007-09-14 00:00:00	2007-09-12 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	143.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+124262	2008062446055	2008-06-16 00:00:00	2008-05-15 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage	313.16	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+135720	2009041757689	2009-03-31 00:00:00	2009-03-22 00:00:00	PGV	Pitt-Greenville Airport		Passenger Property Loss	Checked Baggage	300.0	GPS - Global Positioning System	Denied	0.0	Deny
+149490	2010062372965	2010-06-09 00:00:00	2010-05-25 06:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing*Personal Electronics		0.0	Deny
+152893	2010092276272	2010-09-16 00:00:00	2010-08-03 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+152990	2010092876475	2010-09-20 00:00:00	2010-08-17 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+155128	2010120678527	2010-11-29 00:00:00	2010-10-31 10:55:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+175958	2012122899394	2012-11-15 00:00:00	2012-10-20 12:18:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cameras			
+181793	2013062504680	2013-06-25 00:00:00	2013-03-16 07:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+187679	2014020511438	2014-01-31 00:00:00	2014-01-01 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+190252	2014052014067	2014-05-14 00:00:00	2014-04-08 00:00:00	PGV	Pitt-Greenville Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+210744	2016052431692	2016-05-07 00:00:00	2016-05-06 00:00:00	PGV	Pitt-Greenville Airport Pitt-Greenville Airport	American Airlines	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses		0.0	Deny
+210745	2016092333778	2016-08-01 00:00:00	2016-06-13 12:55:00	PGV	Pitt-Greenville Airport Pitt-Greenville Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+218976	2017121245963	2017-12-04 00:00:00	2017-11-24 00:00:00	PGV	Pitt-Greenville Airport Pitt-Greenville Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review

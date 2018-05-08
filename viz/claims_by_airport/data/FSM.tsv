@@ -3,16 +3,16 @@ id	claim_number	date_received	incident_date	airport_code	airport_name	airline	cl
 48087	2004110866739	2004-10-25 00:00:00	2004-10-14 00:00:00	FSM	Fort Smith Municipal	Alaska Airlines	Passenger Property Loss	Checkpoint	9.0	Other	Approved	9.0	Approve in Full
 56315	2005042983603	2005-02-01 00:00:00	2005-01-16 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Settled	150.0	Settle
 73718	2005102094912	2005-10-12 00:00:00	2005-07-08 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	95.39	Other	Settled	47.7	Settle
-80446	2006021601642	2006-02-09 00:00:00	2006-01-29 00:00:00	FSM	Fort Smith Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Canceled	0.0	
-87299	2006062608548	2006-06-23 00:00:00	2006-06-13 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Denied	0.0	Deny
-93848	2006110315154	2006-10-30 00:00:00	2006-10-10 00:00:00	FSM	Fort Smith Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Household Items	Denied	0.0	Deny
-100037	2007022121277	2007-02-16 00:00:00	2007-02-11 00:00:00	FSM	Fort Smith Municipal	American Eagle	Passenger Property Loss	Checked Baggage	41.47	Household Items	Approved	41.47	Approve in Full
-116275	2008011437862	2008-01-07 00:00:00	2007-10-28 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	299.99	Electronics	Denied	0.0	Deny
-116386	2008011537937	2008-01-08 00:00:00	2007-12-16 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	95.38	Games & Toys	Denied	0.0	Deny
-117130	2008012938765	2008-01-22 00:00:00	2007-12-19 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	42.52	Supplies	Denied	0.0	Deny
-117584	2008020639158	2008-01-29 00:00:00	2007-09-27 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	576.76	Cosmetics	Settled	144.19	Settle
-121178	2008041742811	2008-04-11 00:00:00	2008-03-30 00:00:00	FSM	Fort Smith Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
+80446	2006021601642	2006-02-09 00:00:00	2006-01-29 00:00:00	FSM	Fort Smith Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	175.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+87299	2006062608548	2006-06-23 00:00:00	2006-06-13 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Jewelry - Costume	Denied	0.0	Deny
+93848	2006110315154	2006-10-30 00:00:00	2006-10-10 00:00:00	FSM	Fort Smith Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Dishes, Pottery, Glassware, Plasticware	Denied	0.0	Deny
+100037	2007022121277	2007-02-16 00:00:00	2007-02-11 00:00:00	FSM	Fort Smith Municipal	American Eagle	Passenger Property Loss	Checked Baggage	41.47	Bedding - Other pillows	Approved	41.47	Approve in Full
+116275	2008011437862	2008-01-07 00:00:00	2007-10-28 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	299.99	Cameras - Digital	Denied	0.0	Deny
+116386	2008011537937	2008-01-08 00:00:00	2007-12-16 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	95.38	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+117130	2008012938765	2008-01-22 00:00:00	2007-12-19 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	42.52	Medicines	Denied	0.0	Deny
+117584	2008020639158	2008-01-29 00:00:00	2007-09-27 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	576.76	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	144.19	Settle
+121178	2008041742811	2008-04-11 00:00:00	2008-03-30 00:00:00	FSM	Fort Smith Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 123251	2008052944935	2008-05-27 00:00:00	2008-05-24 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checkpoint	16.0	Other	Approved	16.0	Approve in Full
-125565	2008061945910	2008-07-16 00:00:00	2008-06-12 00:00:00	FSM	Fort Smith Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	401.49	Electronics	Denied	0.0	Deny
-128156	2008091549954	2008-09-11 00:00:00	2008-08-30 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	2360.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-156315	2011012679759	2011-01-10 00:00:00	2011-01-07 12:30:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+125565	2008061945910	2008-07-16 00:00:00	2008-06-12 00:00:00	FSM	Fort Smith Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	401.49	Cameras - Digital	Denied	0.0	Deny
+128156	2008091549954	2008-09-11 00:00:00	2008-08-30 00:00:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage	2360.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+156315	2011012679759	2011-01-10 00:00:00	2011-01-07 12:30:00	FSM	Fort Smith Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		20.0	Approve in Full

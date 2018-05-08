@@ -1,484 +1,484 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-1006	0617513L	2002-12-30 00:00:00	2002-12-30 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	189.0	Clothing & Accessories	Denied	0.0	Deny
-1247	2004071259114	2003-01-09 00:00:00	2002-12-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-7988	0609104L	2003-06-09 00:00:00	2003-05-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Canceled		
-9998	0703022M	2003-07-03 00:00:00	2003-06-24 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	58.0	Clothing & Accessories	Denied	0.0	Deny
-11325	0721053M	2003-07-21 00:00:00	2003-07-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	3848.0	Electronics	Denied	0.0	Deny
-12858	0811010M	2003-08-11 00:00:00	2003-07-28 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	50.0	Electronics	Approved	50.0	Approve in Full
+1006	0617513L	2002-12-30 00:00:00	2002-12-30 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	189.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+1247	2004071259114	2003-01-09 00:00:00	2002-12-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+7988	0609104L	2003-06-09 00:00:00	2003-05-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	500.0	Clothing - Shoes, belts, accessories, etc.	Canceled		
+9998	0703022M	2003-07-03 00:00:00	2003-06-24 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	58.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+11325	0721053M	2003-07-21 00:00:00	2003-07-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	3848.0	Computer - Laptop	Denied	0.0	Deny
+12858	0811010M	2003-08-11 00:00:00	2003-07-28 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	50.0	Cell Phones	Approved	50.0	Approve in Full
 15566	0909038M	2003-09-09 00:00:00	2003-08-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	205.95	Other	Settled	117.14	Settle
-17246	1003116M	2003-10-03 00:00:00	2003-05-18 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1150.0	Clothing & Accessories	Denied	0.0	Deny
+17246	1003116M	2003-10-03 00:00:00	2003-05-18 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1150.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 21078	1126013M	2003-11-26 00:00:00	2003-11-09 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
-22443	1208241M	2003-12-08 00:00:00	2003-11-16 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Clothing & Accessories	Settled	9.95	Settle
-23601	0105249M	2004-01-05 00:00:00	2003-12-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	83.17	Clothing & Accessories	Approved	83.17	Approve in Full
-23943	0105127M	2004-01-05 00:00:00	2003-12-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Settled	37.5	Settle
-25671	0129059M	2004-01-29 00:00:00	2003-12-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	41.73	Clothing & Accessories	Approved	41.73	Approve in Full
-26125	0130166M	2004-01-30 00:00:00	2004-01-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Watches & Jewelry	Settled	25.0	Settle
+22443	1208241M	2003-12-08 00:00:00	2003-11-16 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Clothing - Shoes, belts, accessories, etc.	Settled	9.95	Settle
+23601	0105249M	2004-01-05 00:00:00	2003-12-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	83.17	Clothing - Shoes, belts, accessories, etc.	Approved	83.17	Approve in Full
+23943	0105127M	2004-01-05 00:00:00	2003-12-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing - Shoes, belts, accessories, etc.	Settled	37.5	Settle
+25671	0129059M	2004-01-29 00:00:00	2003-12-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	41.73	Clothing - Shoes, belts, accessories, etc.	Approved	41.73	Approve in Full
+26125	0130166M	2004-01-30 00:00:00	2004-01-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Jewelry - Fine	Settled	25.0	Settle
 26173	0202029M	2004-02-02 00:00:00	2003-01-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	90.0	Other	Approved	90.0	Approve in Full
 27165	0205052M	2004-02-05 00:00:00	2004-01-18 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	219.99	Other	Denied		Deny
-27337	0210063M	2004-02-10 00:00:00	2003-12-12 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+27337	0210063M	2004-02-10 00:00:00	2003-12-12 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Clothing - Shoes, belts, accessories, etc.	Approved	20.0	Approve in Full
 27824	0212167M	2004-02-12 00:00:00	2004-01-20 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	1795.0	Other	Denied	0.0	Deny
-27998	0219022M	2004-02-19 00:00:00	2004-01-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Approved	50.0	Approve in Full
+27998	0219022M	2004-02-19 00:00:00	2004-01-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	50.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	50.0	Approve in Full
 29089	0226335M	2004-02-26 00:00:00	2004-02-11 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	75.0	Other	Settled	37.5	Settle
 29701	2004042350089	2004-03-10 00:00:00	2004-02-28 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
 29723	2004050750689	2004-03-10 00:00:00	2004-02-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	37.98	Other	Approved	37.98	Approve in Full
-29768	2004042350084	2004-03-10 00:00:00		ORF	Norfolk International		Passenger Property Loss	Checked Baggage	3120.0	Watches & Jewelry	Canceled		
+29768	2004042350084	2004-03-10 00:00:00		ORF	Norfolk International		Passenger Property Loss	Checked Baggage	3120.0	Jewelry - Fine	Canceled		
 29918	2004043050233	2004-03-11 00:00:00	2004-02-19 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
-31702	2004051752557	2004-03-30 00:00:00	2004-03-17 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	287.0	Clothing & Accessories	Settled	158.0	Settle
-31779	2004051752387	2004-04-01 00:00:00	2004-01-19 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Electronics	Approved	350.0	Approve in Full
-32383	2004052153002	2004-04-15 00:00:00	2004-03-27 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	91.8	Clothing & Accessories	Approved	91.8	Approve in Full
-32400	2004052453254	2004-04-15 00:00:00	2004-03-04 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	6.45	Clothing & Accessories	Approved	6.45	Approve in Full
+31702	2004051752557	2004-03-30 00:00:00	2004-03-17 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	287.0	Clothing - Shoes, belts, accessories, etc.	Settled	158.0	Settle
+31779	2004051752387	2004-04-01 00:00:00	2004-01-19 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Cameras - Digital	Approved	350.0	Approve in Full
+32383	2004052153002	2004-04-15 00:00:00	2004-03-27 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	91.8	Clothing - Shoes, belts, accessories, etc.	Approved	91.8	Approve in Full
+32400	2004052453254	2004-04-15 00:00:00	2004-03-04 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	6.45	Clothing - Shoes, belts, accessories, etc.	Approved	6.45	Approve in Full
 32660	2004051752594	2004-04-16 00:00:00	2004-03-22 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.95	Other	Approved	69.95	Approve in Full
-32990	2004052553371	2004-04-21 00:00:00	2004-03-14 00:00:00	ORF	Norfolk International	Commercial Airways	Passenger Property Loss	Checkpoint	2354.36	Watches & Jewelry	Canceled	0.0	
-33048	2004052553403	2004-04-21 00:00:00	2004-04-05 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	679.0	Electronics	Denied	0.0	Deny
-33068	2004052653537	2004-04-21 00:00:00	2004-03-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	560.0	Clothing & Accessories	Denied	0.0	Deny
-33150	2004060254243	2004-04-21 00:00:00	2004-03-31 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	264.99	Electronics	Denied		Deny
-33314	2004052853861	2004-04-21 00:00:00	2004-03-24 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	284.0	Electronics	Settled	42.0	Settle
-33936	2004051952863	2004-05-03 00:00:00	2004-04-12 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	515.0	Clothing & Accessories	Denied	0.0	Deny
-34007	2004052453102	2004-05-03 00:00:00	2004-03-21 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checkpoint	549.99	Electronics	Settled	460.1	Settle
-34153	2004060454735	2004-05-04 00:00:00	2004-04-14 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	750.0	Watches & Jewelry	Approved	750.0	Approve in Full
-34240	2004060254281	2004-05-04 00:00:00	2004-04-13 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	0.0	Containers	Canceled		
-34315	2004051351634	2004-05-04 00:00:00	2004-03-28 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	113.8	Clothing & Accessories	Denied	0.0	Deny
-34731	2004061455625	2004-05-05 00:00:00	2004-04-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	145.0	Clothing & Accessories	Settled	72.6	Settle
-34936	2004051150918	2004-05-10 00:00:00	2004-04-25 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checkpoint	700.0	Electronics	Denied		Deny
-34958	2004061055418	2004-05-10 00:00:00	2004-04-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1650.0	Watches & Jewelry	Denied	0.0	Deny
-35169	2004061756065	2004-05-13 00:00:00	2004-02-14 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Approved	300.0	Approve in Full
-35530	2004061756135	2004-05-19 00:00:00	2004-04-20 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	200.0	Watches & Jewelry	Approved	200.0	Approve in Full
-37351	2004062957849	2004-06-08 00:00:00	2004-05-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	70.0	Other	Approved	70.0	Approve in Full
+32990	2004052553371	2004-04-21 00:00:00	2004-03-14 00:00:00	ORF	Norfolk International	Commercial Airways	Passenger Property Loss	Checkpoint	2354.36	Jewelry - Fine	Canceled	0.0	
+33048	2004052553403	2004-04-21 00:00:00	2004-04-05 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	679.0	DVD/CD Players	Denied	0.0	Deny
+33068	2004052653537	2004-04-21 00:00:00	2004-03-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	560.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+33150	2004060254243	2004-04-21 00:00:00	2004-03-31 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	264.99	Cameras - Digital	Denied		Deny
+33314	2004052853861	2004-04-21 00:00:00	2004-03-24 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	284.0	Cameras - Digital	Settled	42.0	Settle
+33936	2004051952863	2004-05-03 00:00:00	2004-04-12 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	515.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+34007	2004052453102	2004-05-03 00:00:00	2004-03-21 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checkpoint	549.99	PDA - Personal Data Assistants	Settled	460.1	Settle
+34153	2004060454735	2004-05-04 00:00:00	2004-04-14 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	750.0	Jewelry - Fine	Approved	750.0	Approve in Full
+34240	2004060254281	2004-05-04 00:00:00	2004-04-13 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	0.0	Luggage (all types including footlockers)	Canceled		
+34315	2004051351634	2004-05-04 00:00:00	2004-03-28 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	113.8	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+34731	2004061455625	2004-05-05 00:00:00	2004-04-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	145.0	Clothing - Shoes, belts, accessories, etc.	Settled	72.6	Settle
+34936	2004051150918	2004-05-10 00:00:00	2004-04-25 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checkpoint	700.0	Cameras - Digital	Denied		Deny
+34958	2004061055418	2004-05-10 00:00:00	2004-04-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1650.0	Jewelry - Fine	Denied	0.0	Deny
+35169	2004061756065	2004-05-13 00:00:00	2004-02-14 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Currency	Approved	300.0	Approve in Full
+35530	2004061756135	2004-05-19 00:00:00	2004-04-20 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	200.0	Jewelry - Fine	Approved	200.0	Approve in Full
+37351	2004062957849	2004-06-08 00:00:00	2004-05-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	70.0	Currency	Approved	70.0	Approve in Full
 37513	2004062957745	2004-06-08 00:00:00	2004-05-10 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	991.97	Other	Settled	644.98	Settle
-37595	2004070458261	2004-06-09 00:00:00	2004-05-13 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Canceled	0.0	
+37595	2004070458261	2004-06-09 00:00:00	2004-05-13 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	250.0	Jewelry - Fine	Canceled	0.0	
 38031	2004070858765	2004-06-16 00:00:00	2004-05-14 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	480.68	Other	Denied	0.0	Deny
 38144	2004070658439	2004-06-17 00:00:00	2004-06-04 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	26.25	Other	Approved	26.25	Approve in Full
 38403	2004071258990	2004-06-22 00:00:00	2004-06-11 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	129.32	Other	Approved	129.32	Approve in Full
 38681	2004071058959	2004-06-25 00:00:00	2004-03-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50000.0	Other	Canceled	0.0	
-39101	2004071559444	2004-07-06 00:00:00	2004-06-07 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	199.82	Watches & Jewelry	Approved	199.82	Approve in Full
-41112	2004080360396	2004-07-27 00:00:00	2004-06-12 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	6067.0	Watches & Jewelry	Denied	0.0	Deny
+39101	2004071559444	2004-07-06 00:00:00	2004-06-07 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	199.82	Jewelry - Fine	Approved	199.82	Approve in Full
+41112	2004080360396	2004-07-27 00:00:00	2004-06-12 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	6067.0	Jewelry - Fine	Denied	0.0	Deny
 41893	2004090261941	2004-08-05 00:00:00	2004-06-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	213.5	Other	Settled	120.0	Settle
-42044	2004080960856	2004-08-09 00:00:00	2004-06-14 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	536.0	Electronics	Denied	0.0	Deny
-42292	2004091062583	2004-08-10 00:00:00	2004-07-12 00:00:00	ORF	Norfolk International		Passenger Theft	Checked Baggage	450.0	Supplies	Denied		Deny
-43817	2004100664633	2004-08-31 00:00:00	2004-07-16 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	693.0	Electronics	Settled	210.97	Settle
+42044	2004080960856	2004-08-09 00:00:00	2004-06-14 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	536.0	Cameras - Digital	Denied	0.0	Deny
+42292	2004091062583	2004-08-10 00:00:00	2004-07-12 00:00:00	ORF	Norfolk International		Passenger Theft	Checked Baggage	450.0	Medicines	Denied		Deny
+43817	2004100664633	2004-08-31 00:00:00	2004-07-16 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	693.0	Computer - Laptop	Settled	210.97	Settle
 43911	2004091663099	2004-09-01 00:00:00	2004-05-16 00:00:00	ORF	Norfolk International	USAir	Passenger Theft	Checked Baggage	250.0	Other	Denied	0.0	Deny
 44509	2004101364937	2004-09-10 00:00:00	2004-08-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Other	Denied	0.0	Deny
-44606	2004102865785	2004-09-10 00:00:00	2004-08-17 00:00:00	ORF	Norfolk International	American Eagle	Passenger Property Loss	Checked Baggage	110.49	Clothing & Accessories	Settled	59.0	Settle
-44858	2004110466330	2004-09-15 00:00:00	2004-09-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	128.27	Clothing & Accessories	Approved	128.27	Approve in Full
-45105	2004110466309	2004-09-16 00:00:00	2004-07-28 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Denied	0.0	Deny
-46259	2004110866710	2004-09-29 00:00:00	2004-09-09 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
-46720	2004111867318	2004-10-05 00:00:00	2004-08-17 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	3600.0	Watches & Jewelry	Denied	0.0	Deny
+44606	2004102865785	2004-09-10 00:00:00	2004-08-17 00:00:00	ORF	Norfolk International	American Eagle	Passenger Property Loss	Checked Baggage	110.49	Clothing - Shoes, belts, accessories, etc.	Settled	59.0	Settle
+44858	2004110466330	2004-09-15 00:00:00	2004-09-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	128.27	Clothing - Shoes, belts, accessories, etc.	Approved	128.27	Approve in Full
+45105	2004110466309	2004-09-16 00:00:00	2004-07-28 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	5.0	Locks	Denied	0.0	Deny
+46259	2004110866710	2004-09-29 00:00:00	2004-09-09 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Currency	Denied	0.0	Deny
+46720	2004111867318	2004-10-05 00:00:00	2004-08-17 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	3600.0	Jewelry - Fine	Denied	0.0	Deny
 46743	2004111967413	2004-10-05 00:00:00	2004-05-26 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	287.94	Other	Denied	0.0	Deny
-47332	2005020975778	2004-10-14 00:00:00	2004-10-04 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied		Deny
+47332	2005020975778	2004-10-14 00:00:00	2004-10-04 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	20.0	Locks	Denied		Deny
 48467	2004121469141	2004-10-27 00:00:00	2004-10-09 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	112.29	Other	Denied	0.0	Deny
 49350	2004122169882	2004-11-05 00:00:00	2004-10-15 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	155.15	Other	Denied	0.0	Deny
-49733	2004122069741	2004-11-10 00:00:00	2004-09-30 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	850.0	Supplies	Denied	0.0	Deny
+49733	2004122069741	2004-11-10 00:00:00	2004-09-30 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	850.0	Medicines	Denied	0.0	Deny
 49734	2004122169972	2004-11-10 00:00:00	2004-08-01 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1467.79	Other	Denied	0.0	Deny
-49870	2004122270436	2004-11-15 00:00:00	2004-09-29 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	8.35	Tools & Machines	Approved	8.35	Approve in Full
-50776	2004122871261	2004-11-26 00:00:00	2004-11-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Containers	Denied	0.0	Deny
-51322	2005010372286	2004-12-07 00:00:00	2004-10-24 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	42.4	Clothing & Accessories	Approved	42.4	Approve in Full
+49870	2004122270436	2004-11-15 00:00:00	2004-09-29 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	8.35	Locks	Approved	8.35	Approve in Full
+50776	2004122871261	2004-11-26 00:00:00	2004-11-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Luggage (all types including footlockers)	Denied	0.0	Deny
+51322	2005010372286	2004-12-07 00:00:00	2004-10-24 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	42.4	Clothing - Shoes, belts, accessories, etc.	Approved	42.4	Approve in Full
 51698	2005010372271	2004-12-10 00:00:00	2004-09-03 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	1200.76	Other	Denied	0.0	Deny
-52139	2005030176876	2004-12-14 00:00:00	2004-09-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	455.75	Watches & Jewelry	Denied		Deny
+52139	2005030176876	2004-12-14 00:00:00	2004-09-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	455.75	Jewelry - Fine	Denied		Deny
 52480	2005010673135	2004-12-20 00:00:00	2004-11-02 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	31.57	Other	Canceled	0.0	
-52671	2005010773254	2004-12-21 00:00:00	2004-10-11 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry	Denied	0.0	Deny
-53103	2005011973808	2004-12-28 00:00:00	2004-12-14 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	53.98	Electronics	Denied	0.0	Deny
-53243	2005012173919	2004-12-30 00:00:00	2004-12-17 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	39.99	Clothing & Accessories	Approved	39.99	Approve in Full
-53255	2005012173846	2004-12-30 00:00:00	2004-12-19 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Canceled	0.0	
-54019	2005012874705	2005-01-10 00:00:00	2004-12-30 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	225.0	Clothing & Accessories	Settled	112.5	Settle
+52671	2005010773254	2004-12-21 00:00:00	2004-10-11 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	800.0	Jewelry - Fine	Denied	0.0	Deny
+53103	2005011973808	2004-12-28 00:00:00	2004-12-14 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	53.98	Cell Phones	Denied	0.0	Deny
+53243	2005012173919	2004-12-30 00:00:00	2004-12-17 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	39.99	Clothing - Shoes, belts, accessories, etc.	Approved	39.99	Approve in Full
+53255	2005012173846	2004-12-30 00:00:00	2004-12-19 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+54019	2005012874705	2005-01-10 00:00:00	2004-12-30 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	225.0	Clothing - Shoes, belts, accessories, etc.	Settled	112.5	Settle
 54035	2005012874674	2005-01-11 00:00:00	2004-12-22 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	93.95	Other	Approved	93.95	Approve in Full
-54163	2005012874679	2005-01-11 00:00:00	2004-09-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-55023	2005021075872	2005-01-19 00:00:00	2004-12-27 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	4500.0	Watches & Jewelry	Denied		Deny
+54163	2005012874679	2005-01-11 00:00:00	2004-09-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+55023	2005021075872	2005-01-19 00:00:00	2004-12-27 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	4500.0	Jewelry - Fine	Denied		Deny
 55150	2005021175936	2005-01-21 00:00:00	2004-03-13 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	1000.0	Other	Denied		Deny
-55300	2005021776467	2005-01-24 00:00:00	2005-01-16 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	242.03	Cosmetics	Approved	242.03	Approve in Full
-55463	2005042783527	2005-01-25 00:00:00	2004-10-03 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	17000.0	Watches & Jewelry	Denied	0.0	Deny
-55597	2005021676180	2005-01-26 00:00:00	2005-01-06 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
-55613	2005021776472	2005-01-26 00:00:00	2004-10-11 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	3400.0	Clothing & Accessories	Denied	0.0	Deny
-55732	2005022376639	2005-01-27 00:00:00	2005-01-17 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+55300	2005021776467	2005-01-24 00:00:00	2005-01-16 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	242.03	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	242.03	Approve in Full
+55463	2005042783527	2005-01-25 00:00:00	2004-10-03 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	17000.0	Jewelry - Fine	Denied	0.0	Deny
+55597	2005021676180	2005-01-26 00:00:00	2005-01-06 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	1500.0	Computer - Laptop	Denied	0.0	Deny
+55613	2005021776472	2005-01-26 00:00:00	2004-10-11 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	3400.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+55732	2005022376639	2005-01-27 00:00:00	2005-01-17 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
 55771	2005022276591	2005-01-27 00:00:00	2004-11-23 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	35.0	Other	Denied	0.0	Deny
-57317	2005031578281	2005-02-16 00:00:00	2005-01-08 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
+57317	2005031578281	2005-02-16 00:00:00	2005-01-08 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
 57384	2005031478099	2005-02-16 00:00:00	2005-01-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	120.75	Other	Denied	0.0	Deny
 58387	2005032279381	2005-03-04 00:00:00	2005-01-17 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	50.9	Other	Denied	0.0	Deny
-58594	2005032379558	2005-03-07 00:00:00	2004-12-21 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.45	Tools & Machines	Denied	0.0	Deny
-59317	2005032279132	2005-03-16 00:00:00	2005-02-19 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Approved	30.0	Approve in Full
+58594	2005032379558	2005-03-07 00:00:00	2004-12-21 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.45	Locks	Denied	0.0	Deny
+59317	2005032279132	2005-03-16 00:00:00	2005-02-19 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	30.0	Locks	Approved	30.0	Approve in Full
 60869	2005040681738	2005-04-05 00:00:00	2005-03-09 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	220.0	Other	Denied	0.0	Deny
 61465	2005041482521	2005-04-12 00:00:00	2005-02-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	60.95	Other	Approved	60.95	Approve in Full
-61732	2005041882733	2005-04-14 00:00:00	2005-03-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	21.0	Tools & Machines	Approved	21.0	Approve in Full
-62296	2005042583296	2005-04-22 00:00:00	2005-04-01 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+61732	2005041882733	2005-04-14 00:00:00	2005-03-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	21.0	Locks	Approved	21.0	Approve in Full
+62296	2005042583296	2005-04-22 00:00:00	2005-04-01 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Clothing - Shoes, belts, accessories, etc.	Approved	20.0	Approve in Full
 62946	2005050383893	2005-05-02 00:00:00	2005-04-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
-63327	2005050984279	2005-05-06 00:00:00	2005-04-29 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Denied	0.0	Deny
+63327	2005050984279	2005-05-06 00:00:00	2005-04-29 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	350.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 64059	2005051884972	2005-05-17 00:00:00	2005-05-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	20.0	Other	Canceled	0.0	
-64434	2005052485385	2005-05-20 00:00:00	2005-05-14 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	3400.0	Electronics	Denied	0.0	Deny
-64817	2005060685866	2005-05-31 00:00:00	2005-04-19 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	41.04	Clothing & Accessories	Approved	41.04	Approve in Full
-65155	2005061086244	2005-06-01 00:00:00	2005-05-08 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	65.0	Watches & Jewelry	Approved	65.0	Approve in Full
-65430	2005061386302	2005-06-03 00:00:00	2005-04-08 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	161.76	Electronics	Denied	0.0	Deny
+64434	2005052485385	2005-05-20 00:00:00	2005-05-14 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	3400.0	Computer - Laptop	Denied	0.0	Deny
+64817	2005060685866	2005-05-31 00:00:00	2005-04-19 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	41.04	Clothing - Shoes, belts, accessories, etc.	Approved	41.04	Approve in Full
+65155	2005061086244	2005-06-01 00:00:00	2005-05-08 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	65.0	Jewelry - Fine	Approved	65.0	Approve in Full
+65430	2005061386302	2005-06-03 00:00:00	2005-04-08 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	161.76	DVD/CD Players	Denied	0.0	Deny
 65441	2005061586420	2005-06-03 00:00:00	2005-04-18 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Other	Denied	0.0	Deny
-65529	2005061586401	2005-06-06 00:00:00	2005-04-22 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
-65736	2005062086665	2005-06-08 00:00:00	2005-05-19 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
-65818	2005062186785	2005-06-09 00:00:00	2005-06-05 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Canceled	0.0	
-65894	2005062387013	2005-06-09 00:00:00	2005-05-15 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	479.98	Electronics	Settled	308.61	Settle
-65972	2005061086138	2005-06-10 00:00:00	2005-05-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	278.2	Clothing & Accessories	Settled	250.2	Settle
-66099	2005062487151	2005-06-14 00:00:00	2005-05-16 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
-66888	2005081190366	2005-06-24 00:00:00	2005-05-16 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Supplies	Denied	0.0	Deny
-67200	2005080289985	2005-06-29 00:00:00	2005-05-16 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Denied	0.0	Deny
-67738	2005071288655	2005-07-11 00:00:00	2005-04-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Containers	Approved	30.0	Approve in Full
+65529	2005061586401	2005-06-06 00:00:00	2005-04-22 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Jewelry - Fine	Denied	0.0	Deny
+65736	2005062086665	2005-06-08 00:00:00	2005-05-19 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
+65818	2005062186785	2005-06-09 00:00:00	2005-06-05 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	1000.0	Jewelry - Fine	Canceled	0.0	
+65894	2005062387013	2005-06-09 00:00:00	2005-05-15 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	479.98	Cameras - Digital	Settled	308.61	Settle
+65972	2005061086138	2005-06-10 00:00:00	2005-05-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	278.2	Eyeglasses - (including contact lenses)	Settled	250.2	Settle
+66099	2005062487151	2005-06-14 00:00:00	2005-05-16 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Approved	30.0	Approve in Full
+66888	2005081190366	2005-06-24 00:00:00	2005-05-16 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Medicines	Denied	0.0	Deny
+67200	2005080289985	2005-06-29 00:00:00	2005-05-16 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+67738	2005071288655	2005-07-11 00:00:00	2005-04-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	30.0	Luggage (all types including footlockers)	Approved	30.0	Approve in Full
 67886	2005071488982	2005-07-13 00:00:00	2005-05-23 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	498.05	Other	Approved	498.05	Approve in Full
-68145	2005071589022	2005-07-14 00:00:00	2005-06-12 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	137.0	Clothing & Accessories	Settled	68.5	Settle
-68345	2005072089328	2005-07-20 00:00:00	2005-06-04 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Approved	80.0	Approve in Full
+68145	2005071589022	2005-07-14 00:00:00	2005-06-12 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	137.0	Clothing - Shoes, belts, accessories, etc.	Settled	68.5	Settle
+68345	2005072089328	2005-07-20 00:00:00	2005-06-04 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Approved	80.0	Approve in Full
 68709	2005072889798	2005-07-25 00:00:00	2005-06-03 00:00:00	ORF	Norfolk International	American Eagle	Passenger Property Loss	Checked Baggage	34.64	Other	Approved	34.64	Approve in Full
-68854	2005072989872	2005-07-26 00:00:00	2005-07-18 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
+68854	2005072989872	2005-07-26 00:00:00	2005-07-18 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Currency	Denied	0.0	Deny
 69105	2005080590107	2005-07-29 00:00:00	2005-07-17 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	134.5	Other	Denied	0.0	Deny
 69304	2005081090298	2005-08-02 00:00:00	2005-07-21 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	85.0	Other	Denied	0.0	Deny
-69378	2005081590500	2005-08-02 00:00:00	2005-05-20 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	950.0	Electronics	Denied	0.0	Deny
+69378	2005081590500	2005-08-02 00:00:00	2005-05-20 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	950.0	Cameras - Digital	Denied	0.0	Deny
 69586	2005081690626	2005-08-05 00:00:00	2005-07-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	515.0	Other	Denied	0.0	Deny
-69740	2005081890856	2005-08-08 00:00:00	2005-07-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	434.94	Clothing & Accessories	Settled	368.65	Settle
+69740	2005081890856	2005-08-08 00:00:00	2005-07-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	434.94	Eyeglasses - (including contact lenses)	Settled	368.65	Settle
 69966	2005082291040	2005-08-11 00:00:00	2005-07-12 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	156.0	Other	Denied	0.0	Deny
 69974	2005082391273	2005-08-11 00:00:00	2005-07-26 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	102.5	Other	Denied	0.0	Deny
 71349	2005091492466	2005-09-06 00:00:00	2005-08-24 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	45.0	Other	Approved	45.0	Approve in Full
-71478	2005091692636	2005-09-08 00:00:00	2005-08-27 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	94.44	Clothing & Accessories	Approved	94.44	Approve in Full
+71478	2005091692636	2005-09-08 00:00:00	2005-08-27 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	94.44	Clothing - Shoes, belts, accessories, etc.	Approved	94.44	Approve in Full
 71745	2005091992751	2005-09-09 00:00:00	2005-08-19 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	94.48	Other	Settled	47.24	Settle
-71893	2005092092894	2005-09-14 00:00:00	2005-07-16 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	160.0	Watches & Jewelry	Denied	0.0	Deny
-71904	2005092092921	2005-09-14 00:00:00	2005-08-13 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	236.53	Clothing & Accessories	Denied	0.0	Deny
-72025	2005092093002	2005-09-14 00:00:00	2005-08-22 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Cosmetics	Settled	137.5	Settle
-72662	2005100393712	2005-09-26 00:00:00	2005-09-12 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Approved	9.95	Approve in Full
-72750	2005100493884	2005-09-27 00:00:00	2005-09-15 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.39	Tools & Machines	Approved	8.39	Approve in Full
-72759	2005100493930	2005-09-27 00:00:00	2005-09-15 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	33.6	Supplies	Approved	33.6	Approve in Full
-72766	2005100593977	2005-09-27 00:00:00	2005-09-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	7.34	Tools & Machines	Approved	7.34	Approve in Full
-73207	2005100794277	2005-10-04 00:00:00	2005-09-10 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	791.0	Watches & Jewelry	Denied	0.0	Deny
-73307	2005101294445	2005-10-05 00:00:00	2005-09-22 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	79.99	Clothing & Accessories	Approved	79.99	Approve in Full
-73425	2005101494553	2005-10-07 00:00:00	2005-07-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	50.0	Watches & Jewelry	Approved	50.0	Approve in Full
+71893	2005092092894	2005-09-14 00:00:00	2005-07-16 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	160.0	Jewelry - Fine	Denied	0.0	Deny
+71904	2005092092921	2005-09-14 00:00:00	2005-08-13 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	236.53	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+72025	2005092093002	2005-09-14 00:00:00	2005-08-22 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	137.5	Settle
+72662	2005100393712	2005-09-26 00:00:00	2005-09-12 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.95	Locks	Approved	9.95	Approve in Full
+72750	2005100493884	2005-09-27 00:00:00	2005-09-15 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.39	Locks	Approved	8.39	Approve in Full
+72759	2005100493930	2005-09-27 00:00:00	2005-09-15 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	33.6	Medicines	Approved	33.6	Approve in Full
+72766	2005100593977	2005-09-27 00:00:00	2005-09-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	7.34	Locks	Approved	7.34	Approve in Full
+73207	2005100794277	2005-10-04 00:00:00	2005-09-10 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	791.0	Jewelry - Fine	Denied	0.0	Deny
+73307	2005101294445	2005-10-05 00:00:00	2005-09-22 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	79.99	Clothing - Shoes, belts, accessories, etc.	Approved	79.99	Approve in Full
+73425	2005101494553	2005-10-07 00:00:00	2005-07-02 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	50.0	Jewelry - Fine	Approved	50.0	Approve in Full
 73427	2005101494559	2005-10-07 00:00:00	2005-09-30 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	29.95	Other	Approved	29.95	Approve in Full
-73436	2005101794592	2005-10-07 00:00:00	2005-08-28 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-73696	2005101794709	2005-10-12 00:00:00	2005-09-05 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Settled	77.0	Settle
+73436	2005101794592	2005-10-07 00:00:00	2005-08-28 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+73696	2005101794709	2005-10-12 00:00:00	2005-09-05 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing - Shoes, belts, accessories, etc.	Settled	77.0	Settle
 73732	2005102094959	2005-10-13 00:00:00	2005-10-01 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
-73816	2005102195034	2005-10-17 00:00:00	2005-09-27 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Approved	25.0	Approve in Full
-73830	2005102495081	2005-10-17 00:00:00	2005-09-26 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	44.0	Tools & Machines	Approved	44.0	Approve in Full
+73816	2005102195034	2005-10-17 00:00:00	2005-09-27 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	25.0	Locks	Approved	25.0	Approve in Full
+73830	2005102495081	2005-10-17 00:00:00	2005-09-26 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	44.0	Locks	Approved	44.0	Approve in Full
 73983	2005102595120	2005-10-18 00:00:00	2005-10-04 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	140.0	Other	Approved	140.0	Approve in Full
-74129	2005102795260	2005-10-20 00:00:00	2005-10-10 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.95	Tools & Machines	Approved	12.95	Approve in Full
-74150	2005102795258	2005-10-20 00:00:00	2005-10-05 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	179.2	Electronics	Denied	0.0	Deny
+74129	2005102795260	2005-10-20 00:00:00	2005-10-10 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.95	Locks	Approved	12.95	Approve in Full
+74150	2005102795258	2005-10-20 00:00:00	2005-10-05 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	179.2	Cameras - Digital	Denied	0.0	Deny
 74200	2005102795312	2005-10-21 00:00:00	2005-09-20 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	23.47	Other	Approved	23.47	Approve in Full
-74326	2005103195442	2005-10-24 00:00:00	2005-09-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	397.0	Electronics	Settled	208.25	Settle
-74347	2005103195437	2005-10-25 00:00:00	2005-10-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-74459	2005110295510	2005-10-25 00:00:00	2005-10-12 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	336.64	Electronics	Settled	320.0	Settle
-74491	2005110295518	2005-10-26 00:00:00	2005-10-14 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5.5	Tools & Machines	Denied	0.0	Deny
-75160	2005112296370	2005-11-09 00:00:00	2005-10-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.49	Tools & Machines	Approved	7.49	Approve in Full
+74326	2005103195442	2005-10-24 00:00:00	2005-09-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	397.0	Cameras - Digital	Settled	208.25	Settle
+74347	2005103195437	2005-10-25 00:00:00	2005-10-07 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+74459	2005110295510	2005-10-25 00:00:00	2005-10-12 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	336.64	Cameras - Digital	Settled	320.0	Settle
+74491	2005110295518	2005-10-26 00:00:00	2005-10-14 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5.5	Locks	Denied	0.0	Deny
+75160	2005112296370	2005-11-09 00:00:00	2005-10-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.49	Locks	Approved	7.49	Approve in Full
 75245	2005111896210	2005-11-09 00:00:00	2005-10-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.95	Other	Settled	79.98	Settle
-75344	2005112596442	2005-11-14 00:00:00	2005-10-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	13.0	Tools & Machines	Approved	13.0	Approve in Full
-75671	2005120196791	2005-11-18 00:00:00	2005-11-02 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-75999	2005120897370	2005-11-22 00:00:00	2005-11-07 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	99.0	Cosmetics	Settled	49.5	Settle
-76196	2005120897322	2005-11-28 00:00:00	2005-11-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	224.6	Supplies	Settled	200.0	Settle
-76325	2005120897268	2005-11-30 00:00:00	2005-01-21 00:00:00	ORF	Norfolk International	Independence Air	Passenger Property Loss	Checked Baggage	108.74	Watches & Jewelry	Denied	0.0	Deny
-76620	2005121998026	2005-12-06 00:00:00	2005-11-25 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-76882	2005121597899	2005-12-09 00:00:00	2005-09-26 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	113.63	Clothing & Accessories	Settled	56.82	Settle
-76898	2005121697905	2005-12-12 00:00:00	2005-11-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	66.34	Clothing & Accessories	Approved	66.34	Approve in Full
-76971	2005121997977	2005-12-12 00:00:00	2005-12-01 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	1264.37	Electronics	Settled	1057.72	Settle
-77206	2005122298291	2005-12-16 00:00:00	2005-12-05 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	8.37	Tools & Machines	Approved	8.37	Approve in Full
+75344	2005112596442	2005-11-14 00:00:00	2005-10-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	13.0	Locks	Approved	13.0	Approve in Full
+75671	2005120196791	2005-11-18 00:00:00	2005-11-02 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
+75999	2005120897370	2005-11-22 00:00:00	2005-11-07 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	99.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	49.5	Settle
+76196	2005120897322	2005-11-28 00:00:00	2005-11-18 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	224.6	Medicines	Settled	200.0	Settle
+76325	2005120897268	2005-11-30 00:00:00	2005-01-21 00:00:00	ORF	Norfolk International	Independence Air	Passenger Property Loss	Checked Baggage	108.74	Jewelry - Fine	Denied	0.0	Deny
+76620	2005121998026	2005-12-06 00:00:00	2005-11-25 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
+76882	2005121597899	2005-12-09 00:00:00	2005-09-26 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	113.63	Clothing - Shoes, belts, accessories, etc.	Settled	56.82	Settle
+76898	2005121697905	2005-12-12 00:00:00	2005-11-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	66.34	Clothing - Shoes, belts, accessories, etc.	Approved	66.34	Approve in Full
+76971	2005121997977	2005-12-12 00:00:00	2005-12-01 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	1264.37	Computer - Laptop	Settled	1057.72	Settle
+77206	2005122298291	2005-12-16 00:00:00	2005-12-05 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	8.37	Locks	Approved	8.37	Approve in Full
 77213	2005122798363	2005-12-16 00:00:00	2005-12-04 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	86.99	Other	Approved	86.99	Approve in Full
 77627	2006010598821	2005-12-27 00:00:00	2005-12-17 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	36.0	Other	Approved	36.0	Approve in Full
-77978	2006010999149	2006-01-04 00:00:00	2005-11-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.68	Tools & Machines	Approved	14.68	Approve in Full
-78048	2006010999172	2006-01-04 00:00:00	2005-11-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-78125	2006011099200	2006-01-04 00:00:00	2005-12-04 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	480.68	Electronics	Settled	309.06	Settle
-78373	2006011299525	2006-01-10 00:00:00	2005-12-24 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	7.3	Tools & Machines	Approved	7.3	Approve in Full
+77978	2006010999149	2006-01-04 00:00:00	2005-11-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.68	Locks	Approved	14.68	Approve in Full
+78048	2006010999172	2006-01-04 00:00:00	2005-11-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Currency	Denied	0.0	Deny
+78125	2006011099200	2006-01-04 00:00:00	2005-12-04 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	480.68	Cameras - Digital	Settled	309.06	Settle
+78373	2006011299525	2006-01-10 00:00:00	2005-12-24 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	7.3	Locks	Approved	7.3	Approve in Full
 78623	2006011199413	2006-01-11 00:00:00	2005-12-28 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Other	Denied	0.0	Deny
-79091	2006012099982	2006-01-18 00:00:00	2005-12-30 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	460.0	Electronics	Settled	90.0	Settle
-79248	2006012500333	2006-01-20 00:00:00	2006-01-11 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	1616.63	Electronics	Settled	465.68	Settle
-79252	2006012600372	2006-01-20 00:00:00	2005-12-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Watches & Jewelry	Settled	258.0	Settle
-79268	2006012600466	2006-01-23 00:00:00	2005-10-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	1431.0	Watches & Jewelry	Approved	1431.0	Approve in Full
+79091	2006012099982	2006-01-18 00:00:00	2005-12-30 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	460.0	Cameras - Digital	Settled	90.0	Settle
+79248	2006012500333	2006-01-20 00:00:00	2006-01-11 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	1616.63	Computer - Laptop	Settled	465.68	Settle
+79252	2006012600372	2006-01-20 00:00:00	2005-12-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Jewelry - Fine	Settled	258.0	Settle
+79268	2006012600466	2006-01-23 00:00:00	2005-10-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	1431.0	Jewelry - Fine	Approved	1431.0	Approve in Full
 79613	2006020100741	2006-01-26 00:00:00	2006-01-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	2151.3	Other	Denied	0.0	Deny
 79696	2006020200840	2006-01-27 00:00:00	2005-12-27 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1109.96	Other	Denied	0.0	Deny
-79751	2006012400265	2006-01-28 00:00:00	2005-12-24 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	115.0	Electronics	Denied	0.0	Deny
-80379	2006021301452	2006-02-07 00:00:00	2006-01-17 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	200.0	Settle
-80606	2006022101788	2006-02-13 00:00:00	2006-01-14 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Denied	0.0	Deny
-80959	2006030202355	2006-02-21 00:00:00	2006-02-10 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+79751	2006012400265	2006-01-28 00:00:00	2005-12-24 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	115.0	DVD/CD Players	Denied	0.0	Deny
+80379	2006021301452	2006-02-07 00:00:00	2006-01-17 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Settled	200.0	Settle
+80606	2006022101788	2006-02-13 00:00:00	2006-01-14 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Denied	0.0	Deny
+80959	2006030202355	2006-02-21 00:00:00	2006-02-10 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
 81031	2006022702189	2006-02-22 00:00:00	2006-02-03 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	36.74	Other	Approved	36.74	Approve in Full
-81060	2006022702214	2006-02-23 00:00:00	2005-12-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	277.99	Electronics	Approved	277.99	Approve in Full
-81434	2006030602543	2006-02-28 00:00:00	2006-02-13 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Settled	250.0	Settle
-81451	2006030602619	2006-02-28 00:00:00	2006-02-21 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
+81060	2006022702214	2006-02-23 00:00:00	2005-12-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	277.99	Cameras - Digital	Approved	277.99	Approve in Full
+81434	2006030602543	2006-02-28 00:00:00	2006-02-13 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Settled	250.0	Settle
+81451	2006030602619	2006-02-28 00:00:00	2006-02-21 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Currency	Settled	50.0	Settle
 82152	2006032803759	2006-03-14 00:00:00	2005-12-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Other	Approved	49.99	Approve in Full
-82410	2006032303592	2006-03-17 00:00:00	2006-01-07 00:00:00	ORF	Norfolk International	US Express	Passenger Property Loss	Checked Baggage	551.24	Electronics	Denied	0.0	Deny
-82538	2006033003838	2006-03-21 00:00:00	2006-03-06 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-82772	2006040403982	2006-03-24 00:00:00	2006-03-05 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+82410	2006032303592	2006-03-17 00:00:00	2006-01-07 00:00:00	ORF	Norfolk International	US Express	Passenger Property Loss	Checked Baggage	551.24	Stereo Items & Accessories	Denied	0.0	Deny
+82538	2006033003838	2006-03-21 00:00:00	2006-03-06 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
+82772	2006040403982	2006-03-24 00:00:00	2006-03-05 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
 82819	2006040404029	2006-03-24 00:00:00	2006-03-14 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	139.76	Other	Denied	0.0	Deny
 83123	2006041204375	2006-03-30 00:00:00	2006-03-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	98.0	Other	Denied	0.0	Deny
-83289	2006041404520	2006-04-04 00:00:00	2006-03-15 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Supplies	Approved	75.0	Approve in Full
-83770	2006042505335	2006-04-13 00:00:00	2005-05-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.3	Tools & Machines	Approved	7.3	Approve in Full
-84057	2006042505163	2006-04-18 00:00:00	2006-04-01 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Clothing & Accessories	Settled	200.0	Settle
-84237	2006050105518	2006-04-24 00:00:00	2006-04-15 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	600.0	Watches & Jewelry	Denied	0.0	Deny
-84447	2006050105537	2006-04-27 00:00:00	2006-04-12 00:00:00	ORF	Norfolk International	AirTran Airlines	Passenger Property Loss	Checked Baggage	12.99	Clothing & Accessories	Denied	0.0	Deny
-84712	2006051206134	2006-05-02 00:00:00	2006-04-17 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	565.0	Clothing & Accessories	Denied	0.0	Deny
-84722	2006051206178	2006-05-02 00:00:00	2005-12-17 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1327.89	Watches & Jewelry	Denied	0.0	Deny
-85927	2006053107116	2006-05-30 00:00:00	2006-05-14 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	1224.95	Watches & Jewelry,Containers	Denied	0.0	Deny
-86109	2006060607425	2006-06-01 00:00:00	2006-05-25 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	249.0	Watches & Jewelry	Approved	249.0	Approve in Full
-86305	2006060807581	2006-06-05 00:00:00	2006-05-22 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1700.0	Watches & Jewelry	Denied	0.0	Deny
-86350	2006060807649	2006-06-06 00:00:00	2006-05-27 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Approved	250.0	Approve in Full
-87028	2006062008277	2006-06-19 00:00:00	2006-06-10 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	80.98	Clothing & Accessories	Settled	40.0	Settle
-87421	2006062908716	2006-06-28 00:00:00	2006-06-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.5	Containers	Approved	12.5	Approve in Full
+83289	2006041404520	2006-04-04 00:00:00	2006-03-15 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Medicines	Approved	75.0	Approve in Full
+83770	2006042505335	2006-04-13 00:00:00	2005-05-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.3	Locks	Approved	7.3	Approve in Full
+84057	2006042505163	2006-04-18 00:00:00	2006-04-01 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Clothing - Shoes, belts, accessories, etc.	Settled	200.0	Settle
+84237	2006050105518	2006-04-24 00:00:00	2006-04-15 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	600.0	Jewelry - Fine	Denied	0.0	Deny
+84447	2006050105537	2006-04-27 00:00:00	2006-04-12 00:00:00	ORF	Norfolk International	AirTran Airlines	Passenger Property Loss	Checked Baggage	12.99	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+84712	2006051206134	2006-05-02 00:00:00	2006-04-17 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	565.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+84722	2006051206178	2006-05-02 00:00:00	2005-12-17 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1327.89	Jewelry - Fine	Denied	0.0	Deny
+85927	2006053107116	2006-05-30 00:00:00	2006-05-14 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	1224.95	Jewelry - Fine*Luggage (all types including footlockers)	Denied	0.0	Deny
+86109	2006060607425	2006-06-01 00:00:00	2006-05-25 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	249.0	Watches - Expensive more than $100	Approved	249.0	Approve in Full
+86305	2006060807581	2006-06-05 00:00:00	2006-05-22 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1700.0	Watches - Expensive more than $100	Denied	0.0	Deny
+86350	2006060807649	2006-06-06 00:00:00	2006-05-27 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing - Shoes, belts, accessories, etc.	Approved	250.0	Approve in Full
+87028	2006062008277	2006-06-19 00:00:00	2006-06-10 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	80.98	Clothing - Shoes, belts, accessories, etc.	Settled	40.0	Settle
+87421	2006062908716	2006-06-28 00:00:00	2006-06-20 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.5	Luggage (all types including footlockers)	Approved	12.5	Approve in Full
 87505	2006070709105	2006-06-28 00:00:00	2004-12-31 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	38.0	Other	Denied	0.0	Deny
-89470	2006081010763	2006-08-07 00:00:00	2006-07-19 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	34.99	Outdoors Supplies	Approved	34.99	Approve in Full
-89890	2006081711198	2006-08-14 00:00:00	2006-08-10 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	349.99	Electronics	Denied	0.0	Deny
-90475	2006082911743	2006-08-24 00:00:00	2006-08-10 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	753.0	Scientific Intruments	Denied	0.0	Deny
+89470	2006081010763	2006-08-07 00:00:00	2006-07-19 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	34.99	Tools - Manual (not in a vehicle)	Approved	34.99	Approve in Full
+89890	2006081711198	2006-08-14 00:00:00	2006-08-10 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	349.99	Cameras - Digital	Denied	0.0	Deny
+90475	2006082911743	2006-08-24 00:00:00	2006-08-10 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	753.0	Dental Equipment and Instruments	Denied	0.0	Deny
 90826	2006090812153	2006-08-31 00:00:00	2006-08-24 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	73.49	Other	Approved	73.49	Approve in Full
-91212	2006091312445	2006-09-07 00:00:00	2006-08-19 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	209.0	Outdoors Supplies	Denied	0.0	Deny
-92204	2006092713435	2006-09-27 00:00:00	2006-09-10 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	430.0	Clothing & Accessories,Other,Electronics	Denied	0.0	Deny
-92346	2006100513647	2006-09-29 00:00:00	2006-08-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	354.68	Electronics,Other,Electronics	Denied	0.0	Deny
-93182	2006102614629	2006-10-17 00:00:00	2006-09-27 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Approved	7.99	Approve in Full
-93849	2006110315156	2006-10-30 00:00:00	2006-10-20 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Denied	0.0	Deny
+91212	2006091312445	2006-09-07 00:00:00	2006-08-19 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	209.0	Fish/Game	Denied	0.0	Deny
+92204	2006092713435	2006-09-27 00:00:00	2006-09-10 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	430.0	Clothing - Shoes, belts, accessories, etc.*Other*Video Recordings - Laser Discs	Denied	0.0	Deny
+92346	2006100513647	2006-09-29 00:00:00	2006-08-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	354.68	Audio - CD's*Other*Video Recordings - Laser Discs	Denied	0.0	Deny
+93182	2006102614629	2006-10-17 00:00:00	2006-09-27 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.99	Locks	Approved	7.99	Approve in Full
+93849	2006110315156	2006-10-30 00:00:00	2006-10-20 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	85.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 93936	2006103114888	2006-10-31 00:00:00	2006-10-20 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	239.95	Other	Settled	119.98	Settle
-94043	2006111315506	2006-11-02 00:00:00	2006-07-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9185.0	Watches & Jewelry,Other	Denied	0.0	Deny
-94660	2006112015889	2006-11-15 00:00:00	2006-09-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Denied	0.0	Deny
+94043	2006111315506	2006-11-02 00:00:00	2006-07-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9185.0	Jewelry - Fine*Other	Denied	0.0	Deny
+94660	2006112015889	2006-11-15 00:00:00	2006-09-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Jewelry - Fine	Denied	0.0	Deny
 94918	2006112816313	2006-11-20 00:00:00	2006-11-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	40.5	Other	Denied	0.0	Deny
-96038	2006121517195	2006-12-12 00:00:00	2006-12-05 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Approved	40.0	Approve in Full
-96303	2006122117606	2006-12-18 00:00:00	2006-12-03 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Approved	80.0	Approve in Full
-96640	2006122617913	2006-12-22 00:00:00	2006-12-11 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	109.81	Containers,Cosmetics,Scientific Intruments,Supplies,Watches & Jewelry	Settled	54.8	Settle
-97562	2007011218724	2007-01-08 00:00:00	2006-12-17 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.61	Tools & Machines	Approved	8.61	Approve in Full
-98968	2007020220055	2007-01-29 00:00:00	2006-12-26 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Denied	0.0	Deny
-99263	2007020920599	2007-02-02 00:00:00	2007-01-14 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	236.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-99636	2007020920653	2007-02-08 00:00:00	2007-01-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	308.67	Electronics,Other	Settled	132.47	Settle
-100166	2007022221354	2007-02-21 00:00:00	2007-01-07 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-100244	2007022321419	2007-02-21 00:00:00	2006-12-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	129.98	Clothing & Accessories,Other	Settled	64.99	Settle
-100649	2007030221820	2007-03-01 00:00:00	2007-01-26 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	120.03	Electronics,Other	Settled	60.02	Settle
-100940	2007031322149	2007-03-08 00:00:00	2007-03-01 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint	2.0	Other	Approved	2.0	Approve in Full
-101475	2007032122678	2007-03-19 00:00:00	2007-03-09 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	200.0	Electronics	Denied	0.0	Deny
-101514	2007032322832	2007-03-19 00:00:00	2007-03-13 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	125.0	Containers,Electronics,Watches & Jewelry	Denied	0.0	Deny
-102177	2007040223384	2007-03-30 00:00:00	2007-03-19 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint	605.68	Clothing & Accessories,Cosmetics,Watches & Jewelry	Settled	477.84	Settle
-102364	2007040623632	2007-04-04 00:00:00	2007-03-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry,Other	Denied	0.0	Deny
-102432	2007040923662	2007-04-05 00:00:00	2007-03-23 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Settled	56.0	Settle
-102919	2007041824196	2007-04-16 00:00:00	2006-03-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	174.87	Electronics,Electronics	Denied	0.0	Deny
-103021	2007042024267	2007-04-18 00:00:00	2007-04-06 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	185.0	Clothing & Accessories	Denied	0.0	Deny
-103355	2007042724601	2007-04-24 00:00:00	2007-04-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	29.99	Electronics	Denied	0.0	Deny
-103374	2007042724684	2007-04-25 00:00:00	2007-03-06 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Approved	25.0	Approve in Full
-103606	2007050224862	2007-04-30 00:00:00	2007-03-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	475.0	Electronics	Settled	399.99	Settle
-104102	2007051125309	2007-05-11 00:00:00	2007-04-25 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.99	Tools & Machines	Approved	12.99	Approve in Full
-104410	2007051925702	2007-05-17 00:00:00	2007-05-06 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-104421	2007051725578	2007-05-17 00:00:00	2007-04-12 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Denied	0.0	Deny
-105046	2007060426186	2007-05-31 00:00:00	2007-05-24 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	620.0	Watches & Jewelry	Denied	0.0	Deny
-105402	2007060826573	2007-06-06 00:00:00	2007-05-21 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	47.85	Cosmetics	Denied	0.0	Deny
-105569	2007061326861	2007-06-08 00:00:00	2007-05-02 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Cosmetics,Other	Denied	0.0	Deny
-105890	2007061927172	2007-06-15 00:00:00	2007-06-11 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	6252.58	Electronics,Cosmetics,Supplies	Denied	0.0	Deny
-106068	2007062127302	2007-06-20 00:00:00	2007-04-02 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint	100.0	Supplies	Approved	100.0	Approve in Full
-106280	2007062927649	2007-06-25 00:00:00	2007-06-17 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	38.0	Clothing & Accessories	Approved	38.0	Approve in Full
-108261	2007073129437	2007-07-31 00:00:00	2007-07-30 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	399.0	Watches & Jewelry	Settled	321.65	Settle
-108295	2007080629636	2007-08-01 00:00:00	2007-07-08 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1500.0	Clothing & Accessories,Electronics	Denied	0.0	Deny
-108613	2007080929959	2007-08-06 00:00:00	2007-06-28 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	375.0	Electronics,Electronics	Settled	187.5	Settle
-109918	2007083131239	2007-08-29 00:00:00	2007-08-24 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	345.0	Electronics,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-109958	2007083131236	2007-08-30 00:00:00	2007-08-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	279.99	Electronics	Denied	0.0	Deny
+96038	2006121517195	2006-12-12 00:00:00	2006-12-05 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Clothing - Shoes, belts, accessories, etc.	Approved	40.0	Approve in Full
+96303	2006122117606	2006-12-18 00:00:00	2006-12-03 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Approved	80.0	Approve in Full
+96640	2006122617913	2006-12-22 00:00:00	2006-12-11 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	109.81	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Dental Equipment and Instruments*Medicines*Watches - Inexpensive $100 or less	Settled	54.8	Settle
+97562	2007011218724	2007-01-08 00:00:00	2006-12-17 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.61	Locks	Approved	8.61	Approve in Full
+98968	2007020220055	2007-01-29 00:00:00	2006-12-26 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+99263	2007020920599	2007-02-02 00:00:00	2007-01-14 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	236.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+99636	2007020920653	2007-02-08 00:00:00	2007-01-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	308.67	Cameras - Digital*Other	Settled	132.47	Settle
+100166	2007022221354	2007-02-21 00:00:00	2007-01-07 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+100244	2007022321419	2007-02-21 00:00:00	2006-12-26 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	129.98	Clothing - Shoes, belts, accessories, etc.*Other	Settled	64.99	Settle
+100649	2007030221820	2007-03-01 00:00:00	2007-01-26 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	120.03	Cell Phones*Other	Settled	60.02	Settle
+100940	2007031322149	2007-03-08 00:00:00	2007-03-01 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint	2.0	Currency	Approved	2.0	Approve in Full
+101475	2007032122678	2007-03-19 00:00:00	2007-03-09 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	200.0	Cameras - Digital	Denied	0.0	Deny
+101514	2007032322832	2007-03-19 00:00:00	2007-03-13 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	125.0	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Jewelry - Costume	Denied	0.0	Deny
+102177	2007040223384	2007-03-30 00:00:00	2007-03-19 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint	605.68	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Fine	Settled	477.84	Settle
+102364	2007040623632	2007-04-04 00:00:00	2007-03-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1500.0	Jewelry - Fine*Other	Denied	0.0	Deny
+102432	2007040923662	2007-04-05 00:00:00	2007-03-23 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Settled	56.0	Settle
+102919	2007041824196	2007-04-16 00:00:00	2006-03-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	174.87	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+103021	2007042024267	2007-04-18 00:00:00	2007-04-06 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	185.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+103355	2007042724601	2007-04-24 00:00:00	2007-04-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	29.99	Cell Phones	Denied	0.0	Deny
+103374	2007042724684	2007-04-25 00:00:00	2007-03-06 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	25.0	Clothing - Shoes, belts, accessories, etc.	Approved	25.0	Approve in Full
+103606	2007050224862	2007-04-30 00:00:00	2007-03-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	475.0	Cameras - Digital	Settled	399.99	Settle
+104102	2007051125309	2007-05-11 00:00:00	2007-04-25 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.99	Locks	Approved	12.99	Approve in Full
+104410	2007051925702	2007-05-17 00:00:00	2007-05-06 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+104421	2007051725578	2007-05-17 00:00:00	2007-04-12 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	600.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+105046	2007060426186	2007-05-31 00:00:00	2007-05-24 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	620.0	Jewelry - Fine	Denied	0.0	Deny
+105402	2007060826573	2007-06-06 00:00:00	2007-05-21 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	47.85	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+105569	2007061326861	2007-06-08 00:00:00	2007-05-02 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+105890	2007061927172	2007-06-15 00:00:00	2007-06-11 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	6252.58	Cameras - Digital*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Denied	0.0	Deny
+106068	2007062127302	2007-06-20 00:00:00	2007-04-02 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint	100.0	Medicines	Approved	100.0	Approve in Full
+106280	2007062927649	2007-06-25 00:00:00	2007-06-17 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	38.0	Clothing - Shoes, belts, accessories, etc.	Approved	38.0	Approve in Full
+108261	2007073129437	2007-07-31 00:00:00	2007-07-30 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	399.0	Watches - Expensive more than $100	Settled	321.65	Settle
+108295	2007080629636	2007-08-01 00:00:00	2007-07-08 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1500.0	Clothing - Shoes, belts, accessories, etc.*Computer - Laptop	Denied	0.0	Deny
+108613	2007080929959	2007-08-06 00:00:00	2007-06-28 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	375.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	187.5	Settle
+109918	2007083131239	2007-08-29 00:00:00	2007-08-24 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	345.0	Cameras - Digital*Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+109958	2007083131236	2007-08-30 00:00:00	2007-08-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	279.99	Cameras - Digital	Denied	0.0	Deny
 110393	2007091031601	2007-09-10 00:00:00	2007-07-17 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	190.97	Other	Denied	0.0	Deny
 110687	2007091732048	2007-09-13 00:00:00	2007-09-06 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1200.0	Other	Denied	0.0	Deny
-110740	2007091832125	2007-09-14 00:00:00	2007-09-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	300.0	Electronics,Games & Toys,Other	Denied	0.0	Deny
-112027	2007101633444	2007-10-11 00:00:00	2007-09-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	999.99	Electronics	Denied	0.0	Deny
+110740	2007091832125	2007-09-14 00:00:00	2007-09-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	300.0	Cell Phones*Game Equipment (poker chips, checker sets, chess etc.)*Other	Denied	0.0	Deny
+112027	2007101633444	2007-10-11 00:00:00	2007-09-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	999.99	GPS - Global Positioning System	Denied	0.0	Deny
 112039	2007101633481	2007-10-11 00:00:00	2007-09-23 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Other	Denied	0.0	Deny
-112228	2007101833651	2007-10-15 00:00:00	2007-10-06 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	212.93	Containers	Settled	42.5	Settle
-112707	2007102934077	2007-10-25 00:00:00	2007-10-19 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	152.84	Clothing & Accessories	Denied	0.0	Deny
-112951	2007111334809	2007-10-30 00:00:00	2007-10-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
+112228	2007101833651	2007-10-15 00:00:00	2007-10-06 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage	212.93	Luggage (all types including footlockers)	Settled	42.5	Settle
+112707	2007102934077	2007-10-25 00:00:00	2007-10-19 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	152.84	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+112951	2007111334809	2007-10-30 00:00:00	2007-10-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Locks	Denied	0.0	Deny
 113034	2007110734613	2007-10-31 00:00:00	2007-10-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Other	Denied	0.0	Deny
-113163	2007110734640	2007-11-02 00:00:00	2007-10-18 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
+113163	2007110734640	2007-11-02 00:00:00	2007-10-18 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	70.0	Clothing - Shoes, belts, accessories, etc.*Jewelry - Costume	Denied	0.0	Deny
 113193	2007110834689	2007-11-05 00:00:00	2007-10-18 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	14.99	Other	Approved	14.99	Approve in Full
 113393	2007111334830	2007-11-07 00:00:00	2007-10-08 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	44.3	Other	Denied	0.0	Deny
-113494	2007111434928	2007-11-09 00:00:00	2007-11-03 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	375.0	Electronics,Electronics,Other	Denied	0.0	Deny
-115171	2007121836655	2007-12-13 00:00:00	2007-08-30 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	3575.0	Watches & Jewelry	Denied	0.0	Deny
-115949	2008010437384	2008-01-02 00:00:00	2007-11-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
+113494	2007111434928	2007-11-09 00:00:00	2007-11-03 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	375.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Denied	0.0	Deny
+115171	2007121836655	2007-12-13 00:00:00	2007-08-30 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	3575.0	Jewelry - Fine	Denied	0.0	Deny
+115949	2008010437384	2008-01-02 00:00:00	2007-11-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	300.0	GPS - Global Positioning System	Denied	0.0	Deny
 118504	2008022640163	2008-02-19 00:00:00	2008-01-14 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	117.95	Other	Denied	0.0	Deny
-119264	2008031240878	2008-03-05 00:00:00	2008-02-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	3500.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-120334	2008032741505	2008-03-26 00:00:00	2008-02-21 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	3250.0	Electronics,Electronics,Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-120370	2008040942245	2008-03-27 00:00:00	2007-12-19 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	112.29	Clothing & Accessories,Electronics	Denied	0.0	Deny
-120403	2008012438504	2008-03-28 00:00:00	2007-11-18 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Cosmetics,Other,Clothing & Accessories	Denied	0.0	Deny
-120603	2008040842099	2008-04-01 00:00:00	2008-03-30 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
-120847	2008041142491	2008-04-04 00:00:00	2008-03-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	289.35	Cosmetics,Supplies	Settled	195.0	Settle
-120872	2008031340982	2008-04-07 00:00:00	2007-12-26 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checkpoint	62.21	Watches & Jewelry	Denied	0.0	Deny
-121620	2008042343233	2008-04-21 00:00:00	2008-03-16 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-121775	2008040141655	2008-04-23 00:00:00	2008-03-22 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
-121776	2008042443348	2008-04-23 00:00:00	2008-03-15 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	99.95	Watches & Jewelry	Denied	0.0	Deny
-121911	2008043043593	2008-04-25 00:00:00	2007-11-29 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	214.95	Clothing & Accessories	Denied	0.0	Deny
-122187	2008050543804	2008-05-01 00:00:00	2008-04-09 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checkpoint	792.74	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-122297	2008050643885	2008-05-05 00:00:00	2008-05-01 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	460.0	Cosmetics,Other,Clothing & Accessories,Containers	Denied	0.0	Deny
-122364	2008050843981	2008-05-06 00:00:00	2008-04-19 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	183.82	Clothing & Accessories	Denied	0.0	Deny
-122384	2008050844017	2008-05-06 00:00:00	2008-04-07 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1158.04	Outdoors Supplies	Denied	0.0	Deny
-123491	2008061145541	2008-05-29 00:00:00	2008-05-10 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	14100.0	Watches & Jewelry	Denied	0.0	Deny
-123545	2008060445254	2008-05-30 00:00:00	2008-05-22 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	109.0	Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
-124665	2008070146414	2008-06-25 00:00:00	2008-05-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
-124749	2008070146456	2008-06-27 00:00:00	2008-05-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	358.94	Electronics,Electronics	Denied	0.0	Deny
-125662	2008071747068	2008-07-18 00:00:00	2008-06-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	149.99	Electronics	Denied	0.0	Deny
+119264	2008031240878	2008-03-05 00:00:00	2008-02-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	3500.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+120334	2008032741505	2008-03-26 00:00:00	2008-02-21 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	3250.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Computer - Laptop	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+120370	2008040942245	2008-03-27 00:00:00	2007-12-19 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	112.29	Clothing - Shoes, belts, accessories, etc.*DVD/CD Players	Denied	0.0	Deny
+120403	2008012438504	2008-03-28 00:00:00	2007-11-18 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Currency*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+120603	2008040842099	2008-04-01 00:00:00	2008-03-30 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	250.0	GPS - Global Positioning System	Denied	0.0	Deny
+120847	2008041142491	2008-04-04 00:00:00	2008-03-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	289.35	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Settled	195.0	Settle
+120872	2008031340982	2008-04-07 00:00:00	2007-12-26 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checkpoint	62.21	Jewelry - Costume	Denied	0.0	Deny
+121620	2008042343233	2008-04-21 00:00:00	2008-03-16 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+121775	2008040141655	2008-04-23 00:00:00	2008-03-22 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1200.0	Computer - Laptop	Denied	0.0	Deny
+121776	2008042443348	2008-04-23 00:00:00	2008-03-15 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	99.95	Watches - Inexpensive $100 or less	Denied	0.0	Deny
+121911	2008043043593	2008-04-25 00:00:00	2007-11-29 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	214.95	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+122187	2008050543804	2008-05-01 00:00:00	2008-04-09 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checkpoint	792.74	Jewelry - Fine*Watches - Expensive more than $100	Denied	0.0	Deny
+122297	2008050643885	2008-05-05 00:00:00	2008-05-01 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	460.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Currency*Eyeglasses - (including contact lenses)*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+122364	2008050843981	2008-05-06 00:00:00	2008-04-19 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	183.82	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+122384	2008050844017	2008-05-06 00:00:00	2008-04-07 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	1158.04	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+123491	2008061145541	2008-05-29 00:00:00	2008-05-10 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	14100.0	Jewelry - Fine	Denied	0.0	Deny
+123545	2008060445254	2008-05-30 00:00:00	2008-05-22 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	109.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+124665	2008070146414	2008-06-25 00:00:00	2008-05-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Watches - Expensive more than $100	Denied	0.0	Deny
+124749	2008070146456	2008-06-27 00:00:00	2008-05-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	358.94	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+125662	2008071747068	2008-07-18 00:00:00	2008-06-24 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	149.99	Cameras - Digital	Denied	0.0	Deny
 125931	2008080147926	2008-07-23 00:00:00	2008-07-06 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	183.69	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-126109	2008080147891	2008-07-28 00:00:00	2008-06-28 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	326.0	Watches & Jewelry	Denied	0.0	Deny
-126546	2008081148346	2008-08-06 00:00:00	2008-07-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	82.13	Cosmetics	Denied	0.0	Deny
-126630	2008081148384	2008-08-07 00:00:00	2008-08-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	193.98	Electronics	Denied	0.0	Deny
-127049	2008082048831	2008-08-18 00:00:00	2008-08-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	193.98	Electronics	Denied	0.0	Deny
-127502	2008082749240	2008-08-27 00:00:00	2008-07-26 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	291.0	Games & Toys	Denied	0.0	Deny
-127566	2008090249298	2008-08-28 00:00:00	2008-08-10 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	279.0	Electronics	Denied	0.0	Deny
-127679	2008090449489	2008-09-02 00:00:00	2008-08-11 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checkpoint	751.0	Watches & Jewelry	Denied	0.0	Deny
-127702	2008090549534	2008-09-02 00:00:00	2008-08-14 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	254.94	Electronics	Denied	0.0	Deny
-127710	2008090549558	2008-09-02 00:00:00	2008-02-19 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	399.97	Electronics	Denied	0.0	Deny
-128143	2008091549894	2008-09-11 00:00:00	2008-08-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Denied	0.0	Deny
-128189	2008090449464	2008-09-12 00:00:00	2008-08-10 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	4286.0	Electronics,Electronics	Denied	0.0	Deny
-128568	2008092350295	2008-09-22 00:00:00	2008-07-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2958.76	Electronics	Denied	0.0	Deny
-129004	2008100950943	2008-10-02 00:00:00	2008-09-23 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	45.89	Clothing & Accessories	Denied	0.0	Deny
-129027	2008100750853	2008-10-03 00:00:00	2008-09-09 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	223.0	Household Items,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-129717	2008102351494	2008-10-21 00:00:00	2008-09-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	6000.0	Watches & Jewelry	Denied	0.0	Deny
-129847	2008110351646	2008-10-24 00:00:00	2008-10-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	128.09	Clothing & Accessories	Denied	0.0	Deny
-130010	2008110551921	2008-10-28 00:00:00	2008-10-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	1200.0	Watches & Jewelry	Denied	0.0	Deny
-130930	2008112452739	2008-11-21 00:00:00	2008-09-12 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	39.95	Clothing & Accessories	Denied	0.0	Deny
-131412	2008121053246	2008-12-05 00:00:00	2008-11-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	988.0	Electronics,Electronics	Denied	0.0	Deny
-131421	2008121153290	2008-12-05 00:00:00	2008-11-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	280.0	Games & Toys	Denied	0.0	Deny
-131439	2008112452709	2008-12-08 00:00:00	2008-11-05 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	2500.0	Electronics	Denied	0.0	Deny
-132125	2009010553989	2008-12-23 00:00:00	2008-11-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.39	Tools & Machines	Denied	0.0	Deny
-132273	2009010654135	2008-12-30 00:00:00	2008-12-29 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	70.0	Cosmetics	Denied	0.0	Deny
-133747	2009022555825	2009-02-05 00:00:00	2009-01-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Denied	0.0	Deny
-134037	2009030555898	2009-02-13 00:00:00	2008-08-21 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	2135.66	Electronics	Denied	0.0	Deny
-134167	2009031656265	2009-02-19 00:00:00	2009-02-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics,Scientific Intruments	Canceled	0.0	
-134205	2009031656277	2009-02-19 00:00:00	2009-02-09 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	250.0	Games & Toys	Denied	0.0	Deny
-135052	2009032656929	2009-03-13 00:00:00	2009-02-21 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.0	Clothing & Accessories	Denied	0.0	Deny
-135564	2009041557515	2009-03-27 00:00:00	2009-03-01 00:00:00	ORF	Norfolk International	Delta (Song)	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
-135810	2009042057757	2009-04-02 00:00:00	2009-03-21 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	379.31	Watches & Jewelry	Approved	379.31	Approve in Full
-135894	2009042757987	2009-04-06 00:00:00	2009-03-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	165.54	Supplies,Other	Approved	165.54	Approve in Full
-136164	2009042457968	2009-04-13 00:00:00	2009-04-04 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	139.88	Tools & Machines,Outdoors Supplies	Denied	0.0	Deny
-136331	2009050458341	2009-04-17 00:00:00	2009-02-15 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	23900.0	Watches & Jewelry	Denied	0.0	Deny
-136872	2009051858832	2009-05-01 00:00:00	2009-04-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	575.0	Other,Tools & Machines	Denied	0.0	Deny
-138174	2009062260498	2009-06-09 00:00:00	2009-05-09 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	16.0	Tools & Machines	Denied	0.0	Deny
+126109	2008080147891	2008-07-28 00:00:00	2008-06-28 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	326.0	Jewelry - Costume	Denied	0.0	Deny
+126546	2008081148346	2008-08-06 00:00:00	2008-07-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	82.13	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+126630	2008081148384	2008-08-07 00:00:00	2008-08-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	193.98	Cameras - Digital	Denied	0.0	Deny
+127049	2008082048831	2008-08-18 00:00:00	2008-08-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	193.98	Cameras - Digital	Denied	0.0	Deny
+127502	2008082749240	2008-08-27 00:00:00	2008-07-26 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	291.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+127566	2008090249298	2008-08-28 00:00:00	2008-08-10 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	279.0	Cameras - Digital	Denied	0.0	Deny
+127679	2008090449489	2008-09-02 00:00:00	2008-08-11 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checkpoint	751.0	Jewelry - Fine	Denied	0.0	Deny
+127702	2008090549534	2008-09-02 00:00:00	2008-08-14 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	254.94	Cameras - Digital	Denied	0.0	Deny
+127710	2008090549558	2008-09-02 00:00:00	2008-02-19 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	399.97	Cameras - Digital	Denied	0.0	Deny
+128143	2008091549894	2008-09-11 00:00:00	2008-08-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+128189	2008090449464	2008-09-12 00:00:00	2008-08-10 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage	4286.0	Cameras - Digital*Computer - Laptop	Denied	0.0	Deny
+128568	2008092350295	2008-09-22 00:00:00	2008-07-29 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2958.76	Cameras - Digital	Denied	0.0	Deny
+129004	2008100950943	2008-10-02 00:00:00	2008-09-23 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	45.89	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+129027	2008100750853	2008-10-03 00:00:00	2008-09-09 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	223.0	Bedding - Linens and bedspreads*Clothing - Shoes, belts, accessories, etc.*Jewelry - Costume	Denied	0.0	Deny
+129717	2008102351494	2008-10-21 00:00:00	2008-09-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	6000.0	Watches - Expensive more than $100	Denied	0.0	Deny
+129847	2008110351646	2008-10-24 00:00:00	2008-10-19 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	128.09	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+130010	2008110551921	2008-10-28 00:00:00	2008-10-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	1200.0	Jewelry - Fine	Denied	0.0	Deny
+130930	2008112452739	2008-11-21 00:00:00	2008-09-12 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	39.95	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+131412	2008121053246	2008-12-05 00:00:00	2008-11-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	988.0	Cameras - Digital*Video Recordings (blank & commercial)	Denied	0.0	Deny
+131421	2008121153290	2008-12-05 00:00:00	2008-11-27 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	280.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+131439	2008112452709	2008-12-08 00:00:00	2008-11-05 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	2500.0	Computer - Laptop	Denied	0.0	Deny
+132125	2009010553989	2008-12-23 00:00:00	2008-11-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.39	Locks	Denied	0.0	Deny
+132273	2009010654135	2008-12-30 00:00:00	2008-12-29 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	70.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+133747	2009022555825	2009-02-05 00:00:00	2009-01-23 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+134037	2009030555898	2009-02-13 00:00:00	2008-08-21 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	2135.66	Computer - Laptop	Denied	0.0	Deny
+134167	2009031656265	2009-02-19 00:00:00	2009-02-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Dental Equipment and Instruments	Canceled	0.0	
+134205	2009031656277	2009-02-19 00:00:00	2009-02-09 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	250.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+135052	2009032656929	2009-03-13 00:00:00	2009-02-21 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+135564	2009041557515	2009-03-27 00:00:00	2009-03-01 00:00:00	ORF	Norfolk International	Delta (Song)	Passenger Property Loss	Checked Baggage	1500.0	Computer - Laptop	Denied	0.0	Deny
+135810	2009042057757	2009-04-02 00:00:00	2009-03-21 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	379.31	Jewelry - Fine	Approved	379.31	Approve in Full
+135894	2009042757987	2009-04-06 00:00:00	2009-03-18 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint	165.54	Medicines*Other	Approved	165.54	Approve in Full
+136164	2009042457968	2009-04-13 00:00:00	2009-04-04 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage	139.88	Barber Supplies - Scissors, shears, elecric razors, etc.*Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+136331	2009050458341	2009-04-17 00:00:00	2009-02-15 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint	23900.0	Watches - Expensive more than $100	Denied	0.0	Deny
+136872	2009051858832	2009-05-01 00:00:00	2009-04-07 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	575.0	Other*Scissors, Shears (other than electric)	Denied	0.0	Deny
+138174	2009062260498	2009-06-09 00:00:00	2009-05-09 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	16.0	Locks	Denied	0.0	Deny
 138322	2009061560175	2009-06-12 00:00:00	2009-06-06 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage	69.88	Other	Denied	0.0	Deny
-138349	2009061660231	2009-06-15 00:00:00	2009-05-15 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	340.0	Electronics	Denied	0.0	Deny
+138349	2009061660231	2009-06-15 00:00:00	2009-05-15 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint	340.0	Cell Phones	Denied	0.0	Deny
 138531	2009062360536	2009-06-18 00:00:00	2009-05-21 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint	1150.0	Other	Denied	0.0	Deny
-139489	2009072261590	2009-07-14 00:00:00	2009-06-27 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	600.0	Electronics,Games & Toys	Denied	0.0	Deny
-140243	2009080462228	2009-08-03 00:00:00	2009-06-30 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1604.85	Watches & Jewelry	Denied	0.0	Deny
-141643	2009091763778	2009-09-14 00:00:00	2009-08-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.44	Tools & Machines	Approved	9.44	Approve in Full
-141839	2009091863837	2009-09-17 00:00:00	2009-09-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	429.99	Electronics,Other	Denied	0.0	Deny
-142110	2009100564316	2009-09-25 00:00:00	2009-09-09 00:00:00	ORF	Norfolk International	Mesa Airlines	Passenger Property Loss	Checked Baggage	38.0	Watches & Jewelry	Canceled		
-142495	2009100964491	2009-10-08 00:00:00	2009-10-04 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	301.71	Watches & Jewelry	Denied	0.0	Deny
+139489	2009072261590	2009-07-14 00:00:00	2009-06-27 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage	600.0	PDA - Personal Data Assistants*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+140243	2009080462228	2009-08-03 00:00:00	2009-06-30 00:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1604.85	Jewelry - Fine	Denied	0.0	Deny
+141643	2009091763778	2009-09-14 00:00:00	2009-08-30 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.44	Locks	Approved	9.44	Approve in Full
+141839	2009091863837	2009-09-17 00:00:00	2009-09-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	429.99	Cameras - Digital*Other	Denied	0.0	Deny
+142110	2009100564316	2009-09-25 00:00:00	2009-09-09 00:00:00	ORF	Norfolk International	Mesa Airlines	Passenger Property Loss	Checked Baggage	38.0	Watches - Inexpensive $100 or less	Canceled		
+142495	2009100964491	2009-10-08 00:00:00	2009-10-04 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	301.71	Jewelry - Fine	Denied	0.0	Deny
 142777	2009102864895	2009-10-19 00:00:00	2009-10-28 14:00:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	241.48	Other	Denied	0.0	Deny
-143275	2009111065255	2009-11-03 00:00:00	2009-10-30 09:45:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Games & Toys	Denied	0.0	Deny
-144221	2009120966327	2009-12-02 00:00:00	2009-07-25 17:30:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Approved	9.95	Approve in Full
-144457	2009121466503	2009-12-09 00:00:00	2009-12-04 04:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	79.19	Clothing & Accessories,Other	Denied	0.0	Deny
-145099	2010010667213	2009-12-30 00:00:00	2009-12-28 06:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	78.04	Electronics,Cosmetics,Supplies,Supplies,Other	Denied	0.0	Deny
-145360	2010012868029	2010-01-25 00:00:00	2010-01-15 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		49.0	Approve in Full
-145552	2010020468320	2010-02-01 00:00:00	2010-01-23 09:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-146030	2010030268976	2010-02-22 00:00:00	2010-01-11 10:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-147409	2010041470789	2010-04-05 00:00:00	2010-01-11 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		41.99	Approve in Full
-148086	2010043071365	2010-04-26 00:00:00	2010-04-10 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-148130	2010042871284	2010-04-27 00:00:00	2010-04-23 14:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-148746	2010052172037	2010-05-17 00:00:00	2010-04-30 19:30:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Other,Games & Toys		0.0	Deny
-148798	2010052172022	2010-05-18 00:00:00	2010-02-07 08:40:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Electronics		0.0	Deny
+143275	2009111065255	2009-11-03 00:00:00	2009-10-30 09:45:00	ORF	Norfolk International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+144221	2009120966327	2009-12-02 00:00:00	2009-07-25 17:30:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.95	Locks	Approved	9.95	Approve in Full
+144457	2009121466503	2009-12-09 00:00:00	2009-12-04 04:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage	79.19	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+145099	2010010667213	2009-12-30 00:00:00	2009-12-28 06:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage	78.04	Computer peripherals*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines*Medicines*Other	Denied	0.0	Deny
+145360	2010012868029	2010-01-25 00:00:00	2010-01-15 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		49.0	Approve in Full
+145552	2010020468320	2010-02-01 00:00:00	2010-01-23 09:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+146030	2010030268976	2010-02-22 00:00:00	2010-01-11 10:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing		0.0	Deny
+147409	2010041470789	2010-04-05 00:00:00	2010-01-11 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		41.99	Approve in Full
+148086	2010043071365	2010-04-26 00:00:00	2010-04-10 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+148130	2010042871284	2010-04-27 00:00:00	2010-04-23 14:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+148746	2010052172037	2010-05-17 00:00:00	2010-04-30 19:30:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches*Other*Toys & Games		0.0	Deny
+148798	2010052172022	2010-05-18 00:00:00	2010-02-07 08:40:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing*Other*Personal Electronics		0.0	Deny
 149284	2010061572632	2010-06-02 00:00:00	2010-04-27 06:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-149340	2010062372955	2010-06-03 00:00:00	2010-04-29 18:35:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-149794	2010062473041	2010-06-21 00:00:00	2010-06-16 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-149972	2010063073253	2010-06-25 00:00:00	2010-06-12 05:30:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checkpoint		Electronics			
-150023	2010070273329	2010-06-28 00:00:00	2010-06-26 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Outdoors Supplies,Cosmetics		0.0	Deny
-151641	2010082475282	2010-08-11 00:00:00	2010-02-09 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-151936	2010082575345	2010-08-19 00:00:00	2010-08-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		292.56	Approve in Full
-152051	2010083175530	2010-08-23 00:00:00	2010-07-25 05:40:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.99	Settle
+149340	2010062372955	2010-06-03 00:00:00	2010-04-29 18:35:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
+149794	2010062473041	2010-06-21 00:00:00	2010-06-16 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+149972	2010063073253	2010-06-25 00:00:00	2010-06-12 05:30:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checkpoint		Personal Electronics			
+150023	2010070273329	2010-06-28 00:00:00	2010-06-26 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming*Hunting & Fishing Items*Travel Accessories		0.0	Deny
+151641	2010082475282	2010-08-11 00:00:00	2010-02-09 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+151936	2010082575345	2010-08-19 00:00:00	2010-08-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		292.56	Approve in Full
+152051	2010083175530	2010-08-23 00:00:00	2010-07-25 05:40:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		9.99	Settle
 152544	2010091575990	2010-09-07 00:00:00	2010-08-05 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-153428	2010101276872	2010-10-04 00:00:00	2010-09-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-154164	2010110477584	2010-10-26 00:00:00	2010-08-01 03:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics,Other,Other		0.0	Deny
-154204	2010110677644	2010-10-27 00:00:00	2010-10-24 18:45:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint		Electronics			
-154206	2010110677648	2010-10-27 00:00:00	2010-10-07 16:20:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-155038	2010121078694	2010-11-23 00:00:00	2010-10-15 06:50:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-155242	2010121378735	2010-12-01 00:00:00	2010-11-05 15:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics		0.0	Deny
-156125	2011011379531	2011-01-03 00:00:00	2010-12-01 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-157244	2011030180715	2011-02-04 00:00:00	2010-10-28 07:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-160293	2011052783811	2011-05-17 00:00:00	2011-05-15 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-160915	2011062184474	2011-06-07 00:00:00	2011-05-13 15:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-161088	2011062484609	2011-06-13 00:00:00	2010-12-20 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-161499	2011070184960	2011-06-27 00:00:00	2011-05-23 13:20:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		57.6	Settle
-162424	2011081185976	2011-07-26 00:00:00	2011-07-10 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		8.49	Approve in Full
+153428	2010101276872	2010-10-04 00:00:00	2010-09-11 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+154164	2010110477584	2010-10-26 00:00:00	2010-08-01 03:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Computer & Accessories*Currency*Other		0.0	Deny
+154204	2010110677644	2010-10-27 00:00:00	2010-10-24 18:45:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint		Personal Electronics			
+154206	2010110677648	2010-10-27 00:00:00	2010-10-07 16:20:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+155038	2010121078694	2010-11-23 00:00:00	2010-10-15 06:50:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+155242	2010121378735	2010-12-01 00:00:00	2010-11-05 15:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics*Travel Accessories		0.0	Deny
+156125	2011011379531	2011-01-03 00:00:00	2010-12-01 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+157244	2011030180715	2011-02-04 00:00:00	2010-10-28 07:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+160293	2011052783811	2011-05-17 00:00:00	2011-05-15 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+160915	2011062184474	2011-06-07 00:00:00	2011-05-13 15:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+161088	2011062484609	2011-06-13 00:00:00	2010-12-20 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+161499	2011070184960	2011-06-27 00:00:00	2011-05-23 13:20:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing		57.6	Settle
+162424	2011081185976	2011-07-26 00:00:00	2011-07-10 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		8.49	Approve in Full
 162779	2011082386380	2011-08-05 00:00:00	2011-06-30 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-162814	2011083086552	2011-08-08 00:00:00	2011-07-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-163786	2011101387834	2011-09-07 00:00:00	2011-08-17 17:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Other,Cosmetics		26.15	Approve in Full
-164062	2011101187684	2011-09-19 00:00:00	2011-09-02 08:20:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-164084	2011101287748	2011-09-19 00:00:00	2011-08-31 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		10.49	Approve in Full
-164448	2011100487438	2011-10-04 00:00:00	2011-08-13 05:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-165319	2011110788739	2011-10-31 00:00:00	2011-08-22 06:45:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		300.0	Approve in Full
-165463	2011111088858	2011-11-04 00:00:00	2011-09-27 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		70.0	Approve in Full
-165688	2011113089218	2011-11-14 00:00:00	2011-10-31 10:50:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-166915	2012012590447	2011-12-29 00:00:00	2011-12-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories		111.0	Settle
-166956	2012013090519	2011-12-30 00:00:00	2011-12-05 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-167043	2012020790745	2012-01-03 00:00:00	2012-01-01 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories		286.25	Settle
-167534	2012022391251	2012-01-17 00:00:00	2012-01-05 13:30:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-167982	2012013090524	2012-01-31 00:00:00	2011-12-19 04:47:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		270.0	Approve in Full
-168214	2012032091833	2012-02-08 00:00:00	2012-02-06 11:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-168695	2012040392411	2012-02-23 00:00:00	2011-12-22 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-170362	2012050993729	2012-04-26 00:00:00	2012-04-15 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		46.14	Approve in Full
-170613	2012052494246	2012-05-03 00:00:00	2012-04-23 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-171030	2012061194750	2012-05-17 00:00:00	2012-05-10 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-171531	2012071195225	2012-06-06 00:00:00	2012-05-15 12:35:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Containers		50.0	Settle
-171948	2012072395632	2012-06-20 00:00:00	2012-05-20 05:56:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		184.02	Settle
-171988	2012072695728	2012-06-21 00:00:00	2012-06-17 12:50:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-172030	2012072695740	2012-06-25 00:00:00	2012-06-09 06:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Outdoors Supplies		0.0	Deny
-172320	2012081796034	2012-07-05 00:00:00	2012-06-11 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-172595	2012082896337	2012-07-16 00:00:00	2012-06-30 09:30:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-172906	2012082296106	2012-07-26 00:00:00	2012-06-26 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-173261	2012092197025	2012-08-07 00:00:00	2012-07-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Deny
-173314	2012091296743	2012-08-09 00:00:00	2012-06-24 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-173601	2012100197295	2012-08-20 00:00:00	2012-07-10 08:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		250.0	Approve in Full
-173651	2012100297334	2012-08-21 00:00:00	2012-07-31 09:30:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-174390	2012102498090	2012-09-17 00:00:00	2012-08-04 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-174885	2012102998204	2012-10-04 00:00:00	2012-09-19 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-175889	2013010899611	2012-11-13 00:00:00	2012-11-04 05:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			
-176338	2013011800021	2012-11-29 00:00:00	2012-11-12 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		500.0	Settle
-176895	2013012400234	2012-12-26 00:00:00	2012-12-06 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-177110	2013020601043	2013-01-03 00:00:00	2012-12-28 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+162814	2011083086552	2011-08-08 00:00:00	2011-07-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+163786	2011101387834	2011-09-07 00:00:00	2011-08-17 17:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Other*Travel Accessories		26.15	Approve in Full
+164062	2011101187684	2011-09-19 00:00:00	2011-09-02 08:20:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+164084	2011101287748	2011-09-19 00:00:00	2011-08-31 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		10.49	Approve in Full
+164448	2011100487438	2011-10-04 00:00:00	2011-08-13 05:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+165319	2011110788739	2011-10-31 00:00:00	2011-08-22 06:45:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		300.0	Approve in Full
+165463	2011111088858	2011-11-04 00:00:00	2011-09-27 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		70.0	Approve in Full
+165688	2011113089218	2011-11-14 00:00:00	2011-10-31 10:50:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+166915	2012012590447	2011-12-29 00:00:00	2011-12-22 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing		111.0	Settle
+166956	2012013090519	2011-12-30 00:00:00	2011-12-05 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+167043	2012020790745	2012-01-03 00:00:00	2012-01-01 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing		286.25	Settle
+167534	2012022391251	2012-01-17 00:00:00	2012-01-05 13:30:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+167982	2012013090524	2012-01-31 00:00:00	2011-12-19 04:47:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		270.0	Approve in Full
+168214	2012032091833	2012-02-08 00:00:00	2012-02-06 11:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+168695	2012040392411	2012-02-23 00:00:00	2011-12-22 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+170362	2012050993729	2012-04-26 00:00:00	2012-04-15 00:00:00	ORF	Norfolk International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing		46.14	Approve in Full
+170613	2012052494246	2012-05-03 00:00:00	2012-04-23 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+171030	2012061194750	2012-05-17 00:00:00	2012-05-10 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+171531	2012071195225	2012-06-06 00:00:00	2012-05-15 12:35:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses		50.0	Settle
+171948	2012072395632	2012-06-20 00:00:00	2012-05-20 05:56:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		184.02	Settle
+171988	2012072695728	2012-06-21 00:00:00	2012-06-17 12:50:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+172030	2012072695740	2012-06-25 00:00:00	2012-06-09 06:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Hunting & Fishing Items		0.0	Deny
+172320	2012081796034	2012-07-05 00:00:00	2012-06-11 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+172595	2012082896337	2012-07-16 00:00:00	2012-06-30 09:30:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+172906	2012082296106	2012-07-26 00:00:00	2012-06-26 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.0	Approve in Full
+173261	2012092197025	2012-08-07 00:00:00	2012-07-26 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Toys & Games		0.0	Deny
+173314	2012091296743	2012-08-09 00:00:00	2012-06-24 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Cameras*Personal Electronics		0.0	Deny
+173601	2012100197295	2012-08-20 00:00:00	2012-07-10 08:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		250.0	Approve in Full
+173651	2012100297334	2012-08-21 00:00:00	2012-07-31 09:30:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
+174390	2012102498090	2012-09-17 00:00:00	2012-08-04 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+174885	2012102998204	2012-10-04 00:00:00	2012-09-19 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+175889	2013010899611	2012-11-13 00:00:00	2012-11-04 05:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming			
+176338	2013011800021	2012-11-29 00:00:00	2012-11-12 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		500.0	Settle
+176895	2013012400234	2012-12-26 00:00:00	2012-12-06 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
+177110	2013020601043	2013-01-03 00:00:00	2012-12-28 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
 177113	2013010899640	2013-01-04 00:00:00	2012-12-31 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
-178539	2013022802220	2013-02-22 00:00:00	2013-02-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-178751	2013030402346	2013-03-04 00:00:00	2013-02-28 19:30:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-179255	2013032902863	2013-03-20 00:00:00	2013-03-17 06:20:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		962.98	Settle
-181021	2013062304630	2013-05-29 00:00:00	2013-05-24 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-181522	2013080205600	2013-06-14 00:00:00	2013-05-14 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-182641	2013082906386	2013-07-23 00:00:00	2013-07-21 16:25:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-183328	2013092307231	2013-08-15 00:00:00	2013-08-07 14:53:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-186304	2013121610096	2013-12-12 00:00:00	2013-08-01 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-186487	2013122610274	2013-12-19 00:00:00	2013-11-25 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics			
-186671	2014010310460	2013-12-30 00:00:00	2013-12-14 09:10:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Food & Drink,Watches & Jewelry			
-187013	2014011310752	2014-01-13 00:00:00	2013-12-26 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+178539	2013022802220	2013-02-22 00:00:00	2013-02-15 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+178751	2013030402346	2013-03-04 00:00:00	2013-02-28 19:30:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+179255	2013032902863	2013-03-20 00:00:00	2013-03-17 06:20:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		962.98	Settle
+181021	2013062304630	2013-05-29 00:00:00	2013-05-24 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+181522	2013080205600	2013-06-14 00:00:00	2013-05-14 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+182641	2013082906386	2013-07-23 00:00:00	2013-07-21 16:25:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+183328	2013092307231	2013-08-15 00:00:00	2013-08-07 14:53:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Audio/Video		0.0	Deny
+186304	2013121610096	2013-12-12 00:00:00	2013-08-01 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+186487	2013122610274	2013-12-19 00:00:00	2013-11-25 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories			
+186671	2014010310460	2013-12-30 00:00:00	2013-12-14 09:10:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing*Food & Drink*Jewelry & Watches			
+187013	2014011310752	2014-01-13 00:00:00	2013-12-26 00:00:00	ORF	Norfolk International		Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
 187140	2014011610889	2014-01-08 00:00:00	2013-12-31 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-187186	2014011710937	2014-01-15 00:00:00	2013-12-21 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-187682	2014020511441	2014-02-03 00:00:00	2014-01-18 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		30.0	Approve in Full
-187987	2014021911754	2014-02-11 00:00:00	2013-12-31 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+187186	2014011710937	2014-01-15 00:00:00	2013-12-21 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+187682	2014020511441	2014-02-03 00:00:00	2014-01-18 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Clothing		30.0	Approve in Full
+187987	2014021911754	2014-02-11 00:00:00	2013-12-31 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
 188365	2014030312139	2014-02-27 00:00:00	2014-02-20 00:00:00	ORF	Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-189924	2014050613736	2014-05-06 00:00:00	2014-01-08 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-190612	2014060414433	2014-06-03 00:00:00	2014-05-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		85.0	Approve in Full
+189924	2014050613736	2014-05-06 00:00:00	2014-01-08 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Personal Electronics*Personal Electronics		0.0	Deny
+190612	2014060414433	2014-06-03 00:00:00	2014-05-25 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing		85.0	Approve in Full
 191447	2014072115285	2014-07-01 00:00:00	2014-05-04 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
-192788	2014091716662	2014-08-26 00:00:00	2014-08-11 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint		Cosmetics		32.8	Approve in Full
+192788	2014091716662	2014-08-26 00:00:00	2014-08-11 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		32.8	Approve in Full
 194555	2014112018461	2014-11-10 00:00:00	2014-11-03 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Other			
-202106	2015010819715	2015-01-08 00:00:00	2015-01-05 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		288.89	Approve in Full
-202108	2015021020508	2015-02-10 00:00:00	2015-01-18 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics		99.99	Approve in Full
-202110	2015040121657	2015-04-01 00:00:00	2015-03-16 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		13.0	Approve in Full
+202106	2015010819715	2015-01-08 00:00:00	2015-01-05 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		288.89	Approve in Full
+202108	2015021020508	2015-02-10 00:00:00	2015-01-18 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		99.99	Approve in Full
+202110	2015040121657	2015-04-01 00:00:00	2015-03-16 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		13.0	Approve in Full
 202114	2015052222701	2015-05-15 00:00:00	2015-05-01 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-202116	2015061723203	2015-06-08 00:00:00	2015-05-28 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-202117	2015061723207	2015-06-10 00:00:00	2015-05-21 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+202116	2015061723203	2015-06-08 00:00:00	2015-05-28 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming		0.0	Deny
+202117	2015061723207	2015-06-10 00:00:00	2015-05-21 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
 202118	2015062323352	2015-06-16 00:00:00	2014-12-24 00:00:00	ORF	Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Other		119.97	Approve in Full
-202121	2015090125223	2015-08-25 00:00:00	2015-07-16 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-202122	2015101326005	2015-09-25 00:00:00	2015-09-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-202126	2015110426535	2015-10-14 00:00:00	2015-10-11 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-202127	2015110426560	2015-10-19 00:00:00	2015-10-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		12.52	Approve in Full
-202129	2015111826976	2015-11-03 00:00:00	2015-10-08 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics			
-202132	2015120427286	2015-11-19 00:00:00	2015-11-12 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry			
-210593	2016092233744	2016-08-01 00:00:00	2016-07-25 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
+202121	2015090125223	2015-08-25 00:00:00	2015-07-16 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+202122	2015101326005	2015-09-25 00:00:00	2015-09-13 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+202126	2015110426535	2015-10-14 00:00:00	2015-10-11 00:00:00	ORF	Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+202127	2015110426560	2015-10-19 00:00:00	2015-10-02 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		12.52	Approve in Full
+202129	2015111826976	2015-11-03 00:00:00	2015-10-08 00:00:00	ORF	Norfolk International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+202132	2015120427286	2015-11-19 00:00:00	2015-11-12 00:00:00	ORF	Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Jewelry & Watches			
+210593	2016092233744	2016-08-01 00:00:00	2016-07-25 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			Insufficient
 210594	2016121936036	2016-10-27 00:00:00	2016-10-06 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Other			Insufficient
-210596	2016031129650	2016-02-25 00:00:00	2016-01-25 04:30:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checkpoint		Cosmetics		20.0	Approve in Full
-210597	2016052731853	2016-04-13 00:00:00	2016-03-24 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Watches & Jewelry		149.99	Approve in Full
-210598	2016062832459	2016-05-25 00:00:00	2016-05-08 12:30:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		28.38	Approve in Full
-210599	2016080932996	2016-06-30 00:00:00	2016-06-20 12:30:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		34.99	Approve in Full
+210596	2016031129650	2016-02-25 00:00:00	2016-01-25 04:30:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		20.0	Approve in Full
+210597	2016052731853	2016-04-13 00:00:00	2016-03-24 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Jewelry & Watches		149.99	Approve in Full
+210598	2016062832459	2016-05-25 00:00:00	2016-05-08 12:30:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		28.38	Approve in Full
+210599	2016080932996	2016-06-30 00:00:00	2016-06-20 12:30:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		34.99	Approve in Full
 210600	2016082433276	2016-07-14 00:00:00	2016-07-11 10:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		80.54	Approve in Full
-210601	2017011036415	2016-11-09 00:00:00	2016-10-13 07:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Closed:Canceled
-210604	2016040430280	2016-03-16 00:00:00	2016-02-25 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-210607	2016093034197	2016-08-17 00:00:00	2016-05-24 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-210608	2016071232605	2016-06-17 00:00:00	2016-05-30 06:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		0.0	Deny
-210609	2016112135832	2016-11-21 00:00:00	2016-06-20 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-210610	2016081533076	2016-07-01 00:00:00	2016-06-24 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-210613	2016092834056	2016-08-10 00:00:00	2016-07-31 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Property Loss	Checkpoint		Other			In Review
-210614	2016102034932	2016-09-08 00:00:00	2016-08-29 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Electronics			In Review
+210601	2017011036415	2016-11-09 00:00:00	2016-10-13 07:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			Closed:Canceled
+210604	2016040430280	2016-03-16 00:00:00	2016-02-25 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+210607	2016093034197	2016-08-17 00:00:00	2016-05-24 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+210608	2016071232605	2016-06-17 00:00:00	2016-05-30 06:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Clothing		0.0	Deny
+210609	2016112135832	2016-11-21 00:00:00	2016-06-20 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+210610	2016081533076	2016-07-01 00:00:00	2016-06-24 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+210613	2016092834056	2016-08-10 00:00:00	2016-07-31 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Property Loss	Checkpoint		Currency			In Review
+210614	2016102034932	2016-09-08 00:00:00	2016-08-29 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Personal Electronics			In Review
 210616	2017011736567	2016-11-21 00:00:00	2016-10-25 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Other			In Review
 210617	2017010336221	2016-11-14 00:00:00	2016-11-14 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-218807	2017120145696	2017-12-01 00:00:00	2017-09-17 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
-218809	2017060540190	2017-04-05 00:00:00	2017-01-10 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-218811	2017121245911	2017-11-06 00:00:00	2017-10-10 08:20:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
-218812	2017100443917	2017-09-06 00:00:00	2017-05-11 17:00:00	ORF	Norfolk International Norfolk International	American Eagle	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-218813	2017052339871	2017-04-07 00:00:00	2017-03-17 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Outdoors Supplies			In Review
-218814	2017092043253	2017-08-07 00:00:00	2017-07-18 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-218815	2017110745057	2017-11-07 00:00:00	2017-10-02 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Office Supplies			In Review
-218818	2017092043310	2017-08-10 00:00:00	2017-08-06 08:05:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-218823	2017060940427	2017-04-13 00:00:00	2017-04-06 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-218824	2017050839266	2017-03-13 00:00:00	2017-03-05 06:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink,Outdoors Supplies		0.0	Deny
-218825	2018010446478	2017-12-14 00:00:00	2017-10-25 10:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
-218826	2017071841615	2017-06-14 00:00:00	2017-05-08 10:58:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-218828	2018011146761	2017-12-15 00:00:00	2017-11-21 04:59:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-218830	2017092943774	2017-08-17 00:00:00	2017-07-18 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-218832	2017070741289	2017-06-20 00:00:00	2017-06-16 16:35:00	ORF	Norfolk International Norfolk International	Not Provided	Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient
-218836	2017101144226	2017-09-21 00:00:00	2017-08-30 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-218840	2017091142840	2017-07-26 00:00:00	2017-06-21 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Insufficient
-218842	2017060640228	2017-03-28 00:00:00	2017-03-23 14:30:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Cosmetics			In Review
-218843	2017101844485	2017-09-29 00:00:00	2017-09-21 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other			In Review
-218844	2017101944581	2017-09-29 00:00:00	2017-09-25 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-218845	2017121846060	2017-11-30 00:00:00	2017-10-03 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
-218846	2017040438364	2017-01-31 00:00:00	2017-01-17 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
+218807	2017120145696	2017-12-01 00:00:00	2017-09-17 00:00:00	ORF	Norfolk International Norfolk International		Passenger Property Loss	Checked Baggage		Jewelry & Watches			Insufficient
+218809	2017060540190	2017-04-05 00:00:00	2017-01-10 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+218811	2017121245911	2017-11-06 00:00:00	2017-10-10 08:20:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cameras			In Review
+218812	2017100443917	2017-09-06 00:00:00	2017-05-11 17:00:00	ORF	Norfolk International Norfolk International	American Eagle	Passenger Property Loss	Checked Baggage		Personal Accessories			In Review
+218813	2017052339871	2017-04-07 00:00:00	2017-03-17 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Tools & Home Improvement Supplies			In Review
+218814	2017092043253	2017-08-07 00:00:00	2017-07-18 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+218815	2017110745057	2017-11-07 00:00:00	2017-10-02 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Books, Magazines & Other			In Review
+218818	2017092043310	2017-08-10 00:00:00	2017-08-06 08:05:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review
+218823	2017060940427	2017-04-13 00:00:00	2017-04-06 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+218824	2017050839266	2017-03-13 00:00:00	2017-03-05 06:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+218825	2018010446478	2017-12-14 00:00:00	2017-10-25 10:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories			In Review
+218826	2017071841615	2017-06-14 00:00:00	2017-05-08 10:58:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+218828	2018011146761	2017-12-15 00:00:00	2017-11-21 04:59:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+218830	2017092943774	2017-08-17 00:00:00	2017-07-18 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+218832	2017070741289	2017-06-20 00:00:00	2017-06-16 16:35:00	ORF	Norfolk International Norfolk International	Not Provided	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			Insufficient
+218836	2017101144226	2017-09-21 00:00:00	2017-08-30 00:00:00	ORF	Norfolk International Norfolk International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+218840	2017091142840	2017-07-26 00:00:00	2017-06-21 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			Insufficient
+218842	2017060640228	2017-03-28 00:00:00	2017-03-23 14:30:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories*Personal Electronics*Travel Accessories			In Review
+218843	2017101844485	2017-09-29 00:00:00	2017-09-21 00:00:00	ORF	Norfolk International Norfolk International	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Other			In Review
+218844	2017101944581	2017-09-29 00:00:00	2017-09-25 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+218845	2017121846060	2017-11-30 00:00:00	2017-10-03 00:00:00	ORF	Norfolk International Norfolk International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics			In Review
+218846	2017040438364	2017-01-31 00:00:00	2017-01-17 00:00:00	ORF	Norfolk International Norfolk International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			In Review

@@ -1,9 +1,9 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-100134	2007022221320	2007-02-20 00:00:00	2007-02-14 00:00:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checkpoint	2.93	Cosmetics	Denied	0.0	Deny
-102324	2007040623604	2007-04-03 00:00:00	2007-02-04 00:00:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.48	Cosmetics,Electronics	Denied	0.0	Deny
-150340	2010071673757	2010-07-06 00:00:00	2010-06-17 13:00:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Office Supplies		0.0	Deny
-163026	2011090186641	2011-08-15 00:00:00	2011-08-09 12:15:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		109.81	Settle
-163197	2011090886790	2011-08-17 00:00:00	2011-08-08 06:00:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+100134	2007022221320	2007-02-20 00:00:00	2007-02-14 00:00:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checkpoint	2.93	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+102324	2007040623604	2007-04-03 00:00:00	2007-02-04 00:00:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	74.48	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+150340	2010071673757	2010-07-06 00:00:00	2010-06-17 13:00:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Books, Magazines & Other		0.0	Deny
+163026	2011090186641	2011-08-15 00:00:00	2011-08-09 12:15:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Cameras		109.81	Settle
+163197	2011090886790	2011-08-17 00:00:00	2011-08-08 06:00:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checked Baggage		Medical/Science			
 166051	2011121389597	2011-11-28 00:00:00	2011-11-12 05:45:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checked Baggage		Other			
-190887	2014061814714	2014-06-11 00:00:00	2014-05-02 00:00:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-196920	2015062223306	2015-06-09 00:00:00	2015-06-01 00:00:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry,Electronics		0.0	Deny
+190887	2014061814714	2014-06-11 00:00:00	2014-05-02 00:00:00	COD	Yellowstone Regional	UAL	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+196920	2015062223306	2015-06-09 00:00:00	2015-06-01 00:00:00	COD	Yellowstone Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Jewelry & Watches*Personal Electronics		0.0	Deny

@@ -1,36 +1,36 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-77251	2005122798385	2005-12-16 00:00:00	2005-10-14 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	553.13	Electronics	Denied	0.0	Deny
-77733	2006010598864	2005-12-28 00:00:00	2005-12-26 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	520.48	Watches & Jewelry	Denied	0.0	Deny
-90503	2006082811701	2006-08-25 00:00:00	2006-07-31 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	6.48	Tools & Machines	Approved	6.48	Approve in Full
-92152	2006092713417	2006-09-25 00:00:00	2006-09-14 00:00:00	AVP	Wilkes-Barre/Scranton International	Northwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Tools & Machines	Settled	35.0	Settle
-98690	2007012919665	2007-01-24 00:00:00	2006-12-18 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checkpoint	26.94	Household Items	Approved	26.94	Approve in Full
-98712	2007012919659	2007-01-24 00:00:00	2007-01-01 00:00:00	AVP	Wilkes-Barre/Scranton International		Passenger Property Loss	Checkpoint	518.34	Watches & Jewelry	Denied	0.0	Deny
-110002	2007090431317	2007-08-31 00:00:00	2007-08-28 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	165.0	Electronics,Other	Denied	0.0	Deny
-115444	2007122136822	2007-12-19 00:00:00	2007-12-11 00:00:00	AVP	Wilkes-Barre/Scranton International		Passenger Property Loss	Checked Baggage	614.31	Electronics,Electronics	Settled	307.16	Settle
-117693	2008021139357	2008-01-31 00:00:00	2008-01-04 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
-124273	2008061845859	2008-06-16 00:00:00	2008-06-13 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage	361.5	Other,Outdoors Supplies	Settled	180.75	Settle
-125034	2008070946703	2008-07-03 00:00:00	2008-06-26 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	139.0	Tools & Machines	Denied	0.0	Deny
-126099	2008080147868	2008-07-28 00:00:00	2008-07-18 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1379.31	Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-126267	2008080648119	2008-07-31 00:00:00	2008-07-18 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1379.31	Clothing & Accessories,Watches & Jewelry,Watches & Jewelry	Canceled	0.0	
-127806	2008090249306	2008-09-04 00:00:00	2008-08-20 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage	259.2	Scientific Intruments,Electronics	Denied	0.0	Deny
-136082	2009042357906	2009-04-09 00:00:00	2009-02-08 00:00:00	AVP	Wilkes-Barre/Scranton International	Northwest Airlines	Passenger Property Loss	Checkpoint	49.9	Watches & Jewelry	Denied	0.0	Deny
+77251	2005122798385	2005-12-16 00:00:00	2005-10-14 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	553.13	Cameras - Digital	Denied	0.0	Deny
+77733	2006010598864	2005-12-28 00:00:00	2005-12-26 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	520.48	Jewelry - Fine	Denied	0.0	Deny
+90503	2006082811701	2006-08-25 00:00:00	2006-07-31 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	6.48	Locks	Approved	6.48	Approve in Full
+92152	2006092713417	2006-09-25 00:00:00	2006-09-14 00:00:00	AVP	Wilkes-Barre/Scranton International	Northwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Barber Supplies - Scissors, shears, elecric razors, etc.	Settled	35.0	Settle
+98690	2007012919665	2007-01-24 00:00:00	2006-12-18 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checkpoint	26.94	Bedding - Other pillows	Approved	26.94	Approve in Full
+98712	2007012919659	2007-01-24 00:00:00	2007-01-01 00:00:00	AVP	Wilkes-Barre/Scranton International		Passenger Property Loss	Checkpoint	518.34	Jewelry - Fine	Denied	0.0	Deny
+110002	2007090431317	2007-08-31 00:00:00	2007-08-28 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	165.0	Cell Phones*Other	Denied	0.0	Deny
+115444	2007122136822	2007-12-19 00:00:00	2007-12-11 00:00:00	AVP	Wilkes-Barre/Scranton International		Passenger Property Loss	Checked Baggage	614.31	Cameras - Digital*Cell Phones	Settled	307.16	Settle
+117693	2008021139357	2008-01-31 00:00:00	2008-01-04 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage	2000.0	Jewelry - Fine	Denied	0.0	Deny
+124273	2008061845859	2008-06-16 00:00:00	2008-06-13 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage	361.5	Other*Tools - Manual (not in a vehicle)	Settled	180.75	Settle
+125034	2008070946703	2008-07-03 00:00:00	2008-06-26 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	139.0	Locks	Denied	0.0	Deny
+126099	2008080147868	2008-07-28 00:00:00	2008-07-18 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1379.31	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Denied	0.0	Deny
+126267	2008080648119	2008-07-31 00:00:00	2008-07-18 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1379.31	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine*Watches - Expensive more than $100	Canceled	0.0	
+127806	2008090249306	2008-09-04 00:00:00	2008-08-20 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage	259.2	Dental Equipment and Instruments*GPS - Global Positioning System	Denied	0.0	Deny
+136082	2009042357906	2009-04-09 00:00:00	2009-02-08 00:00:00	AVP	Wilkes-Barre/Scranton International	Northwest Airlines	Passenger Property Loss	Checkpoint	49.9	Jewelry - Costume	Denied	0.0	Deny
 136721	2009051558695	2009-04-28 00:00:00	2009-04-04 00:00:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
-147047	2010032970180	2010-03-25 00:00:00	2010-03-07 16:30:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-159022	2011041482526	2011-04-05 00:00:00	2011-03-24 00:00:00	AVP	Wilkes-Barre/Scranton International	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159363	2011042082803	2011-04-18 00:00:00	2011-04-05 05:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-160189	2011052483690	2011-05-13 00:00:00	2011-04-22 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-160439	2011060283942	2011-05-23 00:00:00	2011-04-27 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Clothing & Accessories		0.0	Deny
-160963	2011060784135	2011-06-09 00:00:00	2011-05-18 14:30:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-162899	2011082686476	2011-08-09 00:00:00	2011-07-30 05:30:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-172572	2012071895503	2012-07-16 00:00:00	2012-07-02 16:00:00	AVP	Wilkes-Barre/Scranton International		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-172649	2012082996430	2012-07-16 00:00:00	2012-07-02 16:20:00	AVP	Wilkes-Barre/Scranton International	Continental Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-173461	2012092697177	2012-08-14 00:00:00	2012-06-05 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-177118	2013013000677	2013-01-04 00:00:00	2012-12-20 13:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Clothing & Accessories,Electronics		0.0	Deny
-177184	2013013100806	2013-01-07 00:00:00	2012-11-20 06:40:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		379.33	Approve in Full
-177793	2013020500998	2013-01-28 00:00:00	2013-01-04 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-182178	2013081205869	2013-07-08 00:00:00	2013-07-02 06:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		358.0	Approve in Full
+147047	2010032970180	2010-03-25 00:00:00	2010-03-07 16:30:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
+159022	2011041482526	2011-04-05 00:00:00	2011-03-24 00:00:00	AVP	Wilkes-Barre/Scranton International	Continental Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+159363	2011042082803	2011-04-18 00:00:00	2011-04-05 05:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+160189	2011052483690	2011-05-13 00:00:00	2011-04-22 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+160439	2011060283942	2011-05-23 00:00:00	2011-04-27 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming*Personal Accessories		0.0	Deny
+160963	2011060784135	2011-06-09 00:00:00	2011-05-18 14:30:00	AVP	Wilkes-Barre/Scranton International	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+162899	2011082686476	2011-08-09 00:00:00	2011-07-30 05:30:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+172572	2012071895503	2012-07-16 00:00:00	2012-07-02 16:00:00	AVP	Wilkes-Barre/Scranton International		Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+172649	2012082996430	2012-07-16 00:00:00	2012-07-02 16:20:00	AVP	Wilkes-Barre/Scranton International	Continental Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+173461	2012092697177	2012-08-14 00:00:00	2012-06-05 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+177118	2013013000677	2013-01-04 00:00:00	2012-12-20 13:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items*Personal Accessories*Personal Electronics		0.0	Deny
+177184	2013013100806	2013-01-07 00:00:00	2012-11-20 06:40:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		379.33	Approve in Full
+177793	2013020500998	2013-01-28 00:00:00	2013-01-04 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+182178	2013081205869	2013-07-08 00:00:00	2013-07-02 06:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		358.0	Approve in Full
 182299	2013081605975	2013-07-15 00:00:00	2013-06-15 00:00:00	AVP	Wilkes-Barre/Scranton International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-186940	2014010910678	2014-01-06 00:00:00	2013-12-25 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checkpoint		Electronics			
-192500	2014090216365	2014-08-15 00:00:00	2014-06-04 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-204750	2017012336763	2016-12-05 00:00:00	2016-11-11 09:30:00	AVP	Wilkes-Barre/Scranton International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-212996	2017110244979	2017-10-12 00:00:00	2017-09-13 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
+186940	2014010910678	2014-01-06 00:00:00	2013-12-25 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checkpoint		Cameras			
+192500	2014090216365	2014-08-15 00:00:00	2014-06-04 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+204750	2017012336763	2016-12-05 00:00:00	2016-11-11 09:30:00	AVP	Wilkes-Barre/Scranton International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+212996	2017110244979	2017-10-12 00:00:00	2017-09-13 00:00:00	AVP	Wilkes-Barre/Scranton International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review

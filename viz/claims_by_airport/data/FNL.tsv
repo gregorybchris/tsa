@@ -1,4 +1,4 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 28817	0226552M	2004-02-26 00:00:00	2003-01-25 00:00:00	FNL	Fort Collins-Loveland Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-152633	2010091676073	2010-09-08 00:00:00	2010-08-26 18:00:00	FNL	Fort Collins-Loveland Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		45.0	Approve in Full
-166603	2012012590445	2011-12-15 00:00:00	2011-08-14 09:30:00	FNL	Fort Collins-Loveland Municipal	Allegiant Air	Passenger Property Loss	Checkpoint		Other		67.0	Approve in Full
+152633	2010091676073	2010-09-08 00:00:00	2010-08-26 18:00:00	FNL	Fort Collins-Loveland Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		45.0	Approve in Full
+166603	2012012590445	2011-12-15 00:00:00	2011-08-14 09:30:00	FNL	Fort Collins-Loveland Municipal	Allegiant Air	Passenger Property Loss	Checkpoint		Currency		67.0	Approve in Full

@@ -1,299 +1,299 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-3447	0311178L	2003-03-11 00:00:00	2003-02-10 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Canceled		
-9048	0623011M	2003-06-23 00:00:00	2003-05-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Approved	500.0	Approve in Full
+3447	0311178L	2003-03-11 00:00:00	2003-02-10 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Computer - Laptop	Canceled		
+9048	0623011M	2003-06-23 00:00:00	2003-05-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Approved	500.0	Approve in Full
 9575	0627042M	2003-06-27 00:00:00	2003-05-29 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	60.0	Other	Denied	0.0	Deny
 11912	0729026M	2003-07-29 00:00:00	2003-05-26 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	37.4	Other	Denied	0.0	Deny
-17468	1006115M	2003-10-06 00:00:00	2003-09-08 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	62.5	Settle
-19080	1028002M	2003-10-28 00:00:00	2003-07-10 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	499.0	Electronics	Settled	415.01	Settle
+17468	1006115M	2003-10-06 00:00:00	2003-09-08 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	250.0	Clothing - Shoes, belts, accessories, etc.	Settled	62.5	Settle
+19080	1028002M	2003-10-28 00:00:00	2003-07-10 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	499.0	Cameras - Digital	Settled	415.01	Settle
 20455	1117025M	2003-11-17 00:00:00	2003-10-10 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	96.0	Other	Settled	76.8	Settle
-25649	0126205M	2004-01-29 00:00:00	2004-01-11 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	65.0	Clothing & Accessories	Approved	65.0	Approve in Full
-25729	0129206M	2004-01-29 00:00:00	2004-01-11 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	65.0	Clothing & Accessories	Canceled	0.0	
-29042	0226116M	2004-02-26 00:00:00	2003-08-17 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	199.43	Clothing & Accessories	Settled	100.0	Settle
-29446	0305418M	2004-03-05 00:00:00	2004-02-23 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	7800.0	Watches & Jewelry	Denied	0.0	Deny
-31561	2004053153907	2004-03-30 00:00:00	2004-02-26 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Approved	150.0	Approve in Full
-32229	2004051852849	2004-04-06 00:00:00	2004-03-29 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	18850.0	Watches & Jewelry	Denied	0.0	Deny
-32278	2004051752590	2004-04-06 00:00:00	2004-03-22 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	125.0	Settle
-35592	2004061756083	2004-05-19 00:00:00	2004-03-28 00:00:00	GSP	Greenville-Spartanburg	Continental Express Inc	Passenger Property Loss	Checked Baggage	18850.0	Watches & Jewelry	Canceled	0.0	
+25649	0126205M	2004-01-29 00:00:00	2004-01-11 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	65.0	Clothing - Shoes, belts, accessories, etc.	Approved	65.0	Approve in Full
+25729	0129206M	2004-01-29 00:00:00	2004-01-11 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	65.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+29042	0226116M	2004-02-26 00:00:00	2003-08-17 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	199.43	Eyeglasses - (including contact lenses)	Settled	100.0	Settle
+29446	0305418M	2004-03-05 00:00:00	2004-02-23 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	7800.0	Jewelry - Fine	Denied	0.0	Deny
+31561	2004053153907	2004-03-30 00:00:00	2004-02-26 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Approved	150.0	Approve in Full
+32229	2004051852849	2004-04-06 00:00:00	2004-03-29 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	18850.0	Jewelry - Fine	Denied	0.0	Deny
+32278	2004051752590	2004-04-06 00:00:00	2004-03-22 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Eyeglasses - (including contact lenses)	Settled	125.0	Settle
+35592	2004061756083	2004-05-19 00:00:00	2004-03-28 00:00:00	GSP	Greenville-Spartanburg	Continental Express Inc	Passenger Property Loss	Checked Baggage	18850.0	Jewelry - Fine	Canceled	0.0	
 35906	2004061856228	2004-05-27 00:00:00	2004-04-19 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
-36763	2004062357080	2004-06-03 00:00:00	2004-05-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.17	Clothing & Accessories	Approved	40.17	Approve in Full
+36763	2004062357080	2004-06-03 00:00:00	2004-05-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.17	Clothing - Shoes, belts, accessories, etc.	Approved	40.17	Approve in Full
 37641	2004070158132	2004-06-10 00:00:00	2004-04-27 00:00:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage	200.0	Other	Approved	200.0	Approve in Full
-37643	2004070158137	2004-06-10 00:00:00	2004-04-29 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Approved	85.0	Approve in Full
-38775	2004071359188	2004-06-28 00:00:00	2004-06-10 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
+37643	2004070158137	2004-06-10 00:00:00	2004-04-29 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Clothing - Shoes, belts, accessories, etc.	Approved	85.0	Approve in Full
+38775	2004071359188	2004-06-28 00:00:00	2004-06-10 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Jewelry - Fine	Denied	0.0	Deny
 39086	0702506M	2004-07-02 00:00:00	2003-01-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	32.85	Other	Settled	16.5	Settle
-39115	2004071659543	2004-07-06 00:00:00	2004-06-23 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	88.45	Watches & Jewelry	Approved	88.45	Approve in Full
-39147	2004071959747	2004-07-06 00:00:00	2004-06-27 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	4.0	Other	Approved	4.0	Approve in Full
-39268	2004071959702	2004-07-06 00:00:00	2004-04-10 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	260.0	Watches & Jewelry	Settled	130.0	Settle
+39115	2004071659543	2004-07-06 00:00:00	2004-06-23 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	88.45	Jewelry - Fine	Approved	88.45	Approve in Full
+39147	2004071959747	2004-07-06 00:00:00	2004-06-27 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	4.0	Currency	Approved	4.0	Approve in Full
+39268	2004071959702	2004-07-06 00:00:00	2004-04-10 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	260.0	Jewelry - Fine	Settled	130.0	Settle
 41681	2004090362120	2004-08-05 00:00:00	2004-07-21 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	26.24	Other	Approved	26.24	Approve in Full
 42239	2004112467770	2004-08-10 00:00:00	2004-03-18 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	90.0	Other	Approved	90.0	Approve in Full
-44507	2004091062645	2004-09-10 00:00:00	2004-08-17 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	5180.0	Watches & Jewelry	Denied	5180.0	Deny
+44507	2004091062645	2004-09-10 00:00:00	2004-08-17 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	5180.0	Jewelry - Fine	Denied	5180.0	Deny
 45220	2004102565649	2004-09-17 00:00:00	2004-07-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	325.0	Other	Canceled	0.0	
 45539	2004092263353	2004-09-22 00:00:00	2004-08-04 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	55.64	Other	Approved	55.64	Approve in Full
 45837	2004103065931	2004-09-23 00:00:00	2004-08-01 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	350.0	Other	Settled	175.0	Settle
-47767	2004120568611	2004-10-20 00:00:00	2004-09-13 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	398.0	Supplies	Approved	398.0	Approve in Full
-48703	2004122971534	2004-10-29 00:00:00	2004-10-21 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	7.25	Tools & Machines	Approved	7.25	Approve in Full
-49135	2004122069296	2004-11-04 00:00:00	2004-10-10 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	126.5	Other	Denied	0.0	Deny
-49884	2004122270500	2004-11-15 00:00:00	2004-10-16 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	130.0	Clothing & Accessories	Approved	130.0	Approve in Full
-50038	2004122770833	2004-11-15 00:00:00	2004-11-08 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	285.0	Electronics	Settled	100.0	Settle
-50042	2005010572887	2004-11-15 00:00:00	2004-11-02 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	219.95	Clothing & Accessories	Settled	208.95	Settle
+47767	2004120568611	2004-10-20 00:00:00	2004-09-13 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	398.0	Medicines	Approved	398.0	Approve in Full
+48703	2004122971534	2004-10-29 00:00:00	2004-10-21 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	7.25	Locks	Approved	7.25	Approve in Full
+49135	2004122069296	2004-11-04 00:00:00	2004-10-10 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	126.5	Currency	Denied	0.0	Deny
+49884	2004122270500	2004-11-15 00:00:00	2004-10-16 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	130.0	Clothing - Shoes, belts, accessories, etc.	Approved	130.0	Approve in Full
+50038	2004122770833	2004-11-15 00:00:00	2004-11-08 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	285.0	Cameras - Digital	Settled	100.0	Settle
+50042	2005010572887	2004-11-15 00:00:00	2004-11-02 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	219.95	Eyeglasses - (including contact lenses)	Settled	208.95	Settle
 50967	2004122871430	2004-12-01 00:00:00	2004-11-03 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.0	Other	Approved	70.0	Approve in Full
 52268	2005010472540	2004-12-16 00:00:00	2004-12-05 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	312.45	Other	Settled	156.23	Settle
 52510	2005010673127	2004-12-20 00:00:00	2004-10-10 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
 52887	2005011173494	2004-12-27 00:00:00	2004-12-13 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.25	Other	Approved	89.25	Approve in Full
 54689	2005020175192	2005-01-18 00:00:00	2004-12-01 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
-54904	2005022376712	2005-01-19 00:00:00	2005-12-20 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Approved	100.0	Approve in Full
-55647	2005021175968	2005-01-26 00:00:00	2005-01-20 00:00:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Settled	79.0	Settle
-55975	2005022876860	2005-02-01 00:00:00	2005-01-21 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	7.95	Tools & Machines	Approved	7.95	Approve in Full
-56030	2005030777049	2005-02-01 00:00:00	2005-01-20 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
+54904	2005022376712	2005-01-19 00:00:00	2005-12-20 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	100.0	Jewelry - Fine	Approved	100.0	Approve in Full
+55647	2005021175968	2005-01-26 00:00:00	2005-01-20 00:00:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage	110.0	Clothing - Shoes, belts, accessories, etc.	Settled	79.0	Settle
+55975	2005022876860	2005-02-01 00:00:00	2005-01-21 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	7.95	Locks	Approved	7.95	Approve in Full
+56030	2005030777049	2005-02-01 00:00:00	2005-01-20 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
 56614	2005031077462	2005-02-07 00:00:00	2005-01-07 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	39.95	Other	Denied	0.0	Deny
 57646	2005031778688	2005-02-22 00:00:00	2005-02-09 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	945.0	Other	Denied	0.0	Deny
 59419	2005032980207	2005-03-16 00:00:00	2005-02-27 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
 59426	2005032980225	2005-03-16 00:00:00	2005-02-19 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	50.94	Other	Denied	0.0	Deny
 60043	2005033080643	2005-03-23 00:00:00	2005-01-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	207.0	Other	Settled	57.0	Settle
 60304	2005040181118	2005-03-29 00:00:00	2005-03-05 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	42.79	Other	Denied	0.0	Deny
-61716	2005041582627	2005-04-14 00:00:00	2005-03-29 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	18.62	Supplies	Approved	18.62	Approve in Full
-62505	2005042683411	2005-04-25 00:00:00	2005-04-15 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	320.96	Electronics	Settled	150.05	Settle
-63369	2005050984291	2005-05-09 00:00:00	2005-04-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.34	Supplies	Approved	50.34	Approve in Full
-64620	2005060285690	2005-05-24 00:00:00	2005-04-23 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
-65223	2005061086242	2005-06-01 00:00:00	2005-05-13 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	29.0	Electronics	Denied	0.0	Deny
-65443	2005061586436	2005-06-03 00:00:00	2005-05-20 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	430.99	Electronics	Denied	0.0	Deny
-65615	2005062086640	2005-06-07 00:00:00	2005-05-01 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	65.0	Watches & Jewelry	Approved	65.0	Approve in Full
-66000	2005062487114	2005-06-13 00:00:00	2005-04-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Approved	8.0	Approve in Full
-67867	2005071488907	2005-07-13 00:00:00	2005-05-06 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	31.98	Clothing & Accessories	Approved	31.98	Approve in Full
+61716	2005041582627	2005-04-14 00:00:00	2005-03-29 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	18.62	Medicines	Approved	18.62	Approve in Full
+62505	2005042683411	2005-04-25 00:00:00	2005-04-15 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	320.96	Cameras - Digital	Settled	150.05	Settle
+63369	2005050984291	2005-05-09 00:00:00	2005-04-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.34	Medicines	Approved	50.34	Approve in Full
+64620	2005060285690	2005-05-24 00:00:00	2005-04-23 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	75.0	Clothing - Shoes, belts, accessories, etc.	Approved	75.0	Approve in Full
+65223	2005061086242	2005-06-01 00:00:00	2005-05-13 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	29.0	DVD/CD Players	Denied	0.0	Deny
+65443	2005061586436	2005-06-03 00:00:00	2005-05-20 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	430.99	Cameras - Digital	Denied	0.0	Deny
+65615	2005062086640	2005-06-07 00:00:00	2005-05-01 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	65.0	Jewelry - Fine	Approved	65.0	Approve in Full
+66000	2005062487114	2005-06-13 00:00:00	2005-04-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Locks	Approved	8.0	Approve in Full
+67867	2005071488907	2005-07-13 00:00:00	2005-05-06 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	31.98	Clothing - Shoes, belts, accessories, etc.	Approved	31.98	Approve in Full
 67900	2005071589079	2005-07-13 00:00:00	2005-06-19 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	70.88	Other	Approved	70.88	Approve in Full
-68010	2005071388841	2005-07-13 00:00:00	2005-06-27 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	333.99	Watches & Jewelry	Settled	166.99	Settle
-68212	2005071989243	2005-07-15 00:00:00	2005-06-27 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
-68231	2005071889139	2005-07-15 00:00:00	2005-06-30 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	57.5	Cosmetics	Settled	28.75	Settle
+68010	2005071388841	2005-07-13 00:00:00	2005-06-27 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	333.99	Jewelry - Fine	Settled	166.99	Settle
+68212	2005071989243	2005-07-15 00:00:00	2005-06-27 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Computer - Laptop	Denied	0.0	Deny
+68231	2005071889139	2005-07-15 00:00:00	2005-06-30 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	57.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	28.75	Settle
 68502	2005072589610	2005-07-20 00:00:00	2005-07-12 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	33.63	Other	Denied	0.0	Deny
-68986	2005080289969	2005-07-27 00:00:00	2005-04-29 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	151.99	Supplies	Settled	76.0	Settle
-69267	2005081190411	2005-08-02 00:00:00	2005-06-13 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Approved	175.0	Approve in Full
-69284	2005081290491	2005-08-02 00:00:00	2005-07-24 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	9.0	Containers	Approved	9.0	Approve in Full
+68986	2005080289969	2005-07-27 00:00:00	2005-04-29 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	151.99	Medicines	Settled	76.0	Settle
+69267	2005081190411	2005-08-02 00:00:00	2005-06-13 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	175.0	Eyeglasses - (including contact lenses)	Approved	175.0	Approve in Full
+69284	2005081290491	2005-08-02 00:00:00	2005-07-24 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	9.0	Luggage (all types including footlockers)	Approved	9.0	Approve in Full
 69671	2005081790749	2005-08-08 00:00:00	2005-07-11 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	123.99	Other	Approved	123.99	Approve in Full
-69802	2005081890807	2005-08-09 00:00:00	2005-06-29 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checkpoint	6080.0	Watches & Jewelry	Denied	0.0	Deny
-69819	2005081890874	2005-08-09 00:00:00	2005-07-17 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	112.68	Supplies	Denied	0.0	Deny
-69932	2005081990992	2005-08-10 00:00:00	2005-07-04 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	752.59	Electronics	Settled	724.49	Settle
-70122	2005082391235	2005-08-15 00:00:00	2005-07-31 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	250.0	Electronics	Settled	50.0	Settle
-70525	2005082991677	2005-08-23 00:00:00	2005-08-02 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	47.5	Cosmetics	Approved	47.5	Approve in Full
-70627	2005082991692	2005-08-23 00:00:00	2005-08-01 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	100.71	Cosmetics	Denied	0.0	Deny
-71255	2005091392360	2005-09-01 00:00:00	2005-07-23 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	7.95	Tools & Machines	Approved	7.95	Approve in Full
+69802	2005081890807	2005-08-09 00:00:00	2005-06-29 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checkpoint	6080.0	Jewelry - Fine	Denied	0.0	Deny
+69819	2005081890874	2005-08-09 00:00:00	2005-07-17 00:00:00	GSP	Greenville-Spartanburg	Independence Air	Passenger Property Loss	Checked Baggage	112.68	Medicines	Denied	0.0	Deny
+69932	2005081990992	2005-08-10 00:00:00	2005-07-04 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	752.59	Cameras - Digital	Settled	724.49	Settle
+70122	2005082391235	2005-08-15 00:00:00	2005-07-31 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	250.0	Cameras - Digital	Settled	50.0	Settle
+70525	2005082991677	2005-08-23 00:00:00	2005-08-02 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	47.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	47.5	Approve in Full
+70627	2005082991692	2005-08-23 00:00:00	2005-08-01 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	100.71	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+71255	2005091392360	2005-09-01 00:00:00	2005-07-23 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	7.95	Locks	Approved	7.95	Approve in Full
 71396	2005091492487	2005-09-06 00:00:00	2005-07-14 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checkpoint	314.94	Other	Denied	0.0	Deny
-72446	2005100393660	2005-09-20 00:00:00	2005-06-24 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	825.68	Electronics	Denied	0.0	Deny
-72576	2005100393617	2005-09-22 00:00:00	2005-07-23 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	529.98	Electronics	Settled	331.63	Settle
-72984	2005100594047	2005-09-29 00:00:00	2005-09-10 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	244.95	Electronics	Settled	184.93	Settle
-73541	2005101794646	2005-10-11 00:00:00	2005-09-10 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	2453.86	Watches & Jewelry	Denied	0.0	Deny
-73645	2005101894766	2005-10-12 00:00:00	2005-09-05 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	47.19	Clothing & Accessories	Denied	0.0	Deny
-73806	2005102094998	2005-10-17 00:00:00	2005-08-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-73882	2005102094980	2005-10-17 00:00:00	2004-10-24 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	3080.0	Watches & Jewelry	Denied	0.0	Deny
-74080	2005102595138	2005-10-18 00:00:00	2005-09-26 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	502.37	Watches & Jewelry	Settled	274.5	Settle
-74206	2005102895350	2005-10-21 00:00:00	2005-09-28 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	6.5	Containers	Approved	6.5	Approve in Full
-74512	2005110795643	2005-10-27 00:00:00	2005-10-13 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	19.85	Tools & Machines	Approved	19.85	Approve in Full
+72446	2005100393660	2005-09-20 00:00:00	2005-06-24 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	825.68	Cameras - Digital	Denied	0.0	Deny
+72576	2005100393617	2005-09-22 00:00:00	2005-07-23 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	529.98	Cameras - Digital	Settled	331.63	Settle
+72984	2005100594047	2005-09-29 00:00:00	2005-09-10 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	244.95	Cameras - Digital	Settled	184.93	Settle
+73541	2005101794646	2005-10-11 00:00:00	2005-09-10 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	2453.86	Jewelry - Fine	Denied	0.0	Deny
+73645	2005101894766	2005-10-12 00:00:00	2005-09-05 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	47.19	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+73806	2005102094998	2005-10-17 00:00:00	2005-08-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+73882	2005102094980	2005-10-17 00:00:00	2004-10-24 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	3080.0	Jewelry - Fine	Denied	0.0	Deny
+74080	2005102595138	2005-10-18 00:00:00	2005-09-26 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	502.37	Jewelry - Fine	Settled	274.5	Settle
+74206	2005102895350	2005-10-21 00:00:00	2005-09-28 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	6.5	Luggage (all types including footlockers)	Approved	6.5	Approve in Full
+74512	2005110795643	2005-10-27 00:00:00	2005-10-13 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	19.85	Locks	Approved	19.85	Approve in Full
 75053	2005111796185	2005-11-07 00:00:00	2005-10-25 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Other	Approved	125.0	Approve in Full
-75400	2005112596415	2005-11-14 00:00:00	2005-09-07 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checkpoint	613.0	Clothing & Accessories	Settled	551.17	Settle
+75400	2005112596415	2005-11-14 00:00:00	2005-09-07 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checkpoint	613.0	Eyeglasses - (including contact lenses)	Settled	551.17	Settle
 75410	2005112596487	2005-11-15 00:00:00	2005-09-23 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checkpoint	251.7	Other	Approved	251.7	Approve in Full
 76064	2005121297484	2005-11-28 00:00:00	2005-11-06 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	384.95	Other	Approved	384.95	Approve in Full
 76160	2005121397691	2005-11-28 00:00:00	2005-07-11 00:00:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage	123.99	Other	Denied	0.0	Deny
-77287	2005122798404	2005-12-19 00:00:00	2005-12-15 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	334.0	Clothing & Accessories	Denied	0.0	Deny
-77545	2006010398668	2005-12-23 00:00:00	2005-12-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Cosmetics	Approved	45.0	Approve in Full
-77667	2006010498734	2005-12-27 00:00:00	2005-09-25 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	399.95	Electronics	Settled	83.55	Settle
-77846	2006010698955	2006-01-02 00:00:00	2005-12-04 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	49.86	Clothing & Accessories	Approved	49.86	Approve in Full
-78323	2006011199367	2006-01-09 00:00:00	2005-11-02 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	402.0	Electronics	Denied	0.0	Deny
-78745	2006011999842	2006-01-12 00:00:00	2005-12-31 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	46.2	Electronics	Settled	23.1	Settle
+77287	2005122798404	2005-12-19 00:00:00	2005-12-15 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	334.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+77545	2006010398668	2005-12-23 00:00:00	2005-12-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	45.0	Approve in Full
+77667	2006010498734	2005-12-27 00:00:00	2005-09-25 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	399.95	Cameras - Digital	Settled	83.55	Settle
+77846	2006010698955	2006-01-02 00:00:00	2005-12-04 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	49.86	Clothing - Shoes, belts, accessories, etc.	Approved	49.86	Approve in Full
+78323	2006011199367	2006-01-09 00:00:00	2005-11-02 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	402.0	Cameras - Digital	Denied	0.0	Deny
+78745	2006011999842	2006-01-12 00:00:00	2005-12-31 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	46.2	Computer - Laptop	Settled	23.1	Settle
 78904	2006012300153	2006-01-17 00:00:00	2005-12-17 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Other	Denied	0.0	Deny
-79213	2006012500336	2006-01-20 00:00:00	2006-01-07 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	1643.18	Electronics	Denied	0.0	Deny
-79330	2006013000550	2006-01-23 00:00:00	2005-02-22 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	3021.0	Watches & Jewelry	Denied	0.0	Deny
+79213	2006012500336	2006-01-20 00:00:00	2006-01-07 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	1643.18	Computer - Laptop	Denied	0.0	Deny
+79330	2006013000550	2006-01-23 00:00:00	2005-02-22 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	3021.0	Jewelry - Fine	Denied	0.0	Deny
 79487	2006013100671	2006-01-24 00:00:00	2005-12-11 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	5564.11	Other	Denied	0.0	Deny
 81457	2006030702647	2006-03-01 00:00:00	2006-02-08 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	160.0	Other	Approved	160.0	Approve in Full
-83049	2006040704255	2006-03-28 00:00:00	2006-02-13 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	94.14	Cosmetics	Settled	50.87	Settle
-84424	2006050305652	2006-04-26 00:00:00	2006-03-31 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	50.0	Outdoors Supplies	Settled	25.0	Settle
-85069	2006051506335	2006-05-10 00:00:00	2006-04-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.95	Clothing & Accessories	Approved	99.95	Approve in Full
-85257	2006051606421	2006-05-15 00:00:00	2006-05-01 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Containers	Settled	50.0	Settle
-86468	2006060907699	2006-06-07 00:00:00	2006-05-25 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	3282.0	Electronics	Denied	0.0	Deny
-86962	2006061908151	2006-06-16 00:00:00	2006-03-27 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Other,Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-86966	2006061908164	2006-06-16 00:00:00	2006-06-06 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	50.0	Office Supplies	Settled	25.0	Settle
-87140	2006062108324	2006-06-20 00:00:00	2006-05-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	163.87	Clothing & Accessories	Settled	82.0	Settle
-87423	2006062908722	2006-06-28 00:00:00	2006-05-25 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Approved	24.0	Approve in Full
-87929	2006071009220	2006-07-07 00:00:00	2006-06-19 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	10.9	Tools & Machines	Approved	10.9	Approve in Full
-87985	2006071109289	2006-07-07 00:00:00	2006-06-16 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	104.27	Cosmetics	Denied	0.0	Deny
-88207	2006071309435	2006-07-11 00:00:00	2006-07-05 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	1200.0	Watches & Jewelry	Denied	0.0	Deny
-89582	2006081110841	2006-08-08 00:00:00	2006-06-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	595.0	Supplies	Denied	0.0	Deny
-89760	2006081611118	2006-08-11 00:00:00	2006-07-15 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	1725.48	Containers,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-90402	2006082811627	2006-08-23 00:00:00	2006-04-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	139.16	Containers,Office Supplies,Other	Denied	0.0	Deny
-91175	2006091312436	2006-09-07 00:00:00	2006-08-29 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	119.7	Clothing & Accessories	Approved	119.7	Approve in Full
-91274	2006091512583	2006-09-08 00:00:00	2006-08-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry,Other	Approved	200.0	Approve in Full
-91422	2006091512576	2006-09-11 00:00:00	2006-08-23 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Clothing & Accessories	Settled	72.5	Settle
-93377	2006103014823	2006-10-19 00:00:00	2006-09-20 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	162.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-94674	2006112115952	2006-11-15 00:00:00	2006-10-11 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	260.47	Clothing & Accessories	Denied	0.0	Deny
-95261	2006113016499	2006-11-27 00:00:00	2006-11-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	355.69	Electronics,Electronics	Settled	166.38	Settle
-95973	2006121817324	2006-12-11 00:00:00	2006-11-30 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	83.9	Tools & Machines	Denied	0.0	Deny
-96385	2006122217720	2006-12-18 00:00:00	2006-12-16 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	226.49	Electronics	Settled	104.45	Settle
-97340	2007010518398	2007-01-04 00:00:00	2006-12-14 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	8030.0	Watches & Jewelry	Denied	0.0	Deny
-97484	2007011018598	2007-01-05 00:00:00	2006-12-09 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories,Cosmetics,Electronics	Denied	0.0	Deny
-97667	2007011118681	2007-01-08 00:00:00	2006-12-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	284.55	Clothing & Accessories,Cosmetics,Watches & Jewelry	Settled	142.28	Settle
+83049	2006040704255	2006-03-28 00:00:00	2006-02-13 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	94.14	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	50.87	Settle
+84424	2006050305652	2006-04-26 00:00:00	2006-03-31 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	50.0	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Settled	25.0	Settle
+85069	2006051506335	2006-05-10 00:00:00	2006-04-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.95	Clothing - Shoes, belts, accessories, etc.	Approved	99.95	Approve in Full
+85257	2006051606421	2006-05-15 00:00:00	2006-05-01 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Handbags & Purses (leather or fabric)	Settled	50.0	Settle
+86468	2006060907699	2006-06-07 00:00:00	2006-05-25 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	3282.0	Computer - Laptop	Denied	0.0	Deny
+86962	2006061908151	2006-06-16 00:00:00	2006-03-27 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Currency*Locks	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+86966	2006061908164	2006-06-16 00:00:00	2006-06-06 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	50.0	Books - Fiction, paperbacks, magazines, etc.	Settled	25.0	Settle
+87140	2006062108324	2006-06-20 00:00:00	2006-05-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	163.87	Clothing - Shoes, belts, accessories, etc.	Settled	82.0	Settle
+87423	2006062908722	2006-06-28 00:00:00	2006-05-25 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	24.0	Locks	Approved	24.0	Approve in Full
+87929	2006071009220	2006-07-07 00:00:00	2006-06-19 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	10.9	Locks	Approved	10.9	Approve in Full
+87985	2006071109289	2006-07-07 00:00:00	2006-06-16 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	104.27	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+88207	2006071309435	2006-07-11 00:00:00	2006-07-05 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	1200.0	Jewelry - Fine	Denied	0.0	Deny
+89582	2006081110841	2006-08-08 00:00:00	2006-06-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	595.0	Medicines	Denied	0.0	Deny
+89760	2006081611118	2006-08-11 00:00:00	2006-07-15 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	1725.48	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+90402	2006082811627	2006-08-23 00:00:00	2006-04-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	139.16	Bags - Fabric, plastic, etc. (not purses)*Books - Reference books, cookbooks, etc.*Other	Denied	0.0	Deny
+91175	2006091312436	2006-09-07 00:00:00	2006-08-29 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	119.7	Clothing - Shoes, belts, accessories, etc.	Approved	119.7	Approve in Full
+91274	2006091512583	2006-09-08 00:00:00	2006-08-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine*Other	Approved	200.0	Approve in Full
+91422	2006091512576	2006-09-11 00:00:00	2006-08-23 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Eyeglasses - (including contact lenses)	Settled	72.5	Settle
+93377	2006103014823	2006-10-19 00:00:00	2006-09-20 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	162.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+94674	2006112115952	2006-11-15 00:00:00	2006-10-11 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	260.47	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+95261	2006113016499	2006-11-27 00:00:00	2006-11-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	355.69	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	166.38	Settle
+95973	2006121817324	2006-12-11 00:00:00	2006-11-30 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	83.9	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+96385	2006122217720	2006-12-18 00:00:00	2006-12-16 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	226.49	MP3 Players-(iPods, etc)	Settled	104.45	Settle
+97340	2007010518398	2007-01-04 00:00:00	2006-12-14 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	8030.0	Jewelry - Fine	Denied	0.0	Deny
+97484	2007011018598	2007-01-05 00:00:00	2006-12-09 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	300.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Flashlights	Denied	0.0	Deny
+97667	2007011118681	2007-01-08 00:00:00	2006-12-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	284.55	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume	Settled	142.28	Settle
 97824	2007011818950	2007-01-10 00:00:00	2006-12-29 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	27.0	Other	Approved	27.0	Approve in Full
-97960	2007011919045	2007-01-11 00:00:00	2006-12-24 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
-98003	2007012219073	2007-01-12 00:00:00	2006-12-27 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-98111	2007012319122	2007-01-16 00:00:00	2006-12-21 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	32.99	Cosmetics,Clothing & Accessories,Containers	Denied	0.0	Deny
-98209	2007012319204	2007-01-16 00:00:00	2006-12-26 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	960.06	Clothing & Accessories,Clothing & Accessories,Watches & Jewelry	Settled	398.2	Settle
-98276	2007012419372	2007-01-17 00:00:00	2006-12-31 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	104.9	Electronics,Games & Toys	Denied	0.0	Deny
-98481	2007012619582	2007-01-22 00:00:00	2006-12-17 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	78.0	Tools & Machines	Canceled	0.0	
-98684	2007020220091	2007-01-23 00:00:00	2007-01-05 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	45.37	Cosmetics	Settled	22.69	Settle
-99074	2007020220089	2007-01-30 00:00:00	2006-12-23 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	361.97	Other	Denied	0.0	Deny
-99534	2007020920577	2007-02-07 00:00:00	2007-01-19 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	115.0	Other,Watches & Jewelry	Denied	0.0	Deny
-100330	2007022621515	2007-02-23 00:00:00	2007-02-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	130.0	Clothing & Accessories	Denied	0.0	Deny
-100808	2007030822009	2007-03-05 00:00:00	2007-02-28 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Settled	20.0	Settle
-100875	2007031422225	2007-03-06 00:00:00	2007-02-14 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	411.22	Electronics,Electronics	Settled	202.31	Settle
-101038	2007031322201	2007-03-09 00:00:00	2007-01-19 00:00:00	GSP	Greenville-Spartanburg	American Eagle	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-101241	2007031522324	2007-03-14 00:00:00	2007-01-20 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	2500.0	Electronics	Denied	0.0	Deny
-101614	2007032322813	2007-03-20 00:00:00	2007-02-08 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	130.0	Electronics	Settled	65.0	Settle
-101785	2007032723022	2007-03-23 00:00:00	2007-03-16 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	21.19	Electronics	Denied	0.0	Deny
-102127	2007040223358	2007-03-30 00:00:00	2007-03-25 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.94	Tools & Machines	Canceled	0.0	
-102699	2007041323933	2007-04-11 00:00:00	2007-04-05 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-104739	2007060626438	2007-05-23 00:00:00	2006-12-14 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
+97960	2007011919045	2007-01-11 00:00:00	2006-12-24 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	300.0	Cameras - Digital	Denied	0.0	Deny
+98003	2007012219073	2007-01-12 00:00:00	2006-12-27 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+98111	2007012319122	2007-01-16 00:00:00	2006-12-21 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	32.99	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Eyeglasses - (including contact lenses)*Luggage (all types including footlockers)	Denied	0.0	Deny
+98209	2007012319204	2007-01-16 00:00:00	2006-12-26 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	960.06	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)*Jewelry - Fine	Settled	398.2	Settle
+98276	2007012419372	2007-01-17 00:00:00	2006-12-31 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	104.9	MP3 Players-(iPods, etc)*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+98481	2007012619582	2007-01-22 00:00:00	2006-12-17 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	78.0	Barber Supplies - Scissors, shears, elecric razors, etc.	Canceled	0.0	
+98684	2007020220091	2007-01-23 00:00:00	2007-01-05 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	45.37	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	22.69	Settle
+99074	2007020220089	2007-01-30 00:00:00	2006-12-23 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	361.97	Currency	Denied	0.0	Deny
+99534	2007020920577	2007-02-07 00:00:00	2007-01-19 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	115.0	Currency*Jewelry - Fine	Denied	0.0	Deny
+100330	2007022621515	2007-02-23 00:00:00	2007-02-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	130.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+100808	2007030822009	2007-03-05 00:00:00	2007-02-28 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing - Shoes, belts, accessories, etc.	Settled	20.0	Settle
+100875	2007031422225	2007-03-06 00:00:00	2007-02-14 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	411.22	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	202.31	Settle
+101038	2007031322201	2007-03-09 00:00:00	2007-01-19 00:00:00	GSP	Greenville-Spartanburg	American Eagle	Passenger Property Loss	Checked Baggage		Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+101241	2007031522324	2007-03-14 00:00:00	2007-01-20 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	2500.0	Computer - Laptop	Denied	0.0	Deny
+101614	2007032322813	2007-03-20 00:00:00	2007-02-08 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	130.0	Computer - Laptop	Settled	65.0	Settle
+101785	2007032723022	2007-03-23 00:00:00	2007-03-16 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	21.19	DVD/CD Players	Denied	0.0	Deny
+102127	2007040223358	2007-03-30 00:00:00	2007-03-25 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.94	Barber Supplies - Scissors, shears, elecric razors, etc.	Canceled	0.0	
+102699	2007041323933	2007-04-11 00:00:00	2007-04-05 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+104739	2007060626438	2007-05-23 00:00:00	2006-12-14 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	1500.0	Jewelry - Fine	Denied	0.0	Deny
 105308	2007060726482	2007-06-04 00:00:00	2007-05-16 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	1187.5	Other	Settled	212.1	Settle
-105357	2007061126681	2007-06-05 00:00:00	2007-06-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Denied	0.0	Deny
-105539	2007061226773	2007-06-08 00:00:00	2007-06-06 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.95	Tools & Machines	Denied	0.0	Deny
-105588	2007061426897	2007-06-08 00:00:00	2007-05-31 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	480.0	Watches & Jewelry	Settled	307.09	Settle
-106277	2007062927635	2007-06-25 00:00:00	2007-06-14 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	31.79	Electronics	Approved	31.79	Approve in Full
+105357	2007061126681	2007-06-05 00:00:00	2007-06-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+105539	2007061226773	2007-06-08 00:00:00	2007-06-06 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.95	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+105588	2007061426897	2007-06-08 00:00:00	2007-05-31 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	480.0	Jewelry - Fine	Settled	307.09	Settle
+106277	2007062927635	2007-06-25 00:00:00	2007-06-14 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	31.79	Cell Phones	Approved	31.79	Approve in Full
 106474	2007070327797	2007-06-27 00:00:00	2007-06-25 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	607.41	Other	Settled	303.71	Settle
 106761	2007071028024	2007-07-03 00:00:00	2007-05-05 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	63.39	Other	Denied	0.0	Deny
-106943	2007071328307	2007-07-09 00:00:00	2007-06-23 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-107917	2007072629146	2007-07-25 00:00:00	2007-07-12 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	399.95	Electronics	Settled	199.98	Settle
-108198	2007080129451	2007-07-30 00:00:00	2007-07-22 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	487.68	Electronics	Settled	243.84	Settle
-108412	2007080929914	2007-08-02 00:00:00	2007-06-26 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	133.89	Tools & Machines,Supplies	Denied	0.0	Deny
-108617	2007080829806	2007-08-07 00:00:00	2007-07-11 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	18.8	Tools & Machines	Approved	18.8	Approve in Full
-109119	2007082030452	2007-08-15 00:00:00	2007-08-07 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Clothing & Accessories	Settled	32.5	Settle
-109410	2007082230649	2007-08-21 00:00:00	2007-08-07 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.2	Containers,Other	Settled	19.6	Settle
-109444	2007082330727	2007-08-22 00:00:00	2007-08-12 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Canceled	0.0	
-111253	2007092632580	2007-09-25 00:00:00	2007-09-12 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	2300.0	Electronics,Electronics,Other,Electronics	Denied	0.0	Deny
-111522	2007100332975	2007-10-01 00:00:00	2007-09-06 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	1659.92	Electronics,Clothing & Accessories,Outdoors Supplies	Denied	0.0	Deny
-111735	2007101133271	2007-10-04 00:00:00	2007-06-15 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checkpoint	527.0	Cosmetics,Other	Denied	0.0	Deny
-111829	2007100933148	2007-10-09 00:00:00	2007-10-08 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	270.0	Clothing & Accessories	Denied	0.0	Deny
+106943	2007071328307	2007-07-09 00:00:00	2007-06-23 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
+107917	2007072629146	2007-07-25 00:00:00	2007-07-12 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	399.95	GPS - Global Positioning System	Settled	199.98	Settle
+108198	2007080129451	2007-07-30 00:00:00	2007-07-22 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	487.68	GPS - Global Positioning System	Settled	243.84	Settle
+108412	2007080929914	2007-08-02 00:00:00	2007-06-26 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	133.89	Locks*Medicines	Denied	0.0	Deny
+108617	2007080829806	2007-08-07 00:00:00	2007-07-11 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	18.8	Locks	Approved	18.8	Approve in Full
+109119	2007082030452	2007-08-15 00:00:00	2007-08-07 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Clothing - Shoes, belts, accessories, etc.	Settled	32.5	Settle
+109410	2007082230649	2007-08-21 00:00:00	2007-08-07 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.2	Handbags & Purses (leather or fabric)*Other	Settled	19.6	Settle
+109444	2007082330727	2007-08-22 00:00:00	2007-08-12 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	75.0	Jewelry - Costume	Canceled	0.0	
+111253	2007092632580	2007-09-25 00:00:00	2007-09-12 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	2300.0	Computer - Laptop*MP3 Players-(iPods, etc)*Other*Stereo Items & Accessories	Denied	0.0	Deny
+111522	2007100332975	2007-10-01 00:00:00	2007-09-06 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	1659.92	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+111735	2007101133271	2007-10-04 00:00:00	2007-06-15 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checkpoint	527.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+111829	2007100933148	2007-10-09 00:00:00	2007-10-08 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	270.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 112429	2007102533862	2007-10-19 00:00:00	2007-09-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
-112612	2007102633978	2007-10-23 00:00:00	2007-10-08 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	18.95	Tools & Machines	Denied	0.0	Deny
-112700	2007103134195	2007-10-25 00:00:00	2007-09-20 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.95	Clothing & Accessories	Approved	62.95	Approve in Full
-112733	2007103034145	2007-10-25 00:00:00	2007-10-21 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checkpoint	111.9	Cosmetics	Denied	0.0	Deny
+112612	2007102633978	2007-10-23 00:00:00	2007-10-08 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	18.95	Locks	Denied	0.0	Deny
+112700	2007103134195	2007-10-25 00:00:00	2007-09-20 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.95	Clothing - Shoes, belts, accessories, etc.	Approved	62.95	Approve in Full
+112733	2007103034145	2007-10-25 00:00:00	2007-10-21 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checkpoint	111.9	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
 112993	2007110234388	2007-10-31 00:00:00	2007-10-19 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.24	Other	Denied	0.0	Deny
-113214	2007110634549	2007-11-05 00:00:00	2007-10-24 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	324.0	Office Supplies,Clothing & Accessories,Games & Toys,Watches & Jewelry	Denied	0.0	Deny
-113659	2007111534990	2007-11-14 00:00:00	2007-10-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	5.7	Tools & Machines	Approved	5.7	Approve in Full
-113776	2007112035226	2007-11-15 00:00:00	2007-11-12 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	650.0	Electronics	Denied	0.0	Deny
-114341	2007121836613	2007-11-27 00:00:00	2007-11-19 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Denied	0.0	Deny
-114771	2007120736205	2007-12-05 00:00:00	2007-11-03 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	69.97	Clothing & Accessories	Denied	0.0	Deny
-114893	2007121136387	2007-12-07 00:00:00	2007-11-17 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	150.0	Electronics	Settled	75.0	Settle
-115051	2007121436507	2007-12-11 00:00:00	2007-11-25 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-115139	2007121836624	2007-12-12 00:00:00	2007-11-09 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	15.77	Tools & Machines,Other	Settled	7.5	Settle
+113214	2007110634549	2007-11-05 00:00:00	2007-10-24 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	324.0	Books - Other (Hardcover non-fiction)*Clothing - Shoes, belts, accessories, etc.*Dolls - Decorator*Jewelry - Costume	Denied	0.0	Deny
+113659	2007111534990	2007-11-14 00:00:00	2007-10-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	5.7	Locks	Approved	5.7	Approve in Full
+113776	2007112035226	2007-11-15 00:00:00	2007-11-12 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checkpoint	650.0	Cameras - Digital	Denied	0.0	Deny
+114341	2007121836613	2007-11-27 00:00:00	2007-11-19 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.0	Locks	Denied	0.0	Deny
+114771	2007120736205	2007-12-05 00:00:00	2007-11-03 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	69.97	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+114893	2007121136387	2007-12-07 00:00:00	2007-11-17 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	150.0	Cameras - Digital	Settled	75.0	Settle
+115051	2007121436507	2007-12-11 00:00:00	2007-11-25 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Computer - Laptop	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+115139	2007121836624	2007-12-12 00:00:00	2007-11-09 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	15.77	Locks*Other	Settled	7.5	Settle
 115280	2007122136764	2007-12-17 00:00:00	2007-12-12 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	42.39	Other	Denied	0.0	Deny
-115911	2008010437300	2008-01-02 00:00:00	2007-12-23 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.69	Household Items	Denied	0.0	Deny
-115972	2008010837560	2008-01-02 00:00:00	2007-12-23 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.4	Tools & Machines	Denied	0.0	Deny
-116632	2008012238318	2008-01-11 00:00:00	2007-11-17 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	658.98	Clothing & Accessories,Electronics,Other	Denied	0.0	Deny
-116664	2008012238360	2008-01-14 00:00:00	2007-11-22 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	24.48	Clothing & Accessories	Approved	24.48	Approve in Full
-116837	2008012338365	2008-01-15 00:00:00	2008-01-02 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	130.0	Containers,Clothing & Accessories,Containers	Denied	0.0	Deny
-117201	2008012938743	2008-01-23 00:00:00	2008-01-18 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	799.87	Electronics	Denied	0.0	Deny
-117850	2008021339536	2008-02-04 00:00:00	2007-12-31 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	65.0	Cosmetics	Denied	0.0	Deny
-118256	2008021939774	2008-02-12 00:00:00	2008-01-28 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	132.0	Tools & Machines,Cosmetics	Settled	66.0	Settle
-118496	2008022640145	2008-02-19 00:00:00	2007-12-29 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	12.47	Containers	Denied	0.0	Deny
+115911	2008010437300	2008-01-02 00:00:00	2007-12-23 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.69	Dishes, Pottery, Glassware, Plasticware	Denied	0.0	Deny
+115972	2008010837560	2008-01-02 00:00:00	2007-12-23 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.4	Locks	Denied	0.0	Deny
+116632	2008012238318	2008-01-11 00:00:00	2007-11-17 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	658.98	Clothing - Shoes, belts, accessories, etc.*Computer - Laptop*Other	Denied	0.0	Deny
+116664	2008012238360	2008-01-14 00:00:00	2007-11-22 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	24.48	Clothing - Shoes, belts, accessories, etc.	Approved	24.48	Approve in Full
+116837	2008012338365	2008-01-15 00:00:00	2008-01-02 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	130.0	Boxes - Jewelry, Cigarette, Music, etc.*Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+117201	2008012938743	2008-01-23 00:00:00	2008-01-18 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	799.87	Computer - Laptop	Denied	0.0	Deny
+117850	2008021339536	2008-02-04 00:00:00	2007-12-31 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	65.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+118256	2008021939774	2008-02-12 00:00:00	2008-01-28 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	132.0	Barber Supplies - Scissors, shears, elecric razors, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	66.0	Settle
+118496	2008022640145	2008-02-19 00:00:00	2007-12-29 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	12.47	Luggage (all types including footlockers)	Denied	0.0	Deny
 118535	2008021439613	2008-02-19 00:00:00	2008-01-10 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	56.5	Other	Settled	28.25	Settle
-118688	2008022740237	2008-02-21 00:00:00	2007-10-13 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	90.0	Household Decor	Settled	45.0	Settle
-119808	2008032641477	2008-03-17 00:00:00	2008-03-09 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	100.7	Cosmetics	Denied	0.0	Deny
-120426	2008040742014	2008-03-28 00:00:00	2008-03-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1001.26	Electronics,Watches & Jewelry	Denied	0.0	Deny
+118688	2008022740237	2008-02-21 00:00:00	2007-10-13 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	90.0	Clocks - Expensive ($75.00 or more)	Settled	45.0	Settle
+119808	2008032641477	2008-03-17 00:00:00	2008-03-09 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	100.7	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+120426	2008040742014	2008-03-28 00:00:00	2008-03-18 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1001.26	GPS - Global Positioning System*Jewelry - Costume	Denied	0.0	Deny
 120783	2008041142417	2008-04-03 00:00:00	2008-03-26 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	13.77	Other	Settled	6.89	Settle
 120915	2008041642586	2008-04-07 00:00:00	2008-04-02 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	21.19	Other	Denied	0.0	Deny
-121598	2008042443352	2008-04-21 00:00:00	2008-04-04 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	204.0	Electronics,Electronics,Other	Approved	204.0	Approve in Full
-122099	2008042943514	2008-04-29 00:00:00	2008-04-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.12	Office Supplies,Clothing & Accessories	Settled	48.56	Settle
-123372	2008052844925	2008-05-27 00:00:00	2008-05-12 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	26.05	Clothing & Accessories	Settled	13.03	Settle
-123603	2008060345221	2008-06-02 00:00:00	2008-05-14 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	8.47	Tools & Machines	Denied	0.0	Deny
-123953	2008061845822	2008-06-09 00:00:00	2008-05-27 00:00:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage	105.11	Scientific Intruments	Settled	52.56	Settle
-124843	2008070346559	2008-06-30 00:00:00	2008-06-27 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
-124896	2008070946637	2008-07-01 00:00:00	2008-06-11 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	39.2	Clothing & Accessories	Denied	0.0	Deny
-125523	2008071146805	2008-07-15 00:00:00	2008-06-07 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	6.16	Household Items	Denied	0.0	Deny
-125555	2008072247190	2008-07-15 00:00:00	2008-05-18 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-125830	2008072947580	2008-07-22 00:00:00	2008-05-22 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	56.41	Clothing & Accessories	Denied	0.0	Deny
-126445	2008080748211	2008-08-04 00:00:00	2008-07-26 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-126696	2008081348488	2008-08-08 00:00:00	2008-07-26 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	364.13	Electronics,Watches & Jewelry	Denied	0.0	Deny
-126774	2008081448603	2008-08-11 00:00:00	2008-07-27 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	975.0	Scientific Intruments	Denied	0.0	Deny
+121598	2008042443352	2008-04-21 00:00:00	2008-04-04 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	204.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Approved	204.0	Approve in Full
+122099	2008042943514	2008-04-29 00:00:00	2008-04-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.12	Books - Other (Hardcover non-fiction)*Clothing - Shoes, belts, accessories, etc.	Settled	48.56	Settle
+123372	2008052844925	2008-05-27 00:00:00	2008-05-12 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	26.05	Clothing - Shoes, belts, accessories, etc.	Settled	13.03	Settle
+123603	2008060345221	2008-06-02 00:00:00	2008-05-14 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	8.47	Locks	Denied	0.0	Deny
+123953	2008061845822	2008-06-09 00:00:00	2008-05-27 00:00:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage	105.11	Dental Equipment and Instruments	Settled	52.56	Settle
+124843	2008070346559	2008-06-30 00:00:00	2008-06-27 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	75.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+124896	2008070946637	2008-07-01 00:00:00	2008-06-11 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	39.2	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+125523	2008071146805	2008-07-15 00:00:00	2008-06-07 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	6.16	Bedding - Other pillows	Denied	0.0	Deny
+125555	2008072247190	2008-07-15 00:00:00	2008-05-18 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+125830	2008072947580	2008-07-22 00:00:00	2008-05-22 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	56.41	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+126445	2008080748211	2008-08-04 00:00:00	2008-07-26 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras - Digital	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+126696	2008081348488	2008-08-08 00:00:00	2008-07-26 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	364.13	Cameras - Digital*Jewelry - Costume	Denied	0.0	Deny
+126774	2008081448603	2008-08-11 00:00:00	2008-07-27 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	975.0	Medical Equipment & Insturments	Denied	0.0	Deny
 126959	2008081848741	2008-08-14 00:00:00	2008-08-04 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.0	Other	Settled	18.0	Settle
-130281	2008111052153	2008-11-05 00:00:00	2008-10-16 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Containers	Approved	25.0	Approve in Full
-130423	2008111752332	2008-11-10 00:00:00	2008-11-05 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Canceled	0.0	
-131078	2008120153005	2008-11-25 00:00:00	2008-10-19 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-131089	2008120152956	2008-11-25 00:00:00	2008-09-09 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	55.0	Cosmetics	Settled	27.5	Settle
-131252	2008121253370	2008-12-01 00:00:00	2008-11-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	61.96	Clothing & Accessories	Settled	11.99	Settle
-131382	2008120853184	2008-12-04 00:00:00	2008-11-22 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	636.0	Containers,Tools & Machines,Clothing & Accessories,Games & Toys	Denied	0.0	Deny
-131763	2008121953647	2008-12-15 00:00:00	2008-11-23 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checkpoint	475.85	Electronics	Denied	0.0	Deny
-132337	2009010854261	2009-01-01 00:00:00	2008-12-22 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	29.99	Electronics	Approved	29.99	Approve in Full
-132374	2009011254355	2009-01-01 00:00:00	2008-12-28 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Denied	0.0	Deny
-132988	2009012354846	2009-01-15 00:00:00	2008-11-28 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checkpoint	208.5	Containers,Cosmetics	Denied	0.0	Deny
-134865	2009032056737	2009-03-09 00:00:00	2009-03-03 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.34	Clothing & Accessories	Settled	95.16	Settle
-135751	2009041757674	2009-03-31 00:00:00	2009-01-16 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	467.0	Clothing & Accessories	Settled	233.5	Settle
-136386	2009050658405	2009-04-20 00:00:00	2009-04-17 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	6.87	Tools & Machines	Denied	0.0	Deny
-136584	2009051858771	2009-04-23 00:00:00	2009-04-03 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	120.0	Electronics	Denied	0.0	Deny
-136843	2009051858861	2009-04-30 00:00:00	2009-02-28 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-137565	2009060159641	2009-05-22 00:00:00	2008-05-19 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	239.27	Clothing & Accessories	Denied	0.0	Deny
-137566	2009060159687	2009-05-22 00:00:00	2009-04-29 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	149.79	Tools & Machines	Denied	0.0	Deny
+130281	2008111052153	2008-11-05 00:00:00	2008-10-16 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Luggage (all types including footlockers)	Approved	25.0	Approve in Full
+130423	2008111752332	2008-11-10 00:00:00	2008-11-05 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+131078	2008120153005	2008-11-25 00:00:00	2008-10-19 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+131089	2008120152956	2008-11-25 00:00:00	2008-09-09 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	55.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	27.5	Settle
+131252	2008121253370	2008-12-01 00:00:00	2008-11-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	61.96	Clothing - Shoes, belts, accessories, etc.	Settled	11.99	Settle
+131382	2008120853184	2008-12-04 00:00:00	2008-11-22 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	636.0	Bags - Fabric, plastic, etc. (not purses)*Barber Supplies - Scissors, shears, elecric razors, etc.*Clothing - Shoes, belts, accessories, etc.*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+131763	2008121953647	2008-12-15 00:00:00	2008-11-23 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checkpoint	475.85	Cameras - Digital	Denied	0.0	Deny
+132337	2009010854261	2009-01-01 00:00:00	2008-12-22 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	29.99	Cell Phones	Approved	29.99	Approve in Full
+132374	2009011254355	2009-01-01 00:00:00	2008-12-28 00:00:00	GSP	Greenville-Spartanburg		Passenger Property Loss	Checked Baggage	50.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+132988	2009012354846	2009-01-15 00:00:00	2008-11-28 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checkpoint	208.5	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+134865	2009032056737	2009-03-09 00:00:00	2009-03-03 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.34	Eyeglasses - (including contact lenses)	Settled	95.16	Settle
+135751	2009041757674	2009-03-31 00:00:00	2009-01-16 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage	467.0	Eyeglasses - (including contact lenses)	Settled	233.5	Settle
+136386	2009050658405	2009-04-20 00:00:00	2009-04-17 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	6.87	Locks	Denied	0.0	Deny
+136584	2009051858771	2009-04-23 00:00:00	2009-04-03 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	120.0	Cameras - Digital	Denied	0.0	Deny
+136843	2009051858861	2009-04-30 00:00:00	2009-02-28 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Medical Equipment & Insturments	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+137565	2009060159641	2009-05-22 00:00:00	2008-05-19 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	239.27	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+137566	2009060159687	2009-05-22 00:00:00	2009-04-29 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	149.79	Barber Supplies - Scissors, shears, elecric razors, etc.	Denied	0.0	Deny
 137742	2009060259714	2009-05-28 00:00:00	2009-05-14 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	102.0	Other	Denied	0.0	Deny
-138067	2009060959934	2009-06-06 00:00:00	2009-05-15 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	171.35	Containers	Denied	0.0	Deny
-138295	2009061860339	2009-06-11 00:00:00	2009-06-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Containers,Watches & Jewelry	Denied	0.0	Deny
+138067	2009060959934	2009-06-06 00:00:00	2009-05-15 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	171.35	Luggage (all types including footlockers)	Denied	0.0	Deny
+138295	2009061860339	2009-06-11 00:00:00	2009-06-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Boxes - Jewelry, Cigarette, Music, etc.*Jewelry - Fine	Denied	0.0	Deny
 138298	2009061960387	2009-06-11 00:00:00	2009-05-19 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	310.0	Other	Denied	0.0	Deny
-138917	2009070960998	2009-06-30 00:00:00	2009-06-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Approved	25.0	Approve in Full
-139330	2009071761348	2009-07-10 00:00:00	2009-07-06 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	300.0	Cosmetics,Cosmetics,Supplies,Cosmetics	Denied	0.0	Deny
-139550	2009072161546	2009-07-16 00:00:00	2009-06-14 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Canceled	0.0	
-139638	2009071661283	2009-07-17 00:00:00	2009-05-31 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	2789.96	Watches & Jewelry	Denied	0.0	Deny
-139645	2009072361641	2009-07-17 00:00:00	2009-03-16 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	123.0	Clothing & Accessories	Denied	0.0	Deny
-140100	2009080362146	2009-07-29 00:00:00	2009-07-23 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	12.71	Tools & Machines	Denied	0.0	Deny
-140558	2009081362567	2009-08-11 00:00:00	2009-07-22 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	183.93	Supplies	Denied	0.0	Deny
-142274	2009100264265	2009-09-30 00:00:00	2009-09-04 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	52.75	Cosmetics	Denied	0.0	Deny
-142722	2009102664733	2009-10-16 00:00:00	2009-10-11 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	625.0	Clothing & Accessories	Denied	0.0	Deny
-144033	2009120366020	2009-11-27 00:00:00	2009-10-27 10:30:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.17	Containers	Denied	0.0	Deny
-144149	2009120766142	2009-12-01 00:00:00	2009-10-13 18:23:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.39	Cosmetics	Denied	0.0	Deny
-144680	2009122866809	2009-12-16 00:00:00	2009-11-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.0	Tools & Machines	Canceled		
+138917	2009070960998	2009-06-30 00:00:00	2009-06-05 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Clothing - Shoes, belts, accessories, etc.	Approved	25.0	Approve in Full
+139330	2009071761348	2009-07-10 00:00:00	2009-07-06 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	300.0	Brushes - Hair, Clothes, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines*Razors (other than electric)	Denied	0.0	Deny
+139550	2009072161546	2009-07-16 00:00:00	2009-06-14 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	12.0	Locks	Canceled	0.0	
+139638	2009071661283	2009-07-17 00:00:00	2009-05-31 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage	2789.96	Jewelry - Fine	Denied	0.0	Deny
+139645	2009072361641	2009-07-17 00:00:00	2009-03-16 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage	123.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+140100	2009080362146	2009-07-29 00:00:00	2009-07-23 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	12.71	Locks	Denied	0.0	Deny
+140558	2009081362567	2009-08-11 00:00:00	2009-07-22 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage	183.93	Medicines	Denied	0.0	Deny
+142274	2009100264265	2009-09-30 00:00:00	2009-09-04 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage	52.75	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+142722	2009102664733	2009-10-16 00:00:00	2009-10-11 00:00:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	625.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+144033	2009120366020	2009-11-27 00:00:00	2009-10-27 10:30:00	GSP	Greenville-Spartanburg	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.17	Luggage (all types including footlockers)	Denied	0.0	Deny
+144149	2009120766142	2009-12-01 00:00:00	2009-10-13 18:23:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.39	Wigs (including hairpieces) under $100	Denied	0.0	Deny
+144680	2009122866809	2009-12-16 00:00:00	2009-11-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.0	Locks	Canceled		
 145790	2010022468705	2010-02-16 00:00:00	2010-01-06 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Other		10.75	Settle
-145848	2010022668754	2010-02-17 00:00:00	2010-01-28 05:15:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-146106	2010030569115	2010-02-25 00:00:00	2010-02-10 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Electronics,Electronics,Cosmetics		0.0	Deny
-146237	2010030969290	2010-03-01 00:00:00	2010-02-24 10:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Scientific Intruments		1282.0	Settle
-146481	2010031869683	2010-03-08 00:00:00	2010-02-07 16:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		61.53	Settle
-146883	2010032570016	2010-03-22 00:00:00	2010-03-03 08:40:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Outdoors Supplies		0.0	Deny
-147581	2010041370755	2010-04-12 00:00:00	2010-04-02 06:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		8.0	Approve in Full
+145848	2010022668754	2010-02-17 00:00:00	2010-01-28 05:15:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+146106	2010030569115	2010-02-25 00:00:00	2010-02-10 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Personal Electronics*Personal Electronics*Travel Accessories		0.0	Deny
+146237	2010030969290	2010-03-01 00:00:00	2010-02-24 10:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Medical/Science		1282.0	Settle
+146481	2010031869683	2010-03-08 00:00:00	2010-02-07 16:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		61.53	Settle
+146883	2010032570016	2010-03-22 00:00:00	2010-03-03 08:40:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Tools & Home Improvement Supplies		0.0	Deny
+147581	2010041370755	2010-04-12 00:00:00	2010-04-02 06:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		8.0	Approve in Full
 147615	2010041570850	2010-04-12 00:00:00	2010-03-30 08:36:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-147948	2010042671169	2010-04-21 00:00:00	2010-03-26 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers,Electronics,Clothing & Accessories		0.0	Deny
-148062	2010042971322	2010-04-26 00:00:00	2010-04-16 12:45:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-149249	2010060472373	2010-06-02 00:00:00	2010-05-15 12:30:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-149583	2010062172832	2010-06-14 00:00:00	2010-02-04 09:54:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics		0.0	Deny
-149881	2010062973198	2010-06-22 00:00:00	2010-05-27 15:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
-150571	2010071773817	2010-07-13 00:00:00	2010-07-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-150636	2010072374002	2010-07-14 00:00:00	2010-05-29 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+147948	2010042671169	2010-04-21 00:00:00	2010-03-26 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Cameras*Personal Accessories		0.0	Deny
+148062	2010042971322	2010-04-26 00:00:00	2010-04-16 12:45:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+149249	2010060472373	2010-06-02 00:00:00	2010-05-15 12:30:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checkpoint		Clothing		0.0	Deny
+149583	2010062172832	2010-06-14 00:00:00	2010-02-04 09:54:00	GSP	Greenville-Spartanburg	US Express	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Cosmetics & Grooming		0.0	Deny
+149881	2010062973198	2010-06-22 00:00:00	2010-05-27 15:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		20.0	Approve in Full
+150571	2010071773817	2010-07-13 00:00:00	2010-07-08 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+150636	2010072374002	2010-07-14 00:00:00	2010-05-29 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
 150917	2010073174258	2010-07-22 00:00:00	2010-07-21 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-151292	2010081174708	2010-08-02 00:00:00	2010-07-24 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories		100.0	Approve in Full
-151498	2010081374877	2010-08-09 00:00:00	2010-07-22 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-152044	2010083175515	2010-08-23 00:00:00	2010-06-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-152334	2010090375652	2010-08-31 00:00:00	2010-08-20 12:46:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+151292	2010081174708	2010-08-02 00:00:00	2010-07-24 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Cameras*Clothing		100.0	Approve in Full
+151498	2010081374877	2010-08-09 00:00:00	2010-07-22 00:00:00	GSP	Greenville-Spartanburg	Continental Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+152044	2010083175515	2010-08-23 00:00:00	2010-06-28 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+152334	2010090375652	2010-08-31 00:00:00	2010-08-20 12:46:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing			
 152750	2010091776140	2010-09-13 00:00:00	2010-08-30 11:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-153550	2010101576969	2010-10-06 00:00:00	2010-08-18 10:12:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		39.99	Approve in Full
-155699	2010122279003	2010-12-20 00:00:00	2010-11-15 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+153550	2010101576969	2010-10-06 00:00:00	2010-08-18 10:12:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		39.99	Approve in Full
+155699	2010122279003	2010-12-20 00:00:00	2010-11-15 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
 161174	2011062584657	2011-06-15 00:00:00	2011-06-13 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-161620	2011071385143	2011-06-29 00:00:00	2011-05-26 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+161620	2011071385143	2011-06-29 00:00:00	2011-05-26 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
 162921	2011071185080	2011-08-10 00:00:00	2011-06-13 06:30:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Other			
-163982	2011101187673	2011-09-14 00:00:00	2011-06-05 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-165486	2011111588958	2011-11-07 00:00:00	2011-10-26 07:30:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		108.24	Approve in Full
-165558	2011111488950	2011-11-08 00:00:00	2011-10-31 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-166308	2012041392884	2011-12-05 00:00:00	2011-11-26 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-166807	2012021390986	2011-12-26 00:00:00	2011-12-26 14:20:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-167804	2012030291501	2012-01-25 00:00:00	2011-12-17 16:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-168098	2012020390655	2012-02-03 00:00:00	2011-11-29 15:40:00	GSP	Greenville-Spartanburg	American Eagle	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-168702	2012040292370	2012-02-24 00:00:00	2012-02-20 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-169943	2012050393566	2012-04-11 00:00:00	2012-04-02 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-170204	2012051593984	2012-04-19 00:00:00	2012-04-11 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-170370	2012050993769	2012-04-26 00:00:00	2012-04-15 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		85.0	Approve in Full
-171917	2012071995566	2012-06-19 00:00:00	2012-06-02 10:55:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink,Food & Drink		0.0	Deny
-179906	2013050903616	2013-04-15 00:00:00	2013-04-12 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-181463	2013073105541	2013-06-13 00:00:00	2013-06-09 08:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		149.99	Approve in Full
-182040	2013072505459	2013-07-02 00:00:00	2013-05-14 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+163982	2011101187673	2011-09-14 00:00:00	2011-06-05 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+165486	2011111588958	2011-11-07 00:00:00	2011-10-26 07:30:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		108.24	Approve in Full
+165558	2011111488950	2011-11-08 00:00:00	2011-10-31 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+166308	2012041392884	2011-12-05 00:00:00	2011-11-26 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+166807	2012021390986	2011-12-26 00:00:00	2011-12-26 14:20:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
+167804	2012030291501	2012-01-25 00:00:00	2011-12-17 16:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+168098	2012020390655	2012-02-03 00:00:00	2011-11-29 15:40:00	GSP	Greenville-Spartanburg	American Eagle	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+168702	2012040292370	2012-02-24 00:00:00	2012-02-20 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+169943	2012050393566	2012-04-11 00:00:00	2012-04-02 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+170204	2012051593984	2012-04-19 00:00:00	2012-04-11 00:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+170370	2012050993769	2012-04-26 00:00:00	2012-04-15 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		85.0	Approve in Full
+171917	2012071995566	2012-06-19 00:00:00	2012-06-02 10:55:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink*Food & Drink		0.0	Deny
+179906	2013050903616	2013-04-15 00:00:00	2013-04-12 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+181463	2013073105541	2013-06-13 00:00:00	2013-06-09 08:00:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		149.99	Approve in Full
+182040	2013072505459	2013-07-02 00:00:00	2013-05-14 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checkpoint		Cameras		0.0	Deny
 182533	2013082806369	2013-07-19 00:00:00	2013-07-02 06:30:00	GSP	Greenville-Spartanburg	USAir	Passenger Property Loss	Checked Baggage		Other		124.99	Approve in Full
-183392	2013102107493	2013-08-15 00:00:00	2013-08-01 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-189581	2014042113384	2014-04-17 00:00:00	2014-04-10 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+183392	2013102107493	2013-08-15 00:00:00	2013-08-01 00:00:00	GSP	Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+189581	2014042113384	2014-04-17 00:00:00	2014-04-10 00:00:00	GSP	Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
 193599	2014100817483	2014-10-01 00:00:00	2014-09-26 00:00:00	GSP	Greenville-Spartanburg	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
-198339	2015040221708	2015-04-01 00:00:00	2015-03-26 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-198340	2015040321749	2015-04-03 00:00:00	2014-12-21 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		175.0	Settle
-198343	2015081824941	2015-08-14 00:00:00	2015-08-11 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checkpoint		Containers			
-206991	2016022329048	2016-01-29 00:00:00	2016-01-13 10:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage		Electronics		899.94	Approve in Full
-206993	2016042830960	2016-04-19 00:00:00	2016-04-09 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		639.0	Approve in Full
-206995	2016062032315	2016-06-07 00:00:00	2016-05-24 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-206996	2016081833127	2016-07-26 00:00:00	2016-05-30 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
-207001	2017012636866	2016-11-23 00:00:00	2016-09-05 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
-215237	2017120645762	2017-11-20 00:00:00	2017-05-10 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+198339	2015040221708	2015-04-01 00:00:00	2015-03-26 00:00:00	GSP	Greenville-Spartanburg	Allegiant Air	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+198340	2015040321749	2015-04-03 00:00:00	2014-12-21 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		175.0	Settle
+198343	2015081824941	2015-08-14 00:00:00	2015-08-11 00:00:00	GSP	Greenville-Spartanburg	UAL	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses			
+206991	2016022329048	2016-01-29 00:00:00	2016-01-13 10:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		899.94	Approve in Full
+206993	2016042830960	2016-04-19 00:00:00	2016-04-09 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		639.0	Approve in Full
+206995	2016062032315	2016-06-07 00:00:00	2016-05-24 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+206996	2016081833127	2016-07-26 00:00:00	2016-05-30 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checkpoint		Medical/Science		0.0	Deny
+207001	2017012636866	2016-11-23 00:00:00	2016-09-05 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			In Review
+215237	2017120645762	2017-11-20 00:00:00	2017-05-10 00:00:00	GSP	Greenville-Spartanburg Greenville-Spartanburg	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing			In Review

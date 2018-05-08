@@ -1,19 +1,19 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-98621	2007012919687	2007-01-23 00:00:00	2007-01-03 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	349.95	Electronics	Denied	0.0	Deny
-100486	2007022821703	2007-02-27 00:00:00	2007-02-18 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	601.72	Supplies	Denied	0.0	Deny
+98621	2007012919687	2007-01-23 00:00:00	2007-01-03 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	349.95	Cameras - Digital	Denied	0.0	Deny
+100486	2007022821703	2007-02-27 00:00:00	2007-02-18 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	601.72	Medicines	Denied	0.0	Deny
 118382	2008022240006	2008-02-15 00:00:00	2008-01-11 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	96.58	Other	Denied	0.0	Deny
-128064	2008091249845	2008-09-09 00:00:00	2008-08-11 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	518.37	Electronics	Denied	0.0	Deny
-130461	2008111752351	2008-11-10 00:00:00	2008-10-17 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	425.95	Electronics	Denied	0.0	Deny
-131325	2008120553154	2008-12-02 00:00:00	2008-11-21 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checkpoint		Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-137190	2009052159337	2009-05-12 00:00:00	2009-04-24 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	200.0	Electronics,Electronics	Canceled	0.0	
+128064	2008091249845	2008-09-09 00:00:00	2008-08-11 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	518.37	Cameras - Digital	Denied	0.0	Deny
+130461	2008111752351	2008-11-10 00:00:00	2008-10-17 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	425.95	Cameras - Digital	Denied	0.0	Deny
+131325	2008120553154	2008-12-02 00:00:00	2008-11-21 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checkpoint		Cell Phones	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+137190	2009052159337	2009-05-12 00:00:00	2009-04-24 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage	200.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Canceled	0.0	
 153540	2010101376909	2010-10-06 00:00:00	2010-09-24 14:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-157737	2011031481174	2011-02-23 00:00:00	2011-02-13 16:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-159926	2011051683423	2011-05-05 00:00:00	2011-04-28 12:35:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		69.99	Settle
-162447	2011081186032	2011-07-26 00:00:00	2010-08-06 19:15:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		297.46	Settle
+157737	2011031481174	2011-02-23 00:00:00	2011-02-13 16:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+159926	2011051683423	2011-05-05 00:00:00	2011-04-28 12:35:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Personal Electronics		69.99	Settle
+162447	2011081186032	2011-07-26 00:00:00	2010-08-06 19:15:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		297.46	Settle
 164632	2011102188261	2011-10-07 00:00:00	2011-09-29 10:25:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-172792	2012083096493	2012-07-23 00:00:00	2012-07-04 16:40:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-173367	2012092197040	2012-08-13 00:00:00	2012-06-06 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-173933	2012101697629	2012-08-30 00:00:00	2012-06-16 15:45:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-177529	2013020701150	2013-01-17 00:00:00	2012-12-30 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		216.95	Settle
-178541	2013022802232	2013-02-22 00:00:00	2013-02-11 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Scientific Intruments			
-190206	2014051914021	2014-05-14 00:00:00	2014-03-30 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		137.5	Settle
+172792	2012083096493	2012-07-23 00:00:00	2012-07-04 16:40:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming		0.0	Deny
+173367	2012092197040	2012-08-13 00:00:00	2012-06-06 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing			
+173933	2012101697629	2012-08-30 00:00:00	2012-06-16 15:45:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+177529	2013020701150	2013-01-17 00:00:00	2012-12-30 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		216.95	Settle
+178541	2013022802232	2013-02-22 00:00:00	2013-02-11 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Medical/Science			
+190206	2014051914021	2014-05-14 00:00:00	2014-03-30 00:00:00	SCK	Stockton	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		137.5	Settle

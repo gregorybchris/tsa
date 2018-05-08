@@ -1,15 +1,15 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-83638	2006042404989	2006-04-11 00:00:00	2006-03-29 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage	194.85	Watches & Jewelry	Approved	194.85	Approve in Full
-91652	2006091912908	2006-09-15 00:00:00	2006-08-18 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage	1592.4	Containers,Electronics,Electronics	Denied	0.0	Deny
-138791	2009070160781	2009-06-25 00:00:00	2009-06-20 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage	236.25	Watches & Jewelry	Denied	0.0	Deny
-153365	2010101877035	2010-09-30 00:00:00	2010-09-07 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		73.14	Approve in Full
-165607	2011111789133	2011-11-10 00:00:00	2011-10-30 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry		0.0	Deny
-171907	2012070695094	2012-06-19 00:00:00	2012-06-11 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
-182601	2013082806350	2013-07-22 00:00:00	2013-07-07 10:55:00	MVY	Martha's Vineyard Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-184779	2013111409310	2013-10-09 00:00:00	2013-09-21 15:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics			
-185324	2013111009067	2013-10-31 00:00:00	2013-10-07 15:40:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checkpoint		Cosmetics			
-191347	2014071615183	2014-07-10 00:00:00	2014-07-07 00:00:00	MVY	Martha's Vineyard Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics			
-192374	2014082616234	2014-08-11 00:00:00	2014-07-08 00:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-201638	2015030420994	2015-03-03 00:00:00	2014-09-01 00:00:00	MVY	Martha's Vineyard Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Containers		0.0	Deny
-201639	2015062423416	2015-06-18 00:00:00	2015-06-01 00:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Cosmetics		0.0	Deny
-201641	2015092325551	2015-09-03 00:00:00	2015-08-16 00:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		31.97	Approve in Full
+83638	2006042404989	2006-04-11 00:00:00	2006-03-29 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage	194.85	Jewelry - Fine	Approved	194.85	Approve in Full
+91652	2006091912908	2006-09-15 00:00:00	2006-08-18 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage	1592.4	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+138791	2009070160781	2009-06-25 00:00:00	2009-06-20 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage	236.25	Jewelry - Fine	Denied	0.0	Deny
+153365	2010101877035	2010-09-30 00:00:00	2010-09-07 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage		Clothing		73.14	Approve in Full
+165607	2011111789133	2011-11-10 00:00:00	2011-10-30 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Jewelry & Watches		0.0	Deny
+171907	2012070695094	2012-06-19 00:00:00	2012-06-11 00:00:00	MVY	Martha's Vineyard Airport	Cape Air	Passenger Property Loss	Checked Baggage		Travel Accessories		20.0	Approve in Full
+182601	2013082806350	2013-07-22 00:00:00	2013-07-07 10:55:00	MVY	Martha's Vineyard Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing			
+184779	2013111409310	2013-10-09 00:00:00	2013-09-21 15:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+185324	2013111009067	2013-10-31 00:00:00	2013-10-07 15:40:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checkpoint		Cosmetics & Grooming			
+191347	2014071615183	2014-07-10 00:00:00	2014-07-07 00:00:00	MVY	Martha's Vineyard Airport	USAir	Passenger Property Loss	Checked Baggage		Computer & Accessories			
+192374	2014082616234	2014-08-11 00:00:00	2014-07-08 00:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Personal Accessories			
+201638	2015030420994	2015-03-03 00:00:00	2014-09-01 00:00:00	MVY	Martha's Vineyard Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Baggage/Cases/Purses		0.0	Deny
+201639	2015062423416	2015-06-18 00:00:00	2015-06-01 00:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches*Travel Accessories		0.0	Deny
+201641	2015092325551	2015-09-03 00:00:00	2015-08-16 00:00:00	MVY	Martha's Vineyard Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing		31.97	Approve in Full

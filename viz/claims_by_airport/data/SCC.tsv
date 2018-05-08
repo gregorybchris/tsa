@@ -1,5 +1,5 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-89999	2006081711217	2006-08-16 00:00:00	2006-07-21 00:00:00	SCC	Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage	1035.0	Watches & Jewelry	Denied	0.0	Deny
-94435	2006111615717	2006-11-13 00:00:00	2006-10-15 00:00:00	SCC	Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.39	Tools & Machines	Approved	12.39	Approve in Full
-189897	2014050513708	2014-05-01 00:00:00	2014-04-22 00:00:00	SCC	Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		30.0	Approve in Full
+89999	2006081711217	2006-08-16 00:00:00	2006-07-21 00:00:00	SCC	Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage	1035.0	Jewelry - Fine	Denied	0.0	Deny
+94435	2006111615717	2006-11-13 00:00:00	2006-10-15 00:00:00	SCC	Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.39	Locks	Approved	12.39	Approve in Full
+189897	2014050513708	2014-05-01 00:00:00	2014-04-22 00:00:00	SCC	Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		30.0	Approve in Full
 219840	2017101144223	2017-09-21 00:00:00	2017-08-16 05:25:00	SCC	Deadhorse Deadhorse	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review

@@ -1,13 +1,13 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-4236	0326082L	2003-03-26 00:00:00	2003-01-10 00:00:00	LYH	Lynchburg Regional		Passenger Property Loss	Checked Baggage	221.0	Clothing & Accessories	Approved	221.0	Approve in Full
-137209	2009052059170	2009-05-12 00:00:00	2009-03-18 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage	159.63	Electronics	Denied	0.0	Deny
-147934	2010042271071	2010-04-21 00:00:00	2010-04-17 10:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-190379	2014052714196	2014-05-20 00:00:00	2014-04-23 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-190399	2014052814217	2014-05-27 00:00:00	2014-02-27 00:00:00	LYH	Lynchburg Regional	Piedmont Airlines Inc	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-192350	2014082516209	2014-08-05 00:00:00	2014-07-24 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
-200569	2015050822412	2015-05-08 00:00:00	2015-05-08 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-200570	2015061923256	2015-06-10 00:00:00	2015-05-08 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-200571	2015072824311	2015-07-13 00:00:00	2015-06-06 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-209087	2016031029570	2016-02-16 00:00:00	2016-02-07 00:00:00	LYH	Lynchburg Regional Lynchburg Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.99	Approve in Full
-217362	2017091342973	2017-08-03 00:00:00	2017-07-14 14:00:00	LYH	Lynchburg Regional Lynchburg Regional	American Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
-217363	2017081642253	2017-07-03 00:00:00	2017-04-30 00:00:00	LYH	Lynchburg Regional Lynchburg Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+4236	0326082L	2003-03-26 00:00:00	2003-01-10 00:00:00	LYH	Lynchburg Regional		Passenger Property Loss	Checked Baggage	221.0	Clothing - Shoes, belts, accessories, etc.	Approved	221.0	Approve in Full
+137209	2009052059170	2009-05-12 00:00:00	2009-03-18 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage	159.63	Computer - Laptop	Denied	0.0	Deny
+147934	2010042271071	2010-04-21 00:00:00	2010-04-17 10:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+190379	2014052714196	2014-05-20 00:00:00	2014-04-23 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+190399	2014052814217	2014-05-27 00:00:00	2014-02-27 00:00:00	LYH	Lynchburg Regional	Piedmont Airlines Inc	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+192350	2014082516209	2014-08-05 00:00:00	2014-07-24 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories		15.0	Approve in Full
+200569	2015050822412	2015-05-08 00:00:00	2015-05-08 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+200570	2015061923256	2015-06-10 00:00:00	2015-05-08 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+200571	2015072824311	2015-07-13 00:00:00	2015-06-06 00:00:00	LYH	Lynchburg Regional	USAir	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+209087	2016031029570	2016-02-16 00:00:00	2016-02-07 00:00:00	LYH	Lynchburg Regional Lynchburg Regional	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		9.99	Approve in Full
+217362	2017091342973	2017-08-03 00:00:00	2017-07-14 14:00:00	LYH	Lynchburg Regional Lynchburg Regional	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			In Review
+217363	2017081642253	2017-07-03 00:00:00	2017-04-30 00:00:00	LYH	Lynchburg Regional Lynchburg Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cameras			In Review

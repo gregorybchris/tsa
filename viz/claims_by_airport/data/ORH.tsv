@@ -1,11 +1,11 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-137681	2009060159663	2009-05-27 00:00:00	2009-05-10 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage	1400.0	Games & Toys	Denied	0.0	Deny
-146433	2010031369561	2010-03-05 00:00:00	2010-02-26 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry,Scientific Intruments		0.0	Deny
-147813	2010042171023	2010-04-16 00:00:00	2010-03-11 10:30:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-150905	2010073074223	2010-07-22 00:00:00	2010-06-24 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-153983	2010102577350	2010-10-20 00:00:00	2010-10-07 13:45:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-158286	2011040181702	2011-03-14 00:00:00	2011-02-26 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		125.0	Settle
-159963	2011051683467	2011-05-06 00:00:00	2011-04-21 16:45:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-186499	2013122710294	2013-12-19 00:00:00	2013-12-17 06:30:00	ORH	Worcester Regional	Jet Blue	Passenger Property Loss	Checked Baggage		Musical Intruments			
-189134	2014040312931	2014-04-01 00:00:00	2014-03-15 00:00:00	ORH	Worcester Regional		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-210620	2016102835322	2016-09-27 00:00:00	2016-08-22 00:00:00	ORH	Worcester Regional Worcester Regional	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics,Outdoors Supplies			In Review
+137681	2009060159663	2009-05-27 00:00:00	2009-05-10 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage	1400.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+146433	2010031369561	2010-03-05 00:00:00	2010-02-26 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches*Medical/Science		0.0	Deny
+147813	2010042171023	2010-04-16 00:00:00	2010-03-11 10:30:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+150905	2010073074223	2010-07-22 00:00:00	2010-06-24 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+153983	2010102577350	2010-10-20 00:00:00	2010-10-07 13:45:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
+158286	2011040181702	2011-03-14 00:00:00	2011-02-26 00:00:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Clothing		125.0	Settle
+159963	2011051683467	2011-05-06 00:00:00	2011-04-21 16:45:00	ORH	Worcester Regional	Direct Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+186499	2013122710294	2013-12-19 00:00:00	2013-12-17 06:30:00	ORH	Worcester Regional	Jet Blue	Passenger Property Loss	Checked Baggage		Musical Instruments & Accessories			
+189134	2014040312931	2014-04-01 00:00:00	2014-03-15 00:00:00	ORH	Worcester Regional		Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+210620	2016102835322	2016-09-27 00:00:00	2016-08-22 00:00:00	ORH	Worcester Regional Worcester Regional	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Hunting & Fishing Items			In Review

@@ -1,4 +1,4 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-168305	2012032692052	2012-02-10 00:00:00	2011-09-11 00:00:00	RKD	Knox County Regional	Cape Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-172125	2012080295835	2012-06-27 00:00:00	2012-06-23 00:00:00	RKD	Knox County Regional	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-176468	2013012300162	2012-12-05 00:00:00	2012-12-03 00:00:00	RKD	Knox County Regional	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		70.0	Approve in Full
+168305	2012032692052	2012-02-10 00:00:00	2011-09-11 00:00:00	RKD	Knox County Regional	Cape Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+172125	2012080295835	2012-06-27 00:00:00	2012-06-23 00:00:00	RKD	Knox County Regional	Cape Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+176468	2013012300162	2012-12-05 00:00:00	2012-12-03 00:00:00	RKD	Knox County Regional	Cape Air	Passenger Property Loss	Checked Baggage		Clothing		70.0	Approve in Full

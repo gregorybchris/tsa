@@ -1,18 +1,18 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-31869	2004051451940	2004-04-01 00:00:00	2003-10-14 00:00:00	ABR	Aberdeen Regional Airport		Passenger Property Loss	Checked Baggage	460.0	Clothing & Accessories	Denied	0.0	Deny
+31869	2004051451940	2004-04-01 00:00:00	2003-10-14 00:00:00	ABR	Aberdeen Regional Airport		Passenger Property Loss	Checked Baggage	460.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
 40503	2004080960877	2004-07-20 00:00:00	2004-07-19 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	60.95	Other	Approved	60.95	Approve in Full
-44800	2004092263448	2004-09-14 00:00:00	2004-07-12 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	780.0	Watches & Jewelry	Settled	642.5	Settle
+44800	2004092263448	2004-09-14 00:00:00	2004-07-12 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	780.0	Jewelry - Fine	Settled	642.5	Settle
 62378	2005042583313	2005-04-22 00:00:00	2005-04-04 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	225.0	Other	Denied	0.0	Deny
-79484	2006013100660	2006-01-24 00:00:00	2006-01-16 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	970.0	Cosmetics	Denied	0.0	Deny
-82962	2006040604107	2006-03-28 00:00:00	2006-03-03 00:00:00	ABR	Aberdeen Regional Airport		Passenger Property Loss	Checked Baggage	340.0	Clothing & Accessories	Denied	0.0	Deny
+79484	2006013100660	2006-01-24 00:00:00	2006-01-16 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	970.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+82962	2006040604107	2006-03-28 00:00:00	2006-03-03 00:00:00	ABR	Aberdeen Regional Airport		Passenger Property Loss	Checked Baggage	340.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 103980	2007051025259	2007-05-08 00:00:00	2007-02-04 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	26.99	Other	Denied	0.0	Deny
-106464	2007070327829	2007-06-27 00:00:00	2007-06-17 00:00:00	ABR	Aberdeen Regional Airport	Great Lakes Airline	Passenger Property Loss	Checked Baggage	151.95	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
+106464	2007070327829	2007-06-27 00:00:00	2007-06-17 00:00:00	ABR	Aberdeen Regional Airport	Great Lakes Airline	Passenger Property Loss	Checked Baggage	151.95	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Watches - Inexpensive $100 or less	Denied	0.0	Deny
 113406	2007110934801	2007-11-07 00:00:00	2007-10-29 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
-113980	2007112835580	2007-11-19 00:00:00	2007-10-25 00:00:00	ABR	Aberdeen Regional Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	3579.0	Tools & Machines,Weapons & Knives,Electronics,Other	Denied	0.0	Deny
-124257	2008062046007	2008-06-16 00:00:00	2008-06-09 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	164.9	Clothing & Accessories	Denied	0.0	Deny
-168152	2012032091822	2012-02-06 00:00:00	2012-01-05 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		115.0	Approve in Full
-168639	2012033092284	2012-02-22 00:00:00	2012-01-09 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Scientific Intruments		0.0	Deny
-170921	2012060694561	2012-05-14 00:00:00	2012-05-02 06:00:00	ABR	Aberdeen Regional Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage		Cosmetics		29.94	Approve in Full
-182013	2013071805255	2013-07-02 00:00:00	2013-06-12 10:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-195590	2015080324436	2015-07-20 00:00:00	2015-05-20 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-195591	2015110926712	2015-10-19 00:00:00	2015-10-07 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Other,Watches & Jewelry			
+113980	2007112835580	2007-11-19 00:00:00	2007-10-25 00:00:00	ABR	Aberdeen Regional Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	3579.0	Binoculars*Firearms*GPS - Global Positioning System*Other	Denied	0.0	Deny
+124257	2008062046007	2008-06-16 00:00:00	2008-06-09 00:00:00	ABR	Aberdeen Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	164.9	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+168152	2012032091822	2012-02-06 00:00:00	2012-01-05 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches		115.0	Approve in Full
+168639	2012033092284	2012-02-22 00:00:00	2012-01-09 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches*Medical/Science		0.0	Deny
+170921	2012060694561	2012-05-14 00:00:00	2012-05-02 06:00:00	ABR	Aberdeen Regional Airport	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage		Travel Accessories		29.94	Approve in Full
+182013	2013071805255	2013-07-02 00:00:00	2013-06-12 10:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+195590	2015080324436	2015-07-20 00:00:00	2015-05-20 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing			
+195591	2015110926712	2015-10-19 00:00:00	2015-10-07 00:00:00	ABR	Aberdeen Regional Airport	Delta Air Lines	Passenger Property Loss	Checkpoint		Currency*Jewelry & Watches			

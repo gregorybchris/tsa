@@ -1,15 +1,15 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 14690	0829058M	2003-08-29 00:00:00	2002-11-03 00:00:00	DHN	Dothan Regional Airport		Passenger Property Loss	Checked Baggage	600.0	Other	Denied	0.0	Deny
-65042	2005060285696	2005-05-31 00:00:00	2005-05-13 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	67.4	Clothing & Accessories	Settled	34.0	Settle
-109404	2007082730892	2007-08-21 00:00:00	2007-04-07 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Clothing & Accessories	Denied	0.0	Deny
-115257	2007122636879	2007-12-17 00:00:00	2007-12-07 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Tools & Machines,Cosmetics	Approved	85.0	Approve in Full
-137191	2009052159349	2009-05-12 00:00:00	2009-04-29 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	797.78	Electronics	Canceled	0.0	
-150883	2010072974170	2010-07-21 00:00:00	2010-06-29 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159484	2011042582931	2011-04-20 00:00:00	2011-04-12 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+65042	2005060285696	2005-05-31 00:00:00	2005-05-13 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	67.4	Clothing - Shoes, belts, accessories, etc.	Settled	34.0	Settle
+109404	2007082730892	2007-08-21 00:00:00	2007-04-07 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+115257	2007122636879	2007-12-17 00:00:00	2007-12-07 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Barber Supplies - Scissors, shears, elecric razors, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	85.0	Approve in Full
+137191	2009052159349	2009-05-12 00:00:00	2009-04-29 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	797.78	Computer - Laptop	Canceled	0.0	
+150883	2010072974170	2010-07-21 00:00:00	2010-06-29 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+159484	2011042582931	2011-04-20 00:00:00	2011-04-12 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
 173447	2012092597136	2012-08-14 00:00:00	2012-07-20 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-176574	2013012700458	2012-12-10 00:00:00	2012-10-27 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories		0.0	Deny
-177812	2013021501541	2013-01-28 00:00:00	2012-11-09 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		51.3	Approve in Full
-197518	2015070223631	2015-06-25 00:00:00	2015-04-05 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		36.93	Approve in Full
-197519	2015073024367	2015-07-13 00:00:00	2015-07-03 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-197520	2015091025314	2015-08-28 00:00:00	2015-07-08 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		260.0	Approve in Full
-197522	2015111226826	2015-10-26 00:00:00	2015-10-22 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Clothing & Accessories,Office Supplies,Outdoors Supplies,Outdoors Supplies			
+176574	2013012700458	2012-12-10 00:00:00	2012-10-27 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Personal Accessories		0.0	Deny
+177812	2013021501541	2013-01-28 00:00:00	2012-11-09 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		51.3	Approve in Full
+197518	2015070223631	2015-06-25 00:00:00	2015-04-05 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		36.93	Approve in Full
+197519	2015073024367	2015-07-13 00:00:00	2015-07-03 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+197520	2015091025314	2015-08-28 00:00:00	2015-07-08 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		260.0	Approve in Full
+197522	2015111226826	2015-10-26 00:00:00	2015-10-22 00:00:00	DHN	Dothan Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Clothing*Clothing*Office Equipment & Supplies*Tools & Home Improvement Supplies*Tools & Home Improvement Supplies			

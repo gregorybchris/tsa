@@ -1,24 +1,24 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 17525	1008035M	2003-10-08 00:00:00	2003-09-17 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	35.0	Other	Approved	35.0	Approve in Full
-24174	0107266M	2004-01-07 00:00:00	2003-12-16 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage		Cosmetics	Approved	69.0	Approve in Full
+24174	0107266M	2004-01-07 00:00:00	2003-12-16 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage		Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	69.0	Approve in Full
 29743	2004051452125	2004-03-10 00:00:00	2004-02-24 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
 30751	2004052453198	2004-03-18 00:00:00	2004-02-07 00:00:00	NYL	Navy Yuma Landing		Passenger Property Loss	Checked Baggage		Other	Denied	0.0	Deny
 31811	2004051150953	2004-04-01 00:00:00	2004-03-11 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	321.41	Other	Canceled	0.0	
 36548	2004062256980	2004-05-28 00:00:00	2004-05-01 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	165.97	Other	Approved	165.97	Approve in Full
-52558	2005010773187	2004-12-21 00:00:00	2004-11-16 00:00:00	NYL	Navy Yuma Landing		Passenger Property Loss	Checked Baggage	69.95	Clothing & Accessories	Approved	69.95	Approve in Full
+52558	2005010773187	2004-12-21 00:00:00	2004-11-16 00:00:00	NYL	Navy Yuma Landing		Passenger Property Loss	Checked Baggage	69.95	Clothing - Shoes, belts, accessories, etc.	Approved	69.95	Approve in Full
 58373	2005032279332	2005-03-04 00:00:00	2005-01-21 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	2909.81	Other	Denied	0.0	Deny
-66508	2005062887505	2005-06-20 00:00:00	2005-04-17 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checkpoint	750.0	Watches & Jewelry	Denied	0.0	Deny
+66508	2005062887505	2005-06-20 00:00:00	2005-04-17 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checkpoint	750.0	Jewelry - Fine	Denied	0.0	Deny
 68971	2005080289964	2005-07-27 00:00:00	2005-06-16 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	217.0	Other	Denied	0.0	Deny
-84196	2006050205589	2006-04-24 00:00:00	2006-04-09 00:00:00	NYL	Navy Yuma Landing	American West	Passenger Property Loss	Checked Baggage	245.94	Clothing & Accessories	Approved	245.94	Approve in Full
-88820	2006072610071	2006-07-24 00:00:00	2006-04-26 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	75.0	Household Items	Denied	0.0	Deny
-101787	2007032723024	2007-03-23 00:00:00	2007-03-14 00:00:00	NYL	Navy Yuma Landing	American West	Passenger Property Loss	Checked Baggage	292.83	Supplies,Other	Denied	0.0	Deny
-103630	2007050224828	2007-05-01 00:00:00	2007-03-14 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	6078.51	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-104580	2007052225822	2007-05-21 00:00:00	2007-05-14 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	286.0	Electronics,Other	Denied	0.0	Deny
-110161	2007090731548	2007-09-05 00:00:00	2007-08-21 00:00:00	NYL	Navy Yuma Landing	USAir	Passenger Property Loss	Checked Baggage	32.0	Food & Drink	Approved	32.0	Approve in Full
-112615	2007102634016	2007-10-23 00:00:00	2007-08-26 00:00:00	NYL	Navy Yuma Landing	USAir	Passenger Property Loss	Checkpoint	300.0	Other	Denied	0.0	Deny
-120020	2008040441917	2008-03-20 00:00:00	2008-03-02 00:00:00	NYL	Navy Yuma Landing	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Denied	0.0	Deny
+84196	2006050205589	2006-04-24 00:00:00	2006-04-09 00:00:00	NYL	Navy Yuma Landing	American West	Passenger Property Loss	Checked Baggage	245.94	Eyeglasses - (including contact lenses)	Approved	245.94	Approve in Full
+88820	2006072610071	2006-07-24 00:00:00	2006-04-26 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	75.0	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
+101787	2007032723024	2007-03-23 00:00:00	2007-03-14 00:00:00	NYL	Navy Yuma Landing	American West	Passenger Property Loss	Checked Baggage	292.83	Medicines*Other	Denied	0.0	Deny
+103630	2007050224828	2007-05-01 00:00:00	2007-03-14 00:00:00	NYL	Navy Yuma Landing	America West	Passenger Property Loss	Checked Baggage	6078.51	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+104580	2007052225822	2007-05-21 00:00:00	2007-05-14 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	286.0	Cameras - Digital*Other	Denied	0.0	Deny
+110161	2007090731548	2007-09-05 00:00:00	2007-08-21 00:00:00	NYL	Navy Yuma Landing	USAir	Passenger Property Loss	Checked Baggage	32.0	Alcoholic beverages	Approved	32.0	Approve in Full
+112615	2007102634016	2007-10-23 00:00:00	2007-08-26 00:00:00	NYL	Navy Yuma Landing	USAir	Passenger Property Loss	Checkpoint	300.0	Currency	Denied	0.0	Deny
+120020	2008040441917	2008-03-20 00:00:00	2008-03-02 00:00:00	NYL	Navy Yuma Landing	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Locks	Denied	0.0	Deny
 124203	2008061845889	2008-06-16 00:00:00	2008-05-17 00:00:00	NYL	Navy Yuma Landing	USAir	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
-127380	2008082749212	2008-08-25 00:00:00	2007-05-06 00:00:00	NYL	Navy Yuma Landing	US Express	Passenger Property Loss	Checked Baggage	113.0	Clothing & Accessories	Denied	0.0	Deny
-132307	2009010654150	2008-12-31 00:00:00	2008-12-23 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	120.0	Electronics	Denied	0.0	Deny
-134242	2009031056025	2009-02-20 00:00:00	2009-02-10 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	50.0	Other	Canceled	0.0	
-136632	2009051558668	2009-04-27 00:00:00	2009-03-31 00:00:00	NYL	Navy Yuma Landing		Passenger Property Loss	Checkpoint	199.0	Electronics	Canceled	0.0	
+127380	2008082749212	2008-08-25 00:00:00	2007-05-06 00:00:00	NYL	Navy Yuma Landing	US Express	Passenger Property Loss	Checked Baggage	113.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+132307	2009010654150	2008-12-31 00:00:00	2008-12-23 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	120.0	Cameras - Digital	Denied	0.0	Deny
+134242	2009031056025	2009-02-20 00:00:00	2009-02-10 00:00:00	NYL	Navy Yuma Landing	UAL	Passenger Property Loss	Checked Baggage	50.0	Currency	Canceled	0.0	
+136632	2009051558668	2009-04-27 00:00:00	2009-03-31 00:00:00	NYL	Navy Yuma Landing		Passenger Property Loss	Checkpoint	199.0	Cameras - Digital	Canceled	0.0	

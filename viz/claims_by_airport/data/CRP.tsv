@@ -1,95 +1,95 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-4793	0408137L	2003-04-08 00:00:00	2003-03-10 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	940.44	Electronics	Denied	940.44	Deny
-23780	0105132M	2004-01-05 00:00:00	2003-10-09 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint	2500.0	Watches & Jewelry	Denied	0.0	Deny
-24102	0107056M	2004-01-07 00:00:00	2003-10-21 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	140.67	Containers	Approved	140.67	Approve in Full
-36609	2004070658518	2004-05-28 00:00:00	2004-03-12 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	900.0	Watches & Jewelry	Denied	0.0	Deny
-36908	2004062357205	2004-06-03 00:00:00	2004-05-13 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	290.0	Clothing & Accessories	Denied	0.0	Deny
+4793	0408137L	2003-04-08 00:00:00	2003-03-10 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	940.44	Cameras - Digital	Denied	940.44	Deny
+23780	0105132M	2004-01-05 00:00:00	2003-10-09 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint	2500.0	Jewelry - Fine	Denied	0.0	Deny
+24102	0107056M	2004-01-07 00:00:00	2003-10-21 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	140.67	Luggage (all types including footlockers)	Approved	140.67	Approve in Full
+36609	2004070658518	2004-05-28 00:00:00	2004-03-12 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	900.0	Jewelry - Fine	Denied	0.0	Deny
+36908	2004062357205	2004-06-03 00:00:00	2004-05-13 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	290.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 39833	2004081161099	2004-07-09 00:00:00	2004-07-11 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Theft	Checked Baggage	105.0	Other	Settled	50.0	Settle
-40685	2004081061033	2004-07-20 00:00:00	2004-06-19 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	393.42	Electronics	Settled	177.08	Settle
+40685	2004081061033	2004-07-20 00:00:00	2004-06-19 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	393.42	Cameras - Digital	Settled	177.08	Settle
 42110	2004090862296	2004-08-09 00:00:00	2004-06-11 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint	253.25	Other	Settled	140.68	Settle
 46154	2004110966793	2004-09-29 00:00:00	2004-08-21 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
-49417	2004122871192	2004-11-08 00:00:00	2004-10-23 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Approved	80.0	Approve in Full
-49459	2004122971716	2004-11-08 00:00:00	2004-10-17 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	443.64	Watches & Jewelry	Denied		Deny
+49417	2004122871192	2004-11-08 00:00:00	2004-10-23 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Approved	80.0	Approve in Full
+49459	2004122971716	2004-11-08 00:00:00	2004-10-17 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	443.64	Jewelry - Fine	Denied		Deny
 50142	2004122871134	2004-11-18 00:00:00	2004-10-31 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
-50596	2004122871269	2004-11-23 00:00:00	2004-09-14 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	900.0	Watches & Jewelry	Denied	0.0	Deny
-51959	2005010472510	2004-12-14 00:00:00	2004-10-04 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
+50596	2004122871269	2004-11-23 00:00:00	2004-09-14 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	900.0	Jewelry - Fine	Denied	0.0	Deny
+51959	2005010472510	2004-12-14 00:00:00	2004-10-04 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
 54572	2005013175012	2005-01-14 00:00:00	2004-11-29 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	4290.0	Other	Denied	0.0	Deny
-60962	2005040781841	2005-04-06 00:00:00	2005-03-01 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	161.0	Outdoors Supplies	Approved	161.0	Approve in Full
-61708	2005041482584	2005-04-14 00:00:00	2005-04-03 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	41.98	Clothing & Accessories	Approved	41.98	Approve in Full
-63101	2005050484032	2005-05-03 00:00:00	2005-04-21 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
-63405	2005050984277	2005-05-09 00:00:00	2005-04-19 00:00:00	CRP	Corpus Christi International	Continental Express Inc	Passenger Property Loss	Checkpoint	75.0	Watches & Jewelry	Canceled	0.0	
-65556	2005062086591	2005-06-06 00:00:00	2005-04-03 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checkpoint	180.0	Other	Denied	0.0	Deny
+60962	2005040781841	2005-04-06 00:00:00	2005-03-01 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	161.0	Fish/Game	Approved	161.0	Approve in Full
+61708	2005041482584	2005-04-14 00:00:00	2005-04-03 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	41.98	Clothing - Shoes, belts, accessories, etc.	Approved	41.98	Approve in Full
+63101	2005050484032	2005-05-03 00:00:00	2005-04-21 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+63405	2005050984277	2005-05-09 00:00:00	2005-04-19 00:00:00	CRP	Corpus Christi International	Continental Express Inc	Passenger Property Loss	Checkpoint	75.0	Jewelry - Fine	Canceled	0.0	
+65556	2005062086591	2005-06-06 00:00:00	2005-04-03 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checkpoint	180.0	Currency	Denied	0.0	Deny
 67430	2005070688355	2005-07-05 00:00:00	2005-05-19 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	219.04	Other	Settled	109.52	Settle
-69039	2005080490065	2005-07-28 00:00:00	2004-12-22 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	950.0	Watches & Jewelry	Denied	0.0	Deny
-69693	2005081790728	2005-08-08 00:00:00	2005-07-27 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	230.0	Clothing & Accessories	Denied	0.0	Deny
+69039	2005080490065	2005-07-28 00:00:00	2004-12-22 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	950.0	Jewelry - Fine	Denied	0.0	Deny
+69693	2005081790728	2005-08-08 00:00:00	2005-07-27 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	230.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 75234	2005113096728	2005-11-09 00:00:00	2005-09-19 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
 75880	2005120897373	2005-11-22 00:00:00	2005-10-03 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage	17.98	Other	Approved	17.98	Approve in Full
 76373	2005120997433	2005-12-01 00:00:00	2005-11-30 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	80.0	Other	Denied	0.0	Deny
-76918	2005121697904	2005-12-12 00:00:00	2005-11-22 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Cosmetics	Canceled	0.0	
+76918	2005121697904	2005-12-12 00:00:00	2005-11-22 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
 79690	2006020200829	2006-01-27 00:00:00	2005-12-04 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	1092.0	Other	Denied	0.0	Deny
-81121	2006022802284	2006-02-23 00:00:00	2006-02-03 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	207.39	Electronics	Denied	0.0	Deny
+81121	2006022802284	2006-02-23 00:00:00	2006-02-03 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	207.39	Cameras - Digital	Denied	0.0	Deny
 81677	2006030802830	2006-03-06 00:00:00	2006-01-29 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	128.55	Other	Denied	0.0	Deny
-84325	2006042705420	2006-04-25 00:00:00	2006-03-17 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
-87176	2006062108395	2006-06-21 00:00:00	2006-06-15 00:00:00	CRP	Corpus Christi International	American Eagle	Passenger Property Loss	Checked Baggage	199.0	Electronics	Settled	100.0	Settle
-87364	2006062708613	2006-06-27 00:00:00	2006-06-18 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	10.99	Containers	Approved	10.99	Approve in Full
-87685	2006070508930	2006-07-03 00:00:00	2006-06-26 00:00:00	CRP	Corpus Christi International	Continental Express Inc	Passenger Property Loss	Checked Baggage	20.0	Household Items	Approved	20.0	Approve in Full
-89008	2006072810207	2006-07-27 00:00:00	2006-07-13 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.0	Cosmetics	Approved	99.0	Approve in Full
-89521	2006081110823	2006-08-07 00:00:00	2006-07-21 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	1966.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-90893	2006090812278	2006-09-01 00:00:00	2006-08-18 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	4.0	Tools & Machines	Approved	4.0	Approve in Full
-91337	2006091912816	2006-09-11 00:00:00	2006-08-14 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Electronics,Cosmetics,Other	Approved	75.0	Approve in Full
-91537	2006091812779	2006-09-14 00:00:00	2006-08-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	14.06	Tools & Machines	Approved	14.06	Approve in Full
-92306	2006100313565	2006-09-29 00:00:00	2006-09-22 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Outdoors Supplies	Approved	100.0	Approve in Full
-98686	2007020920646	2007-01-23 00:00:00	2006-07-02 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	119.99	Clothing & Accessories	Settled	75.59	Settle
+84325	2006042705420	2006-04-25 00:00:00	2006-03-17 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Currency	Approved	10.0	Approve in Full
+87176	2006062108395	2006-06-21 00:00:00	2006-06-15 00:00:00	CRP	Corpus Christi International	American Eagle	Passenger Property Loss	Checked Baggage	199.0	GPS - Global Positioning System	Settled	100.0	Settle
+87364	2006062708613	2006-06-27 00:00:00	2006-06-18 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	10.99	Luggage (all types including footlockers)	Approved	10.99	Approve in Full
+87685	2006070508930	2006-07-03 00:00:00	2006-06-26 00:00:00	CRP	Corpus Christi International	Continental Express Inc	Passenger Property Loss	Checked Baggage	20.0	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Approved	20.0	Approve in Full
+89008	2006072810207	2006-07-27 00:00:00	2006-07-13 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	99.0	Approve in Full
+89521	2006081110823	2006-08-07 00:00:00	2006-07-21 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	1966.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+90893	2006090812278	2006-09-01 00:00:00	2006-08-18 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	4.0	Locks	Approved	4.0	Approve in Full
+91337	2006091912816	2006-09-11 00:00:00	2006-08-14 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Batteries - Dry cell only*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Approved	75.0	Approve in Full
+91537	2006091812779	2006-09-14 00:00:00	2006-08-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	14.06	Locks	Approved	14.06	Approve in Full
+92306	2006100313565	2006-09-29 00:00:00	2006-09-22 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Tools - Manual (not in a vehicle)	Approved	100.0	Approve in Full
+98686	2007020920646	2007-01-23 00:00:00	2006-07-02 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	119.99	Clothing - Shoes, belts, accessories, etc.	Settled	75.59	Settle
 101379	2007032022564	2007-03-16 00:00:00	2007-02-08 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Approved	75.0	Approve in Full
 103180	2007042324331	2007-04-20 00:00:00	2007-04-04 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	72.45	Other	Denied	0.0	Deny
-104679	2007052325900	2007-05-22 00:00:00	2007-05-16 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Denied	0.0	Deny
-107015	2007071328310	2007-07-09 00:00:00	2007-07-05 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	728.74	Electronics	Denied	0.0	Deny
-107897	2007072729240	2007-07-25 00:00:00	2007-07-23 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	510.0	Electronics,Electronics,Tools & Machines	Denied	0.0	Deny
+104679	2007052325900	2007-05-22 00:00:00	2007-05-16 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+107015	2007071328310	2007-07-09 00:00:00	2007-07-05 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	728.74	Cameras - Digital	Denied	0.0	Deny
+107897	2007072729240	2007-07-25 00:00:00	2007-07-23 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	510.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
 109764	2007082931092	2007-08-27 00:00:00	2007-08-17 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	310.0	Other	Denied	0.0	Deny
-112257	2007101833606	2007-10-16 00:00:00	2007-09-28 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	94.99	Scientific Intruments	Denied	0.0	Deny
-113339	2007110834725	2007-11-06 00:00:00	2006-11-30 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Watches & Jewelry	Settled	12.5	Settle
-113558	2007111434953	2007-11-13 00:00:00	2007-11-07 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	1449.0	Electronics	Denied	0.0	Deny
+112257	2007101833606	2007-10-16 00:00:00	2007-09-28 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	94.99	Dental Equipment and Instruments	Denied	0.0	Deny
+113339	2007110834725	2007-11-06 00:00:00	2006-11-30 00:00:00	CRP	Corpus Christi International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Jewelry - Costume	Settled	12.5	Settle
+113558	2007111434953	2007-11-13 00:00:00	2007-11-07 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	1449.0	Cameras - Digital	Denied	0.0	Deny
 113845	2007112335344	2007-11-16 00:00:00	2007-11-04 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	21.9	Other	Denied	0.0	Deny
-114404	2007113035743	2007-11-28 00:00:00	2007-11-25 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-114464	2007120435989	2007-11-30 00:00:00	2007-11-05 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-114855	2007120736213	2007-12-07 00:00:00	2007-09-29 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	697.0	Electronics,Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
-115181	2007121936677	2007-12-13 00:00:00	2007-12-02 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Denied	0.0	Deny
-115231	2007122036731	2007-12-14 00:00:00	2007-12-07 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	224.21	Electronics	Denied	0.0	Deny
-116009	2008010837469	2008-01-03 00:00:00	2007-12-26 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Denied	0.0	Deny
-117024	2008012538631	2008-01-18 00:00:00	2007-12-17 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint	360.44	Clothing & Accessories,Watches & Jewelry,Cosmetics	Denied	0.0	Deny
-117672	2008020739258	2008-01-31 00:00:00	2007-11-26 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	161.42	Electronics	Denied	0.0	Deny
-119364	2008031340954	2008-03-07 00:00:00	2008-03-06 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Denied	0.0	Deny
-119653	2008031941277	2008-03-13 00:00:00	2007-10-11 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	540.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-119894	2008032641446	2008-03-19 00:00:00	2007-11-02 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2276.0	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+114404	2007113035743	2007-11-28 00:00:00	2007-11-25 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry - Costume	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+114464	2007120435989	2007-11-30 00:00:00	2007-11-05 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+114855	2007120736213	2007-12-07 00:00:00	2007-09-29 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	697.0	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+115181	2007121936677	2007-12-13 00:00:00	2007-12-02 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+115231	2007122036731	2007-12-14 00:00:00	2007-12-07 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	224.21	Cameras - Digital	Denied	0.0	Deny
+116009	2008010837469	2008-01-03 00:00:00	2007-12-26 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Cell Phones	Denied	0.0	Deny
+117024	2008012538631	2008-01-18 00:00:00	2007-12-17 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint	360.44	Eyeglasses - (including contact lenses)*Jewelry - Costume*Razors (other than electric)	Denied	0.0	Deny
+117672	2008020739258	2008-01-31 00:00:00	2007-11-26 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	161.42	Cameras - Digital	Denied	0.0	Deny
+119364	2008031340954	2008-03-07 00:00:00	2008-03-06 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	14.0	Locks	Denied	0.0	Deny
+119653	2008031941277	2008-03-13 00:00:00	2007-10-11 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	540.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+119894	2008032641446	2008-03-19 00:00:00	2007-11-02 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2276.0	Jewelry - Costume*Jewelry - Fine*Watches - Expensive more than $100*Watches - Inexpensive $100 or less	Denied	0.0	Deny
 120391	2008040942242	2008-03-27 00:00:00	2008-03-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.71	Other	Settled	70.36	Settle
-121217	2008042142946	2008-04-11 00:00:00	2008-03-23 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	681.0	Watches & Jewelry	Denied	0.0	Deny
-124701	2008063046403	2008-06-26 00:00:00	2008-06-07 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	862.02	Electronics,Other	Denied	0.0	Deny
+121217	2008042142946	2008-04-11 00:00:00	2008-03-23 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	681.0	Jewelry - Fine	Denied	0.0	Deny
+124701	2008063046403	2008-06-26 00:00:00	2008-06-07 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	862.02	GPS - Global Positioning System*Other	Denied	0.0	Deny
 127594	2008073147776	2008-08-29 00:00:00	2008-07-01 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Denied	0.0	Deny
-127780	2008090849611	2008-09-03 00:00:00	2008-07-16 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Watches & Jewelry	Denied	0.0	Deny
-142509	2009102064540	2009-10-08 00:00:00	2009-09-27 13:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	1142.0	Electronics	Denied	0.0	Deny
+127780	2008090849611	2008-09-03 00:00:00	2008-07-16 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Watches - Expensive more than $100	Denied	0.0	Deny
+142509	2009102064540	2009-10-08 00:00:00	2009-09-27 13:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage	1142.0	Cameras - Digital	Denied	0.0	Deny
 147059	2010032469955	2010-03-26 00:00:00	2010-02-26 10:39:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint		Food & Drink		0.0	Deny
-148888	2010052772190	2010-05-20 00:00:00	2010-04-29 14:45:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-153340	2010100676732	2010-09-30 00:00:00	2010-09-24 09:55:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
-155296	2010121078711	2010-12-03 00:00:00	2010-11-18 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-155768	2011010879335	2010-12-20 00:00:00	2010-12-08 17:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-158012	2011033081511	2011-03-03 00:00:00	2011-02-05 11:55:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-162843	2011082486395	2011-08-08 00:00:00	2011-07-28 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Cosmetics,Other		0.0	Deny
-164056	2011101187678	2011-09-19 00:00:00	2011-07-28 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint		Watches & Jewelry,Scientific Intruments		0.0	Deny
-164075	2011101187700	2011-09-19 00:00:00	2011-08-11 05:45:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-164218	2011101287764	2011-09-23 00:00:00	2011-06-10 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		200.0	Approve in Full
-164991	2011111588983	2011-10-19 00:00:00	2010-11-05 00:00:00	CRP	Corpus Christi International	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics,Cosmetics,Watches & Jewelry		0.0	Deny
-169062	2012040692633	2012-03-08 00:00:00	2012-02-19 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+148888	2010052772190	2010-05-20 00:00:00	2010-04-29 14:45:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+153340	2010100676732	2010-09-30 00:00:00	2010-09-24 09:55:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Cameras*Other		0.0	Deny
+155296	2010121078711	2010-12-03 00:00:00	2010-11-18 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
+155768	2011010879335	2010-12-20 00:00:00	2010-12-08 17:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
+158012	2011033081511	2011-03-03 00:00:00	2011-02-05 11:55:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+162843	2011082486395	2011-08-08 00:00:00	2011-07-28 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cameras*Cosmetics & Grooming*Other		0.0	Deny
+164056	2011101187678	2011-09-19 00:00:00	2011-07-28 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint		Jewelry & Watches*Medical/Science		0.0	Deny
+164075	2011101187700	2011-09-19 00:00:00	2011-08-11 05:45:00	CRP	Corpus Christi International		Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
+164218	2011101287764	2011-09-23 00:00:00	2011-06-10 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		200.0	Approve in Full
+164991	2011111588983	2011-10-19 00:00:00	2010-11-05 00:00:00	CRP	Corpus Christi International	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Clothing*Computer & Accessories*Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+169062	2012040692633	2012-03-08 00:00:00	2012-02-19 00:00:00	CRP	Corpus Christi International	Continental Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
 170926	2012061494808	2012-05-14 00:00:00	2012-04-12 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-173301	2012092197033	2012-08-08 00:00:00	2012-07-03 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		20.0	Approve in Full
-175703	2013010399471	2012-11-05 00:00:00	2012-09-20 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-180198	2013051403646	2013-04-26 00:00:00	2013-01-27 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-181708	2013080605710	2013-06-20 00:00:00	2013-05-02 15:30:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage		Electronics		72.9	Settle
-188542	2014031012319	2014-03-05 00:00:00	2013-12-01 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-188694	2014031412479	2014-03-13 00:00:00	2014-01-22 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-192700	2014091516570	2014-08-29 00:00:00	2014-08-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-196927	2015012620142	2015-01-26 00:00:00	2014-12-13 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-196929	2015040321738	2015-04-02 00:00:00	2015-04-01 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		0.0	Deny
-196933	2015112527135	2015-11-12 00:00:00	2015-10-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-205584	2016031729854	2016-02-25 00:00:00	2016-02-21 00:00:00	CRP	Corpus Christi International Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Electronics			Closed:Canceled
-205585	2016031429720	2016-03-14 00:00:00	2016-02-21 00:00:00	CRP	Corpus Christi International Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Electronics			Closed:Canceled
+173301	2012092197033	2012-08-08 00:00:00	2012-07-03 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		20.0	Approve in Full
+175703	2013010399471	2012-11-05 00:00:00	2012-09-20 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+180198	2013051403646	2013-04-26 00:00:00	2013-01-27 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+181708	2013080605710	2013-06-20 00:00:00	2013-05-02 15:30:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage		Computer & Accessories		72.9	Settle
+188542	2014031012319	2014-03-05 00:00:00	2013-12-01 00:00:00	CRP	Corpus Christi International	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+188694	2014031412479	2014-03-13 00:00:00	2014-01-22 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
+192700	2014091516570	2014-08-29 00:00:00	2014-08-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+196927	2015012620142	2015-01-26 00:00:00	2014-12-13 00:00:00	CRP	Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+196929	2015040321738	2015-04-02 00:00:00	2015-04-01 00:00:00	CRP	Corpus Christi International		Passenger Property Loss	Checked Baggage		Clothing*Clothing		0.0	Deny
+196933	2015112527135	2015-11-12 00:00:00	2015-10-24 00:00:00	CRP	Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+205584	2016031729854	2016-02-25 00:00:00	2016-02-21 00:00:00	CRP	Corpus Christi International Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics			Closed:Canceled
+205585	2016031429720	2016-03-14 00:00:00	2016-02-21 00:00:00	CRP	Corpus Christi International Corpus Christi International	UAL	Passenger Property Loss	Checked Baggage		Personal Navigation			Closed:Canceled
 213776	2017071741592	2017-06-08 00:00:00	2017-05-29 00:00:00	CRP	Corpus Christi International Corpus Christi International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items			In Review

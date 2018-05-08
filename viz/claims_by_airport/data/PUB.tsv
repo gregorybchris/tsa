@@ -1,8 +1,8 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-86814	2006061508071	2006-06-14 00:00:00	2006-05-07 00:00:00	PUB	Pueblo Memorial	Allegiant Air	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-97542	2008011137805	2007-01-07 00:00:00	2007-12-20 00:00:00	PUB	Pueblo Memorial	Frontier Airlines	Passenger Property Loss	Checked Baggage	34.99	Cosmetics	Approved	34.99	Approve in Full
-154121	2010110377557	2010-10-25 00:00:00	2010-10-10 18:00:00	PUB	Pueblo Memorial	Allegiant Air	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-154367	2010111577815	2010-11-02 00:00:00	2010-10-03 22:30:00	PUB	Pueblo Memorial		Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-172405	2012082296132	2012-07-10 00:00:00	2012-04-05 10:15:00	PUB	Pueblo Memorial	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Other,Watches & Jewelry		0.0	Deny
-211169	2016100534393	2016-09-22 00:00:00	2016-09-19 00:00:00	PUB	Pueblo Memorial Pueblo Memorial	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219426	2017051939783	2017-03-31 00:00:00	2017-02-17 00:00:00	PUB	Pueblo Memorial Pueblo Memorial	Swift Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+86814	2006061508071	2006-06-14 00:00:00	2006-05-07 00:00:00	PUB	Pueblo Memorial	Allegiant Air	Passenger Property Loss	Checked Baggage	30.0	Currency	Denied	0.0	Deny
+97542	2008011137805	2007-01-07 00:00:00	2007-12-20 00:00:00	PUB	Pueblo Memorial	Frontier Airlines	Passenger Property Loss	Checked Baggage	34.99	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	34.99	Approve in Full
+154121	2010110377557	2010-10-25 00:00:00	2010-10-10 18:00:00	PUB	Pueblo Memorial	Allegiant Air	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+154367	2010111577815	2010-11-02 00:00:00	2010-10-03 22:30:00	PUB	Pueblo Memorial		Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+172405	2012082296132	2012-07-10 00:00:00	2012-04-05 10:15:00	PUB	Pueblo Memorial	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Currency*Jewelry & Watches		0.0	Deny
+211169	2016100534393	2016-09-22 00:00:00	2016-09-19 00:00:00	PUB	Pueblo Memorial Pueblo Memorial	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+219426	2017051939783	2017-03-31 00:00:00	2017-02-17 00:00:00	PUB	Pueblo Memorial Pueblo Memorial	Swift Air	Passenger Property Loss	Checked Baggage		Clothing			In Review

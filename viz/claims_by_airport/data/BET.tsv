@@ -1,5 +1,5 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 79481	2006013100649	2006-01-24 00:00:00	2005-10-01 00:00:00	BET	Bethel Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	224.4	Other	Denied	0.0	Deny
 104289	2007051725541	2007-05-15 00:00:00	2007-05-04 00:00:00	BET	Bethel Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	24.95	Other	Approved	24.95	Approve in Full
-106107	2007062227389	2007-06-20 00:00:00	2007-06-18 00:00:00	BET	Bethel Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	989.0	Containers,Cosmetics	Denied	0.0	Deny
-116586	2008012238275	2008-01-10 00:00:00	2007-12-29 00:00:00	BET	Bethel Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	129.88	Food & Drink,Household Decor,Containers	Settled	54.64	Settle
+106107	2007062227389	2007-06-20 00:00:00	2007-06-18 00:00:00	BET	Bethel Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	989.0	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+116586	2008012238275	2008-01-10 00:00:00	2007-12-29 00:00:00	BET	Bethel Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	129.88	Alcoholic beverages*Lighting Supplies (globe domes, electric candlesticks, candelabra, etc.)*Luggage (all types including footlockers)	Settled	54.64	Settle

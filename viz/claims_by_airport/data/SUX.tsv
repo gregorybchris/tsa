@@ -1,15 +1,15 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-55582	2005021476114	2005-01-26 00:00:00	2005-01-02 00:00:00	SUX	Sioux Gateway		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Denied	0.0	Deny
-59926	2005033180724	2005-03-23 00:00:00	2004-10-01 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	2942.5	Watches & Jewelry	Denied	0.0	Deny
-68945	2005080890160	2005-07-26 00:00:00	2005-07-14 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	705.0	Electronics	Settled	287.38	Settle
+55582	2005021476114	2005-01-26 00:00:00	2005-01-02 00:00:00	SUX	Sioux Gateway		Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+59926	2005033180724	2005-03-23 00:00:00	2004-10-01 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	2942.5	Jewelry - Fine	Denied	0.0	Deny
+68945	2005080890160	2005-07-26 00:00:00	2005-07-14 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	705.0	Cameras - Digital	Settled	287.38	Settle
 80584	2006022101772	2006-02-13 00:00:00	2006-01-08 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	567.07	Other	Canceled	0.0	
-115054	2007121236446	2007-12-11 00:00:00	2007-11-29 00:00:00	SUX	Sioux Gateway	Frontier Airlines	Passenger Property Loss	Checked Baggage	224.0	Clothing & Accessories	Settled	112.0	Settle
-121772	2008042543406	2008-04-23 00:00:00	2008-04-17 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	111.96	Electronics,Electronics,Other	Canceled	0.0	
-122279	2008051244133	2008-05-02 00:00:00	2008-04-16 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	1314.4	Watches & Jewelry	Settled	1240.0	Settle
-123217	2008052844903	2008-05-23 00:00:00	2008-04-23 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	615.0	Clothing & Accessories,Other	Denied	0.0	Deny
-161370	2011063084835	2011-06-22 00:00:00	2011-06-05 00:00:00	SUX	Sioux Gateway	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-162415	2011072685496	2011-07-26 00:00:00	2011-07-26 00:00:00	SUX	Sioux Gateway		Passenger Property Loss	Checkpoint		Other			
-186860	2014010710584	2014-01-01 00:00:00	2013-12-18 00:00:00	SUX	Sioux Gateway	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-203918	2015111426871	2015-10-21 00:00:00	2015-10-19 00:00:00	SUX	Sioux Gateway	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Clothing & Accessories			
+115054	2007121236446	2007-12-11 00:00:00	2007-11-29 00:00:00	SUX	Sioux Gateway	Frontier Airlines	Passenger Property Loss	Checked Baggage	224.0	Eyeglasses - (including contact lenses)	Settled	112.0	Settle
+121772	2008042543406	2008-04-23 00:00:00	2008-04-17 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	111.96	Cameras - Digital*Cell Phones*Other	Canceled	0.0	
+122279	2008051244133	2008-05-02 00:00:00	2008-04-16 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	1314.4	Jewelry - Fine	Settled	1240.0	Settle
+123217	2008052844903	2008-05-23 00:00:00	2008-04-23 00:00:00	SUX	Sioux Gateway	Northwest Airlines	Passenger Property Loss	Checked Baggage	615.0	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+161370	2011063084835	2011-06-22 00:00:00	2011-06-05 00:00:00	SUX	Sioux Gateway	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+162415	2011072685496	2011-07-26 00:00:00	2011-07-26 00:00:00	SUX	Sioux Gateway		Passenger Property Loss	Checkpoint		Currency			
+186860	2014010710584	2014-01-01 00:00:00	2013-12-18 00:00:00	SUX	Sioux Gateway	American Airlines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+203918	2015111426871	2015-10-21 00:00:00	2015-10-19 00:00:00	SUX	Sioux Gateway	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Cosmetics & Grooming*Personal Accessories			
 212176	2016100534397	2016-08-22 00:00:00	2016-08-11 14:55:00	SUX	Sioux Gateway Sioux Gateway		Passenger Property Loss	Checkpoint		Other		298.69	Approve in Full
-212177	2016092033635	2016-07-25 00:00:00	2016-07-08 06:05:00	SUX	Sioux Gateway Sioux Gateway	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+212177	2016092033635	2016-07-25 00:00:00	2016-07-08 06:05:00	SUX	Sioux Gateway Sioux Gateway	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			In Review

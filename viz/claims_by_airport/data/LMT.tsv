@@ -1,9 +1,9 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-44086	2004101465039	2004-09-09 00:00:00	2004-08-29 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	279.99	Watches & Jewelry	Approved	279.99	Approve in Full
-44796	2004092263429	2004-09-14 00:00:00	2004-08-30 00:00:00	LMT	Klamath Falls Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Settled	250.0	Settle
-54487	2005013175032	2005-01-14 00:00:00	2004-12-25 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	42.0	Other	Approved	42.0	Approve in Full
+44086	2004101465039	2004-09-09 00:00:00	2004-08-29 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	279.99	Jewelry - Fine	Approved	279.99	Approve in Full
+44796	2004092263429	2004-09-14 00:00:00	2004-08-30 00:00:00	LMT	Klamath Falls Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	500.0	Cameras - Digital	Settled	250.0	Settle
+54487	2005013175032	2005-01-14 00:00:00	2004-12-25 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	42.0	Currency	Approved	42.0	Approve in Full
 56324	2005030776990	2005-02-03 00:00:00	2005-01-23 00:00:00	LMT	Klamath Falls Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	146.3	Other	Approved	146.3	Approve in Full
-74084	2005102595165	2005-10-18 00:00:00	2005-09-24 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checkpoint	475.0	Clothing & Accessories	Settled	427.5	Settle
-92256	2006100213521	2006-09-28 00:00:00	2006-09-26 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	359.95	Clothing & Accessories	Approved	359.95	Approve in Full
-94889	2006112416188	2006-11-20 00:00:00	2006-11-19 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	486.0	Other,Other	Denied	0.0	Deny
-140084	2009073162100	2009-07-29 00:00:00	2009-07-15 00:00:00	LMT	Klamath Falls Airport	UAL	Passenger Property Loss	Checked Baggage	39.13	Tools & Machines,Containers	Denied	0.0	Deny
+74084	2005102595165	2005-10-18 00:00:00	2005-09-24 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checkpoint	475.0	Eyeglasses - (including contact lenses)	Settled	427.5	Settle
+92256	2006100213521	2006-09-28 00:00:00	2006-09-26 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	359.95	Eyeglasses - (including contact lenses)	Approved	359.95	Approve in Full
+94889	2006112416188	2006-11-20 00:00:00	2006-11-19 00:00:00	LMT	Klamath Falls Airport	Horizon Air	Passenger Property Loss	Checked Baggage	486.0	Currency*Other	Denied	0.0	Deny
+140084	2009073162100	2009-07-29 00:00:00	2009-07-15 00:00:00	LMT	Klamath Falls Airport	UAL	Passenger Property Loss	Checked Baggage	39.13	Barber Supplies - Scissors, shears, elecric razors, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny

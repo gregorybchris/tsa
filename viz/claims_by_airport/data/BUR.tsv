@@ -1,401 +1,401 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-380	28375	2002-11-25 00:00:00	2002-11-09 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	48.0	Clothing & Accessories	Approved	48.0	Approve in Full
+380	28375	2002-11-25 00:00:00	2002-11-09 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	48.0	Clothing - Shoes, belts, accessories, etc.	Approved	48.0	Approve in Full
 707	20977	2002-12-16 00:00:00	2002-11-02 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checkpoint	135.0	Other	Approved	135.0	Approve in Full
-1763	0617611L	2003-01-22 00:00:00	2003-01-04 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	210.0	Electronics	Settled	105.0	Settle
-2090	0131018L	2003-01-31 00:00:00	2002-12-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	238.58	Watches & Jewelry	Approved	239.0	Approve in Full
-2696	0221010L	2003-02-21 00:00:00		BUR	Bob Hope		Passenger Property Loss	Checkpoint	377.16	Containers	Denied	0.0	Deny
+1763	0617611L	2003-01-22 00:00:00	2003-01-04 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	210.0	DVD/CD Players	Settled	105.0	Settle
+2090	0131018L	2003-01-31 00:00:00	2002-12-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	238.58	Jewelry - Fine	Approved	239.0	Approve in Full
+2696	0221010L	2003-02-21 00:00:00		BUR	Bob Hope		Passenger Property Loss	Checkpoint	377.16	Luggage (all types including footlockers)	Denied	0.0	Deny
 2717	0221048L	2003-02-21 00:00:00	2003-01-11 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	65.0	Other	Settled	32.5	Settle
-4719	0408063L	2003-04-08 00:00:00	2003-03-30 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	20.0	Other	Approved	20.0	Approve in Full
-7303	0530011-L	2003-05-30 00:00:00	2003-05-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	16.0	Electronics	Canceled		
-9838	0701099M	2003-07-01 00:00:00	2003-06-17 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	80.0	Electronics	Settled	40.0	Settle
-10335	0708051M	2003-07-08 00:00:00	2003-06-19 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	292.25	Cosmetics	Settled	146.22	Settle
+4719	0408063L	2003-04-08 00:00:00	2003-03-30 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	20.0	Currency	Approved	20.0	Approve in Full
+7303	0530011-L	2003-05-30 00:00:00	2003-05-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	16.0	DVD/CD Players	Canceled		
+9838	0701099M	2003-07-01 00:00:00	2003-06-17 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	80.0	DVD/CD Players	Settled	40.0	Settle
+10335	0708051M	2003-07-08 00:00:00	2003-06-19 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	292.25	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	146.22	Settle
 11816	0728071M	2003-07-28 00:00:00	2003-06-29 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Settled	25.0	Settle
 12883	0811080M	2003-08-11 00:00:00	2003-06-12 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage	299.98	Other	Approved	299.98	Approve in Full
-12936	0811077M	2003-08-11 00:00:00	2003-06-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	338.46	Clothing & Accessories	Settled	169.23	Settle
-13880	0821055M	2003-08-21 00:00:00	2003-08-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	250.0	Other	Approved	250.0	Approve in Full
-14516	0826256M	2003-08-26 00:00:00	2003-07-24 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	637.53	Electronics	Settled	266.67	Settle
-14884	0903145M	2003-09-03 00:00:00	2003-07-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Canceled	0.0	
+12936	0811077M	2003-08-11 00:00:00	2003-06-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	338.46	Eyeglasses - (including contact lenses)	Settled	169.23	Settle
+13880	0821055M	2003-08-21 00:00:00	2003-08-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	250.0	Currency	Approved	250.0	Approve in Full
+14516	0826256M	2003-08-26 00:00:00	2003-07-24 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	637.53	Cameras - Digital	Settled	266.67	Settle
+14884	0903145M	2003-09-03 00:00:00	2003-07-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Jewelry - Fine	Canceled	0.0	
 16789	0925385M	2003-09-25 00:00:00	2003-09-15 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Settled	32.5	Settle
 19387	1105034M	2003-11-05 00:00:00	2003-10-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
-20591	1117403M	2003-11-17 00:00:00	2003-11-04 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	287.0	Electronics	Settled	30.0	Settle
+20591	1117403M	2003-11-17 00:00:00	2003-11-04 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	287.0	Cell Phones	Settled	30.0	Settle
 20913	1119249M	2003-11-19 00:00:00	2003-10-01 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	86.58	Other	Settled	43.29	Settle
-23305	1222197M	2003-12-22 00:00:00	2003-12-04 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	18050.0	Watches & Jewelry	Canceled	0.0	
-25616	0120142M	2004-01-20 00:00:00	2003-12-27 00:00:00	BUR	Bob Hope	Spirit Airlines	Passenger Property Loss	Checked Baggage	900.0	Other	Settled	700.0	Settle
-26111	0130128M	2004-01-30 00:00:00	2004-01-06 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	259.99	Watches & Jewelry	Settled	130.0	Settle
-29823	2004051050836	2004-03-10 00:00:00	2003-12-21 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	210.4	Clothing & Accessories	Denied	0.0	Deny
-30068	2004051150915	2004-03-11 00:00:00	2004-01-08 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.97	Watches & Jewelry	Denied	0.0	Deny
-30117	2004043050225	2004-03-11 00:00:00	2003-11-25 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	81.18	Clothing & Accessories	Settled	74.99	Settle
+23305	1222197M	2003-12-22 00:00:00	2003-12-04 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	18050.0	Jewelry - Fine	Canceled	0.0	
+25616	0120142M	2004-01-20 00:00:00	2003-12-27 00:00:00	BUR	Bob Hope	Spirit Airlines	Passenger Property Loss	Checked Baggage	900.0	Currency	Settled	700.0	Settle
+26111	0130128M	2004-01-30 00:00:00	2004-01-06 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	259.99	Jewelry - Fine	Settled	130.0	Settle
+29823	2004051050836	2004-03-10 00:00:00	2003-12-21 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	210.4	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+30068	2004051150915	2004-03-11 00:00:00	2004-01-08 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.97	Jewelry - Fine	Denied	0.0	Deny
+30117	2004043050225	2004-03-11 00:00:00	2003-11-25 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	81.18	Eyeglasses - (including contact lenses)	Settled	74.99	Settle
 30943	2004051351605	2004-03-22 00:00:00	2004-03-14 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	19.95	Other	Approved	19.95	Approve in Full
 31349	2004050650648	2004-03-24 00:00:00	2004-02-08 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	21.5	Other	Settled	11.0	Settle
-32085	2004051852825	2004-04-05 00:00:00	2004-03-14 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	910.0	Clothing & Accessories	Denied	0.0	Deny
+32085	2004051852825	2004-04-05 00:00:00	2004-03-14 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	910.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 32327	2004091763146	2004-04-07 00:00:00	2004-03-15 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Other	Canceled		
 33081	2004052753696	2004-04-21 00:00:00	2004-03-26 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	190.0	Other	Denied	0.0	Deny
-35667	2004062156505	2004-05-19 00:00:00	2004-04-23 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	1650.0	Watches & Jewelry	Denied	0.0	Deny
-35984	2004062156557	2004-05-27 00:00:00	2004-04-20 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Approved	200.0	Approve in Full
-36520	2004062256839	2004-05-28 00:00:00	2004-05-17 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	324.9	Electronics	Approved	324.96	Approve in Full
-36642	2004062357136	2004-05-28 00:00:00	2004-04-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	516.5	Containers	Settled	364.0	Settle
+35667	2004062156505	2004-05-19 00:00:00	2004-04-23 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	1650.0	Jewelry - Fine	Denied	0.0	Deny
+35984	2004062156557	2004-05-27 00:00:00	2004-04-20 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Eyeglasses - (including contact lenses)	Approved	200.0	Approve in Full
+36520	2004062256839	2004-05-28 00:00:00	2004-05-17 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	324.9	Cameras - Digital	Approved	324.96	Approve in Full
+36642	2004062357136	2004-05-28 00:00:00	2004-04-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	516.5	Luggage (all types including footlockers)	Settled	364.0	Settle
 36690	2004062457246	2004-06-02 00:00:00	2004-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-39194	2004071659641	2004-07-06 00:00:00	2004-06-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Watches & Jewelry	Denied	0.0	Deny
+39194	2004071659641	2004-07-06 00:00:00	2004-06-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Jewelry - Fine	Denied	0.0	Deny
 42666	2004092463812	2004-08-16 00:00:00	2004-07-16 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	32.46	Other	Approved	32.46	Approve in Full
-43080	2004100464405	2004-08-24 00:00:00	2004-08-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.97	Cosmetics	Approved	37.97	Approve in Full
-43830	2004101364871	2004-08-31 00:00:00	2004-08-20 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	350.0	Watches & Jewelry	Settled	175.0	Settle
+43080	2004100464405	2004-08-24 00:00:00	2004-08-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.97	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	37.97	Approve in Full
+43830	2004101364871	2004-08-31 00:00:00	2004-08-20 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	350.0	Jewelry - Fine	Settled	175.0	Settle
 44016	2004090962532	2004-09-08 00:00:00	2004-03-07 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	500.0	Other	Canceled	0.0	
 44037	2005071588996	2004-09-08 00:00:00	2004-03-07 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	500.0	Other	Settled	450.0	Settle
-45038	2004091763142	2004-09-16 00:00:00	2004-07-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	4495.0	Watches & Jewelry	Denied	4495.0	Deny
-46961	2004112767858	2004-10-08 00:00:00	2004-09-27 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
-47970	2004120768704	2004-10-20 00:00:00	2004-07-23 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry	Settled	479.15	Settle
+45038	2004091763142	2004-09-16 00:00:00	2004-07-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	4495.0	Jewelry - Fine	Denied	4495.0	Deny
+46961	2004112767858	2004-10-08 00:00:00	2004-09-27 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+47970	2004120768704	2004-10-20 00:00:00	2004-07-23 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	800.0	Jewelry - Fine	Settled	479.15	Settle
 48163	2004120868871	2004-10-25 00:00:00	2004-08-31 00:00:00	BUR	Bob Hope	American West	Passenger Property Loss	Checked Baggage	156.96	Other	Denied	0.0	Deny
 50265	2005010773193	2004-11-18 00:00:00	2004-06-09 00:00:00	BUR	Bob Hope	American West	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
-51733	2005010572851	2004-12-10 00:00:00	2004-08-30 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	108.2	Electronics	Denied		Deny
+51733	2005010572851	2004-12-10 00:00:00	2004-08-30 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	108.2	Cameras - Digital	Denied		Deny
 53110	2005012173828	2004-12-28 00:00:00	2004-12-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
-53404	2005012574220	2005-01-04 00:00:00	2004-11-26 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
-54849	2005020375537	2005-01-19 00:00:00	2005-01-03 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	4.5	Tools & Machines	Approved	4.5	Approve in Full
+53404	2005012574220	2005-01-04 00:00:00	2004-11-26 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Approved	30.0	Approve in Full
+54849	2005020375537	2005-01-19 00:00:00	2005-01-03 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	4.5	Locks	Approved	4.5	Approve in Full
 54999	2005020475700	2005-01-19 00:00:00	2004-12-18 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	243.01	Other	Denied		Deny
-55377	2005021776383	2005-01-24 00:00:00	2005-01-04 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	814.34	Clothing & Accessories	Denied	0.0	Deny
-56066	2005031077592	2005-02-01 00:00:00	2005-01-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.0	Clothing & Accessories	Approved	99.0	Approve in Full
-56160	2005030777054	2005-02-01 00:00:00	2005-01-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Clothing & Accessories	Denied	0.0	Deny
-57497	2005031578333	2005-02-16 00:00:00		BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-58217	2005032279080	2005-03-03 00:00:00	2005-01-25 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	100.0	Cosmetics	Approved	100.0	Approve in Full
-59067	2005033180649	2005-03-09 00:00:00	2005-02-27 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	189.97	Electronics	Denied		Deny
-60122	2005032579897	2005-03-25 00:00:00	2005-03-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	5200.0	Watches & Jewelry	Denied	0.0	Deny
-60429	2005040481349	2005-03-30 00:00:00	2005-03-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.73	Tools & Machines	Approved	21.73	Approve in Full
-60739	2005040681675	2005-04-04 00:00:00	2005-03-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.5	Clothing & Accessories	Denied	0.0	Deny
-61864	2005041982793	2005-04-18 00:00:00	2005-03-31 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	14.95	Tools & Machines	Approved	14.95	Approve in Full
-62740	2005050383868	2005-04-28 00:00:00	2005-04-15 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	21.7	Tools & Machines	Approved	21.7	Approve in Full
-63005	2005050383957	2005-05-02 00:00:00	2005-04-20 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	41.71	Watches & Jewelry	Denied	0.0	Deny
-63728	2005051384665	2005-05-12 00:00:00	2005-05-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	50.0	Watches & Jewelry	Approved	50.0	Approve in Full
+55377	2005021776383	2005-01-24 00:00:00	2005-01-04 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	814.34	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+56066	2005031077592	2005-02-01 00:00:00	2005-01-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.0	Clothing - Shoes, belts, accessories, etc.	Approved	99.0	Approve in Full
+56160	2005030777054	2005-02-01 00:00:00	2005-01-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+57497	2005031578333	2005-02-16 00:00:00		BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+58217	2005032279080	2005-03-03 00:00:00	2005-01-25 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	100.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	100.0	Approve in Full
+59067	2005033180649	2005-03-09 00:00:00	2005-02-27 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	189.97	Cell Phones	Denied		Deny
+60122	2005032579897	2005-03-25 00:00:00	2005-03-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	5200.0	Jewelry - Fine	Denied	0.0	Deny
+60429	2005040481349	2005-03-30 00:00:00	2005-03-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.73	Locks	Approved	21.73	Approve in Full
+60739	2005040681675	2005-04-04 00:00:00	2005-03-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.5	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+61864	2005041982793	2005-04-18 00:00:00	2005-03-31 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	14.95	Locks	Approved	14.95	Approve in Full
+62740	2005050383868	2005-04-28 00:00:00	2005-04-15 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	21.7	Locks	Approved	21.7	Approve in Full
+63005	2005050383957	2005-05-02 00:00:00	2005-04-20 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	41.71	Jewelry - Fine	Denied	0.0	Deny
+63728	2005051384665	2005-05-12 00:00:00	2005-05-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	50.0	Jewelry - Fine	Approved	50.0	Approve in Full
 66588	2005062887658	2005-06-21 00:00:00	2005-06-14 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	299.99	Other	Approved	299.99	Approve in Full
 66950	2005070188022	2005-06-27 00:00:00	2005-05-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.99	Other	Denied	0.0	Deny
-67536	2005071188596	2005-07-06 00:00:00	2005-06-25 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checkpoint	9560.0	Watches & Jewelry	Denied	0.0	Deny
-68097	2005071588993	2005-07-14 00:00:00	2005-06-01 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checkpoint	220.0	Watches & Jewelry	Denied	0.0	Deny
-69157	2005080990268	2005-08-01 00:00:00	2005-07-17 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	15.0	Clothing & Accessories	Approved	15.0	Approve in Full
-69210	2005081090328	2005-08-01 00:00:00	2005-05-30 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-69683	2005081890800	2005-08-08 00:00:00	2005-07-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.73	Tools & Machines	Approved	9.73	Approve in Full
-69844	2005081990926	2005-08-09 00:00:00	2005-07-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	96.0	Clothing & Accessories	Denied	0.0	Deny
-69954	2005081590533	2005-08-11 00:00:00	2005-08-02 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	2015.0	Watches & Jewelry	Canceled	0.0	
-69968	2005082291114	2005-08-11 00:00:00	2005-08-03 00:00:00	BUR	Bob Hope	American West	Passenger Property Loss	Checkpoint	159.6	Clothing & Accessories	Denied	0.0	Deny
-70843	2005083091897	2005-08-25 00:00:00	2005-08-12 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Denied	0.0	Deny
+67536	2005071188596	2005-07-06 00:00:00	2005-06-25 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checkpoint	9560.0	Jewelry - Fine	Denied	0.0	Deny
+68097	2005071588993	2005-07-14 00:00:00	2005-06-01 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checkpoint	220.0	Jewelry - Fine	Denied	0.0	Deny
+69157	2005080990268	2005-08-01 00:00:00	2005-07-17 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	15.0	Clothing - Shoes, belts, accessories, etc.	Approved	15.0	Approve in Full
+69210	2005081090328	2005-08-01 00:00:00	2005-05-30 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Locks	Denied	0.0	Deny
+69683	2005081890800	2005-08-08 00:00:00	2005-07-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.73	Locks	Approved	9.73	Approve in Full
+69844	2005081990926	2005-08-09 00:00:00	2005-07-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	96.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+69954	2005081590533	2005-08-11 00:00:00	2005-08-02 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	2015.0	Jewelry - Fine	Canceled	0.0	
+69968	2005082291114	2005-08-11 00:00:00	2005-08-03 00:00:00	BUR	Bob Hope	American West	Passenger Property Loss	Checkpoint	159.6	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+70843	2005083091897	2005-08-25 00:00:00	2005-08-12 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Locks	Denied	0.0	Deny
 72223	2005092993413	2005-09-19 00:00:00	2005-09-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	154.42	Other	Canceled	0.0	
 73622	2005101794705	2005-10-12 00:00:00	2005-08-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
-74009	2005102495093	2005-10-18 00:00:00	2005-06-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry	Denied	0.0	Deny
-74237	2005102895363	2005-10-21 00:00:00	2005-10-13 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage	595.35	Electronics	Denied	0.0	Deny
-74346	2005103195435	2005-10-25 00:00:00	2005-10-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Approved	250.0	Approve in Full
-74641	2005110895781	2005-10-28 00:00:00	2005-10-08 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	300.0	Watches & Jewelry	Denied	0.0	Deny
+74009	2005102495093	2005-10-18 00:00:00	2005-06-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Jewelry - Fine	Denied	0.0	Deny
+74237	2005102895363	2005-10-21 00:00:00	2005-10-13 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage	595.35	Cameras - Digital	Denied	0.0	Deny
+74346	2005103195435	2005-10-25 00:00:00	2005-10-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	250.0	Jewelry - Fine	Approved	250.0	Approve in Full
+74641	2005110895781	2005-10-28 00:00:00	2005-10-08 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	300.0	Jewelry - Fine	Denied	0.0	Deny
 75185	2005111896277	2005-11-09 00:00:00	2005-10-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	46.94	Other	Denied	0.0	Deny
-75588	2005112896631	2005-11-15 00:00:00	2005-11-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	173.19	Clothing & Accessories	Settled	86.6	Settle
-76397	2005120997427	2005-12-01 00:00:00	2005-04-14 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	165.0	Clothing & Accessories	Settled	115.5	Settle
-77397	2005122898481	2005-12-21 00:00:00	2005-12-13 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	188.74	Electronics	Denied	0.0	Deny
-77606	2006010398667	2005-12-24 00:00:00	2005-12-20 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	900.0	Other	Denied	0.0	Deny
-77815	2006010598926	2005-12-29 00:00:00	2005-10-04 00:00:00	BUR	Bob Hope	Delta (Song)	Passenger Property Loss	Checkpoint	2750.0	Watches & Jewelry	Denied	0.0	Deny
-78311	2006011199328	2006-01-09 00:00:00	2006-01-02 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	190.0	Watches & Jewelry	Canceled	0.0	
+75588	2005112896631	2005-11-15 00:00:00	2005-11-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	173.19	Clothing - Shoes, belts, accessories, etc.	Settled	86.6	Settle
+76397	2005120997427	2005-12-01 00:00:00	2005-04-14 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	165.0	Clothing - Shoes, belts, accessories, etc.	Settled	115.5	Settle
+77397	2005122898481	2005-12-21 00:00:00	2005-12-13 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	188.74	Cameras - Digital	Denied	0.0	Deny
+77606	2006010398667	2005-12-24 00:00:00	2005-12-20 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	900.0	Currency	Denied	0.0	Deny
+77815	2006010598926	2005-12-29 00:00:00	2005-10-04 00:00:00	BUR	Bob Hope	Delta (Song)	Passenger Property Loss	Checkpoint	2750.0	Jewelry - Fine	Denied	0.0	Deny
+78311	2006011199328	2006-01-09 00:00:00	2006-01-02 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	190.0	Jewelry - Fine	Canceled	0.0	
 78336	2006011299493	2006-01-09 00:00:00	2005-12-25 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	250.0	Other	Denied	0.0	Deny
-78957	2006012400182	2006-01-18 00:00:00	2006-01-12 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	100.0	Electronics	Approved	100.0	Approve in Full
-80177	2006021001332	2006-02-07 00:00:00	2006-01-26 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	470.0	Clothing & Accessories	Approved	470.0	Approve in Full
-80264	2006021001349	2006-02-07 00:00:00	2006-01-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
+78957	2006012400182	2006-01-18 00:00:00	2006-01-12 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	100.0	Cameras - Digital	Approved	100.0	Approve in Full
+80177	2006021001332	2006-02-07 00:00:00	2006-01-26 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	470.0	Eyeglasses - (including contact lenses)	Approved	470.0	Approve in Full
+80264	2006021001349	2006-02-07 00:00:00	2006-01-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
 80547	2006021601662	2006-02-10 00:00:00	2006-01-19 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	76.55	Other	Settled	38.28	Settle
 80693	2006022201871	2006-02-14 00:00:00	2006-02-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1082.72	Other	Denied	0.0	Deny
-81570	2006030802746	2006-03-03 00:00:00	2005-12-19 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	66.77	Clothing & Accessories	Approved	66.77	Approve in Full
-81976	2006031503118	2006-03-09 00:00:00	2006-02-23 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Settled	50.0	Settle
-83343	2006041404512	2006-04-04 00:00:00	2005-09-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	81.59	Electronics	Denied	0.0	Deny
+81570	2006030802746	2006-03-03 00:00:00	2005-12-19 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	66.77	Clothing - Shoes, belts, accessories, etc.	Approved	66.77	Approve in Full
+81976	2006031503118	2006-03-09 00:00:00	2006-02-23 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing - Shoes, belts, accessories, etc.	Settled	50.0	Settle
+83343	2006041404512	2006-04-04 00:00:00	2005-09-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	81.59	Cell Phones	Denied	0.0	Deny
 83866	2006042505189	2006-04-14 00:00:00	2006-04-09 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	280.31	Other	Denied	0.0	Deny
-83897	2006042405122	2006-04-17 00:00:00	2006-03-20 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	48.25	Clothing & Accessories	Approved	48.25	Approve in Full
-84238	2006050105521	2006-04-24 00:00:00	2006-03-12 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	135.0	Cosmetics	Denied	0.0	Deny
-84386	2006050105555	2006-04-26 00:00:00	2006-04-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.61	Tools & Machines	Approved	37.61	Approve in Full
-84392	2006050105467	2006-04-26 00:00:00	2006-04-07 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	970.0	Electronics	Denied	0.0	Deny
-84749	2006051206153	2006-05-02 00:00:00	2006-04-20 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	517.99	Other,Electronics	Settled	259.0	Settle
-85099	2006051506337	2006-05-10 00:00:00	2005-10-30 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	99.99	Electronics	Denied	0.0	Deny
-85736	2006052506980	2006-05-23 00:00:00	2006-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	23.57	Automobile & Mechanical,Outdoors Supplies	Denied	0.0	Deny
-85851	2006053107099	2006-05-25 00:00:00	2006-04-29 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	979.98	Electronics	Denied	0.0	Deny
-85871	2006053107100	2006-05-25 00:00:00	2006-05-06 00:00:00	BUR	Bob Hope	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Settled	60.0	Settle
+83897	2006042405122	2006-04-17 00:00:00	2006-03-20 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	48.25	Clothing - Shoes, belts, accessories, etc.	Approved	48.25	Approve in Full
+84238	2006050105521	2006-04-24 00:00:00	2006-03-12 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	135.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+84386	2006050105555	2006-04-26 00:00:00	2006-04-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.61	Locks	Approved	37.61	Approve in Full
+84392	2006050105467	2006-04-26 00:00:00	2006-04-07 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	970.0	Computer - Laptop	Denied	0.0	Deny
+84749	2006051206153	2006-05-02 00:00:00	2006-04-20 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	517.99	Currency*MP3 Players-(iPods, etc)	Settled	259.0	Settle
+85099	2006051506337	2006-05-10 00:00:00	2005-10-30 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint	99.99	Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)	Denied	0.0	Deny
+85736	2006052506980	2006-05-23 00:00:00	2006-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	23.57	Bicycles*Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+85851	2006053107099	2006-05-25 00:00:00	2006-04-29 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	979.98	Cameras - Digital	Denied	0.0	Deny
+85871	2006053107100	2006-05-25 00:00:00	2006-05-06 00:00:00	BUR	Bob Hope	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Settled	60.0	Settle
 85912	2006060207274	2006-05-30 00:00:00	2006-05-17 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
 86104	2006060207244	2006-06-01 00:00:00	2006-05-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	743.6	Other	Approved	743.6	Approve in Full
-86382	2006060807609	2006-06-06 00:00:00	2006-01-23 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	970.93	Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-86793	2006061508024	2006-06-14 00:00:00	2006-05-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	229.0	Clothing & Accessories	Denied	0.0	Deny
-86954	2006062008219	2006-06-16 00:00:00	2006-04-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	979.98	Electronics	Denied	0.0	Deny
-88101	2006071309451	2006-07-10 00:00:00	2006-06-19 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	1348.34	Electronics	Denied	0.0	Deny
-88178	2006071209334	2006-07-11 00:00:00	2006-06-05 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	500.0	Electronics,Other	Denied	0.0	Deny
-88519	2006072510003	2006-07-17 00:00:00	2006-05-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.98	Clothing & Accessories	Denied	0.0	Deny
+86382	2006060807609	2006-06-06 00:00:00	2006-01-23 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	970.93	Clothing - Shoes, belts, accessories, etc.*Jewelry - Costume	Denied	0.0	Deny
+86793	2006061508024	2006-06-14 00:00:00	2006-05-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	229.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+86954	2006062008219	2006-06-16 00:00:00	2006-04-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	979.98	Cameras - Digital	Denied	0.0	Deny
+88101	2006071309451	2006-07-10 00:00:00	2006-06-19 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	1348.34	Cameras - Digital	Denied	0.0	Deny
+88178	2006071209334	2006-07-11 00:00:00	2006-06-05 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	500.0	Calculators - Adding machines, hand calculators, etc.*Other	Denied	0.0	Deny
+88519	2006072510003	2006-07-17 00:00:00	2006-05-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	99.98	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 89483	2006081110900	2006-08-07 00:00:00	2006-06-08 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.38	Other	Approved	12.38	Approve in Full
-91045	2006091212419	2006-09-05 00:00:00	2006-08-11 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	785.0	Electronics,Electronics,Electronics	Denied	0.0	Deny
-91593	2006091812776	2006-09-14 00:00:00	2006-09-29 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	254.39	Clothing & Accessories	Settled	127.2	Settle
+91045	2006091212419	2006-09-05 00:00:00	2006-08-11 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	785.0	Cameras - Digital*Cell Phones*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+91593	2006091812776	2006-09-14 00:00:00	2006-09-29 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	254.39	Clothing - Shoes, belts, accessories, etc.	Settled	127.2	Settle
 92929	2006101814152	2006-10-12 00:00:00	2006-09-25 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-93222	2006102614570	2006-10-17 00:00:00	2006-10-15 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	3500.0	Electronics	Denied	0.0	Deny
-93469	2006102714746	2006-10-23 00:00:00	2006-10-08 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+93222	2006102614570	2006-10-17 00:00:00	2006-10-15 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	3500.0	Computer - Laptop	Denied	0.0	Deny
+93469	2006102714746	2006-10-23 00:00:00	2006-10-08 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	25.0	Currency	Approved	25.0	Approve in Full
 94354	2006111515595	2006-11-09 00:00:00	2006-10-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Other	Approved	80.0	Approve in Full
-94396	2006111515685	2006-11-09 00:00:00	2006-11-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	356.72	Electronics	Denied	0.0	Deny
-94999	2006112816299	2006-11-21 00:00:00	2006-09-10 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	2600.0	Containers,Cosmetics,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-95124	2006113016469	2006-11-24 00:00:00	2006-01-03 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	169.94	Electronics,Electronics	Denied	0.0	Deny
+94396	2006111515685	2006-11-09 00:00:00	2006-11-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	356.72	Cameras - Digital	Denied	0.0	Deny
+94999	2006112816299	2006-11-21 00:00:00	2006-09-10 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	2600.0	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Eyeglasses - (including contact lenses)*Jewelry - Fine	Denied	0.0	Deny
+95124	2006113016469	2006-11-24 00:00:00	2006-01-03 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	169.94	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
 95555	2006120716805	2006-12-01 00:00:00	2006-11-12 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.62	Other	Settled	16.31	Settle
-95618	2006122017455	2006-12-04 00:00:00	2006-11-17 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	503.94	Electronics,Electronics,Other,Electronics	Denied	0.0	Deny
-95960	2006121817353	2006-12-11 00:00:00	2006-12-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Canceled	0.0	
-96057	2006122217792	2006-12-12 00:00:00	2006-09-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	250.18	Clothing & Accessories	Approved	250.18	Approve in Full
-96328	2006122117628	2006-12-18 00:00:00	2006-09-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	243.73	Electronics	Denied	0.0	Deny
-96432	2006122117669	2006-12-19 00:00:00	2006-09-18 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	6988.29	Weapons & Knives	Denied	0.0	Deny
-96957	2006122718021	1996-12-26 00:00:00	2006-12-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1120.0	Other,Other	Denied	0.0	Deny
-96969	2008010237112		2007-12-17 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	7.5	Tools & Machines	Denied	0.0	Deny
-97521	2007010918522	2007-01-05 00:00:00	2006-12-30 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	200.0	Electronics	Settled	40.0	Settle
-97839	2007121036316	2007-01-10 00:00:00	2006-11-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Canceled	0.0	
-98432	2007012619601	2007-01-19 00:00:00	2007-01-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Denied	0.0	Deny
-98443	2007012919701	2007-01-19 00:00:00	2007-01-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Denied	0.0	Deny
-98547	2007012519461	2007-01-23 00:00:00	2007-01-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	48.49	Tools & Machines	Approved	48.49	Approve in Full
-99283	2007020620301	2007-02-02 00:00:00	2006-12-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	202.0	Clothing & Accessories	Settled	101.0	Settle
+95618	2006122017455	2006-12-04 00:00:00	2006-11-17 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	503.94	Audio - Other (Phonograph, cassettes, etc)*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other*Video Recordings (blank & commercial)	Denied	0.0	Deny
+95960	2006121817353	2006-12-11 00:00:00	2006-12-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Watches - Expensive more than $100	Canceled	0.0	
+96057	2006122217792	2006-12-12 00:00:00	2006-09-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	250.18	Eyeglasses - (including contact lenses)	Approved	250.18	Approve in Full
+96328	2006122117628	2006-12-18 00:00:00	2006-09-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	243.73	Cameras - Digital	Denied	0.0	Deny
+96432	2006122117669	2006-12-19 00:00:00	2006-09-18 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	6988.29	Firearms	Denied	0.0	Deny
+96957	2006122718021	1996-12-26 00:00:00	2006-12-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1120.0	Currency*Other	Denied	0.0	Deny
+96969	2008010237112		2007-12-17 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	7.5	Locks	Denied	0.0	Deny
+97521	2007010918522	2007-01-05 00:00:00	2006-12-30 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	200.0	Cameras - Digital	Settled	40.0	Settle
+97839	2007121036316	2007-01-10 00:00:00	2006-11-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	3000.0	Watches - Expensive more than $100	Canceled	0.0	
+98432	2007012619601	2007-01-19 00:00:00	2007-01-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Locks	Denied	0.0	Deny
+98443	2007012919701	2007-01-19 00:00:00	2007-01-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches - Expensive more than $100	Denied	0.0	Deny
+98547	2007012519461	2007-01-23 00:00:00	2007-01-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	48.49	Locks	Approved	48.49	Approve in Full
+99283	2007020620301	2007-02-02 00:00:00	2006-12-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	202.0	Eyeglasses - (including contact lenses)	Settled	101.0	Settle
 99634	2007020920639	2007-02-08 00:00:00	2007-01-10 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	46.45	Other	Settled	23.23	Settle
-100454	2007030121788	2007-02-27 00:00:00	2006-12-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Weapons & Knives	Approved	50.0	Approve in Full
-100620	2007030521853	2007-03-01 00:00:00	2007-02-02 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
-100747	2007030621946	2007-03-05 00:00:00	2007-01-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	438.56	Electronics,Other	Denied	0.0	Deny
-100777	2007030922059	2007-03-05 00:00:00	2007-02-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	350.0	Electronics	Denied	0.0	Deny
-101100	2007031422263	2007-03-12 00:00:00	2006-12-14 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	1298.0	Electronics,Other	Denied	0.0	Deny
-101140	2007031522370	2007-03-12 00:00:00	2007-01-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	97.96	Clothing & Accessories	Denied	0.0	Deny
-101281	2007031922448	2007-03-14 00:00:00	2007-02-21 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	30.0	Other,Household Decor	Settled	15.0	Settle
-101630	2007032622960	2007-03-21 00:00:00	2007-03-08 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	65.99	Clothing & Accessories	Approved	65.99	Approve in Full
-101711	2007032322891	2007-03-22 00:00:00	2007-03-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1202.46	Electronics,Electronics,Watches & Jewelry,Other	Denied	0.0	Deny
-102977	2007041824153	2007-04-17 00:00:00	2007-04-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	375.0	Watches & Jewelry	Denied	0.0	Deny
-103091	2007041924253	2007-04-19 00:00:00	2007-02-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	309.38	Electronics	Denied	0.0	Deny
-103304	2007042624593	2007-04-23 00:00:00	2007-04-05 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	239.39	Electronics	Denied	0.0	Deny
-103309	2007042624599	2007-04-23 00:00:00	2007-04-17 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	379.0	Electronics	Denied	0.0	Deny
-103607	2007050224870	2007-04-30 00:00:00	2007-04-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	418.15	Electronics,Electronics	Settled	166.85	Settle
-103900	2007051025256	2007-05-07 00:00:00	2007-04-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1814.93	Electronics,Electronics,Clothing & Accessories	Denied	0.0	Deny
-104017	2007051525401	2007-05-09 00:00:00	2007-04-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	456.0	Watches & Jewelry	Canceled	0.0	
-104091	2007051425356	2007-05-10 00:00:00	2006-03-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	10000.0	Watches & Jewelry	Denied	0.0	Deny
-104299	2007051625462	2007-05-15 00:00:00	2007-04-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	590.08	Electronics,Electronics,Watches & Jewelry	Denied	0.0	Deny
-104445	2007051925711	2007-05-17 00:00:00	2007-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2597.82	Containers,Electronics,Other	Denied	0.0	Deny
-104520	2007052225801	2007-05-18 00:00:00	2007-05-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	340.0	Electronics,Electronics	Denied	0.0	Deny
+100454	2007030121788	2007-02-27 00:00:00	2006-12-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Firearms	Approved	50.0	Approve in Full
+100620	2007030521853	2007-03-01 00:00:00	2007-02-02 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Computer - Laptop	Denied	0.0	Deny
+100747	2007030621946	2007-03-05 00:00:00	2007-01-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	438.56	Cameras - Digital*Other	Denied	0.0	Deny
+100777	2007030922059	2007-03-05 00:00:00	2007-02-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	350.0	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+101100	2007031422263	2007-03-12 00:00:00	2006-12-14 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	1298.0	Cameras - Digital*Other	Denied	0.0	Deny
+101140	2007031522370	2007-03-12 00:00:00	2007-01-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	97.96	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+101281	2007031922448	2007-03-14 00:00:00	2007-02-21 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	30.0	Other*Posters - framed or unframed	Settled	15.0	Settle
+101630	2007032622960	2007-03-21 00:00:00	2007-03-08 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	65.99	Clothing - Shoes, belts, accessories, etc.	Approved	65.99	Approve in Full
+101711	2007032322891	2007-03-22 00:00:00	2007-03-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1202.46	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Jewelry - Fine*Other	Denied	0.0	Deny
+102977	2007041824153	2007-04-17 00:00:00	2007-04-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	375.0	Jewelry - Fine	Denied	0.0	Deny
+103091	2007041924253	2007-04-19 00:00:00	2007-02-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	309.38	Cameras - Digital	Denied	0.0	Deny
+103304	2007042624593	2007-04-23 00:00:00	2007-04-05 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	239.39	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+103309	2007042624599	2007-04-23 00:00:00	2007-04-17 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	379.0	GPS - Global Positioning System	Denied	0.0	Deny
+103607	2007050224870	2007-04-30 00:00:00	2007-04-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	418.15	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	166.85	Settle
+103900	2007051025256	2007-05-07 00:00:00	2007-04-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1814.93	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+104017	2007051525401	2007-05-09 00:00:00	2007-04-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	456.0	Jewelry - Fine	Canceled	0.0	
+104091	2007051425356	2007-05-10 00:00:00	2006-03-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	10000.0	Jewelry - Fine	Denied	0.0	Deny
+104299	2007051625462	2007-05-15 00:00:00	2007-04-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	590.08	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Watches - Inexpensive $100 or less	Denied	0.0	Deny
+104445	2007051925711	2007-05-17 00:00:00	2007-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2597.82	Bags - Fabric, plastic, etc. (not purses)*Computer - Laptop*Other	Denied	0.0	Deny
+104520	2007052225801	2007-05-18 00:00:00	2007-05-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	340.0	Cameras - Digital*Cell Phones	Denied	0.0	Deny
 104586	2007052325834	2007-05-21 00:00:00	2007-04-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	182.95	Other	Denied	0.0	Deny
-104628	2007053025971	2007-05-21 00:00:00	2007-05-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Electronics	Denied	0.0	Deny
+104628	2007053025971	2007-05-21 00:00:00	2007-05-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	DVD/CD Players	Denied	0.0	Deny
 104732	2007060126060	2007-05-23 00:00:00	2007-05-12 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	34.99	Other	Denied	0.0	Deny
-104806	2007060126097	2007-05-25 00:00:00	2007-05-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	290.23	Electronics	Denied	0.0	Deny
-104910	2007060626404	2007-05-29 00:00:00	2007-05-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	170.0	Cosmetics	Denied	0.0	Deny
-105171	2007070627898	2007-06-02 00:00:00	2007-06-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	7700.0	Watches & Jewelry	Canceled	0.0	
-105704	2007061426937	2007-06-12 00:00:00	2007-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1057.47	Watches & Jewelry,Electronics,Electronics	Denied	0.0	Deny
-105778	2007061927127	2007-06-14 00:00:00	2007-05-17 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	27.06	Tools & Machines	Approved	27.06	Approve in Full
-105805	2007061827057	2007-06-14 00:00:00	2007-06-10 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Denied	0.0	Deny
-106005	2007062027254	2007-06-19 00:00:00	2007-06-10 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	700.0	Electronics,Electronics	Denied	0.0	Deny
-106563	2007070227706	2007-06-29 00:00:00	2007-06-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	725.0	Watches & Jewelry	Denied	0.0	Deny
+104806	2007060126097	2007-05-25 00:00:00	2007-05-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	290.23	Cameras - Digital	Denied	0.0	Deny
+104910	2007060626404	2007-05-29 00:00:00	2007-05-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	170.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+105171	2007070627898	2007-06-02 00:00:00	2007-06-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	7700.0	Jewelry - Fine	Canceled	0.0	
+105704	2007061426937	2007-06-12 00:00:00	2007-05-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1057.47	Jewelry - Fine*MP3 Players-(iPods, etc)*PDA - Personal Data Assistants	Denied	0.0	Deny
+105778	2007061927127	2007-06-14 00:00:00	2007-05-17 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	27.06	Locks	Approved	27.06	Approve in Full
+105805	2007061827057	2007-06-14 00:00:00	2007-06-10 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage	100.0	Jewelry - Costume	Denied	0.0	Deny
+106005	2007062027254	2007-06-19 00:00:00	2007-06-10 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	700.0	MP3 Players-(iPods, etc)*Stereo Items & Accessories	Denied	0.0	Deny
+106563	2007070227706	2007-06-29 00:00:00	2007-06-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	725.0	Watches - Expensive more than $100	Denied	0.0	Deny
 107053	2007071228193	2007-07-09 00:00:00	2007-07-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	97.99	Other	Settled	49.0	Settle
-107056	2007071328290	2007-07-09 00:00:00	2007-06-26 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	820.0	Clothing & Accessories,Other	Settled	800.0	Settle
-107643	2007072428979	2007-07-20 00:00:00	2007-07-16 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	83.0	Clothing & Accessories	Denied	0.0	Deny
-107694	2007072729200	2007-07-23 00:00:00	2007-06-24 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	209.36	Watches & Jewelry	Approved	209.36	Approve in Full
-107767	2007072729247	2007-07-23 00:00:00	2007-07-03 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	75.76	Electronics	Denied	0.0	Deny
-107826	2007072729164	2007-07-24 00:00:00	2007-04-11 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	30000.0	Watches & Jewelry	Denied	0.0	Deny
-108095	2007073129427	2007-07-30 00:00:00	2007-06-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.27	Tools & Machines	Approved	8.27	Approve in Full
-108174	2007080229531	2007-07-30 00:00:00	2007-06-30 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	60.0	Electronics	Denied	0.0	Deny
-108272	2007080229546	2007-08-01 00:00:00	2007-07-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	170.6	Electronics	Approved	170.6	Approve in Full
-108745	2007081030018	2007-08-09 00:00:00	2007-06-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	249.99	Electronics	Approved	249.99	Approve in Full
-108857	2007081430200	2007-08-10 00:00:00	2007-07-04 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checkpoint	1282.28	Electronics	Denied	0.0	Deny
-109599	2007082730936	2007-08-23 00:00:00	2007-08-11 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	168.87	Electronics	Settled	150.69	Settle
-110166	2007091031562	2007-09-05 00:00:00	2007-08-20 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Containers	Approved	15.0	Approve in Full
-110365	2007091131654	2007-09-07 00:00:00	2007-05-26 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	224.37	Electronics,Tools & Machines	Settled	139.62	Settle
-111373	2007100132787	2007-09-27 00:00:00	2007-08-26 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Office Supplies	Denied	0.0	Deny
-111846	2007101033178	2007-10-09 00:00:00	2007-10-07 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	320.0	Clothing & Accessories	Denied	0.0	Deny
-112099	2007101733544	2007-10-12 00:00:00	2007-09-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	1159.0	Clothing & Accessories,Other	Denied	0.0	Deny
-112107	2007101733578	2007-10-12 00:00:00	2007-09-26 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	532.47	Clothing & Accessories,Cosmetics,Other	Denied	0.0	Deny
-112225	2007101733517	2007-10-15 00:00:00	2007-10-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Electronics	Settled	45.0	Settle
-112443	2007102533894	2007-10-19 00:00:00	2007-01-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Other	Denied	0.0	Deny
-113538	2007111434880	2007-11-13 00:00:00	2007-10-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	3487.56	Electronics,Other,Watches & Jewelry	Denied	0.0	Deny
-113583	2007111535074	2007-11-13 00:00:00	2007-09-24 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	619.59	Electronics,Electronics	Denied	0.0	Deny
-115248	2007122136769	2007-12-17 00:00:00	2007-11-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Clothing & Accessories	Approved	65.0	Approve in Full
-115346	2007122036743	2007-12-18 00:00:00	2007-12-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.97	Tools & Machines	Denied	0.0	Deny
+107056	2007071328290	2007-07-09 00:00:00	2007-06-26 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	820.0	Clothing - Shoes, belts, accessories, etc.*Currency	Settled	800.0	Settle
+107643	2007072428979	2007-07-20 00:00:00	2007-07-16 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	83.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+107694	2007072729200	2007-07-23 00:00:00	2007-06-24 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint	209.36	Jewelry - Fine	Approved	209.36	Approve in Full
+107767	2007072729247	2007-07-23 00:00:00	2007-07-03 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	75.76	Computer - Laptop	Denied	0.0	Deny
+107826	2007072729164	2007-07-24 00:00:00	2007-04-11 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	30000.0	Jewelry - Fine	Denied	0.0	Deny
+108095	2007073129427	2007-07-30 00:00:00	2007-06-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.27	Locks	Approved	8.27	Approve in Full
+108174	2007080229531	2007-07-30 00:00:00	2007-06-30 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	60.0	Video Recordings (blank & commercial)	Denied	0.0	Deny
+108272	2007080229546	2007-08-01 00:00:00	2007-07-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	170.6	Cell Phones	Approved	170.6	Approve in Full
+108745	2007081030018	2007-08-09 00:00:00	2007-06-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	249.99	MP3 Players-(iPods, etc)	Approved	249.99	Approve in Full
+108857	2007081430200	2007-08-10 00:00:00	2007-07-04 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checkpoint	1282.28	Computer - Laptop	Denied	0.0	Deny
+109599	2007082730936	2007-08-23 00:00:00	2007-08-11 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	168.87	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	150.69	Settle
+110166	2007091031562	2007-09-05 00:00:00	2007-08-20 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Luggage (all types including footlockers)	Approved	15.0	Approve in Full
+110365	2007091131654	2007-09-07 00:00:00	2007-05-26 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	224.37	Cameras - Digital*Locks	Settled	139.62	Settle
+111373	2007100132787	2007-09-27 00:00:00	2007-08-26 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Books - Other (Hardcover non-fiction)	Denied	0.0	Deny
+111846	2007101033178	2007-10-09 00:00:00	2007-10-07 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	320.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+112099	2007101733544	2007-10-12 00:00:00	2007-09-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	1159.0	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+112107	2007101733578	2007-10-12 00:00:00	2007-09-26 00:00:00	BUR	Bob Hope	America West	Passenger Property Loss	Checked Baggage	532.47	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+112225	2007101733517	2007-10-15 00:00:00	2007-10-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Computer - Laptop	Settled	45.0	Settle
+112443	2007102533894	2007-10-19 00:00:00	2007-01-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Currency	Denied	0.0	Deny
+113538	2007111434880	2007-11-13 00:00:00	2007-10-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	3487.56	Cell Phones*Other*Watches - Expensive more than $100	Denied	0.0	Deny
+113583	2007111535074	2007-11-13 00:00:00	2007-09-24 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	619.59	Cameras - Digital*GPS - Global Positioning System	Denied	0.0	Deny
+115248	2007122136769	2007-12-17 00:00:00	2007-11-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Clothing - Shoes, belts, accessories, etc.	Approved	65.0	Approve in Full
+115346	2007122036743	2007-12-18 00:00:00	2007-12-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.97	Locks	Denied	0.0	Deny
 115493	2007122737010	2007-12-20 00:00:00	2007-12-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Denied	0.0	Deny
-115522	2007122736976	2007-12-21 00:00:00	2007-12-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
+115522	2007122736976	2007-12-21 00:00:00	2007-12-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing - Shoes, belts, accessories, etc.*Jewelry - Costume	Denied	0.0	Deny
 115908	2008010737424	2008-01-02 00:00:00	2007-12-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	262.85	Other	Canceled	0.0	
-116007	2008010837467	2008-01-03 00:00:00	2007-12-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-116122	2008011137788	2008-01-04 00:00:00	2007-12-14 00:00:00	BUR	Bob Hope	Horizon Air	Passenger Property Loss	Checked Baggage	52.83	Tools & Machines	Settled	26.41	Settle
-116866	2008012438548	2008-01-15 00:00:00	2007-12-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Electronics	Settled	249.0	Settle
-117479	2008020539154	2008-01-28 00:00:00	2007-11-11 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	103.87	Clothing & Accessories	Denied	0.0	Deny
-117760	2008021239443	2008-02-01 00:00:00	2008-01-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	923.0	Watches & Jewelry	Denied	0.0	Deny
-118134	2008021439670	2008-02-11 00:00:00	2008-02-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	213.43	Electronics	Denied	0.0	Deny
-118136	2008021439676	2008-02-11 00:00:00	2008-01-27 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Electronics,Electronics	Denied	0.0	Deny
-118220	2008021939769	2008-02-12 00:00:00	2008-01-11 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	182.93	Automobile & Mechanical	Denied	0.0	Deny
-118964	2008030740607	2008-02-27 00:00:00	2008-02-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
-119376	2008031441066	2008-03-07 00:00:00	2008-02-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Electronics,Other	Denied	0.0	Deny
-119390	2008032141383	2008-03-07 00:00:00	2008-01-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Containers	Denied	0.0	Deny
-119467	2008031741120	2008-03-10 00:00:00	2008-01-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	505.55	Electronics	Denied	0.0	Deny
-120772	2008041142473	2008-04-03 00:00:00	2008-03-08 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.48	Tools & Machines	Denied	0.0	Deny
-121983	2008050243703	2008-04-28 00:00:00	2008-04-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.65	Tools & Machines	Denied	0.0	Deny
-122145	2008050643912	2008-04-30 00:00:00	2008-04-24 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-122218	2008050543802	2008-05-01 00:00:00	2008-03-30 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	539.59	Cosmetics,Cosmetics,Scientific Intruments	Settled	237.9	Settle
-123366	2008061745781	2008-05-27 00:00:00	2008-11-23 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+116007	2008010837467	2008-01-03 00:00:00	2007-12-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+116122	2008011137788	2008-01-04 00:00:00	2007-12-14 00:00:00	BUR	Bob Hope	Horizon Air	Passenger Property Loss	Checked Baggage	52.83	Barber Supplies - Scissors, shears, elecric razors, etc.	Settled	26.41	Settle
+116866	2008012438548	2008-01-15 00:00:00	2007-12-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	MP3 Players-(iPods, etc)	Settled	249.0	Settle
+117479	2008020539154	2008-01-28 00:00:00	2007-11-11 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	103.87	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+117760	2008021239443	2008-02-01 00:00:00	2008-01-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	923.0	Jewelry - Fine	Denied	0.0	Deny
+118134	2008021439670	2008-02-11 00:00:00	2008-02-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	213.43	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+118136	2008021439676	2008-02-11 00:00:00	2008-01-27 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage	1500.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+118220	2008021939769	2008-02-12 00:00:00	2008-01-11 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	182.93	Automobile Parts	Denied	0.0	Deny
+118964	2008030740607	2008-02-27 00:00:00	2008-02-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1200.0	Computer - Laptop	Denied	0.0	Deny
+119376	2008031441066	2008-03-07 00:00:00	2008-02-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Cameras - Digital*Other	Denied	0.0	Deny
+119390	2008032141383	2008-03-07 00:00:00	2008-01-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Luggage (all types including footlockers)	Denied	0.0	Deny
+119467	2008031741120	2008-03-10 00:00:00	2008-01-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	505.55	Cameras - Digital	Denied	0.0	Deny
+120772	2008041142473	2008-04-03 00:00:00	2008-03-08 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.48	Locks	Denied	0.0	Deny
+121983	2008050243703	2008-04-28 00:00:00	2008-04-23 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.65	Locks	Denied	0.0	Deny
+122145	2008050643912	2008-04-30 00:00:00	2008-04-24 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1000.0	Currency	Denied	0.0	Deny
+122218	2008050543802	2008-05-01 00:00:00	2008-03-30 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	539.59	Brushes - Hair, Clothes, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Dental Equipment and Instruments	Settled	237.9	Settle
+123366	2008061745781	2008-05-27 00:00:00	2008-11-23 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checkpoint	100.0	Currency	Denied	0.0	Deny
 123583	2008061145515	2008-06-02 00:00:00	2008-03-07 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Other	Canceled	0.0	
 123827	2008060945371	2008-06-06 00:00:00	2008-03-07 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	572.67	Other	Denied	0.0	Deny
-124571	2008062646192	2008-06-24 00:00:00	2008-06-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1396.74	Electronics	Denied	0.0	Deny
-124820	2008060545338	2008-06-30 00:00:00	2007-09-22 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	378.86	Electronics,Electronics	Denied	0.0	Deny
+124571	2008062646192	2008-06-24 00:00:00	2008-06-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1396.74	Computer - Laptop	Denied	0.0	Deny
+124820	2008060545338	2008-06-30 00:00:00	2007-09-22 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	378.86	Cameras - Digital*Cell Phones	Denied	0.0	Deny
 125061	2008060345199	2008-07-05 00:00:00	2008-05-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	386.0	Other	Denied	0.0	Deny
-125182	2008062045987	2008-07-08 00:00:00	2008-06-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1837.43	Electronics	Denied	0.0	Deny
-125748	2008072547471	2008-07-21 00:00:00	2008-07-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	162.35	Electronics	Denied	0.0	Deny
-125824	2008072847562	2008-07-22 00:00:00	2008-06-24 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1770.0	Electronics	Denied	0.0	Deny
-126024	2008073147767	2008-07-25 00:00:00	2008-07-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	124.96	Clothing & Accessories	Denied	0.0	Deny
-126308	2008080648114	2008-07-31 00:00:00	2008-07-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1120.74	Electronics	Denied	0.0	Deny
-126971	2008080648088	2008-08-15 00:00:00	2008-07-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	7750.0	Watches & Jewelry,Tools & Machines	Denied	0.0	Deny
-127673	2008090449458	2008-09-02 00:00:00	2008-08-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2139.99	Clothing & Accessories,Containers,Watches & Jewelry,Tools & Machines,Containers,Electronics,Other	Denied	0.0	Deny
-127749	2008090449465	2008-09-03 00:00:00	2008-08-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	461.16	Clothing & Accessories	Denied	0.0	Deny
+125182	2008062045987	2008-07-08 00:00:00	2008-06-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1837.43	Computer - Laptop	Denied	0.0	Deny
+125748	2008072547471	2008-07-21 00:00:00	2008-07-15 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	162.35	Computer - Laptop	Denied	0.0	Deny
+125824	2008072847562	2008-07-22 00:00:00	2008-06-24 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1770.0	Computer - Laptop	Denied	0.0	Deny
+126024	2008073147767	2008-07-25 00:00:00	2008-07-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	124.96	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+126308	2008080648114	2008-07-31 00:00:00	2008-07-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1120.74	Cameras - Digital	Denied	0.0	Deny
+126971	2008080648088	2008-08-15 00:00:00	2008-07-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	7750.0	Jewelry - Fine*Locks	Denied	0.0	Deny
+127673	2008090449458	2008-09-02 00:00:00	2008-08-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2139.99	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)*Jewelry - Fine*Locks*Luggage (all types including footlockers)*MP3 Players-(iPods, etc)*Other	Denied	0.0	Deny
+127749	2008090449465	2008-09-03 00:00:00	2008-08-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	461.16	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
 127751	2008090449473	2008-09-03 00:00:00	2008-08-31 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	79.0	Other	Denied	0.0	Deny
-128261	2008091649990	2008-09-15 00:00:00	2008-08-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	700.0	Electronics	Denied	0.0	Deny
-128407	2008092450341	2008-09-17 00:00:00	2008-08-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1350.0	Clothing & Accessories,Electronics,Other,Electronics	Denied	0.0	Deny
-128717	2008092650511	2008-09-25 00:00:00	2008-09-13 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	1329.0	Electronics,Watches & Jewelry,Other	Denied	0.0	Deny
+128261	2008091649990	2008-09-15 00:00:00	2008-08-21 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	700.0	Computer - Laptop	Denied	0.0	Deny
+128407	2008092450341	2008-09-17 00:00:00	2008-08-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1350.0	Eyeglasses - (including contact lenses)*GPS - Global Positioning System*Other*PDA - Personal Data Assistants	Denied	0.0	Deny
+128717	2008092650511	2008-09-25 00:00:00	2008-09-13 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage	1329.0	GPS - Global Positioning System*Jewelry - Fine*Other	Denied	0.0	Deny
 128721	2008092650542	2008-09-25 00:00:00	2008-09-17 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	21.6	Other	Denied	0.0	Deny
-128937	2008082949287	2008-10-01 00:00:00	2007-08-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1048.5	Outdoors Supplies	Denied	0.0	Deny
-129134	2008100950977	2008-10-06 00:00:00	2008-09-23 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	296.98	Cosmetics,Other	Settled	149.49	Settle
-129331	2008101651194	2008-10-10 00:00:00	2008-10-08 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	5137.0	Electronics,Electronics	Denied	0.0	Deny
-129702	2008102251412	2008-10-21 00:00:00	2008-09-08 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-129864	2008110451718	2008-10-24 00:00:00	2008-10-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	226.18	Electronics	Denied	0.0	Deny
-130902	2008112652839	2008-11-20 00:00:00	2008-07-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	485.0	Electronics,Electronics	Denied	0.0	Deny
-131408	2008112652845	2008-12-05 00:00:00	2008-11-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	371.81	Cosmetics,Electronics,Other,Tools & Machines,Outdoors Supplies	Denied	0.0	Deny
-131416	2008121053270	2008-12-05 00:00:00	2008-11-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Supplies	Denied	0.0	Deny
-132067	2009010554021	2008-12-22 00:00:00	2008-08-28 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	3062.33	Electronics	Denied	0.0	Deny
-132190	2009010554036	2008-12-29 00:00:00	2008-12-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2780.0	Containers,Household Decor	Denied	0.0	Deny
-132950	2009012454901	2009-01-14 00:00:00	2009-01-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	834.75	Clothing & Accessories,Containers	Denied	0.0	Deny
-133078	2009013055048	2009-01-21 00:00:00	2008-12-31 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.77	Supplies	Approved	320.77	Approve in Full
+128937	2008082949287	2008-10-01 00:00:00	2007-08-07 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1048.5	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+129134	2008100950977	2008-10-06 00:00:00	2008-09-23 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	296.98	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Settled	149.49	Settle
+129331	2008101651194	2008-10-10 00:00:00	2008-10-08 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	5137.0	Computer - Laptop*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+129702	2008102251412	2008-10-21 00:00:00	2008-09-08 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+129864	2008110451718	2008-10-24 00:00:00	2008-10-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	226.18	Cameras - Digital	Denied	0.0	Deny
+130902	2008112652839	2008-11-20 00:00:00	2008-07-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	485.0	Cameras - Digital*Cell Phones	Denied	0.0	Deny
+131408	2008112652845	2008-12-05 00:00:00	2008-11-09 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	371.81	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Flashlights*Other*Scissors, Shears (other than electric)*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+131416	2008121053270	2008-12-05 00:00:00	2008-11-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.0	Medicines	Denied	0.0	Deny
+132067	2009010554021	2008-12-22 00:00:00	2008-08-28 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	3062.33	Computer - Laptop	Denied	0.0	Deny
+132190	2009010554036	2008-12-29 00:00:00	2008-12-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	2780.0	Handbags & Purses (leather or fabric)*Silverplate, Goldplate, Pewter, Stainless Steel, Copperware, Bronzeware	Denied	0.0	Deny
+132950	2009012454901	2009-01-14 00:00:00	2009-01-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	834.75	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+133078	2009013055048	2009-01-21 00:00:00	2008-12-31 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.77	Medicines	Approved	320.77	Approve in Full
 134344	2009031356205	2009-02-24 00:00:00	2009-02-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
 134816	2009032056628	2009-03-09 00:00:00	2009-01-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-135556	2009041557540	2009-03-27 00:00:00	2009-02-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	325.0	Watches & Jewelry	Canceled	0.0	
-135930	2009042858055	2009-04-06 00:00:00	2009-03-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	211.09	Clothing & Accessories	Denied	0.0	Deny
-136148	2009042457974	2009-04-13 00:00:00	2009-04-06 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage	6.5	Tools & Machines	Approved	6.5	Approve in Full
-136757	2009051858837	2009-04-29 00:00:00	2009-03-15 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1300.0	Containers,Electronics,Clothing & Accessories,Electronics	Denied	0.0	Deny
-136791	2009051858775	2009-04-30 00:00:00	2009-04-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	600.0	Electronics	Denied	0.0	Deny
-137000	2009051959027	2009-05-05 00:00:00	2009-03-26 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	82.05	Cosmetics	Settled	41.03	Settle
-137950	2009060459856	2009-06-04 00:00:00	2009-05-17 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checkpoint	65.0	Tools & Machines	Canceled	0.0	
-138329	2009062260499	2009-06-12 00:00:00	2009-06-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	200.0	Watches & Jewelry	Denied	0.0	Deny
-138487	2009062260488	2009-06-17 00:00:00	2009-05-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	79.99	Containers	Denied	0.0	Deny
+135556	2009041557540	2009-03-27 00:00:00	2009-02-19 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	325.0	Jewelry - Fine	Canceled	0.0	
+135930	2009042858055	2009-04-06 00:00:00	2009-03-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	211.09	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+136148	2009042457974	2009-04-13 00:00:00	2009-04-06 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage	6.5	Locks	Approved	6.5	Approve in Full
+136757	2009051858837	2009-04-29 00:00:00	2009-03-15 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage	1300.0	Briefcases*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Eyeglasses - (including contact lenses)*GPS - Global Positioning System	Denied	0.0	Deny
+136791	2009051858775	2009-04-30 00:00:00	2009-04-27 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	600.0	Cell Phones	Denied	0.0	Deny
+137000	2009051959027	2009-05-05 00:00:00	2009-03-26 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage	82.05	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	41.03	Settle
+137950	2009060459856	2009-06-04 00:00:00	2009-05-17 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checkpoint	65.0	Locks	Canceled	0.0	
+138329	2009062260499	2009-06-12 00:00:00	2009-06-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	200.0	Jewelry - Fine	Denied	0.0	Deny
+138487	2009062260488	2009-06-17 00:00:00	2009-05-05 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	79.99	Luggage (all types including footlockers)	Denied	0.0	Deny
 138499	2009062360518	2009-06-17 00:00:00	2009-05-07 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage	1199.99	Other	Denied	0.0	Deny
-139546	2009072361636	2009-07-16 00:00:00	2009-06-29 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.8	Tools & Machines	Approved	20.8	Approve in Full
-141669	2009091563657	2009-09-14 00:00:00	2009-09-07 00:00:00	BUR	Bob Hope	US Express	Passenger Property Loss	Checked Baggage	90.0	Outdoors Supplies	Denied	0.0	Deny
-141911	2009091663732	2009-09-21 00:00:00	2009-09-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
-142759	2009102764757	2009-10-19 00:00:00	2009-10-14 09:30:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	435.0	Outdoors Supplies	Denied	0.0	Deny
-143260	2009110965235	2009-11-03 00:00:00	2009-10-29 23:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	277.45	Containers,Cosmetics,Supplies	Canceled		
+139546	2009072361636	2009-07-16 00:00:00	2009-06-29 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.8	Scissors, Shears (other than electric)	Approved	20.8	Approve in Full
+141669	2009091563657	2009-09-14 00:00:00	2009-09-07 00:00:00	BUR	Bob Hope	US Express	Passenger Property Loss	Checked Baggage	90.0	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+141911	2009091663732	2009-09-21 00:00:00	2009-09-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Cameras - Digital	Denied	0.0	Deny
+142759	2009102764757	2009-10-19 00:00:00	2009-10-14 09:30:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	435.0	Fish/Game	Denied	0.0	Deny
+143260	2009110965235	2009-11-03 00:00:00	2009-10-29 23:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	277.45	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Canceled		
 143297	2009111065258	2009-11-04 00:00:00	2009-10-11 15:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint	53.66	Other	Approved	53.66	Approve in Full
-144482	2009121466518	2009-12-10 00:00:00	2009-11-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.49	Electronics	Approved	110.49	Approve in Full
-144747	2009121766644	2009-12-17 00:00:00	2009-12-16 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checkpoint	175.0	Watches & Jewelry	Canceled		
-144748	2009122266729	2009-12-17 00:00:00	2009-12-16 10:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checkpoint	175.0	Watches & Jewelry	Canceled		
-144822	2009122966869	2009-12-22 00:00:00	2009-11-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	138.0	Clothing & Accessories	Approved	138.0	Approve in Full
-144848	2009122966863	2009-12-22 00:00:00	2009-12-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1600.0	Household Items,Household Items,Cosmetics	Denied	0.0	Deny
-145729	2010022268627	2010-02-12 00:00:00	2010-01-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-146656	2010031969742	2010-03-15 00:00:00	2010-03-06 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-146849	2010032269852	2010-03-19 00:00:00	2010-03-15 07:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-147123	2010033170299	2010-03-29 00:00:00	2010-03-18 16:25:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-147493	2010041370731	2010-04-07 00:00:00	2010-03-21 09:34:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-148094	2010050371428	2010-04-26 00:00:00	2010-02-11 08:50:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-148419	2010050671551	2010-05-06 00:00:00	2010-04-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Other,Outdoors Supplies		150.0	Approve in Full
-148821	2010052672146	2010-05-18 00:00:00	2010-05-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories,Electronics		0.0	Deny
-149214	2010060872523	2010-06-01 00:00:00	2010-05-21 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics		0.0	Deny
-149551	2010062473031	2010-06-11 00:00:00	2010-05-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Scientific Intruments		0.0	Deny
-150285	2010071373598	2010-07-06 00:00:00	2010-06-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other		0.0	Deny
-150291	2010071373619	2010-07-06 00:00:00	2010-06-11 06:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		26.79	Approve in Full
+144482	2009121466518	2009-12-10 00:00:00	2009-11-16 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.49	Computer - Laptop	Approved	110.49	Approve in Full
+144747	2009121766644	2009-12-17 00:00:00	2009-12-16 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checkpoint	175.0	Jewelry - Fine	Canceled		
+144748	2009122266729	2009-12-17 00:00:00	2009-12-16 10:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checkpoint	175.0	Jewelry - Costume	Canceled		
+144822	2009122966869	2009-12-22 00:00:00	2009-11-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	138.0	Clothing - Shoes, belts, accessories, etc.	Approved	138.0	Approve in Full
+144848	2009122966863	2009-12-22 00:00:00	2009-12-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage	1600.0	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)*Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)*Razors (other than electric)	Denied	0.0	Deny
+145729	2010022268627	2010-02-12 00:00:00	2010-01-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			
+146656	2010031969742	2010-03-15 00:00:00	2010-03-06 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			
+146849	2010032269852	2010-03-19 00:00:00	2010-03-15 07:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+147123	2010033170299	2010-03-29 00:00:00	2010-03-18 16:25:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+147493	2010041370731	2010-04-07 00:00:00	2010-03-21 09:34:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Personal Electronics		0.0	Deny
+148094	2010050371428	2010-04-26 00:00:00	2010-02-11 08:50:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+148419	2010050671551	2010-05-06 00:00:00	2010-04-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Currency*Hunting & Fishing Items		150.0	Approve in Full
+148821	2010052672146	2010-05-18 00:00:00	2010-05-13 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other*Personal Accessories*Personal Electronics		0.0	Deny
+149214	2010060872523	2010-06-01 00:00:00	2010-05-21 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cameras*Cameras		0.0	Deny
+149551	2010062473031	2010-06-11 00:00:00	2010-05-29 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Cosmetics & Grooming*Medical/Science		0.0	Deny
+150285	2010071373598	2010-07-06 00:00:00	2010-06-22 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Other		0.0	Deny
+150291	2010071373619	2010-07-06 00:00:00	2010-06-11 06:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		26.79	Approve in Full
 150379	2010071573738	2010-07-07 00:00:00	2010-07-05 09:30:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-150501	2010071973889	2010-07-12 00:00:00	2010-06-26 07:20:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-150758	2010072874133	2010-07-19 00:00:00	2010-07-17 10:20:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-150939	2010073174252	2010-07-23 00:00:00	2010-07-02 18:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		54.12	Settle
-151029	2010080574563	2010-07-26 00:00:00	2010-07-10 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-151314	2010080674618	2010-08-03 00:00:00	2010-07-26 06:30:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-151693	2010081975076	2010-08-13 00:00:00	2010-06-30 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-152647	2010091375937	2010-09-09 00:00:00	2010-09-06 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		280.5	Settle
-152666	2010091575992	2010-09-09 00:00:00	2010-08-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
-153128	2010100176567	2010-09-23 00:00:00	2010-09-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-153663	2010102077108	2010-10-12 00:00:00	2010-09-25 19:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
-154569	2010111978009	2010-11-09 00:00:00	2010-11-03 11:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-154656	2010112378133	2010-11-11 00:00:00	2010-10-28 16:10:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-155035	2010120778581	2010-11-23 00:00:00	2010-10-26 19:35:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-155130	2010120678530	2010-11-29 00:00:00	2010-11-11 16:30:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		0.0	Deny
-156293	2011012579730	2011-01-10 00:00:00	2010-10-22 08:55:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		185.0	Approve in Full
-156555	2011020880009	2011-01-18 00:00:00	2010-11-22 08:10:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-156630	2011021780270	2011-01-18 00:00:00	2010-12-21 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-156650	2011021080078	2011-01-19 00:00:00	2011-01-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		40.0	Approve in Full
-156701	2011021580231	2011-01-19 00:00:00	2010-12-27 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-156925	2011030380815	2011-01-25 00:00:00	2010-12-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-157350	2011030280762	2011-02-08 00:00:00	2011-01-30 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+150501	2010071973889	2010-07-12 00:00:00	2010-06-26 07:20:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+150758	2010072874133	2010-07-19 00:00:00	2010-07-17 10:20:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint		Computer & Accessories		0.0	Deny
+150939	2010073174252	2010-07-23 00:00:00	2010-07-02 18:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		54.12	Settle
+151029	2010080574563	2010-07-26 00:00:00	2010-07-10 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+151314	2010080674618	2010-08-03 00:00:00	2010-07-26 06:30:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		10.0	Approve in Full
+151693	2010081975076	2010-08-13 00:00:00	2010-06-30 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+152647	2010091375937	2010-09-09 00:00:00	2010-09-06 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checkpoint		Jewelry & Watches		280.5	Settle
+152666	2010091575992	2010-09-09 00:00:00	2010-08-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Cameras			
+153128	2010100176567	2010-09-23 00:00:00	2010-09-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+153663	2010102077108	2010-10-12 00:00:00	2010-09-25 19:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other*Personal Electronics		0.0	Deny
+154569	2010111978009	2010-11-09 00:00:00	2010-11-03 11:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories			
+154656	2010112378133	2010-11-11 00:00:00	2010-10-28 16:10:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
+155035	2010120778581	2010-11-23 00:00:00	2010-10-26 19:35:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+155130	2010120678530	2010-11-29 00:00:00	2010-11-11 16:30:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+156293	2011012579730	2011-01-10 00:00:00	2010-10-22 08:55:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		185.0	Approve in Full
+156555	2011020880009	2011-01-18 00:00:00	2010-11-22 08:10:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing		0.0	Deny
+156630	2011021780270	2011-01-18 00:00:00	2010-12-21 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+156650	2011021080078	2011-01-19 00:00:00	2011-01-11 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		40.0	Approve in Full
+156701	2011021580231	2011-01-19 00:00:00	2010-12-27 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+156925	2011030380815	2011-01-25 00:00:00	2010-12-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+157350	2011030280762	2011-02-08 00:00:00	2011-01-30 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cameras		0.0	Deny
 157502	2011030780975	2011-02-14 00:00:00	2011-01-26 09:30:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checkpoint		Other		48.85	Approve in Full
 157725	2011031181112	2011-02-23 00:00:00	2011-02-14 07:35:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-158045	2011040181658	2011-03-04 00:00:00	2010-11-26 17:32:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-158766	2011041382269	2011-03-29 00:00:00	2011-03-15 05:20:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-158850	2011041382239	2011-04-01 00:00:00	2011-01-02 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-158999	2011041382265	2011-04-05 00:00:00	2011-03-25 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+158045	2011040181658	2011-03-04 00:00:00	2010-11-26 17:32:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+158766	2011041382269	2011-03-29 00:00:00	2011-03-15 05:20:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+158850	2011041382239	2011-04-01 00:00:00	2011-01-02 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+158999	2011041382265	2011-04-05 00:00:00	2011-03-25 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
 159144	2011041482517	2011-04-11 00:00:00	2011-04-01 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-159205	2011041482501	2011-04-12 00:00:00	2011-03-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159535	2011042082778	2011-04-25 00:00:00	2011-04-01 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159864	2011051283381	2011-05-03 00:00:00	2011-04-10 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-160975	2011062184480	2011-06-09 00:00:00	2011-05-28 06:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-161422	2011070585010	2011-06-23 00:00:00	2011-06-16 20:46:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		13.95	Approve in Full
-162179	2011080885845	2011-07-18 00:00:00	2011-07-11 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		37.53	Approve in Full
-162805	2011082686468	2011-08-05 00:00:00	2011-07-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-163029	2011080885853	2011-08-15 00:00:00	2011-04-20 06:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-163426	2011092087028	2011-08-25 00:00:00	2011-08-19 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-163542	2011092287129	2011-08-30 00:00:00	2011-08-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-163828	2011100487454	2011-09-08 00:00:00	2011-07-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		31.95	Approve in Full
-164316	2011101787982	2011-09-28 00:00:00	2011-04-25 14:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		16.0	Approve in Full
-164381	2011101687953	2011-09-30 00:00:00	2011-09-22 11:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Outdoors Supplies		37.0	Settle
-164482	2011102188276	2011-10-04 00:00:00	2011-09-08 11:55:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-164805	2011101387837	2011-10-13 00:00:00	2011-08-18 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-164921	2011110488673	2011-10-17 00:00:00	2011-10-10 11:10:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-165440	2011111689037	2011-11-03 00:00:00	2011-10-20 14:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-165617	2011112989202	2011-11-10 00:00:00	2011-09-28 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		21.75	Approve in Full
-165656	2011112889176	2011-11-14 00:00:00	2011-08-04 07:15:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-165726	2011110288649	2011-11-15 00:00:00	2011-09-29 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-166025	2011122789856	2011-11-23 00:00:00	2011-11-14 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-167165	2012020890829	2012-01-06 00:00:00	2011-11-14 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-167225	2012021591062	2012-01-09 00:00:00	2011-12-16 07:10:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-167259	2012011090080	2012-01-10 00:00:00	2011-12-11 17:30:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-167972	2012032992230	2012-01-30 00:00:00	2011-11-30 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		19.89	Approve in Full
-169182	2012041792964	2012-03-13 00:00:00	2012-02-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		0.0	Deny
-170216	2012051493934	2012-04-20 00:00:00	2012-04-17 08:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-171440	2012070995123	2012-06-04 00:00:00	2012-05-16 11:15:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		52.0	Approve in Full
-171955	2012072495650	2012-06-20 00:00:00	2012-06-10 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-171977	2012072395641	2012-06-21 00:00:00	2012-05-17 17:27:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		75.0	Approve in Full
-172052	2012072795772	2012-06-25 00:00:00	2012-05-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+159205	2011041482501	2011-04-12 00:00:00	2011-03-24 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+159535	2011042082778	2011-04-25 00:00:00	2011-04-01 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+159864	2011051283381	2011-05-03 00:00:00	2011-04-10 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+160975	2011062184480	2011-06-09 00:00:00	2011-05-28 06:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			
+161422	2011070585010	2011-06-23 00:00:00	2011-06-16 20:46:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		13.95	Approve in Full
+162179	2011080885845	2011-07-18 00:00:00	2011-07-11 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		37.53	Approve in Full
+162805	2011082686468	2011-08-05 00:00:00	2011-07-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+163029	2011080885853	2011-08-15 00:00:00	2011-04-20 06:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
+163426	2011092087028	2011-08-25 00:00:00	2011-08-19 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+163542	2011092287129	2011-08-30 00:00:00	2011-08-10 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+163828	2011100487454	2011-09-08 00:00:00	2011-07-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		31.95	Approve in Full
+164316	2011101787982	2011-09-28 00:00:00	2011-04-25 14:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		16.0	Approve in Full
+164381	2011101687953	2011-09-30 00:00:00	2011-09-22 11:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		37.0	Settle
+164482	2011102188276	2011-10-04 00:00:00	2011-09-08 11:55:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+164805	2011101387837	2011-10-13 00:00:00	2011-08-18 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checkpoint		Cameras		0.0	Deny
+164921	2011110488673	2011-10-17 00:00:00	2011-10-10 11:10:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Currency			
+165440	2011111689037	2011-11-03 00:00:00	2011-10-20 14:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cameras		0.0	Deny
+165617	2011112989202	2011-11-10 00:00:00	2011-09-28 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		21.75	Approve in Full
+165656	2011112889176	2011-11-14 00:00:00	2011-08-04 07:15:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
+165726	2011110288649	2011-11-15 00:00:00	2011-09-29 00:00:00	BUR	Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+166025	2011122789856	2011-11-23 00:00:00	2011-11-14 00:00:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+167165	2012020890829	2012-01-06 00:00:00	2011-11-14 00:00:00	BUR	Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Cameras*Computer & Accessories		0.0	Deny
+167225	2012021591062	2012-01-09 00:00:00	2011-12-16 07:10:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+167259	2012011090080	2012-01-10 00:00:00	2011-12-11 17:30:00	BUR	Bob Hope	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+167972	2012032992230	2012-01-30 00:00:00	2011-11-30 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		19.89	Approve in Full
+169182	2012041792964	2012-03-13 00:00:00	2012-02-22 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+170216	2012051493934	2012-04-20 00:00:00	2012-04-17 08:00:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
+171440	2012070995123	2012-06-04 00:00:00	2012-05-16 11:15:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		52.0	Approve in Full
+171955	2012072495650	2012-06-20 00:00:00	2012-06-10 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
+171977	2012072395641	2012-06-21 00:00:00	2012-05-17 17:27:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		75.0	Approve in Full
+172052	2012072795772	2012-06-25 00:00:00	2012-05-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
 172438	2012082596177	2012-07-10 00:00:00	2012-06-13 07:30:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		12.95	Approve in Full
-172442	2012082596181	2012-07-10 00:00:00	2012-05-22 12:30:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-172614	2012082996363	2012-07-16 00:00:00	2012-07-05 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checkpoint		Electronics		298.98	Settle
-173138	2012091796879	2012-08-03 00:00:00	2012-07-23 09:10:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-174335	2012110198249	2012-09-13 00:00:00	2012-08-28 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-174448	2012102598129	2012-09-18 00:00:00	2012-09-08 06:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-174958	2012110198238	2012-10-09 00:00:00	2012-09-27 08:45:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		56.35	Approve in Full
-175017	2012111098556	2012-10-11 00:00:00	2012-09-08 13:16:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss			Cosmetics		0.0	Deny
-175028	2012111398611	2012-10-11 00:00:00	2012-09-27 10:30:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments		92.82	Approve in Full
-175603	2012122799371	2012-11-01 00:00:00	2012-10-08 07:43:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-176011	2013010999673	2012-11-19 00:00:00	2012-05-18 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Food & Drink			
+172442	2012082596181	2012-07-10 00:00:00	2012-05-22 12:30:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+172614	2012082996363	2012-07-16 00:00:00	2012-07-05 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checkpoint		Personal Electronics		298.98	Settle
+173138	2012091796879	2012-08-03 00:00:00	2012-07-23 09:10:00	BUR	Bob Hope		Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
+174335	2012110198249	2012-09-13 00:00:00	2012-08-28 00:00:00	BUR	Bob Hope	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+174448	2012102598129	2012-09-18 00:00:00	2012-09-08 06:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+174958	2012110198238	2012-10-09 00:00:00	2012-09-27 08:45:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		56.35	Approve in Full
+175017	2012111098556	2012-10-11 00:00:00	2012-09-08 13:16:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss			Travel Accessories		0.0	Deny
+175028	2012111398611	2012-10-11 00:00:00	2012-09-27 10:30:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checkpoint		Medical/Science		92.82	Approve in Full
+175603	2012122799371	2012-11-01 00:00:00	2012-10-08 07:43:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+176011	2013010999673	2012-11-19 00:00:00	2012-05-18 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras*Computer & Accessories*Food & Drink			
 176012	2013010999675	2012-11-19 00:00:00	2012-11-12 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-176319	2013011199936	2012-11-29 00:00:00	2012-05-11 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Food & Drink		280.0	Approve in Full
+176319	2013011199936	2012-11-29 00:00:00	2012-05-11 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Food & Drink		280.0	Approve in Full
 176335	2013011800014	2012-11-29 00:00:00	2012-11-08 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-177257	2013010999760	2013-01-09 00:00:00	2012-11-22 10:45:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-177528	2013020701148	2013-01-17 00:00:00	2012-12-30 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-177712	2013021501536	2013-01-23 00:00:00	2012-12-16 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checkpoint		Outdoors Supplies		32.68	Approve in Full
-178280	2013022101842	2013-02-13 00:00:00	2013-02-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-178662	2013043003399	2013-02-26 00:00:00	2012-12-30 13:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Other		0.0	Deny
-181026	2013071105142	2013-05-29 00:00:00	2013-05-25 12:00:00	BUR	Bob Hope	Air France	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-183192	2013091606923	2013-08-09 00:00:00	2013-08-02 15:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics,Electronics		0.0	Deny
+177257	2013010999760	2013-01-09 00:00:00	2012-11-22 10:45:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+177528	2013020701148	2013-01-17 00:00:00	2012-12-30 00:00:00	BUR	Bob Hope		Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+177712	2013021501536	2013-01-23 00:00:00	2012-12-16 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checkpoint		Tools & Home Improvement Supplies		32.68	Approve in Full
+178280	2013022101842	2013-02-13 00:00:00	2013-02-06 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+178662	2013043003399	2013-02-26 00:00:00	2012-12-30 13:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Computer & Accessories*Other		0.0	Deny
+181026	2013071105142	2013-05-29 00:00:00	2013-05-25 12:00:00	BUR	Bob Hope	Air France	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+183192	2013091606923	2013-08-09 00:00:00	2013-08-02 15:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Computer & Accessories*Personal Electronics		0.0	Deny
 183647	2013092407296	2013-08-26 00:00:00	2013-08-21 12:40:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-185798	2013112109580	2013-11-20 00:00:00	2013-11-18 10:40:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-187482	2014012911239	2014-01-23 00:00:00	2013-11-20 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-189285	2014040913085	2014-04-03 00:00:00	2014-03-17 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		75.0	Approve in Full
+185798	2013112109580	2013-11-20 00:00:00	2013-11-18 10:40:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+187482	2014012911239	2014-01-23 00:00:00	2013-11-20 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+189285	2014040913085	2014-04-03 00:00:00	2014-03-17 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		75.0	Approve in Full
 190750	2014061214574	2014-06-03 00:00:00	2014-05-23 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage		Other		104.0	Approve in Full
 190794	2014061314619	2014-06-09 00:00:00	2014-05-01 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		155.0	Approve in Full
 190845	2014061614671	2014-06-06 00:00:00	2014-06-05 00:00:00	BUR	Bob Hope	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-194028	2014102117922	2014-10-13 00:00:00	2014-10-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
-194140	2014102818035	2014-10-20 00:00:00	2014-10-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+194028	2014102117922	2014-10-13 00:00:00	2014-10-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Personal Electronics			
+194140	2014102818035	2014-10-20 00:00:00	2014-10-02 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			
 195481	2014122919428	2014-12-29 00:00:00	2014-12-21 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-196512	2015012320119	2015-01-23 00:00:00	2015-01-01 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Cosmetics		35.0	Approve in Full
+196512	2015012320119	2015-01-23 00:00:00	2015-01-01 00:00:00	BUR	Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies*Travel Accessories		35.0	Approve in Full
 196517	2015040621759	2015-04-06 00:00:00	2015-03-14 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
 196520	2015052922860	2015-05-26 00:00:00	2015-05-18 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		20.0	Approve in Full
-196522	2015100525896	2015-09-14 00:00:00	2015-09-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-196523	2015100625924	2015-09-16 00:00:00	2015-09-12 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Settle
-196525	2015102926396	2015-10-09 00:00:00	2015-08-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
-205136	2016072832890	2016-06-29 00:00:00	2016-05-01 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		99.95	Approve in Full
-205139	2016041330525	2016-03-28 00:00:00	2016-02-18 16:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-205140	2016062032316	2016-06-07 00:00:00	2016-04-02 21:00:00	BUR	Bob Hope Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics		0.0	Deny
-205143	2016062832472	2016-06-10 00:00:00	2016-05-10 05:30:00	BUR	Bob Hope Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Supplies,Outdoors Supplies,Outdoors Supplies		0.0	Deny
-205144	2016071232611	2016-06-15 00:00:00	2016-05-30 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-205145	2016071532727	2016-06-22 00:00:00	2016-05-31 17:40:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-205147	2016082433287	2016-07-13 00:00:00	2016-06-18 00:00:00	BUR	Bob Hope Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-205148	2016102135036	2016-09-06 00:00:00	2016-03-04 19:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
-205149	2016100634503	2016-08-10 00:00:00	2016-07-17 13:30:00	BUR	Bob Hope Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-205151	2016092633867	2016-08-01 00:00:00	2016-07-30 06:00:00	BUR	Bob Hope Bob Hope	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			In Review
-205152	2016101934912	2016-10-19 00:00:00	2016-08-15 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-205154	2016122936168	2016-11-01 00:00:00	2016-11-01 16:11:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			In Review
-205155	2017012636912	2016-12-08 00:00:00	2016-12-06 17:00:00	BUR	Bob Hope Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-205156	2017020137162	2016-12-19 00:00:00	2016-12-16 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-213377	2017091443143	2017-08-03 00:00:00	2017-07-19 00:00:00	BUR	Bob Hope Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
-213378	2017091142912	2017-07-03 00:00:00	2017-05-18 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories			In Review
-213381	2017090142676	2017-07-10 00:00:00	2017-05-04 00:00:00	BUR	Bob Hope Bob Hope	American Airlines	Passenger Property Loss	Checkpoint		Other			Insufficient
-213388	2017121846057	2017-11-22 00:00:00	2017-11-10 15:30:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-213389	2017062140890	2017-05-23 00:00:00	2017-05-04 00:00:00	BUR	Bob Hope Bob Hope	American Airlines	Passenger Property Loss	Checkpoint		Other			Insufficient
-213391	2017112845543	2017-10-24 00:00:00	2017-10-01 11:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			In Review
-213394	2017120845802	2017-11-27 00:00:00	2017-11-23 11:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-213395	2017122046151	2017-11-27 00:00:00	2017-11-13 05:50:00	BUR	Bob Hope Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Household Items			In Review
+196522	2015100525896	2015-09-14 00:00:00	2015-09-03 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+196523	2015100625924	2015-09-16 00:00:00	2015-09-12 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		50.0	Settle
+196525	2015102926396	2015-10-09 00:00:00	2015-08-28 00:00:00	BUR	Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches		0.0	Deny
+205136	2016072832890	2016-06-29 00:00:00	2016-05-01 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		99.95	Approve in Full
+205139	2016041330525	2016-03-28 00:00:00	2016-02-18 16:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+205140	2016062032316	2016-06-07 00:00:00	2016-04-02 21:00:00	BUR	Bob Hope Bob Hope	Jet Blue	Passenger Property Loss	Checked Baggage		Audio/Video*Audio/Video*Personal Electronics		0.0	Deny
+205143	2016062832472	2016-06-10 00:00:00	2016-05-10 05:30:00	BUR	Bob Hope Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Supplies*Sporting Equipment & Supplies (footballs, parachutes, etc.)*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+205144	2016071232611	2016-06-15 00:00:00	2016-05-30 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+205145	2016071532727	2016-06-22 00:00:00	2016-05-31 17:40:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+205147	2016082433287	2016-07-13 00:00:00	2016-06-18 00:00:00	BUR	Bob Hope Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+205148	2016102135036	2016-09-06 00:00:00	2016-03-04 19:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Personal Accessories			In Review
+205149	2016100634503	2016-08-10 00:00:00	2016-07-17 13:30:00	BUR	Bob Hope Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+205151	2016092633867	2016-08-01 00:00:00	2016-07-30 06:00:00	BUR	Bob Hope Bob Hope	Delta Air Lines	Passenger Property Loss	Checkpoint		Audio/Video			In Review
+205152	2016101934912	2016-10-19 00:00:00	2016-08-15 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			In Review
+205154	2016122936168	2016-11-01 00:00:00	2016-11-01 16:11:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checkpoint		Currency			In Review
+205155	2017012636912	2016-12-08 00:00:00	2016-12-06 17:00:00	BUR	Bob Hope Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			In Review
+205156	2017020137162	2016-12-19 00:00:00	2016-12-16 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Audio/Video			In Review
+213377	2017091443143	2017-08-03 00:00:00	2017-07-19 00:00:00	BUR	Bob Hope Bob Hope	UAL	Passenger Property Loss	Checked Baggage		Cameras			Insufficient
+213378	2017091142912	2017-07-03 00:00:00	2017-05-18 00:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras*Personal Accessories			In Review
+213381	2017090142676	2017-07-10 00:00:00	2017-05-04 00:00:00	BUR	Bob Hope Bob Hope	American Airlines	Passenger Property Loss	Checkpoint		Currency			Insufficient
+213388	2017121846057	2017-11-22 00:00:00	2017-11-10 15:30:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			In Review
+213389	2017062140890	2017-05-23 00:00:00	2017-05-04 00:00:00	BUR	Bob Hope Bob Hope	American Airlines	Passenger Property Loss	Checkpoint		Currency			Insufficient
+213391	2017112845543	2017-10-24 00:00:00	2017-10-01 11:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Medical/Science			In Review
+213394	2017120845802	2017-11-27 00:00:00	2017-11-23 11:00:00	BUR	Bob Hope Bob Hope	Southwest Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			In Review
+213395	2017122046151	2017-11-27 00:00:00	2017-11-13 05:50:00	BUR	Bob Hope Bob Hope	Alaska Airlines	Passenger Property Loss	Checked Baggage		Audio/Video*Household Items			In Review

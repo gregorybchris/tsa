@@ -1,5 +1,5 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-87277	2006062308467	2006-06-23 00:00:00	2006-06-08 00:00:00	CDC	Cedar City Municipal	American West	Passenger Property Loss	Checked Baggage	2099.7	Electronics,Electronics,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-121900	2008043043561	2008-04-25 00:00:00	2008-04-14 00:00:00	CDC	Cedar City Municipal	UAL	Passenger Property Loss	Checked Baggage	131.24	Electronics	Denied	0.0	Deny
-172486	2012082796222	2012-07-11 00:00:00	2012-07-09 09:35:00	CDC	Cedar City Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Other		0.0	Deny
-196661	2015032721556	2015-03-27 00:00:00	2014-12-22 00:00:00	CDC	Cedar City Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+87277	2006062308467	2006-06-23 00:00:00	2006-06-08 00:00:00	CDC	Cedar City Municipal	American West	Passenger Property Loss	Checked Baggage	2099.7	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Eyeglasses - (including contact lenses)*Watches - Inexpensive $100 or less	Denied	0.0	Deny
+121900	2008043043561	2008-04-25 00:00:00	2008-04-14 00:00:00	CDC	Cedar City Municipal	UAL	Passenger Property Loss	Checked Baggage	131.24	GPS - Global Positioning System	Denied	0.0	Deny
+172486	2012082796222	2012-07-11 00:00:00	2012-07-09 09:35:00	CDC	Cedar City Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Other*Other		0.0	Deny
+196661	2015032721556	2015-03-27 00:00:00	2014-12-22 00:00:00	CDC	Cedar City Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			

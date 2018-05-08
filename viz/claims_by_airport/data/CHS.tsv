@@ -1,216 +1,216 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-582	23124	2002-12-11 00:00:00	2002-11-03 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Other	11500.0	Watches & Jewelry	Canceled	0.0	
-2229	0204044L	2003-02-04 00:00:00	2003-01-12 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	975.01	Electronics	Denied	0.0	Deny
-5878	0430040L	2003-04-30 00:00:00	2003-04-08 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Watches & Jewelry	Denied	0.0	Deny
+582	23124	2002-12-11 00:00:00	2002-11-03 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Other	11500.0	Jewelry - Fine	Canceled	0.0	
+2229	0204044L	2003-02-04 00:00:00	2003-01-12 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	975.01	Cameras - Digital	Denied	0.0	Deny
+5878	0430040L	2003-04-30 00:00:00	2003-04-08 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Jewelry - Fine	Denied	0.0	Deny
 6664	0520106L	2003-05-20 00:00:00	2003-05-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
 10883	0715002M	2003-07-15 00:00:00	2003-02-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	797.5	Other	Denied	0.0	Deny
-11613	0723156M	2003-07-23 00:00:00	2003-07-19 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	375.0	Electronics	Denied	0.0	Deny
-30720	2004051151199	2004-03-18 00:00:00	2004-03-07 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
-37630	2004063058001	2004-06-10 00:00:00	2004-05-27 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	10.6	Containers	Approved	10.6	Approve in Full
-38497	2004071259032	2004-06-22 00:00:00	2004-05-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+11613	0723156M	2003-07-23 00:00:00	2003-07-19 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	375.0	Stereo Items & Accessories	Denied	0.0	Deny
+30720	2004051151199	2004-03-18 00:00:00	2004-03-07 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2000.0	Jewelry - Fine	Denied	0.0	Deny
+37630	2004063058001	2004-06-10 00:00:00	2004-05-27 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	10.6	Luggage (all types including footlockers)	Approved	10.6	Approve in Full
+38497	2004071259032	2004-06-22 00:00:00	2004-05-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	20.0	Locks	Denied	0.0	Deny
 42688	2004092363744	2004-08-16 00:00:00	2004-07-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Other	Denied		Deny
-46996	2004112267603	2004-10-08 00:00:00	2004-09-09 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	1723.0	Watches & Jewelry	Denied	0.0	Deny
+46996	2004112267603	2004-10-08 00:00:00	2004-09-09 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	1723.0	Jewelry - Fine	Denied	0.0	Deny
 53464	2005011073314	2005-01-04 00:00:00	2004-06-03 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	5166.87	Other	Denied	0.0	Deny
-53942	2005012774558	2005-01-10 00:00:00	2005-01-02 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	169.85	Clothing & Accessories	Denied	0.0	Deny
-60887	2005040681786	2005-04-05 00:00:00	2005-03-10 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.6	Tools & Machines	Denied	0.0	Deny
-62382	2005042583345	2005-04-22 00:00:00	2005-04-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	126.96	Clothing & Accessories	Denied	0.0	Deny
-65364	2005061386342	2005-06-03 00:00:00	2005-05-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Approved	14.0	Approve in Full
-65933	2005062186846	2005-06-10 00:00:00	2005-06-02 00:00:00	CHS	Charleston International	Independence Air	Passenger Property Loss	Checked Baggage	387.5	Electronics	Denied	0.0	Deny
-66481	2005062787313	2005-06-20 00:00:00	2005-06-10 00:00:00	CHS	Charleston International		Passenger Property Loss	Checkpoint	350.0	Watches & Jewelry	Denied	0.0	Deny
-69205	2005081090294	2005-08-01 00:00:00	2005-04-05 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	371.13	Clothing & Accessories	Denied	0.0	Deny
-70789	2005083091880	2005-08-24 00:00:00	2005-07-21 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
-72229	2005091992744	2005-09-19 00:00:00	2005-08-16 00:00:00	CHS	Charleston International	Independence Air	Passenger Property Loss	Checked Baggage	199.0	Electronics	Denied	0.0	Deny
-73230	2005101194328	2005-10-04 00:00:00	2005-04-24 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	213.78	Watches & Jewelry	Denied	0.0	Deny
-75393	2005112896543	2005-11-14 00:00:00	2005-11-01 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checkpoint	775.0	Watches & Jewelry	Denied	0.0	Deny
+53942	2005012774558	2005-01-10 00:00:00	2005-01-02 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	169.85	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+60887	2005040681786	2005-04-05 00:00:00	2005-03-10 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.6	Locks	Denied	0.0	Deny
+62382	2005042583345	2005-04-22 00:00:00	2005-04-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	126.96	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+65364	2005061386342	2005-06-03 00:00:00	2005-05-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.0	Locks	Approved	14.0	Approve in Full
+65933	2005062186846	2005-06-10 00:00:00	2005-06-02 00:00:00	CHS	Charleston International	Independence Air	Passenger Property Loss	Checked Baggage	387.5	Cameras - Digital	Denied	0.0	Deny
+66481	2005062787313	2005-06-20 00:00:00	2005-06-10 00:00:00	CHS	Charleston International		Passenger Property Loss	Checkpoint	350.0	Jewelry - Fine	Denied	0.0	Deny
+69205	2005081090294	2005-08-01 00:00:00	2005-04-05 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	371.13	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+70789	2005083091880	2005-08-24 00:00:00	2005-07-21 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Cameras - Digital	Denied	0.0	Deny
+72229	2005091992744	2005-09-19 00:00:00	2005-08-16 00:00:00	CHS	Charleston International	Independence Air	Passenger Property Loss	Checked Baggage	199.0	Cameras - Digital	Denied	0.0	Deny
+73230	2005101194328	2005-10-04 00:00:00	2005-04-24 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	213.78	Jewelry - Fine	Denied	0.0	Deny
+75393	2005112896543	2005-11-14 00:00:00	2005-11-01 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checkpoint	775.0	Jewelry - Fine	Denied	0.0	Deny
 75647	2005120196830	2005-11-17 00:00:00	2005-11-10 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage	476.98	Other	Denied	0.0	Deny
-76116	2005120797203	2005-11-28 00:00:00	2005-11-14 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2099.0	Electronics	Denied	0.0	Deny
-77493	2006010398620	2005-12-22 00:00:00	2005-12-05 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	800.0	Watches & Jewelry	Denied	0.0	Deny
-88972	2006080110306	2006-07-26 00:00:00	2006-07-13 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	600.0	Electronics,Electronics	Denied	0.0	Deny
-90216	2006082111322	2006-08-21 00:00:00	2006-08-15 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	850.0	Other,Containers,Other	Denied	0.0	Deny
+76116	2005120797203	2005-11-28 00:00:00	2005-11-14 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2099.0	Computer - Laptop	Denied	0.0	Deny
+77493	2006010398620	2005-12-22 00:00:00	2005-12-05 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	800.0	Jewelry - Fine	Denied	0.0	Deny
+88972	2006080110306	2006-07-26 00:00:00	2006-07-13 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	600.0	Cameras - Digital*Cell Phones	Denied	0.0	Deny
+90216	2006082111322	2006-08-21 00:00:00	2006-08-15 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	850.0	Currency*Handbags & Purses (leather or fabric)*Other	Denied	0.0	Deny
 91498	2006091512590	2006-09-12 00:00:00	2006-08-27 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage	95.0	Other	Settled	50.0	Settle
 93608	2006110114944	2006-10-25 00:00:00	2006-10-23 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	6.0	Other	Approved	6.0	Approve in Full
-93766	2006110215091	2006-10-27 00:00:00	2006-10-08 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	104.65	Clothing & Accessories	Denied	0.0	Deny
-94875	2006112416181	2006-11-20 00:00:00	2006-11-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	6450.0	Watches & Jewelry	Canceled	0.0	
-97347	2007010818470	2007-01-04 00:00:00	2006-11-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1160.0	Clothing & Accessories,Electronics,Games & Toys	Denied	0.0	Deny
-102822	2007041624046	2007-04-13 00:00:00	2007-04-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	461.95	Clothing & Accessories,Clothing & Accessories	Denied	0.0	Deny
-105649	2007061426938	2007-06-11 00:00:00	2007-05-22 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Denied	0.0	Deny
-109227	2007082130596	2007-08-17 00:00:00	2007-07-15 00:00:00	CHS	Charleston International	American Eagle	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
-109780	2007082931119	2007-08-27 00:00:00	2007-08-18 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	6700.0	Watches & Jewelry	Denied	0.0	Deny
-110172	2007091431898	2007-09-05 00:00:00	2007-09-03 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-110218	2007090731551	2007-09-05 00:00:00	2007-08-24 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	284.26	Electronics,Other	Denied	0.0	Deny
-110711	2007091732062	2007-09-14 00:00:00	2007-08-29 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2199.0	Watches & Jewelry	Canceled	0.0	
-110995	2007092132411	2007-09-19 00:00:00	2007-07-20 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	7.47	Tools & Machines	Denied	0.0	Deny
-111052	2007092132380	2007-09-20 00:00:00	2007-08-23 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	125.98	Clothing & Accessories	Denied	0.0	Deny
-111525	2007100332979	2007-10-01 00:00:00	2007-09-25 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	725.0	Watches & Jewelry	Denied	0.0	Deny
-113590	2007111635084	2007-11-13 00:00:00	2007-10-31 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	112.0	Other	Denied	0.0	Deny
-114208	2007112935644	2007-11-26 00:00:00	2007-10-31 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.0	Tools & Machines	Denied	0.0	Deny
-114319	2007113035820	2007-11-27 00:00:00	2007-11-15 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	974.0	Electronics,Electronics	Denied	0.0	Deny
+93766	2006110215091	2006-10-27 00:00:00	2006-10-08 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	104.65	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+94875	2006112416181	2006-11-20 00:00:00	2006-11-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	6450.0	Jewelry - Fine	Canceled	0.0	
+97347	2007010818470	2007-01-04 00:00:00	2006-11-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1160.0	Clothing - Shoes, belts, accessories, etc.*DVD/CD Players*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+102822	2007041624046	2007-04-13 00:00:00	2007-04-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	461.95	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+105649	2007061426938	2007-06-11 00:00:00	2007-05-22 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	250.0	Jewelry - Fine	Denied	0.0	Deny
+109227	2007082130596	2007-08-17 00:00:00	2007-07-15 00:00:00	CHS	Charleston International	American Eagle	Passenger Property Loss	Checked Baggage	200.0	Cameras - Digital	Denied	0.0	Deny
+109780	2007082931119	2007-08-27 00:00:00	2007-08-18 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	6700.0	Jewelry - Fine	Denied	0.0	Deny
+110172	2007091431898	2007-09-05 00:00:00	2007-09-03 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Locks	Approved	15.0	Approve in Full
+110218	2007090731551	2007-09-05 00:00:00	2007-08-24 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	284.26	Cameras - Digital*Other	Denied	0.0	Deny
+110711	2007091732062	2007-09-14 00:00:00	2007-08-29 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2199.0	Jewelry - Fine	Canceled	0.0	
+110995	2007092132411	2007-09-19 00:00:00	2007-07-20 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	7.47	Locks	Denied	0.0	Deny
+111052	2007092132380	2007-09-20 00:00:00	2007-08-23 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	125.98	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+111525	2007100332979	2007-10-01 00:00:00	2007-09-25 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	725.0	Jewelry - Fine	Denied	0.0	Deny
+113590	2007111635084	2007-11-13 00:00:00	2007-10-31 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	112.0	Currency	Denied	0.0	Deny
+114208	2007112935644	2007-11-26 00:00:00	2007-10-31 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.0	Locks	Denied	0.0	Deny
+114319	2007113035820	2007-11-27 00:00:00	2007-11-15 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	974.0	Computer - Laptop*MP3 Players-(iPods, etc)	Denied	0.0	Deny
 114330	2007120335910	2007-11-27 00:00:00	2007-11-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.0	Other	Denied	0.0	Deny
-114463	2007120435953	2007-11-30 00:00:00	2007-11-19 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Tools & Machines	Approved	40.0	Approve in Full
-114571	2007120335862	2007-11-30 00:00:00	2007-11-28 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage	204.98	Containers,Cosmetics,Clothing & Accessories,Other	Settled	102.49	Settle
-114800	2007121036239	2007-12-06 00:00:00	2007-11-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.78	Tools & Machines	Approved	11.78	Approve in Full
-114943	2007121136412	2007-12-10 00:00:00	2007-11-19 00:00:00	CHS	Charleston International	American Eagle	Passenger Property Loss	Checked Baggage	35.0	Tools & Machines	Denied	0.0	Deny
-115323	2008011738128	2007-12-17 00:00:00	2007-11-16 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	22999.9	Electronics	Denied	0.0	Deny
-115490	2007122736993	2007-12-20 00:00:00	2007-12-19 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	229.98	Electronics	Denied	0.0	Deny
-116025	2008010837505	2008-01-03 00:00:00	2008-11-10 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Denied	0.0	Deny
-116826	2008012238258	2008-01-15 00:00:00	2007-12-29 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	460.0	Clothing & Accessories,Containers	Denied	0.0	Deny
-116974	2008012538644	2008-01-17 00:00:00	2008-01-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	230.0	Watches & Jewelry	Denied	0.0	Deny
-117096	2008012538659	2008-01-22 00:00:00	2007-12-29 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Scientific Intruments	Denied	0.0	Deny
-117282	2008020439068	2008-01-24 00:00:00	2007-12-23 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.23	Watches & Jewelry	Denied	0.0	Deny
-117682	2008020839319	2008-01-31 00:00:00	2008-01-22 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Watches & Jewelry	Denied	0.0	Deny
-118179	2008022840271	2008-02-11 00:00:00	2008-01-23 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	500.0	Electronics,Electronics	Denied	0.0	Deny
-118356	2008022240002	2008-02-14 00:00:00	2008-01-12 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	17.0	Other	Denied	0.0	Deny
-120315	2008040741960	2008-03-26 00:00:00	2008-03-02 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1128.02	Clothing & Accessories,Cosmetics,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-120720	2008041042321	2008-04-02 00:00:00	2008-03-01 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	315.0	Electronics	Settled	157.5	Settle
-121367	2008042143000	2008-04-14 00:00:00	2008-03-24 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	60.0	Containers	Settled	30.0	Settle
-121525	2008042343224	2008-04-17 00:00:00	2008-04-07 00:00:00	CHS	Charleston International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines,Tools & Machines	Denied	0.0	Deny
-121628	2008042343251	2008-04-21 00:00:00	2008-02-18 00:00:00	CHS	Charleston International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	434.96	Electronics,Other	Denied	0.0	Deny
-121707	2008042543384	2008-04-21 00:00:00	2008-04-16 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	41.17	Clothing & Accessories	Settled	20.59	Settle
-121896	2008042943548	2008-04-25 00:00:00	2008-04-06 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage	120.0	Watches & Jewelry	Denied	0.0	Deny
-121953	2008043043550	2008-04-28 00:00:00	2008-04-26 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	300.0	Electronics,Other	Denied	0.0	Deny
-122785	2008051644450	2008-05-14 00:00:00	2008-03-09 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Denied	0.0	Deny
-123238	2008052744835	2008-05-23 00:00:00	2008-05-22 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	410.0	Electronics,Electronics,Clothing & Accessories	Settled	192.0	Settle
-123304	2008052944961	2008-05-27 00:00:00	2008-05-24 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	1182.49	Electronics,Household Items	Denied	0.0	Deny
+114463	2007120435953	2007-11-30 00:00:00	2007-11-19 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Locks	Approved	40.0	Approve in Full
+114571	2007120335862	2007-11-30 00:00:00	2007-11-28 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage	204.98	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Eyeglasses - (including contact lenses)*Other	Settled	102.49	Settle
+114800	2007121036239	2007-12-06 00:00:00	2007-11-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.78	Locks	Approved	11.78	Approve in Full
+114943	2007121136412	2007-12-10 00:00:00	2007-11-19 00:00:00	CHS	Charleston International	American Eagle	Passenger Property Loss	Checked Baggage	35.0	Locks	Denied	0.0	Deny
+115323	2008011738128	2007-12-17 00:00:00	2007-11-16 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	22999.9	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+115490	2007122736993	2007-12-20 00:00:00	2007-12-19 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	229.98	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+116025	2008010837505	2008-01-03 00:00:00	2008-11-10 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	750.0	Jewelry - Fine	Denied	0.0	Deny
+116826	2008012238258	2008-01-15 00:00:00	2007-12-29 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	460.0	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+116974	2008012538644	2008-01-17 00:00:00	2008-01-11 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	230.0	Jewelry - Fine	Denied	0.0	Deny
+117096	2008012538659	2008-01-22 00:00:00	2007-12-29 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Dental Equipment and Instruments	Denied	0.0	Deny
+117282	2008020439068	2008-01-24 00:00:00	2007-12-23 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.23	Jewelry - Costume	Denied	0.0	Deny
+117682	2008020839319	2008-01-31 00:00:00	2008-01-22 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Jewelry - Fine	Denied	0.0	Deny
+118179	2008022840271	2008-02-11 00:00:00	2008-01-23 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	500.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+118356	2008022240002	2008-02-14 00:00:00	2008-01-12 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	17.0	Currency	Denied	0.0	Deny
+120315	2008040741960	2008-03-26 00:00:00	2008-03-02 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1128.02	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+120720	2008041042321	2008-04-02 00:00:00	2008-03-01 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	315.0	Cameras - Digital	Settled	157.5	Settle
+121367	2008042143000	2008-04-14 00:00:00	2008-03-24 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	60.0	Bags - Fabric, plastic, etc. (not purses)	Settled	30.0	Settle
+121525	2008042343224	2008-04-17 00:00:00	2008-04-07 00:00:00	CHS	Charleston International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	50.0	Locks*Locks	Denied	0.0	Deny
+121628	2008042343251	2008-04-21 00:00:00	2008-02-18 00:00:00	CHS	Charleston International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	434.96	Cameras - Digital*Other	Denied	0.0	Deny
+121707	2008042543384	2008-04-21 00:00:00	2008-04-16 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	41.17	Clothing - Shoes, belts, accessories, etc.	Settled	20.59	Settle
+121896	2008042943548	2008-04-25 00:00:00	2008-04-06 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage	120.0	Watches - Expensive more than $100	Denied	0.0	Deny
+121953	2008043043550	2008-04-28 00:00:00	2008-04-26 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	300.0	Computer - Laptop*Other	Denied	0.0	Deny
+122785	2008051644450	2008-05-14 00:00:00	2008-03-09 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	14.0	Locks	Denied	0.0	Deny
+123238	2008052744835	2008-05-23 00:00:00	2008-05-22 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	410.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Clothing - Shoes, belts, accessories, etc.	Settled	192.0	Settle
+123304	2008052944961	2008-05-27 00:00:00	2008-05-24 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	1182.49	Computer - Laptop*Dishes, Pottery, Glassware, Plasticware	Denied	0.0	Deny
 123909	2008060945429	2008-06-09 00:00:00	2008-05-08 00:00:00	CHS	Charleston International	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Denied	0.0	Deny
-125160	2008071046773	2008-07-07 00:00:00	2008-06-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	136.78	Clothing & Accessories	Settled	68.39	Settle
-125280	2008072447351	2008-07-10 00:00:00	2008-07-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Food & Drink,Clothing & Accessories,Other	Canceled	0.0	
-125341	2008072447353	2008-07-10 00:00:00	2008-07-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	40.0	Food & Drink,Clothing & Accessories,Other	Denied	0.0	Deny
-125495	2008072447267	2008-07-14 00:00:00	2008-07-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint	46.6	Containers,Games & Toys	Denied	0.0	Deny
-126152	2008080147887	2008-07-29 00:00:00	2008-07-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	1299.0	Electronics	Denied	0.0	Deny
+125160	2008071046773	2008-07-07 00:00:00	2008-06-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	136.78	Eyeglasses - (including contact lenses)	Settled	68.39	Settle
+125280	2008072447351	2008-07-10 00:00:00	2008-07-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Alcoholic beverages*Clothing - Shoes, belts, accessories, etc.*Other	Canceled	0.0	
+125341	2008072447353	2008-07-10 00:00:00	2008-07-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	40.0	Alcoholic beverages*Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+125495	2008072447267	2008-07-14 00:00:00	2008-07-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint	46.6	Bags - Fabric, plastic, etc. (not purses)*Knick Knacks (bric-a-bracks)	Denied	0.0	Deny
+126152	2008080147887	2008-07-29 00:00:00	2008-07-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	1299.0	Computer - Laptop	Denied	0.0	Deny
 126524	2008080848274	2008-08-05 00:00:00	2008-07-29 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	365.64	Other	Settled	82.34	Settle
 126530	2008081148309	2008-08-06 00:00:00	2008-07-28 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	97.5	Other	Approved	97.5	Approve in Full
-126613	2008072547478	2008-08-07 00:00:00	2008-07-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	153.15	Containers,Clothing & Accessories,Other	Denied	0.0	Deny
-126671	2008081348482	2008-08-07 00:00:00	2008-07-24 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	280.0	Electronics	Settled	112.0	Settle
-127613	2008090449431	2008-08-29 00:00:00	2008-08-12 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-127729	2008090449429	2008-09-02 00:00:00	2008-07-28 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	55.0	Games & Toys	Settled	27.5	Settle
-127762	2008090549553	2008-09-03 00:00:00	2008-08-27 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2800.0	Electronics,Other	Denied	0.0	Deny
-128482	2008092550454	2008-09-19 00:00:00	2008-09-02 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	2500.0	Watches & Jewelry	Canceled	0.0	
-129929	2008110551888	2008-10-27 00:00:00	2008-10-25 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	175.0	Watches & Jewelry	Denied	0.0	Deny
-130072	2008110651980	2008-10-30 00:00:00	2008-10-25 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	790.0	Electronics,Electronics,Electronics	Denied	0.0	Deny
-130878	2008112152684	2008-11-20 00:00:00	2008-10-15 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	10.2	Tools & Machines	Denied	0.0	Deny
-131068	2008120152951	2008-11-25 00:00:00	2008-11-17 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage	2.5	Tools & Machines	Denied	0.0	Deny
-132019	2008123053831	2008-12-22 00:00:00	2008-12-13 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5635.0	Watches & Jewelry	Denied	0.0	Deny
-133710	2009021855635	2009-02-04 00:00:00	2008-12-28 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checkpoint	190.0	Cosmetics	Denied	0.0	Deny
-134371	2009031256162	2009-02-25 00:00:00	2009-01-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.93	Outdoors Supplies	Canceled	0.0	
-134402	2009031656312	2009-02-25 00:00:00	2009-01-14 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2510.0	Watches & Jewelry,Tools & Machines	Denied	0.0	Deny
-135903	2009042858048	2009-04-06 00:00:00	2009-03-30 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2500.0	Electronics	Canceled	0.0	
+126613	2008072547478	2008-08-07 00:00:00	2008-07-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	153.15	Boxes - Jewelry, Cigarette, Music, etc.*Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+126671	2008081348482	2008-08-07 00:00:00	2008-07-24 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	280.0	Cameras - Digital	Settled	112.0	Settle
+127613	2008090449431	2008-08-29 00:00:00	2008-08-12 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
+127729	2008090449429	2008-09-02 00:00:00	2008-07-28 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	55.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Settled	27.5	Settle
+127762	2008090549553	2008-09-03 00:00:00	2008-08-27 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2800.0	Computer - Laptop*Other	Denied	0.0	Deny
+128482	2008092550454	2008-09-19 00:00:00	2008-09-02 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	2500.0	Jewelry - Fine	Canceled	0.0	
+129929	2008110551888	2008-10-27 00:00:00	2008-10-25 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	175.0	Jewelry - Fine	Denied	0.0	Deny
+130072	2008110651980	2008-10-30 00:00:00	2008-10-25 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	790.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*GPS - Global Positioning System	Denied	0.0	Deny
+130878	2008112152684	2008-11-20 00:00:00	2008-10-15 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	10.2	Locks	Denied	0.0	Deny
+131068	2008120152951	2008-11-25 00:00:00	2008-11-17 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage	2.5	Locks	Denied	0.0	Deny
+132019	2008123053831	2008-12-22 00:00:00	2008-12-13 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5635.0	Jewelry - Fine	Denied	0.0	Deny
+133710	2009021855635	2009-02-04 00:00:00	2008-12-28 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checkpoint	190.0	Wigs (including hairpieces) $100 - $250	Denied	0.0	Deny
+134371	2009031256162	2009-02-25 00:00:00	2009-01-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.93	Tools - Manual (not in a vehicle)	Canceled	0.0	
+134402	2009031656312	2009-02-25 00:00:00	2009-01-14 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2510.0	Jewelry - Fine*Locks	Denied	0.0	Deny
+135903	2009042858048	2009-04-06 00:00:00	2009-03-30 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	2500.0	Computer - Laptop	Canceled	0.0	
 136313	2009050458289	2009-04-17 00:00:00	2009-03-18 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.99	Other	Canceled	0.0	
-136378	2009050658385	2009-04-20 00:00:00	2009-04-03 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	90.0	Electronics	Denied	0.0	Deny
-137161	2009052059132	2009-05-11 00:00:00	2009-04-18 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Denied	0.0	Deny
-137195	2009051458623	2009-05-12 00:00:00	2009-04-21 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Denied	0.0	Deny
-137322	2009052159263	2009-05-15 00:00:00	2009-05-03 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	30.0	Cosmetics	Denied	0.0	Deny
-137800	2009060259776	2009-05-29 00:00:00	2009-05-21 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	170.0	Games & Toys	Denied	0.0	Deny
-137984	2009061060034	2009-06-04 00:00:00	2009-05-22 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	41.7	Cosmetics	Denied	0.0	Deny
-139046	2009071061069	2009-07-01 00:00:00	2009-06-10 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-140024	2009073162080	2009-07-28 00:00:00	2009-07-13 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	2500.0	Electronics	Denied	0.0	Deny
-140485	2009081162499	2009-08-10 00:00:00	2009-04-09 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	720.04	Clothing & Accessories,Clothing & Accessories,Tools & Machines	Denied	0.0	Deny
-140740	2009081962731	2009-08-17 00:00:00	2009-08-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	224.6	Containers,Cosmetics	Denied	0.0	Deny
-141344	2009090463372	2009-09-02 00:00:00	2009-08-23 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	1664.99	Electronics	Denied	0.0	Deny
-142444	2009100764419	2009-10-07 00:00:00	2009-09-19 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	42.8	Clothing & Accessories	Canceled		
-142466	2010010467066	2009-10-07 00:00:00	2009-09-19 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	42.8	Clothing & Accessories	Denied	0.0	Deny
-142624	2009102364674	2009-10-14 00:00:00	2009-10-13 14:11:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	160.0	Cosmetics	Denied	0.0	Deny
-145561	2010021268371	2010-02-01 00:00:00	2010-01-01 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		7.19	Approve in Full
-147153	2010033170256	2010-03-30 00:00:00	2010-03-28 16:35:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-147865	2010042671147	2010-04-19 00:00:00	2010-04-11 07:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-148737	2010052172008	2010-05-17 00:00:00	2010-04-25 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-149743	2010062372980	2010-06-17 00:00:00	2010-06-12 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Deny
-149981	2010063073265	2010-06-25 00:00:00	2010-06-12 13:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checkpoint		Scientific Intruments			
-151371	2010081374785	2010-08-04 00:00:00	2010-08-02 15:50:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-152813	2010092176237	2010-09-14 00:00:00	2010-09-04 12:45:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-154208	2010110677652	2010-10-27 00:00:00	2010-10-18 13:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-154299	2010111077749	2010-11-01 00:00:00	2010-10-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-154327	2010111077781	2010-11-01 00:00:00	2010-10-31 14:15:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		15.9	Approve in Full
-154609	2010112978314	2010-11-09 00:00:00	2010-09-29 06:30:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-155484	2010122078887	2010-12-09 00:00:00	2010-11-20 09:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+136378	2009050658385	2009-04-20 00:00:00	2009-04-03 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checkpoint	90.0	Computer - Laptop	Denied	0.0	Deny
+137161	2009052059132	2009-05-11 00:00:00	2009-04-18 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	25.0	Locks	Denied	0.0	Deny
+137195	2009051458623	2009-05-12 00:00:00	2009-04-21 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	GPS - Global Positioning System	Denied	0.0	Deny
+137322	2009052159263	2009-05-15 00:00:00	2009-05-03 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	30.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+137800	2009060259776	2009-05-29 00:00:00	2009-05-21 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	170.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+137984	2009061060034	2009-06-04 00:00:00	2009-05-22 00:00:00	CHS	Charleston International		Passenger Property Loss	Checked Baggage	41.7	Razors (other than electric)	Denied	0.0	Deny
+139046	2009071061069	2009-07-01 00:00:00	2009-06-10 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Locks	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+140024	2009073162080	2009-07-28 00:00:00	2009-07-13 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	2500.0	Computer - Laptop	Denied	0.0	Deny
+140485	2009081162499	2009-08-10 00:00:00	2009-04-09 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage	720.04	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)*Locks	Denied	0.0	Deny
+140740	2009081962731	2009-08-17 00:00:00	2009-08-01 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage	224.6	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+141344	2009090463372	2009-09-02 00:00:00	2009-08-23 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	1664.99	Computer - Laptop	Denied	0.0	Deny
+142444	2009100764419	2009-10-07 00:00:00	2009-09-19 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	42.8	Clothing - Shoes, belts, accessories, etc.	Canceled		
+142466	2010010467066	2009-10-07 00:00:00	2009-09-19 00:00:00	CHS	Charleston International	AirTran Airlines	Passenger Property Loss	Checked Baggage	42.8	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+142624	2009102364674	2009-10-14 00:00:00	2009-10-13 14:11:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage	160.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+145561	2010021268371	2010-02-01 00:00:00	2010-01-01 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		7.19	Approve in Full
+147153	2010033170256	2010-03-30 00:00:00	2010-03-28 16:35:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+147865	2010042671147	2010-04-19 00:00:00	2010-04-11 07:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing			
+148737	2010052172008	2010-05-17 00:00:00	2010-04-25 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+149743	2010062372980	2010-06-17 00:00:00	2010-06-12 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Toys & Games		0.0	Deny
+149981	2010063073265	2010-06-25 00:00:00	2010-06-12 13:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checkpoint		Medical/Science			
+151371	2010081374785	2010-08-04 00:00:00	2010-08-02 15:50:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+152813	2010092176237	2010-09-14 00:00:00	2010-09-04 12:45:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+154208	2010110677652	2010-10-27 00:00:00	2010-10-18 13:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras*Computer & Accessories		0.0	Deny
+154299	2010111077749	2010-11-01 00:00:00	2010-10-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+154327	2010111077781	2010-11-01 00:00:00	2010-10-31 14:15:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		15.9	Approve in Full
+154609	2010112978314	2010-11-09 00:00:00	2010-09-29 06:30:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+155484	2010122078887	2010-12-09 00:00:00	2010-11-20 09:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
 156543	2011020879989	2011-01-18 00:00:00	2010-05-10 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-156731	2011021880290	2011-01-20 00:00:00	2010-11-23 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-157232	2011030380897	2011-02-03 00:00:00	2011-01-14 08:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-158268	2011040181717	2011-03-11 00:00:00	2011-03-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-158653	2011041282103	2011-03-25 00:00:00	2011-03-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Electronics			
-158776	2011032981478	2011-03-30 00:00:00	2010-11-29 19:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
+156731	2011021880290	2011-01-20 00:00:00	2010-11-23 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+157232	2011030380897	2011-02-03 00:00:00	2011-01-14 08:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+158268	2011040181717	2011-03-11 00:00:00	2011-03-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+158653	2011041282103	2011-03-25 00:00:00	2011-03-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Personal Electronics			
+158776	2011032981478	2011-03-30 00:00:00	2010-11-29 19:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Travel Accessories		0.0	Deny
 158812	2011041382189	2011-03-31 00:00:00	2011-03-08 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-158909	2011041382268	2011-04-04 00:00:00	2011-03-15 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-159064	2011041382442	2011-04-07 00:00:00	2011-03-28 17:45:00	CHS	Charleston International	American Eagle	Passenger Property Loss	Checkpoint		Cosmetics,Other		0.0	Deny
+158909	2011041382268	2011-04-04 00:00:00	2011-03-15 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+159064	2011041382442	2011-04-07 00:00:00	2011-03-28 17:45:00	CHS	Charleston International	American Eagle	Passenger Property Loss	Checkpoint		Cosmetics & Grooming*Other		0.0	Deny
 159700	2011050583237	2011-04-27 00:00:00	2010-09-17 09:15:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-160313	2011060183881	2011-05-17 00:00:00	2011-04-21 23:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-160336	2011053183839	2011-05-18 00:00:00	2011-04-28 12:30:00	CHS	Charleston International	USAir	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+160313	2011060183881	2011-05-17 00:00:00	2011-04-21 23:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+160336	2011053183839	2011-05-18 00:00:00	2011-04-28 12:30:00	CHS	Charleston International	USAir	Passenger Property Loss	Checkpoint		Computer & Accessories		0.0	Deny
 160752	2011061484286	2011-06-01 00:00:00	2011-03-26 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
-161489	2011070184930	2011-06-27 00:00:00	2011-06-18 05:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		8.0	Approve in Full
-162643	2011081886228	2011-08-02 00:00:00	2011-07-24 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-164623	2011101888054	2011-10-07 00:00:00	2011-10-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-165071	2011102688380	2011-10-24 00:00:00	2011-10-06 18:20:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
-165373	2011110888819	2011-11-01 00:00:00	2011-07-26 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-165513	2011111689061	2011-11-07 00:00:00	2011-10-06 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-165961	2011121289529	2011-11-22 00:00:00	2011-10-23 11:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
-166194	2011121989761	2011-12-01 00:00:00	2011-11-28 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-166350	2011120789396	2011-12-07 00:00:00	2011-09-23 11:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-166624	2012011290189	2011-12-16 00:00:00	2011-12-15 11:47:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-167342	2012021390963	2012-01-11 00:00:00	2011-12-21 00:00:00	CHS	Charleston International	USA 3000 (U5)	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-168248	2012020990835	2012-02-09 00:00:00	2012-01-05 10:45:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-168923	2012040492520	2012-03-05 00:00:00	2012-02-20 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		0.0	Deny
-171140	2012121999324	2012-05-22 00:00:00	2012-05-05 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		500.0	Approve in Full
-171454	2012070995139	2012-06-04 00:00:00	2012-05-28 10:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-172849	2012090796661	2012-07-24 00:00:00	2012-07-21 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
-174413	2012102598142	2012-09-17 00:00:00	2012-08-24 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-174995	2012092096997	2012-10-10 00:00:00	2012-08-02 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		20.81	Approve in Full
-175046	2012111398610	2012-10-12 00:00:00	2012-09-23 06:30:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		501.37	Settle
-175065	2012111598708	2012-10-15 00:00:00	2012-10-09 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		0.0	Deny
-175449	2012121099215	2012-10-25 00:00:00	2012-10-09 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry			
-176357	2012121999322	2012-12-03 00:00:00	2012-12-01 12:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		500.0	Settle
-177661	2013021401474	2013-01-22 00:00:00	2013-01-05 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-177681	2013021201334	2013-01-23 00:00:00	2013-01-07 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-178782	2013030502405	2013-03-04 00:00:00	2013-01-02 08:20:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+161489	2011070184930	2011-06-27 00:00:00	2011-06-18 05:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		8.0	Approve in Full
+162643	2011081886228	2011-08-02 00:00:00	2011-07-24 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+164623	2011101888054	2011-10-07 00:00:00	2011-10-06 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+165071	2011102688380	2011-10-24 00:00:00	2011-10-06 18:20:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Electronics			
+165373	2011110888819	2011-11-01 00:00:00	2011-07-26 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+165513	2011111689061	2011-11-07 00:00:00	2011-10-06 00:00:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+165961	2011121289529	2011-11-22 00:00:00	2011-10-23 11:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories			
+166194	2011121989761	2011-12-01 00:00:00	2011-11-28 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+166350	2011120789396	2011-12-07 00:00:00	2011-09-23 11:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+166624	2012011290189	2011-12-16 00:00:00	2011-12-15 11:47:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+167342	2012021390963	2012-01-11 00:00:00	2011-12-21 00:00:00	CHS	Charleston International	USA 3000 (U5)	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+168248	2012020990835	2012-02-09 00:00:00	2012-01-05 10:45:00	CHS	Charleston International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cameras			
+168923	2012040492520	2012-03-05 00:00:00	2012-02-20 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+171140	2012121999324	2012-05-22 00:00:00	2012-05-05 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		500.0	Approve in Full
+171454	2012070995139	2012-06-04 00:00:00	2012-05-28 10:30:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+172849	2012090796661	2012-07-24 00:00:00	2012-07-21 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing*Other		0.0	Deny
+174413	2012102598142	2012-09-17 00:00:00	2012-08-24 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+174995	2012092096997	2012-10-10 00:00:00	2012-08-02 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		20.81	Approve in Full
+175046	2012111398610	2012-10-12 00:00:00	2012-09-23 06:30:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Clothing		501.37	Settle
+175065	2012111598708	2012-10-15 00:00:00	2012-10-09 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+175449	2012121099215	2012-10-25 00:00:00	2012-10-09 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches			
+176357	2012121999322	2012-12-03 00:00:00	2012-12-01 12:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		500.0	Settle
+177661	2013021401474	2013-01-22 00:00:00	2013-01-05 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+177681	2013021201334	2013-01-23 00:00:00	2013-01-07 00:00:00	CHS	Charleston International	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+178782	2013030502405	2013-03-04 00:00:00	2013-01-02 08:20:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
 179491	2013041503170	2013-04-01 00:00:00	2013-03-17 16:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
 179634	2013042403306	2013-04-05 00:00:00	2013-03-25 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-179950	2013051303642	2013-04-17 00:00:00	2013-04-06 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-181205	2013062504723	2013-06-05 00:00:00	2013-05-08 11:28:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		95.39	Approve in Full
-183307	2013091807055	2013-08-15 00:00:00	2013-07-10 05:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+179950	2013051303642	2013-04-17 00:00:00	2013-04-06 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+181205	2013062504723	2013-06-05 00:00:00	2013-05-08 11:28:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing		95.39	Approve in Full
+183307	2013091807055	2013-08-15 00:00:00	2013-07-10 05:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
 183638	2013082606253	2013-08-26 00:00:00	2013-07-14 17:30:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-184810	2013110108548	2013-10-13 00:00:00	2013-10-12 11:00:00	CHS	Charleston International	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-185979	2013120309752	2013-11-29 00:00:00	2013-11-16 10:30:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+184810	2013110108548	2013-10-13 00:00:00	2013-10-12 11:00:00	CHS	Charleston International	Jet Blue	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+185979	2013120309752	2013-11-29 00:00:00	2013-11-16 10:30:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			
 188024	2014022011792	2014-02-12 00:00:00	2014-02-09 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink		30.37	Approve in Full
-188506	2014030712283	2014-03-06 00:00:00	2014-02-15 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		130.8	Approve in Full
-189227	2014040713025	2014-04-02 00:00:00	2014-03-30 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-189597	2014042113400	2014-04-18 00:00:00	2014-04-13 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		257.89	Approve in Full
-189649	2014042313455	2014-04-21 00:00:00	2014-04-10 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-189761	2014042913570	2014-04-24 00:00:00	2014-04-19 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-191175	2014070715009	2014-06-24 00:00:00	2014-06-09 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-192723	2014091516594	2014-08-22 00:00:00	2014-07-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		192.88	Settle
-193547	2014100717431	2014-09-26 00:00:00	2014-09-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-193944	2014102017837	2014-10-14 00:00:00	2014-09-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
-196667	2015012620178	2015-01-27 00:00:00	2015-01-04 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		69.3	Approve in Full
+188506	2014030712283	2014-03-06 00:00:00	2014-02-15 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		130.8	Approve in Full
+189227	2014040713025	2014-04-02 00:00:00	2014-03-30 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing		0.0	Deny
+189597	2014042113400	2014-04-18 00:00:00	2014-04-13 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		257.89	Approve in Full
+189649	2014042313455	2014-04-21 00:00:00	2014-04-10 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
+189761	2014042913570	2014-04-24 00:00:00	2014-04-19 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+191175	2014070715009	2014-06-24 00:00:00	2014-06-09 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+192723	2014091516594	2014-08-22 00:00:00	2014-07-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		192.88	Settle
+193547	2014100717431	2014-09-26 00:00:00	2014-09-23 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+193944	2014102017837	2014-10-14 00:00:00	2014-09-30 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Audio/Video			
+196667	2015012620178	2015-01-27 00:00:00	2015-01-04 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing		69.3	Approve in Full
 196668	2015020620459	2015-02-06 00:00:00	2015-02-02 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-196669	2015031021097	2015-03-10 00:00:00	2015-02-21 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-196670	2015031721288	2015-03-17 00:00:00	2015-03-03 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		9.99	Approve in Full
-196672	2015040221719	2015-04-02 00:00:00	2014-09-04 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-196674	2015042722133	2015-04-17 00:00:00	2015-04-08 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		130.69	Approve in Full
-196676	2015052122659	2015-05-19 00:00:00	2015-05-18 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		99.0	Approve in Full
+196669	2015031021097	2015-03-10 00:00:00	2015-02-21 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+196670	2015031721288	2015-03-17 00:00:00	2015-03-03 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		9.99	Approve in Full
+196672	2015040221719	2015-04-02 00:00:00	2014-09-04 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+196674	2015042722133	2015-04-17 00:00:00	2015-04-08 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing		130.69	Approve in Full
+196676	2015052122659	2015-05-19 00:00:00	2015-05-18 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		99.0	Approve in Full
 196678	2015060922979	2015-05-29 00:00:00	2015-04-14 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
 196679	2015060922982	2015-05-29 00:00:00	2015-04-14 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-196680	2015061723200	2015-06-11 00:00:00	2015-05-27 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-196681	2015072024001	2015-07-14 00:00:00	2015-04-05 00:00:00	CHS	Charleston International	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		65.0	Approve in Full
-196683	2015082425057	2015-08-20 00:00:00	2015-06-03 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry			
-196684	2015082425055	2015-08-21 00:00:00	2015-08-04 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		14.0	Approve in Full
-196687	2015100225849	2015-09-16 00:00:00	2015-08-25 00:00:00	CHS	Charleston International	Turkish Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-196691	2015120227249	2015-11-16 00:00:00	2015-11-14 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Other			
-196692	2015120927437	2015-11-19 00:00:00	2015-10-02 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
-196693	2015122927953	2015-11-23 00:00:00	2015-10-03 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-196694	2015121527587	2015-11-30 00:00:00	2015-11-27 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
-196696	2016011128252	2015-12-29 00:00:00	2015-12-21 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Games & Toys			
-205306	2016022929222	2016-02-04 00:00:00	2016-02-02 00:00:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Office Supplies		40.0	Approve in Full
-205308	2016052031536	2016-05-05 00:00:00	2016-03-27 06:00:00	CHS	Charleston International Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		116.63	Approve in Full
-205315	2016021828953	2016-01-29 00:00:00	2016-01-13 18:00:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Cosmetics			Closed:Contractor Claim
+196680	2015061723200	2015-06-11 00:00:00	2015-05-27 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+196681	2015072024001	2015-07-14 00:00:00	2015-04-05 00:00:00	CHS	Charleston International	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing		65.0	Approve in Full
+196683	2015082425057	2015-08-20 00:00:00	2015-06-03 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checkpoint		Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches*Jewelry & Watches			
+196684	2015082425055	2015-08-21 00:00:00	2015-08-04 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		14.0	Approve in Full
+196687	2015100225849	2015-09-16 00:00:00	2015-08-25 00:00:00	CHS	Charleston International	Turkish Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
+196691	2015120227249	2015-11-16 00:00:00	2015-11-14 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Currency			
+196692	2015120927437	2015-11-19 00:00:00	2015-10-02 00:00:00	CHS	Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Medical/Science			
+196693	2015122927953	2015-11-23 00:00:00	2015-10-03 00:00:00	CHS	Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			
+196694	2015121527587	2015-11-30 00:00:00	2015-11-27 00:00:00	CHS	Charleston International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories			
+196696	2016011128252	2015-12-29 00:00:00	2015-12-21 00:00:00	CHS	Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Toys & Games			
+205306	2016022929222	2016-02-04 00:00:00	2016-02-02 00:00:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Books, Magazines & Other		40.0	Approve in Full
+205308	2016052031536	2016-05-05 00:00:00	2016-03-27 06:00:00	CHS	Charleston International Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		116.63	Approve in Full
+205315	2016021828953	2016-01-29 00:00:00	2016-01-13 18:00:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Other*Travel Accessories			Closed:Contractor Claim
 205317	2016032530094	2016-03-10 00:00:00	2016-03-05 00:00:00	CHS	Charleston International Charleston International		Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-205318	2016060632022	2016-05-24 00:00:00	2016-04-20 00:00:00	CHS	Charleston International Charleston International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-205319	2016071132568	2016-06-13 00:00:00	2016-06-05 11:30:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-205320	2016090733474	2016-07-22 00:00:00	2016-07-05 10:42:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
-205327	2017021537542	2017-01-06 00:00:00	2016-11-13 00:00:00	CHS	Charleston International Charleston International		Passenger Property Loss	Checkpoint		Electronics			In Review
-213532	2017062240945	2017-05-01 00:00:00	2017-04-11 00:00:00	CHS	Charleston International Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		45.0	Approve in Full
+205318	2016060632022	2016-05-24 00:00:00	2016-04-20 00:00:00	CHS	Charleston International Charleston International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+205319	2016071132568	2016-06-13 00:00:00	2016-06-05 11:30:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
+205320	2016090733474	2016-07-22 00:00:00	2016-07-05 10:42:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Travel Accessories		0.0	Deny
+205327	2017021537542	2017-01-06 00:00:00	2016-11-13 00:00:00	CHS	Charleston International Charleston International		Passenger Property Loss	Checkpoint		Computer & Accessories			In Review
+213532	2017062240945	2017-05-01 00:00:00	2017-04-11 00:00:00	CHS	Charleston International Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		45.0	Approve in Full
 213537	2017100443922	2017-09-06 00:00:00	2017-08-28 14:00:00	CHS	Charleston International Charleston International	Direct Air	Passenger Property Loss	Checked Baggage		Other			In Review
-213538	2018010246386	2017-12-07 00:00:00	2017-11-28 06:30:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
-213540	2017102644774	2017-10-10 00:00:00	2017-10-06 00:00:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checkpoint		Other			In Review
-213544	2017041338557	2017-02-15 00:00:00	2017-02-12 00:00:00	CHS	Charleston International Charleston International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		475.47	Settle
-213545	2017120145690	2017-11-15 00:00:00	2017-11-12 10:00:00	CHS	Charleston International Charleston International	Jet Blue	Passenger Property Loss			Watches & Jewelry			Insufficient
+213538	2018010246386	2017-12-07 00:00:00	2017-11-28 06:30:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checkpoint		Personal Electronics			In Review
+213540	2017102644774	2017-10-10 00:00:00	2017-10-06 00:00:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checkpoint		Currency			In Review
+213544	2017041338557	2017-02-15 00:00:00	2017-02-12 00:00:00	CHS	Charleston International Charleston International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras		475.47	Settle
+213545	2017120145690	2017-11-15 00:00:00	2017-11-12 10:00:00	CHS	Charleston International Charleston International	Jet Blue	Passenger Property Loss			Jewelry & Watches			Insufficient
 213549	2017090642750	2017-07-21 00:00:00	2017-07-20 00:00:00	CHS	Charleston International Charleston International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
-213550	2017062240928	2017-05-23 00:00:00	2017-05-20 00:00:00	CHS	Charleston International Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			Closed: Canceled
-213551	2017090142663	2017-07-26 00:00:00	2017-05-03 04:30:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Theft	Checkpoint		Other			In Review
+213550	2017062240928	2017-05-23 00:00:00	2017-05-20 00:00:00	CHS	Charleston International Charleston International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Medical/Science			Closed: Canceled
+213551	2017090142663	2017-07-26 00:00:00	2017-05-03 04:30:00	CHS	Charleston International Charleston International	Delta Air Lines	Passenger Theft	Checkpoint		Currency			In Review

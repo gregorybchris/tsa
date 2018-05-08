@@ -1,31 +1,31 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 18862	1022054M	2003-10-22 00:00:00	2003-08-20 00:00:00	ACV	Arcata-Eureka		Passenger Property Loss	Checked Baggage	305.0	Other	Settled	152.5	Settle
 43237	2004100664711	2004-08-24 00:00:00	2004-08-04 00:00:00	ACV	Arcata-Eureka	US Express	Passenger Property Loss	Checked Baggage	950.0	Other	Denied	0.0	Deny
-52314	2005010572766	2004-12-17 00:00:00	2004-11-20 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	296.0	Watches & Jewelry	Denied	0.0	Deny
-56875	2005031077593	2005-02-09 00:00:00	2005-01-18 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	9.12	Tools & Machines	Approved	9.12	Approve in Full
-60778	2005040681687	2005-04-05 00:00:00	2005-01-21 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
-61473	2005041482542	2005-04-12 00:00:00	2005-03-10 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
-68157	2005071889124	2005-07-15 00:00:00	2005-07-11 00:00:00	ACV	Arcata-Eureka		Passenger Property Loss	Checked Baggage	244.98	Electronics	Approved	244.98	Approve in Full
-69549	2005081690660	2005-08-05 00:00:00	2005-07-31 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	161.25	Electronics	Approved	161.25	Approve in Full
-72187	2005092893337	2005-09-19 00:00:00	2005-08-21 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	275.0	Supplies	Approved	275.0	Approve in Full
+52314	2005010572766	2004-12-17 00:00:00	2004-11-20 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	296.0	Jewelry - Fine	Denied	0.0	Deny
+56875	2005031077593	2005-02-09 00:00:00	2005-01-18 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	9.12	Locks	Approved	9.12	Approve in Full
+60778	2005040681687	2005-04-05 00:00:00	2005-01-21 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+61473	2005041482542	2005-04-12 00:00:00	2005-03-10 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Approved	30.0	Approve in Full
+68157	2005071889124	2005-07-15 00:00:00	2005-07-11 00:00:00	ACV	Arcata-Eureka		Passenger Property Loss	Checked Baggage	244.98	DVD/CD Players	Approved	244.98	Approve in Full
+69549	2005081690660	2005-08-05 00:00:00	2005-07-31 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	161.25	Cell Phones	Approved	161.25	Approve in Full
+72187	2005092893337	2005-09-19 00:00:00	2005-08-21 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	275.0	Medicines	Approved	275.0	Approve in Full
 73191	2005100694179	2005-10-04 00:00:00	2005-08-23 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	498.97	Other	Denied	0.0	Deny
-73460	2005101494577	2005-10-07 00:00:00	2005-09-18 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	267.44	Electronics	Denied	0.0	Deny
-76933	2005121697913	2005-12-12 00:00:00	2005-11-28 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
+73460	2005101494577	2005-10-07 00:00:00	2005-09-18 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	267.44	Cameras - Digital	Denied	0.0	Deny
+76933	2005121697913	2005-12-12 00:00:00	2005-11-28 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Denied	0.0	Deny
 77909	2006010699027	2006-01-03 00:00:00	2005-12-25 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	49.99	Other	Denied	0.0	Deny
-78525	2006011799709	2006-01-10 00:00:00	2005-11-30 00:00:00	ACV	Arcata-Eureka		Passenger Property Loss	Checked Baggage	60.0	Other	Denied	0.0	Deny
-81162	2006022802280	2006-02-23 00:00:00	2005-12-19 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	245.94	Electronics	Settled	203.04	Settle
-86633	2006061307893	2006-06-12 00:00:00	2006-05-16 00:00:00	ACV	Arcata-Eureka	Alaska Airlines	Passenger Property Loss	Checked Baggage	290.05	Clothing & Accessories,Cosmetics,Containers,Other	Denied	0.0	Deny
-87794	2006070609067	2006-07-05 00:00:00	2006-06-13 00:00:00	ACV	Arcata-Eureka	Alaska Airlines	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Denied	0.0	Deny
-88840	2006072610080	2006-07-24 00:00:00	2006-06-03 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Settled	50.0	Settle
-91328	2006091812695	2006-09-11 00:00:00	2006-08-16 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	11.25	Tools & Machines	Approved	11.25	Approve in Full
-108753	2007081330179	2007-08-09 00:00:00	2007-07-20 00:00:00	ACV	Arcata-Eureka	USAir	Passenger Property Loss	Checked Baggage	23.26	Electronics,Other	Approved	23.26	Approve in Full
-112927	2007110234300	2007-10-30 00:00:00	2007-10-06 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	2206.07	Electronics,Electronics	Denied	0.0	Deny
-116459	2008011838165	2008-01-09 00:00:00	2007-12-31 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Denied	0.0	Deny
-117278	2008013038891	2008-01-24 00:00:00	2007-12-26 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	60.0	Cosmetics	Denied	0.0	Deny
-124635	2008062546137	2008-06-25 00:00:00	2008-05-29 00:00:00	ACV	Arcata-Eureka	American Airlines	Passenger Property Loss	Checked Baggage	155.16	Cosmetics	Denied	0.0	Deny
-124792	2008070846624	2008-06-27 00:00:00	2008-06-11 00:00:00	ACV	Arcata-Eureka	US Express	Passenger Property Loss	Checked Baggage	100.0	Electronics,Other	Denied	0.0	Deny
-128817	2008090849605	2008-09-29 00:00:00	2008-07-17 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	30.0	Cosmetics	Denied	0.0	Deny
-129190	2008101051055	2008-10-07 00:00:00	2008-09-21 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	60.0	Other	Settled	30.0	Settle
-160194	2011050283095	2011-05-16 00:00:00	2011-03-15 00:00:00	ACV	Arcata-Eureka	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-195596	2015072224105	2015-07-15 00:00:00	2015-05-31 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage		Other,Other,Other		0.0	Deny
+78525	2006011799709	2006-01-10 00:00:00	2005-11-30 00:00:00	ACV	Arcata-Eureka		Passenger Property Loss	Checked Baggage	60.0	Currency	Denied	0.0	Deny
+81162	2006022802280	2006-02-23 00:00:00	2005-12-19 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	245.94	Cameras - Digital	Settled	203.04	Settle
+86633	2006061307893	2006-06-12 00:00:00	2006-05-16 00:00:00	ACV	Arcata-Eureka	Alaska Airlines	Passenger Property Loss	Checked Baggage	290.05	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Handbags & Purses (leather or fabric)*Other	Denied	0.0	Deny
+87794	2006070609067	2006-07-05 00:00:00	2006-06-13 00:00:00	ACV	Arcata-Eureka	Alaska Airlines	Passenger Property Loss	Checked Baggage	600.0	Jewelry - Fine	Denied	0.0	Deny
+88840	2006072610080	2006-07-24 00:00:00	2006-06-03 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	100.0	Jewelry - Costume	Settled	50.0	Settle
+91328	2006091812695	2006-09-11 00:00:00	2006-08-16 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	11.25	Locks	Approved	11.25	Approve in Full
+108753	2007081330179	2007-08-09 00:00:00	2007-07-20 00:00:00	ACV	Arcata-Eureka	USAir	Passenger Property Loss	Checked Baggage	23.26	Batteries - Dry cell only*Other	Approved	23.26	Approve in Full
+112927	2007110234300	2007-10-30 00:00:00	2007-10-06 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	2206.07	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+116459	2008011838165	2008-01-09 00:00:00	2007-12-31 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Denied	0.0	Deny
+117278	2008013038891	2008-01-24 00:00:00	2007-12-26 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	60.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+124635	2008062546137	2008-06-25 00:00:00	2008-05-29 00:00:00	ACV	Arcata-Eureka	American Airlines	Passenger Property Loss	Checked Baggage	155.16	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+124792	2008070846624	2008-06-27 00:00:00	2008-06-11 00:00:00	ACV	Arcata-Eureka	US Express	Passenger Property Loss	Checked Baggage	100.0	Audio - CD's*Other	Denied	0.0	Deny
+128817	2008090849605	2008-09-29 00:00:00	2008-07-17 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	30.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+129190	2008101051055	2008-10-07 00:00:00	2008-09-21 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage	60.0	Currency	Settled	30.0	Settle
+160194	2011050283095	2011-05-16 00:00:00	2011-03-15 00:00:00	ACV	Arcata-Eureka	Alaska Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Personal Electronics		0.0	Deny
+195596	2015072224105	2015-07-15 00:00:00	2015-05-31 00:00:00	ACV	Arcata-Eureka	UAL	Passenger Property Loss	Checked Baggage		Currency*Currency*Other		0.0	Deny
 204270	2016082933379	2016-07-20 00:00:00	2016-06-30 00:00:00	ACV	Arcata-Eureka Arcata-Eureka	UAL	Passenger Property Loss	Checkpoint		Other		0.0	Deny

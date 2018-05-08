@@ -1,29 +1,29 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 46749	2004111967423	2004-10-05 00:00:00	2004-09-04 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	215.0	Other	Denied	0.0	Deny
-70722	2005082991694	2005-08-23 00:00:00	2005-08-01 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Settled	40.0	Settle
-74771	2005111095976	2005-11-01 00:00:00	2005-10-21 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	9.75	Tools & Machines	Approved	9.75	Approve in Full
-75988	2005120797104	2005-11-22 00:00:00	2005-10-31 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Settled	42.5	Settle
+70722	2005082991694	2005-08-23 00:00:00	2005-08-01 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	80.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	40.0	Settle
+74771	2005111095976	2005-11-01 00:00:00	2005-10-21 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	9.75	Locks	Approved	9.75	Approve in Full
+75988	2005120797104	2005-11-22 00:00:00	2005-10-31 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing - Shoes, belts, accessories, etc.	Settled	42.5	Settle
 78858	2006012300054	2006-01-17 00:00:00	2005-12-29 00:00:00	ACT	Waco Regional Airport		Passenger Property Loss	Checked Baggage	51.92	Other	Approved	51.92	Approve in Full
-79454	2006013000595	2006-01-24 00:00:00	2006-01-12 00:00:00	ACT	Waco Regional Airport		Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Denied	0.0	Deny
+79454	2006013000595	2006-01-24 00:00:00	2006-01-12 00:00:00	ACT	Waco Regional Airport		Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
 82233	2006031603262	2006-03-14 00:00:00	2006-03-05 00:00:00	ACT	Waco Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	32.09	Other	Settled	16.05	Settle
-90109	2006082311372	2006-08-18 00:00:00	2006-07-24 00:00:00	ACT	Waco Regional Airport	American Eagle	Passenger Property Loss	Checked Baggage	22.6	Electronics	Approved	22.6	Approve in Full
-93829	2006110115020	2006-10-30 00:00:00	2006-10-22 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Denied	0.0	Deny
-98090	2008012338400	2007-01-16 00:00:00	2007-12-21 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checkpoint	85.52	Electronics	Approved	85.52	Approve in Full
-102889	2007041724101	2007-04-16 00:00:00	2007-03-16 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	251.63	Electronics,Electronics,Electronics	Denied	0.0	Deny
-109469	2007082330756	2007-08-22 00:00:00	2007-08-03 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	98.88	Electronics	Denied	0.0	Deny
-141021	2009082662989	2009-08-25 00:00:00	2009-08-15 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	210.0	Electronics	Denied	0.0	Deny
-157259	2011030380811	2011-02-04 00:00:00	2010-12-16 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-165132	2011102688379	2011-10-25 00:00:00	2011-10-10 00:00:00	ACT	Waco Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		25.0	Approve in Full
-167543	2012031391667	2012-01-17 00:00:00	2012-01-05 00:00:00	ACT	Waco Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-170296	2012050793656	2012-04-24 00:00:00	2012-04-06 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		24.99	Approve in Full
-184269	2013091707000	2013-09-17 00:00:00	2013-06-11 18:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-193338	2014093017220	2014-09-17 00:00:00	2014-09-08 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-195595	2015111826956	2015-10-27 00:00:00	2015-10-25 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+90109	2006082311372	2006-08-18 00:00:00	2006-07-24 00:00:00	ACT	Waco Regional Airport	American Eagle	Passenger Property Loss	Checked Baggage	22.6	Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)	Approved	22.6	Approve in Full
+93829	2006110115020	2006-10-30 00:00:00	2006-10-22 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Jewelry - Fine	Denied	0.0	Deny
+98090	2008012338400	2007-01-16 00:00:00	2007-12-21 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checkpoint	85.52	MP3 Players-(iPods, etc)	Approved	85.52	Approve in Full
+102889	2007041724101	2007-04-16 00:00:00	2007-03-16 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	251.63	Batteries - Dry cell only*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+109469	2007082330756	2007-08-22 00:00:00	2007-08-03 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	98.88	Computer - Laptop	Denied	0.0	Deny
+141021	2009082662989	2009-08-25 00:00:00	2009-08-15 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	210.0	Cameras - Digital	Denied	0.0	Deny
+157259	2011030380811	2011-02-04 00:00:00	2010-12-16 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+165132	2011102688379	2011-10-25 00:00:00	2011-10-10 00:00:00	ACT	Waco Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		25.0	Approve in Full
+167543	2012031391667	2012-01-17 00:00:00	2012-01-05 00:00:00	ACT	Waco Regional Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+170296	2012050793656	2012-04-24 00:00:00	2012-04-06 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		24.99	Approve in Full
+184269	2013091707000	2013-09-17 00:00:00	2013-06-11 18:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
+193338	2014093017220	2014-09-17 00:00:00	2014-09-08 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
+195595	2015111826956	2015-10-27 00:00:00	2015-10-25 00:00:00	ACT	Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
 204268	2016031529761	2016-02-26 00:00:00	2016-02-10 14:30:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other		8.51	Approve in Full
-204269	2016072132826	2016-06-15 00:00:00	2016-06-01 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-212463	2017091443121	2017-08-03 00:00:00	2017-06-12 08:54:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Automobile & Mechanical,Cosmetics			In Review
-212464	2017101744472	2017-09-18 00:00:00	2017-08-24 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-212465	2017070541183	2017-05-22 00:00:00	2017-05-07 05:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		4.99	Approve in Full
-212466	2017032438214	2017-03-23 00:00:00	2017-02-27 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
-212467	2017091343009	2017-07-27 00:00:00	2017-06-12 08:54:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Other			In Review
-212468	2017080342058	2017-06-30 00:00:00	2017-06-10 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Other		Watches & Jewelry			Insufficient
+204269	2016072132826	2016-06-15 00:00:00	2016-06-01 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+212463	2017091443121	2017-08-03 00:00:00	2017-06-12 08:54:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Automobile Parts & Accessories*Cosmetics & Grooming			In Review
+212464	2017101744472	2017-09-18 00:00:00	2017-08-24 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+212465	2017070541183	2017-05-22 00:00:00	2017-05-07 05:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		4.99	Approve in Full
+212466	2017032438214	2017-03-23 00:00:00	2017-02-27 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches			In Review
+212467	2017091343009	2017-07-27 00:00:00	2017-06-12 08:54:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming*Other			In Review
+212468	2017080342058	2017-06-30 00:00:00	2017-06-10 00:00:00	ACT	Waco Regional Airport Waco Regional Airport	American Airlines	Passenger Property Loss	Other		Jewelry & Watches			Insufficient

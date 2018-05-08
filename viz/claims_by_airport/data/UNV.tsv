@@ -1,8 +1,8 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-73819	2005102495046	2005-10-17 00:00:00	2005-09-10 00:00:00	UNV	University Park Airport	USAir	Passenger Property Loss	Checkpoint	210.34	Electronics	Approved	210.34	Approve in Full
-154966	2010120878606	2010-11-22 00:00:00	2010-10-19 13:53:00	UNV	University Park Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		20.0	Settle
-162833	2011082386379	2011-08-08 00:00:00	2011-06-07 13:00:00	UNV	University Park Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
-168149	2012032091819	2012-02-06 00:00:00	2012-01-06 00:00:00	UNV	University Park Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-168493	2012032992257	2012-02-16 00:00:00	2012-02-14 13:00:00	UNV	University Park Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-171303	2012062895028	2012-05-29 00:00:00	2012-05-13 17:00:00	UNV	University Park Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-190782	2014061314607	2014-06-04 00:00:00	2014-04-29 00:00:00	UNV	University Park Airport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Other,Clothing & Accessories		0.0	Deny
+73819	2005102495046	2005-10-17 00:00:00	2005-09-10 00:00:00	UNV	University Park Airport	USAir	Passenger Property Loss	Checkpoint	210.34	Cameras - Digital	Approved	210.34	Approve in Full
+154966	2010120878606	2010-11-22 00:00:00	2010-10-19 13:53:00	UNV	University Park Airport	USAir	Passenger Property Loss	Checked Baggage		Clothing		20.0	Settle
+162833	2011082386379	2011-08-08 00:00:00	2011-06-07 13:00:00	UNV	University Park Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Personal Electronics		0.0	Deny
+168149	2012032091819	2012-02-06 00:00:00	2012-01-06 00:00:00	UNV	University Park Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+168493	2012032992257	2012-02-16 00:00:00	2012-02-14 13:00:00	UNV	University Park Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
+171303	2012062895028	2012-05-29 00:00:00	2012-05-13 17:00:00	UNV	University Park Airport	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+190782	2014061314607	2014-06-04 00:00:00	2014-04-29 00:00:00	UNV	University Park Airport	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches*Jewelry & Watches*Other*Personal Accessories		0.0	Deny

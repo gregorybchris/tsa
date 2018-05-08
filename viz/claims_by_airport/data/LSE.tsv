@@ -1,41 +1,41 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-10711	0714102M	2003-07-14 00:00:00	2003-04-24 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	2429.63	Electronics	Denied	0.0	Deny
-28464	0223217M	2004-02-23 00:00:00	2004-01-30 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
-31002	2004051351590	2004-03-22 00:00:00	2004-01-22 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	1054.99	Electronics	Denied	0.0	Deny
-31165	2004051452270	2004-03-24 00:00:00	2004-02-18 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	614.98	Watches & Jewelry	Approved	614.98	Approve in Full
-54668	2005013175099	2005-01-18 00:00:00	2004-12-22 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+10711	0714102M	2003-07-14 00:00:00	2003-04-24 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	2429.63	Computer - Laptop	Denied	0.0	Deny
+28464	0223217M	2004-02-23 00:00:00	2004-01-30 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Approved	30.0	Approve in Full
+31002	2004051351590	2004-03-22 00:00:00	2004-01-22 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	1054.99	Cameras - Digital	Denied	0.0	Deny
+31165	2004051452270	2004-03-24 00:00:00	2004-02-18 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	614.98	Jewelry - Fine	Approved	614.98	Approve in Full
+54668	2005013175099	2005-01-18 00:00:00	2004-12-22 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
 57355	2005031678462	2005-02-16 00:00:00	2005-01-05 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Other	Approved	49.99	Approve in Full
 61847	2005041882759	2005-04-15 00:00:00	2005-02-14 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	80.0	Other	Denied	0.0	Deny
-73463	2005101494582	2005-10-07 00:00:00	2005-08-05 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Denied	0.0	Deny
-74875	2005110995857	2005-11-01 00:00:00	2005-09-13 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	252.65	Watches & Jewelry	Settled	210.0	Settle
-84498	2006050805728	2006-04-28 00:00:00	2006-02-11 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	54.0	Clothing & Accessories	Approved	54.0	Approve in Full
-87253	2006062308460	2006-06-22 00:00:00	2006-02-23 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	1542.29	Electronics,Other	Settled	771.15	Settle
-88449	2006071909762	2006-07-17 00:00:00	2006-06-26 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.5	Other	Approved	17.5	Approve in Full
-91377	2006091812730	2006-09-11 00:00:00	2006-08-22 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	178.05	Clothing & Accessories	Denied	0.0	Deny
-93821	2006110215061	2006-10-30 00:00:00	2006-10-24 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Canceled	0.0	
-94750	2006112216078	2006-11-16 00:00:00	2006-09-02 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories,Watches & Jewelry,Supplies	Denied	0.0	Deny
-97238	2007010418240	2007-01-03 00:00:00	2006-10-07 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checkpoint	1080.0	Containers,Watches & Jewelry	Canceled	0.0	
-97728	2007011618776	2007-01-09 00:00:00	2006-12-28 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	305.0	Watches & Jewelry,Other	Denied	0.0	Deny
-98709	2007012919644	2007-01-24 00:00:00	2006-12-29 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	895.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-103241	2007042424384	2007-04-23 00:00:00	2007-04-07 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	292.75	Electronics	Denied	0.0	Deny
-103710	2007050424983	2007-05-02 00:00:00	2006-12-06 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	450.0	Electronics	Denied	0.0	Deny
-103872	2007050725067	2007-05-07 00:00:00	2007-04-09 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	2462.0	Electronics	Denied	0.0	Deny
+73463	2005101494582	2005-10-07 00:00:00	2005-08-05 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Denied	0.0	Deny
+74875	2005110995857	2005-11-01 00:00:00	2005-09-13 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	252.65	Jewelry - Fine	Settled	210.0	Settle
+84498	2006050805728	2006-04-28 00:00:00	2006-02-11 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	54.0	Clothing - Shoes, belts, accessories, etc.	Approved	54.0	Approve in Full
+87253	2006062308460	2006-06-22 00:00:00	2006-02-23 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	1542.29	Computer - Laptop*Other	Settled	771.15	Settle
+88449	2006071909762	2006-07-17 00:00:00	2006-06-26 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.5	Currency	Approved	17.5	Approve in Full
+91377	2006091812730	2006-09-11 00:00:00	2006-08-22 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	178.05	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+93821	2006110215061	2006-10-30 00:00:00	2006-10-24 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Currency	Canceled	0.0	
+94750	2006112216078	2006-11-16 00:00:00	2006-09-02 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.*Jewelry - Costume*Medicines	Denied	0.0	Deny
+97238	2007010418240	2007-01-03 00:00:00	2006-10-07 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checkpoint	1080.0	Boxes - Jewelry, Cigarette, Music, etc.*Jewelry - Fine	Canceled	0.0	
+97728	2007011618776	2007-01-09 00:00:00	2006-12-28 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	305.0	Jewelry - Costume*Other	Denied	0.0	Deny
+98709	2007012919644	2007-01-24 00:00:00	2006-12-29 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	895.0	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+103241	2007042424384	2007-04-23 00:00:00	2007-04-07 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	292.75	Cameras - Digital	Denied	0.0	Deny
+103710	2007050424983	2007-05-02 00:00:00	2006-12-06 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checked Baggage	450.0	Cameras - Digital	Denied	0.0	Deny
+103872	2007050725067	2007-05-07 00:00:00	2007-04-09 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	2462.0	Computer - Laptop	Denied	0.0	Deny
 104248	2007051725593	2007-05-14 00:00:00	2007-04-26 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	119.5	Other	Denied	0.0	Deny
-105690	2007061426962	2007-06-12 00:00:00	2007-05-28 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
-105946	2007062027195	2007-06-18 00:00:00	2007-06-01 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.9	Clothing & Accessories,Other	Approved	86.9	Approve in Full
-110540	2007091431899	2007-09-11 00:00:00	2007-04-11 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	332.03	Electronics,Watches & Jewelry	Denied	0.0	Deny
+105690	2007061426962	2007-06-12 00:00:00	2007-05-28 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing - Shoes, belts, accessories, etc.	Approved	75.0	Approve in Full
+105946	2007062027195	2007-06-18 00:00:00	2007-06-01 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.9	Clothing - Shoes, belts, accessories, etc.*Other	Approved	86.9	Approve in Full
+110540	2007091431899	2007-09-11 00:00:00	2007-04-11 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	332.03	Cameras - Digital*Jewelry - Costume	Denied	0.0	Deny
 111976	2007101533396	2007-10-10 00:00:00	2007-09-23 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
-116774	2008012438486	2008-01-14 00:00:00	2007-12-29 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	195.95	Electronics,Electronics	Denied	0.0	Deny
-124767	2008070246498	2008-06-27 00:00:00	2008-06-11 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Denied	0.0	Deny
-126192	2008072147179	2008-07-30 00:00:00	2008-07-03 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	1155.07	Clothing & Accessories,Other	Denied	0.0	Deny
-126913	2008081848681	2008-08-14 00:00:00	2008-08-03 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	36.82	Cosmetics,Supplies,Other	Denied	0.0	Deny
-131681	2008121953577	2008-12-12 00:00:00	2008-10-18 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	126.58	Electronics	Denied	0.0	Deny
-136863	2009051858768	2009-05-01 00:00:00	2009-04-18 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	99.95	Watches & Jewelry	Denied	0.0	Deny
-138325	2009061860323	2009-06-12 00:00:00	2008-12-08 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	657.0	Clothing & Accessories,Containers	Denied	0.0	Deny
-138904	2009071761350	2009-06-29 00:00:00	2009-06-14 00:00:00	LSE	La Crosse Municipal	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage	65.0	Clothing & Accessories	Denied	0.0	Deny
-147292	2010040670481	2010-04-01 00:00:00	2010-01-30 07:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
-166587	2012011190146	2011-12-15 00:00:00	2011-10-24 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-171850	2012071995535	2012-06-18 00:00:00	2012-06-15 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-177911	2013021301401	2013-01-30 00:00:00	2013-01-19 00:00:00	LSE	La Crosse Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		238.83	Approve in Full
+116774	2008012438486	2008-01-14 00:00:00	2007-12-29 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	195.95	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+124767	2008070246498	2008-06-27 00:00:00	2008-06-11 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	45.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+126192	2008072147179	2008-07-30 00:00:00	2008-07-03 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	1155.07	Eyeglasses - (including contact lenses)*Other	Denied	0.0	Deny
+126913	2008081848681	2008-08-14 00:00:00	2008-08-03 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	36.82	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines*Other	Denied	0.0	Deny
+131681	2008121953577	2008-12-12 00:00:00	2008-10-18 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	126.58	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+136863	2009051858768	2009-05-01 00:00:00	2009-04-18 00:00:00	LSE	La Crosse Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	99.95	Jewelry - Costume	Denied	0.0	Deny
+138325	2009061860323	2009-06-12 00:00:00	2008-12-08 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage	657.0	Clothing - Shoes, belts, accessories, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+138904	2009071761350	2009-06-29 00:00:00	2009-06-14 00:00:00	LSE	La Crosse Municipal	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage	65.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+147292	2010040670481	2010-04-01 00:00:00	2010-01-30 07:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories*Other		0.0	Deny
+166587	2012011190146	2011-12-15 00:00:00	2011-10-24 00:00:00	LSE	La Crosse Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+171850	2012071995535	2012-06-18 00:00:00	2012-06-15 00:00:00	LSE	La Crosse Municipal		Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
+177911	2013021301401	2013-01-30 00:00:00	2013-01-19 00:00:00	LSE	La Crosse Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Accessories		238.83	Approve in Full
 193211	2014092617090	2014-08-28 00:00:00	2014-08-22 00:00:00	LSE	La Crosse Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		18.9	Approve in Full
 217359	2017042638934	2017-02-24 00:00:00	2017-01-28 00:00:00	LSE	La Crosse Municipal La Crosse Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			Insufficient

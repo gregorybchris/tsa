@@ -1,8 +1,8 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-114069	2007112635394	2007-11-23 00:00:00	2007-11-19 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage	232.99	Household Items,Other	Approved	232.99	Approve in Full
-138745	2009070860956	2009-06-24 00:00:00	2009-06-18 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage	280.0	Other	Denied	0.0	Deny
-139619	2009072361690	2009-07-16 00:00:00	2009-07-09 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage	29.15	Clothing & Accessories	Denied	0.0	Deny
-159440	2011042182852	2011-04-19 00:00:00	2011-04-11 09:42:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		122.23	Settle
+114069	2007112635394	2007-11-23 00:00:00	2007-11-19 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage	232.99	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)*Other	Approved	232.99	Approve in Full
+138745	2009070860956	2009-06-24 00:00:00	2009-06-18 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage	280.0	Currency	Denied	0.0	Deny
+139619	2009072361690	2009-07-16 00:00:00	2009-07-09 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage	29.15	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+159440	2011042182852	2011-04-19 00:00:00	2011-04-11 09:42:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras		122.23	Settle
 204116	2015081024741	2015-08-05 00:00:00	2015-08-01 00:00:00	WRG	Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
-212319	2016092733945	2016-07-28 00:00:00	2016-07-12 14:00:00	WRG	Wrangell Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-220683	2017082342401	2017-07-14 00:00:00	2017-07-10 00:00:00	WRG	Wrangell Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+212319	2016092733945	2016-07-28 00:00:00	2016-07-12 14:00:00	WRG	Wrangell Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			In Review
+220683	2017082342401	2017-07-14 00:00:00	2017-07-10 00:00:00	WRG	Wrangell Wrangell	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review

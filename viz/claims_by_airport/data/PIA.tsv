@@ -1,46 +1,46 @@
 id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
 73736	2005101894804	2005-10-13 00:00:00	2005-06-04 00:00:00	PIA	Greater Peoria	Northwest Airlines	Passenger Property Loss	Checked Baggage	1051.0	Other	Denied	0.0	Deny
-89491	2006081010676	2006-08-07 00:00:00	2006-07-31 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	2202.41	Electronics,Electronics	Denied	0.0	Deny
-90431	2006082811640	2006-08-23 00:00:00	2006-08-15 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	32.99	Games & Toys	Settled	16.5	Settle
-102138	2007040223360	2007-03-30 00:00:00	2007-03-23 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage	51.06	Cosmetics	Denied	0.0	Deny
-102496	2007041223853	2007-04-09 00:00:00	2007-03-29 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	6.75	Tools & Machines	Approved	6.75	Approve in Full
-103926	2007051025219	2007-05-08 00:00:00	2007-04-23 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checkpoint	46.19	Scientific Intruments	Approved	46.19	Approve in Full
-104439	2007051925698	2007-05-17 00:00:00	2007-04-12 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checkpoint	50.0	Watches & Jewelry	Denied	0.0	Deny
-112919	2007110234283	2007-10-30 00:00:00	2007-10-17 00:00:00	PIA	Greater Peoria	Continental Airlines	Passenger Property Loss	Checked Baggage	49.5	Cosmetics	Denied	0.0	Deny
-113035	2007110734625	2007-10-31 00:00:00	2007-10-05 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checked Baggage	300.0	Electronics,Electronics	Denied	0.0	Deny
-113552	2007111434943	2007-11-13 00:00:00	2007-11-04 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	18.0	Outdoors Supplies	Denied	0.0	Deny
-115530	2007122736998	2007-12-21 00:00:00	2007-10-12 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	290.0	Clothing & Accessories	Denied	0.0	Deny
-117418	2008012538609	2008-01-28 00:00:00	2008-01-15 00:00:00	PIA	Greater Peoria	American Eagle	Passenger Property Loss	Checked Baggage	42.49	Electronics	Approved	42.49	Approve in Full
-118773	2008030440379	2008-02-25 00:00:00	2008-02-19 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	253.05	Electronics,Other	Denied	0.0	Deny
-120828	2008041542560	2008-04-04 00:00:00	2008-02-22 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Cosmetics	Denied	0.0	Deny
+89491	2006081010676	2006-08-07 00:00:00	2006-07-31 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	2202.41	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+90431	2006082811640	2006-08-23 00:00:00	2006-08-15 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	32.99	Toys - Other (including games, toys, play dolls etc.)	Settled	16.5	Settle
+102138	2007040223360	2007-03-30 00:00:00	2007-03-23 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage	51.06	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+102496	2007041223853	2007-04-09 00:00:00	2007-03-29 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	6.75	Locks	Approved	6.75	Approve in Full
+103926	2007051025219	2007-05-08 00:00:00	2007-04-23 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checkpoint	46.19	Medical Equipment & Insturments	Approved	46.19	Approve in Full
+104439	2007051925698	2007-05-17 00:00:00	2007-04-12 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checkpoint	50.0	Jewelry - Costume	Denied	0.0	Deny
+112919	2007110234283	2007-10-30 00:00:00	2007-10-17 00:00:00	PIA	Greater Peoria	Continental Airlines	Passenger Property Loss	Checked Baggage	49.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+113035	2007110734625	2007-10-31 00:00:00	2007-10-05 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checked Baggage	300.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+113552	2007111434943	2007-11-13 00:00:00	2007-11-04 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	18.0	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+115530	2007122736998	2007-12-21 00:00:00	2007-10-12 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	290.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+117418	2008012538609	2008-01-28 00:00:00	2008-01-15 00:00:00	PIA	Greater Peoria	American Eagle	Passenger Property Loss	Checked Baggage	42.49	Cell Phones	Approved	42.49	Approve in Full
+118773	2008030440379	2008-02-25 00:00:00	2008-02-19 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	253.05	MP3 Players-(iPods, etc)*Other	Denied	0.0	Deny
+120828	2008041542560	2008-04-04 00:00:00	2008-02-22 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
 122776	2008051644397	2008-05-14 00:00:00	2008-05-08 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	389.88	Other	Denied	0.0	Deny
-123035	2008052144615	2008-05-20 00:00:00	2008-05-10 00:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage	512.8	Electronics,Electronics,Electronics,Other	Denied	0.0	Deny
+123035	2008052144615	2008-05-20 00:00:00	2008-05-10 00:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage	512.8	Batteries - Dry cell only*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Denied	0.0	Deny
 123896	2008061245580	2008-06-06 00:00:00	2008-05-08 00:00:00	PIA	Greater Peoria	Northwest Airlines	Passenger Property Loss	Checkpoint	123.85	Other	Settled	89.95	Settle
-127475	2008082949285	2008-08-26 00:00:00	2008-07-20 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checked Baggage	329.99	Tools & Machines	Denied	0.0	Deny
-127834	2008091149764	2008-09-04 00:00:00	2008-08-10 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	22.85	Cosmetics	Denied	0.0	Deny
-130340	2008111352175	2008-11-06 00:00:00	2008-11-01 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	3859.83	Clothing & Accessories,Electronics,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-131372	2008120453125	2008-12-03 00:00:00	2008-10-21 00:00:00	PIA	Greater Peoria	Northwest Airlines	Passenger Property Loss	Checked Baggage	67.5	Cosmetics	Settled	33.75	Settle
-134004	2009030555906	2009-02-12 00:00:00	2009-01-27 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	15000.0	Watches & Jewelry	Denied	0.0	Deny
+127475	2008082949285	2008-08-26 00:00:00	2008-07-20 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checked Baggage	329.99	Baby - Strollers, car seats, playpen, etc.	Denied	0.0	Deny
+127834	2008091149764	2008-09-04 00:00:00	2008-08-10 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	22.85	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+130340	2008111352175	2008-11-06 00:00:00	2008-11-01 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	3859.83	Clothing - Shoes, belts, accessories, etc.*GPS - Global Positioning System*Jewelry - Fine*Watches - Expensive more than $100	Denied	0.0	Deny
+131372	2008120453125	2008-12-03 00:00:00	2008-10-21 00:00:00	PIA	Greater Peoria	Northwest Airlines	Passenger Property Loss	Checked Baggage	67.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	33.75	Settle
+134004	2009030555906	2009-02-12 00:00:00	2009-01-27 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	15000.0	Jewelry - Fine	Denied	0.0	Deny
 136113	2009050158213	2009-04-09 00:00:00	2009-03-06 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	47.0	Other	Denied	0.0	Deny
-138413	2009060359828	2009-06-16 00:00:00	2009-05-17 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	49.94	Electronics,Electronics	Denied	0.0	Deny
-139884	2009072961933	2009-07-24 00:00:00	2009-06-06 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Canceled	0.0	
-140002	2009073062017	2009-07-28 00:00:00	2009-07-23 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checkpoint	107.29	Electronics	Approved	107.29	Approve in Full
-140526	2009081162487	2009-08-10 00:00:00	2009-08-03 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage	551.95	Clothing & Accessories,Scientific Intruments	Settled	309.09	Settle
-142952	2009103064982	2009-10-26 00:00:00	2009-10-05 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Canceled		
-144475	2010021668408	2009-12-09 00:00:00	2009-12-06 05:40:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.6	Food & Drink	Denied	0.0	Deny
-146502	2010031369558	2010-03-09 00:00:00	2010-02-15 05:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
-146563	2010031569604	2010-03-10 00:00:00	2010-03-01 06:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		150.0	Approve in Full
-147653	2010032469954	2010-04-13 00:00:00	2010-01-25 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories		0.0	Deny
-147785	2010041470799	2010-04-16 00:00:00	2010-03-21 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage		Office Supplies,Other		0.0	Deny
-158118	2011040181665	2011-03-07 00:00:00	2011-01-31 09:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-159807	2011051083321	2011-05-02 00:00:00	2011-03-28 05:30:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		382.03	Approve in Full
-178060	2013022001637	2013-02-05 00:00:00	2013-01-29 09:05:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-178072	2013022101818	2013-02-05 00:00:00	2013-01-07 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		50.0	Approve in Full
-178766	2013030402364	2013-03-04 00:00:00	2013-02-27 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checkpoint		Electronics		261.45	Approve in Full
-179274	2013041003122	2013-03-20 00:00:00	2012-12-17 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checkpoint		Electronics,Clothing & Accessories,Outdoors Supplies		0.0	Deny
-180127	2013052103784	2013-04-24 00:00:00	2013-04-18 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-182085	2013072305381	2013-07-03 00:00:00	2013-06-16 15:30:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+138413	2009060359828	2009-06-16 00:00:00	2009-05-17 00:00:00	PIA	Greater Peoria	UAL	Passenger Property Loss	Checked Baggage	49.94	GPS - Global Positioning System*PDA - Personal Data Assistants	Denied	0.0	Deny
+139884	2009072961933	2009-07-24 00:00:00	2009-06-06 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Jewelry - Fine	Canceled	0.0	
+140002	2009073062017	2009-07-28 00:00:00	2009-07-23 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checkpoint	107.29	Stereo Items & Accessories	Approved	107.29	Approve in Full
+140526	2009081162487	2009-08-10 00:00:00	2009-08-03 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage	551.95	Clothing - Shoes, belts, accessories, etc.*Professional Equipment	Settled	309.09	Settle
+142952	2009103064982	2009-10-26 00:00:00	2009-10-05 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing - Shoes, belts, accessories, etc.	Canceled		
+144475	2010021668408	2009-12-09 00:00:00	2009-12-06 05:40:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.6	Alcoholic beverages	Denied	0.0	Deny
+146502	2010031369558	2010-03-09 00:00:00	2010-02-15 05:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checkpoint		Medical/Science		0.0	Deny
+146563	2010031569604	2010-03-10 00:00:00	2010-03-01 06:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		150.0	Approve in Full
+147653	2010032469954	2010-04-13 00:00:00	2010-01-25 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing		0.0	Deny
+147785	2010041470799	2010-04-16 00:00:00	2010-03-21 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checked Baggage		Books, Magazines & Other*Other		0.0	Deny
+158118	2011040181665	2011-03-07 00:00:00	2011-01-31 09:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
+159807	2011051083321	2011-05-02 00:00:00	2011-03-28 05:30:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		382.03	Approve in Full
+178060	2013022001637	2013-02-05 00:00:00	2013-01-29 09:05:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing			
+178072	2013022101818	2013-02-05 00:00:00	2013-01-07 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		50.0	Approve in Full
+178766	2013030402364	2013-03-04 00:00:00	2013-02-27 00:00:00	PIA	Greater Peoria		Passenger Property Loss	Checkpoint		Personal Electronics		261.45	Approve in Full
+179274	2013041003122	2013-03-20 00:00:00	2012-12-17 00:00:00	PIA	Greater Peoria	American Airlines	Passenger Property Loss	Checkpoint		Cameras*Clothing*Hunting & Fishing Items		0.0	Deny
+180127	2013052103784	2013-04-24 00:00:00	2013-04-18 00:00:00	PIA	Greater Peoria	Allegiant Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
+182085	2013072305381	2013-07-03 00:00:00	2013-06-16 15:30:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Audio/Video		0.0	Deny
 191682	2014073115527	2014-07-15 00:00:00	2014-07-03 00:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checkpoint		Other			
-193011	2014092216887	2014-09-03 00:00:00	2014-08-23 00:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-219326	2017091142847	2017-07-14 00:00:00	2017-06-24 00:00:00	PIA	Greater Peoria Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219327	2017101844546	2017-09-22 00:00:00	2017-09-11 00:00:00	PIA	Greater Peoria Greater Peoria	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
+193011	2014092216887	2014-09-03 00:00:00	2014-08-23 00:00:00	PIA	Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
+219326	2017091142847	2017-07-14 00:00:00	2017-06-24 00:00:00	PIA	Greater Peoria Greater Peoria	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			In Review
+219327	2017101844546	2017-09-22 00:00:00	2017-09-11 00:00:00	PIA	Greater Peoria Greater Peoria	UAL	Passenger Property Loss	Checkpoint		Personal Accessories			In Review
