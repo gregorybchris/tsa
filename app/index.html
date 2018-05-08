@@ -13,18 +13,30 @@
 	</head>
 	<body>
 		<div class="header">
-			<span class="title">TSA Data Visualization</span>
+			<span class="title">TSA: The Stealing Administration</span>
 		</div>
 		<div class="content">
 			<div class="about-section">
-				<span class="about-section-title">About the TSA</span>
+				<span class="about-section-title">About this Visualization</span>
 				<span class="about-section-text">The Transportation Security Administration
 					is an agency of the U.S. Department of Homeland Security, created in response to 9/11.
-					Something else leading into the fact that the TSA is corrupt.
-					This is very interesting. I hope to know more about the TSA so I can put these
-					trends into context. Wow! Now it's in context. So interesting. I wonder if all
-					of the data in this dataset is valuable or if I should just look at certain types of data?
-					Why don't we.. Check. It. Out!</span>
+					In the years since 2001 the organization hasn't exactly fostered an outstanding reputation.
+					Privacy and efficiency concerns have been abundant, but the most concerning accusations are
+					those of theft.</span>
+				<span class="about-section-text">
+					Nearly<a class="text-link" target="_blank" href="https://www.wcpo.com/news/local-news/400-tsa-employees-fired-for-stealing-from-passengers-from-2002-to-2011">
+					400 TSA agents</a> have been fired for alleged theft over the years and the reports of lost
+					posessions have not stopped. The TSA publishes every passenger claim on their
+					<a href="https://www.dhs.gov/tsa-claims-data" target="_blank" class="text-link">public website</a>.
+					This page looks at that claims data to determine how much theft there really is.</span>
+
+			</div>
+
+			<div class="video-section">
+				<iframe class="video-frame" width="560" height="315"
+					src="https://www.youtube.com/embed/nCtE0UOVoR0"
+					frameborder="0" allow="autoplay; encrypted-media"
+					allowfullscreen></iframe>
 			</div>
 
 			<div class="viz-section" id="disposition-section">
@@ -61,16 +73,10 @@
 					<div id="amounts-section">
 						<svg class="no-select" id="amounts-svg" width="400" height="400"></svg>
 					</div>
-					<div id="claim-section">
-						<!-- <div class="claim-feature">
-							<span class="claim-feature-label">ID</span>
-							<span class="claim-feature-text" id="claim-id-text"></span>
-						</div> -->
-					</div>
-				</div>
 
-				<div id="dates-section">
-					<svg id="dates-svg" width="400" height="400"></svg>
+					<div id="dates-section">
+						<svg id="dates-svg" width="400" height="400"></svg>
+					</div>
 				</div>
 
 				<div id="claim-section">
@@ -83,8 +89,6 @@
 
 			<div class="footer-top"></div>
 			<div class="footer">
-				<span class="footer-text">Sources:</span>
-				<a href="https://www.dhs.gov/tsa-claims-data" target="_blank" class="footer-link">TSA Data</a>
 			</div>
 		</div>
 
