@@ -18,31 +18,33 @@ function setupDates() {
         .attr("height", height)
 
     d3.queue()
-      .defer(d3.tsv, "./data/viz/by-airport/LAX.tsv")
+      .defer(d3.tsv, "./data/viz/by-airport/BOS.tsv")
       .await(ready)
 
     function ready(error, claims) {
         if (error) throw error
 
-        formatDate = date => new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
+        formatDateString = date => new Date(date).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
         formatDateUnix = date => new Date(date).getTime()
+        convertDate = date => new Date(date)
 
         claims = claims.filter(d => d.incident_date)
             .filter(d => d.close_amount)
             .map(d => ({
                 id: +d.id,
                 closeAmount: +d.close_amount,
-                incidentDate: formatDate(d.incident_date),
+                incidentString: formatDateString(d.incident_date),
+                incidentDate: convertDate(d.incident_date),
                 incidentDateUnix: formatDateUnix(d.incident_date)
             }))
 
-        let xMax = d3.max(claims, d => d.incidentDateUnix)
-        let xMin = d3.min(claims, d => d.incidentDateUnix)
+        let xMax = d3.max(claims, d => d.incidentDate)
+        let xMin = d3.min(claims, d => d.incidentDate)
         let yMax = d3.max(claims, d => d.closeAmount)
         let yMin = d3.min(claims, d => d.closeAmount)
         let [scaleLength, majorMax] = xMax > yMax ? [width, xMax] : [height, yMax]
 
-        let xScale = d3.scaleLinear()
+        let xScale = d3.scaleTime()
             .domain([xMin, xMax])
             .range([0, width])
 
@@ -50,9 +52,22 @@ function setupDates() {
             .domain([yMin, yMax])
             .range([height, 0])
 
+        var formatDay = d3.timeFormat("%a %d"),
+            formatWeek = d3.timeFormat("%b %d"),
+            formatMonth = d3.timeFormat("%B"),
+            formatYear = d3.timeFormat("%Y");
+
+        // Define filter conditions
+        function tickFormat(date) {
+          return (d3.timeMonth(date) < date ? (d3.timeWeek(date) < date ? formatDay : formatWeek)
+            : d3.timeYear(date) < date ? formatMonth
+            : formatYear)(date);
+        }
+
         let xAxis = d3.axisBottom(xScale)
             .ticks(5, "s")
-            .tickSize(-width);
+            .tickSize(-width)
+            .tickFormat(tickFormat)
 
         let yAxis = d3.axisLeft(yScale)
             .ticks(5, "s")
@@ -61,6 +76,9 @@ function setupDates() {
         let gX = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + (margin.top + height) + ")")
             .call(xAxis)
+
+        gX.selectAll("text")
+            .attr("transform", "rotate(-65)");
 
         let gY = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
@@ -88,7 +106,7 @@ function setupDates() {
         let points = circlesGroup.selectAll("circle")
             .data(claims)
             .enter().append("circle")
-                .attr("cx", d => xScale(d.incidentDateUnix))
+                .attr("cx", d => xScale(d.incidentDate))
                 .attr("cy", d => yScale(d.closeAmount))
                 .attr("r", 3.4)
                 .style("fill", "transparent")
@@ -117,7 +135,7 @@ function setupDates() {
             gX.call(xAxis.scale(newXScale))
             gY.call(yAxis.scale(newYScale))
             points.data(claims)
-                .attr("cx", d => newXScale(d.incidentDateUnix))
+                .attr("cx", d => newXScale(d.incidentDate))
                 .attr("cy", d => newYScale(d.closeAmount))
         }
     }

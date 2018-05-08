@@ -23,6 +23,7 @@
 /* ~ ~ ~ ~ Colors ~ ~ ~ ~ */
 
 @classic-purple: rgb(108, 34, 125);
+@faded-purple: rgba(108, 34, 125, .08);
 @urban-grey: rgb(100, 100, 105);
 @black: rgb(0, 0, 0);
 @white: rgb(255, 255, 255);
@@ -86,6 +87,7 @@ html, body {
 
 .about-section {
 	padding: 40px 50px 40px;
+	background-color: @faded-purple;
 }
 
 .about-section-title {
@@ -226,6 +228,33 @@ html, body {
 /* ~ ~ ~ ~ Claim Section ~ ~ ~ ~ */
 
 
+
+/* ~ ~ ~ ~ Footer ~ ~ ~ ~ */
+
+.footer-top {
+	background-color: @faded-purple;
+	height: 20px;
+	width: 100%;
+}
+
+.footer {
+	padding: 30px 50px 40px;
+	background-color: @classic-purple;
+}
+
+.footer-text {
+	color: @white;
+}
+
+.footer-link {
+	color: darken(@white, 20%);
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.footer-link:hover {
+	color: darken(@white, 30%);
+}
 
 /* ~ ~ ~ ~ Input Styling ~ ~ ~ ~ */
 
