@@ -1,0 +1,16 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+54990	2005020475675	2005-01-19 00:00:00	2004-11-20 00:00:00	GGG	Gregg County - Longview, TX	American Eagle	Passenger Property Loss	Checked Baggage	248.0	Clothing & Accessories	Denied	0.0	Deny
+77961	2006010999081	2006-01-03 00:00:00	2005-12-16 00:00:00	GGG	Gregg County - Longview, TX	American Eagle	Passenger Property Loss	Checked Baggage	356.73	Electronics	Settled	138.37	Settle
+87789	2006070609055	2006-07-05 00:00:00	2006-06-17 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage	375.0	Weapons & Knives	Denied	0.0	Deny
+108351	2007080329614	2007-08-02 00:00:00	2007-07-10 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
+113453	2007112835597	2007-11-08 00:00:00	2007-09-28 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage	35.72	Cosmetics	Denied	0.0	Deny
+121524	2008042343213	2008-04-17 00:00:00	2008-04-04 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage	35.0	Food & Drink	Denied	0.0	Deny
+137730	2009060159697	2009-05-28 00:00:00	2009-05-15 00:00:00	GGG	Gregg County - Longview, TX	American Eagle	Passenger Property Loss	Checked Baggage	250.0	Other	Denied	0.0	Deny
+142179	2009100164223	2009-09-28 00:00:00	2009-08-07 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage	350.0	Watches & Jewelry	Denied	0.0	Deny
+143446	2009111065286	2009-11-10 00:00:00	2009-09-26 07:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage	354.74	Electronics	Denied	0.0	Deny
+154530	2010111877992	2010-11-08 00:00:00	2010-09-30 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
+162853	2011082686429	2011-08-08 00:00:00	2011-07-26 00:00:00	GGG	Gregg County - Longview, TX	American Eagle	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other		0.0	Deny
+198286	2015020320353	2015-02-03 00:00:00	2015-01-17 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+198288	2015101926096	2015-09-25 00:00:00	2015-09-18 00:00:00	GGG	Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+215200	2017042839094	2017-03-16 00:00:00	2017-02-27 00:00:00	GGG	Gregg County - Longview, TX Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
+215201	2017062240940	2017-05-31 00:00:00	2017-05-28 00:00:00	GGG	Gregg County - Longview, TX Gregg County - Longview, TX	American Airlines	Passenger Property Loss	Checkpoint		Cosmetics,Other			In Review

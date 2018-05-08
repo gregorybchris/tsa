@@ -1,0 +1,35 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+33784	2004051852644	2004-05-03 00:00:00	2003-03-23 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checkpoint	106.7	Clothing & Accessories	Approved		Approve in Full
+62111	2005042183055	2005-04-19 00:00:00	2005-01-09 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	1195.0	Watches & Jewelry	Denied	0.0	Deny
+67705	2005071388851	2005-07-08 00:00:00	2005-06-16 00:00:00	CPR	Natrona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	225.95	Other	Denied	0.0	Deny
+72966	2005100594129	2005-09-29 00:00:00	2005-09-03 00:00:00	CPR	Natrona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	414.73	Supplies	Denied	0.0	Deny
+77111	2005122798443	2005-12-14 00:00:00	2005-10-25 00:00:00	CPR	Natrona International	USAir	Passenger Property Loss	Checked Baggage	515.28	Electronics	Denied	0.0	Deny
+81362	2006030602584	2006-02-28 00:00:00	2006-02-18 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	21.7	Clothing & Accessories	Approved	21.7	Approve in Full
+81857	2006032003387	2006-03-07 00:00:00	2006-02-26 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	536.75	Electronics	Settled	247.78	Settle
+84412	2006050305656	2006-04-26 00:00:00	2006-04-08 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	507.0	Electronics,Electronics,Games & Toys,Containers,Electronics	Denied	0.0	Deny
+86171	2006060607360	2006-06-02 00:00:00	2006-01-22 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Canceled	0.0	
+86503	2006060907715	2006-06-08 00:00:00	2006-04-03 00:00:00	CPR	Natrona International		Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry	Denied	0.0	Deny
+86773	2006061508062	2006-06-14 00:00:00	2006-05-13 00:00:00	CPR	Natrona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	9.98	Tools & Machines	Approved	9.98	Approve in Full
+91818	2006092213104	2006-09-20 00:00:00	2006-08-23 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	77.9	Other	Approved	77.9	Approve in Full
+93722	2006110114980	2006-10-26 00:00:00	2006-09-30 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	275.0	Clothing & Accessories,Clothing & Accessories,Clothing & Accessories	Settled	252.5	Settle
+93770	2006110215097	2006-10-27 00:00:00	2006-09-06 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.33	Other	Denied	0.0	Deny
+94103	2006110815362	2006-11-03 00:00:00	2006-10-31 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	94.5	Cosmetics	Denied	0.0	Deny
+97589	2007011118666	2007-01-08 00:00:00	2006-08-19 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Cosmetics	Denied	0.0	Deny
+98486	2007012519452	2007-01-22 00:00:00	2007-01-03 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	85.0	Watches & Jewelry	Denied	0.0	Deny
+102453	2007041023668	2007-04-06 00:00:00	2007-03-30 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	986.13	Electronics	Denied	0.0	Deny
+107326	2007071728547	2007-07-16 00:00:00	2007-07-04 00:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage	761.49	Electronics,Other	Denied	0.0	Deny
+117852	2008021339545	2008-02-04 00:00:00	2007-12-20 00:00:00	CPR	Natrona International	Northwest Airlines	Passenger Property Loss	Checked Baggage	650.0	Other	Denied	0.0	Deny
+120245	2008040741953	2008-03-25 00:00:00	2008-03-10 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	59.95	Household Items	Denied	0.0	Deny
+121280	2008041842923	2008-04-14 00:00:00	2008-04-06 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	26.24	Tools & Machines	Denied	0.0	Deny
+126423	2008080748220	2008-08-04 00:00:00	2008-07-23 00:00:00	CPR	Natrona International	US Express	Passenger Property Loss	Checked Baggage	248.61	Electronics	Denied	0.0	Deny
+130245	2008111052134	2008-11-03 00:00:00	2008-08-13 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage	368.84	Clothing & Accessories	Denied	0.0	Deny
+130442	2008111752297	2008-11-10 00:00:00	2008-10-23 00:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
+148230	2010050371408	2010-04-30 00:00:00	2010-04-25 18:30:00	CPR	Natrona International	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
+148684	2010051771884	2010-05-14 00:00:00	2010-04-28 11:45:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories		0.0	Deny
+151656	2010081774988	2010-08-12 00:00:00	2010-08-11 05:30:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+153788	2010102277183	2010-10-14 00:00:00	2010-08-10 14:00:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Scientific Intruments		0.0	Deny
+153918	2010102477314	2010-10-19 00:00:00	2010-09-25 06:00:00	CPR	Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+155233	2010120778586	2010-12-01 00:00:00	2010-11-19 08:30:00	CPR	Natrona International	UAL	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+156430	2011020179876	2011-01-12 00:00:00	2010-12-02 09:30:00	CPR	Natrona International	UAL	Passenger Property Loss	Checked Baggage		Other,Games & Toys			
+195013	2014120818934	2014-11-20 00:00:00	2014-11-13 00:00:00	CPR	Natrona International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+205583	2017011336546	2016-11-23 00:00:00	2016-11-22 00:20:00	CPR	Natrona International Natrona International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review

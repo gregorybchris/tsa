@@ -125,11 +125,39 @@ html, body {
 
 /* ~ ~ ~ ~ Interactive Section ~ ~ ~ ~ */
 
+/*
 #map-section, #items-section, #amounts-section, #claim-section {
 	display: inline-block;
 }
+*/
+
+#interactive-section {
+	display: flex;
+	flex-direction: column;
+}
+
+#interactive-row-1, #interactive-row-2 {
+	display: flex;
+	flex-direction: row;
+}
+
+#map-section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex: 1;
+}
+
+#items-section {
+	display: flex;
+	flex: 1;
+}
 
 /* ~ ~ ~ ~ Map Section ~ ~ ~ ~ */
+
+.clickable-state:hover {
+	cursor: pointer;
+}
 
 .map-airport-indicator:hover {
 	cursor: pointer;
@@ -231,7 +259,7 @@ rect {
 	outline: none;
 }
 
-.button:hover {
+.button:hover, {
 	background-color: lighten(@classic-purple, 5%);
 	border: 3px solid lighten(@classic-purple, 5%);
 	color: @white;

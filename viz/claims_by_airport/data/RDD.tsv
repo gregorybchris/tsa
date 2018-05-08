@@ -1,0 +1,40 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+6003	0505000L	2003-05-05 00:00:00	2002-12-16 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	3500.0	Electronics	Denied	0.0	Deny
+55492	2005021476095	2005-01-26 00:00:00	2004-12-05 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	124.0	Other	Approved	124.0	Approve in Full
+65285	2005061086272	2005-06-02 00:00:00	2005-04-21 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	140.87	Clothing & Accessories	Approved	140.87	Approve in Full
+67549	2005071188624	2005-07-06 00:00:00	2005-06-05 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	399.99	Electronics	Denied	0.0	Deny
+67784	2005071288708	2005-07-11 00:00:00	2005-06-16 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	4686.0	Electronics	Denied	0.0	Deny
+70152	2005082491340	2005-08-16 00:00:00	2005-07-19 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	78.82	Other	Approved	78.82	Approve in Full
+70865	2005083191965	2005-08-25 00:00:00	2005-08-14 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	600.0	Electronics	Denied	0.0	Deny
+72188	2005092893338	2005-09-19 00:00:00	2005-08-24 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	24.95	Supplies	Approved	24.95	Approve in Full
+72973	2005100594006	2005-09-29 00:00:00	2005-09-09 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	91.03	Other	Settled	50.51	Settle
+77156	2005122398342	2005-12-15 00:00:00	2005-12-04 00:00:00	RDD	Redding Municipal	Continental Airlines	Passenger Property Loss	Checked Baggage	16.83	Clothing & Accessories	Approved	16.83	Approve in Full
+78742	2006012099936	2006-01-12 00:00:00	2005-12-29 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss		29.95	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+79551	2006020100711	2006-01-25 00:00:00	2006-01-19 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
+84108	2006042505205	2006-04-20 00:00:00	2006-04-03 00:00:00	RDD	Redding Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	15.02	Tools & Machines	Approved	15.02	Approve in Full
+85225	2006060807605	2006-05-15 00:00:00	2006-05-13 00:00:00	RDD	Redding Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories,Cosmetics,Supplies	Canceled	0.0	
+85906	2006060207192	2006-05-30 00:00:00	2006-04-28 00:00:00	RDD	Redding Municipal		Passenger Property Loss	Checked Baggage	99.0	Watches & Jewelry	Approved	99.0	Approve in Full
+89237	2006080210358	2006-08-01 00:00:00	2006-05-11 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	322.93	Outdoors Supplies	Denied	0.0	Deny
+90551	2006083111826	2006-08-25 00:00:00	2006-08-06 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	67.5	Other	Denied	0.0	Deny
+92612	2006101113842	2006-10-05 00:00:00	2006-09-29 00:00:00	RDD	Redding Municipal		Passenger Property Loss	Checked Baggage	138.84	Supplies	Denied	0.0	Deny
+94052	2006111415561	2006-11-02 00:00:00	2006-10-27 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
+95160	2006120116581	2006-11-24 00:00:00	2006-11-17 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	416.05	Electronics	Settled	246.44	Settle
+96956	2008052944956	2007-11-19 00:00:00	2007-11-14 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	1821.75	Watches & Jewelry	Canceled	0.0	
+98863	2007012919657	2007-01-26 00:00:00	2006-10-27 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	3400.0	Watches & Jewelry	Denied	0.0	Deny
+103131	2007042524468	2007-04-19 00:00:00	2007-03-28 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	324.54	Electronics,Other	Denied	0.0	Deny
+117994	2008021439607	2008-02-07 00:00:00	2007-12-11 00:00:00	RDD	Redding Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Denied	0.0	Deny
+120476	2008040842088	2008-03-31 00:00:00	2008-03-19 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	746.5	Electronics,Electronics	Denied	0.0	Deny
+126345	2008080648133	2008-08-01 00:00:00	2008-07-29 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	604.0	Electronics,Electronics	Denied	0.0	Deny
+126820	2008072947623	2008-08-12 00:00:00	2008-07-10 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	1145.7	Watches & Jewelry	Denied	0.0	Deny
+130124	2008110651995	2008-10-31 00:00:00	2008-10-08 00:00:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Denied	0.0	Deny
+137275	2009052159252	2009-05-14 00:00:00	2009-04-11 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage	105.0	Tools & Machines,Other	Denied	0.0	Deny
+148889	2010052872193	2010-05-20 00:00:00	2010-04-25 07:00:00	RDD	Redding Municipal	Horizon Air	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Electronics		0.0	Deny
+151483	2010081374795	2010-08-09 00:00:00	2010-07-23 09:53:00	RDD	Redding Municipal	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage		Clothing & Accessories		32.5	Settle
+153867	2010102377283	2010-10-18 00:00:00	2010-09-29 13:05:00	RDD	Redding Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other,Other,Clothing & Accessories		0.0	Deny
+164147	2011101487886	2011-09-20 00:00:00	2011-09-09 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage		Household Items,Outdoors Supplies,Other		0.0	Deny
+175739	2013010899590	2012-11-06 00:00:00	2012-10-27 09:30:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage		Household Decor		170.53	Approve in Full
+186013	2013120309747	2013-12-02 00:00:00	2013-11-21 14:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage		Other,Electronics			
+188916	2014032412708	2014-03-24 00:00:00	2014-03-08 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage		Electronics,Watches & Jewelry		0.0	Deny
+194392	2014111018292	2014-11-05 00:00:00	2014-10-17 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other			
+202815	2015110226453	2015-10-15 00:00:00	2015-08-12 00:00:00	RDD	Redding Municipal	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry			
+211201	2017011736569	2016-12-14 00:00:00	2016-11-29 00:00:00	RDD	 Redding Municipal	Corp.	Passenger Property Loss	Checked Baggage		Electronics,Outdoors Supplies			In Review

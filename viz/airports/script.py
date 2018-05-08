@@ -16,7 +16,7 @@ if __name__ == "__main__":
     connection.row_factory = sqlite3.Row
     cursor = connection.cursor()
 
-    rows = ['\t'.join(['Airport', 'domestic_passengers', 'international_passengers', 'lat', 'lng', 'count', 'med_claim', 'med_close'])]
+    rows = ['\t'.join(['Airport', 'airport_code', 'domestic_passengers', 'international_passengers', 'lat', 'lng', 'count', 'med_claim', 'med_close'])]
     cursor.execute("""
         SELECT name, airport_capacities.domestic_passengers, airport_capacities.international_passengers, y.airport_code, coordinates, total_claims FROM airport_codes x
         INNER JOIN (
@@ -58,7 +58,7 @@ if __name__ == "__main__":
         domestic_passengers = result['domestic_passengers'] or 0
         international_passengers = result['international_passengers'] or 0
 
-        row = '{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}'.format(name, domestic_passengers, international_passengers, lat, lng, result['total_claims'], med_claim, med_close)
+        row = '{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}'.format(name, result['airport_code'], domestic_passengers, international_passengers, lat, lng, result['total_claims'], med_claim, med_close)
         rows.append(row)
 
     with open('data.tsv', 'w') as f:

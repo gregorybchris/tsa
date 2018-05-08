@@ -1,0 +1,7 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+106493	2007070227707	2007-06-28 00:00:00	2007-06-24 00:00:00	ART	Watertown International	Delta Air Lines	Passenger Property Loss	Checked Baggage	334.73	Clothing & Accessories	Denied	0.0	Deny
+118019	2008020639199	2008-02-08 00:00:00	2007-12-23 00:00:00	ART	Watertown International	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.07	Other	Denied	0.0	Deny
+174093	2012102397940	2012-09-05 00:00:00	2012-08-26 00:00:00	ART	Watertown International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+183020	2013091907110	2013-08-05 00:00:00	2013-07-20 07:40:00	ART	Watertown International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		16.0	Approve in Full
+204329	2017010436286	2016-10-31 00:00:00	2016-10-23 07:00:00	ART	Watertown International Watertown International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+212536	2017021537531	2017-01-04 00:00:00	2017-01-01 00:00:00	ART	Watertown International Watertown International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny

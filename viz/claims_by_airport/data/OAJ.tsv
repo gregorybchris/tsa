@@ -1,0 +1,20 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+59369	2005032980397	2005-03-16 00:00:00	2005-02-26 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	221.42	Watches & Jewelry	Approved	221.42	Approve in Full
+67075	2005063087918	2005-06-28 00:00:00	2005-06-18 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	392.37	Electronics	Denied	0.0	Deny
+77005	2005121997976	2005-12-13 00:00:00	2005-11-21 00:00:00	OAJ	Albert J Ellis, Jacksonville		Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
+77127	2005122198156	2005-12-14 00:00:00	2005-11-20 00:00:00	OAJ	Albert J Ellis, Jacksonville	USA 3000 (U5)	Passenger Property Loss	Checked Baggage	864.79	Electronics	Settled	274.48	Settle
+78776	2006012099865	2006-01-13 00:00:00	2005-09-15 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	420.71	Electronics	Denied	0.0	Deny
+79845	2006020801175	2006-01-31 00:00:00	2005-12-20 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	64.98	Clothing & Accessories	Approved	64.98	Approve in Full
+85646	2007011818980	2006-05-22 00:00:00	2006-04-27 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	80.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+85735	2006052506979	2006-05-23 00:00:00	2006-04-25 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	790.0	Watches & Jewelry,Supplies	Denied	0.0	Deny
+100058	2007022021225	2007-02-16 00:00:00	2006-12-22 00:00:00	OAJ	Albert J Ellis, Jacksonville	US Express	Passenger Property Loss	Checked Baggage	450.0	Electronics,Electronics	Denied	0.0	Deny
+127580	2008090449427	2008-08-28 00:00:00	2008-08-23 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage	261.0	Electronics,Electronics,Scientific Intruments	Denied	0.0	Deny
+152642	2010091776116	2010-09-08 00:00:00	2010-08-04 00:00:00	OAJ	Albert J Ellis, Jacksonville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+152922	2010092176266	2010-09-17 00:00:00	2010-08-23 14:25:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		20.0	Approve in Full
+153096	2010092676424	2010-09-23 00:00:00	2010-09-21 04:30:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories		198.71	Settle
+166378	2012010589993	2011-12-07 00:00:00	2011-12-02 00:00:00	OAJ	Albert J Ellis, Jacksonville		Passenger Property Loss	Checked Baggage		Cosmetics		11.66	Approve in Full
+175678	2012122899434	2012-11-05 00:00:00	2012-10-22 02:42:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+178875	2013030702449	2013-03-07 00:00:00	2012-12-21 00:00:00	OAJ	Albert J Ellis, Jacksonville	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry		685.0	Approve in Full
+201649	2015031721275	2015-03-17 00:00:00	2015-02-02 00:00:00	OAJ	Albert J Ellis, Jacksonville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Other,Other,Other,Other,Electronics		0.0	Deny
+201652	2015100625933	2015-09-24 00:00:00	2015-07-08 00:00:00	OAJ	Albert J Ellis, Jacksonville	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		113.62	Approve in Full
+201653	2015121027468	2015-11-19 00:00:00	2015-10-14 00:00:00	OAJ	Albert J Ellis, Jacksonville	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			

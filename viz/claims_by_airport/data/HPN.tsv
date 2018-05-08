@@ -1,0 +1,102 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+2259	0205005L	2003-02-05 00:00:00	2003-01-26 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	10.0	Other	Approved		Approve in Full
+5855	0430045L	2003-04-30 00:00:00	2003-03-30 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checkpoint	200.0	Watches & Jewelry	Approved	200.0	Approve in Full
+8857	0618069L	2003-06-18 00:00:00	2003-05-12 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	3800.0	Containers	Canceled		
+10438	0709054M	2003-07-09 00:00:00	2003-06-06 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	30.0	Other	Denied	0.0	Deny
+16255	0923082M	2003-09-23 00:00:00	2003-08-14 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage	135.0	Other	Denied	0.0	Deny
+23540	2005012173908	2004-01-04 00:00:00	2004-12-22 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage	175.0	Other	Settled	78.75	Settle
+39672	2004073060268	2004-07-09 00:00:00	2004-06-21 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage	1775.0	Watches & Jewelry	Denied	0.0	Deny
+45373	2004103065933	2004-09-20 00:00:00	2004-07-28 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage	175.0	Watches & Jewelry	Approved	175.0	Approve in Full
+48620	2004122169765	2004-10-28 00:00:00	2004-10-15 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checkpoint	200.0	Watches & Jewelry	Canceled		
+54786	2005020175152	2005-01-18 00:00:00	2005-01-09 00:00:00	HPN	Westchester County, White Plains	Northwest Airlines	Passenger Property Loss	Checked Baggage	735.0	Cosmetics	Settled	320.59	Settle
+62087	2005042183002	2005-04-19 00:00:00	2004-12-21 00:00:00	HPN	Westchester County, White Plains	Northwest Airlines	Passenger Property Loss	Checked Baggage	825.0	Cosmetics	Denied	0.0	Deny
+62739	2005050283864	2005-04-28 00:00:00	2004-12-16 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage	187.95	Watches & Jewelry	Approved	187.95	Approve in Full
+69041	2005080490070	2005-07-28 00:00:00	2005-07-16 00:00:00	HPN	Westchester County, White Plains	Independence Air	Passenger Property Loss	Checked Baggage	408.1	Watches & Jewelry	Denied	0.0	Deny
+69356	2005081290440	2005-08-02 00:00:00	2005-07-08 00:00:00	HPN	Westchester County, White Plains	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
+70150	2005082491323	2005-08-16 00:00:00	2005-07-20 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	195.0	Other	Approved	195.0	Approve in Full
+70416	2005082591445	2005-08-18 00:00:00	2005-07-15 00:00:00	HPN	Westchester County, White Plains	Air Canada	Passenger Property Loss	Checked Baggage	380.03	Other	Settled	105.39	Settle
+71353	2005091492477	2005-09-06 00:00:00	2005-08-22 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
+71604	2005091592566	2005-09-08 00:00:00	2005-08-26 00:00:00	HPN	Westchester County, White Plains	Continental Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Settled	37.5	Settle
+82770	2006040403979	2006-03-24 00:00:00	2006-03-17 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	99.0	Other	Approved	99.0	Approve in Full
+85935	2006060107151	2006-05-30 00:00:00	2006-04-04 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage	9.93	Tools & Machines	Denied	0.0	Deny
+87502	2006070709086	2006-06-28 00:00:00	2006-06-13 00:00:00	HPN	Westchester County, White Plains	American Airlines	Passenger Property Loss	Checked Baggage	182.35	Watches & Jewelry,Other	Denied	0.0	Deny
+88344	2006071709614	2006-07-13 00:00:00	2006-07-05 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.0	Other	Denied	0.0	Deny
+89979	2006081711225	2006-08-15 00:00:00	2006-08-10 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	250.0	Electronics	Settled	183.65	Settle
+90112	2006082311392	2006-08-18 00:00:00	2006-08-03 00:00:00	HPN	Westchester County, White Plains	Air Tran Airlines(do not use)	Passenger Property Loss	Checkpoint	15.46	Electronics	Approved	15.46	Approve in Full
+92184	2006092913472	2006-09-26 00:00:00	2006-09-05 00:00:00	HPN	Westchester County, White Plains	UAL	Passenger Property Loss	Checked Baggage	38.0	Tools & Machines	Settled	33.39	Settle
+92344	2006100513645	2006-09-29 00:00:00	2006-09-24 00:00:00	HPN	Westchester County, White Plains	Northwest Airlines	Passenger Property Loss	Checked Baggage	149.95	Tools & Machines	Denied	0.0	Deny
+93708	2006110615167	2006-10-26 00:00:00	2006-10-20 00:00:00	HPN	Westchester County, White Plains	American Airlines	Passenger Property Loss	Checkpoint	35.0	Clothing & Accessories	Denied	0.0	Deny
+94684	2006112115969	2006-11-15 00:00:00	2006-08-03 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Other	2942.32	Electronics	Denied	0.0	Deny
+101736	2007032622985	2007-03-22 00:00:00	2007-03-07 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checked Baggage	246.95	Electronics	Denied	0.0	Deny
+103477	2007050124736	2007-04-26 00:00:00	2007-03-11 00:00:00	HPN	Westchester County, White Plains	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	130.0	Cosmetics	Settled	32.5	Settle
+106532	2007070227701	2007-06-28 00:00:00	2007-06-24 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Settled	375.0	Settle
+109876	2007083031157	2007-08-29 00:00:00	2007-08-10 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Denied	0.0	Deny
+110694	2007091832172	2007-09-13 00:00:00	2007-08-28 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint	264.99	Electronics	Denied	0.0	Deny
+111418	2007092832721	2007-09-28 00:00:00	2007-08-26 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint	112.0	Other	Denied	0.0	Deny
+114347	2007120335890	2007-11-28 00:00:00	2007-11-19 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint	118.0	Clothing & Accessories	Approved	118.0	Approve in Full
+116250	2008011137795	2008-01-07 00:00:00	2007-10-03 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	192.03	Watches & Jewelry	Denied	0.0	Deny
+116272	2008011437858	2008-01-07 00:00:00	2008-01-05 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	2156.0	Clothing & Accessories	Denied	0.0	Deny
+116417	2009010854251	2008-01-08 00:00:00	2008-12-29 00:00:00	HPN	Westchester County, White Plains	US Express	Passenger Property Loss	Checkpoint	245.03	Electronics	Settled	229.95	Settle
+117014	2008012538558	2008-01-18 00:00:00	2008-01-04 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checked Baggage	845.0	Watches & Jewelry	Denied	0.0	Deny
+118882	2008030540419	2008-02-26 00:00:00	2008-02-09 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	1263.24	Electronics,Electronics,Electronics,Electronics	Denied	0.0	Deny
+118933	2008030640518	2008-02-27 00:00:00	2008-01-24 00:00:00	HPN	Westchester County, White Plains	UAL	Passenger Property Loss	Checked Baggage	488.4	Clothing & Accessories	Denied	0.0	Deny
+121265	2008041842853	2008-04-14 00:00:00	2008-03-21 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint	36.93	Cosmetics	Denied	0.0	Deny
+122175	2008050543770	2008-05-01 00:00:00	2008-04-13 00:00:00	HPN	Westchester County, White Plains	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Containers,Cosmetics	Denied	0.0	Deny
+122809	2008051944466	2008-05-15 00:00:00	2008-04-15 00:00:00	HPN	Westchester County, White Plains	Air Tran Airlines(do not use)	Passenger Property Loss	Checkpoint	5450.0	Watches & Jewelry	Canceled	0.0	
+126085	2008073147805	2008-07-28 00:00:00	2008-07-12 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checked Baggage	98.0	Other	Denied	0.0	Deny
+126162	2008080447943	2008-07-29 00:00:00	2007-10-17 00:00:00	HPN	Westchester County, White Plains	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Containers	Denied	0.0	Deny
+129303	2008101451112	2008-10-09 00:00:00	2008-07-17 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checkpoint	690.0	Watches & Jewelry,Watches & Jewelry	Settled	500.0	Settle
+129833	2008110351690	2008-10-24 00:00:00	2008-10-14 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage	101.64	Clothing & Accessories	Approved	101.64	Approve in Full
+132207	2009010554074	2008-12-29 00:00:00	2008-12-08 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Denied	0.0	Deny
+132812	2009012354892	2009-01-12 00:00:00	2008-12-24 00:00:00	HPN	Westchester County, White Plains	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	26.01	Cosmetics	Denied	0.0	Deny
+134297	2009031256139	2009-02-23 00:00:00	2009-02-14 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checked Baggage	71.99	Cosmetics	Approved	71.99	Approve in Full
+134546	2009030555894	2009-03-03 00:00:00	2009-02-13 00:00:00	HPN	Westchester County, White Plains	UAL	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
+135310	2009041357458	2009-03-20 00:00:00	2009-02-01 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checked Baggage	69.99	Other	Canceled	0.0	
+137246	2009052159290	2009-05-13 00:00:00	2009-02-04 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Outdoors Supplies	Denied	0.0	Deny
+138376	2009061960445	2009-06-15 00:00:00	2008-07-22 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint	78.03	Watches & Jewelry	Denied	0.0	Deny
+142411	2009100664393	2009-10-06 00:00:00	2009-10-05 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.73	Food & Drink	Denied	0.0	Deny
+143492	2009112365554	2009-11-11 00:00:00	2009-11-02 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+143852	2009112065548	2009-11-20 00:00:00	2009-10-21 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage	0.0	Watches & Jewelry	Canceled		
+143950	2009120466050	2009-11-24 00:00:00	2009-11-13 14:00:00	HPN	Westchester County, White Plains	Delta (Song)	Passenger Property Loss	Checked Baggage	14.7	Tools & Machines	Approved	14.7	Approve in Full
+151934	2010082575328	2010-08-19 00:00:00	2010-08-07 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other,Outdoors Supplies		65.0	Approve in Full
+155055	2010120278419	2010-11-24 00:00:00	2010-10-29 08:05:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other,Cosmetics		20.0	Settle
+155820	2011010779252	2010-12-22 00:00:00	2010-12-19 18:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint		Other,Other		0.0	Deny
+155932	2011010879260	2010-12-28 00:00:00	2010-12-21 09:15:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+156118	2011011279504	2011-01-03 00:00:00	2010-12-18 18:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Containers,Other,Other		0.0	Deny
+156177	2011011379538	2011-01-06 00:00:00	2010-12-19 18:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checkpoint		Other			
+156766	2011021480190	2011-01-21 00:00:00	2010-11-27 00:00:00	HPN	Westchester County, White Plains	UAL	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
+158716	2011042783031	2011-03-28 00:00:00	2011-03-02 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other,Other		0.0	Deny
+161831	2011072185406	2011-07-07 00:00:00	2011-07-05 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		9.53	Approve in Full
+162673	2011081986277	2011-08-02 00:00:00	2011-07-23 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+163217	2011091286839	2011-08-18 00:00:00	2011-08-01 21:30:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+166333	2012010489943	2011-12-06 00:00:00	2011-11-12 11:45:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+169439	2012041793002	2012-03-22 00:00:00	2012-02-28 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		11.0	Approve in Full
+170985	2012060694591	2012-05-16 00:00:00	2012-04-29 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+172022	2012072695733	2012-06-22 00:00:00	2012-04-30 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+172597	2012082896339	2012-07-16 00:00:00	2012-06-24 18:30:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
+173329	2012092397092	2012-08-09 00:00:00	2012-01-12 00:00:00	HPN	Westchester County, White Plains	UAL	Passenger Property Loss	Checked Baggage		Electronics,Other,Electronics		0.0	Deny
+173946	2012101797659	2012-08-30 00:00:00	2012-01-03 00:00:00	HPN	Westchester County, White Plains	AirTran Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+174151	2012102297857	2012-09-10 00:00:00	2012-08-12 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+175932	2013010999661	2012-11-14 00:00:00	2012-11-02 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		12.0	Approve in Full
+176390	2013012200040	2012-12-03 00:00:00	2012-11-27 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
+181240	2013062804910	2013-06-05 00:00:00	2013-05-16 14:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+182834	2013092407309	2013-07-30 00:00:00	2013-06-29 00:00:00	HPN	Westchester County, White Plains	American Airlines	Passenger Property Loss	Checked Baggage		Containers			
+182835	2013092507350	2013-07-30 00:00:00	2012-12-21 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+184055	2013102307723	2013-09-10 00:00:00	2013-08-23 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+184129	2013102407762	2013-09-12 00:00:00	2013-09-09 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+184957	2013111209089	2013-10-17 00:00:00	2013-09-06 11:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+185649	2013111809469	2013-11-14 00:00:00	2013-10-31 20:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint		Outdoors Supplies			
+189342	2014041113142	2014-04-08 00:00:00	2014-03-29 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+190551	2014060314371	2014-05-29 00:00:00	2014-05-19 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		25.0	Approve in Full
+192234	2014082016089	2014-07-28 00:00:00	2014-06-03 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+193479	2014100417362	2014-09-21 00:00:00	2014-09-04 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+195492	2014122919439	2014-12-29 00:00:00	2014-12-12 00:00:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+198548	2015020420403	2015-02-04 00:00:00	2015-01-13 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		574.75	Settle
+198551	2015071723935	2015-07-09 00:00:00	2015-06-18 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+198553	2015090825296	2015-08-28 00:00:00	2015-08-25 00:00:00	HPN	Westchester County, White Plains	USAir	Passenger Property Loss	Checkpoint		Electronics		245.06	Settle
+198559	2016010428076	2015-12-22 00:00:00	2015-12-13 00:00:00	HPN	Westchester County, White Plains	Jet Blue	Passenger Property Loss	Checkpoint		Other			
+207220	2016040430311	2016-03-18 00:00:00	2016-03-14 18:30:00	HPN	Westchester County, White Plains		Passenger Property Loss	Checked Baggage		Cosmetics		15.0	Approve in Full
+207222	2016100334280	2016-08-17 00:00:00	2016-07-31 00:00:00	HPN	Westchester County, White Plains	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+215417	2017032338155	2017-03-21 00:00:00	2017-03-13 13:45:00	HPN	 Westchester County, White Plains	Republic Airways	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+215418	2017041938715	2017-03-22 00:00:00	2017-03-13 00:00:00	HPN	 Westchester County, White Plains	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			Closed: Canceled
+215419	2017092743623	2017-08-25 00:00:00	2017-08-16 00:00:00	HPN	 Westchester County, White Plains		Passenger Property Loss	Checkpoint		Containers			In Review

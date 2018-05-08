@@ -1,0 +1,7 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+96993	2006052607060		2006-05-15 00:00:00	IYK	Indian Wells Valley	UAL	Passenger Property Loss	Checked Baggage	427.93	Electronics	Denied	0.0	Deny
+136223	2009050158236	2009-04-14 00:00:00	2009-04-12 00:00:00	IYK	Indian Wells Valley		Passenger Property Loss	Checked Baggage	499.0	Electronics	Denied	0.0	Deny
+146138	2010030869241	2010-02-25 00:00:00	2010-02-12 00:00:00	IYK	Indian Wells Valley	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+163485	2011072485471	2011-08-29 00:00:00	2011-07-01 04:30:00	IYK	Indian Wells Valley	UAL	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+167641	2012022391265	2012-01-20 00:00:00	2011-12-27 05:00:00	IYK	Indian Wells Valley	UAL	Passenger Property Loss	Checkpoint		Other		0.0	Deny
+174825	2012111098557	2012-10-02 00:00:00	2012-09-17 00:00:00	IYK	Indian Wells Valley	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		80.0	Settle

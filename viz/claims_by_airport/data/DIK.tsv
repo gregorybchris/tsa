@@ -1,0 +1,5 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+188136	2014022411906	2014-02-18 00:00:00	2013-12-21 00:00:00	DIK	Dickinson Theodore Roosevelt Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+197523	2015071723942	2015-07-07 00:00:00	2015-06-17 00:00:00	DIK	Dickinson Theodore Roosevelt Regional Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor			
+206149	2016062132341	2016-06-08 00:00:00	2016-06-03 00:00:00	DIK	Dickinson Theodore Roosevelt Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+214362	2017050539238	2017-03-17 00:00:00	2017-03-05 00:00:00	DIK	Dickinson Theodore Roosevelt Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Closed: Canceled

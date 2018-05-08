@@ -28,7 +28,7 @@
 			</div>
 
 			<div class="viz-section" id="disposition-section">
-				<svg id="dispositions-svg" width="900" height="400"></svg>
+				<svg class="no-select" id="dispositions-svg" width="900" height="400"></svg>
 				<div class="dispositions-buttons-wrap">
 					<input name="DispositionPercentage" id="btnDispositionPercentage" type="button" value="Percentage" class="button"/>
 					<input name="DispositionCount" id="btnDispositionCount" type="button" value="Count" class="button"/>
@@ -41,36 +41,40 @@
 			</div>
 
 			<div class="viz-section" id="interactive-section">
-				<div id="map-section">
-					<svg id="map-svg" width="800" height="500"></svg>
-					<div class="map-buttons-wrap">
-						<input name="TotalClaim" id="btnTotalClaims" type="button" value="Total Claims" class="button"/>
-						<input name="MedianClaimAmount" id="btnMedianClaimAmount" type="button" value="Median Claim Amount" class="button"/>
-						<input name="MedianCloseAmount" id="btnMedianCloseAmount" type="button" value="Median Close Amount" class="button"/>
-						<input name="ClaimsPerPassenger" id="btnClaimsPerPassenger" type="button" value="Claims Per Passenger" class="button"/>
+				<div id="interactive-row-1">
+					<div id="map-section">
+						<svg class="no-select" id="map-svg" width="800" height="500"></svg>
+						<div class="map-buttons-wrap">
+							<input name="TotalClaim" id="btnTotalClaims" type="button" value="Total Claims" class="button"/>
+							<input name="MedianClaimAmount" id="btnMedianClaimAmount" type="button" value="Median Claim Amount" class="button"/>
+							<input name="MedianCloseAmount" id="btnMedianCloseAmount" type="button" value="Median Close Amount" class="button"/>
+							<input name="ClaimsPerPassenger" id="btnClaimsPerPassenger" type="button" value="Claims Per Passenger" class="button"/>
+						</div>
+					</div>
+
+					<div id="items-section">
+						<svg class="no-select" id="items-svg" width="800" height="500"></svg>
 					</div>
 				</div>
 
-				<div id="items-section">
-					<svg id="items-svg" width="450" height="500"></svg>
+				<div id="interactive-row-2">
+					<div id="amounts-section">
+						<svg class="no-select" id="amounts-svg" width="400" height="400"></svg>
+					</div>
+					<div id="claim-section">
+						<!-- <div class="claim-feature">
+							<span class="claim-feature-label">ID</span>
+							<span class="claim-feature-text" id="claim-id-text"></span>
+						</div> -->
+					</div>
 				</div>
 
-				<div id="amounts-section">
-					<svg id="amounts-svg" width="400" height="400"></svg>
-				</div>
-
-				<div id="claim-section">
-					<!-- <div class="claim-feature">
-						<span class="claim-feature-label">ID</span>
-						<span class="claim-feature-text" id="claim-id-text"></span>
-					</div> -->
-				</div>
 			</div>
 		</div>
 
+		<script src="scripts/viz/items.js"></script>
 		<script src="scripts/viz/dispositions.js"></script>
 		<script src="scripts/viz/map.js"></script>
-		<script src="scripts/viz/items.js"></script>
 		<script src="scripts/viz/amounts.js"></script>
 		<script>
 			setupDispositions()

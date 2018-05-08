@@ -1,0 +1,714 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+2886	0714544M	2003-02-25 00:00:00	2003-01-28 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	2175.0	Electronics	Closed as a contractor claim	0.0	
+3441	0311111L	2003-03-11 00:00:00	2003-01-28 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	60.0	Other	Canceled		
+6231	0507030L	2003-05-07 00:00:00	2003-03-24 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	70.0	Containers	Closed as a contractor claim		
+9024	0620032M	2003-06-20 00:00:00	2003-06-04 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	600.0	Other	Closed as a contractor claim		
+9717	0701069M	2003-07-01 00:00:00	2003-05-06 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	440.0	Electronics	Canceled	0.0	
+13458	2004061655947	2003-08-15 00:00:00	2003-06-01 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	445.35	Clothing & Accessories	Closed as a contractor claim	0.0	
+14333	2004051151160	2003-08-26 00:00:00	2003-06-16 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Canceled	0.0	
+16475	0925112M	2003-09-25 00:00:00	2003-08-27 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	790.0	Watches & Jewelry	Canceled	0.0	
+18288	2004051050803	2003-10-21 00:00:00	2003-09-06 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+18669	1022029M	2003-10-22 00:00:00	2003-08-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1200.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+19338	1105017M	2003-11-05 00:00:00	2003-10-09 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+20085	0820028M	2003-11-14 00:00:00	2003-06-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	792.52	Other	Closed as a contractor claim	0.0	
+20281	2004050750711	2003-11-17 00:00:00	2003-11-01 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	30.0	Other	Canceled		
+22769	2004050750675	2003-12-17 00:00:00	2003-12-03 00:00:00	SFO	San Francisco International	America Trans Air	Passenger Property Loss	Checked Baggage	69.55	Other	Canceled		
+22771	2004050750680	2003-12-17 00:00:00	2003-12-15 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Canceled		
+28157	2004050550499	2004-02-19 00:00:00	2003-12-02 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	8500.0	Other	Closed as a contractor claim	0.0	
+28868	0226392M	2004-02-26 00:00:00	2004-01-25 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	318.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+29378	0305535M	2004-03-05 00:00:00	2004-01-25 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1437.46	Electronics	Closed as a contractor claim	0.0	
+29773	2004051050772	2004-03-10 00:00:00	2004-01-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1040.0	Watches & Jewelry	Canceled		
+30037	2004060254242	2004-03-11 00:00:00	2004-01-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	56.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+30267	2004051452057	2004-03-12 00:00:00	2004-02-10 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checkpoint	0.0	Watches & Jewelry	Canceled		
+30429	2004042350065	2004-03-15 00:00:00	2004-03-01 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Other	Canceled		
+30438	2004051151076	2004-03-15 00:00:00	2003-12-29 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checkpoint	160.0	Other	Canceled	0.0	
+30659	2004052153036	2004-03-18 00:00:00	2004-02-25 00:00:00	SFO	San Francisco International	America Trans Air	Passenger Property Loss	Checked Baggage	453.55	Electronics	Canceled		
+30664	2004052453126	2004-03-18 00:00:00	2004-02-18 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	470.0	Watches & Jewelry	Canceled		
+30667	2004052453225	2004-03-18 00:00:00	2004-02-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1073.0	Electronics	Canceled		
+30676	2004043050243	2004-03-18 00:00:00	2004-02-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	360.0	Electronics	Closed as a contractor claim	0.0	
+30679	2004052753676	2004-03-18 00:00:00	2004-02-16 00:00:00	SFO	San Francisco International	America West	Passenger Property Loss	Checkpoint	1997.82	Electronics	Closed as a contractor claim	0.0	
+30980	2004051351628	2004-03-22 00:00:00	2003-12-01 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	0.0	Other	Closed as a contractor claim	0.0	
+31241	2004043050321	2004-03-24 00:00:00	2003-12-09 00:00:00	SFO	San Francisco International	Virgin Atlantic	Passenger Property Loss	Checked Baggage	0.0	Other	Closed as a contractor claim	0.0	
+31243	2004051351655	2004-03-24 00:00:00	2004-02-13 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checkpoint	3000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+31569	2004050650595	2004-03-30 00:00:00	2002-02-24 00:00:00	SFO	San Francisco International	China Airlines	Passenger Property Loss	Checked Baggage	608.0	Electronics	Canceled		
+31582	2004051652356	2004-03-30 00:00:00	2004-03-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	420.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+31583	2004053053889	2004-03-30 00:00:00	2003-12-22 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Closed as a contractor claim	0.0	
+31810	2004051050897	2004-04-01 00:00:00	2004-02-29 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	47.65	Clothing & Accessories	Canceled		
+31835	2004051451983	2004-04-01 00:00:00	2004-03-14 00:00:00	SFO	San Francisco International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	16.1	Other	Closed as a contractor claim	0.0	
+31836	2004051452253	2004-04-01 00:00:00	2004-02-23 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+31838	2004051752497	2004-04-01 00:00:00	2004-03-01 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	440.0	Other	Closed as a contractor claim	0.0	
+32055	2004060454688	2004-04-04 00:00:00	2004-03-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	3500.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+32189	2004052853784	2004-04-06 00:00:00	2004-03-20 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	23.32	Other	Canceled		
+32192	2004072159856	2004-04-06 00:00:00	2004-02-04 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	115.0	Other	Canceled		
+32199	2004051452075	2004-04-06 00:00:00	2004-03-27 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	78.06	Other	Denied	78.06	Deny
+32328	0226281M	2004-04-07 00:00:00	2003-12-11 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Watches & Jewelry	Closed as a contractor claim	0.0	
+32468	2004052153012	2004-04-15 00:00:00	2004-03-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	3.5	Other	Canceled		
+32473	2004052653504	2004-04-15 00:00:00	2004-03-22 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	119.31	Other	Canceled		
+32474	2004052653524	2004-04-15 00:00:00	2004-03-28 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	30.0	Other	Canceled		
+32479	2004052853719	2004-04-15 00:00:00	2004-01-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Canceled		
+32665	2004051752411	2004-04-16 00:00:00	2004-03-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	262.0	Other	Closed as a contractor claim	0.0	
+32995	2004052853766	2004-04-21 00:00:00	2004-03-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	40.0	Electronics	Canceled		
+32996	2004052853808	2004-04-21 00:00:00	2004-03-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	300.0	Other	Canceled		
+33000	2004060153944	2004-04-21 00:00:00	2004-03-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	160.0	Electronics	Canceled		
+33001	2004060153992	2004-04-21 00:00:00	2004-03-02 00:00:00	SFO	San Francisco International		Passenger Property Loss			Watches & Jewelry	Canceled		
+33003	2004060154009	2004-04-21 00:00:00	2004-03-15 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	350.0	Other	Canceled		
+33006	2004060254206	2004-04-21 00:00:00	2004-03-27 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	27.42	Other	Canceled		
+33008	2004060254405	2004-04-21 00:00:00	2004-01-24 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Other	Canceled		
+33019	2004061555760	2004-04-21 00:00:00	2004-03-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	657.88	Electronics	Canceled		
+33023	2004052753662	2004-04-21 00:00:00	2004-02-27 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	109.45	Clothing & Accessories	Closed as a contractor claim	0.0	
+33329	2004060153987	2004-04-21 00:00:00	2004-03-25 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	469.98	Electronics	Settled	234.99	Settle
+33540	2004060254164	2004-04-23 00:00:00	2003-12-28 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checkpoint	675.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+33541	2004060254204	2004-04-23 00:00:00	2004-12-18 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checkpoint	271.25	Watches & Jewelry	Closed as a contractor claim	0.0	
+33542	2004060254227	2004-04-23 00:00:00	2004-03-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	80.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+33544	2004090862389	2004-04-23 00:00:00	2004-03-30 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	340.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+33897	2004051752394	2004-05-03 00:00:00	2004-03-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	110.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+33899	2004051852679	2004-05-03 00:00:00	2004-04-19 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	300.0	Other	Closed as a contractor claim	0.0	
+33900	2004060354599	2004-05-03 00:00:00	2004-04-08 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	799.99	Electronics	Closed as a contractor claim	0.0	
+34261	2004060754925	2004-05-04 00:00:00	2004-03-23 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	300.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+34262	2004060754951	2004-05-04 00:00:00	2004-03-30 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+34627	2004061455725	2004-05-05 00:00:00	2004-02-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	299.0	Other	Canceled		
+34630	2004061655993	2004-05-05 00:00:00	2004-03-30 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.75	Other	Canceled		
+34631	2004061656054	2004-05-05 00:00:00	2004-03-29 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	2399.99	Electronics	Closed as a contractor claim	0.0	
+34928	2004061555805	2004-05-10 00:00:00	2004-04-08 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	393.5	Other	Canceled		
+34930	2004061555814	2004-05-10 00:00:00	2004-04-27 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Canceled		
+34935	2004061555774	2004-05-10 00:00:00	2004-04-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	350.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+35221	2004061555903	2004-05-13 00:00:00	2004-04-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	51.45	Other	Canceled		
+35229	2004061756158	2004-05-13 00:00:00	2004-04-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	146.34	Other	Canceled		
+35230	2004060855069	2004-05-13 00:00:00	2004-03-27 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage	4650.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+35232	2004061756112	2004-05-13 00:00:00	2003-12-18 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	1350.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+35403	2004052152962	2004-05-14 00:00:00	2004-03-15 00:00:00	SFO	San Francisco International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	800.0	Electronics	Closed as a contractor claim	0.0	
+35451	2004062357016	2004-05-18 00:00:00	2004-04-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	106.36	Other	Closed as a contractor claim	0.0	
+35586	2004060354601	2004-05-19 00:00:00	2003-11-23 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	2100.0	Electronics	Canceled		
+35593	2004061756105	2004-05-19 00:00:00	2004-04-25 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checkpoint	65.0	Other	Canceled		
+35604	2004061656027	2004-05-19 00:00:00	2004-05-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	100.0	Other	Closed as a contractor claim	0.0	
+35606	2004062156465	2004-05-19 00:00:00	2004-03-31 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+35607	2004062156538	2004-05-19 00:00:00	2004-01-20 00:00:00	SFO	San Francisco International	America West	Passenger Property Loss	Checkpoint	2100.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+36124	2004061055350	2004-05-27 00:00:00	2004-05-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	108.36	Other	Canceled		
+36131	2004061856226	2004-05-27 00:00:00	2004-04-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	33.79	Other	Canceled		
+36141	2004062156507	2004-05-27 00:00:00	2004-05-11 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	2615.24	Electronics	Canceled		
+36145	2004062156647	2004-05-27 00:00:00	2004-05-08 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Other	Canceled		
+36161	2004062156485	2004-05-27 00:00:00	2004-04-19 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	356.7	Electronics	Closed as a contractor claim	0.0	
+36573	2004062256807	2004-05-28 00:00:00	2004-04-10 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	147.0	Electronics	Canceled	0.0	
+36693	2004062357020	2004-06-02 00:00:00	2004-05-17 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	359.98	Electronics	Canceled		
+36695	2004062357214	2004-06-02 00:00:00	2004-05-08 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	75.0	Other	Canceled		
+36861	2004062357112	2004-06-03 00:00:00	2004-05-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1472.0	Watches & Jewelry	Canceled		
+36874	2004070858890	2004-06-03 00:00:00	2004-05-13 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	67.23	Other	Canceled		
+36877	2004062357115	2004-06-03 00:00:00	2004-05-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	140.71	Other	Closed as a contractor claim	0.0	
+36878	2004070658436	2004-06-03 00:00:00	2004-05-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2600.0	Electronics	Closed as a contractor claim	0.0	
+37400	2004062957708	2004-06-08 00:00:00	2004-05-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	150.0	Other	Canceled		
+37411	2004063057907	2004-06-08 00:00:00	2004-05-24 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	10.8	Tools & Machines	Canceled		
+37412	2004063057917	2004-06-08 00:00:00	2004-03-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	2316.0	Electronics	Canceled		
+37413	2004063057918	2004-06-08 00:00:00	2004-05-23 00:00:00	SFO	San Francisco International	Lufthansa	Passenger Property Loss	Checked Baggage	160.0	Other	Canceled		
+37418	2004062857651	2004-06-08 00:00:00	2004-04-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	2100.0	Electronics	Closed as a contractor claim	0.0	
+37421	2004062957772	2004-06-08 00:00:00	2004-05-11 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	485.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+37422	2004062957775	2004-06-08 00:00:00	2004-02-13 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	72.12	Other	Closed as a contractor claim	0.0	
+37423	2004063058024	2004-06-08 00:00:00	2004-05-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	919.0	Electronics	Closed as a contractor claim	0.0	
+37592	2004063057896	2004-06-09 00:00:00	2004-05-24 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	4134.0	Electronics	Canceled		
+37596	2004070358244	2004-06-09 00:00:00	2004-05-19 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	362.0	Containers	Closed as a contractor claim	0.0	
+37675	2004070158198	2004-06-10 00:00:00	2004-05-19 00:00:00	SFO	San Francisco International	British Airways	Passenger Property Loss	Checked Baggage	599.0	Electronics	Canceled		
+37680	2004070758663	2004-06-10 00:00:00	2004-02-10 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	475.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+37959	2004070658385	2004-06-16 00:00:00	2004-05-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Canceled		
+37969	2004070858881	2004-06-16 00:00:00	2004-04-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	657.85	Clothing & Accessories	Canceled		
+37971	2004070358259	2004-06-16 00:00:00	2004-05-18 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+37976	2004071459265	2004-06-16 00:00:00	2004-05-02 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	245.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+38273	2004070758645	2004-06-21 00:00:00	2004-05-30 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.76	Other	Canceled		
+38277	2004070758706	2004-06-21 00:00:00	2004-05-26 00:00:00	SFO	San Francisco International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Canceled		
+38279	2004070758721	2004-06-21 00:00:00	2004-06-11 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Canceled		
+38320	2004070858882	2004-06-21 00:00:00	2004-06-12 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	40.0	Other	Denied	0.0	Deny
+38457	2004071359192	2004-06-22 00:00:00	2004-06-03 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	40.0	Other	Canceled		
+38460	2004071559414	2004-06-22 00:00:00	2004-05-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	250.0	Other	Canceled		
+38462	2004070858868	2004-06-22 00:00:00	2004-06-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	200.0	Other	Closed as a contractor claim	0.0	
+38464	2004071259048	2004-06-22 00:00:00	2004-06-11 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2861.27	Electronics	Closed as a contractor claim	0.0	
+38606	2004071459357	2004-06-24 00:00:00	2004-05-24 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.5	Other	Approved	125.5	Approve in Full
+38614	2004071359147	2004-06-24 00:00:00	2004-05-25 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checkpoint	1695.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+38615	2004071459316	2004-06-24 00:00:00	2004-06-13 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	120.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+38913	2004071459327	2004-06-29 00:00:00	2004-05-31 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	32.0	Clothing & Accessories	Canceled		
+38918	2004071559516	2004-06-29 00:00:00	2004-06-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	176.0	Other	Canceled		
+38920	2004071559429	2004-06-29 00:00:00	2004-05-29 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	394.99	Clothing & Accessories	Closed as a contractor claim	0.0	
+38921	2004071559467	2004-06-29 00:00:00	2004-05-10 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	79.99	Other	Closed as a contractor claim	0.0	
+39079	2004071659620	2004-07-01 00:00:00	2004-06-12 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checkpoint	825.67	Electronics	Closed as a contractor claim	0.0	
+39156	2004071559469	2004-07-06 00:00:00	2004-06-15 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	8.56	Tools & Machines	Canceled		
+39161	2004071959698	2004-07-06 00:00:00	2004-05-22 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	10.0	Other	Canceled		
+39162	2004071959717	2004-07-06 00:00:00	2004-05-30 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	143.0	Other	Canceled		
+39164	2004071959745	2004-07-06 00:00:00	2003-07-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	295.0	Containers	Canceled		
+39165	2004071959752	2004-07-06 00:00:00	2004-06-04 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	586.68	Electronics	Canceled		
+39613	2004072660010	2004-07-09 00:00:00	2004-06-24 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Canceled		
+39614	2004072760038	2004-07-09 00:00:00	2004-05-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	160.0	Other	Canceled		
+39627	2004080960872	2004-07-09 00:00:00	2004-07-04 00:00:00	SFO	San Francisco International		Passenger Theft	Checkpoint	95.9	Clothing & Accessories	Canceled	0.0	
+39631	2004090862293	2004-07-09 00:00:00	2004-05-06 00:00:00	SFO	San Francisco International	Continental Express Inc	Passenger Property Loss	Checked Baggage	63.6	Other	Canceled	0.0	
+39633	2004072760100	2004-07-09 00:00:00	2004-05-02 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	245.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+39636	2004080360436	2004-07-09 00:00:00	2004-06-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	140.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+39639	2004080960807	2004-07-09 00:00:00	2004-07-09 00:00:00	SFO	San Francisco International	UAL	Passenger Theft	Checked Baggage	16481.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+39642	2004081061037	2004-07-09 00:00:00	2004-06-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1077.42	Other	Closed as a contractor claim	0.0	
+39644	2004081261267	2004-07-09 00:00:00	2004-06-29 00:00:00	SFO	San Francisco International	USAir	Passenger Theft	Checkpoint	15.0	Other	Closed as a contractor claim	0.0	
+39904	2004080360408	2004-07-12 00:00:00	2004-06-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	490.0	Other	Closed as a contractor claim	0.0	
+40067	2004090362133	2004-07-13 00:00:00	2004-05-31 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	609.8	Electronics	Canceled	0.0	
+40071	2004080460515	2004-07-13 00:00:00	2004-04-30 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	513.0	Electronics	Closed as a contractor claim	0.0	
+40073	2004080560620	2004-07-13 00:00:00	2004-03-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	468.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+40364	2004081161155	2004-07-16 00:00:00	2004-06-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3600.0	Electronics	Canceled	0.0	
+40370	2004090362067	2004-07-16 00:00:00	2004-06-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	160.0	Watches & Jewelry	Canceled		
+40373	2004090261926	2004-07-16 00:00:00	2004-07-03 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	6140.0	Electronics	Closed as a contractor claim	0.0	
+40558	2004072860152	2004-07-20 00:00:00	2004-06-27 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	1808.96	Electronics	Closed as a contractor claim	0.0	
+40727	2004091062557	2004-07-21 00:00:00	2004-06-21 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	397.47	Electronics	Approved	397.47	Approve in Full
+40737	2004082661345	2004-07-21 00:00:00	2004-06-28 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	48.83	Other	Canceled	0.0	
+40738	2004082661366	2004-07-21 00:00:00	2004-03-09 00:00:00	SFO	San Francisco International	British Airways	Passenger Property Loss	Checked Baggage	120.0	Other	Canceled	0.0	
+40742	2004091062572	2004-07-21 00:00:00	2004-02-21 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1358.93	Other	Closed as a contractor claim	0.0	
+40837	2004082661352	2004-07-23 00:00:00	2004-07-03 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	140.0	Other	Canceled	0.0	
+40844	2004082661358	2004-07-23 00:00:00	2004-02-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	19.99	Other	Closed as a contractor claim	0.0	
+40845	2004082661380	2004-07-23 00:00:00	2004-06-13 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	200.0	Other	Closed as a contractor claim	0.0	
+40846	2004082661426	2004-07-23 00:00:00	2004-06-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	135.0	Other	Closed as a contractor claim	0.0	
+41086	2004080260363	2004-07-27 00:00:00	2004-06-16 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Other	Canceled		
+41102	2004082761487	2004-07-27 00:00:00	2004-07-04 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	192.59	Electronics	Closed as a contractor claim	0.0	
+41103	2004083061605	2004-07-27 00:00:00	2004-07-18 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	400.0	Other	Closed as a contractor claim	0.0	
+41104	2004083061621	2004-07-27 00:00:00	2004-07-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2850.0	Electronics	Closed as a contractor claim	0.0	
+41106	2004090862380	2004-07-27 00:00:00	2004-07-13 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1408.74	Electronics	Closed as a contractor claim	0.0	
+41260	2004083161695	2004-07-28 00:00:00	2004-07-01 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	324.71	Other	Closed as a contractor claim	0.0	
+41302	2004080960924	2004-07-29 00:00:00	2004-07-19 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+41460	2004090161788	2004-08-03 00:00:00	2004-06-30 00:00:00	SFO	San Francisco International		Passenger Theft	Checked Baggage	100.0	Clothing & Accessories	Canceled	0.0	
+41466	2004090762229	2004-08-03 00:00:00	2004-07-17 00:00:00	SFO	San Francisco International	UAL	Passenger Theft	Checked Baggage	10.0	Tools & Machines	Canceled	0.0	
+41478	2004090161869	2004-08-03 00:00:00	2004-06-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	188.99	Electronics	Closed as a contractor claim	0.0	
+41479	2004090762201	2004-08-03 00:00:00	2004-07-26 00:00:00	SFO	San Francisco International	UAL	Passenger Theft	Checked Baggage	300.0	Electronics	Closed as a contractor claim	0.0	
+41480	2004092263490	2004-08-03 00:00:00	2004-07-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	535.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+41481	2004092263595	2004-08-03 00:00:00	2004-06-08 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+41762	2004090261928	2004-08-05 00:00:00	2004-06-29 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	52.43	Clothing & Accessories	Closed as a contractor claim	0.0	
+41763	2004090262021	2004-08-05 00:00:00	2004-07-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	380.0	Electronics	Closed as a contractor claim	0.0	
+41764	2004090362060	2004-08-05 00:00:00	2004-07-10 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	700.0	Electronics	Closed as a contractor claim	0.0	
+41767	2004090962447	2004-08-05 00:00:00	2004-03-22 00:00:00	SFO	San Francisco International	Lufthansa	Passenger Property Loss	Checked Baggage	98.9	Other	Closed as a contractor claim	0.0	
+41769	2004092063192	2004-08-05 00:00:00	2004-05-20 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	160.0	Other	Closed as a contractor claim	0.0	
+42038	2004092263377	2004-08-09 00:00:00	2004-07-16 00:00:00	SFO	San Francisco International		Passenger Property Loss	Other	143.0	Other	Canceled	0.0	
+42042	2004090862399	2004-08-09 00:00:00	2004-04-03 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	413.29	Other	Closed as a contractor claim	0.0	
+42278	2004112367722	2004-08-10 00:00:00	2004-07-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	1920.0	Other	Canceled	0.0	
+42282	2004091362673	2004-08-10 00:00:00	2004-07-15 00:00:00	SFO	San Francisco International	Comair Inc	Passenger Property Loss	Checked Baggage	580.0	Other	Closed as a contractor claim	0.0	
+42284	2004091562969	2004-08-10 00:00:00	2004-06-29 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	204.22	Watches & Jewelry	Closed as a contractor claim	0.0	
+42822	2004092263433	2004-08-19 00:00:00	2004-05-29 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	660.0	Other	Closed as a contractor claim	0.0	
+43137	2004093064313	2004-08-24 00:00:00	2004-08-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	359.0	Other	Canceled		
+43330	2004082561334	2004-08-25 00:00:00	2004-03-01 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage	750.0	Containers	Closed as a contractor claim	0.0	
+43461	2004091562883	2004-08-27 00:00:00	2004-07-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1215.0	Electronics	Closed as a contractor claim	0.0	
+43462	2004091562923	2004-08-27 00:00:00	2004-07-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	200.0	Containers	Closed as a contractor claim	0.0	
+43463	2004102265559	2004-08-27 00:00:00	2004-08-01 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	550.0	Other	Closed as a contractor claim	0.0	
+43523	2004091562892	2004-08-27 00:00:00	2004-08-15 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	398.0	Electronics	Settled	300.13	Settle
+43895	2004091663073	2004-09-01 00:00:00	2004-06-21 00:00:00	SFO	San Francisco International	American Airlines	Passenger Theft	Checked Baggage	1500.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+44017	2004112467740	2004-09-08 00:00:00	2004-08-04 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checkpoint	339.95	Other	Canceled	0.0	
+44020	2004112367694	2004-09-08 00:00:00	2004-09-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	30.0	Other	Closed as a contractor claim	0.0	
+44164	2004092864067	2004-09-09 00:00:00	2004-08-20 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	895.0	Other	Canceled	0.0	
+44172	2004100764828	2004-09-09 00:00:00	2004-07-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1500.0	Other	Canceled		
+44180	2004102065312	2004-09-09 00:00:00	2004-08-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2599.99	Electronics	Canceled	0.0	
+44185	2004102265515	2004-09-09 00:00:00	2004-07-02 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1500.0	Electronics	Canceled	0.0	
+44591	2004102165508	2004-09-10 00:00:00	2004-08-26 00:00:00	SFO	San Francisco International	Frontier Airlines	Passenger Theft	Checked Baggage	98.0	Other	Settled	49.0	Settle
+44628	2004112667830	2004-09-12 00:00:00	2004-09-15 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	700.0	Electronics	Closed as a contractor claim	0.0	
+44754	2004092363723	2004-09-14 00:00:00	2004-08-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	5.41	Tools & Machines	Canceled		
+44760	2004092363737	2004-09-14 00:00:00	2004-08-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	449.99	Other	Closed as a contractor claim	0.0	
+44777	2004092363668	2004-09-14 00:00:00	2004-07-12 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	3097.5	Watches & Jewelry	Denied	0.0	Deny
+44875	2004110466323	2004-09-15 00:00:00	2004-08-29 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	100.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+45033	2004092363746	2004-09-16 00:00:00	2004-08-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	1595.0	Other	Closed as a contractor claim	0.0	
+45034	2004103165995	2004-09-16 00:00:00	2004-08-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	125.0	Cosmetics	Closed as a contractor claim	0.0	
+45224	2004110566482	2004-09-17 00:00:00	2004-08-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	250.0	Other	Closed as a contractor claim	0.0	
+45395	2004102065297	2004-09-20 00:00:00	2004-09-07 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	700.0	Electronics	Canceled	0.0	
+45403	2004101965174	2004-09-20 00:00:00	2004-08-28 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	216.49	Electronics	Closed as a contractor claim	0.0	
+45686	2004093064286	2004-09-23 00:00:00	2004-08-05 00:00:00	SFO	San Francisco International	UAL	Passenger Theft	Checked Baggage	2024.25	Other	Closed as a contractor claim	0.0	
+45687	2004110566469	2004-09-23 00:00:00	2004-08-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1130.0	Other	Closed as a contractor claim	0.0	
+45688	2004120168106	2004-09-23 00:00:00	2004-09-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	140.0	Other	Closed as a contractor claim	0.0	
+45972	2004101965197	2004-09-28 00:00:00	2003-10-21 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Canceled	0.0	
+45990	2004101965154	2004-09-28 00:00:00	2004-07-21 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	3097.5	Watches & Jewelry	Closed as a contractor claim	0.0	
+45991	2004110666535	2004-09-28 00:00:00	2004-09-03 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	107.0	Cosmetics	Closed as a contractor claim	0.0	
+46211	2004111667102	2004-09-29 00:00:00	2003-10-10 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	349.77	Electronics	Closed as a contractor claim	0.0	
+46408	2004111767206	2004-10-01 00:00:00	2004-06-16 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	62.0	Electronics	Closed as a contractor claim	0.0	
+46654	2004110666571	2004-10-05 00:00:00	2004-09-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	350.0	Electronics	Closed as a contractor claim	0.0	
+46656	2004110966813	2004-10-05 00:00:00	2004-08-11 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	57.8	Other	Closed as a contractor claim	0.0	
+46657	2004111266860	2004-10-05 00:00:00	2004-09-16 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	92.23	Other	Closed as a contractor claim	0.0	
+47241	2004112967939	2004-10-14 00:00:00	2004-08-05 00:00:00	SFO	San Francisco International	America West	Passenger Property Loss	Checked Baggage	4776.44	Watches & Jewelry	Closed as a contractor claim	0.0	
+47247	2004113068034	2004-10-14 00:00:00	2004-07-30 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	100.0	Other	Closed as a contractor claim	0.0	
+47337	2005020975801	2004-10-14 00:00:00	2004-10-02 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	295.0	Electronics	Denied		Deny
+47430	2004120468482	2004-10-15 00:00:00	2004-09-26 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	49.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+47600	2004110866674	2004-10-18 00:00:00	2004-09-29 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	500.0	Other	Closed as a contractor claim	0.0	
+47601	2004120468494	2004-10-18 00:00:00	2004-07-17 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	3000.0	Electronics	Closed as a contractor claim	0.0	
+47833	2004120568540	2004-10-20 00:00:00	2004-05-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	2054.0	Electronics	Closed as a contractor claim	0.0	
+47834	2004120568591	2004-10-20 00:00:00	2004-09-29 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	362.94	Electronics	Closed as a contractor claim	0.0	
+47835	2004120668626	2004-10-20 00:00:00	2004-09-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	458.0	Other	Closed as a contractor claim	0.0	
+47836	2004120668636	2004-10-20 00:00:00	2004-10-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	60.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+47837	2004120668639	2004-10-20 00:00:00	2004-09-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	24.76	Other	Closed as a contractor claim	0.0	
+47838	2004120768655	2004-10-20 00:00:00	2004-09-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	605.1	Electronics	Closed as a contractor claim	0.0	
+47839	2004120768715	2004-10-20 00:00:00	2004-09-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	539.72	Other	Closed as a contractor claim	0.0	
+48040	2004120768781	2004-10-22 00:00:00	2004-09-26 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1104.0	Other	Closed as a contractor claim	0.0	
+48444	2004121469037	2004-10-27 00:00:00	2004-09-03 00:00:00	SFO	San Francisco International	Lufthansa	Passenger Property Loss	Checkpoint	1515.49	Watches & Jewelry	Closed as a contractor claim	0.0	
+48445	2004121469117	2004-10-27 00:00:00	2004-02-21 00:00:00	SFO	San Francisco International	Air New Zealand	Passenger Property Loss	Checked Baggage	1583.91	Other	Closed as a contractor claim	0.0	
+48937	2004121769240	2004-11-03 00:00:00	2004-10-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	250.0	Other	Closed as a contractor claim	0.0	
+48939	2004122069583	2004-11-03 00:00:00	2004-10-10 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	150.0	Electronics	Closed as a contractor claim	0.0	
+49119	2004121869249	2004-11-04 00:00:00	2003-05-08 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+49120	2004122170020	2004-11-04 00:00:00	2004-08-18 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checkpoint	800.0	Electronics	Closed as a contractor claim	0.0	
+49429	2004122170209	2004-11-08 00:00:00	2004-09-07 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	270.63	Watches & Jewelry	Closed as a contractor claim	0.0	
+49430	2004122971612	2004-11-08 00:00:00	2004-09-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Closed as a contractor claim	0.0	
+49432	2004122971799	2004-11-08 00:00:00	2004-07-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	700.0	Other	Closed as a contractor claim	0.0	
+49570	2004122069560	2004-11-09 00:00:00	2004-10-06 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	470.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+49574	2004122971655	2004-11-09 00:00:00	2004-08-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	25.95	Tools & Machines	Closed as a contractor claim	0.0	
+49725	2004122069740	2004-11-10 00:00:00	2004-10-08 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Closed as a contractor claim	0.0	
+49727	2004122170288	2004-11-10 00:00:00	2004-05-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	600.0	Electronics	Closed as a contractor claim	0.0	
+49921	2004122270410	2004-11-15 00:00:00	2004-10-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	900.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+49922	2005010572912	2004-11-15 00:00:00	2004-10-29 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	16.0	Other	Closed as a contractor claim	0.0	
+50202	2004122871391	2004-11-18 00:00:00	2004-09-13 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	94.0	Clothing & Accessories	Canceled	0.0	
+50348	2004122871334	2004-11-19 00:00:00	2004-10-05 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+50433	2004122971594	2004-11-22 00:00:00	2004-09-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	770.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+50434	2005050484099	2004-11-22 00:00:00	2004-11-14 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.0	Supplies	Closed as a contractor claim	0.0	
+50563	2004123071870	2004-11-23 00:00:00	2004-10-15 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	855.78	Clothing & Accessories	Canceled	0.0	
+50565	2004122971587	2004-11-23 00:00:00	2004-11-10 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	25.82	Tools & Machines	Closed as a contractor claim	0.0	
+50860	2004122770963	2004-11-29 00:00:00	2004-11-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+50998	2004122971816	2004-12-01 00:00:00	2004-09-30 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	10.38	Tools & Machines	Closed as a contractor claim	0.0	
+51174	2004121369016	2004-12-03 00:00:00	2004-08-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	3808.54	Other	Closed as a contractor claim	0.0	
+51353	2004122270383	2004-12-07 00:00:00	2004-11-14 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	245.0	Electronics	Canceled	0.0	
+51361	2005010773260	2004-12-07 00:00:00	2004-11-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	424.0	Other	Canceled	0.0	
+51376	2005010372386	2004-12-07 00:00:00	2004-11-03 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	42.89	Other	Closed as a contractor claim	0.0	
+51377	2005010372389	2004-12-07 00:00:00	2004-10-04 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+51679	2005010372372	2004-12-10 00:00:00	2004-11-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	47.99	Supplies	Closed as a contractor claim	0.0	
+51680	2005010672946	2004-12-10 00:00:00	2004-05-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	626.26	Electronics	Closed as a contractor claim	0.0	
+51834	2005010372194	2004-12-13 00:00:00	2004-06-23 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checkpoint	124.0	Other	Closed as a contractor claim	0.0	
+52029	2005010472463	2004-12-14 00:00:00	2004-11-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Closed as a contractor claim	0.0	
+52030	2005010472661	2004-12-14 00:00:00	2004-12-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Closed as a contractor claim	0.0	
+52031	2005022576805	2004-12-14 00:00:00	2004-08-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1055.0	Other	Closed as a contractor claim	0.0	
+52389	2005010672960	2004-12-18 00:00:00	2004-11-04 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checkpoint	550.0	Other	Canceled	0.0	
+52638	2005011073341	2004-12-21 00:00:00	2004-12-06 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	145.0	Other	Canceled	0.0	
+52639	2005011073360	2004-12-21 00:00:00	2004-11-21 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	0.0	Electronics	Closed as a contractor claim	0.0	
+52640	2005011173440	2004-12-21 00:00:00	2004-10-19 00:00:00	SFO	San Francisco International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	126.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+52805	2005011173426	2004-12-22 00:00:00	2004-11-12 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	3428.43	Watches & Jewelry	Closed as a contractor claim	0.0	
+53062	2005011273539	2004-12-28 00:00:00	2004-11-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	18.23	Tools & Machines	Closed as a contractor claim	0.0	
+53063	2005011473707	2004-12-28 00:00:00	2004-12-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	300.0	Other	Closed as a contractor claim	0.0	
+53064	2005012173840	2004-12-28 00:00:00	2004-10-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	769.95	Watches & Jewelry	Closed as a contractor claim	0.0	
+53460	2005012574209	2005-01-04 00:00:00	2004-11-28 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	451.0	Other	Closed as a contractor claim	0.0	
+53462	2005020275378	2005-01-04 00:00:00	2004-09-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	4435.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+54147	2005020275392	2005-01-11 00:00:00	2004-11-04 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	850.0	Containers	Closed as a contractor claim	0.0	
+54379	2005012874801	2005-01-12 00:00:00	2004-12-08 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	500.0	Other	Canceled	0.0	
+54525	2005013175049	2005-01-14 00:00:00	2005-01-03 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checkpoint	631.78	Electronics	Closed as a contractor claim	0.0	
+54713	2005020175271	2005-01-18 00:00:00	2004-12-08 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Canceled	0.0	
+54716	2005020175162	2005-01-18 00:00:00	2004-12-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	229.0	Electronics	Closed as a contractor claim	0.0	
+54910	2005020375476	2005-01-19 00:00:00	2004-12-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	100.0	Other	Canceled		
+55127	2005021075896	2005-01-21 00:00:00	2004-12-27 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	152.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+55311	2005021776448	2005-01-24 00:00:00	2004-12-23 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	536.04	Other	Closed as a contractor claim	0.0	
+55448	2005021776436	2005-01-25 00:00:00	2004-08-18 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	3000.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+55541	2005022276560	2005-01-26 00:00:00	2004-10-02 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+55741	2005022376633	2005-01-27 00:00:00	2004-12-31 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	380.0	Tools & Machines	Closed as a contractor claim	0.0	
+55742	2005022376651	2005-01-27 00:00:00	2004-12-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1300.0	Electronics	Closed as a contractor claim	0.0	
+55864	2005022476760	2005-01-28 00:00:00		SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3753.0	Electronics	Closed as a contractor claim	0.0	
+56104	2005020875742	2005-02-01 00:00:00	2004-10-06 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	2592.0	Other	Closed as a contractor claim	0.0	
+56106	2005031177780	2005-02-01 00:00:00	2004-08-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1240.73	Electronics	Closed as a contractor claim	0.0	
+56579	2005031077562	2005-02-07 00:00:00	2004-08-31 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	100.0	Other	Closed as a contractor claim	0.0	
+56719	2005031978834	2005-02-08 00:00:00	2005-01-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	660.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+57116	2005031277965	2005-02-11 00:00:00	2004-11-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	279.0	Other	Closed as a contractor claim	0.0	
+57377	2005031578268	2005-02-16 00:00:00	2005-02-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1825.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+57628	2005031778706	2005-02-22 00:00:00	2005-02-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Closed as a contractor claim	0.0	
+57701	2005031778615	2005-02-23 00:00:00	2005-01-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1159.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+57844	2005030877207	2005-02-24 00:00:00	2005-01-26 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	881.71	Electronics	Closed as a contractor claim	0.0	
+57845	2005031678510	2005-02-24 00:00:00	2005-02-12 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1999.95	Electronics	Closed as a contractor claim	0.0	
+58075	2005032279272	2005-03-01 00:00:00	2005-02-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1857.0	Electronics	Closed as a contractor claim	0.0	
+58537	2005032379487	2005-03-07 00:00:00	2005-02-09 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+58538	2005032379553	2005-03-07 00:00:00	2005-02-12 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2250.0	Other	Closed as a contractor claim	0.0	
+58539	2005032379563	2005-03-07 00:00:00	2004-12-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3842.68	Other	Closed as a contractor claim	0.0	
+58621	2005032479695	2005-03-07 00:00:00	2005-01-31 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
+58626	2005032479720	2005-03-07 00:00:00	2005-02-26 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
+58965	2005032679943	2005-03-09 00:00:00	2004-08-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	311.99	Clothing & Accessories	Closed as a contractor claim	0.0	
+59195	2005032880067	2005-03-14 00:00:00	2005-02-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Denied	0.0	Deny
+59263	2005032880131	2005-03-15 00:00:00	2005-02-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	890.0	Watches & Jewelry	Canceled	0.0	
+59889	2005033180868	2005-03-23 00:00:00	2005-02-25 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	700.0	Electronics	Closed as a contractor claim	0.0	
+60120	2005040181062	2005-03-25 00:00:00	2005-03-16 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	550.0	Electronics	Closed as a contractor claim	0.0	
+60263	2005040181051	2005-03-29 00:00:00	2005-03-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	20000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+60277	2005040181011	2005-03-29 00:00:00	2005-03-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	499.0	Electronics	Denied	0.0	Deny
+60842	2005040881993	2005-04-05 00:00:00	2004-08-30 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	129.99	Other	Closed as a contractor claim	0.0	
+61019	2005040781918	2005-04-06 00:00:00	2005-03-07 00:00:00	SFO	San Francisco International	Lufthansa	Passenger Property Loss	Checked Baggage	752.69	Clothing & Accessories	Closed as a contractor claim	0.0	
+61020	2005040881962	2005-04-06 00:00:00	2003-09-23 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Closed as a contractor claim	0.0	
+61021	2005041182136	2005-04-06 00:00:00	2005-03-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1270.0	Other	Closed as a contractor claim	0.0	
+61298	2005041182251	2005-04-08 00:00:00	2005-03-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	711.92	Electronics	Closed as a contractor claim	0.0	
+61499	2005041382372	2005-04-12 00:00:00	2005-04-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	3000.0	Electronics	Closed as a contractor claim	0.0	
+61501	2005041382510	2005-04-12 00:00:00	2005-02-06 00:00:00	SFO	San Francisco International	Tran Meridian Airlines	Passenger Property Loss	Checked Baggage	138.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+62194	2005042082992	2005-04-20 00:00:00	2005-04-05 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	3213.0	Electronics,Electronics,Clothing & Accessories,Electronics	Closed as a contractor claim	0.0	
+62459	2005042683390	2005-04-25 00:00:00	2005-02-03 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	485.82	Other	Closed as a contractor claim	0.0	
+62460	2005042683399	2005-04-25 00:00:00	2005-04-02 00:00:00	SFO	San Francisco International	Air France	Passenger Property Loss	Checked Baggage	4000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+62564	2005042783468	2005-04-26 00:00:00	2005-02-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	205.7	Musical Intruments	Closed as a contractor claim	0.0	
+62565	2005042783489	2005-04-26 00:00:00	2005-04-11 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	475.0	Cosmetics	Closed as a contractor claim	0.0	
+62874	2005050283823	2005-04-29 00:00:00	2005-03-27 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	250.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+62875	2005050283844	2005-04-29 00:00:00	2005-04-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	350.0	Containers	Closed as a contractor claim	0.0	
+62876	2005050283851	2005-04-29 00:00:00	2005-04-13 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	12.5	Tools & Machines	Closed as a contractor claim	0.0	
+63079	2005050483967	2005-05-03 00:00:00	2005-04-19 00:00:00	SFO	San Francisco International	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage	135.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+63307	2005050684226	2005-05-06 00:00:00	2005-04-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	141.9	Clothing & Accessories	Closed as a contractor claim	0.0	
+63308	2005050684230	2005-05-06 00:00:00	2005-04-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	8904.57	Watches & Jewelry	Closed as a contractor claim	0.0	
+63631	2005051284544	2005-05-11 00:00:00	2005-04-28 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+63749	2005051784820	2005-05-12 00:00:00	2005-05-03 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checkpoint	100.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+64069	2005051985102	2005-05-17 00:00:00	2005-05-04 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	325.88	Electronics	Closed as a contractor claim	0.0	
+64070	2005051985129	2005-05-17 00:00:00	2005-04-27 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	9700.0	Other	Closed as a contractor claim	0.0	
+64342	2005060185589	2005-05-19 00:00:00	2004-08-12 00:00:00	SFO	San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage	0.0	Electronics	Closed as a contractor claim	0.0	
+64659	2005060385778	2005-05-24 00:00:00	2005-02-21 00:00:00	SFO	San Francisco International	Air New Zealand	Passenger Property Loss	Checked Baggage	529.0	Electronics	Closed as a contractor claim	0.0	
+64660	2005062987728	2005-05-24 00:00:00	2003-11-23 00:00:00	SFO	San Francisco International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	2148.0	Electronics	Closed as a contractor claim	0.0	
+64661	2005072689690	2005-05-24 00:00:00	2005-05-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	1000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+64881	2005060986074	2005-05-31 00:00:00	2005-05-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	199.0	Electronics	Closed as a contractor claim	0.0	
+65166	2005061086199	2005-06-01 00:00:00	2005-05-05 00:00:00	SFO	San Francisco International	Frontier Airlines	Passenger Property Loss	Checked Baggage	456.0	Other	Closed as a contractor claim	0.0	
+65514	2005061586423	2005-06-06 00:00:00	2005-04-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	333.95	Electronics	Closed as a contractor claim	0.0	
+65754	2005062186747	2005-06-08 00:00:00	2005-05-02 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	9024.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+65820	2005062186728	2005-06-09 00:00:00	2005-12-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	162.36	Other	Closed as a contractor claim	0.0	
+65821	2005062186802	2005-06-09 00:00:00	2005-05-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	918.44	Electronics	Closed as a contractor claim	0.0	
+65822	2005062186812	2005-06-09 00:00:00	2005-05-15 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+65823	2005062387055	2005-06-09 00:00:00	2005-05-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	850.0	Other	Closed as a contractor claim	0.0	
+65922	2005062286933	2005-06-10 00:00:00	2005-04-27 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	45.0	Other	Closed as a contractor claim	0.0	
+66399	2005062787246	2005-06-17 00:00:00	2005-05-31 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	47.86	Tools & Machines	Denied	0.0	Deny
+66469	2005062787373	2005-06-20 00:00:00	2005-06-10 00:00:00	SFO	San Francisco International		Passenger Property Loss	Other	1890.0	Electronics	Closed as a contractor claim	0.0	
+66471	2005062887591	2005-06-20 00:00:00	2005-06-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	47.83	Electronics	Closed as a contractor claim	0.0	
+66609	2005062987798	2005-06-21 00:00:00	2004-01-28 00:00:00	SFO	San Francisco International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	530.0	Other	Closed as a contractor claim	0.0	
+66930	2005063087862	2005-06-27 00:00:00	2005-06-06 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	4124.8	Watches & Jewelry	Closed as a contractor claim	0.0	
+66931	2005070588237	2005-06-27 00:00:00	2005-05-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	500.0	Electronics	Closed as a contractor claim	0.0	
+67230	2005070588213	2005-06-30 00:00:00	2005-04-26 00:00:00	SFO	San Francisco International	America West	Passenger Property Loss	Checked Baggage		Other	Closed as a contractor claim	0.0	
+67378	2005070688328	2005-07-05 00:00:00	2005-05-12 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	184.85	Electronics	Closed as a contractor claim	0.0	
+67379	2005071188582	2005-07-05 00:00:00	2005-05-19 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	150.0	Other	Closed as a contractor claim	0.0	
+68092	2005071589057	2005-07-14 00:00:00	2005-06-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	700.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+68170	2005072089281	2005-07-15 00:00:00	2005-07-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Other	3600.0	Electronics	Closed as a contractor claim	0.0	
+68328	2005072089318	2005-07-19 00:00:00	2005-07-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1906.75	Watches & Jewelry	Closed as a contractor claim	0.0	
+68397	2005072089303	2005-07-20 00:00:00	2005-07-03 00:00:00	SFO	San Francisco International	Frontier Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Closed as a contractor claim	0.0	
+68398	2005072189429	2005-07-20 00:00:00	2005-05-23 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Other	80.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+68400	2005072289532	2005-07-20 00:00:00	2005-06-29 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	400.0	Electronics	Closed as a contractor claim	0.0	
+68596	2005072589560	2005-07-22 00:00:00	2005-06-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	0.0	Other	Closed as a contractor claim	0.0	
+68597	2005072589573	2005-07-22 00:00:00	2005-07-16 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics	Closed as a contractor claim	0.0	
+68598	2005072589582	2005-07-22 00:00:00	2005-07-16 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other	Closed as a contractor claim	0.0	
+68599	2005072589584	2005-07-22 00:00:00	2005-05-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	7.53	Containers	Closed as a contractor claim	0.0	
+68600	2005072589595	2005-07-22 00:00:00	2005-06-16 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint	600.0	Other	Closed as a contractor claim	0.0	
+68723	2005072889817	2005-07-25 00:00:00	2005-06-15 00:00:00	SFO	San Francisco International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	306.87	Cosmetics	Closed as a contractor claim	0.0	
+68724	2005072889827	2005-07-25 00:00:00	2005-06-29 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Closed as a contractor claim	0.0	
+69098	2005080590117	2005-07-29 00:00:00	2005-07-17 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	379.0	Electronics	Canceled	0.0	
+69168	2005080890135	2005-08-01 00:00:00	2005-07-15 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	80.0	Other	Closed as a contractor claim	0.0	
+69169	2005080990256	2005-08-01 00:00:00	2005-07-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	146.99	Electronics	Closed as a contractor claim	0.0	
+69170	2005081090310	2005-08-01 00:00:00	2005-07-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	17.41	Other	Closed as a contractor claim	0.0	
+69292	2005081190377	2005-08-02 00:00:00	2005-05-23 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	360.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+69580	2005081690644	2005-08-05 00:00:00	2005-07-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	2900.0	Electronics	Closed as a contractor claim	0.0	
+69792	2005081890844	2005-08-09 00:00:00	2005-07-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1025.89	Electronics	Closed as a contractor claim	0.0	
+70012	2005082291048	2005-08-12 00:00:00	2005-07-04 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	176.34	Electronics	Closed as a contractor claim	0.0	
+70168	2005082391299	2005-08-16 00:00:00	2005-08-03 00:00:00	SFO	San Francisco International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	81.45	Other	Closed as a contractor claim	0.0	
+70361	2005082591516	2005-08-18 00:00:00	2004-10-28 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	177.08	Watches & Jewelry	Closed as a contractor claim	0.0	
+70438	2005082591524	2005-08-19 00:00:00	2005-08-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	500.0	Electronics	Closed as a contractor claim	0.0	
+70439	2005082691555	2005-08-19 00:00:00	2005-08-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3609.74	Electronics	Closed as a contractor claim	0.0	
+70568	2005082691626	2005-08-23 00:00:00	2005-08-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	399.99	Electronics	Closed as a contractor claim	0.0	
+70828	2005083091870	2005-08-25 00:00:00	2005-07-19 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	418.42	Electronics	Closed as a contractor claim	0.0	
+70961	2005090692116	2005-08-29 00:00:00	2005-07-22 00:00:00	SFO	San Francisco International	Independence Air	Passenger Property Loss	Checked Baggage	447.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+71080	2005090692101	2005-08-30 00:00:00	2005-08-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3030.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+71081	2005090692185	2005-08-30 00:00:00	2005-07-25 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.8	Tools & Machines	Closed as a contractor claim	0.0	
+71083	2005090692222	2005-08-30 00:00:00	2005-08-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	487.11	Electronics	Closed as a contractor claim	0.0	
+71795	2005092092917	2005-09-13 00:00:00	2005-07-06 00:00:00	SFO	San Francisco International	Independence Air	Passenger Property Loss	Checked Baggage	340.99	Cosmetics	Closed as a contractor claim	0.0	
+71796	2005092193039	2005-09-13 00:00:00	2005-08-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	515.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+71889	2005092092987	2005-09-14 00:00:00	2005-07-28 00:00:00	SFO	San Francisco International	China Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Closed as a contractor claim	0.0	
+72063	2005092693222	2005-09-15 00:00:00	2005-09-09 00:00:00	SFO	San Francisco International	AirTran Airlines	Passenger Property Loss	Checked Baggage	850.0	Electronics	Closed as a contractor claim	0.0	
+72391	2005093093587	2005-09-20 00:00:00	2005-08-31 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	76.93	Other	Closed as a contractor claim	0.0	
+72392	2005093093589	2005-09-20 00:00:00	2005-09-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Closed as a contractor claim	0.0	
+72393	2005100393650	2005-09-20 00:00:00	2005-09-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	200.0	Cosmetics	Closed as a contractor claim	0.0	
+72394	2005100493876	2005-09-20 00:00:00	2005-09-02 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	16.72	Tools & Machines	Closed as a contractor claim	0.0	
+72694	2005100393726	2005-09-26 00:00:00	2005-09-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Other	528.78	Electronics	Closed as a contractor claim	0.0	
+73085	2005100594147	2005-10-03 00:00:00	2005-08-05 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	68.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+73183	2005100694258	2005-10-04 00:00:00	2005-09-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	31.89	Other	Closed as a contractor claim	0.0	
+73185	2005101294417	2005-10-04 00:00:00	2005-09-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	942.9	Electronics	Closed as a contractor claim	0.0	
+73340	2005101294398	2005-10-05 00:00:00	2005-08-02 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+73341	2005101394491	2005-10-05 00:00:00	2005-09-11 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Closed as a contractor claim	0.0	
+73343	2005101494580	2005-10-05 00:00:00	2005-09-15 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	345.5	Other	Closed as a contractor claim	0.0	
+73612	2005101894805	2005-10-12 00:00:00	2005-08-09 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	87.0	Other	Closed as a contractor claim	0.0	
+73770	2005020975767	2005-10-14 00:00:00	2004-06-18 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	40.0	Other	Canceled	0.0	
+73842	2005102094997	2005-10-17 00:00:00	2005-09-29 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	350.0	Electronics	Closed as a contractor claim	0.0	
+74218	2005102895343	2005-10-21 00:00:00	2005-10-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	179.0	Electronics	Closed as a contractor claim	0.0	
+74788	2005111095981	2005-11-01 00:00:00	2005-07-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	75.77	Electronics	Closed as a contractor claim	0.0	
+74941	2005111496022	2005-11-03 00:00:00	2005-10-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	668.05	Other	Closed as a contractor claim	0.0	
+75063	2005111596125	2005-11-07 00:00:00	2005-10-25 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	29.99	Electronics	Closed as a contractor claim	0.0	
+75169	2005111896266	2005-11-09 00:00:00	2005-09-14 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	280.0	Other	Closed as a contractor claim	0.0	
+75285	2005112596456	2005-11-10 00:00:00	2005-08-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other	Closed as a contractor claim	0.0	
+75335	2005112896521	2005-11-11 00:00:00	2005-11-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1576.0	Electronics	Closed as a contractor claim	0.0	
+75463	2005112896589	2005-11-15 00:00:00	2005-09-30 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	470.79	Electronics	Closed as a contractor claim	0.0	
+75464	2005112896644	2005-11-15 00:00:00	2005-11-09 00:00:00	SFO	San Francisco International	America West	Passenger Property Loss	Checkpoint	169.0	Other	Closed as a contractor claim	0.0	
+75693	2005120196750	2005-11-18 00:00:00	2005-10-13 00:00:00	SFO	San Francisco International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	125.0	Other	Closed as a contractor claim	0.0	
+75790	2005120596978	2005-11-21 00:00:00	2005-10-03 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	998.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+75887	2005120596980	2005-11-22 00:00:00	2005-10-24 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	1268.0	Electronics	Closed as a contractor claim	0.0	
+76080	2005120797061	2005-11-28 00:00:00	2005-11-16 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	459.35	Electronics	Closed as a contractor claim	0.0	
+76082	2005121297554	2005-11-28 00:00:00	2005-11-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2077.6	Electronics	Closed as a contractor claim	0.0	
+76236	2005121297531	2005-11-29 00:00:00	2005-11-21 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	245.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+76434	2005121397597	2005-12-02 00:00:00	2005-11-09 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Closed as a contractor claim	0.0	
+76792	2005121497852	2005-12-08 00:00:00	2005-11-09 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	1025.0	Electronics	Closed as a contractor claim	0.0	
+77476	2006010398638	2005-12-22 00:00:00	2005-12-09 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.78	Tools & Machines	Closed as a contractor claim	0.0	
+77636	2006010598866	2005-12-27 00:00:00	2005-12-15 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	280.0	Other	Closed as a contractor claim	0.0	
+77707	2006010698984	2005-12-28 00:00:00	2005-12-24 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	120.98	Clothing & Accessories	Closed as a contractor claim	0.0	
+77831	2006011199324	2005-12-30 00:00:00	2005-10-08 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	1884.45	Watches & Jewelry	Closed as a contractor claim	0.0	
+77891	2006010999085	2006-01-03 00:00:00	2005-11-14 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint		Watches & Jewelry	Closed as a contractor claim	0.0	
+78154	2006011199340	2006-01-05 00:00:00	2005-12-27 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	130.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+78440	2007012219094	2006-01-10 00:00:00	2006-12-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	60.0	Household Items	Closed as a contractor claim	0.0	
+78692	2006012099961	2006-01-12 00:00:00	2005-11-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Closed as a contractor claim	0.0	
+78774	2006012099959	2006-01-13 00:00:00	2005-12-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1943.99	Electronics	Closed as a contractor claim	0.0	
+78775	2006012099966	2006-01-13 00:00:00	2006-12-09 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+79138	2006012400261	2006-01-19 00:00:00	2006-01-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1209.8	Watches & Jewelry	Closed as a contractor claim	0.0	
+79206	2006012300075	2006-01-20 00:00:00	2005-12-28 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	31.49	Electronics	Closed as a contractor claim	0.0	
+79207	2006012500343	2006-01-20 00:00:00	2005-07-30 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1068.62	Other	Closed as a contractor claim	0.0	
+79289	2006013000557	2006-01-23 00:00:00		SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	382.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+79424	2006013000515	2006-01-24 00:00:00	2005-12-31 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+79425	2006013100613	2006-01-24 00:00:00	2005-12-28 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3249.5	Watches & Jewelry	Closed as a contractor claim	0.0	
+79426	2006022802290	2006-01-24 00:00:00	2006-01-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	600.0	Electronics	Closed as a contractor claim	0.0	
+79605	2006020200775	2006-01-26 00:00:00	2006-01-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Closed as a contractor claim	0.0	
+79606	2006020801215	2006-01-26 00:00:00	2006-01-10 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage	3580.0	Electronics	Closed as a contractor claim	0.0	
+79771	2006020300946	2006-01-30 00:00:00	2005-12-22 00:00:00	SFO	San Francisco International	Air Pacific	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+79772	2006020600995	2006-01-30 00:00:00	2005-01-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	378.31	Electronics	Closed as a contractor claim	0.0	
+79773	2006020701027	2006-01-30 00:00:00	2006-01-19 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	4000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+80007	2006021001390	2006-02-02 00:00:00	2006-01-14 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	1200.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+80896	2006022302041	2006-02-17 00:00:00	2006-01-24 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage	347.48	Electronics	Closed as a contractor claim	0.0	
+80963	2006022402126	2006-02-21 00:00:00	2005-12-13 00:00:00	SFO	San Francisco International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	169.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+81033	2006022702181	2006-02-22 00:00:00	2006-01-05 00:00:00	SFO	San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage	1600.0	Electronics	Closed as a contractor claim	0.0	
+81204	2006030202356	2006-02-24 00:00:00	2006-01-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	320.0	Other	Closed as a contractor claim	0.0	
+81205	2006030302462	2006-02-24 00:00:00	2006-02-19 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	620.0	Other	Closed as a contractor claim	0.0	
+81378	2006030602570	2006-02-28 00:00:00	2006-02-19 00:00:00	SFO	San Francisco International	ATA Aerocondor	Passenger Property Loss	Checkpoint	138.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+81923	2006031302980	2006-03-09 00:00:00	2006-03-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3098.0	Electronics	Closed as a contractor claim	0.0	
+81924	2006031603281	2006-03-09 00:00:00	2006-03-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	3098.0	Electronics	Closed as a contractor claim	0.0	
+82010	2006031603218	2006-03-10 00:00:00	2006-02-27 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Closed as a contractor claim	0.0	
+82159	2006032103410	2006-03-14 00:00:00	2006-03-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+82546	2006032703748	2006-03-21 00:00:00	2006-02-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	492.41	Other	Closed as a contractor claim	0.0	
+82721	2006040303910	2006-03-23 00:00:00	2006-01-23 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1092.92	Electronics	Closed as a contractor claim	0.0	
+82861	2006040404030	2006-03-27 00:00:00	2006-02-25 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Electronics	Closed as a contractor claim	0.0	
+83095	2006041004268	2006-03-30 00:00:00	2006-05-19 00:00:00	SFO	San Francisco International	Frontier Airlines	Passenger Property Loss	Checked Baggage	149.99	Electronics	Closed as a contractor claim	0.0	
+83323	2006041404620	2006-04-04 00:00:00	2006-03-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	600.0	Electronics	Closed as a contractor claim	0.0	
+83438	2006041204381	2006-04-06 00:00:00	2006-03-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+83439	2006041204393	2006-04-06 00:00:00	2006-01-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	249.99	Electronics	Closed as a contractor claim	0.0	
+83836	2006042404964	2006-04-14 00:00:00	2006-02-02 00:00:00	SFO	San Francisco International	Frontier Airlines	Passenger Property Loss	Checked Baggage	175.87	Other	Closed as a contractor claim	0.0	
+86173	2006060607386	2006-06-02 00:00:00	2006-03-30 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	387.48	Tools & Machines,Containers	Closed as a contractor claim	0.0	
+86783	2006061508015	2006-06-14 00:00:00	2006-05-22 00:00:00	SFO	San Francisco International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	400.0	Electronics	Closed as a contractor claim	0.0	
+86924	2006061908205	2006-06-16 00:00:00	2006-05-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1100.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+87842	2006070609045	2006-07-06 00:00:00	2006-05-04 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint	4500.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+88169	2006071409475	2006-07-11 00:00:00	2006-05-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	816.87	Outdoors Supplies	Closed as a contractor claim	0.0	
+88257	2006071709575	2006-07-12 00:00:00	2006-06-04 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	380.0	Clothing & Accessories,Watches & Jewelry	Closed as a contractor claim	0.0	
+89728	2006081511027	2006-08-11 00:00:00	2006-07-24 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	300.0	Electronics,Electronics	Closed as a contractor claim	0.0	
+90118	2006082211355	2006-08-18 00:00:00	2006-07-16 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	23.98	Tools & Machines	Closed as a contractor claim	0.0	
+90120	2006082311432	2006-08-18 00:00:00	2006-06-20 00:00:00	SFO	San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage	3500.0	Electronics,Electronics,Watches & Jewelry	Closed as a contractor claim	0.0	
+90987	2006090712145	2006-09-05 00:00:00	2006-08-16 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	934.0	Electronics,Electronics,Electronics	Closed as a contractor claim	0.0	
+92513	2006101013761	2006-10-03 00:00:00	2006-08-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	817.39	Electronics,Electronics,Other	Closed as a contractor claim	0.0	
+96320	2006122217740	2006-12-18 00:00:00	2006-12-01 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	198.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+97014	2005011373619		2003-10-06 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	767.08	Other	Canceled	0.0	
+99311	2007020620369	2007-02-05 00:00:00	2006-12-20 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+99413	2007020820478	2007-02-06 00:00:00	2006-12-15 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	215.47	Household Items,Electronics	Closed as a contractor claim	0.0	
+99651	2007021220698	2007-02-09 00:00:00	2007-01-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+100459	2007030121728	2007-02-27 00:00:00	2007-02-22 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	325.0	Clothing & Accessories,Cosmetics	Closed as a contractor claim	0.0	
+100892	2007030922056	2007-03-07 00:00:00	2007-02-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics	Closed as a contractor claim	0.0	
+101000	2007031222136	2007-03-09 00:00:00	2007-02-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	7.37	Tools & Machines	Closed as a contractor claim	0.0	
+101079	2007031522364	2007-03-12 00:00:00	2006-12-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	67.99	Watches & Jewelry	Closed as a contractor claim	0.0	
+101081	2007032122670	2007-03-12 00:00:00	2007-03-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	6250.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+101188	2007031922523	2007-03-13 00:00:00	2007-03-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	610.0	Electronics,Electronics,Electronics,Other	Closed as a contractor claim	0.0	
+101302	2007032022561	2007-03-15 00:00:00	2007-02-01 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	210.0	Electronics	Closed as a contractor claim	0.0	
+101633	2007032322854	2007-03-21 00:00:00	2007-02-27 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	178.0	Watches & Jewelry	Canceled	0.0	
+101636	2007032322869	2007-03-21 00:00:00	2007-03-04 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	165.95	Electronics	Closed as a contractor claim	0.0	
+102887	2007041924241	2007-04-16 00:00:00	2007-04-12 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	414.95	Electronics,Other	Closed as a contractor claim	0.0	
+103174	2007042424417	2007-04-20 00:00:00	2006-12-28 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	880.0	Other	Closed as a contractor claim	0.0	
+103695	2007050424974	2007-05-02 00:00:00	2007-04-17 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	34.0	Food & Drink	Closed as a contractor claim	0.0	
+104295	2007051625496	2007-05-15 00:00:00	2007-03-24 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	1925.91	Electronics,Electronics,Other	Closed as a contractor claim	0.0	
+104537	2007060426229	2007-05-19 00:00:00	2007-05-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Closed as a contractor claim	0.0	
+104562	2007052325874	2007-05-21 00:00:00	2007-02-23 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	1337.0	Watches & Jewelry,Watches & Jewelry	Closed as a contractor claim	0.0	
+104864	2007060526336	2007-05-29 00:00:00	2007-05-15 00:00:00	SFO	San Francisco International	Northwest Airlines	Passenger Property Loss	Checkpoint	749.99	Electronics	Closed as a contractor claim	0.0	
+105090	2007060426209	2007-06-01 00:00:00	2007-04-05 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	173.35	Watches & Jewelry	Closed as a contractor claim	0.0	
+105208	2007062227395	2007-06-04 00:00:00	2007-05-23 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage	3774.0	Other	Closed as a contractor claim	0.0	
+105535	2007061426916	2007-06-08 00:00:00	2007-05-30 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	35.0	Household Decor	Closed as a contractor claim	0.0	
+106791	2007071028057	2007-07-05 00:00:00	2007-06-05 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	616.93	Electronics,Clothing & Accessories,Other	Closed as a contractor claim	0.0	
+106792	2007071028061	2007-07-05 00:00:00	2007-06-27 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1960.0	Electronics	Closed as a contractor claim	0.0	
+108340	2007080729737	2007-08-02 00:00:00	2007-07-09 00:00:00	SFO	San Francisco International	Air France	Passenger Property Loss	Checked Baggage	873.21	Electronics,Watches & Jewelry	Closed as a contractor claim	0.0	
+108518	2007080929920	2007-08-06 00:00:00	2007-07-25 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	647.34	Electronics	Closed as a contractor claim	0.0	
+108630	2007080829822	2007-08-07 00:00:00	2007-07-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	201.83	Electronics,Electronics	Closed as a contractor claim	0.0	
+112578	2007102533895	2007-10-22 00:00:00	2007-10-11 00:00:00	SFO	San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage	1600.0	Containers,Electronics,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+112647	2007102934057	2007-10-24 00:00:00	2007-09-04 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage	360.61	Electronics,Electronics	Closed as a contractor claim	0.0	
+112974	2007110234389	2007-10-31 00:00:00	2007-10-28 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	931.0	Electronics	Closed as a contractor claim	0.0	
+114289	2007112935658	2007-11-27 00:00:00	2007-10-12 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	125.37	Food & Drink,Electronics,Electronics,Other	Closed as a contractor claim	0.0	
+115148	2007121336482	2007-12-13 00:00:00	2007-11-01 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	39.9	Containers	Closed as a contractor claim	0.0	
+115459	2007122736942	2007-12-20 00:00:00	2007-02-15 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Closed as a contractor claim	0.0	
+115738	2008010237122	2007-12-27 00:00:00	2007-12-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	325.35	Games & Toys	Closed as a contractor claim	0.0	
+116070	2008010837571	2008-01-04 00:00:00	2007-12-20 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.96	Tools & Machines	Closed as a contractor claim	0.0	
+117181	2008012938724	2008-01-23 00:00:00	2008-01-12 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Closed as a contractor claim	0.0	
+117593	2008020739281	2008-01-30 00:00:00	2007-12-21 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	100.0	Other	Closed as a contractor claim	0.0	
+117788	2008021339535	2008-02-04 00:00:00	2008-01-19 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	1383.0	Electronics	Closed as a contractor claim	0.0	
+117976	2008021339556	2008-02-07 00:00:00	2007-11-18 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage	234.34	Containers,Other	Closed as a contractor claim	0.0	
+118762	2008030440391	2008-02-25 00:00:00	2008-02-23 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	430.0	Electronics	Closed as a contractor claim	0.0	
+118764	2008031140742	2008-02-25 00:00:00	2007-10-05 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	209.46	Watches & Jewelry	Closed as a contractor claim	0.0	
+119138	2008031240849	2008-03-03 00:00:00	2007-12-13 00:00:00	SFO	San Francisco International	British Airways	Passenger Property Loss	Checkpoint	11477.0	Electronics	Closed as a contractor claim	0.0	
+119749	2008032741542	2008-03-17 00:00:00	2008-02-23 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	288.55	Clothing & Accessories,Other	Closed as a contractor claim	0.0	
+125421	2008072447269	2008-07-14 00:00:00	2008-07-07 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage	700.0	Electronics	Closed as a contractor claim	0.0	
+126074	2008080648125	2008-07-28 00:00:00	2008-06-19 00:00:00	SFO	San Francisco International	Continental Airlines	Passenger Property Loss	Checkpoint	150.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+126457	2008080848273	2008-08-05 00:00:00	2008-07-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Closed as a contractor claim	0.0	
+127500	2008082949288	2008-08-27 00:00:00	2008-08-26 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
+127640	2008090349425	2008-09-02 00:00:00	2008-08-13 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checkpoint	200.0	Other	Closed as a contractor claim	0.0	
+127743	2008090449463	2008-09-03 00:00:00	2008-08-09 00:00:00	SFO	San Francisco International	EVA airlines	Passenger Property Loss	Checked Baggage	549.0	Electronics	Closed as a contractor claim	0.0	
+128615	2008092450367	2008-09-23 00:00:00	2008-09-18 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1489.08	Electronics	Denied	0.0	Deny
+129786	2008102751593	2008-10-23 00:00:00	2008-05-06 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage	64.0	Clothing & Accessories,Clothing & Accessories	Closed as a contractor claim	0.0	
+130257	2008111052131	2008-11-04 00:00:00	2008-10-28 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage	575.0	Clothing & Accessories,Watches & Jewelry	Closed as a contractor claim	0.0	
+135009	2009033157045	2009-03-12 00:00:00	2009-02-26 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage	300.0	Tools & Machines	Closed as a contractor claim	0.0	
+135506	2009041557529	2009-03-26 00:00:00	2008-08-26 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	132.78	Clothing & Accessories	Closed as a contractor claim		
+143584	2009111365377	2009-11-13 00:00:00	2009-11-06 00:00:00	SFO	San Francisco International	Emirates	Passenger Property Loss	Checked Baggage	930.32	Electronics	Closed as a contractor claim		
+144143	2009120766146	2009-12-01 00:00:00	2009-09-15 09:32:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage	168.0	Supplies	Closed as a contractor claim		
+145555	2010020468331	2010-02-01 00:00:00	2010-01-16 09:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+145999	2010030869236	2010-02-19 00:00:00	2010-02-10 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+146213	2010030268959	2010-03-01 00:00:00	2010-03-01 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other			
+147006	2010032670108	2010-03-24 00:00:00	2010-03-09 18:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage		Other			
+147757	2010041970914	2010-04-15 00:00:00	2010-02-21 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+148685	2010051771885	2010-05-14 00:00:00	2010-03-26 11:30:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+148782	2010052772176	2010-05-17 00:00:00	2010-04-19 18:15:00	SFO	San Francisco International	Iberia Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
+149272	2010061472613	2010-06-02 00:00:00	2010-05-02 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink,Other			
+149642	2010062372989	2010-06-14 00:00:00	2010-05-28 08:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+149944	2010063073270	2010-06-24 00:00:00	2010-04-30 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint		Clothing & Accessories			
+150056	2010070773451	2010-06-28 00:00:00	2010-06-11 07:10:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry,Cosmetics			
+150304	2010071473649	2010-07-06 00:00:00	2010-07-03 14:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other			
+150654	2010072674078	2010-07-14 00:00:00	2010-07-01 09:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers,Other,Cosmetics			
+150693	2010072674085	2010-07-15 00:00:00	2010-04-10 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers,Cosmetics			
+150709	2010072273984	2010-07-16 00:00:00	2010-07-11 20:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+150916	2010073174251	2010-07-22 00:00:00	2010-07-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other			
+151642	2010102577320	2010-08-11 00:00:00	2010-06-21 07:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Other,Cosmetics			
+151715	2010081975038	2010-08-16 00:00:00	2010-08-13 07:04:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers,Cosmetics			
+153122	2010093076533	2010-09-23 00:00:00	2010-09-11 10:00:00	SFO	San Francisco International	Horizon Air	Passenger Property Loss	Checked Baggage		Electronics			
+153296	2010100576683	2010-09-29 00:00:00	2010-09-24 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+154109	2010110277537	2010-10-25 00:00:00	2010-10-06 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+154910	2010113078367	2010-11-19 00:00:00	2010-11-02 11:00:00	SFO	San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage		Electronics			
+154972	2010120878621	2010-11-22 00:00:00	2010-10-17 06:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
+155180	2010120478510	2010-11-30 00:00:00	2010-11-19 09:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+155844	2011011179443	2010-12-23 00:00:00	2010-12-14 16:00:00	SFO	San Francisco International	Virgin Atlantic	Passenger Property Loss	Checkpoint		Electronics,Other			
+155992	2011010879275	2010-12-29 00:00:00	2010-12-18 10:50:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics			
+156110	2011011279496	2011-01-03 00:00:00	2010-12-14 16:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint		Containers,Electronics			
+156301	2011012579740	2011-01-10 00:00:00	2010-12-14 16:00:00	SFO	San Francisco International	Virgin Atlantic	Passenger Property Loss	Checkpoint		Electronics,Other			
+156847	2011022380397	2011-01-24 00:00:00	2010-11-18 12:30:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+158001	2011033181582	2011-03-02 00:00:00	2010-11-20 11:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Other		61.49	Approve in Full
+158063	2011042582953	2011-03-04 00:00:00	2011-04-25 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+158236	2011040181681	2011-03-10 00:00:00	2011-02-28 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other			
+158350	2011040581851	2011-03-14 00:00:00	2010-11-19 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint		Other			
+158748	2011041282125	2011-03-29 00:00:00	2011-03-26 22:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Food & Drink			
+159291	2011042082802	2011-04-13 00:00:00	2011-04-09 10:34:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink			
+159467	2011042282905	2011-04-20 00:00:00	2011-04-03 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor			
+159967	2011051683471	2011-05-06 00:00:00	2011-05-01 00:00:00	SFO	San Francisco International	Virgin Atlantic	Passenger Property Loss	Checked Baggage		Other			
+160094	2011052083592	2011-05-10 00:00:00	2011-03-23 17:00:00	SFO	San Francisco International	Virgin Atlantic	Passenger Property Loss	Checked Baggage		Cosmetics			
+160170	2011052483739	2011-05-12 00:00:00	2011-04-20 09:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics			
+160275	2011052683793	2011-05-17 00:00:00	2011-05-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+160974	2011062184478	2011-06-09 00:00:00	2011-05-31 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+161354	2011041582663	2011-06-22 00:00:00	2011-04-04 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint		Watches & Jewelry			
+162016	2011080185646	2011-07-13 00:00:00	2011-07-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories			
+162397	2011081186022	2011-07-25 00:00:00	2011-06-02 20:40:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+162499	2011081286065	2011-07-28 00:00:00	2011-04-17 11:40:00	SFO	San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checkpoint		Other			
+162666	2011081886258	2011-08-02 00:00:00	2011-07-30 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+162680	2011081986313	2011-08-02 00:00:00	2011-07-25 00:00:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+162717	2011081986275	2011-08-04 00:00:00	2011-07-08 11:05:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+162781	2011082486392	2011-08-05 00:00:00	2011-07-30 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+163073	2011090186655	2011-08-15 00:00:00	2011-07-26 00:00:00	SFO	San Francisco International	Philippine Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+163608	2011092987232	2011-08-31 00:00:00	2011-08-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Other			
+163833	2011090986794	2011-09-09 00:00:00	2011-05-11 12:10:00	SFO	San Francisco International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other			
+164189	2011102488315	2011-09-21 00:00:00	2011-09-05 12:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics			
+164435	2011102088235	2011-10-03 00:00:00	2011-07-31 08:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other			
+164682	2011101888109	2011-10-11 00:00:00	2011-10-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Other			
+164839	2011102488332	2011-10-14 00:00:00	2011-09-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Electronics			
+164856	2011110888771	2011-10-14 00:00:00	2011-09-29 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+165139	2011102888525	2011-10-25 00:00:00	2011-10-05 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments,Electronics			
+165794	2011120289314	2011-11-16 00:00:00	2011-10-16 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers			
+165930	2012020890780	2011-11-21 00:00:00	2011-11-21 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
+166306	2012020390632	2011-12-05 00:00:00	2011-10-31 11:45:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink			
+166455	2012010990061	2011-12-12 00:00:00	2011-11-22 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+166574	2012011190135	2011-12-14 00:00:00	2011-11-14 21:30:00	SFO	San Francisco International	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories			
+166933	2012013090502	2011-12-29 00:00:00	2011-12-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other,Electronics			
+168033	2012031591720	2012-01-31 00:00:00	2012-01-18 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			
+168648	2012033092302	2012-02-22 00:00:00	2012-01-30 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+169033	2012040592598	2012-03-07 00:00:00	2012-02-15 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+169120	2012040992684	2012-03-12 00:00:00	2012-02-25 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+169403	2012041692927	2012-03-21 00:00:00	2012-03-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+169456	2012041792969	2012-03-23 00:00:00	2012-01-01 13:02:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+169651	2012042593222	2012-03-30 00:00:00	2012-03-10 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Cosmetics			
+170854	2012053194445	2012-05-11 00:00:00	2012-04-21 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+171103	2012061294780	2012-05-21 00:00:00	2012-05-09 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Office Supplies			
+171327	2012062694944	2012-05-30 00:00:00	2012-04-06 22:22:00	SFO	San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage		Cosmetics			
+172751	2012083196495	2012-07-19 00:00:00	2012-07-16 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+172961	2012090796668	2012-07-30 00:00:00	2012-07-11 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Electronics			
+173401	2012092497097	2012-08-13 00:00:00	2012-08-08 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
+173715	2012100797439	2012-08-22 00:00:00	2012-06-24 12:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Cosmetics			
+173816	2012101197510	2012-08-27 00:00:00	2012-08-16 00:00:00	SFO	San Francisco International	Royal Dutch Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other			
+174760	2012110198248	2012-10-01 00:00:00	2012-09-23 10:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+175008	2013021101316	2012-10-10 00:00:00	2012-06-25 00:00:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+175622	2012112898926	2012-11-02 00:00:00	2012-10-30 19:55:00	SFO	San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			
+175669	2012122899424	2012-11-05 00:00:00	2012-09-26 09:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Other,Electronics			
+176047	2013013000663	2012-11-19 00:00:00	2012-11-10 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+177544	2013020701204	2013-01-17 00:00:00	2012-12-30 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Containers			
+177888	2013013000632	2013-01-30 00:00:00	2012-12-27 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+178983	2013032102677	2013-03-11 00:00:00	2013-02-26 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other			
+179755	2013043003405	2013-04-09 00:00:00	2013-04-07 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories			
+180514	2013061204259	2013-05-08 00:00:00	2013-04-25 12:55:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Other			
+180538	2013061904542	2013-05-09 00:00:00	2013-03-25 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Cosmetics			
+181276	2013062604790	2013-06-06 00:00:00	2013-03-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+181740	2013062104613	2013-06-22 00:00:00	2011-08-03 21:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+183536	2013082106136	2013-08-21 00:00:00	2013-04-15 00:00:00	SFO	San Francisco International	Air France	Passenger Property Loss	Checkpoint		Other			
+183592	2013102107523	2013-08-23 00:00:00	2013-08-05 11:30:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Containers			
+184832	2013110408657	2013-10-15 00:00:00	2013-09-25 07:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Electronics			
+185236	2013110708836	2013-10-29 00:00:00	2013-10-14 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Food & Drink			
+186343	2013121910155	2013-12-13 00:00:00	2013-10-19 14:45:00	SFO	San Francisco International	Virgin America	Passenger Property Loss	Checked Baggage		Electronics			
+186353	2013122310195	2013-12-13 00:00:00	2013-12-11 07:30:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry			
+186774	2014081815986	2014-07-28 00:00:00	2014-05-04 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+187922	2014021311688	2014-02-07 00:00:00	2013-11-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+187973	2014021811740	2014-02-18 00:00:00	2014-02-08 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+188068	2014022011837	2014-02-18 00:00:00	2014-02-17 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+191066	2014062514899	2014-06-13 00:00:00	2014-05-13 00:00:00	SFO	San Francisco International	Virgin America	Passenger Property Loss	Checkpoint		Other,Other			
+191291	2014071415127	2014-06-24 00:00:00	2014-06-06 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+191801	2014080415649	2014-08-04 00:00:00	2014-07-13 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+192007	2014081415858	2014-07-25 00:00:00	2014-07-18 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checkpoint		Watches & Jewelry			
+192983	2014092216859	2014-08-29 00:00:00	2014-04-20 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
+193657	2014100917543	2014-09-25 00:00:00	2014-08-16 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+193714	2014101417601	2014-10-08 00:00:00	2014-09-27 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+194475	2014111718379	2014-11-05 00:00:00	2014-09-27 00:00:00	SFO	San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage		Other			
+194512	2014111818417	2014-11-10 00:00:00	2014-09-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+194744	2014112618655	2014-11-19 00:00:00	2014-10-31 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics,Watches & Jewelry,Electronics			
+195378	2014121919322	2014-12-19 00:00:00	2014-11-23 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Other			
+195458	2014122919405	2014-12-29 00:00:00	2014-12-25 00:00:00	SFO	San Francisco International	Virgin America	Passenger Property Loss	Checkpoint		Electronics			
+203490	2015011219805	2015-01-12 00:00:00	2015-01-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry			
+203491	2015012120042	2015-01-14 00:00:00	2014-12-09 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203494	2015013020307	2015-01-30 00:00:00	2015-01-05 00:00:00	SFO	San Francisco International	Aer Lingus	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Clothing & Accessories,Food & Drink,Games & Toys		0.0	Deny
+203495	2015022320785	2015-02-23 00:00:00	2015-02-08 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Other,Other,Clothing & Accessories			
+203497	2015040921816	2015-04-08 00:00:00	2015-03-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
+203498	2015050422288	2015-05-04 00:00:00	2015-04-25 00:00:00	SFO	San Francisco International	British Airways	Passenger Property Loss	Checked Baggage		Electronics			
+203500	2015052722781	2015-05-18 00:00:00	2015-05-07 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Containers			
+203501	2015051922581	2015-05-19 00:00:00	2015-04-22 00:00:00	SFO	San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+203504	2015062423408	2015-06-17 00:00:00	2015-04-11 00:00:00	SFO	San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+203505	2015072023984	2015-07-20 00:00:00	2015-07-01 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+203506	2015073124401	2015-07-23 00:00:00	2015-07-01 00:00:00	SFO	San Francisco International	Singapore Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+203507	2015073124380	2015-07-27 00:00:00	2015-06-28 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+203509	2015080624617	2015-08-06 00:00:00	2015-05-22 00:00:00	SFO	San Francisco International	Virgin America	Passenger Property Loss	Checked Baggage		Cosmetics			
+203510	2015082125026	2015-08-21 00:00:00	2015-08-17 00:00:00	SFO	San Francisco International	Sun Country Airlines Inc	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+203511	2015090125236	2015-08-25 00:00:00	2015-08-22 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checkpoint		Electronics			
+203513	2015090125218	2015-09-01 00:00:00	2015-08-13 00:00:00	SFO	San Francisco International		Passenger Property Loss	Checked Baggage		Food & Drink			
+203514	2015091625396	2015-09-03 00:00:00	2015-09-02 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
+203517	2015110926692	2015-10-23 00:00:00	2015-09-28 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers			
+203518	2015120727348	2015-11-23 00:00:00	2015-11-04 00:00:00	SFO	San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Containers			
+203519	2015122127737	2015-12-07 00:00:00	2015-11-03 00:00:00	SFO	San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
+211775	2016032129900	2016-03-03 00:00:00	2016-01-09 08:00:00	SFO	San Francisco International San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Closed:Contractor Claim
+211776	2016031129640	2016-02-16 00:00:00	2016-01-15 00:00:00	SFO	San Francisco International San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage		Office Supplies			Closed:Contractor Claim
+211777	2016021828942	2016-01-26 00:00:00	2016-01-15 23:45:00	SFO	San Francisco International San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage		Household Decor			Closed:Contractor Claim
+211778	2016032930186	2016-03-14 00:00:00	2016-02-03 10:40:00	SFO	San Francisco International San Francisco International	Lufthansa	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Contractor Claim
+211779	2016030729385	2016-02-10 00:00:00	2016-02-05 21:25:00	SFO	San Francisco International San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry			Closed:Contractor Claim
+211780	2016031829865	2016-03-07 00:00:00	2016-02-28 00:00:00	SFO	San Francisco International San Francisco International		Passenger Property Loss	Checked Baggage		Cosmetics			Closed:Contractor Claim
+211781	2016042030668	2016-03-30 00:00:00	2016-03-02 00:00:00	SFO	San Francisco International San Francisco International	Southeast Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Contractor Claim
+211785	2016051831436	2016-05-04 00:00:00	2016-03-30 05:55:00	SFO	San Francisco International San Francisco International		Passenger Property Loss	Checked Baggage		Games & Toys,Cosmetics			Closed:Contractor Claim
+211787	2016042830950	2016-04-28 00:00:00	2016-04-12 16:00:00	SFO	San Francisco International San Francisco International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Food & Drink,Scientific Intruments			Closed:Contractor Claim
+211788	2016051631351	2016-04-29 00:00:00	2016-04-19 11:30:00	SFO	San Francisco International San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage		Other			Closed:Contractor Claim
+211789	2016082333232	2016-07-11 00:00:00	2016-05-05 10:00:00	SFO	San Francisco International San Francisco International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			Closed:Contractor Claim
+211790	2016071932789	2016-07-19 00:00:00	2016-06-07 14:00:00	SFO	San Francisco International San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Contractor Claim
+211791	2016080432953	2016-07-05 00:00:00	2016-06-24 00:00:00	SFO	San Francisco International San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			Closed:Contractor Claim
+211792	2016092133658	2016-07-21 00:00:00	2016-07-01 06:00:00	SFO	San Francisco International San Francisco International	Virgin America	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Closed:Contractor Claim
+211793	2016101834774	2016-09-06 00:00:00	2016-07-16 10:00:00	SFO	San Francisco International San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			Closed:Contractor Claim
+211794	2016101334634	2016-10-13 00:00:00	2016-08-01 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Closed:Contractor Claim
+211795	2016092333823	2016-08-03 00:00:00	2016-08-02 10:30:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checkpoint		Containers			Closed:Contractor Claim
+211796	2017010536299	2017-01-05 00:00:00	2016-08-16 00:00:00	SFO	San Francisco International San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Contractor Claim
+211797	2016121936040	2016-10-25 00:00:00	2016-09-07 00:00:00	SFO	San Francisco International San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Contractor Claim
+211798	2017011036421	2016-11-09 00:00:00	2016-09-30 05:41:00	SFO	San Francisco International San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			Closed:Contractor Claim
+211802	2017010336244	2016-11-14 00:00:00	2016-11-06 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Contractor Claim
+211803	2017011136460	2016-11-30 00:00:00	2016-11-07 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			Closed:Contractor Claim
+211804	2017013037032	2016-12-08 00:00:00	2016-11-17 00:00:00	SFO	San Francisco International San Francisco International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			Closed:Contractor Claim
+211805	2017012636910	2016-11-28 00:00:00	2016-11-25 07:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Other			Closed:Contractor Claim
+211806	2017020337297	2016-12-16 00:00:00	2016-12-06 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Electronics			Closed:Contractor Claim
+220073	2017091342977	2017-08-01 00:00:00	2017-07-09 00:00:00	SFO	San Francisco International San Francisco International	Qantas Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories			losed: Contractor Claim
+220074	2017052239809	2017-05-02 00:00:00	2017-01-14 00:00:00	SFO	San Francisco International San Francisco International	Cathay Pacific - CX	Passenger Property Loss	Checked Baggage		Cosmetics			losed: Contractor Claim
+220076	2017072541822	2017-06-05 00:00:00	2017-05-14 12:00:00	SFO	San Francisco International San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			losed: Contractor Claim
+220080	2017090742762	2017-09-07 00:00:00	2017-06-30 12:45:00	SFO	San Francisco International San Francisco International	Virgin America	Passenger Property Loss	Checked Baggage		Watches & Jewelry			losed: Contractor Claim
+220082	2017121245852	2017-11-09 00:00:00	2017-08-20 00:00:00	SFO	San Francisco International San Francisco International	Virgin America	Passenger Property Loss	Checked Baggage		Watches & Jewelry			losed: Contractor Claim
+220083	2017091543173	2017-08-10 00:00:00	2017-02-05 00:00:00	SFO	San Francisco International San Francisco International	Turkish Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			losed: Contractor Claim
+220084	2017071041318	2017-07-10 00:00:00	2017-07-10 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checkpoint		Cosmetics			losed: Contractor Claim
+220085	2017091843182	2017-08-12 00:00:00	2017-08-10 08:51:00	SFO	San Francisco International San Francisco International	Air India	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Scientific Intruments			losed: Contractor Claim
+220086	2017100544084	2017-09-12 00:00:00	2017-07-09 00:00:00	SFO	San Francisco International San Francisco International	Qantas Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories			losed: Contractor Claim
+220091	2017103144839	2017-10-16 00:00:00	2017-08-25 20:15:00	SFO	San Francisco International San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage		Other,Other			losed: Contractor Claim
+220093	2017111445128	2017-10-16 00:00:00	2017-09-21 00:00:00	SFO	San Francisco International San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Clothing & Accessories			losed: Contractor Claim
+220094	2017090642755	2017-02-17 00:00:00	2017-01-04 00:00:00	SFO	San Francisco International San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			losed: Contractor Claim
+220097	2017101244347	2017-09-19 00:00:00	2017-09-14 06:20:00	SFO	San Francisco International San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			losed: Contractor Claim
+220098	2017083142538	2017-07-20 00:00:00	2017-06-28 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			losed: Contractor Claim
+220100	2017042438833	2017-02-22 00:00:00	2017-01-31 00:00:00	SFO	San Francisco International San Francisco International	Virgin America	Passenger Property Loss	Checked Baggage		Electronics			losed: Contractor Claim
+220101	2017042538879	2017-02-22 00:00:00	2017-02-20 00:00:00	SFO	San Francisco International San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			losed: Contractor Claim
+220102	2017061440680	2017-05-22 00:00:00	2017-05-14 00:00:00	SFO	San Francisco International San Francisco International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			losed: Contractor Claim
+220103	2017080342059	2017-06-23 00:00:00	2017-06-19 00:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories			losed: Contractor Claim
+220107	2017122246251	2017-11-24 00:00:00	2017-11-24 00:00:00	SFO	San Francisco International San Francisco International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			losed: Contractor Claim
+220109	2017090842781	2017-07-26 00:00:00	2017-07-25 00:00:00	SFO	San Francisco International San Francisco International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			losed: Contractor Claim
+220111	2017060640316	2017-04-28 00:00:00	2017-04-24 00:00:00	SFO	San Francisco International San Francisco International	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Watches & Jewelry,Electronics			losed: Contractor Claim
+220112	2018010546530	2017-12-29 00:00:00	2017-12-29 05:30:00	SFO	San Francisco International San Francisco International	Virgin Atlantic	Passenger Property Loss	Checkpoint		Watches & Jewelry			losed: Contractor Claim
+220114	2017051939775	2017-03-31 00:00:00	2017-02-18 21:00:00	SFO	San Francisco International San Francisco International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			losed: Contractor Claim

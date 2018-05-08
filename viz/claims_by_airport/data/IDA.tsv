@@ -1,0 +1,19 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+52644	2005010673087	2004-12-21 00:00:00	2004-08-16 00:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	920.0	Other	Denied	0.0	Deny
+86077	2006060607459	2006-05-31 00:00:00	2006-05-19 00:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	109.9	Clothing & Accessories	Denied	0.0	Deny
+88950	2006080310470	2006-07-26 00:00:00	2006-06-14 00:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	43.5	Household Items	Approved	43.5	Approve in Full
+92412	2006101614006	2006-10-02 00:00:00	2006-05-21 00:00:00	IDA	Idaho Falls Regional	Horizon Air	Passenger Property Loss	Checked Baggage	15.63	Tools & Machines	Approved	15.63	Approve in Full
+100187	2007022221340	2007-02-21 00:00:00	2007-01-23 00:00:00	IDA	Idaho Falls Regional	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	159.0	Electronics	Denied	0.0	Deny
+110108	2007090631504	2007-09-04 00:00:00	2007-08-08 00:00:00	IDA	Idaho Falls Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
+114089	2007112635390	2007-11-23 00:00:00	2007-11-10 00:00:00	IDA	Idaho Falls Regional	UAL	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
+119924	2008032841566	2008-03-19 00:00:00	2007-10-02 00:00:00	IDA	Idaho Falls Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	9140.0	Electronics,Clothing & Accessories,Watches & Jewelry,Supplies	Denied	0.0	Deny
+128154	2008091549945	2008-09-11 00:00:00	2008-07-18 00:00:00	IDA	Idaho Falls Regional	UAL	Passenger Property Loss	Checked Baggage	783.13	Outdoors Supplies	Denied	0.0	Deny
+130697	2008111952503	2008-11-17 00:00:00	2008-11-12 00:00:00	IDA	Idaho Falls Regional	UAL	Passenger Property Loss	Checked Baggage	279.01	Clothing & Accessories	Denied	0.0	Deny
+141621	2009091763748	2009-09-11 00:00:00	2009-08-15 00:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.87	Other	Denied	0.0	Deny
+149206	2010060872507	2010-06-01 00:00:00	2010-05-12 08:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+164583	2011102788405	2011-10-06 00:00:00	2011-09-25 00:00:00	IDA	Idaho Falls Regional	Allegiant Air	Passenger Property Loss	Checkpoint		Other		1500.0	Approve in Full
+179166	2013080105562	2013-03-18 00:00:00	2013-03-11 07:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		64.85	Approve in Full
+188562	2014031112339	2014-03-07 00:00:00	2014-01-09 00:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+188571	2014031112349	2014-03-11 00:00:00	2014-02-28 00:00:00	IDA	Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items		8.63	Approve in Full
+198925	2015103026426	2015-10-14 00:00:00	2015-10-08 00:00:00	IDA	Idaho Falls Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry		0.0	Deny
+207533	2016081233049	2016-06-29 00:00:00	2016-06-06 10:15:00	IDA	Idaho Falls Regional Idaho Falls Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			Insufficient

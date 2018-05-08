@@ -1,0 +1,4 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+105483	2007061126709	2007-06-07 00:00:00	2007-04-07 00:00:00	AUG	Augusta State Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	23.54	Clothing & Accessories	Denied	0.0	Deny
+108935	2007081430240	2007-08-13 00:00:00	2007-08-06 00:00:00	AUG	Augusta State Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	145.0	Clothing & Accessories,Other	Denied	0.0	Deny
+132797	2009012154721	2009-01-12 00:00:00	2009-01-06 00:00:00	AUG	Augusta State Airport	USAir	Passenger Property Loss	Checked Baggage	65.95	Electronics,Other	Denied	0.0	Deny

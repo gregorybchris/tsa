@@ -1,0 +1,7 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+45128	2004092363718	2004-09-16 00:00:00	2004-08-26 00:00:00	ENA	Kenai Municipal Airport		Passenger Property Loss	Checked Baggage	323.64	Outdoors Supplies	Settled	162.32	Settle
+70282	2005082391228	2005-08-16 00:00:00	2005-07-08 00:00:00	ENA	Kenai Municipal Airport		Passenger Property Loss	Other	29.44	Tools & Machines	Settled	14.72	Settle
+72128	2005092393197	2005-09-16 00:00:00	2005-07-19 00:00:00	ENA	Kenai Municipal Airport		Passenger Property Loss	Checked Baggage	399.75	Outdoors Supplies	Denied	0.0	Deny
+79705	2006020200856	2006-01-27 00:00:00	2006-01-05 00:00:00	ENA	Kenai Municipal Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	323.29	Other	Denied	0.0	Deny
+108220	2007080129456	2007-07-31 00:00:00	2007-07-13 00:00:00	ENA	Kenai Municipal Airport		Passenger Property Loss	Checked Baggage	79.5	Other	Denied	0.0	Deny
+182802	2013090506567	2013-07-30 00:00:00	2013-07-21 00:00:00	ENA	Kenai Municipal Airport	ERA aviation Air	Passenger Property Loss	Checked Baggage		Other		34.6	Approve in Full

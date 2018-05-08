@@ -1,0 +1,359 @@
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
+212	19958	2002-11-12 00:00:00	2002-10-22 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	37.0	Clothing & Accessories	Approved	37.0	Approve in Full
+816	0714552M	2002-12-19 00:00:00	2002-09-15 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	1049.0	Electronics	Settled	183.74	Settle
+1964	0128052L	2003-01-28 00:00:00	2003-01-12 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	670.0	Clothing & Accessories	Settled	335.0	Settle
+3838	0318095L	2003-03-18 00:00:00	2003-01-31 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	900.0	Watches & Jewelry	Denied	0.0	Deny
+3928	0319031L	2003-03-19 00:00:00	2003-03-03 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	151.7	Clothing & Accessories	Approved	151.7	Approve in Full
+3955	0320001L	2003-03-20 00:00:00	2003-03-03 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	315.32	Clothing & Accessories	Approved	315.32	Approve in Full
+4148	0325142L	2003-03-25 00:00:00	2003-01-21 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1018.0	Clothing & Accessories	Denied	0.0	Deny
+4752	0408077L	2003-04-08 00:00:00	2003-03-28 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Canceled		
+4928	0410021L	2003-04-10 00:00:00	2003-03-20 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint	1580.43	Watches & Jewelry	Approved	1580.43	Approve in Full
+4973	0410045L	2003-04-10 00:00:00	2003-03-25 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	310.0	Clothing & Accessories	Settled	155.0	Settle
+5000	0411005L	2003-04-11 00:00:00	2003-03-09 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	135.0	Cosmetics	Settled	67.5	Settle
+5017	0414003L	2003-04-14 00:00:00	2003-02-10 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Other	Settled	225.0	Settle
+5355	0421027L	2003-04-21 00:00:00	2003-03-24 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Canceled	0.0	
+5427	0422024L	2003-04-22 00:00:00	2003-04-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	5.0	Other	Approved	5.0	Approve in Full
+5657	0424031L	2003-04-24 00:00:00	2003-03-19 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	121.99	Other	Settled	61.0	Settle
+6072	0506006L	2003-05-06 00:00:00	2003-04-25 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Approved	80.0	Approve in Full
+6194	0506101L	2003-05-06 00:00:00	2003-02-13 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Settled	25.0	Settle
+7675	0603114L	2003-06-03 00:00:00	2003-05-12 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
+7833	0605054L	2003-06-05 00:00:00	2003-05-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	49.99	Clothing & Accessories	Canceled		
+7872	0605033L	2003-06-05 00:00:00	2003-04-20 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	150.0	Electronics	Settled	75.0	Settle
+8719	0617025L	2003-06-17 00:00:00	2003-05-09 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint	398.0	Electronics	Denied	0.0	Deny
+10233	0708156M	2003-07-08 00:00:00	2003-06-12 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
+10428	0709011M	2003-07-09 00:00:00	2003-06-27 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	5000.0	Watches & Jewelry	Denied	0.0	Deny
+11433	0722031M	2003-07-22 00:00:00	2002-07-11 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	86.6	Watches & Jewelry	Approved	86.6	Approve in Full
+12015	0729062M	2003-07-29 00:00:00	2003-07-08 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	300.0	Other	Settled	150.0	Settle
+12328	0801083M	2003-08-01 00:00:00	2003-07-29 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	28.0	Clothing & Accessories	Approved	28.0	Approve in Full
+12573	0805074M	2003-08-05 00:00:00	2003-07-15 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	64.95	Other	Settled	32.48	Settle
+12804	0808065M	2003-08-08 00:00:00	2003-06-10 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	69.95	Other	Denied	0.0	Deny
+13395	0814134M	2003-08-14 00:00:00	2003-07-16 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.12	Clothing & Accessories	Settled	35.06	Settle
+14362	0826105M	2003-08-26 00:00:00	2003-08-06 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Denied		Deny
+15303	0908046M	2003-09-08 00:00:00	2003-08-31 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	396.0	Other	Approved	396.0	Approve in Full
+15564	0909031M	2003-09-09 00:00:00	2003-08-25 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	42.18	Other	Settled	32.18	Settle
+16876	0929018M	2003-09-29 00:00:00	2003-09-09 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	30.3	Electronics	Approved	30.3	Approve in Full
+18837	1022000M	2003-10-22 00:00:00	2003-09-25 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	172.75	Electronics	Settled	86.37	Settle
+20683	1119106M	2003-11-19 00:00:00	2003-10-31 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+21522	1205600M	2003-12-05 00:00:00		ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
+21833	1205630M	2003-12-05 00:00:00		ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+22894	1217607M	2003-12-17 00:00:00	2003-08-17 00:00:00	ELP	El Paso International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1450.0	Watches & Jewelry	Denied		Deny
+23288	1222313M	2003-12-22 00:00:00	2003-10-14 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
+24671	0114325M	2004-01-14 00:00:00	2003-12-03 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
+24739	0114525M	2004-01-14 00:00:00	2003-12-17 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
+25147	0114489M	2004-01-14 00:00:00	2004-01-01 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	320.0	Clothing & Accessories	Settled	160.0	Settle
+25167	0114571M	2004-01-14 00:00:00	2003-12-26 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	50.0	Other	Settled	25.0	Settle
+25662	0129035M	2004-01-29 00:00:00	2004-01-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Other	25.0	Other	Approved	25.0	Approve in Full
+25947	0130200M	2004-01-30 00:00:00	2003-12-23 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
+26221	0202166M	2004-02-02 00:00:00	2003-10-20 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	77.95	Other	Approved	77.95	Approve in Full
+26673	0203318M	2004-02-03 00:00:00	2003-11-19 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint	37.89	Other	Approved	37.89	Approve in Full
+27820	0212153M	2004-02-12 00:00:00	2004-02-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint	105.0	Other	Denied	0.0	Deny
+28723	0226122M	2004-02-26 00:00:00	2004-01-11 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	32.0	Clothing & Accessories	Approved	32.0	Approve in Full
+28764	0226302M	2004-02-26 00:00:00	2004-02-06 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	22.5	Clothing & Accessories	Approved	22.5	Approve in Full
+29335	2004043050297	2004-03-05 00:00:00	2004-01-19 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	156.94	Clothing & Accessories	Approved	156.94	Approve in Full
+29527	0305073M	2004-03-05 00:00:00	2004-02-18 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Settled	822.36	Settle
+29766	2004042250033	2004-03-10 00:00:00	2004-01-20 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	72.0	Other	Canceled		
+30158	2004051050894	2004-03-11 00:00:00	2004-02-11 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	223.02	Electronics	Settled	169.15	Settle
+30415	2004043050349	2004-03-15 00:00:00	2004-02-16 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	225.0	Watches & Jewelry	Approved	225.0	Approve in Full
+30812	2004050650611	2004-03-18 00:00:00	2004-03-01 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Settled	30.0	Settle
+31050	2004051852812	2004-03-22 00:00:00	2004-03-10 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	211.08	Other	Settled	105.54	Settle
+31437	2004051552323	2004-03-24 00:00:00	2004-02-17 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	69.99	Other	Settled	35.0	Settle
+31648	2004050450449	2004-03-30 00:00:00	2004-02-13 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+31747	2004051451989	2004-04-01 00:00:00	2004-01-11 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	65.84	Other	Approved	65.84	Approve in Full
+31758	2004051452067	2004-04-01 00:00:00	2004-02-24 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
+31761	2004051452114	2004-04-01 00:00:00	2004-03-10 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Approved	75.0	Approve in Full
+31993	2004051752442	2004-04-01 00:00:00	2004-02-22 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	250.0	Cosmetics	Settled	125.0	Settle
+32367	2004051852789	2004-04-15 00:00:00	2004-02-03 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	300.0	Other	Approved	300.0	Approve in Full
+32394	2004052453156	2004-04-15 00:00:00	2004-01-01 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.15	Electronics	Approved	90.15	Approve in Full
+32416	2004052553383	2004-04-15 00:00:00	2004-03-18 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	184.0	Other	Approved	92.0	Approve in Full
+32525	2004052553434	2004-04-15 00:00:00	2003-04-29 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	43.42	Other	Denied	0.0	Deny
+33777	2004051852631	2004-05-03 00:00:00	2004-04-07 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Approved	30.0	Approve in Full
+34215	2004060855074	2004-05-04 00:00:00	2004-03-02 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Approved	9.95	Approve in Full
+34613	2004061455735	2004-05-05 00:00:00	2004-01-29 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	75.72	Other	Approved	75.72	Approve in Full
+35124	2004061055454	2004-05-13 00:00:00	2004-04-29 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	7.42	Other	Approved	7.42	Approve in Full
+35578	2004062156747	2004-05-19 00:00:00	2004-04-01 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	1623.75	Watches & Jewelry	Approved	1623.75	Approve in Full
+35663	2004061856315	2004-05-19 00:00:00	2004-04-09 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	52.45	Other	Denied	0.0	Deny
+35702	2004060955223	2004-05-19 00:00:00	2004-05-03 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Settled	37.5	Settle
+35854	2004060855106	2004-05-27 00:00:00	2004-03-30 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+37406	2004062957761	2004-06-08 00:00:00	2004-05-18 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Canceled	0.0	
+37759	2004070658309	2004-06-14 00:00:00	2004-05-16 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
+37865	2004070658386	2004-06-16 00:00:00	2004-06-02 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	159.0	Electronics	Approved	159.0	Approve in Full
+37889	2004070658460	2004-06-16 00:00:00	2004-06-04 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	64.9	Other	Approved	64.9	Approve in Full
+39293	2004080260341	2004-07-06 00:00:00	2004-07-06 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
+39435	2004071659643	2004-07-07 00:00:00	2004-06-08 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	8.41	Other	Settled	4.22	Settle
+39540	2004080560698	2004-07-09 00:00:00	2004-06-29 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	4.0	Other	Approved	4.0	Approve in Full
+39610	2004091062552	2004-07-09 00:00:00	2004-02-01 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	64.93	Clothing & Accessories	Approved	64.93	Approve in Full
+40628	2004081161237	2004-07-20 00:00:00	2004-06-11 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	1344.0	Electronics	Denied	0.0	Deny
+40640	2004072860159	2004-07-20 00:00:00	2004-06-04 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	186.42	Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+40694	2004081161094	2004-07-20 00:00:00	2004-07-04 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Settled	240.0	Settle
+40808	2004082661404	2004-07-23 00:00:00	2004-01-27 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+40858	2004082661408	2004-07-23 00:00:00	2004-07-13 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	700.0	Other	Denied	0.0	Deny
+41039	2004082761537	2004-07-27 00:00:00	2004-07-06 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	53.38	Watches & Jewelry	Approved	53.38	Approve in Full
+41744	2004091362656	2004-08-05 00:00:00	2004-05-11 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.0	Other	Approved	42.0	Approve in Full
+42366	2004110566413	2004-08-10 00:00:00	2004-01-30 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
+42381	2004112367723	2004-08-10 00:00:00	2004-07-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint	59.95	Other	Denied	0.0	Deny
+42405	2004091062620	2004-08-10 00:00:00	2004-07-26 00:00:00	ELP	El Paso International Airport	America West	Passenger Theft	Checked Baggage	150.0	Clothing & Accessories	Settled	75.0	Settle
+42414	2004091362694	2004-08-10 00:00:00	2004-07-15 00:00:00	ELP	El Paso International Airport	America West	Passenger Theft	Checked Baggage	1326.39	Other	Settled	357.39	Settle
+42473	2004090962513	2004-08-11 00:00:00	2004-07-10 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	59.26	Other	Approved	59.26	Approve in Full
+42776	2004092964123	2004-08-19 00:00:00	2004-07-20 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	44.99	Other	Approved	44.99	Approve in Full
+43090	2004100564436	2004-08-24 00:00:00	2004-07-12 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Theft	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
+43179	2004093064293	2004-08-24 00:00:00	2004-07-09 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	45.3	Other	Denied	0.0	Deny
+44625	2004112467799	2004-09-12 00:00:00	2004-10-02 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	59.99	Other	Canceled		
+44861	2004110866676	2004-09-15 00:00:00	2004-09-29 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	105.0	Other	Approved	105.0	Approve in Full
+45572	2004092763936	2004-09-23 00:00:00	2004-07-23 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Theft	Checked Baggage	75.0	Other	Approved	75.0	Approve in Full
+45903	2004101965190	2004-09-28 00:00:00	2004-09-01 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Approved	250.0	Approve in Full
+46104	2004111366911	2004-09-28 00:00:00	2004-08-29 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
+46364	2004111667097	2004-09-29 00:00:00	2004-09-20 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	168.18	Clothing & Accessories	Settled	40.64	Settle
+46673	2004110866745	2004-10-05 00:00:00	2004-09-25 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Denied	0.0	Deny
+46884	2004111967445	2004-10-06 00:00:00	2004-09-01 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Settled	50.0	Settle
+46964	2004112767877	2004-10-08 00:00:00	2004-10-02 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	22.68	Clothing & Accessories	Approved	22.68	Approve in Full
+47704	2004120368453	2004-10-18 00:00:00	2004-09-14 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	124.99	Other	Settled	100.0	Settle
+47994	2005041582642	2004-10-20 00:00:00	2004-10-08 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Settled	100.0	Settle
+48826	2004122069605	2004-11-02 00:00:00	2004-09-10 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	59.95	Other	Approved	59.95	Approve in Full
+50144	2004122871184	2004-11-18 00:00:00	2004-11-08 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
+50173	2005010572848	2004-11-18 00:00:00	2004-10-31 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	235.99	Clothing & Accessories	Approved	235.99	Approve in Full
+52066	2005010472404	2004-12-14 00:00:00	2004-11-30 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	39.59	Clothing & Accessories	Denied	0.0	Deny
+53193	2005011273523	2004-12-29 00:00:00	2004-12-18 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Approved	50.0	Approve in Full
+53754	2005012674348	2005-01-07 00:00:00	2004-12-16 00:00:00	ELP	El Paso International Airport	American West	Passenger Property Loss	Checked Baggage	54.07	Other	Approved	54.07	Approve in Full
+54165	2005012874685	2005-01-11 00:00:00	2004-12-08 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	2494.0	Watches & Jewelry	Denied	0.0	Deny
+54277	2005012874665	2005-01-11 00:00:00	2004-12-16 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	497.39	Watches & Jewelry	Settled	277.39	Settle
+54627	2005013174964	2005-01-14 00:00:00	2004-11-23 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Settled	60.0	Settle
+54675	2005020175121	2005-01-18 00:00:00	2004-12-22 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Approved	100.0	Approve in Full
+54821	2005020275316	2005-01-19 00:00:00	2004-12-27 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
+54861	2005020475699	2005-01-19 00:00:00	2005-01-02 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	69.0	Clothing & Accessories	Approved	69.0	Approve in Full
+54928	2005020175222	2005-01-19 00:00:00	2004-12-21 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	199.96	Other	Denied		Deny
+55028	2005021075895	2005-01-19 00:00:00	2004-12-29 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	350.0	Other	Denied	0.0	Deny
+55874	2005022376682	2005-01-28 00:00:00	2005-12-21 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint	279.0	Clothing & Accessories	Denied	0.0	Deny
+56331	2005030777125	2005-02-03 00:00:00	2005-01-28 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Containers	Approved	10.0	Approve in Full
+56882	2005031978811	2005-02-09 00:00:00	2005-02-01 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
+57167	2005031378021	2005-02-11 00:00:00	2005-01-17 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	100.0	Cosmetics	Denied	0.0	Deny
+57849	2005030877215	2005-02-24 00:00:00	2004-04-13 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Theft	Checked Baggage	431.0	Containers	Denied	0.0	Deny
+59395	2005031878723	2005-03-16 00:00:00	2005-01-17 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Cosmetics	Denied	0.0	Deny
+59828	2005033180760	2005-03-23 00:00:00	2005-03-14 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	217.94	Clothing & Accessories	Approved	217.94	Approve in Full
+59864	2005033180881	2005-03-23 00:00:00	2005-01-05 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	64.72	Other	Approved	64.72	Approve in Full
+61196	2005041182116	2005-04-07 00:00:00	2005-03-26 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	38.0	Other	Approved	38.0	Approve in Full
+61460	2005041382493	2005-04-12 00:00:00	2005-03-27 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	114.0	Other	Approved	114.0	Approve in Full
+61483	2005041582646	2005-04-12 00:00:00	2005-03-11 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	186.97	Supplies	Approved	186.97	Approve in Full
+62294	2005042583291	2005-04-22 00:00:00	2005-03-20 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	132.0	Clothing & Accessories	Approved	132.0	Approve in Full
+63734	2005051684733	2005-05-12 00:00:00	2005-03-05 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	29.99	Other	Approved	29.99	Approve in Full
+64572	2005052485466	2005-05-23 00:00:00	2005-03-20 00:00:00	ELP	El Paso International Airport	American West	Passenger Property Loss	Checked Baggage	123.8	Other	Settled	58.91	Settle
+64946	2005060785900	2005-05-31 00:00:00	2005-04-07 00:00:00	ELP	El Paso International Airport	Singapore Airlines	Passenger Property Loss	Checked Baggage	2008.0	Electronics	Denied	0.0	Deny
+64987	2005060986033	2005-05-31 00:00:00	2005-05-19 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	25.0	Watches & Jewelry	Denied	0.0	Deny
+65655	2005061786538	2005-06-07 00:00:00	2005-05-15 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	50.0	Containers	Denied	0.0	Deny
+65969	2005100493887	2005-06-10 00:00:00	2005-05-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	544.86	Electronics	Denied	0.0	Deny
+66393	2005061786555	2005-06-17 00:00:00	2005-05-27 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	48.11	Watches & Jewelry	Denied	0.0	Deny
+66939	2005062987785	2005-06-27 00:00:00	2005-06-04 00:00:00	ELP	El Paso International Airport		Passenger Property Loss		300.0	Cosmetics	Denied	0.0	Deny
+67360	2005070688362	2005-07-05 00:00:00	2005-06-16 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Approved	300.0	Approve in Full
+67666	2005071889122	2005-07-08 00:00:00	2005-06-30 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	5.0	Tools & Machines	Approved	5.0	Approve in Full
+67674	2005071388798	2005-07-08 00:00:00	2005-04-16 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	240.0	Watches & Jewelry	Canceled	0.0	
+67703	2005071388845	2005-07-08 00:00:00	2005-05-16 00:00:00	ELP	El Paso International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
+68295	2005072089320	2005-07-18 00:00:00	2005-06-26 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	46.28	Other	Denied	0.0	Deny
+69445	2005081590535	2005-08-04 00:00:00	2005-07-27 00:00:00	ELP	El Paso International Airport	American West	Passenger Property Loss	Checked Baggage	15.0	Containers	Approved	15.0	Approve in Full
+69696	2005081790734	2005-08-08 00:00:00	2005-07-14 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	381.59	Electronics	Denied	0.0	Deny
+71183	2005090692226	2005-08-30 00:00:00	2005-08-18 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	175.11	Containers	Settled	20.0	Settle
+71778	2005091992698	2005-09-12 00:00:00	2005-08-13 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Settled	125.0	Settle
+72726	2005100393773	2005-09-26 00:00:00	2005-09-09 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Cosmetics	Settled	37.5	Settle
+74349	2005110195480	2005-10-25 00:00:00	2005-10-01 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	26.79	Other	Approved	26.79	Approve in Full
+74749	2005110995876	2005-11-01 00:00:00	2005-10-22 00:00:00	ELP	El Paso International Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	179.19	Other	Approved	179.19	Approve in Full
+74946	2005111496043	2005-11-03 00:00:00	2005-09-05 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	489.96	Electronics	Denied	0.0	Deny
+75017	2005111696147	2005-11-04 00:00:00	2005-09-22 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.05	Containers	Denied	0.0	Deny
+75178	2005111896254	2005-11-09 00:00:00	2005-10-27 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	850.0	Watches & Jewelry	Denied	0.0	Deny
+76256	2005120897280	2005-11-29 00:00:00	2005-10-11 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	42.5	Other	Denied	0.0	Deny
+76613	2005121697953	2005-12-06 00:00:00	2005-10-03 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	11.02	Tools & Machines	Approved	11.02	Approve in Full
+76641	2005121497784	2005-12-06 00:00:00	2005-11-13 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checkpoint	300.0	Other	Denied	0.0	Deny
+77125	2005122298268	2005-12-14 00:00:00	2005-12-05 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+77173	2005122298274	2005-12-15 00:00:00	2005-11-29 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.91	Tools & Machines	Denied	0.0	Deny
+77192	2005122798401	2005-12-15 00:00:00	2005-11-13 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	764.55	Electronics	Denied	0.0	Deny
+77232	2005122398323	2005-12-16 00:00:00	2005-12-08 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Denied	0.0	Deny
+77785	2006010598774	2005-12-28 00:00:00	2005-12-11 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Settled	55.0	Settle
+77929	2006010999111	2006-01-03 00:00:00	2005-12-25 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	95.0	Clothing & Accessories	Denied	0.0	Deny
+78537	2006011899727	2006-01-10 00:00:00	2005-12-27 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Denied	0.0	Deny
+78841	2006012399995	2006-01-16 00:00:00	2006-01-13 00:00:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checked Baggage	749.0	Clothing & Accessories	Denied	0.0	Deny
+78897	2006012300079	2006-01-17 00:00:00	2005-06-02 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	691.25	Cosmetics	Denied	0.0	Deny
+78901	2006012300100	2006-01-17 00:00:00	2005-12-26 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
+78985	2006012500297	2006-01-18 00:00:00	2005-12-14 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	15.0	Clothing & Accessories	Approved	15.0	Approve in Full
+79435	2006013000526	2006-01-24 00:00:00	2006-01-13 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	264.25	Other	Denied	0.0	Deny
+79437	2006013000534	2006-01-24 00:00:00	2006-01-16 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	420.0	Other	Denied	0.0	Deny
+79617	2006020100762	2006-01-26 00:00:00	2006-01-07 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	40.89	Other	Denied	0.0	Deny
+79997	2006020901277	2006-02-02 00:00:00	2006-01-12 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checkpoint	71.82	Electronics	Approved	71.82	Approve in Full
+80145	2006020901281	2006-02-06 00:00:00	2006-02-01 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	54.0	Other	Denied	0.0	Deny
+80147	2006020901287	2006-02-06 00:00:00	2006-02-01 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	900.0	Other	Denied	0.0	Deny
+81238	2006030302414	2006-02-24 00:00:00	2006-02-10 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	2900.0	Watches & Jewelry	Denied	0.0	Deny
+81641	2006030902848	2006-03-06 00:00:00	2006-02-23 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	209.24	Electronics	Approved	209.24	Approve in Full
+82307	2006032203490	2006-03-16 00:00:00	2006-02-08 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	1126.0	Other	Approved	1126.0	Approve in Full
+82470	2006032303576	2006-03-20 00:00:00	2006-03-06 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Denied	0.0	Deny
+82691	2006033003818	2006-03-22 00:00:00	2006-02-10 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	320.0	Other	Settled	80.0	Settle
+84158	2006042505249	2006-04-21 00:00:00	2006-04-11 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	455.0	Clothing & Accessories	Denied	0.0	Deny
+84357	2006050105450	2006-04-25 00:00:00	2006-03-27 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Watches & Jewelry	Denied	0.0	Deny
+84514	2006050205640	2006-04-28 00:00:00	2006-04-16 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	179.95	Other	Denied	0.0	Deny
+86145	2006060607476	2006-06-01 00:00:00	2006-02-28 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1169.99	Watches & Jewelry	Settled	584.95	Settle
+86530	2006061207798	2006-06-08 00:00:00	2006-05-04 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	139.0	Clothing & Accessories,Electronics	Denied	0.0	Deny
+86841	2006061608104	2006-06-15 00:00:00	2006-06-10 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Household Items	Approved	25.0	Approve in Full
+87029	2006062008280	2006-06-19 00:00:00	2006-05-21 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Settled	75.0	Settle
+87782	2006070609028	2006-07-05 00:00:00	2006-05-24 00:00:00	ELP	El Paso International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	370.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
+88187	2006071309375	2006-07-11 00:00:00	2006-06-29 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	653.88	Electronics	Denied	0.0	Deny
+88253	2006071709566	2006-07-12 00:00:00	2006-07-07 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	98.0	Clothing & Accessories	Approved	98.0	Approve in Full
+88447	2006071909749	2006-07-17 00:00:00	2006-07-01 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	550.0	Containers,Watches & Jewelry	Approved	550.0	Approve in Full
+88484	2006071909745	2006-07-17 00:00:00	2006-03-08 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1024.9	Watches & Jewelry,Electronics,Other,Games & Toys	Denied	0.0	Deny
+88956	2006072710120	2006-07-26 00:00:00	2006-07-22 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	20000.0	Tools & Machines	Denied	0.0	Deny
+89017	2006073110285	2006-07-27 00:00:00	2003-01-03 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	71.88	Clothing & Accessories	Approved	71.88	Approve in Full
+89524	2006081110839	2006-08-07 00:00:00	2006-07-24 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	160.08	Electronics	Denied	0.0	Deny
+90130	2006082211341	2006-08-18 00:00:00	2006-05-27 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	57.86	Other	Denied	0.0	Deny
+90238	2006082411500	2006-08-21 00:00:00	2006-08-15 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	317.26	Electronics	Denied	0.0	Deny
+90318	2006082311405	2006-08-22 00:00:00	2006-08-16 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	550.0	Electronics,Cosmetics	Denied	0.0	Deny
+90796	2006090712111	2006-08-30 00:00:00	2006-08-24 00:00:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checked Baggage	450.0	Electronics	Denied	0.0	Deny
+92018	2006092613263	2006-09-22 00:00:00	2006-09-15 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	10.5	Clothing & Accessories	Denied	0.0	Deny
+92115	2006092713406	2006-09-25 00:00:00	2006-09-10 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	17.0	Tools & Machines,Electronics	Denied	0.0	Deny
+92837	2006101113866	2006-10-11 00:00:00	2006-06-16 00:00:00	ELP	El Paso International Airport	America West	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Denied	0.0	Deny
+93303	2006110615243	2006-10-18 00:00:00	2006-10-09 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1200.0	Watches & Jewelry	Denied	0.0	Deny
+93357	2006102614593	2006-10-19 00:00:00	2006-10-08 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	15.0	Containers	Denied	0.0	Deny
+93755	2006110115021	2006-10-27 00:00:00	2006-10-07 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	348.74	Clothing & Accessories	Denied	0.0	Deny
+93778	2006110315113	2006-10-27 00:00:00	2006-10-20 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	755.83	Electronics,Cosmetics	Denied	0.0	Deny
+94116	2006111515614	2006-11-03 00:00:00	2006-10-14 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	399.99	Electronics	Denied	0.0	Deny
+94133	2006111415539	2006-11-03 00:00:00	2006-10-08 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	910.96	Clothing & Accessories	Settled	637.67	Settle
+94975	2006112916391	2006-11-21 00:00:00	2006-11-09 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Canceled	0.0	
+95023	2006112816273	2006-11-21 00:00:00	2006-07-30 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	33.25	Cosmetics	Settled	18.97	Settle
+95027	2006112916365	2006-11-21 00:00:00	2006-11-19 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	399.8	Outdoors Supplies	Settled	199.9	Settle
+95972	2006121517262	2006-12-11 00:00:00	2006-12-05 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	43.3	Cosmetics	Denied	0.0	Deny
+96552	2006122617938	2006-12-21 00:00:00	2006-12-13 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	350.0	Electronics	Denied	0.0	Deny
+99184	2007020220113	2007-02-01 00:00:00	2006-08-08 00:00:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checked Baggage	82.56	Watches & Jewelry	Approved	82.56	Approve in Full
+100733	2007030621929	2007-03-05 00:00:00	2007-02-28 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.0	Other	Canceled	0.0	
+100781	2007030922066	2007-03-05 00:00:00	2007-02-13 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	43.48	Office Supplies	Denied	0.0	Deny
+100896	2007031222095	2007-03-07 00:00:00	2007-01-15 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Denied	0.0	Deny
+101790	2007032723033	2007-03-23 00:00:00	2007-03-07 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	757.75	Electronics	Denied	0.0	Deny
+102373	2007040623564	2007-04-05 00:00:00	2007-03-15 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.5	Tools & Machines	Approved	12.5	Approve in Full
+102576	2007041323970	2007-04-09 00:00:00	2007-03-30 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics,Electronics,Electronics,Other	Denied	0.0	Deny
+103287	2007042624554	2007-04-23 00:00:00	2007-04-15 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	42.0	Clothing & Accessories	Denied	0.0	Deny
+103633	2007050224841	2007-05-01 00:00:00	2007-04-23 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	270.0	Clothing & Accessories	Denied	0.0	Deny
+104922	2007060526261	2007-05-29 00:00:00	2007-04-30 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+104982	2007060626367	2007-05-30 00:00:00	2007-05-19 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry	Denied	0.0	Deny
+105509	2007061226740	2007-06-07 00:00:00	2007-04-17 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
+106233	2007062627503	2007-06-22 00:00:00	2007-06-15 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
+106243	2007062627531	2007-06-22 00:00:00	2007-02-23 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	3500.0	Watches & Jewelry	Denied	0.0	Deny
+106592	2007070627897	2007-06-29 00:00:00	2007-06-23 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	13.0	Clothing & Accessories	Denied	0.0	Deny
+106709	2007071228216	2007-07-02 00:00:00	2007-02-17 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	180.0	Containers,Clothing & Accessories,Cosmetics	Denied	0.0	Deny
+107141	2007071628417	2007-07-11 00:00:00	2007-06-16 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	118.36	Watches & Jewelry	Denied	0.0	Deny
+108010	2004082761476	2007-07-27 00:00:00	2004-07-14 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Theft	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
+109010	2007081530271	2007-08-14 00:00:00	2007-08-08 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Denied	0.0	Deny
+109079	2007081730397	2007-08-15 00:00:00	2007-08-02 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	11.5	Tools & Machines	Denied	0.0	Deny
+109472	2007082330764	2007-08-22 00:00:00	2007-07-30 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
+110488	2007091331804	2007-09-10 00:00:00	2007-07-20 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	320.0	Watches & Jewelry	Settled	160.0	Settle
+111650	2007100533070	2007-10-03 00:00:00	2007-05-07 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint	600.0	Watches & Jewelry	Denied	0.0	Deny
+112101	2007101733551	2007-10-12 00:00:00	2007-10-08 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
+113282	2007110834669	2007-11-05 00:00:00	2007-09-14 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.0	Other	Settled	55.0	Settle
+113480	2007111434881	2007-11-09 00:00:00	2007-11-01 00:00:00	ELP	El Paso International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	99.99	Other	Denied	0.0	Deny
+113977	2007112735547	2007-11-19 00:00:00	2007-11-07 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	23.96	Outdoors Supplies	Denied	0.0	Deny
+114017	2007112335361	2007-11-20 00:00:00	2007-11-01 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Containers	Denied	0.0	Deny
+114371	2007113035758	2007-11-28 00:00:00	2007-11-16 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	149.99	Electronics,Electronics	Denied	0.0	Deny
+115615	2007123137104	2007-12-26 00:00:00	2007-12-15 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	1929.0	Electronics,Clothing & Accessories,Other	Denied	0.0	Deny
+116148	2008011437828	2008-01-07 00:00:00	2007-12-21 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.82	Tools & Machines	Approved	10.82	Approve in Full
+116388	2008011537941	2008-01-08 00:00:00	2007-12-15 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	154.39	Watches & Jewelry	Denied	0.0	Deny
+117045	2008013038837	2008-01-22 00:00:00	2007-12-22 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	5.78	Tools & Machines	Approved	5.78	Approve in Full
+117251	2008012938794	2008-01-24 00:00:00	2007-10-30 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	160.55	Electronics	Denied	0.0	Deny
+117355	2008013138950	2008-01-25 00:00:00	2007-12-21 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	269.0	Watches & Jewelry	Denied	0.0	Deny
+117882	2008013038924	2008-02-05 00:00:00	2008-01-10 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	153.13	Electronics	Denied	0.0	Deny
+120587	2008041042344	2008-04-01 00:00:00	2008-01-23 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	19.99	Tools & Machines	Approved	19.99	Approve in Full
+121501	2008041142467	2008-04-17 00:00:00	2008-03-29 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.48	Tools & Machines	Denied	0.0	Deny
+121650	2008042443326	2008-04-21 00:00:00	2008-04-15 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	20.53	Cosmetics	Denied	0.0	Deny
+122134	2008050543776	2008-04-30 00:00:00	2007-12-18 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	5.0	Watches & Jewelry	Denied	0.0	Deny
+122746	2008052144647	2008-05-13 00:00:00	2007-07-03 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7655.0	Watches & Jewelry	Denied	0.0	Deny
+123006	2008052144623	2008-05-19 00:00:00	2008-05-14 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+123150	2008052744803	2008-05-22 00:00:00	2008-05-16 00:00:00	ELP	El Paso International Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	198.0	Clothing & Accessories	Denied	0.0	Deny
+123370	2008060245084	2008-05-27 00:00:00	2008-03-16 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint	195.0	Electronics,Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+124264	2008063046326	2008-06-16 00:00:00	2008-06-14 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	148.0	Clothing & Accessories	Denied	0.0	Deny
+124514	2008062646235	2008-06-23 00:00:00	2008-05-04 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	942.9	Electronics	Denied	0.0	Deny
+124673	2008070146431	2008-06-25 00:00:00	2008-06-20 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.16	Tools & Machines	Denied	0.0	Deny
+124865	2008071646969	2008-07-01 00:00:00	2008-05-29 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	6.99	Other	Approved	6.99	Approve in Full
+125312	2008071747065	2008-07-10 00:00:00	2008-06-30 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Games & Toys	Denied	0.0	Deny
+127298	2008082549068	2008-08-22 00:00:00	2008-08-12 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	180.74	Cosmetics,Other	Denied	0.0	Deny
+127307	2008082649107	2008-08-22 00:00:00	2008-08-10 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	280.0	Clothing & Accessories,Watches & Jewelry,Other	Denied	0.0	Deny
+128421	2008092250196	2008-09-18 00:00:00	2008-08-29 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
+128507	2008092450325	2008-09-19 00:00:00	2008-09-05 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	10.99	Tools & Machines	Denied	0.0	Deny
+128991	2008100650813	2008-10-02 00:00:00	2008-08-29 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	1566.99	Clothing & Accessories,Other,Watches & Jewelry	Denied	0.0	Deny
+129180	2008101551164	2008-10-07 00:00:00	2008-10-10 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Food & Drink	Denied	0.0	Deny
+130331	2008110652039	2008-11-06 00:00:00	2008-10-30 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage	560.0	Electronics	Denied	0.0	Deny
+132069	2009010554031	2008-12-22 00:00:00	2008-11-21 00:00:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checkpoint	300.0	Electronics	Denied	0.0	Deny
+132759	2009011554611	2009-01-12 00:00:00	2008-12-17 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	87.0	Clothing & Accessories	Denied	0.0	Deny
+133923	2009031756338	2009-02-10 00:00:00	2008-12-15 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	266.3	Electronics	Denied	0.0	Deny
+134591	2009032756998	2009-03-03 00:00:00	2009-02-25 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	874.83	Electronics,Electronics,Outdoors Supplies	Denied	0.0	Deny
+135272	2009040757204	2009-03-19 00:00:00	2009-03-06 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	166.0	Household Items	Denied	0.0	Deny
+135373	2009041157368	2009-03-23 00:00:00	2009-03-12 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	345.0	Electronics	Canceled	0.0	
+137472	2009052259387	2009-05-21 00:00:00	2009-05-19 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	344.11	Clothing & Accessories,Containers	Canceled	0.0	
+137522	2009052759529	2009-05-21 00:00:00	2009-05-12 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	26.41	Tools & Machines	Denied	0.0	Deny
+137758	2009060259769	2009-05-28 00:00:00	2009-02-28 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	111.12	Electronics	Denied	0.0	Deny
+137810	2009060359809	2009-05-29 00:00:00	2009-05-11 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	104.0	Cosmetics	Denied	0.0	Deny
+138589	2009062560626	2009-06-19 00:00:00	2009-05-20 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Denied	0.0	Deny
+138921	2009070960988	2009-06-30 00:00:00	2009-06-13 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	99.0	Electronics	Canceled	0.0	
+140477	2009081162485	2009-08-10 00:00:00	2009-07-17 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.64	Clothing & Accessories	Denied	0.0	Deny
+141085	2009082863085	2009-08-26 00:00:00	2009-07-27 00:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	244.38	Watches & Jewelry	Denied	0.0	Deny
+144997	2010010567105	2009-12-28 00:00:00	2008-12-05 11:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage	150.7	Food & Drink	Denied	0.0	Deny
+145048	2010010567140	2009-12-29 00:00:00	2009-11-22 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Cosmetics,Clothing & Accessories	Denied	0.0	Deny
+145104	2010010667247	2009-12-30 00:00:00	2009-12-16 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Denied	0.0	Deny
+145572	2010021768453	2010-02-01 00:00:00	2010-01-04 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+145680	2010022068603	2010-02-05 00:00:00	2010-01-08 11:00:00	ELP	El Paso International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Other			
+148832	2010052172011	2010-05-19 00:00:00	2010-01-18 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint		Electronics			
+149048	2010060372334	2010-05-25 00:00:00	2010-05-17 22:00:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics			
+150646	2010072674064	2010-07-14 00:00:00	2010-04-16 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
+152574	2010091676057	2010-09-07 00:00:00	2010-05-29 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint		Other		70.0	Approve in Full
+157023	2011022380350	2011-01-28 00:00:00	2010-11-21 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other		72.74	Approve in Full
+158248	2011041182097	2011-03-10 00:00:00	2011-02-22 10:30:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+159088	2011041482509	2011-04-07 00:00:00	2011-04-06 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+162602	2011081686194	2011-08-01 00:00:00	2011-05-17 16:00:00	ELP	El Paso International Airport	British Airways	Passenger Property Loss	Checked Baggage		Cosmetics			
+162607	2011081786208	2011-08-01 00:00:00	2010-12-17 06:20:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry		120.0	Approve in Full
+162922	2011081085886	2011-08-10 00:00:00	2011-07-13 10:30:00	ELP	El Paso International Airport		Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+164192	2011092287113	2011-09-22 00:00:00	2011-08-21 08:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
+164646	2011110288645	2011-10-07 00:00:00	2011-10-03 06:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
+166456	2012010990064	2011-12-12 00:00:00	2011-07-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+166890	2012012690461	2011-12-28 00:00:00	2011-12-16 19:30:00	ELP	El Paso International Airport	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+167065	2012020690706	2012-01-04 00:00:00	2011-12-09 07:45:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
+167934	2012030791599	2012-01-30 00:00:00	2012-01-09 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
+169141	2012041092747	2012-03-12 00:00:00	2011-10-27 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
+169620	2012042593202	2012-03-29 00:00:00	2012-03-26 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+170026	2012050793629	2012-04-13 00:00:00	2012-03-13 03:36:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+170182	2012051493873	2012-04-19 00:00:00	2012-04-13 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Office Supplies		0.0	Deny
+170225	2012052294177	2012-04-20 00:00:00	2012-04-01 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+170345	2012051694049	2012-04-25 00:00:00	2012-04-22 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
+171852	2012071995537	2012-06-18 00:00:00	2012-05-01 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint		Watches & Jewelry		80.0	Approve in Full
+174480	2012110198252	2012-09-19 00:00:00	2012-08-06 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Cosmetics		0.0	Deny
+174688	2012110898461	2012-09-26 00:00:00	2012-09-11 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Other,Other		0.0	Deny
+174737	2012111298593	2012-09-28 00:00:00	2012-09-24 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+175262	2012113098998	2012-10-19 00:00:00	2012-09-28 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		270.3	Settle
+175447	2012121099211	2012-10-25 00:00:00	2012-07-22 10:42:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint		Other		29.99	Approve in Full
+176311	2012112998974	2012-11-29 00:00:00	2012-09-28 06:15:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+176371	2013011499986	2012-12-03 00:00:00	2012-11-20 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+177790	2013020500985	2013-01-28 00:00:00	2013-01-16 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+178959	2013031802621	2013-03-11 00:00:00	2013-02-21 00:00:00	ELP	El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		12.5	Approve in Full
+182318	2013081906062	2013-07-15 00:00:00	2013-05-31 08:45:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
+182384	2013082106143	2013-07-16 00:00:00	2013-07-09 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+182501	2013082606260	2013-07-18 00:00:00	2013-07-12 09:20:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		227.24	Settle
+182706	2013090606629	2013-07-25 00:00:00	2013-05-25 18:55:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint		Other		64.99	Settle
+184526	2013103108430	2013-09-25 00:00:00	2013-08-27 14:30:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		21.54	Approve in Full
+188615	2014031212395	2014-03-10 00:00:00	2014-03-10 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+191180	2014070715014	2014-06-24 00:00:00	2014-06-23 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+191470	2014072215309	2014-07-07 00:00:00	2014-07-06 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
+192067	2014081515920	2014-08-01 00:00:00	2014-06-24 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
+193014	2014092216890	2014-09-05 00:00:00	2014-07-25 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+193457	2014100317340	2014-09-23 00:00:00	2014-05-19 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor			
+193470	2014100317353	2014-09-23 00:00:00	2014-08-31 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+193478	2014100417361	2014-09-22 00:00:00	2014-09-15 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
+197629	2015010719643	2015-01-07 00:00:00	2015-01-03 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
+197633	2015032421455	2015-03-24 00:00:00	2015-03-14 00:00:00	ELP	El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+197639	2015082125006	2015-08-19 00:00:00	2015-06-23 00:00:00	ELP	El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
+197641	2015110526581	2015-10-20 00:00:00	2015-10-19 00:00:00	ELP	El Paso International Airport	Delta Air Lines	Passenger Property Loss			Cosmetics		0.0	Deny
+197642	2015120827374	2015-11-17 00:00:00	2015-11-05 00:00:00	ELP	El Paso International Airport		Passenger Property Loss	Checkpoint		Electronics		37.53	Approve in Full
+206280	2016092333786	2016-09-23 00:00:00	2016-07-29 00:00:00	ELP	El Paso International Airport El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
+206281	2016101934895	2016-09-12 00:00:00	2016-09-05 00:00:00	ELP	El Paso International Airport El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			Insufficient
+206284	2016041830606	2016-03-29 00:00:00	2016-03-27 00:00:00	ELP	El Paso International Airport El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		146.76	Approve in Full
+206286	2016021128849	2016-01-15 00:00:00	2016-01-07 00:00:00	ELP	El Paso International Airport El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Closed:Canceled
+206287	2016030329313	2016-03-03 00:00:00	2016-02-03 00:00:00	ELP	El Paso International Airport El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Household Items		0.0	Deny
+206289	2016042630804	2016-04-06 00:00:00	2016-04-04 18:00:00	ELP	El Paso International Airport El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
+206293	2016092833972	2016-08-01 00:00:00	2016-07-04 00:00:00	ELP	El Paso International Airport El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry			In Review
+206294	2016102735257	2016-09-01 00:00:00	2016-07-20 06:03:00	ELP	El Paso International Airport El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+206295	2016092834078	2016-08-10 00:00:00	2016-07-27 00:00:00	ELP	El Paso International Airport El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Office Supplies			In Review
+206296	2016101834842	2016-09-07 00:00:00	2016-09-02 00:00:00	ELP	El Paso International Airport El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+206297	2016122136123	2016-10-27 00:00:00	2016-09-20 00:00:00	ELP	El Paso International Airport El Paso International Airport	American Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
+206299	2017021037444	2017-01-04 00:00:00	2016-12-02 13:30:00	ELP	El Paso International Airport El Paso International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+206300	2016042630852	2016-04-05 00:00:00	2016-02-23 06:25:00	ELP	El Paso International Airport El Paso International Airport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies		1583.5	Settle
+214500	2017121245898	2017-12-04 00:00:00	2017-12-01 00:00:00	ELP	El Paso International Airport El Paso International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other			Insufficient
+214506	2017103044837	2017-10-16 00:00:00	2017-10-05 00:00:00	ELP	El Paso International Airport El Paso International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Food & Drink			In Review
+214510	2017090842814	2017-07-24 00:00:00	2017-07-20 00:00:00	ELP	El Paso International Airport El Paso International Airport	American Eagle	Passenger Property Loss	Other		Clothing & Accessories			In Review
+214511	2017060540184	2017-04-28 00:00:00	2017-03-29 00:00:00	ELP	El Paso International Airport El Paso International Airport	Qantas Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry		0.0	Deny
