@@ -23,7 +23,7 @@ if __name__ == "__main__":
             SELECT airport_code, COUNT(*) as total_claims
             FROM claim
             WHERE airport_code != ''
-            AND (claim_type = 'Passenger Property Loss' or claim_type = 'Property Loss')
+            AND (claim_type like "%Property Loss%" OR claim_type like "%Theft%")
             GROUP BY airport_code
         ) y
         on x.local_code = y.airport_code
@@ -53,7 +53,7 @@ if __name__ == "__main__":
         try:
             med_close = round(statistics.median(x['close_amount'] for x in results if x['close_amount']), 2)
         except statistics.StatisticsError:
-            med_claim = -1
+            med_close = -1
 
         domestic_passengers = result['domestic_passengers'] or 0
         international_passengers = result['international_passengers'] or 0

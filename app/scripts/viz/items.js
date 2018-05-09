@@ -27,9 +27,15 @@ function changeAirport(airport_data) {
     if (med_claim_amount === -1) {
       d3.select('#median-claim-amount').text('Unknown')
     } else {
-      d3.select('#median-claim-amount').text(`$${(+airport_data.med_claim).toLocaleString(undefined, {minimumFractionDigits: 2})}`)
+      d3.select('#median-claim-amount').text(`$${med_claim_amount.toLocaleString(undefined, {minimumFractionDigits: 2})}`)
     }
-    d3.select('#median-close-amount').text(`$${(+airport_data.med_close).toLocaleString(undefined, {minimumFractionDigits: 2})}`)
+
+    const med_close_amount = +airport_data.med_close
+    if (med_close_amount === -1) {
+      d3.select('#median-close-amount').text('Unknown')
+    } else {
+      d3.select('#median-close-amount').text(`$${med_close_amount.toLocaleString(undefined, {minimumFractionDigits: 2})}`)
+    }
 
     const passengers = +airport_data.domestic_passengers + +airport_data.international_passengers
     if (!passengers) {
