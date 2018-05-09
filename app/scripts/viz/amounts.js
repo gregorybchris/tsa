@@ -62,7 +62,7 @@ function setupAmounts() {
             .attr("transform", "rotate(-90)")
             .attr("y", 0)
             .attr("x", 0 - (height / 2))
-            .attr("dy", "10px")
+            .attr("dy", "22px")
             .attr("class", "scatter-label")
             .style("text-anchor", "middle")
             .text("Close Amount")

@@ -52,20 +52,34 @@ function setupDates() {
             .domain([yMin, yMax])
             .range([height, 0])
 
-        var formatDay = d3.timeFormat("%a %d"),
-            formatWeek = d3.timeFormat("%b %d"),
-            formatMonth = d3.timeFormat("%B"),
-            formatYear = d3.timeFormat("%Y");
+        // let formatDay = d3.timeFormat("%a %d")
+        // let formatWeek = d3.timeFormat("%b %d")
+        // let formatMonth = d3.timeFormat("%B")
+        // let formatYear = d3.timeFormat("%Y")
+
+        let formatDay = d3.timeFormat("%m-%d-%y")
+        let formatWeek = d3.timeFormat("%m-%d-%y")
+        let formatMonth = d3.timeFormat("%m-%y")
+        let formatYear = d3.timeFormat("%Y")
 
         // Define filter conditions
         function tickFormat(date) {
-          return (d3.timeMonth(date) < date ? (d3.timeWeek(date) < date ? formatDay : formatWeek)
-            : d3.timeYear(date) < date ? formatMonth
-            : formatYear)(date);
+            if (d3.timeMonth(date) < date) {
+                if (d3.timeWeek(date) < date)
+                    return formatDay(date)
+                else
+                    return formatWeek(date)
+            }
+            else {
+                if (d3.timeYear(date) < date)
+                    return formatMonth(date)
+                else
+                    return formatYear(date)
+            }
         }
 
         let xAxis = d3.axisBottom(xScale)
-            .ticks(5, "s")
+            .ticks(3, "s")
             .tickSize(-width)
             .tickFormat(tickFormat)
 
@@ -76,9 +90,6 @@ function setupDates() {
         let gX = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + (margin.top + height) + ")")
             .call(xAxis)
-
-        gX.selectAll("text")
-            .attr("transform", "rotate(-65)");
 
         let gY = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")")

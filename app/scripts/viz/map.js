@@ -5,7 +5,7 @@ function setupMap() {
     let height = +svg.attr("height")
 
     let projection = d3.geoAlbersUsa()
-        .scale(1000)
+        .scale(900)
         .translate([width / 2, height / 2])
 
     let path = d3.geoPath()

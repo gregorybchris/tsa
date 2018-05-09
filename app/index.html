@@ -17,19 +17,12 @@
 		</div>
 		<div class="content">
 			<div class="about-section">
-				<span class="about-section-title">About this Visualization</span>
+				<span class="about-section-title">About this Project</span>
 				<span class="about-section-text">The Transportation Security Administration
 					is an agency of the U.S. Department of Homeland Security, created in response to 9/11.
 					In the years since 2001 the organization hasn't exactly fostered an outstanding reputation.
 					Privacy and efficiency concerns have been abundant, but the most concerning accusations are
 					those of theft.</span>
-				<span class="about-section-text">
-					Nearly<a class="text-link" target="_blank" href="https://www.wcpo.com/news/local-news/400-tsa-employees-fired-for-stealing-from-passengers-from-2002-to-2011">
-					400 TSA agents</a> have been fired for alleged theft over the years and the reports of lost
-					posessions have not stopped. The TSA publishes every passenger claim on their
-					<a href="https://www.dhs.gov/tsa-claims-data" target="_blank" class="text-link">public website</a>.
-					This page looks at that claims data to determine how much theft there really is.</span>
-
 			</div>
 
 			<div class="video-section">
@@ -37,6 +30,15 @@
 					src="https://www.youtube.com/embed/nCtE0UOVoR0"
 					frameborder="0" allow="autoplay; encrypted-media"
 					allowfullscreen></iframe>
+			</div>
+
+			<div class="about-section">
+				<span class="about-section-text">
+					Nearly<a class="text-link" target="_blank" href="https://www.wcpo.com/news/local-news/400-tsa-employees-fired-for-stealing-from-passengers-from-2002-to-2011">
+					400 TSA agents</a> have been fired for alleged theft over the years and the reports of lost
+					posessions have not stopped. The TSA publishes every passenger claim on their
+					<a href="https://www.dhs.gov/tsa-claims-data" target="_blank" class="text-link">public website</a>.
+					This page looks at that claims data to determine how much theft there really is.</span>
 			</div>
 
 			<div class="viz-section" id="disposition-section">
@@ -48,6 +50,18 @@
 			</div>
 
 			<div class="about-section">
+				<span class="about-section-title">Where and How?</span>
+				<span class="about-section-text">Although the TSA keeps claims on all types of issues. There are two places
+					most of the issues take place, at the TSA checkpoints and at checked baggage, those places where TSA
+				 	agents have the most control of personal possessions. There are two types of things people report more than
+					all others. That's lost (or stolen) or damaged property.</span>
+			</div>
+
+			<div class="viz-section" id="sites-section">
+				<svg class="no-select" id="sites-svg" width="1000" height="500"></svg>
+			</div>
+
+			<div class="about-section">
 				<span class="about-section-title">Interactive Visualization</span>
 				<span class="about-section-text">Try out this demo by looking at airports that interest you!</span>
 			</div>
@@ -55,7 +69,7 @@
 			<div class="viz-section" id="interactive-section">
 				<div id="interactive-row-1">
 					<div id="map-section">
-						<svg class="no-select" id="map-svg" width="800" height="500"></svg>
+						<svg class="no-select" id="map-svg" width="700" height="500"></svg>
 						<div class="map-buttons-wrap">
 							<input id="map-total-claims-button" type="button" value="Total Claims" class="button selected"/>
 							<input id="map-median-claim-button" type="button" value="Median Claim Amount" class="button"/>
@@ -65,7 +79,7 @@
 					</div>
 
 					<div id="items-section">
-						<svg class="no-select" id="items-svg" width="800" height="500"></svg>
+						<svg class="no-select" id="items-svg" width="600" height="500"></svg>
 					</div>
 				</div>
 
@@ -93,12 +107,14 @@
 		</div>
 
 		<script src="scripts/viz/items.js"></script>
+		<script src="scripts/viz/sites.js"></script>
 		<script src="scripts/viz/dispositions.js"></script>
 		<script src="scripts/viz/map.js"></script>
 		<script src="scripts/viz/amounts.js"></script>
 		<script src="scripts/viz/dates.js"></script>
 		<script>
 			setupDispositions()
+			setupSites()
 			setupMap()
 			setupItems()
 			setupAmounts()
