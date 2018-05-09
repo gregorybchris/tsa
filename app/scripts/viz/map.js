@@ -74,6 +74,7 @@ function setupMap() {
           if (airportSelected) {
             airportSelected = false
             changeAirport(undefined)
+            setupDates(undefined)
             svg.classed('clickable-state', false)
             d3.selectAll(".map-airport-indicator")
               .attr("selected", false)
@@ -113,6 +114,7 @@ function setupMap() {
                 if (wasSelected) {
                   airportSelected = false
                   changeAirport(undefined)
+                  setupDates(undefined)
                   d3.selectAll(".map-airport-indicator")
                     .transition()
                     .duration(300)
@@ -120,6 +122,7 @@ function setupMap() {
                 } else {
                   airportSelected = true
                   changeAirport(d)
+                  setupDates(d.airport_code)
                   d3.selectAll(".map-airport-indicator")
                     .transition()
                     .duration(300)

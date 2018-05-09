@@ -72,6 +72,7 @@
 
 						<div id="claim-section">
 							<span class="claim-section-title">Claim Data</span>
+							<div id="claim-empty-message">Select an airport to get started!</div>
 							<div id="claim-section-columns">
 								<div id="claim-section-col1">
 									<div class="claim-feature">
@@ -103,7 +104,6 @@
 									</div>
 								</div>
 							</div>
-							<div id="claim-empty-message">Select a claim in the scatterplot to view more data</div>
 						</div>
 					</div>
 
@@ -143,20 +143,14 @@
 						</div>
 					</div>
 				</div>
-
-				<div id="interactive-row-2">
-					<div id="dates-section">
-						<svg id="dates-svg" width="400" height="400"></svg>
-					</div>
-				</div>
 			</div>
 			</div>
 		</div>
 
 		<script src="scripts/viz/items.js"></script>
+		<script src="scripts/viz/dates.js"></script>
 		<script src="scripts/viz/dispositions.js"></script>
 		<script src="scripts/viz/map.js"></script>
-		<script src="scripts/viz/dates.js"></script>
 		<script>
 			setupDispositions()
 			setupMap()
