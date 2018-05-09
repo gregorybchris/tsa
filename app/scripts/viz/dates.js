@@ -193,7 +193,7 @@ function setupDates(airport_code) {
                     d3.select("#claim-close-amount-text").html('')
                     d3.select("#claim-disposition-text").html('')
                     d3.select("#claim-empty-message")
-                        .html('Select an claim from the scatter plot')
+                        .html('Select a claim from the scatter plot')
                         .style('opacity', 1)
                       svg.selectAll('circle')
 
