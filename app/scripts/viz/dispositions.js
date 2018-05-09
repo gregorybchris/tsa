@@ -71,12 +71,6 @@ function setupDispositions() {
       .attr("font-family", "sans-serif")
       .style("font-size", 14)
 
-    let claim_value = values.append("text")
-      .attr("x", width - 160)
-      .attr("y", 40)
-      .attr("dy", "0.4em")
-      .style("font-weight", "bold")
-
       svg.append("text")
           .attr("transform", "rotate(-90)")
           .attr("y", 30)
@@ -184,7 +178,7 @@ function setupDispositions() {
 
     legend.append("rect")
         .attr("x", width - 50)
-        .attr("y", 65)
+        .attr("y", 20)
         .attr("width", 30)
         .attr("height", 30)
         .style("fill", (_, i) => COLORS[i])
@@ -192,9 +186,15 @@ function setupDispositions() {
 
     labels = legend.append("text")
         .attr("x", width - 60)
-        .attr("y", 80)
+        .attr("y", 35)
         .attr("dy", "0.4em")
         .text(d => d)
+
+    let claim_value = values.append("text")
+      .attr("x", width - 160)
+      .attr("y", 150)
+      .attr("dy", "0.4em")
+      .style("font-style", "italic")
 
     function showByPercentage() {
       if (showingPercentage) {

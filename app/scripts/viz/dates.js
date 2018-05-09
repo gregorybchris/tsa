@@ -224,24 +224,31 @@ function setupDates(airport_code) {
 
         } else {
           function zoomed() {
-            console.log('here')
-              let newXScale = d3.event.transform.rescaleX(xScale)
-              let newYScale = d3.event.transform.rescaleY(yScale)
-              gX.call(xAxis.scale(newXScale))
-              gY.call(yAxis.scale(newYScale))
-              circlesGroup.selectAll("circle")
-                  .attr("cx", (_, i) => claims[i] && newXScale(claims[i].incidentDate))
-                  .attr("cy", (_, i) => claims[i] && newYScale(claims[i].closeAmount))
+            var t = d3.event.transform;
+
+            svg.select(".zoomable-rect").node().__zoom = t
+            circlesGroup.node().__zoom = t
+
+            let newXScale = d3.event.transform.rescaleX(xScale)
+            let newYScale = d3.event.transform.rescaleY(yScale)
+            gX.call(xAxis.scale(newXScale))
+            gY.call(yAxis.scale(newYScale))
+            circlesGroup.selectAll("circle")
+                .attr("cx", d => newXScale(d.incidentDate))
+                .attr("cy", d => newYScale(d.closeAmount))
           }
 
           let zoom = d3.zoom()
               // .scaleExtent([.5, 20])
-              .extent([[0, 0], [width, height]])
+              //.extent([[0, 0], [width, height]])
               .on("zoom", zoomed);
 
-          svg.select(".zoomable-rect").call(zoom)
 
           circlesGroup = svg.select(".circles-group")
+
+          svg.select(".zoomable-rect").call(zoom)
+          circlesGroup.call(zoom)
+
           let points = circlesGroup.selectAll("circle")
                     .data(claims)
                     .enter()
