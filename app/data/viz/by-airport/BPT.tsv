@@ -1,10 +1,10 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-76607	2005121497855	2005-12-06 00:00:00	2005-11-28 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	7.0	Containers	Approved	7.0	Approve in Full
-95134	2006120116572	2006-11-24 00:00:00	2006-11-13 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	123.66	Cosmetics	Denied	0.0	Deny
-104368	2007051825607	2007-05-16 00:00:00	2007-03-06 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1400.25	Electronics,Electronics,Other	Denied	0.0	Deny
-107488	2007072028806	2007-07-18 00:00:00	2007-06-18 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	59.11	Clothing & Accessories	Approved	59.11	Approve in Full
-108269	2007080829805	2007-07-31 00:00:00	2007-07-03 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	2120.23	Cosmetics,Watches & Jewelry,Watches & Jewelry	Settled	947.5	Settle
-114515	2007120436010	2007-11-30 00:00:00	2007-10-26 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	375.0	Electronics	Denied	0.0	Deny
-149513	2010061872785	2010-06-10 00:00:00	2010-05-30 07:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-179707	2013050203463	2013-04-08 00:00:00	2013-04-01 00:00:00	BPT	Southeast Texas Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-194690	2014112518600	2014-11-12 00:00:00	2014-10-22 00:00:00	BPT	Southeast Texas Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+76607	2005121497855	2005-12-06 00:00:00	2005-11-28 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	7.0	Containers	Luggage (all types including footlockers)	Approved	7.0	Approve in Full
+95134	2006120116572	2006-11-24 00:00:00	2006-11-13 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	123.66	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+104368	2007051825607	2007-05-16 00:00:00	2007-03-06 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1400.25	Electronics,Electronics,Other	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Denied	0.0	Deny
+107488	2007072028806	2007-07-18 00:00:00	2007-06-18 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	59.11	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	59.11	Approve in Full
+108269	2007080829805	2007-07-31 00:00:00	2007-07-03 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	2120.23	Cosmetics,Watches & Jewelry,Watches & Jewelry	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume*Jewelry - Fine	Settled	947.5	Settle
+114515	2007120436010	2007-11-30 00:00:00	2007-10-26 00:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	375.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+149513	2010061872785	2010-06-10 00:00:00	2010-05-30 07:00:00	BPT	Southeast Texas Regional	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+179707	2013050203463	2013-04-08 00:00:00	2013-04-01 00:00:00	BPT	Southeast Texas Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+194690	2014112518600	2014-11-12 00:00:00	2014-10-22 00:00:00	BPT	Southeast Texas Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny

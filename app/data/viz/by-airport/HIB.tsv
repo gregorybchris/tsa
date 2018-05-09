@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-73744	2005101994857	2005-10-13 00:00:00	2005-09-26 00:00:00	HIB	Chisolm-Hibbing Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	2125.32	Electronics	Denied	0.0	Deny
-128211	2008091650031	2008-09-12 00:00:00	2008-04-19 00:00:00	HIB	Chisolm-Hibbing Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	394.0	Other	Denied	0.0	Deny
-192639	2014091116508	2014-08-19 00:00:00	2014-07-31 00:00:00	HIB	Chisolm-Hibbing Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Food & Drink,Food & Drink		0.0	Deny
-207018	2016052331594	2016-05-09 00:00:00	2016-04-29 00:00:00	HIB	Chisolm-Hibbing Municipal Chisolm-Hibbing Municipal		Passenger Property Loss	Checked Baggage		Cosmetics		40.0	Approve in Full
-215251	2017061340554	2017-06-13 00:00:00	2017-03-27 00:00:00	HIB	Chisolm-Hibbing Municipal Chisolm-Hibbing Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Food & Drink			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+73744	2005101994857	2005-10-13 00:00:00	2005-09-26 00:00:00	HIB	Chisolm-Hibbing Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	2125.32	Electronics	Computer - Laptop	Denied	0.0	Deny
+128211	2008091650031	2008-09-12 00:00:00	2008-04-19 00:00:00	HIB	Chisolm-Hibbing Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	394.0	Other	Other	Denied	0.0	Deny
+192639	2014091116508	2014-08-19 00:00:00	2014-07-31 00:00:00	HIB	Chisolm-Hibbing Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Food & Drink,Food & Drink	Cosmetics & Grooming*Cosmetics & Grooming*Food & Drink*Food & Drink		0.0	Deny
+207018	2016052331594	2016-05-09 00:00:00	2016-04-29 00:00:00	HIB	Chisolm-Hibbing Municipal Chisolm-Hibbing Municipal		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		40.0	Approve in Full
+215251	2017061340554	2017-06-13 00:00:00	2017-03-27 00:00:00	HIB	Chisolm-Hibbing Municipal Chisolm-Hibbing Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Food & Drink	Baggage/Cases/Purses*Clothing*Food & Drink			In Review

@@ -1,370 +1,370 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-2371	0210000L	2003-02-10 00:00:00	2003-01-02 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	213.28	Clothing & Accessories	Denied	0.0	Deny
-22047	2004072660027	2003-12-05 00:00:00	2003-09-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Settled	30.0	Settle
-22658	1217460M	2003-12-17 00:00:00	2003-10-19 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1840.25	Watches & Jewelry	Approved	1840.25	Approve in Full
-23274	1222259M	2003-12-22 00:00:00	2003-11-24 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	89.65	Clothing & Accessories	Approved	0.0	Approve in Full
-25195	0114668M	2004-01-14 00:00:00	2003-12-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	350.0	Cosmetics	Settled	175.0	Settle
-28911	0226151M	2004-02-26 00:00:00	2003-12-16 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	275.21	Other	Denied	0.0	Deny
-29377	2004052653495	2004-03-05 00:00:00	2004-02-25 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	59.0	Other	Canceled		
-29956	2004051050855	2004-03-11 00:00:00	2004-01-04 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
-33082	2004052753703	2004-04-21 00:00:00	2004-01-10 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	1395.0	Other	Denied	1395.0	Deny
-33176	2004060354514	2004-04-21 00:00:00	2003-04-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	220.0	Other	Denied	0.0	Deny
-33304	2004052853797	2004-04-21 00:00:00	2004-03-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	388.58	Electronics	Settled	194.29	Settle
-34811	2004060955170	2004-05-10 00:00:00	2004-04-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.99	Other	Approved	8.99	Approve in Full
-35170	2004061756068	2004-05-13 00:00:00	2004-04-07 00:00:00	DAL	Dallas Love Field	America West	Passenger Property Loss	Checked Baggage	11.96	Cosmetics	Approved	11.96	Approve in Full
-35356	2004061656015	2004-05-13 00:00:00	2004-05-04 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	40.0	Other	Settled	20.0	Settle
-35360	2004061756078	2004-05-13 00:00:00	2004-04-28 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	21.44	Other	Settled	11.0	Settle
-35547	2004061856289	2004-05-19 00:00:00	2004-04-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Supplies	Approved	300.0	Approve in Full
-37810	2004070158165	2004-06-16 00:00:00	2004-05-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Electronics	Approved	125.0	Approve in Full
-39448	2004072059832	2004-07-07 00:00:00	2004-06-25 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Settled	80.0	Settle
-39485	2004072760045	2004-07-09 00:00:00	2004-06-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Approved	175.0	Approve in Full
-40575	2004072860150	2004-07-20 00:00:00	2004-07-11 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	340.0	Clothing & Accessories	Denied	0.0	Deny
-41418	2004091562878	2004-08-03 00:00:00	2004-07-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.46	Clothing & Accessories	Approved	32.46	Approve in Full
-41802	2004090362115	2004-08-05 00:00:00	2004-07-22 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	662.94	Other	Denied		Deny
-41930	2004090962429	2004-08-05 00:00:00	2004-07-12 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	289.99	Electronics	Settled	189.95	Settle
-42190	2004091562998	2004-08-10 00:00:00	2004-07-22 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.0	Other	Approved	8.0	Approve in Full
-42274	2004110966819	2004-08-10 00:00:00	2004-07-29 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Canceled	0.0	
-42814	2004092864109	2004-08-19 00:00:00	2004-08-08 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	138.0	Watches & Jewelry	Canceled		
-42876	2004100464340	2004-08-19 00:00:00	2004-08-04 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	84.8	Other	Denied	0.0	Deny
-42943	2004100464351	2004-08-19 00:00:00	2004-07-29 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	200.0	Outdoors Supplies	Settled	180.0	Settle
-43024	2004092463862	2004-08-24 00:00:00	2004-08-13 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	196.38	Clothing & Accessories	Approved	196.38	Approve in Full
-43850	2004091562946	2004-09-01 00:00:00	2004-06-20 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Theft	Checked Baggage	50.0	Watches & Jewelry	Approved	50.0	Approve in Full
-43946	2004100664627	2004-09-01 00:00:00	2004-08-19 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	267.38	Cosmetics	Settled	133.69	Settle
-44329	2004110266128	2004-09-09 00:00:00	2004-08-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	92.01	Other	Denied	92.01	Deny
-44674	2004092964132	2004-09-13 00:00:00	2004-09-01 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Theft	Checked Baggage	200.0	Clothing & Accessories	Canceled	0.0	
-44696	2004092763956	2004-09-13 00:00:00	2004-07-11 00:00:00	DAL	Dallas Love Field		Passenger Theft	Checked Baggage	75.0	Watches & Jewelry	Settled	37.5	Settle
-44740	2004092363716	2004-09-14 00:00:00	2004-08-17 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Approved	13.05	Approve in Full
-45164	2004102065332	2004-09-17 00:00:00	2004-08-26 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	367.11	Other	Approved	367.11	Approve in Full
-45338	2004101965127	2004-09-20 00:00:00	2004-09-01 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	199.0	Electronics	Approved	199.0	Approve in Full
-45523	2004111566995	2004-09-21 00:00:00	2004-08-03 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	102.0	Clothing & Accessories	Denied	0.0	Deny
-45847	2004110566466	2004-09-23 00:00:00	2003-11-03 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	2769.0	Watches & Jewelry	Settled	884.5	Settle
-45885	2004102565667	2004-09-27 00:00:00	2004-09-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
-46144	2004110366240	2004-09-29 00:00:00	2004-09-16 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	20.95	Tools & Machines	Approved	20.95	Approve in Full
-46266	2004111266873	2004-09-29 00:00:00	2004-07-29 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint	2685.99	Other	Denied		Deny
-46352	2004111567000	2004-09-29 00:00:00	2004-03-05 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Settled	150.0	Settle
-46718	2004111767285	2004-10-05 00:00:00	2004-09-24 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	847.95	Other	Denied		Deny
-46747	2004111967419	2004-10-05 00:00:00	2004-09-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
-46804	2004111767294	2004-10-05 00:00:00	2004-09-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	485.0	Other	Settled	242.5	Settle
-47379	2004113068077	2004-10-14 00:00:00	2004-09-17 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
-49593	2004122169838	2004-11-09 00:00:00	2004-10-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
-49900	2004122871155	2004-11-15 00:00:00	2004-11-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.5	Clothing & Accessories	Approved	40.5	Approve in Full
-50074	2004122370775	2004-11-16 00:00:00	2004-11-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.27	Other	Approved	16.27	Approve in Full
-50774	2004122871231	2004-11-26 00:00:00	2004-10-14 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
-51695	2005010372255	2004-12-10 00:00:00	2004-09-11 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	236.64	Other	Denied	0.0	Deny
-51752	2005010372299	2004-12-10 00:00:00	2004-10-09 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	600.0	Other	Settled	361.28	Settle
-51755	2005010472450	2004-12-10 00:00:00	2004-11-02 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Settled	250.0	Settle
-52282	2005010572784	2004-12-16 00:00:00	2004-09-25 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	129.26	Clothing & Accessories	Settled	86.38	Settle
-52813	2005011173454	2004-12-22 00:00:00	2004-11-19 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	1800.0	Other	Denied	0.0	Deny
-53017	2005011973816	2004-12-28 00:00:00	2004-12-19 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Approved	12.0	Approve in Full
-53665	2005012474134	2005-01-05 00:00:00	2004-11-03 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	85.0	Settle
-54078	2005020275436	2005-01-11 00:00:00	2004-10-28 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	287.0	Clothing & Accessories	Approved	287.0	Approve in Full
-54482	2005013175014	2005-01-14 00:00:00	2004-12-17 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	50.0	Electronics	Approved	50.0	Approve in Full
-54501	2005013175068	2005-01-14 00:00:00	2004-09-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	88.59	Clothing & Accessories	Approved	88.59	Approve in Full
-55670	2005021676177	2005-01-26 00:00:00	2005-01-10 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	436.54	Other	Settled	105.0	Settle
-56031	2005030777055	2005-02-01 00:00:00	2005-01-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	94.77	Other	Approved	94.77	Approve in Full
-56212	2005031177758	2005-02-01 00:00:00	2005-01-03 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	119.0	Other	Denied	0.0	Deny
-56576	2005031077552	2005-02-07 00:00:00	2005-01-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	121.0	Clothing & Accessories	Approved	121.0	Approve in Full
-56646	2005031077469	2005-02-07 00:00:00	2005-01-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	505.0	Other	Settled	245.0	Settle
-57327	2005031578316	2005-02-16 00:00:00	2004-12-22 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	77.94	Watches & Jewelry	Approved	77.94	Approve in Full
-58309	2005032379460	2005-03-04 00:00:00	2003-08-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	410.0	Watches & Jewelry	Canceled	0.0	
-59031	2005032579925	2005-03-09 00:00:00	2005-02-25 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	7000.0	Watches & Jewelry	Denied	0.0	Deny
-60694	2005040681684	2005-04-04 00:00:00	2005-03-14 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.5	Tools & Machines	Approved	11.5	Approve in Full
-61589	2005041382508	2005-04-12 00:00:00	2004-07-06 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	699.0	Electronics	Denied	0.0	Deny
-62096	2005042183020	2005-04-19 00:00:00	2005-03-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Denied	0.0	Deny
-62140	2005042183038	2005-04-19 00:00:00	2005-03-30 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-62300	2005042583311	2005-04-22 00:00:00	2005-04-15 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	45.0	Cosmetics	Approved	45.0	Approve in Full
-62557	2005042783455	2005-04-26 00:00:00	2005-04-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Canceled	0.0	
-63789	2005051884995	2005-05-12 00:00:00	2005-04-24 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Denied	0.0	Deny
-64351	2005052085234	2005-05-19 00:00:00	2005-05-08 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	618.0	Electronics	Denied	0.0	Deny
-64489	2005052485413	2005-05-23 00:00:00	2005-05-05 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	115.45	Other	Approved	115.45	Approve in Full
-66118	2005062987694	2005-06-14 00:00:00	2005-05-21 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
-66633	2005062887491	2005-06-21 00:00:00	2005-06-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1462.36	Electronics	Denied	0.0	Deny
-69235	2005081090330	2005-08-01 00:00:00	2005-07-13 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	250.0	Cosmetics	Settled	125.0	Settle
-70894	2005090191999	2005-08-26 00:00:00	2005-03-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	215.22	Watches & Jewelry	Approved	215.22	Approve in Full
-72340	2005092993403	2005-09-19 00:00:00	2005-08-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.98	Supplies	Settled	63.49	Settle
-73585	2005101794729	2005-10-12 00:00:00	2005-10-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	38.88	Tools & Machines	Approved	38.88	Approve in Full
-74464	2005110395543	2005-10-25 00:00:00	2004-12-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	308.2	Other	Settled	217.49	Settle
-76297	2005120897297	2005-11-29 00:00:00	2005-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	49.95	Other	Settled	25.0	Settle
-76371	2005120997430	2005-12-01 00:00:00	2005-02-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	2250.0	Watches & Jewelry	Denied	0.0	Deny
-77450	2006010398593	2005-12-22 00:00:00	2005-12-15 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	6.4	Tools & Machines	Approved	6.4	Approve in Full
-78308	2006011399570	2006-01-09 00:00:00	2005-11-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	484.6	Watches & Jewelry	Approved	484.6	Approve in Full
-80651	2006022201887	2006-02-14 00:00:00	2006-01-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	160.0	Other	Approved	160.0	Approve in Full
-80903	2006022302031	2006-02-17 00:00:00	2006-01-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	5528.87	Watches & Jewelry	Denied	0.0	Deny
-81364	2006030602592	2006-02-28 00:00:00	2005-12-13 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-83517	2006041804699	2006-04-07 00:00:00	2006-03-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	150.0	Other	Denied	0.0	Deny
-84411	2006050305653	2006-04-26 00:00:00	2006-04-12 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Tools & Machines	Denied	0.0	Deny
-86409	2006061307858	2006-06-06 00:00:00	2006-05-15 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-86718	2006061407968	2006-06-13 00:00:00	2006-06-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	199.0	Electronics	Denied	0.0	Deny
-87083	2006062008275	2006-06-20 00:00:00	2006-06-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2800.0	Tools & Machines	Denied	0.0	Deny
-87743	2006070508968	2006-07-03 00:00:00	2006-06-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	366.82	Cosmetics	Settled	346.82	Settle
-87787	2006070609046	2006-07-05 00:00:00	2006-06-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	3169.09	Clothing & Accessories,Cosmetics,Tools & Machines	Denied	0.0	Deny
-87832	2006070709128	2006-07-06 00:00:00	2006-06-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	794.54	Watches & Jewelry	Approved	794.54	Approve in Full
-88439	2006071909726	2006-07-17 00:00:00	2006-07-06 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Approved	24.0	Approve in Full
-88794	2006072510019	2006-07-24 00:00:00	2006-04-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	219.09	Other	Approved	219.09	Approve in Full
-90196	2006082411518	2006-08-21 00:00:00	2006-05-12 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	35.0	Electronics	Approved	35.0	Approve in Full
-90355	2006082811663	2006-08-22 00:00:00	2006-08-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	612.95	Electronics,Electronics	Denied	0.0	Deny
-92125	2006092813442	2006-09-25 00:00:00	2006-08-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
-92779	2006101714089	2006-10-10 00:00:00	2006-10-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Denied	0.0	Deny
-92910	2006101914180	2006-10-12 00:00:00	2006-09-12 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage	39.99	Electronics	Approved	39.99	Approve in Full
-92997	2006102614556	2006-10-12 00:00:00	2006-10-05 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage	180.0	Tools & Machines,Supplies	Settled	151.5	Settle
-94360	2006111515655	2006-11-09 00:00:00	2006-10-19 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	12.45	Tools & Machines	Approved	12.45	Approve in Full
-96060	2006122117601	2006-12-12 00:00:00	2006-11-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.0	Clothing & Accessories	Canceled	0.0	
-96105	2006121917386	2006-12-12 00:00:00	2006-10-12 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage	619.94	Other	Denied	0.0	Deny
-96857	2007010318221	2006-12-28 00:00:00	2006-12-20 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	300.0	Other	Canceled	0.0	
-96891	2007010318228	2006-12-29 00:00:00	2006-12-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	96.78	Supplies	Approved	96.78	Approve in Full
-99094	2007020920595	2007-01-30 00:00:00	2006-12-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other,Containers	Denied	0.0	Deny
-99533	2007020920574	2007-02-07 00:00:00	2007-01-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Other	Denied	0.0	Deny
-100154	2007022121268	2007-02-20 00:00:00	2007-02-07 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	356.0	Electronics	Settled	347.2	Settle
-100279	2007022321472	2007-02-22 00:00:00	2006-12-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	127.74	Containers	Denied	0.0	Deny
-102664	2007041123719	2007-04-11 00:00:00	2007-03-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.65	Tools & Machines	Approved	8.65	Approve in Full
-102719	2007041624010	2007-04-11 00:00:00	2007-04-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	149.99	Other	Denied	0.0	Deny
-102810	2007041724083	2007-04-13 00:00:00	2007-04-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	457.01	Watches & Jewelry,Other	Approved	457.01	Approve in Full
-103070	2007041924255	2007-04-19 00:00:00	2007-04-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.11	Electronics	Approved	16.11	Approve in Full
-103871	2007050925185	2007-05-07 00:00:00	2007-04-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Canceled	0.0	
-104033	2007051525389	2007-05-09 00:00:00	2007-05-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	487.0	Electronics	Denied	0.0	Deny
-106299	2007062927670	2007-06-25 00:00:00	2007-05-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	1185.25	Watches & Jewelry	Canceled	0.0	
-106521	2007070327837	2007-06-28 00:00:00	2007-04-21 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	58.0	Clothing & Accessories	Denied	0.0	Deny
-108679	2007080930011	2007-08-07 00:00:00	2007-07-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
-109713	2007082730937	2007-08-27 00:00:00	2007-08-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	47.0	Other	Denied	0.0	Deny
-110093	2007090631434	2007-09-04 00:00:00	2007-07-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	236.0	Cosmetics	Denied	0.0	Deny
-111121	2007092632614	2007-09-21 00:00:00	2007-08-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	449.99	Electronics	Denied	0.0	Deny
-112798	2007110234277	2007-10-26 00:00:00	2007-10-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Outdoors Supplies	Denied	0.0	Deny
-114004	2007120636097	2007-11-20 00:00:00	2007-11-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	259.0	Clothing & Accessories	Approved	259.0	Approve in Full
-114157	2007112735505	2007-11-26 00:00:00	2007-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	350.62	Electronics	Denied	0.0	Deny
-114480	2007120536042	2007-11-30 00:00:00	2007-04-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Other,Other	Canceled	0.0	
-117396	2008013038807	2008-01-25 00:00:00	2008-01-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	457.0	Watches & Jewelry	Settled	421.0	Settle
-118068	2008022039823	2008-02-08 00:00:00	2008-01-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	69.95	Other	Denied	0.0	Deny
-119150	2008031140745	2008-03-03 00:00:00	2008-02-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Household Decor,Clothing & Accessories,Other	Denied	0.0	Deny
-119378	2008031441072	2008-03-07 00:00:00	2008-02-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.9	Electronics,Tools & Machines	Denied	0.0	Deny
-119426	2008031040705	2008-03-10 00:00:00	2007-11-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1109.06	Electronics	Denied	0.0	Deny
-119585	2008031841214	2008-03-12 00:00:00	2008-02-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	634.97	Other	Denied	0.0	Deny
-120082	2008040341779	2008-03-21 00:00:00	2008-03-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	54.13	Clothing & Accessories	Denied	0.0	Deny
-120244	2008040741949	2008-03-25 00:00:00	2008-02-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	484.14	Electronics	Denied	0.0	Deny
-122900	2008052044571	2008-05-19 00:00:00	2008-04-22 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	45.0	Other	Approved	45.0	Approve in Full
-123088	2008052244702	2008-05-21 00:00:00	2008-05-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	454.0	Other,Outdoors Supplies	Denied	0.0	Deny
-123778	2008032741481	2008-06-05 00:00:00	2008-02-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1997.0	Other	Denied	0.0	Deny
-124015	2008061645696	2008-06-10 00:00:00	2008-06-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.63	Tools & Machines	Denied	0.0	Deny
-124324	2008062346035	2008-06-17 00:00:00	2008-06-07 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	7000.0	Watches & Jewelry	Denied	0.0	Deny
-124797	2008070946651	2008-06-27 00:00:00	2008-06-22 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Cosmetics	Denied	0.0	Deny
-125138	2008071546947	2008-07-07 00:00:00	2008-01-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	19.48	Cosmetics	Denied	0.0	Deny
-125833	2008072947587	2008-07-22 00:00:00	2008-07-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.22	Other	Denied	0.0	Deny
-125874	2008073147760	2008-07-23 00:00:00	2008-06-22 00:00:00	DAL	Dallas Love Field	USAir	Passenger Property Loss	Checked Baggage	21.45	Tools & Machines	Approved	21.45	Approve in Full
-125914	2008073147757	2008-07-23 00:00:00	2008-05-18 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	21.45	Tools & Machines	Denied	0.0	Deny
-125915	2008073147763	2008-07-23 00:00:00	2008-02-05 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	21.45	Tools & Machines	Denied	0.0	Deny
-126228	2008080548018	2008-07-30 00:00:00	2008-03-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	225.0	Electronics	Denied	0.0	Deny
-126802	2008081948773	2008-08-11 00:00:00	2008-07-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	86.53	Other,Cosmetics,Tools & Machines	Denied	0.0	Deny
-126885	2008081848726	2008-08-13 00:00:00	2008-07-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Denied	0.0	Deny
-126923	2008081848706	2008-08-14 00:00:00	2008-08-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2400.0	Clothing & Accessories,Electronics	Denied	0.0	Deny
-127378	2008082749208	2008-08-25 00:00:00	2008-08-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Electronics,Electronics	Denied	0.0	Deny
-127572	2008090249331	2008-08-28 00:00:00	2008-07-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	410.31	Electronics,Other	Denied	0.0	Deny
-130441	2008111752294	2008-11-10 00:00:00	2008-10-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	1782.55	Electronics	Denied	0.0	Deny
-130907	2008112852878	2008-11-20 00:00:00	2008-10-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	555.0	Other	Denied	0.0	Deny
-131566	2008121553389	2008-12-10 00:00:00	2008-11-26 00:00:00	DAL	Dallas Love Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Approved	200.0	Approve in Full
-132415	2009010954319	2009-01-05 00:00:00	2008-12-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	19.99	Electronics	Approved	19.99	Approve in Full
-132614	2009011454502	2009-01-08 00:00:00	2008-12-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	92.01	Cosmetics	Denied	0.0	Deny
-133110	2009012955030	2009-01-21 00:00:00	2009-01-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	175.8	Electronics	Denied	0.0	Deny
-133123	2009012854987	2009-01-21 00:00:00	2009-01-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	314.97	Electronics,Other	Settled	157.48	Settle
-133908	2009022555810	2009-02-10 00:00:00	2009-01-11 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	108.24	Electronics	Denied	0.0	Deny
-134039	2009031056002	2009-02-13 00:00:00	2009-01-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-135292	2009040957249	2009-03-20 00:00:00	2009-02-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	127.78	Electronics	Approved	127.78	Approve in Full
-137841	2009060359789	2009-06-01 00:00:00	2009-05-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
-138508	2009062460601	2009-06-17 00:00:00	2009-05-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1125.0	Watches & Jewelry	Denied	0.0	Deny
-139031	2009071061052	2009-07-01 00:00:00	2009-06-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	170.0	Containers,Games & Toys	Denied	0.0	Deny
-139526	2009072161544	2009-07-15 00:00:00	2009-07-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	460.0	Clothing & Accessories	Denied	0.0	Deny
-139756	2009072461732	2009-07-21 00:00:00	2009-07-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Supplies	Denied	0.0	Deny
-140167	2009080362157	2009-07-31 00:00:00	2009-07-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	30.0	Cosmetics	Approved	30.0	Approve in Full
-141067	2009081262552	2009-08-26 00:00:00	2009-06-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	178.61	Other	Denied	0.0	Deny
-141150	2009082863099	2009-08-28 00:00:00	2009-07-31 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	120.0	Watches & Jewelry	Denied	0.0	Deny
-142843	2009102964928	2009-10-21 00:00:00	2009-09-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	10.0	Scientific Intruments	Denied	0.0	Deny
-143271	2009110965244	2009-11-03 00:00:00	2009-11-02 07:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	307.45	Other	Denied	0.0	Deny
-143522	2009111965520	2009-11-12 00:00:00	2009-10-05 07:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	334.49	Electronics	Denied	0.0	Deny
-145079	2010010567097	2009-12-30 00:00:00	2009-12-11 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	50.0	Household Decor	Denied	0.0	Deny
-145941	2010030869206	2010-02-18 00:00:00	2010-02-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Clothing & Accessories		0.0	Deny
-146045	2010021868501	2010-02-23 00:00:00	2010-01-14 12:15:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics		54.11	Approve in Full
-147524	2010022468680	2010-04-09 00:00:00	2010-02-04 11:54:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-147921	2010042671157	2010-04-20 00:00:00	2010-02-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-149327	2010061172583	2010-06-03 00:00:00	2010-04-18 09:34:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry		0.0	Deny
-149529	2010062372959	2010-06-10 00:00:00	2010-05-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-150362	2010071473669	2010-07-07 00:00:00	2010-06-26 14:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-150858	2010080374351	2010-07-20 00:00:00	2010-06-15 04:38:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		45.71	Settle
-151433	2010081374880	2010-08-05 00:00:00	2010-07-29 15:15:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-151717	2010081975040	2010-08-16 00:00:00	2010-07-27 10:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-151826	2010082175193	2010-08-17 00:00:00	2010-07-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-152744	2010091776132	2010-09-13 00:00:00	2010-09-02 10:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-153024	2010092876456	2010-09-21 00:00:00	2010-07-29 12:49:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-153786	2010102277178	2010-10-14 00:00:00	2010-10-05 14:45:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		150.0	Approve in Full
-154089	2010110177512	2010-10-25 00:00:00	2010-09-16 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-154450	2010111777890	2010-11-05 00:00:00	2010-10-13 16:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Other		13.0	Settle
-154589	2010112278045	2010-11-09 00:00:00	2010-09-21 14:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-154853	2010110577603	2010-11-18 00:00:00	2010-10-08 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-155091	2010120378486	2010-11-26 00:00:00	2010-11-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-155268	2010121578790	2010-12-02 00:00:00	2010-04-21 12:50:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-155423	2010122078860	2010-12-07 00:00:00	2010-10-21 15:30:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Games & Toys			
-155817	2011010779249	2010-12-22 00:00:00	2010-09-23 19:15:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics		100.0	Approve in Full
-155960	2011010879322	2010-12-28 00:00:00	2010-10-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-156456	2011020779941	2011-01-12 00:00:00	2010-10-21 07:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-157039	2011022580608	2011-01-28 00:00:00	2011-01-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-157160	2011030280768	2011-02-01 00:00:00	2010-12-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-157290	2011030180709	2011-02-07 00:00:00	2011-01-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-159556	2011042682995	2011-04-25 00:00:00	2011-04-21 18:45:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-159724	2011050583244	2011-04-28 00:00:00	2011-04-22 00:00:00	DAL	Dallas Love Field	Southeast Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-160311	2011060183874	2011-05-17 00:00:00	2011-04-26 08:45:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		139.98	Approve in Full
-160532	2011052383662	2011-05-25 00:00:00	2011-04-21 15:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-161609	2011071285116	2011-06-29 00:00:00	2011-06-10 15:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-161995	2011072785525	2011-07-13 00:00:00	2011-06-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-162342	2011081085909	2011-07-25 00:00:00	2011-07-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-162461	2011081686165	2011-07-26 00:00:00	2011-07-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		602.41	Settle
-163085	2011090286667	2011-08-15 00:00:00	2011-07-24 07:05:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		499.0	Settle
-163254	2011091386895	2011-08-19 00:00:00	2011-08-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Other		0.0	Deny
-164162	2011101487891	2011-09-21 00:00:00	2011-09-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		55.0	Approve in Full
-164893	2011102688390	2011-10-17 00:00:00	2011-09-29 16:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-165495	2011111589010	2011-11-07 00:00:00	2011-10-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-165502	2011111689039	2011-11-07 00:00:00	2011-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-166148	2012021691119	2011-11-29 00:00:00	2011-07-19 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-166274	2011122889872	2011-12-05 00:00:00	2011-11-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-166380	2012010589998	2011-12-07 00:00:00	2011-12-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-167433	2012020990860	2012-01-13 00:00:00	2011-12-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-168078	2012031691755	2012-02-02 00:00:00	2012-01-07 16:45:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Clothing & Accessories			
-168589	2012032992272	2012-02-21 00:00:00	2012-01-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Musical Intruments		119.95	Approve in Full
-168957	2012040692630	2012-03-05 00:00:00	2012-02-18 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		30.0	Approve in Full
-169059	2012040692629	2012-03-08 00:00:00	2012-03-05 07:39:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-169276	2012042593182	2012-03-16 00:00:00	2012-02-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-169706	2012042793329	2012-04-03 00:00:00	2012-03-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-169737	2012042793347	2012-04-04 00:00:00	2012-03-16 12:54:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-169782	2012043093369	2012-04-05 00:00:00	2012-02-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-170112	2012051093806	2012-04-17 00:00:00	2012-02-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-170343	2012051694047	2012-04-25 00:00:00	2011-10-13 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics			
-170580	2012060794614	2012-05-02 00:00:00	2012-04-03 20:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Containers		0.0	Deny
-170944	2012060594539	2012-05-15 00:00:00	2012-04-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		75.0	Approve in Full
-170976	2012060694574	2012-05-16 00:00:00	2012-05-08 16:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-171165	2012061094715	2012-05-23 00:00:00	2012-04-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other,Electronics		0.0	Deny
-171216	2012091196717	2012-05-24 00:00:00	2012-04-26 08:00:00	DAL	Dallas Love Field	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		102.73	Approve in Full
-171455	2012070995140	2012-06-04 00:00:00	2012-04-25 17:05:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-171958	2012072595692	2012-06-20 00:00:00	2012-06-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-171994	2012062294853	2012-06-22 00:00:00	2012-05-17 12:01:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-172374	2012082196092	2012-07-09 00:00:00	2011-11-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-172655	2012083096467	2012-07-16 00:00:00	2012-07-09 07:55:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-173501	2012082396138	2012-08-16 00:00:00	2012-07-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		700.0	Approve in Full
-173764	2012082696192	2012-08-26 00:00:00	2012-06-09 16:29:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-173878	2012101597561	2012-08-28 00:00:00	2012-08-13 14:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics			
-176005	2013010999660	2012-11-19 00:00:00	2012-11-15 00:00:00	DAL	Dallas Love Field	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		254.26	Approve in Full
-176554	2013012400279	2012-12-10 00:00:00	2012-12-07 13:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-176647	2013012500418	2012-12-12 00:00:00	2012-12-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments			
-176957	2013012500411	2012-12-27 00:00:00	2012-10-10 13:33:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items		120.0	Settle
-177138	2013020501019	2013-01-05 00:00:00	2012-10-30 09:20:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-177992	2013020400913	2013-02-04 00:00:00	2012-10-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-179138	2013032702781	2013-03-15 00:00:00	2013-02-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		35.0	Approve in Full
-180002	2013060603995	2013-04-18 00:00:00	2013-04-03 11:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
-180313	2013060503971	2013-05-01 00:00:00	2013-04-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
-180438	2013061104174	2013-05-06 00:00:00	2013-04-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-180486	2013061704427	2013-05-07 00:00:00	2013-04-20 16:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		35.0	Approve in Full
-181008	2013071105145	2013-05-28 00:00:00	2013-05-15 17:20:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments,Clothing & Accessories		0.0	Deny
-181462	2013073105540	2013-06-13 00:00:00	2013-05-08 15:57:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Cosmetics		0.0	Deny
-182992	2013090906727	2013-08-05 00:00:00	2013-07-08 05:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		225.0	Settle
-183101	2013091006778	2013-08-08 00:00:00	2013-07-16 13:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-183932	2013102407838	2013-09-04 00:00:00	2013-09-02 17:25:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Electronics			
-184355	2013102908272	2013-09-19 00:00:00	2013-08-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		12.88	Approve in Full
-185223	2013110608751	2013-10-29 00:00:00	2013-09-02 15:45:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-185983	2013120309776	2013-11-29 00:00:00	2013-11-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories			
-186594	2013122610275	2013-12-26 00:00:00	2013-11-11 12:35:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Musical Intruments,Other			
-187332	2014012311086	2014-01-19 00:00:00	2014-01-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-187890	2014021211654	2014-02-09 00:00:00	2014-01-31 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		21.34	Approve in Full
-188564	2014031112341	2014-03-10 00:00:00	2014-02-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		67.5	Settle
-189075	2014040112870	2014-03-28 00:00:00	2014-03-19 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-189183	2014040412981	2014-04-01 00:00:00	2014-03-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-189628	2014042213433	2014-04-21 00:00:00	2014-04-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-189714	2014042513523	2014-04-21 00:00:00	2014-04-11 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		339.34	Settle
-189722	2014042813531	2014-04-23 00:00:00	2014-03-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-190785	2014061314610	2014-06-04 00:00:00	2014-04-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-191283	2014071415119	2014-06-24 00:00:00	2014-05-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		36.98	Approve in Full
-191830	2014080415678	2014-07-18 00:00:00	2014-06-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		53.55	Settle
-192018	2014081415869	2014-07-25 00:00:00	2014-07-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-192280	2014082216136	2014-08-06 00:00:00	2014-07-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories			
-192749	2014091616623	2014-09-02 00:00:00	2014-07-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories			
-193039	2014092316916	2014-09-05 00:00:00	2014-08-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-193713	2014101417600	2014-10-08 00:00:00	2014-10-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-194786	2014112818699	2014-11-24 00:00:00	2014-11-06 00:00:00	DAL	Dallas Love Field	Santa Barbara Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-194863	2014120218777	2014-11-20 00:00:00	2014-06-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-194981	2014120518899	2014-12-03 00:00:00	2014-11-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-195312	2014121719254	2014-12-17 00:00:00	2014-12-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
-195446	2014122419391	2014-12-24 00:00:00	2014-11-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-196980	2015022020741	2015-02-20 00:00:00	2015-01-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-196981	2015030320969	2015-03-03 00:00:00	2015-02-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-196983	2015031021100	2015-03-10 00:00:00	2015-02-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics		2499.0	Settle
-196985	2015031121159	2015-03-11 00:00:00	2015-02-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		150.0	Settle
-196987	2015032021411	2015-03-20 00:00:00	2015-03-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		54.0	Approve in Full
-196988	2015040121649	2015-03-30 00:00:00	2015-03-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			
-196992	2015042822138	2015-04-28 00:00:00	2015-04-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-196998	2015052222719	2015-05-11 00:00:00	2015-05-04 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor		110.0	Approve in Full
-197004	2015061223101	2015-06-04 00:00:00	2015-05-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		25.0	Approve in Full
-197005	2015071423822	2015-07-01 00:00:00	2015-06-17 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-197006	2015071623878	2015-07-07 00:00:00	2015-07-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-197007	2015072324136	2015-07-15 00:00:00	2015-06-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		39.72	Approve in Full
-197017	2015090225256	2015-08-26 00:00:00	2015-08-24 00:00:00	DAL	Dallas Love Field	Virgin America	Passenger Property Loss	Checkpoint		Other		34.71	Approve in Full
-197019	2015100225858	2015-09-16 00:00:00	2015-07-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		100.0	Settle
-197023	2015102726305	2015-10-09 00:00:00	2015-09-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-197024	2015102826347	2015-10-09 00:00:00	2015-10-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-197025	2015110326499	2015-10-13 00:00:00	2015-10-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		59.53	Approve in Full
-197026	2015110926688	2015-10-16 00:00:00	2015-10-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-197028	2015111726947	2015-10-26 00:00:00	2014-11-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.85	Approve in Full
-197029	2015111926992	2015-10-29 00:00:00	2015-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories			
-197033	2015120127199	2015-11-13 00:00:00	2015-11-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		66.03	Settle
-197036	2015121427524	2015-11-23 00:00:00	2015-09-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-197038	2015122327838	2015-12-10 00:00:00	2015-12-07 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-197040	2015122127745	2015-12-21 00:00:00	2015-12-06 00:00:00	DAL	Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-197041	2016010628155	2015-12-23 00:00:00	2015-12-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-205613	2016032430042	2016-03-09 00:00:00	2016-02-26 15:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
-205614	2016041830581	2016-03-28 00:00:00	2016-03-15 08:15:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			Insufficient
-205617	2016081733103	2016-07-07 00:00:00	2016-06-30 12:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics,Containers,Other			Insufficient
-205618	2016082933388	2016-08-29 00:00:00	2016-08-29 00:00:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient
-205621	2016021728897	2016-01-25 00:00:00	2016-01-20 07:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		213.0	Approve in Full
-205622	2016032530077	2016-03-10 00:00:00	2016-01-26 18:30:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checkpoint		Office Supplies		6.49	Approve in Full
-205627	2016021128841	2016-01-21 00:00:00	2016-01-15 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		100.0	Closed:Canceled
-205628	2016031629783	2016-02-29 00:00:00	2016-02-18 12:37:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Closed:Canceled
-205630	2016012128451	2016-01-08 00:00:00	2016-01-05 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-205631	2016022429100	2016-02-03 00:00:00	2016-01-31 16:08:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-205632	2016032330020	2016-03-09 00:00:00	2016-02-21 13:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-205633	2016042130715	2016-03-29 00:00:00	2016-03-24 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-205634	2016060131918	2016-06-01 00:00:00	2016-04-02 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-205636	2016052331589	2016-05-23 00:00:00	2016-04-26 12:05:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-205638	2016061432198	2016-05-31 00:00:00	2016-05-20 04:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-205639	2016061532223	2016-06-15 00:00:00	2016-05-30 19:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-205640	2016081833141	2016-07-07 00:00:00	2016-06-17 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-205645	2016092834006	2016-08-08 00:00:00	2016-07-27 07:15:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-205646	2016121936048	2016-10-27 00:00:00	2016-08-02 00:00:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
-205647	2016100634431	2016-08-26 00:00:00	2016-08-03 10:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-205648	2016092834011	2016-08-15 00:00:00	2016-08-13 08:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-205649	2016101434675	2016-09-07 00:00:00	2016-08-31 10:15:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
-205650	2016102435061	2016-09-14 00:00:00	2016-09-02 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-205651	2016101934851	2016-09-09 00:00:00	2016-09-08 16:16:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor			In Review
-205655	2016122136128	2016-11-02 00:00:00	2016-10-04 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-205657	2017010636321	2016-11-17 00:00:00	2016-10-19 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-205661	2017012636864	2016-12-05 00:00:00	2016-11-30 15:00:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics			In Review
-205662	2017013137119	2016-12-19 00:00:00	2016-12-08 00:00:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Household Items			In Review
-205663	2017021037437	2016-12-29 00:00:00	2016-12-22 00:00:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments			In Review
-213812	2017082342382	2017-07-06 00:00:00	2017-04-03 00:00:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Other			In Review
-213814	2017092043227	2017-08-07 00:00:00	2017-07-07 00:00:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Household Decor			In Review
-213816	2017062741028	2017-06-07 00:00:00	2017-05-30 22:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics,Food & Drink			In Review
-213817	2017060840389	2017-06-08 00:00:00	2017-05-12 07:00:00	DAL	Dallas Love Field Dallas Love Field	Not Provided	Passenger Property Loss	Checkpoint		Electronics			Received
-213819	2017041338531	2017-02-09 00:00:00	2017-02-03 17:30:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics			In Review
-213821	2017062140903	2017-05-09 00:00:00	2017-04-24 13:40:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			In Review
-213825	2017092043280	2017-08-12 00:00:00	2017-07-22 06:10:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
-213826	2017062941084	2017-06-13 00:00:00	2017-05-29 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			In Review
-213827	2017051539492	2017-03-13 00:00:00	2017-03-12 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics			Insufficient
-213829	2017101244355	2017-09-13 00:00:00	2017-08-24 10:45:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-213830	2017071841626	2017-06-14 00:00:00	2017-05-20 13:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-213831	2017072541800	2017-06-14 00:00:00	2017-05-21 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics,Other			In Review
-213832	2017122146192	2017-11-15 00:00:00	2017-11-08 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-213834	2017112845513	2017-11-15 00:00:00	2017-11-05 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			Insufficient
-213839	2017062841055	2017-05-19 00:00:00	2017-04-03 00:00:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Other			In Review
-213840	2017101244298	2017-09-19 00:00:00	2017-08-28 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Games & Toys			In Review
-213844	2017120645761	2017-11-20 00:00:00	2017-10-22 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-213845	2017122146194	2017-11-21 00:00:00	2017-10-29 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-213846	2017122746327	2017-11-21 00:00:00	2017-04-19 00:00:00	DAL	Dallas Love Field Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient
-213847	2017092143449	2017-08-22 00:00:00	2017-07-10 05:35:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-213849	2017112845509	2017-11-22 00:00:00	2017-11-04 07:55:00	DAL	Dallas Love Field Dallas Love Field	Air Canada	Passenger Property Loss	Checkpoint		Other			In Review
-213850	2017092943854	2017-08-25 00:00:00	2017-08-24 00:00:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics			In Review
-213853	2017101144215	2017-09-26 00:00:00	2017-09-13 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			Insufficient
-213854	2018011646802	2017-12-27 00:00:00	2017-12-22 17:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-213856	2017122046162	2017-11-27 00:00:00	2017-11-12 16:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
-213857	2017122146216	2017-11-27 00:00:00	2017-11-07 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+2371	0210000L	2003-02-10 00:00:00	2003-01-02 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	213.28	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+22047	2004072660027	2003-12-05 00:00:00	2003-09-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Currency	Settled	30.0	Settle
+22658	1217460M	2003-12-17 00:00:00	2003-10-19 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1840.25	Watches & Jewelry	Jewelry - Fine	Approved	1840.25	Approve in Full
+23274	1222259M	2003-12-22 00:00:00	2003-11-24 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	89.65	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	0.0	Approve in Full
+25195	0114668M	2004-01-14 00:00:00	2003-12-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	350.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	175.0	Settle
+28911	0226151M	2004-02-26 00:00:00	2003-12-16 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	275.21	Other	Other	Denied	0.0	Deny
+29377	2004052653495	2004-03-05 00:00:00	2004-02-25 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	59.0	Other	Other	Canceled		
+29956	2004051050855	2004-03-11 00:00:00	2004-01-04 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	50.0	Other	Currency	Approved	50.0	Approve in Full
+33082	2004052753703	2004-04-21 00:00:00	2004-01-10 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	1395.0	Other	Other	Denied	1395.0	Deny
+33176	2004060354514	2004-04-21 00:00:00	2003-04-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	220.0	Other	Other	Denied	0.0	Deny
+33304	2004052853797	2004-04-21 00:00:00	2004-03-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	388.58	Electronics	Cameras - Digital	Settled	194.29	Settle
+34811	2004060955170	2004-05-10 00:00:00	2004-04-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.99	Other	Other	Approved	8.99	Approve in Full
+35170	2004061756068	2004-05-13 00:00:00	2004-04-07 00:00:00	DAL	Dallas Love Field	America West	Passenger Property Loss	Checked Baggage	11.96	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	11.96	Approve in Full
+35356	2004061656015	2004-05-13 00:00:00	2004-05-04 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	40.0	Other	Other	Settled	20.0	Settle
+35360	2004061756078	2004-05-13 00:00:00	2004-04-28 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	21.44	Other	Other	Settled	11.0	Settle
+35547	2004061856289	2004-05-19 00:00:00	2004-04-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Supplies	Medicines	Approved	300.0	Approve in Full
+37810	2004070158165	2004-06-16 00:00:00	2004-05-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Electronics	Cameras - Digital	Approved	125.0	Approve in Full
+39448	2004072059832	2004-07-07 00:00:00	2004-06-25 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	80.0	Settle
+39485	2004072760045	2004-07-09 00:00:00	2004-06-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Other	Approved	175.0	Approve in Full
+40575	2004072860150	2004-07-20 00:00:00	2004-07-11 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	340.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+41418	2004091562878	2004-08-03 00:00:00	2004-07-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.46	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	32.46	Approve in Full
+41802	2004090362115	2004-08-05 00:00:00	2004-07-22 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	662.94	Other	Other	Denied		Deny
+41930	2004090962429	2004-08-05 00:00:00	2004-07-12 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	289.99	Electronics	Cameras - Digital	Settled	189.95	Settle
+42190	2004091562998	2004-08-10 00:00:00	2004-07-22 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.0	Other	Other	Approved	8.0	Approve in Full
+42274	2004110966819	2004-08-10 00:00:00	2004-07-29 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+42814	2004092864109	2004-08-19 00:00:00	2004-08-08 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	138.0	Watches & Jewelry	Jewelry - Fine	Canceled		
+42876	2004100464340	2004-08-19 00:00:00	2004-08-04 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	84.8	Other	Other	Denied	0.0	Deny
+42943	2004100464351	2004-08-19 00:00:00	2004-07-29 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	200.0	Outdoors Supplies	Fish/Game	Settled	180.0	Settle
+43024	2004092463862	2004-08-24 00:00:00	2004-08-13 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	196.38	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	196.38	Approve in Full
+43850	2004091562946	2004-09-01 00:00:00	2004-06-20 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Theft	Checked Baggage	50.0	Watches & Jewelry	Jewelry - Fine	Approved	50.0	Approve in Full
+43946	2004100664627	2004-09-01 00:00:00	2004-08-19 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	267.38	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	133.69	Settle
+44329	2004110266128	2004-09-09 00:00:00	2004-08-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	92.01	Other	Other	Denied	92.01	Deny
+44674	2004092964132	2004-09-13 00:00:00	2004-09-01 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Theft	Checked Baggage	200.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+44696	2004092763956	2004-09-13 00:00:00	2004-07-11 00:00:00	DAL	Dallas Love Field		Passenger Theft	Checked Baggage	75.0	Watches & Jewelry	Jewelry - Fine	Settled	37.5	Settle
+44740	2004092363716	2004-09-14 00:00:00	2004-08-17 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Locks	Approved	13.05	Approve in Full
+45164	2004102065332	2004-09-17 00:00:00	2004-08-26 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	367.11	Other	Other	Approved	367.11	Approve in Full
+45338	2004101965127	2004-09-20 00:00:00	2004-09-01 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	199.0	Electronics	Cameras - Digital	Approved	199.0	Approve in Full
+45523	2004111566995	2004-09-21 00:00:00	2004-08-03 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	102.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+45847	2004110566466	2004-09-23 00:00:00	2003-11-03 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	2769.0	Watches & Jewelry	Jewelry - Fine	Settled	884.5	Settle
+45885	2004102565667	2004-09-27 00:00:00	2004-09-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Currency	Approved	100.0	Approve in Full
+46144	2004110366240	2004-09-29 00:00:00	2004-09-16 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	20.95	Tools & Machines	Locks	Approved	20.95	Approve in Full
+46266	2004111266873	2004-09-29 00:00:00	2004-07-29 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint	2685.99	Other	Other	Denied		Deny
+46352	2004111567000	2004-09-29 00:00:00	2004-03-05 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Settled	150.0	Settle
+46718	2004111767285	2004-10-05 00:00:00	2004-09-24 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	847.95	Other	Other	Denied		Deny
+46747	2004111967419	2004-10-05 00:00:00	2004-09-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Currency	Denied	0.0	Deny
+46804	2004111767294	2004-10-05 00:00:00	2004-09-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	485.0	Other	Other	Settled	242.5	Settle
+47379	2004113068077	2004-10-14 00:00:00	2004-09-17 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Settled	75.0	Settle
+49593	2004122169838	2004-11-09 00:00:00	2004-10-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Other	Denied	0.0	Deny
+49900	2004122871155	2004-11-15 00:00:00	2004-11-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.5	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	40.5	Approve in Full
+50074	2004122370775	2004-11-16 00:00:00	2004-11-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.27	Other	Other	Approved	16.27	Approve in Full
+50774	2004122871231	2004-11-26 00:00:00	2004-10-14 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+51695	2005010372255	2004-12-10 00:00:00	2004-09-11 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	236.64	Other	Other	Denied	0.0	Deny
+51752	2005010372299	2004-12-10 00:00:00	2004-10-09 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	600.0	Other	Other	Settled	361.28	Settle
+51755	2005010472450	2004-12-10 00:00:00	2004-11-02 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Jewelry - Fine	Settled	250.0	Settle
+52282	2005010572784	2004-12-16 00:00:00	2004-09-25 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	129.26	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	86.38	Settle
+52813	2005011173454	2004-12-22 00:00:00	2004-11-19 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	1800.0	Other	Currency	Denied	0.0	Deny
+53017	2005011973816	2004-12-28 00:00:00	2004-12-19 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Locks	Approved	12.0	Approve in Full
+53665	2005012474134	2005-01-05 00:00:00	2004-11-03 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	85.0	Settle
+54078	2005020275436	2005-01-11 00:00:00	2004-10-28 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	287.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	287.0	Approve in Full
+54482	2005013175014	2005-01-14 00:00:00	2004-12-17 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	50.0	Electronics	Cameras - Digital	Approved	50.0	Approve in Full
+54501	2005013175068	2005-01-14 00:00:00	2004-09-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	88.59	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	88.59	Approve in Full
+55670	2005021676177	2005-01-26 00:00:00	2005-01-10 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	436.54	Other	Other	Settled	105.0	Settle
+56031	2005030777055	2005-02-01 00:00:00	2005-01-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	94.77	Other	Other	Approved	94.77	Approve in Full
+56212	2005031177758	2005-02-01 00:00:00	2005-01-03 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	119.0	Other	Other	Denied	0.0	Deny
+56576	2005031077552	2005-02-07 00:00:00	2005-01-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	121.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	121.0	Approve in Full
+56646	2005031077469	2005-02-07 00:00:00	2005-01-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	505.0	Other	Other	Settled	245.0	Settle
+57327	2005031578316	2005-02-16 00:00:00	2004-12-22 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	77.94	Watches & Jewelry	Jewelry - Fine	Approved	77.94	Approve in Full
+58309	2005032379460	2005-03-04 00:00:00	2003-08-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	410.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+59031	2005032579925	2005-03-09 00:00:00	2005-02-25 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	7000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+60694	2005040681684	2005-04-04 00:00:00	2005-03-14 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.5	Tools & Machines	Locks	Approved	11.5	Approve in Full
+61589	2005041382508	2005-04-12 00:00:00	2004-07-06 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	699.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+62096	2005042183020	2005-04-19 00:00:00	2005-03-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+62140	2005042183038	2005-04-19 00:00:00	2005-03-30 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Other	Currency	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+62300	2005042583311	2005-04-22 00:00:00	2005-04-15 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	45.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	45.0	Approve in Full
+62557	2005042783455	2005-04-26 00:00:00	2005-04-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+63789	2005051884995	2005-05-12 00:00:00	2005-04-24 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+64351	2005052085234	2005-05-19 00:00:00	2005-05-08 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	618.0	Electronics	Cell Phones	Denied	0.0	Deny
+64489	2005052485413	2005-05-23 00:00:00	2005-05-05 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	115.45	Other	Other	Approved	115.45	Approve in Full
+66118	2005062987694	2005-06-14 00:00:00	2005-05-21 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Other	Approved	15.0	Approve in Full
+66633	2005062887491	2005-06-21 00:00:00	2005-06-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1462.36	Electronics	Computer - Laptop	Denied	0.0	Deny
+69235	2005081090330	2005-08-01 00:00:00	2005-07-13 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	250.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	125.0	Settle
+70894	2005090191999	2005-08-26 00:00:00	2005-03-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	215.22	Watches & Jewelry	Jewelry - Fine	Approved	215.22	Approve in Full
+72340	2005092993403	2005-09-19 00:00:00	2005-08-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.98	Supplies	Medicines	Settled	63.49	Settle
+73585	2005101794729	2005-10-12 00:00:00	2005-10-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	38.88	Tools & Machines	Locks	Approved	38.88	Approve in Full
+74464	2005110395543	2005-10-25 00:00:00	2004-12-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	308.2	Other	Other	Settled	217.49	Settle
+76297	2005120897297	2005-11-29 00:00:00	2005-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	49.95	Other	Other	Settled	25.0	Settle
+76371	2005120997430	2005-12-01 00:00:00	2005-02-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	2250.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+77450	2006010398593	2005-12-22 00:00:00	2005-12-15 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	6.4	Tools & Machines	Locks	Approved	6.4	Approve in Full
+78308	2006011399570	2006-01-09 00:00:00	2005-11-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	484.6	Watches & Jewelry	Jewelry - Fine	Approved	484.6	Approve in Full
+80651	2006022201887	2006-02-14 00:00:00	2006-01-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	160.0	Other	Other	Approved	160.0	Approve in Full
+80903	2006022302031	2006-02-17 00:00:00	2006-01-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	5528.87	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+81364	2006030602592	2006-02-28 00:00:00	2005-12-13 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+83517	2006041804699	2006-04-07 00:00:00	2006-03-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	150.0	Other	Other	Denied	0.0	Deny
+84411	2006050305653	2006-04-26 00:00:00	2006-04-12 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Tools & Machines	Locks	Denied	0.0	Deny
+86409	2006061307858	2006-06-06 00:00:00	2006-05-15 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories,Watches & Jewelry,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine*Watches - Expensive more than $100	Denied	0.0	Deny
+86718	2006061407968	2006-06-13 00:00:00	2006-06-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	199.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+87083	2006062008275	2006-06-20 00:00:00	2006-06-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2800.0	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+87743	2006070508968	2006-07-03 00:00:00	2006-06-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	366.82	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	346.82	Settle
+87787	2006070609046	2006-07-05 00:00:00	2006-06-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	3169.09	Clothing & Accessories,Cosmetics,Tools & Machines	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Locks	Denied	0.0	Deny
+87832	2006070709128	2006-07-06 00:00:00	2006-06-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	794.54	Watches & Jewelry	Jewelry - Fine	Approved	794.54	Approve in Full
+88439	2006071909726	2006-07-17 00:00:00	2006-07-06 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Locks	Approved	24.0	Approve in Full
+88794	2006072510019	2006-07-24 00:00:00	2006-04-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	219.09	Other	Other	Approved	219.09	Approve in Full
+90196	2006082411518	2006-08-21 00:00:00	2006-05-12 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	35.0	Electronics	GPS - Global Positioning System	Approved	35.0	Approve in Full
+90355	2006082811663	2006-08-22 00:00:00	2006-08-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	612.95	Electronics,Electronics	Cameras - Digital*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+92125	2006092813442	2006-09-25 00:00:00	2006-08-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Hearing Aids	Denied	0.0	Deny
+92779	2006101714089	2006-10-10 00:00:00	2006-10-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+92910	2006101914180	2006-10-12 00:00:00	2006-09-12 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage	39.99	Electronics	Cell Phones	Approved	39.99	Approve in Full
+92997	2006102614556	2006-10-12 00:00:00	2006-10-05 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage	180.0	Tools & Machines,Supplies	Barber Supplies - Scissors, shears, elecric razors, etc.*Medicines	Settled	151.5	Settle
+94360	2006111515655	2006-11-09 00:00:00	2006-10-19 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage	12.45	Tools & Machines	Locks	Approved	12.45	Approve in Full
+96060	2006122117601	2006-12-12 00:00:00	2006-11-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+96105	2006121917386	2006-12-12 00:00:00	2006-10-12 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage	619.94	Other	Other	Denied	0.0	Deny
+96857	2007010318221	2006-12-28 00:00:00	2006-12-20 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	300.0	Other	Other	Canceled	0.0	
+96891	2007010318228	2006-12-29 00:00:00	2006-12-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	96.78	Supplies	Medicines	Approved	96.78	Approve in Full
+99094	2007020920595	2007-01-30 00:00:00	2006-12-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other,Containers	Currency*Luggage (all types including footlockers)	Denied	0.0	Deny
+99533	2007020920574	2007-02-07 00:00:00	2007-01-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Other	Other	Denied	0.0	Deny
+100154	2007022121268	2007-02-20 00:00:00	2007-02-07 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	356.0	Electronics	Cameras - Digital	Settled	347.2	Settle
+100279	2007022321472	2007-02-22 00:00:00	2006-12-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	127.74	Containers	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+102664	2007041123719	2007-04-11 00:00:00	2007-03-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.65	Tools & Machines	Locks	Approved	8.65	Approve in Full
+102719	2007041624010	2007-04-11 00:00:00	2007-04-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	149.99	Other	Other	Denied	0.0	Deny
+102810	2007041724083	2007-04-13 00:00:00	2007-04-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	457.01	Watches & Jewelry,Other	Jewelry - Fine*Other	Approved	457.01	Approve in Full
+103070	2007041924255	2007-04-19 00:00:00	2007-04-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.11	Electronics	Computer - Laptop	Approved	16.11	Approve in Full
+103871	2007050925185	2007-05-07 00:00:00	2007-04-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+104033	2007051525389	2007-05-09 00:00:00	2007-05-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	487.0	Electronics	Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)	Denied	0.0	Deny
+106299	2007062927670	2007-06-25 00:00:00	2007-05-21 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	1185.25	Watches & Jewelry	Jewelry - Costume	Canceled	0.0	
+106521	2007070327837	2007-06-28 00:00:00	2007-04-21 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	58.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+108679	2007080930011	2007-08-07 00:00:00	2007-07-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Currency	Denied	0.0	Deny
+109713	2007082730937	2007-08-27 00:00:00	2007-08-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	47.0	Other	Other	Denied	0.0	Deny
+110093	2007090631434	2007-09-04 00:00:00	2007-07-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	236.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+111121	2007092632614	2007-09-21 00:00:00	2007-08-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	449.99	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+112798	2007110234277	2007-10-26 00:00:00	2007-10-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+114004	2007120636097	2007-11-20 00:00:00	2007-11-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	259.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	259.0	Approve in Full
+114157	2007112735505	2007-11-26 00:00:00	2007-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	350.62	Electronics	Cameras - Digital	Denied	0.0	Deny
+114480	2007120536042	2007-11-30 00:00:00	2007-04-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Other,Other	Currency*Other	Canceled	0.0	
+117396	2008013038807	2008-01-25 00:00:00	2008-01-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	457.0	Watches & Jewelry	Jewelry - Fine	Settled	421.0	Settle
+118068	2008022039823	2008-02-08 00:00:00	2008-01-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	69.95	Other	Other	Denied	0.0	Deny
+119150	2008031140745	2008-03-03 00:00:00	2008-02-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Household Decor,Clothing & Accessories,Other	Candles - Decorative and other*Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+119378	2008031441072	2008-03-07 00:00:00	2008-02-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.9	Electronics,Tools & Machines	Flashlights*Locks	Denied	0.0	Deny
+119426	2008031040705	2008-03-10 00:00:00	2007-11-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1109.06	Electronics	Computer - Laptop	Denied	0.0	Deny
+119585	2008031841214	2008-03-12 00:00:00	2008-02-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	634.97	Other	Other	Denied	0.0	Deny
+120082	2008040341779	2008-03-21 00:00:00	2008-03-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	54.13	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+120244	2008040741949	2008-03-25 00:00:00	2008-02-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	484.14	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+122900	2008052044571	2008-05-19 00:00:00	2008-04-22 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	45.0	Other	Other	Approved	45.0	Approve in Full
+123088	2008052244702	2008-05-21 00:00:00	2008-05-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	454.0	Other,Outdoors Supplies	Other*Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+123778	2008032741481	2008-06-05 00:00:00	2008-02-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1997.0	Other	Other	Denied	0.0	Deny
+124015	2008061645696	2008-06-10 00:00:00	2008-06-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.63	Tools & Machines	Locks	Denied	0.0	Deny
+124324	2008062346035	2008-06-17 00:00:00	2008-06-07 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	7000.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+124797	2008070946651	2008-06-27 00:00:00	2008-06-22 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+125138	2008071546947	2008-07-07 00:00:00	2008-01-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	19.48	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+125833	2008072947587	2008-07-22 00:00:00	2008-07-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.22	Other	Other	Denied	0.0	Deny
+125874	2008073147760	2008-07-23 00:00:00	2008-06-22 00:00:00	DAL	Dallas Love Field	USAir	Passenger Property Loss	Checked Baggage	21.45	Tools & Machines	Locks	Approved	21.45	Approve in Full
+125914	2008073147757	2008-07-23 00:00:00	2008-05-18 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	21.45	Tools & Machines	Locks	Denied	0.0	Deny
+125915	2008073147763	2008-07-23 00:00:00	2008-02-05 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage	21.45	Tools & Machines	Locks	Denied	0.0	Deny
+126228	2008080548018	2008-07-30 00:00:00	2008-03-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	225.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+126802	2008081948773	2008-08-11 00:00:00	2008-07-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	86.53	Other,Cosmetics,Tools & Machines	Other*Razors (other than electric)*Scissors, Shears (other than electric)	Denied	0.0	Deny
+126885	2008081848726	2008-08-13 00:00:00	2008-07-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+126923	2008081848706	2008-08-14 00:00:00	2008-08-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	2400.0	Clothing & Accessories,Electronics	Clothing - Shoes, belts, accessories, etc.*Computer - Laptop	Denied	0.0	Deny
+127378	2008082749208	2008-08-25 00:00:00	2008-08-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Electronics,Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Cell Phones	Denied	0.0	Deny
+127572	2008090249331	2008-08-28 00:00:00	2008-07-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	410.31	Electronics,Other	Cameras - Digital*Other	Denied	0.0	Deny
+130441	2008111752294	2008-11-10 00:00:00	2008-10-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	1782.55	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+130907	2008112852878	2008-11-20 00:00:00	2008-10-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	555.0	Other	Currency	Denied	0.0	Deny
+131566	2008121553389	2008-12-10 00:00:00	2008-11-26 00:00:00	DAL	Dallas Love Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	200.0	Approve in Full
+132415	2009010954319	2009-01-05 00:00:00	2008-12-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	19.99	Electronics	Cell Phones	Approved	19.99	Approve in Full
+132614	2009011454502	2009-01-08 00:00:00	2008-12-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	92.01	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+133110	2009012955030	2009-01-21 00:00:00	2009-01-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	175.8	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+133123	2009012854987	2009-01-21 00:00:00	2009-01-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	314.97	Electronics,Other	GPS - Global Positioning System*Other	Settled	157.48	Settle
+133908	2009022555810	2009-02-10 00:00:00	2009-01-11 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	108.24	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+134039	2009031056002	2009-02-13 00:00:00	2009-01-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+135292	2009040957249	2009-03-20 00:00:00	2009-02-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	127.78	Electronics	Cameras - Digital	Approved	127.78	Approve in Full
+137841	2009060359789	2009-06-01 00:00:00	2009-05-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+138508	2009062460601	2009-06-17 00:00:00	2009-05-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	1125.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+139031	2009071061052	2009-07-01 00:00:00	2009-06-25 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	170.0	Containers,Games & Toys	Luggage (all types including footlockers)*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+139526	2009072161544	2009-07-15 00:00:00	2009-07-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	460.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+139756	2009072461732	2009-07-21 00:00:00	2009-07-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Supplies	Medicines	Denied	0.0	Deny
+140167	2009080362157	2009-07-31 00:00:00	2009-07-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	30.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	30.0	Approve in Full
+141067	2009081262552	2009-08-26 00:00:00	2009-06-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	178.61	Other	Other	Denied	0.0	Deny
+141150	2009082863099	2009-08-28 00:00:00	2009-07-31 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	120.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+142843	2009102964928	2009-10-21 00:00:00	2009-09-27 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	10.0	Scientific Intruments	Dental Equipment and Instruments	Denied	0.0	Deny
+143271	2009110965244	2009-11-03 00:00:00	2009-11-02 07:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint	307.45	Other	Other	Denied	0.0	Deny
+143522	2009111965520	2009-11-12 00:00:00	2009-10-05 07:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	334.49	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+145079	2010010567097	2009-12-30 00:00:00	2009-12-11 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint	50.0	Household Decor	Paintings and Pictures (including frames, etchings, photos, etc)	Denied	0.0	Deny
+145941	2010030869206	2010-02-18 00:00:00	2010-02-15 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Clothing & Accessories	Jewelry & Watches*Personal Accessories		0.0	Deny
+146045	2010021868501	2010-02-23 00:00:00	2010-01-14 12:15:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		54.11	Approve in Full
+147524	2010022468680	2010-04-09 00:00:00	2010-02-04 11:54:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+147921	2010042671157	2010-04-20 00:00:00	2010-02-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+149327	2010061172583	2010-06-03 00:00:00	2010-04-18 09:34:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry	Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+149529	2010062372959	2010-06-10 00:00:00	2010-05-22 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+150362	2010071473669	2010-07-07 00:00:00	2010-06-26 14:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+150858	2010080374351	2010-07-20 00:00:00	2010-06-15 04:38:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		45.71	Settle
+151433	2010081374880	2010-08-05 00:00:00	2010-07-29 15:15:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+151717	2010081975040	2010-08-16 00:00:00	2010-07-27 10:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+151826	2010082175193	2010-08-17 00:00:00	2010-07-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+152744	2010091776132	2010-09-13 00:00:00	2010-09-02 10:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+153024	2010092876456	2010-09-21 00:00:00	2010-07-29 12:49:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+153786	2010102277178	2010-10-14 00:00:00	2010-10-05 14:45:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		150.0	Approve in Full
+154089	2010110177512	2010-10-25 00:00:00	2010-09-16 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+154450	2010111777890	2010-11-05 00:00:00	2010-10-13 16:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Other	Other*Other		13.0	Settle
+154589	2010112278045	2010-11-09 00:00:00	2010-09-21 14:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+154853	2010110577603	2010-11-18 00:00:00	2010-10-08 00:00:00	DAL	Dallas Love Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+155091	2010120378486	2010-11-26 00:00:00	2010-11-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+155268	2010121578790	2010-12-02 00:00:00	2010-04-21 12:50:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+155423	2010122078860	2010-12-07 00:00:00	2010-10-21 15:30:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games			
+155817	2011010779249	2010-12-22 00:00:00	2010-09-23 19:15:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming		100.0	Approve in Full
+155960	2011010879322	2010-12-28 00:00:00	2010-10-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+156456	2011020779941	2011-01-12 00:00:00	2010-10-21 07:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+157039	2011022580608	2011-01-28 00:00:00	2011-01-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+157160	2011030280768	2011-02-01 00:00:00	2010-12-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+157290	2011030180709	2011-02-07 00:00:00	2011-01-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		0.0	Deny
+159556	2011042682995	2011-04-25 00:00:00	2011-04-21 18:45:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+159724	2011050583244	2011-04-28 00:00:00	2011-04-22 00:00:00	DAL	Dallas Love Field	Southeast Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+160311	2011060183874	2011-05-17 00:00:00	2011-04-26 08:45:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		139.98	Approve in Full
+160532	2011052383662	2011-05-25 00:00:00	2011-04-21 15:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+161609	2011071285116	2011-06-29 00:00:00	2011-06-10 15:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+161995	2011072785525	2011-07-13 00:00:00	2011-06-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+162342	2011081085909	2011-07-25 00:00:00	2011-07-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+162461	2011081686165	2011-07-26 00:00:00	2011-07-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Computer & Accessories*Personal Electronics		602.41	Settle
+163085	2011090286667	2011-08-15 00:00:00	2011-07-24 07:05:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		499.0	Settle
+163254	2011091386895	2011-08-19 00:00:00	2011-08-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Other	Other*Other		0.0	Deny
+164162	2011101487891	2011-09-21 00:00:00	2011-09-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		55.0	Approve in Full
+164893	2011102688390	2011-10-17 00:00:00	2011-09-29 16:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+165495	2011111589010	2011-11-07 00:00:00	2011-10-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+165502	2011111689039	2011-11-07 00:00:00	2011-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+166148	2012021691119	2011-11-29 00:00:00	2011-07-19 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+166274	2011122889872	2011-12-05 00:00:00	2011-11-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+166380	2012010589998	2011-12-07 00:00:00	2011-12-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			
+167433	2012020990860	2012-01-13 00:00:00	2011-12-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+168078	2012031691755	2012-02-02 00:00:00	2012-01-07 16:45:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+168589	2012032992272	2012-02-21 00:00:00	2012-01-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Musical Intruments	Musical Instruments & Accessories		119.95	Approve in Full
+168957	2012040692630	2012-03-05 00:00:00	2012-02-18 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		30.0	Approve in Full
+169059	2012040692629	2012-03-08 00:00:00	2012-03-05 07:39:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+169276	2012042593182	2012-03-16 00:00:00	2012-02-17 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+169706	2012042793329	2012-04-03 00:00:00	2012-03-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+169737	2012042793347	2012-04-04 00:00:00	2012-03-16 12:54:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+169782	2012043093369	2012-04-05 00:00:00	2012-02-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+170112	2012051093806	2012-04-17 00:00:00	2012-02-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+170343	2012051694047	2012-04-25 00:00:00	2011-10-13 00:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			
+170580	2012060794614	2012-05-02 00:00:00	2012-04-03 20:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Containers	Baggage/Cases/Purses		0.0	Deny
+170944	2012060594539	2012-05-15 00:00:00	2012-04-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		75.0	Approve in Full
+170976	2012060694574	2012-05-16 00:00:00	2012-05-08 16:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+171165	2012061094715	2012-05-23 00:00:00	2012-04-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other,Electronics	Audio/Video*Other*Personal Electronics		0.0	Deny
+171216	2012091196717	2012-05-24 00:00:00	2012-04-26 08:00:00	DAL	Dallas Love Field	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		102.73	Approve in Full
+171455	2012070995140	2012-06-04 00:00:00	2012-04-25 17:05:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+171958	2012072595692	2012-06-20 00:00:00	2012-06-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+171994	2012062294853	2012-06-22 00:00:00	2012-05-17 12:01:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+172374	2012082196092	2012-07-09 00:00:00	2011-11-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+172655	2012083096467	2012-07-16 00:00:00	2012-07-09 07:55:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+173501	2012082396138	2012-08-16 00:00:00	2012-07-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency		700.0	Approve in Full
+173764	2012082696192	2012-08-26 00:00:00	2012-06-09 16:29:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+173878	2012101597561	2012-08-28 00:00:00	2012-08-13 14:00:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			
+176005	2013010999660	2012-11-19 00:00:00	2012-11-15 00:00:00	DAL	Dallas Love Field	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		254.26	Approve in Full
+176554	2013012400279	2012-12-10 00:00:00	2012-12-07 13:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+176647	2013012500418	2012-12-12 00:00:00	2012-12-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science			
+176957	2013012500411	2012-12-27 00:00:00	2012-10-10 13:33:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items	Household Items		120.0	Settle
+177138	2013020501019	2013-01-05 00:00:00	2012-10-30 09:20:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+177992	2013020400913	2013-02-04 00:00:00	2012-10-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+179138	2013032702781	2013-03-15 00:00:00	2013-02-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		35.0	Approve in Full
+180002	2013060603995	2013-04-18 00:00:00	2013-04-03 11:30:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			
+180313	2013060503971	2013-05-01 00:00:00	2013-04-03 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			
+180438	2013061104174	2013-05-06 00:00:00	2013-04-13 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+180486	2013061704427	2013-05-07 00:00:00	2013-04-20 16:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		35.0	Approve in Full
+181008	2013071105145	2013-05-28 00:00:00	2013-05-15 17:20:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments,Clothing & Accessories	Cosmetics & Grooming*Medical/Science*Personal Accessories		0.0	Deny
+181462	2013073105540	2013-06-13 00:00:00	2013-05-08 15:57:00	DAL	Dallas Love Field		Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming		0.0	Deny
+182992	2013090906727	2013-08-05 00:00:00	2013-07-08 05:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		225.0	Settle
+183101	2013091006778	2013-08-08 00:00:00	2013-07-16 13:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+183932	2013102407838	2013-09-04 00:00:00	2013-09-02 17:25:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Electronics	Cosmetics & Grooming*Personal Electronics			
+184355	2013102908272	2013-09-19 00:00:00	2013-08-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.88	Approve in Full
+185223	2013110608751	2013-10-29 00:00:00	2013-09-02 15:45:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+185983	2013120309776	2013-11-29 00:00:00	2013-11-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories	Computer & Accessories*Personal Accessories			
+186594	2013122610275	2013-12-26 00:00:00	2013-11-11 12:35:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Musical Intruments,Other	Clothing*Musical Instruments & Accessories*Other			
+187332	2014012311086	2014-01-19 00:00:00	2014-01-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+187890	2014021211654	2014-02-09 00:00:00	2014-01-31 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		21.34	Approve in Full
+188564	2014031112341	2014-03-10 00:00:00	2014-02-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		67.5	Settle
+189075	2014040112870	2014-03-28 00:00:00	2014-03-19 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+189183	2014040412981	2014-04-01 00:00:00	2014-03-30 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+189628	2014042213433	2014-04-21 00:00:00	2014-04-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+189714	2014042513523	2014-04-21 00:00:00	2014-04-11 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other		339.34	Settle
+189722	2014042813531	2014-04-23 00:00:00	2014-03-16 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+190785	2014061314610	2014-06-04 00:00:00	2014-04-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+191283	2014071415119	2014-06-24 00:00:00	2014-05-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		36.98	Approve in Full
+191830	2014080415678	2014-07-18 00:00:00	2014-06-06 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		53.55	Settle
+192018	2014081415869	2014-07-25 00:00:00	2014-07-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+192280	2014082216136	2014-08-06 00:00:00	2014-07-28 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+192749	2014091616623	2014-09-02 00:00:00	2014-07-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+193039	2014092316916	2014-09-05 00:00:00	2014-08-26 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+193713	2014101417600	2014-10-08 00:00:00	2014-10-05 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+194786	2014112818699	2014-11-24 00:00:00	2014-11-06 00:00:00	DAL	Dallas Love Field	Santa Barbara Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+194863	2014120218777	2014-11-20 00:00:00	2014-06-12 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+194981	2014120518899	2014-12-03 00:00:00	2014-11-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+195312	2014121719254	2014-12-17 00:00:00	2014-12-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other			
+195446	2014122419391	2014-12-24 00:00:00	2014-11-18 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+196980	2015022020741	2015-02-20 00:00:00	2015-01-04 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+196981	2015030320969	2015-03-03 00:00:00	2015-02-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+196983	2015031021100	2015-03-10 00:00:00	2015-02-14 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories		2499.0	Settle
+196985	2015031121159	2015-03-11 00:00:00	2015-02-02 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		150.0	Settle
+196987	2015032021411	2015-03-20 00:00:00	2015-03-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		54.0	Approve in Full
+196988	2015040121649	2015-03-30 00:00:00	2015-03-10 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			
+196992	2015042822138	2015-04-28 00:00:00	2015-04-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+196998	2015052222719	2015-05-11 00:00:00	2015-05-04 00:00:00	DAL	Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Decor	Home Decor		110.0	Approve in Full
+197004	2015061223101	2015-06-04 00:00:00	2015-05-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		25.0	Approve in Full
+197005	2015071423822	2015-07-01 00:00:00	2015-06-17 00:00:00	DAL	Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+197006	2015071623878	2015-07-07 00:00:00	2015-07-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+197007	2015072324136	2015-07-15 00:00:00	2015-06-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		39.72	Approve in Full
+197017	2015090225256	2015-08-26 00:00:00	2015-08-24 00:00:00	DAL	Dallas Love Field	Virgin America	Passenger Property Loss	Checkpoint		Other	Other		34.71	Approve in Full
+197019	2015100225858	2015-09-16 00:00:00	2015-07-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		100.0	Settle
+197023	2015102726305	2015-10-09 00:00:00	2015-09-29 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+197024	2015102826347	2015-10-09 00:00:00	2015-10-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+197025	2015110326499	2015-10-13 00:00:00	2015-10-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		59.53	Approve in Full
+197026	2015110926688	2015-10-16 00:00:00	2015-10-08 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+197028	2015111726947	2015-10-26 00:00:00	2014-11-23 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		9.85	Approve in Full
+197029	2015111926992	2015-10-29 00:00:00	2015-10-24 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories	Baggage/Cases/Purses*Clothing			
+197033	2015120127199	2015-11-13 00:00:00	2015-11-09 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		66.03	Settle
+197036	2015121427524	2015-11-23 00:00:00	2015-09-20 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+197038	2015122327838	2015-12-10 00:00:00	2015-12-07 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+197040	2015122127745	2015-12-21 00:00:00	2015-12-06 00:00:00	DAL	Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+197041	2016010628155	2015-12-23 00:00:00	2015-12-01 00:00:00	DAL	Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics	Clothing*Cosmetics & Grooming		0.0	Deny
+205613	2016032430042	2016-03-09 00:00:00	2016-02-26 15:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			Insufficient
+205614	2016041830581	2016-03-28 00:00:00	2016-03-15 08:15:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			Insufficient
+205617	2016081733103	2016-07-07 00:00:00	2016-06-30 12:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics,Containers,Other	Audio/Video*Baggage/Cases/Purses*Currency			Insufficient
+205618	2016082933388	2016-08-29 00:00:00	2016-08-29 00:00:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			Insufficient
+205621	2016021728897	2016-01-25 00:00:00	2016-01-20 07:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		213.0	Approve in Full
+205622	2016032530077	2016-03-10 00:00:00	2016-01-26 18:30:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checkpoint		Office Supplies	Books, Magazines & Other		6.49	Approve in Full
+205627	2016021128841	2016-01-21 00:00:00	2016-01-15 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		100.0	Closed:Canceled
+205628	2016031629783	2016-02-29 00:00:00	2016-02-18 12:37:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			Closed:Canceled
+205630	2016012128451	2016-01-08 00:00:00	2016-01-05 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+205631	2016022429100	2016-02-03 00:00:00	2016-01-31 16:08:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+205632	2016032330020	2016-03-09 00:00:00	2016-02-21 13:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+205633	2016042130715	2016-03-29 00:00:00	2016-03-24 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+205634	2016060131918	2016-06-01 00:00:00	2016-04-02 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+205636	2016052331589	2016-05-23 00:00:00	2016-04-26 12:05:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+205638	2016061432198	2016-05-31 00:00:00	2016-05-20 04:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+205639	2016061532223	2016-06-15 00:00:00	2016-05-30 19:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+205640	2016081833141	2016-07-07 00:00:00	2016-06-17 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+205645	2016092834006	2016-08-08 00:00:00	2016-07-27 07:15:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			In Review
+205646	2016121936048	2016-10-27 00:00:00	2016-08-02 00:00:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			In Review
+205647	2016100634431	2016-08-26 00:00:00	2016-08-03 10:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+205648	2016092834011	2016-08-15 00:00:00	2016-08-13 08:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			In Review
+205649	2016101434675	2016-09-07 00:00:00	2016-08-31 10:15:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Audio/Video			In Review
+205650	2016102435061	2016-09-14 00:00:00	2016-09-02 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			In Review
+205651	2016101934851	2016-09-09 00:00:00	2016-09-08 16:16:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor	Home Decor			In Review
+205655	2016122136128	2016-11-02 00:00:00	2016-10-04 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+205657	2017010636321	2016-11-17 00:00:00	2016-10-19 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			In Review
+205661	2017012636864	2016-12-05 00:00:00	2016-11-30 15:00:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			In Review
+205662	2017013137119	2016-12-19 00:00:00	2016-12-08 00:00:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Household Items	Baggage/Cases/Purses*Household Items			In Review
+205663	2017021037437	2016-12-29 00:00:00	2016-12-22 00:00:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science			In Review
+213812	2017082342382	2017-07-06 00:00:00	2017-04-03 00:00:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Other	Other			In Review
+213814	2017092043227	2017-08-07 00:00:00	2017-07-07 00:00:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Household Decor	Home Decor			In Review
+213816	2017062741028	2017-06-07 00:00:00	2017-05-30 22:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics,Food & Drink	Baggage/Cases/Purses*Clothing*Cosmetics & Grooming*Food & Drink			In Review
+213817	2017060840389	2017-06-08 00:00:00	2017-05-12 07:00:00	DAL	Dallas Love Field Dallas Love Field	Not Provided	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			Received
+213819	2017041338531	2017-02-09 00:00:00	2017-02-03 17:30:00	DAL	Dallas Love Field Dallas Love Field		Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			In Review
+213821	2017062140903	2017-05-09 00:00:00	2017-04-24 13:40:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency			In Review
+213825	2017092043280	2017-08-12 00:00:00	2017-07-22 06:10:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			In Review
+213826	2017062941084	2017-06-13 00:00:00	2017-05-29 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			In Review
+213827	2017051539492	2017-03-13 00:00:00	2017-03-12 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			Insufficient
+213829	2017101244355	2017-09-13 00:00:00	2017-08-24 10:45:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			In Review
+213830	2017071841626	2017-06-14 00:00:00	2017-05-20 13:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			In Review
+213831	2017072541800	2017-06-14 00:00:00	2017-05-21 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics,Other	Cosmetics & Grooming*Other			In Review
+213832	2017122146192	2017-11-15 00:00:00	2017-11-08 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Currency			In Review
+213834	2017112845513	2017-11-15 00:00:00	2017-11-05 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			Insufficient
+213839	2017062841055	2017-05-19 00:00:00	2017-04-03 00:00:00	DAL	Dallas Love Field Dallas Love Field	Virgin America	Passenger Property Loss	Checked Baggage		Other	Other			In Review
+213840	2017101244298	2017-09-19 00:00:00	2017-08-28 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games			In Review
+213844	2017120645761	2017-11-20 00:00:00	2017-10-22 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+213845	2017122146194	2017-11-21 00:00:00	2017-10-29 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			In Review
+213846	2017122746327	2017-11-21 00:00:00	2017-04-19 00:00:00	DAL	Dallas Love Field Dallas Love Field	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			Insufficient
+213847	2017092143449	2017-08-22 00:00:00	2017-07-10 05:35:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+213849	2017112845509	2017-11-22 00:00:00	2017-11-04 07:55:00	DAL	Dallas Love Field Dallas Love Field	Air Canada	Passenger Property Loss	Checkpoint		Other	Incidentals			In Review
+213850	2017092943854	2017-08-25 00:00:00	2017-08-24 00:00:00	DAL	Dallas Love Field Dallas Love Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming			In Review
+213853	2017101144215	2017-09-26 00:00:00	2017-09-13 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			Insufficient
+213854	2018011646802	2017-12-27 00:00:00	2017-12-22 17:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+213856	2017122046162	2017-11-27 00:00:00	2017-11-12 16:30:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			In Review
+213857	2017122146216	2017-11-27 00:00:00	2017-11-07 00:00:00	DAL	Dallas Love Field Dallas Love Field	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			In Review

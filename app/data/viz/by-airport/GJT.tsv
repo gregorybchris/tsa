@@ -1,31 +1,31 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-41795	2004090362098	2004-08-05 00:00:00	2004-06-29 00:00:00	GJT	Walker Field		Passenger Property Loss	Checked Baggage	880.0	Supplies	Denied	0.0	Deny
-63683	2005051784878	2005-05-11 00:00:00	2005-04-11 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
-78112	2006010999063	2006-01-04 00:00:00	2005-12-25 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Settled	100.0	Settle
-81299	2006030302425	2006-02-27 00:00:00	2006-02-10 00:00:00	GJT	Walker Field	Frontier Airlines	Passenger Property Loss	Checked Baggage	100.0	Containers	Denied	0.0	Deny
-94721	2006112216025	2006-11-16 00:00:00	2006-10-20 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.0	Household Items	Approved	95.0	Approve in Full
-94746	2006112216048	2006-11-16 00:00:00	2006-10-31 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checkpoint	11.83	Other	Denied	0.0	Deny
-104183	2007051725576	2007-05-14 00:00:00	2007-04-25 00:00:00	GJT	Walker Field	Frontier Airlines	Passenger Property Loss	Checked Baggage	128.0	Clothing & Accessories	Approved	128.0	Approve in Full
-105129	2007060526315	2007-06-01 00:00:00	2007-05-03 00:00:00	GJT	Walker Field	America West	Passenger Property Loss	Checked Baggage	218.0	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
-117536	2008020539099	2008-01-29 00:00:00	2008-01-08 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Denied	0.0	Deny
-122096	2008042943546	2008-04-29 00:00:00	2008-04-13 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-125699	2008072847512	2008-07-18 00:00:00	2008-06-11 00:00:00	GJT	Walker Field	Frontier Airlines	Passenger Property Loss	Checkpoint	533.49	Other	Denied	0.0	Deny
-134493	2009031856447	2009-02-27 00:00:00	2009-02-16 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	715.0	Electronics,Electronics,Other	Denied	0.0	Deny
-138612	2009070260819	2009-06-22 00:00:00	2009-06-03 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	174.0	Household Items	Canceled	0.0	
-138847	2009070760886	2009-06-26 00:00:00	2009-06-02 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	3356.5	Watches & Jewelry	Denied	0.0	Deny
-139647	2009072361664	2009-07-17 00:00:00	2009-07-05 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	568.44	Other	Denied	0.0	Deny
-140292	2009080462195	2009-08-04 00:00:00	2009-07-23 00:00:00	GJT	Walker Field	American Airlines	Passenger Property Loss	Checkpoint	191.0	Clothing & Accessories,Other	Denied	0.0	Deny
-140702	2009082062799	2009-08-14 00:00:00	2009-08-01 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	122.1	Cosmetics,Supplies,Outdoors Supplies	Denied	0.0	Deny
-142734	2009102364670	2009-10-16 00:00:00	2009-07-10 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	2350.0	Electronics	Settled	250.0	Settle
-146763	2010032369912	2010-03-16 00:00:00	2010-02-28 00:00:00	GJT	Walker Field		Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-148221	2010050371406	2010-04-30 00:00:00	2010-04-07 12:11:00	GJT	Walker Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Other		372.78	Settle
-152340	2010090575675	2010-08-31 00:00:00	2010-08-29 12:00:00	GJT	Walker Field		Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-157881	2011032381385	2011-02-28 00:00:00	2011-01-30 08:30:00	GJT	Walker Field	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-160418	2011072185422	2011-05-22 00:00:00	2011-05-22 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		8.03	Approve in Full
-164399	2011101787978	2011-10-03 00:00:00	2011-09-18 00:00:00	GJT	Walker Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-170463	2012052194107	2012-04-30 00:00:00	2012-02-26 08:00:00	GJT	Walker Field	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories		0.0	Deny
-179320	2013040503009	2013-03-22 00:00:00	2013-03-01 00:00:00	GJT	Walker Field		Passenger Property Loss	Checkpoint		Watches & Jewelry			
-188433	2014030512208	2014-03-03 00:00:00	2013-12-19 00:00:00	GJT	Walker Field	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-192368	2014082616228	2014-08-12 00:00:00	2014-06-28 00:00:00	GJT	Walker Field		Passenger Property Loss	Checkpoint		Clothing & Accessories			
-198290	2015092325541	2015-09-09 00:00:00	2015-08-19 00:00:00	GJT	Walker Field	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-215203	2017122246265	2017-11-24 00:00:00	2017-11-17 06:00:00	GJT	Walker Field Walker Field	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+41795	2004090362098	2004-08-05 00:00:00	2004-06-29 00:00:00	GJT	Walker Field		Passenger Property Loss	Checked Baggage	880.0	Supplies	Medicines	Denied	0.0	Deny
+63683	2005051784878	2005-05-11 00:00:00	2005-04-11 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+78112	2006010999063	2006-01-04 00:00:00	2005-12-25 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Settled	100.0	Settle
+81299	2006030302425	2006-02-27 00:00:00	2006-02-10 00:00:00	GJT	Walker Field	Frontier Airlines	Passenger Property Loss	Checked Baggage	100.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+94721	2006112216025	2006-11-16 00:00:00	2006-10-20 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	95.0	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Approved	95.0	Approve in Full
+94746	2006112216048	2006-11-16 00:00:00	2006-10-31 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checkpoint	11.83	Other	Other	Denied	0.0	Deny
+104183	2007051725576	2007-05-14 00:00:00	2007-04-25 00:00:00	GJT	Walker Field	Frontier Airlines	Passenger Property Loss	Checked Baggage	128.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	128.0	Approve in Full
+105129	2007060526315	2007-06-01 00:00:00	2007-05-03 00:00:00	GJT	Walker Field	America West	Passenger Property Loss	Checked Baggage	218.0	Cosmetics,Watches & Jewelry	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume	Denied	0.0	Deny
+117536	2008020539099	2008-01-29 00:00:00	2008-01-08 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Locks	Denied	0.0	Deny
+122096	2008042943546	2008-04-29 00:00:00	2008-04-13 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Camping Equipment & Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+125699	2008072847512	2008-07-18 00:00:00	2008-06-11 00:00:00	GJT	Walker Field	Frontier Airlines	Passenger Property Loss	Checkpoint	533.49	Other	Other	Denied	0.0	Deny
+134493	2009031856447	2009-02-27 00:00:00	2009-02-16 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	715.0	Electronics,Electronics,Other	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Currency	Denied	0.0	Deny
+138612	2009070260819	2009-06-22 00:00:00	2009-06-03 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	174.0	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Canceled	0.0	
+138847	2009070760886	2009-06-26 00:00:00	2009-06-02 00:00:00	GJT	Walker Field	UAL	Passenger Property Loss	Checked Baggage	3356.5	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+139647	2009072361664	2009-07-17 00:00:00	2009-07-05 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	568.44	Other	Other	Denied	0.0	Deny
+140292	2009080462195	2009-08-04 00:00:00	2009-07-23 00:00:00	GJT	Walker Field	American Airlines	Passenger Property Loss	Checkpoint	191.0	Clothing & Accessories,Other	Eyeglasses - (including contact lenses)*Other	Denied	0.0	Deny
+140702	2009082062799	2009-08-14 00:00:00	2009-08-01 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	122.1	Cosmetics,Supplies,Outdoors Supplies	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+142734	2009102364670	2009-10-16 00:00:00	2009-07-10 00:00:00	GJT	Walker Field	USAir	Passenger Property Loss	Checked Baggage	2350.0	Electronics	Hearing Aids	Settled	250.0	Settle
+146763	2010032369912	2010-03-16 00:00:00	2010-02-28 00:00:00	GJT	Walker Field		Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+148221	2010050371406	2010-04-30 00:00:00	2010-04-07 12:11:00	GJT	Walker Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Other	Other		372.78	Settle
+152340	2010090575675	2010-08-31 00:00:00	2010-08-29 12:00:00	GJT	Walker Field		Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+157881	2011032381385	2011-02-28 00:00:00	2011-01-30 08:30:00	GJT	Walker Field	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+160418	2011072185422	2011-05-22 00:00:00	2011-05-22 00:00:00	GJT	Walker Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		8.03	Approve in Full
+164399	2011101787978	2011-10-03 00:00:00	2011-09-18 00:00:00	GJT	Walker Field	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+170463	2012052194107	2012-04-30 00:00:00	2012-02-26 08:00:00	GJT	Walker Field	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories	Baggage/Cases/Purses*Clothing		0.0	Deny
+179320	2013040503009	2013-03-22 00:00:00	2013-03-01 00:00:00	GJT	Walker Field		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+188433	2014030512208	2014-03-03 00:00:00	2013-12-19 00:00:00	GJT	Walker Field	American Airlines	Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+192368	2014082616228	2014-08-12 00:00:00	2014-06-28 00:00:00	GJT	Walker Field		Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing			
+198290	2015092325541	2015-09-09 00:00:00	2015-08-19 00:00:00	GJT	Walker Field	Allegiant Air	Passenger Property Loss	Checked Baggage		Other	Currency		0.0	Deny
+215203	2017122246265	2017-11-24 00:00:00	2017-11-17 06:00:00	GJT	Walker Field Walker Field	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review

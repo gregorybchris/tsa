@@ -1,134 +1,134 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-8785	0617093L	2003-06-17 00:00:00	2003-06-06 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	67.0	Other	Settled	33.5	Settle
-12826	0808007M	2003-08-08 00:00:00	2003-07-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	729.0	Electronics	Settled	364.5	Settle
-17381	1006089M	2003-10-06 00:00:00	2003-09-14 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	55.0	Other	Denied	0.0	Deny
-18384	1021305M	2003-10-21 00:00:00	2003-08-12 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	230.0	Watches & Jewelry	Denied	0.0	Deny
-19688	1107158M	2003-11-07 00:00:00	2003-10-03 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Approved	24.0	Approve in Full
-36334	2004070858756	2004-05-27 00:00:00	2004-01-24 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	815.0	Other	Denied	0.0	Deny
-38677	2004071058975	2004-06-25 00:00:00	2004-05-22 00:00:00	FAI	Fairbanks International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	380.15	Electronics	Approved	380.15	Approve in Full
-40518	2004081061051	2004-07-20 00:00:00	2004-07-10 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	450.0	Other	Approved	450.0	Approve in Full
-40663	2004072760138	2004-07-20 00:00:00	2004-05-15 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	450.0	Other	Settled	225.0	Settle
-42938	2004092964240	2004-08-19 00:00:00	2004-08-08 00:00:00	FAI	Fairbanks International	AirTran Airlines	Passenger Property Loss	Checked Baggage	1986.49	Electronics	Settled	279.8	Settle
-43016	2004091663048	2004-08-24 00:00:00	2004-07-24 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Approved	25.0	Approve in Full
-44568	2004102765762	2004-09-10 00:00:00	2004-08-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	440.0	Other	Denied	0.0	Deny
-44711	2004092263370	2004-09-14 00:00:00	2004-08-15 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	9.71	Other	Approved	9.71	Approve in Full
-45660	2004120168139	2004-09-23 00:00:00	2004-08-13 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	45.0	Other	Approved	45.0	Approve in Full
-45860	2004110866680	2004-09-23 00:00:00	2004-09-03 00:00:00	FAI	Fairbanks International	British Airways	Passenger Property Loss	Checked Baggage	138.0	Other	Settled	69.0	Settle
-46581	2004111767282	2004-10-05 00:00:00	2004-09-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-49588	2004122069692	2004-11-09 00:00:00	2004-08-28 00:00:00	FAI	Fairbanks International	UAL	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Denied	0.0	Deny
-50529	2004122971493	2004-11-23 00:00:00	2004-10-30 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	54.0	Other	Approved	54.0	Approve in Full
-51351	2004122270322	2004-12-07 00:00:00	2004-11-19 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	79.0	Clothing & Accessories	Canceled	0.0	
-54640	2005013175048	2005-01-14 00:00:00	2004-12-21 00:00:00	FAI	Fairbanks International	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Settled	50.0	Settle
-56656	2005031077553	2005-02-07 00:00:00	2004-12-22 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	314.98	Clothing & Accessories	Settled	113.49	Settle
-57064	2005031277945	2005-02-11 00:00:00	2004-12-18 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	60.0	Electronics	Approved	60.0	Approve in Full
-58449	2005032379409	2005-03-07 00:00:00	2005-02-18 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	14.95	Other	Approved	14.95	Approve in Full
-59862	2005033180876	2005-03-23 00:00:00	2005-02-09 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	59.73	Other	Approved	59.73	Approve in Full
-61261	2005041182098	2005-04-07 00:00:00	2005-03-30 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	499.0	Electronics	Settled	123.0	Settle
-63013	2005050484024	2005-05-02 00:00:00	2005-03-30 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	22.0	Other	Denied	0.0	Deny
-63063	2005050484080	2005-05-03 00:00:00	2005-04-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	99.49	Other	Approved	99.49	Approve in Full
-63500	2005051184452	2005-05-10 00:00:00	2005-04-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	22.9	Other	Approved	22.9	Approve in Full
-64010	2005051884960	2005-05-16 00:00:00	2005-05-09 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	625.45	Supplies	Settled	224.74	Settle
-65744	2005062086702	2005-06-08 00:00:00	2005-05-22 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-67041	2005071288654	2005-06-28 00:00:00	2005-05-29 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	272.0	Clothing & Accessories	Approved	272.0	Approve in Full
-67723	2005071288665	2005-07-08 00:00:00	2005-01-28 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	18.0	Clothing & Accessories	Settled	9.0	Settle
-68824	2005072989944	2005-07-26 00:00:00	2005-07-13 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Canceled	0.0	
-68963	2005080289986	2005-07-27 00:00:00	2005-07-19 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.9	Other	Canceled	0.0	
-69570	2005081890907	2005-08-05 00:00:00	2005-06-03 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	106.7	Clothing & Accessories	Approved	106.7	Approve in Full
-70098	2005082291124	2005-08-15 00:00:00	2005-07-22 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	5.56	Other	Denied	0.0	Deny
-70619	2005082991676	2005-08-23 00:00:00	2005-07-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2800.0	Other	Denied	0.0	Deny
-71360	2005091492510	2005-09-06 00:00:00	2005-08-23 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	10.95	Tools & Machines	Approved	10.95	Approve in Full
-71662	2005091992806	2005-09-09 00:00:00	2004-09-15 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checkpoint	23.54	Other	Approved	23.54	Approve in Full
-72050	2005092293130	2005-09-14 00:00:00	2005-08-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	104.92	Other	Settled	52.46	Settle
-72181	2005092693280	2005-09-19 00:00:00	2005-06-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	231.0	Clothing & Accessories	Approved	231.0	Approve in Full
-72198	2005092893378	2005-09-19 00:00:00	2005-08-20 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	16.1	Tools & Machines	Approved	16.1	Approve in Full
-73076	2005100694237	2005-10-03 00:00:00	2005-09-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	42.16	Other	Approved	42.16	Approve in Full
-73286	2005100794318	2005-10-04 00:00:00	2005-07-22 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	189.0	Clothing & Accessories	Settled	94.5	Settle
-73844	2005101794734	2005-10-17 00:00:00	2005-09-28 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1890.0	Electronics	Denied	0.0	Deny
-73847	2005101994863	2005-10-17 00:00:00	2005-02-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Denied	0.0	Deny
-73976	2005102495101	2005-10-18 00:00:00	2005-10-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	8.99	Tools & Machines	Approved	8.99	Approve in Full
-74460	2005110295523	2005-10-25 00:00:00	2005-09-19 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	1400.0	Other	Settled	1369.0	Settle
-76988	2005122098130	2005-12-13 00:00:00	2005-11-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	165.0	Electronics	Approved	165.0	Approve in Full
-77364	2005122798427	2005-12-21 00:00:00	2005-07-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	142.4	Outdoors Supplies	Approved	142.4	Approve in Full
-78736	2006012300084	2006-01-12 00:00:00	2006-01-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	604.87	Clothing & Accessories	Denied	0.0	Deny
-79066	2006012500285	2006-01-18 00:00:00	2005-06-13 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	85.24	Other	Denied	0.0	Deny
-79422	2006013100687	2006-01-24 00:00:00	2005-08-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
-79956	2006020801133	2006-02-01 00:00:00	2005-12-26 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Approved	150.0	Approve in Full
-82224	2006032103433	2006-03-14 00:00:00	2006-02-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	244.5	Electronics	Denied	0.0	Deny
-82687	2006040604165	2006-03-22 00:00:00	2006-03-19 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2214.0	Electronics	Denied	0.0	Deny
-85726	2006052406958	2006-05-23 00:00:00	2006-04-08 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
-86134	2006060607414	2006-06-01 00:00:00	2006-05-17 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	900.0	Electronics	Denied	0.0	Deny
-86934	2006061908148	2006-06-16 00:00:00	2006-06-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	56.94	Electronics	Denied	0.0	Deny
-87322	2006062608533	2006-06-23 00:00:00	2003-05-23 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	108.99	Clothing & Accessories,Other	Settled	54.5	Settle
-88574	2006071909751	2006-07-18 00:00:00	2006-07-09 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
-89373	2006080910647	2006-08-03 00:00:00	2006-07-06 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1756.19	Other,Supplies,Other	Denied	0.0	Deny
-90212	2006082511610	2006-08-21 00:00:00	2006-07-27 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	87.96	Watches & Jewelry	Canceled	0.0	
-90615	2006083111865	2006-08-28 00:00:00	2006-08-20 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	55.0	Outdoors Supplies	Canceled	0.0	
-94185	2006111515633	2006-11-06 00:00:00	2006-08-05 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	337.0	Other	Denied	0.0	Deny
-95837	2006121417100	2006-12-07 00:00:00	2006-10-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	108.78	Supplies	Denied	0.0	Deny
-96785	2006122818118	2006-12-27 00:00:00	2006-11-20 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Food & Drink,Electronics,Clothing & Accessories	Denied	0.0	Deny
-100477	2007022821689	2007-02-27 00:00:00	2007-12-24 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	625.95	Clothing & Accessories	Denied	0.0	Deny
-106034	2007062127349	2007-06-19 00:00:00	2007-06-14 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checkpoint	200.0	Electronics	Denied	0.0	Deny
-106127	2007062527447	2007-06-20 00:00:00	2007-05-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
-106790	2007071828588	2007-07-05 00:00:00	2007-07-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1035.0	Watches & Jewelry,Watches & Jewelry	Canceled	0.0	
-107522	2007072028814	2007-07-19 00:00:00	2007-06-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
-108110	2007080229549	2007-07-30 00:00:00	2007-07-04 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.99	Watches & Jewelry	Approved	39.99	Approve in Full
-109154	2007082030483	2007-08-16 00:00:00	2007-07-31 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	512.68	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-109249	2004092763957	2007-08-19 00:00:00	2004-07-20 00:00:00	FAI	Fairbanks International	American Airlines	Passenger Property Loss	Checked Baggage	275.0	Outdoors Supplies	Denied	0.0	Deny
-109438	2007082430881	2007-08-22 00:00:00	2007-07-27 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-110245	2007091031596	2007-09-05 00:00:00	2007-08-08 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Settled	25.0	Settle
-111031	2007092632612	2007-09-20 00:00:00	2007-09-15 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-112595	2007102934079	2007-10-23 00:00:00	2007-10-08 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
-114010	2007112135306	2007-11-20 00:00:00	2007-08-30 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	225.0	Watches & Jewelry	Denied	0.0	Deny
-115317	2007122636885	2007-12-17 00:00:00	2007-11-24 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	50.0	Containers	Denied	0.0	Deny
-116704	2008011838219	2008-01-14 00:00:00	2008-01-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	399.95	Electronics	Denied	0.0	Deny
-120785	2008041142481	2008-04-03 00:00:00	2008-03-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	138.87	Clothing & Accessories	Settled	62.66	Settle
-121122	2008041742729	2008-04-10 00:00:00	2008-03-28 00:00:00	FAI	Fairbanks International	UAL	Passenger Property Loss	Checked Baggage	242.0	Other	Denied	0.0	Deny
-123744	2008060945375	2008-06-04 00:00:00	2008-05-28 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	26.0	Other	Denied	0.0	Deny
-124061	2008061845816	2008-06-11 00:00:00	2008-06-03 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	108.0	Clothing & Accessories	Denied	0.0	Deny
-124576	2008062646240	2008-06-24 00:00:00	2008-06-02 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-126204	2008080447959	2008-07-30 00:00:00	2008-07-18 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	108.0	Electronics	Denied	0.0	Deny
-128455	2008092450362	2008-09-18 00:00:00	2008-09-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	18.95	Tools & Machines	Denied	0.0	Deny
-129414	2008102151376	2008-10-14 00:00:00	2008-10-01 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
-138957	2009070860946	2009-06-30 00:00:00	2009-06-28 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage		Outdoors Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-140130	2009080362143	2009-07-30 00:00:00	2009-07-02 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	369.48	Electronics	Denied	0.0	Deny
-141379	2009090463385	2009-09-03 00:00:00	2009-08-18 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-141847	2009092363949	2009-09-17 00:00:00	2009-09-09 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	225.0	Electronics	Denied	0.0	Deny
-144470	2009121666577	2009-12-09 00:00:00	2009-11-08 17:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	595.0	Clothing & Accessories,Cosmetics,Electronics	Denied	0.0	Deny
-145383	2010012868022	2010-01-25 00:00:00	2010-01-15 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-148210	2010050371389	2010-04-29 00:00:00	2010-04-18 06:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-150615	2010071773840	2010-07-14 00:00:00	2010-06-22 09:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-152057	2010072474017	2010-08-24 00:00:00	2010-06-17 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-153170	2010093076555	2010-09-27 00:00:00	2010-08-14 06:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		157.32	Approve in Full
-153209	2010100576667	2010-09-27 00:00:00	2010-09-08 08:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		7.82	Approve in Full
-161556	2011070885065	2011-06-28 00:00:00	2011-06-18 06:15:00	FAI	Fairbanks International	ATA Aerocondor	Passenger Property Loss	Checked Baggage		Cosmetics		8.95	Approve in Full
-163180	2011090786771	2011-08-17 00:00:00	2011-08-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-163622	2011092787184	2011-09-01 00:00:00	2011-08-21 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		83.33	Settle
-164510	2012010489950	2011-10-04 00:00:00	2011-07-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-165433	2011120889415	2011-11-02 00:00:00	2011-09-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other,Cosmetics			
-168588	2012032992271	2012-02-21 00:00:00	2012-02-06 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
-170774	2012050993752	2012-05-09 00:00:00	2011-07-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		175.0	Approve in Full
-171459	2012070995144	2012-06-04 00:00:00	2012-05-26 06:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Settle
-172242	2012081696001	2012-07-02 00:00:00	2012-06-21 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-173263	2012092497101	2012-08-07 00:00:00	2012-07-24 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Household Decor,Household Items,Outdoors Supplies,Other,Outdoors Supplies		0.0	Deny
-173499	2012100397392	2012-08-15 00:00:00	2012-08-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-174170	2012102297886	2012-09-10 00:00:00	2012-08-07 07:45:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint		Electronics		143.13	Settle
-178385	2013022602048	2013-02-19 00:00:00	2012-11-12 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		300.0	Settle
-182653	2013072405397	2013-07-24 00:00:00	2013-06-15 06:15:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		13.72	Approve in Full
-182695	2013090206461	2013-07-25 00:00:00	2013-07-02 15:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-183707	2013102207595	2013-08-28 00:00:00	2013-08-18 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		8.63	Approve in Full
-184409	2013102808093	2013-09-20 00:00:00	2013-08-01 18:20:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			
-188636	2014031312418	2014-03-12 00:00:00	2014-03-08 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories			
-193487	2014100617370	2014-09-24 00:00:00	2014-08-15 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint		Other		35.0	Approve in Full
-198069	2015040121661	2015-04-01 00:00:00	2015-03-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-198070	2015090125238	2015-08-25 00:00:00	2015-07-31 00:00:00	FAI	Fairbanks International	Aires Airline	Passenger Property Loss	Checked Baggage		Outdoors Supplies		53.5	Settle
-198071	2015100125814	2015-09-11 00:00:00	2015-09-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-206691	2016051231295	2016-04-28 00:00:00	2016-04-05 05:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies			In Review
-206692	2016082433281	2016-07-13 00:00:00	2016-06-28 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-206696	2016100434316	2016-08-09 00:00:00	2016-07-25 19:00:00	FAI	Fairbanks International Fairbanks International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
-206697	2016102635217	2016-10-26 00:00:00	2016-09-01 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-214910	2017021537541	2017-01-09 00:00:00	2017-01-07 04:56:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		8.75	Approve in Full
-214911	2017081842324	2017-07-10 00:00:00	2017-06-19 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
-214912	2017082142372	2017-07-10 00:00:00	2017-05-27 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-214914	2017030737866	2017-01-17 00:00:00	2017-01-05 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-214915	2017111445163	2017-10-24 00:00:00	2017-07-17 08:19:00	FAI	Fairbanks International Fairbanks International		Passenger Property Loss	Checked Baggage		Other			In Review
-214916	2017032738231	2017-01-30 00:00:00	2017-01-24 16:58:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+8785	0617093L	2003-06-17 00:00:00	2003-06-06 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	67.0	Other	Other	Settled	33.5	Settle
+12826	0808007M	2003-08-08 00:00:00	2003-07-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	729.0	Electronics	Cameras - Digital	Settled	364.5	Settle
+17381	1006089M	2003-10-06 00:00:00	2003-09-14 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	55.0	Other	Other	Denied	0.0	Deny
+18384	1021305M	2003-10-21 00:00:00	2003-08-12 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	230.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+19688	1107158M	2003-11-07 00:00:00	2003-10-03 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Locks	Approved	24.0	Approve in Full
+36334	2004070858756	2004-05-27 00:00:00	2004-01-24 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	815.0	Other	Other	Denied	0.0	Deny
+38677	2004071058975	2004-06-25 00:00:00	2004-05-22 00:00:00	FAI	Fairbanks International	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	380.15	Electronics	Cameras - Digital	Approved	380.15	Approve in Full
+40518	2004081061051	2004-07-20 00:00:00	2004-07-10 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	450.0	Other	Other	Approved	450.0	Approve in Full
+40663	2004072760138	2004-07-20 00:00:00	2004-05-15 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	450.0	Other	Other	Settled	225.0	Settle
+42938	2004092964240	2004-08-19 00:00:00	2004-08-08 00:00:00	FAI	Fairbanks International	AirTran Airlines	Passenger Property Loss	Checked Baggage	1986.49	Electronics	DVD/CD Players	Settled	279.8	Settle
+43016	2004091663048	2004-08-24 00:00:00	2004-07-24 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	25.0	Approve in Full
+44568	2004102765762	2004-09-10 00:00:00	2004-08-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	440.0	Other	Currency	Denied	0.0	Deny
+44711	2004092263370	2004-09-14 00:00:00	2004-08-15 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	9.71	Other	Other	Approved	9.71	Approve in Full
+45660	2004120168139	2004-09-23 00:00:00	2004-08-13 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	45.0	Other	Other	Approved	45.0	Approve in Full
+45860	2004110866680	2004-09-23 00:00:00	2004-09-03 00:00:00	FAI	Fairbanks International	British Airways	Passenger Property Loss	Checked Baggage	138.0	Other	Other	Settled	69.0	Settle
+46581	2004111767282	2004-10-05 00:00:00	2004-09-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+49588	2004122069692	2004-11-09 00:00:00	2004-08-28 00:00:00	FAI	Fairbanks International	UAL	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+50529	2004122971493	2004-11-23 00:00:00	2004-10-30 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	54.0	Other	Other	Approved	54.0	Approve in Full
+51351	2004122270322	2004-12-07 00:00:00	2004-11-19 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	79.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+54640	2005013175048	2005-01-14 00:00:00	2004-12-21 00:00:00	FAI	Fairbanks International	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Other	Settled	50.0	Settle
+56656	2005031077553	2005-02-07 00:00:00	2004-12-22 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	314.98	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	113.49	Settle
+57064	2005031277945	2005-02-11 00:00:00	2004-12-18 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	60.0	Electronics	DVD/CD Players	Approved	60.0	Approve in Full
+58449	2005032379409	2005-03-07 00:00:00	2005-02-18 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	14.95	Other	Other	Approved	14.95	Approve in Full
+59862	2005033180876	2005-03-23 00:00:00	2005-02-09 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	59.73	Other	Other	Approved	59.73	Approve in Full
+61261	2005041182098	2005-04-07 00:00:00	2005-03-30 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	499.0	Electronics	Cameras - Digital	Settled	123.0	Settle
+63013	2005050484024	2005-05-02 00:00:00	2005-03-30 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	22.0	Other	Other	Denied	0.0	Deny
+63063	2005050484080	2005-05-03 00:00:00	2005-04-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	99.49	Other	Other	Approved	99.49	Approve in Full
+63500	2005051184452	2005-05-10 00:00:00	2005-04-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	22.9	Other	Other	Approved	22.9	Approve in Full
+64010	2005051884960	2005-05-16 00:00:00	2005-05-09 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	625.45	Supplies	Medicines	Settled	224.74	Settle
+65744	2005062086702	2005-06-08 00:00:00	2005-05-22 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+67041	2005071288654	2005-06-28 00:00:00	2005-05-29 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	272.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	272.0	Approve in Full
+67723	2005071288665	2005-07-08 00:00:00	2005-01-28 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	18.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	9.0	Settle
+68824	2005072989944	2005-07-26 00:00:00	2005-07-13 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	60.0	Other	Other	Canceled	0.0	
+68963	2005080289986	2005-07-27 00:00:00	2005-07-19 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.9	Other	Other	Canceled	0.0	
+69570	2005081890907	2005-08-05 00:00:00	2005-06-03 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	106.7	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	106.7	Approve in Full
+70098	2005082291124	2005-08-15 00:00:00	2005-07-22 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	5.56	Other	Other	Denied	0.0	Deny
+70619	2005082991676	2005-08-23 00:00:00	2005-07-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2800.0	Other	Other	Denied	0.0	Deny
+71360	2005091492510	2005-09-06 00:00:00	2005-08-23 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	10.95	Tools & Machines	Locks	Approved	10.95	Approve in Full
+71662	2005091992806	2005-09-09 00:00:00	2004-09-15 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checkpoint	23.54	Other	Other	Approved	23.54	Approve in Full
+72050	2005092293130	2005-09-14 00:00:00	2005-08-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	104.92	Other	Other	Settled	52.46	Settle
+72181	2005092693280	2005-09-19 00:00:00	2005-06-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	231.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	231.0	Approve in Full
+72198	2005092893378	2005-09-19 00:00:00	2005-08-20 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	16.1	Tools & Machines	Locks	Approved	16.1	Approve in Full
+73076	2005100694237	2005-10-03 00:00:00	2005-09-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	42.16	Other	Other	Approved	42.16	Approve in Full
+73286	2005100794318	2005-10-04 00:00:00	2005-07-22 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	189.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	94.5	Settle
+73844	2005101794734	2005-10-17 00:00:00	2005-09-28 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1890.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+73847	2005101994863	2005-10-17 00:00:00	2005-02-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+73976	2005102495101	2005-10-18 00:00:00	2005-10-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	8.99	Tools & Machines	Locks	Approved	8.99	Approve in Full
+74460	2005110295523	2005-10-25 00:00:00	2005-09-19 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	1400.0	Other	Other	Settled	1369.0	Settle
+76988	2005122098130	2005-12-13 00:00:00	2005-11-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	165.0	Electronics	Computer - Laptop	Approved	165.0	Approve in Full
+77364	2005122798427	2005-12-21 00:00:00	2005-07-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	142.4	Outdoors Supplies	Fish/Game	Approved	142.4	Approve in Full
+78736	2006012300084	2006-01-12 00:00:00	2006-01-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	604.87	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+79066	2006012500285	2006-01-18 00:00:00	2005-06-13 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	85.24	Other	Other	Denied	0.0	Deny
+79422	2006013100687	2006-01-24 00:00:00	2005-08-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other	Canceled	0.0	
+79956	2006020801133	2006-02-01 00:00:00	2005-12-26 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	150.0	Approve in Full
+82224	2006032103433	2006-03-14 00:00:00	2006-02-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	244.5	Electronics	Cell Phones	Denied	0.0	Deny
+82687	2006040604165	2006-03-22 00:00:00	2006-03-19 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2214.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+85726	2006052406958	2006-05-23 00:00:00	2006-04-08 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.0	Electronics,Clothing & Accessories	Cell Phones*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+86134	2006060607414	2006-06-01 00:00:00	2006-05-17 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	900.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+86934	2006061908148	2006-06-16 00:00:00	2006-06-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	56.94	Electronics	Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)	Denied	0.0	Deny
+87322	2006062608533	2006-06-23 00:00:00	2003-05-23 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	108.99	Clothing & Accessories,Other	Clothing - Shoes, belts, accessories, etc.*Other	Settled	54.5	Settle
+88574	2006071909751	2006-07-18 00:00:00	2006-07-09 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Denied	0.0	Deny
+89373	2006080910647	2006-08-03 00:00:00	2006-07-06 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1756.19	Other,Supplies,Other	Currency*Medicines*Other	Denied	0.0	Deny
+90212	2006082511610	2006-08-21 00:00:00	2006-07-27 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	87.96	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+90615	2006083111865	2006-08-28 00:00:00	2006-08-20 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	55.0	Outdoors Supplies	Tools - Manual (not in a vehicle)	Canceled	0.0	
+94185	2006111515633	2006-11-06 00:00:00	2006-08-05 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	337.0	Other	Other	Denied	0.0	Deny
+95837	2006121417100	2006-12-07 00:00:00	2006-10-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	108.78	Supplies	Medicines	Denied	0.0	Deny
+96785	2006122818118	2006-12-27 00:00:00	2006-11-20 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Food & Drink,Electronics,Clothing & Accessories	Alcoholic beverages*Audio - CD's*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+100477	2007022821689	2007-02-27 00:00:00	2007-12-24 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	625.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+106034	2007062127349	2007-06-19 00:00:00	2007-06-14 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checkpoint	200.0	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+106127	2007062527447	2007-06-20 00:00:00	2007-05-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+106790	2007071828588	2007-07-05 00:00:00	2007-07-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1035.0	Watches & Jewelry,Watches & Jewelry	Jewelry - Fine*Watches - Inexpensive $100 or less	Canceled	0.0	
+107522	2007072028814	2007-07-19 00:00:00	2007-06-23 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Other	Approved	15.0	Approve in Full
+108110	2007080229549	2007-07-30 00:00:00	2007-07-04 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.99	Watches & Jewelry	Jewelry - Fine	Approved	39.99	Approve in Full
+109154	2007082030483	2007-08-16 00:00:00	2007-07-31 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	512.68	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+109249	2004092763957	2007-08-19 00:00:00	2004-07-20 00:00:00	FAI	Fairbanks International	American Airlines	Passenger Property Loss	Checked Baggage	275.0	Outdoors Supplies	Fish/Game	Denied	0.0	Deny
+109438	2007082430881	2007-08-22 00:00:00	2007-07-27 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+110245	2007091031596	2007-09-05 00:00:00	2007-08-08 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	25.0	Settle
+111031	2007092632612	2007-09-20 00:00:00	2007-09-15 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Approved	15.0	Approve in Full
+112595	2007102934079	2007-10-23 00:00:00	2007-10-08 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Currency	Approved	100.0	Approve in Full
+114010	2007112135306	2007-11-20 00:00:00	2007-08-30 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage	225.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+115317	2007122636885	2007-12-17 00:00:00	2007-11-24 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	50.0	Containers	Tool Chests & Tool Boxes (not in a vehicle)_	Denied	0.0	Deny
+116704	2008011838219	2008-01-14 00:00:00	2008-01-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	399.95	Electronics	Cameras - Digital	Denied	0.0	Deny
+120785	2008041142481	2008-04-03 00:00:00	2008-03-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	138.87	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	62.66	Settle
+121122	2008041742729	2008-04-10 00:00:00	2008-03-28 00:00:00	FAI	Fairbanks International	UAL	Passenger Property Loss	Checked Baggage	242.0	Other	Other	Denied	0.0	Deny
+123744	2008060945375	2008-06-04 00:00:00	2008-05-28 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	26.0	Other	Other	Denied	0.0	Deny
+124061	2008061845816	2008-06-11 00:00:00	2008-06-03 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	108.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+124576	2008062646240	2008-06-24 00:00:00	2008-06-02 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Denied	0.0	Deny
+126204	2008080447959	2008-07-30 00:00:00	2008-07-18 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint	108.0	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+128455	2008092450362	2008-09-18 00:00:00	2008-09-07 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	18.95	Tools & Machines	Locks	Denied	0.0	Deny
+129414	2008102151376	2008-10-14 00:00:00	2008-10-01 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+138957	2009070860946	2009-06-30 00:00:00	2009-06-28 00:00:00	FAI	Fairbanks International		Passenger Property Loss	Checked Baggage		Outdoors Supplies	Fish/Game	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+140130	2009080362143	2009-07-30 00:00:00	2009-07-02 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	369.48	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+141379	2009090463385	2009-09-03 00:00:00	2009-08-18 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+141847	2009092363949	2009-09-17 00:00:00	2009-09-09 00:00:00	FAI	Fairbanks International	Northwest Airlines	Passenger Property Loss	Checked Baggage	225.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+144470	2009121666577	2009-12-09 00:00:00	2009-11-08 17:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage	595.0	Clothing & Accessories,Cosmetics,Electronics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+145383	2010012868022	2010-01-25 00:00:00	2010-01-15 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video		0.0	Deny
+148210	2010050371389	2010-04-29 00:00:00	2010-04-18 06:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+150615	2010071773840	2010-07-14 00:00:00	2010-06-22 09:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+152057	2010072474017	2010-08-24 00:00:00	2010-06-17 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+153170	2010093076555	2010-09-27 00:00:00	2010-08-14 06:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		157.32	Approve in Full
+153209	2010100576667	2010-09-27 00:00:00	2010-09-08 08:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		7.82	Approve in Full
+161556	2011070885065	2011-06-28 00:00:00	2011-06-18 06:15:00	FAI	Fairbanks International	ATA Aerocondor	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		8.95	Approve in Full
+163180	2011090786771	2011-08-17 00:00:00	2011-08-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+163622	2011092787184	2011-09-01 00:00:00	2011-08-21 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		83.33	Settle
+164510	2012010489950	2011-10-04 00:00:00	2011-07-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+165433	2011120889415	2011-11-02 00:00:00	2011-09-16 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other,Cosmetics	Other*Travel Accessories			
+168588	2012032992271	2012-02-21 00:00:00	2012-02-06 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Household Items	Household Items		0.0	Deny
+170774	2012050993752	2012-05-09 00:00:00	2011-07-14 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		175.0	Approve in Full
+171459	2012070995144	2012-06-04 00:00:00	2012-05-26 06:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		20.0	Settle
+172242	2012081696001	2012-07-02 00:00:00	2012-06-21 00:00:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+173263	2012092497101	2012-08-07 00:00:00	2012-07-24 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Household Decor,Household Items,Outdoors Supplies,Other,Outdoors Supplies	Cameras*Computer & Accessories*Home Decor*Household Items*Hunting & Fishing Items*Other*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+173499	2012100397392	2012-08-15 00:00:00	2012-08-05 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+174170	2012102297886	2012-09-10 00:00:00	2012-08-07 07:45:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint		Electronics	Cameras		143.13	Settle
+178385	2013022602048	2013-02-19 00:00:00	2012-11-12 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		300.0	Settle
+182653	2013072405397	2013-07-24 00:00:00	2013-06-15 06:15:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		13.72	Approve in Full
+182695	2013090206461	2013-07-25 00:00:00	2013-07-02 15:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+183707	2013102207595	2013-08-28 00:00:00	2013-08-18 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		8.63	Approve in Full
+184409	2013102808093	2013-09-20 00:00:00	2013-08-01 18:20:00	FAI	Fairbanks International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+188636	2014031312418	2014-03-12 00:00:00	2014-03-08 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories	Baggage/Cases/Purses*Clothing			
+193487	2014100617370	2014-09-24 00:00:00	2014-08-15 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checkpoint		Other	Currency		35.0	Approve in Full
+198069	2015040121661	2015-04-01 00:00:00	2015-03-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+198070	2015090125238	2015-08-25 00:00:00	2015-07-31 00:00:00	FAI	Fairbanks International	Aires Airline	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		53.5	Settle
+198071	2015100125814	2015-09-11 00:00:00	2015-09-10 00:00:00	FAI	Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+206691	2016051231295	2016-04-28 00:00:00	2016-04-05 05:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies	Hunting & Fishing Items*Tools & Home Improvement Supplies			In Review
+206692	2016082433281	2016-07-13 00:00:00	2016-06-28 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+206696	2016100434316	2016-08-09 00:00:00	2016-07-25 19:00:00	FAI	Fairbanks International Fairbanks International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			In Review
+206697	2016102635217	2016-10-26 00:00:00	2016-09-01 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+214910	2017021537541	2017-01-09 00:00:00	2017-01-07 04:56:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		8.75	Approve in Full
+214911	2017081842324	2017-07-10 00:00:00	2017-06-19 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			In Review
+214912	2017082142372	2017-07-10 00:00:00	2017-05-27 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+214914	2017030737866	2017-01-17 00:00:00	2017-01-05 00:00:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+214915	2017111445163	2017-10-24 00:00:00	2017-07-17 08:19:00	FAI	Fairbanks International Fairbanks International		Passenger Property Loss	Checked Baggage		Other	Other			In Review
+214916	2017032738231	2017-01-30 00:00:00	2017-01-24 16:58:00	FAI	Fairbanks International Fairbanks International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			Insufficient

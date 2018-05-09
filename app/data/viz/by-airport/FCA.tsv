@@ -1,23 +1,23 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-14081	0822004M	2003-08-22 00:00:00	2003-07-29 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	134.95	Other	Denied	0.0	Deny
-19972	1107086M	2003-11-07 00:00:00	2003-08-11 00:00:00	FCA	Kalispell, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	50.0	Settle
-48134	2004121469049	2004-10-25 00:00:00	2004-09-10 00:00:00	FCA	Kalispell, MT	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	306.0	Other	Canceled	0.0	
-52549	2005010673123	2004-12-21 00:00:00	2004-12-12 00:00:00	FCA	Kalispell, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage	62.95	Cosmetics	Approved	62.95	Approve in Full
-69392	2005081090316	2005-08-02 00:00:00	2005-05-15 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	280.0	Watches & Jewelry	Settled	140.0	Settle
-72792	2005100493846	2005-09-27 00:00:00	2005-04-19 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
-73067	2005100694186	2005-10-03 00:00:00	2005-08-29 00:00:00	FCA	Kalispell, MT	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	145.96	Other	Approved	145.96	Approve in Full
-73808	2005102195011	2005-10-17 00:00:00	2005-06-21 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.18	Clothing & Accessories	Approved	89.18	Approve in Full
-74363	2005110395596	2005-10-25 00:00:00	2005-09-12 00:00:00	FCA	Kalispell, MT		Passenger Property Loss	Checked Baggage	105.0	Other	Approved	105.0	Approve in Full
-82839	2006040404016	2006-03-24 00:00:00	2006-02-04 00:00:00	FCA	Kalispell, MT	Horizon Air	Passenger Property Loss	Checked Baggage	176.79	Cosmetics	Settled	88.4	Settle
-89706	2006081410964	2006-08-10 00:00:00	2006-07-26 00:00:00	FCA	Kalispell, MT	Horizon Air	Passenger Property Loss	Checked Baggage	20.25	Other	Settled	10.13	Settle
-89853	2006081511046	2006-08-14 00:00:00	2006-07-06 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Denied	0.0	Deny
-90241	2006082411513	2006-08-21 00:00:00	2006-07-18 00:00:00	FCA	Kalispell, MT		Passenger Property Loss	Checked Baggage	35.66	Other	Denied	0.0	Deny
-90726	2006090611992	2006-08-29 00:00:00	2006-07-30 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	633.0	Watches & Jewelry	Denied	0.0	Deny
-91106	2006091312471	2006-09-06 00:00:00	2006-05-27 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.66	Tools & Machines	Approved	10.66	Approve in Full
-111188	2007092632611	2007-09-24 00:00:00	2007-09-15 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.23	Tools & Machines	Denied	0.0	Deny
-113759	2007111935173	2007-11-15 00:00:00	2007-09-14 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
-117905	2008021239499	2008-02-05 00:00:00	2008-01-06 00:00:00	FCA	Kalispell, MT	UAL	Passenger Property Loss	Checked Baggage	400.0	Containers	Denied	0.0	Deny
-121893	2008042943533	2008-04-25 00:00:00	2008-03-30 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.99	Other	Denied	0.0	Deny
-122913	2008052144619	2008-05-19 00:00:00	2008-03-22 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Canceled	0.0	
-126023	2008073147765	2008-07-25 00:00:00	2008-07-07 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	433.0	Electronics	Denied	0.0	Deny
-136646	2009051458624	2009-04-27 00:00:00	2009-04-22 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+14081	0822004M	2003-08-22 00:00:00	2003-07-29 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	134.95	Other	Other	Denied	0.0	Deny
+19972	1107086M	2003-11-07 00:00:00	2003-08-11 00:00:00	FCA	Kalispell, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Other	Settled	50.0	Settle
+48134	2004121469049	2004-10-25 00:00:00	2004-09-10 00:00:00	FCA	Kalispell, MT	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	306.0	Other	Other	Canceled	0.0	
+52549	2005010673123	2004-12-21 00:00:00	2004-12-12 00:00:00	FCA	Kalispell, MT	Alaska Airlines	Passenger Property Loss	Checked Baggage	62.95	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	62.95	Approve in Full
+69392	2005081090316	2005-08-02 00:00:00	2005-05-15 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	280.0	Watches & Jewelry	Jewelry - Fine	Settled	140.0	Settle
+72792	2005100493846	2005-09-27 00:00:00	2005-04-19 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Other	Denied	0.0	Deny
+73067	2005100694186	2005-10-03 00:00:00	2005-08-29 00:00:00	FCA	Kalispell, MT	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	145.96	Other	Other	Approved	145.96	Approve in Full
+73808	2005102195011	2005-10-17 00:00:00	2005-06-21 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.18	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	89.18	Approve in Full
+74363	2005110395596	2005-10-25 00:00:00	2005-09-12 00:00:00	FCA	Kalispell, MT		Passenger Property Loss	Checked Baggage	105.0	Other	Other	Approved	105.0	Approve in Full
+82839	2006040404016	2006-03-24 00:00:00	2006-02-04 00:00:00	FCA	Kalispell, MT	Horizon Air	Passenger Property Loss	Checked Baggage	176.79	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	88.4	Settle
+89706	2006081410964	2006-08-10 00:00:00	2006-07-26 00:00:00	FCA	Kalispell, MT	Horizon Air	Passenger Property Loss	Checked Baggage	20.25	Other	Other	Settled	10.13	Settle
+89853	2006081511046	2006-08-14 00:00:00	2006-07-06 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+90241	2006082411513	2006-08-21 00:00:00	2006-07-18 00:00:00	FCA	Kalispell, MT		Passenger Property Loss	Checked Baggage	35.66	Other	Other	Denied	0.0	Deny
+90726	2006090611992	2006-08-29 00:00:00	2006-07-30 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	633.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+91106	2006091312471	2006-09-06 00:00:00	2006-05-27 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	10.66	Tools & Machines	Locks	Approved	10.66	Approve in Full
+111188	2007092632611	2007-09-24 00:00:00	2007-09-15 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.23	Tools & Machines	Locks	Denied	0.0	Deny
+113759	2007111935173	2007-11-15 00:00:00	2007-09-14 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+117905	2008021239499	2008-02-05 00:00:00	2008-01-06 00:00:00	FCA	Kalispell, MT	UAL	Passenger Property Loss	Checked Baggage	400.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+121893	2008042943533	2008-04-25 00:00:00	2008-03-30 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.99	Other	Other	Denied	0.0	Deny
+122913	2008052144619	2008-05-19 00:00:00	2008-03-22 00:00:00	FCA	Kalispell, MT	Northwest Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+126023	2008073147765	2008-07-25 00:00:00	2008-07-07 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	433.0	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+136646	2009051458624	2009-04-27 00:00:00	2009-04-22 00:00:00	FCA	Kalispell, MT	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny

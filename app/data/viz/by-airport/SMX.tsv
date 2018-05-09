@@ -1,16 +1,16 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-37696	2004070158210	2004-06-10 00:00:00	2004-04-09 00:00:00	SMX	Santa Maria Public		Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
-57473	2005031678480	2005-02-16 00:00:00	2005-01-08 00:00:00	SMX	Santa Maria Public	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Denied	0.0	Deny
-63688	2005051985000	2005-05-11 00:00:00	2005-02-21 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Other	65.0	Cosmetics	Denied	0.0	Deny
-69059	2005080890159	2005-07-28 00:00:00	2005-07-09 00:00:00	SMX	Santa Maria Public		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-71369	2005091592527	2005-09-06 00:00:00	2005-08-26 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	246.75	Watches & Jewelry	Canceled	0.0	
-76767	2005121998059	2005-12-07 00:00:00	2005-11-14 00:00:00	SMX	Santa Maria Public	Northwest Airlines	Passenger Property Loss	Checked Baggage	137.0	Cosmetics	Settled	68.5	Settle
-78355	2006011199423	2006-01-09 00:00:00	2005-10-30 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	441.98	Electronics	Settled	170.28	Settle
-80623	2006021701724	2006-02-13 00:00:00	2006-01-24 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	135.0	Watches & Jewelry	Settled	95.0	Settle
-84178	2006042505343	2006-04-24 00:00:00	2006-04-16 00:00:00	SMX	Santa Maria Public	USAir	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-99229	2007020220048	2007-02-02 00:00:00	2007-01-22 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
-112847	2007110134239	2007-10-29 00:00:00	2007-08-04 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	1229.13	Electronics,Electronics,Watches & Jewelry	Denied	0.0	Deny
-120241	2008040441886	2008-03-25 00:00:00	2008-03-07 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	213.85	Cosmetics	Denied	0.0	Deny
-126223	2008080548011	2008-07-30 00:00:00	2008-07-10 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	884.98	Clothing & Accessories	Denied	0.0	Deny
-143951	2009120466058	2009-11-24 00:00:00	2009-11-03 09:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	14.6	Tools & Machines	Approved	14.6	Approve in Full
-145739	2010022368653	2010-02-12 00:00:00	2010-02-01 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checkpoint		Electronics		160.74	Settle
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+37696	2004070158210	2004-06-10 00:00:00	2004-04-09 00:00:00	SMX	Santa Maria Public		Passenger Property Loss	Checked Baggage	1000.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+57473	2005031678480	2005-02-16 00:00:00	2005-01-08 00:00:00	SMX	Santa Maria Public	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+63688	2005051985000	2005-05-11 00:00:00	2005-02-21 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Other	65.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+69059	2005080890159	2005-07-28 00:00:00	2005-07-09 00:00:00	SMX	Santa Maria Public		Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+71369	2005091592527	2005-09-06 00:00:00	2005-08-26 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	246.75	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+76767	2005121998059	2005-12-07 00:00:00	2005-11-14 00:00:00	SMX	Santa Maria Public	Northwest Airlines	Passenger Property Loss	Checked Baggage	137.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	68.5	Settle
+78355	2006011199423	2006-01-09 00:00:00	2005-10-30 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	441.98	Electronics	Cameras - Digital	Settled	170.28	Settle
+80623	2006021701724	2006-02-13 00:00:00	2006-01-24 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	135.0	Watches & Jewelry	Jewelry - Fine	Settled	95.0	Settle
+84178	2006042505343	2006-04-24 00:00:00	2006-04-16 00:00:00	SMX	Santa Maria Public	USAir	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+99229	2007020220048	2007-02-02 00:00:00	2007-01-22 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+112847	2007110134239	2007-10-29 00:00:00	2007-08-04 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	1229.13	Electronics,Electronics,Watches & Jewelry	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Watches - Expensive more than $100	Denied	0.0	Deny
+120241	2008040441886	2008-03-25 00:00:00	2008-03-07 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	213.85	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+126223	2008080548011	2008-07-30 00:00:00	2008-07-10 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	884.98	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+143951	2009120466058	2009-11-24 00:00:00	2009-11-03 09:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checked Baggage	14.6	Tools & Machines	Locks	Approved	14.6	Approve in Full
+145739	2010022368653	2010-02-12 00:00:00	2010-02-01 00:00:00	SMX	Santa Maria Public	UAL	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		160.74	Settle

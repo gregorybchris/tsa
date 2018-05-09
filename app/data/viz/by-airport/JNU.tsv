@@ -1,56 +1,56 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-18438	1021026M	2003-10-21 00:00:00	2003-06-24 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Settled	162.0	Settle
-21671	1205267M	2003-12-05 00:00:00	2003-07-15 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-38520	2004071559488	2004-06-22 00:00:00	2004-04-22 00:00:00	JNU	Juneau International		Passenger Property Loss	Checkpoint	150.0	Watches & Jewelry	Denied	0.0	Deny
-39661	2004072960235	2004-07-09 00:00:00	2004-06-23 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	34.95	Other	Denied	0.0	Deny
-40345	2004090261944	2004-07-16 00:00:00	2004-06-23 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	43.1	Other	Approved	43.1	Approve in Full
-41970	2004090862266	2004-08-09 00:00:00	2004-07-18 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	157.94	Clothing & Accessories	Approved	157.94	Approve in Full
-41988	2004090862337	2004-08-09 00:00:00	2004-06-22 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Approved	40.0	Approve in Full
-42922	2004092864041	2004-08-19 00:00:00	2004-08-07 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	230.0	Cosmetics	Settled	115.0	Settle
-45054	2004092363693	2004-09-16 00:00:00	2004-09-01 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1050.0	Other	Denied	0.0	Deny
-45238	2004102165415	2004-09-17 00:00:00	2004-10-04 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	396.0	Electronics	Denied	0.0	Deny
-48924	2004122069498	2004-11-03 00:00:00	2004-08-16 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	12.6	Outdoors Supplies	Approved	12.6	Approve in Full
-49212	2004122370813	2004-11-04 00:00:00	2003-11-24 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Denied	0.0	Deny
-49963	2004122270428	2004-11-15 00:00:00	2004-08-10 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	79.12	Clothing & Accessories	Denied	0.0	Deny
-52605	2005011073338	2004-12-21 00:00:00	2004-07-11 00:00:00	JNU	Juneau International		Passenger Property Loss	Checkpoint	160.0	Other	Approved	160.0	Approve in Full
-59790	2005033080645	2005-03-22 00:00:00	2005-02-16 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	350.0	Other	Settled	150.0	Settle
-62530	2005042783493	2005-04-26 00:00:00	2005-02-15 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	120.0	Other	Approved	120.0	Approve in Full
-67500	2005070888448	2005-07-06 00:00:00	2005-05-22 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checkpoint	2371.1	Watches & Jewelry	Denied	0.0	Deny
-72286	2005092893394	2005-09-19 00:00:00	2005-07-02 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	6629.34	Electronics	Denied	0.0	Deny
-72469	2005092993447	2005-09-20 00:00:00	2005-08-31 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Settled	50.0	Settle
-73044	2005100594110	2005-09-30 00:00:00	2005-09-21 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	479.99	Electronics	Settled	120.0	Settle
-78029	2006010999076	2006-01-04 00:00:00	2005-12-27 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	399.9	Electronics	Denied	0.0	Deny
-80940	2006030202370	2006-02-17 00:00:00	2006-01-28 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	242.0	Other	Settled	108.9	Settle
-82112	2006031603253	2006-03-13 00:00:00	2005-10-30 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics	Settled	30.0	Settle
-88536	2006071909720	2006-07-17 00:00:00	2006-05-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	433.08	Household Items	Settled	216.54	Settle
-90433	2006082811670	2006-08-23 00:00:00	2006-06-13 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	485.6	Electronics	Settled	185.55	Settle
-93013	2006101914209	2006-10-13 00:00:00	2006-10-07 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Settled	60.0	Settle
-94971	2006112916425	2006-11-21 00:00:00	2006-09-07 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	117.06	Clothing & Accessories,Other	Approved	117.06	Approve in Full
-98584	2007012619564	2007-01-23 00:00:00	2006-12-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	324.99	Electronics	Denied	0.0	Deny
-105236	2007060726493	2007-06-04 00:00:00	2007-05-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	109.0	Other	Denied	0.0	Deny
-108550	2007080829842	2007-08-06 00:00:00	2007-07-24 00:00:00	JNU	Juneau International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Denied	0.0	Deny
-109819	2007082931118	2007-08-27 00:00:00	2007-08-19 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Settled	20.0	Settle
-110302	2007091231752	2007-09-06 00:00:00	2007-08-26 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	278.0	Clothing & Accessories	Denied	0.0	Deny
-112277	2007101833656	2007-10-16 00:00:00	2007-08-01 00:00:00	JNU	Juneau International	American Airlines	Passenger Property Loss	Checked Baggage	720.0	Other	Denied	0.0	Deny
-114700	2007120636148	2007-12-04 00:00:00	2007-08-08 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	459.85	Electronics,Electronics,Electronics	Denied	0.0	Deny
-115189	2007122636858	2007-12-13 00:00:00	2007-11-15 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	552.0	Electronics,Clothing & Accessories,Cosmetics,Clothing & Accessories,Containers,Other	Denied	0.0	Deny
-122267	2008050944080	2008-05-02 00:00:00	2008-04-20 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	205.06	Clothing & Accessories	Denied	0.0	Deny
-124943	2008061845857	2008-07-02 00:00:00	2008-06-12 00:00:00	JNU	Juneau International		Passenger Property Loss	Checkpoint	100.0	Other	Denied	0.0	Deny
-126569	2008081248406	2008-08-06 00:00:00	2008-08-03 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	280.79	Electronics	Denied	0.0	Deny
-127255	2008082549078	2008-08-21 00:00:00	2008-08-04 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	8.71	Tools & Machines	Denied	0.0	Deny
-129490	2008102151378	2008-10-15 00:00:00	2008-08-10 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1058.0	Electronics,Other	Denied	0.0	Deny
-131791	2008121953547	2008-12-16 00:00:00	2008-07-18 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2754.0	Watches & Jewelry	Denied	0.0	Deny
-146529	2010031869685	2010-03-09 00:00:00	2010-02-16 18:30:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-150303	2010071473648	2010-07-06 00:00:00	2010-06-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-150542	2010072273977	2010-07-12 00:00:00	2010-05-10 12:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies		95.0	Approve in Full
-156486	2011020279898	2011-01-13 00:00:00	2010-12-16 17:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		77.36	Settle
-159612	2011050483210	2011-04-25 00:00:00	2011-03-04 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-167989	2012030891610	2012-01-31 00:00:00	2012-01-01 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
-168685	2012040292329	2012-02-23 00:00:00	2012-02-17 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-172796	2012090496520	2012-07-23 00:00:00	2012-06-08 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage		Household Decor,Other		0.0	Deny
-188039	2014022011808	2014-02-11 00:00:00	2014-01-17 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-190759	2014061214583	2014-06-02 00:00:00	2014-05-22 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-208115	2016110435534	2016-09-29 00:00:00	2016-09-18 00:00:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-216366	2017072041717	2017-06-07 00:00:00	2017-05-29 14:30:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-216368	2017022337684	2017-01-10 00:00:00	2017-01-01 00:00:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
-216369	2017092243481	2017-08-16 00:00:00	2017-07-29 00:00:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+18438	1021026M	2003-10-21 00:00:00	2003-06-24 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	180.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	162.0	Settle
+21671	1205267M	2003-12-05 00:00:00	2003-07-15 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Denied	0.0	Deny
+38520	2004071559488	2004-06-22 00:00:00	2004-04-22 00:00:00	JNU	Juneau International		Passenger Property Loss	Checkpoint	150.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+39661	2004072960235	2004-07-09 00:00:00	2004-06-23 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	34.95	Other	Other	Denied	0.0	Deny
+40345	2004090261944	2004-07-16 00:00:00	2004-06-23 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	43.1	Other	Other	Approved	43.1	Approve in Full
+41970	2004090862266	2004-08-09 00:00:00	2004-07-18 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	157.94	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	157.94	Approve in Full
+41988	2004090862337	2004-08-09 00:00:00	2004-06-22 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	40.0	Approve in Full
+42922	2004092864041	2004-08-19 00:00:00	2004-08-07 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	230.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	115.0	Settle
+45054	2004092363693	2004-09-16 00:00:00	2004-09-01 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1050.0	Other	Other	Denied	0.0	Deny
+45238	2004102165415	2004-09-17 00:00:00	2004-10-04 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	396.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+48924	2004122069498	2004-11-03 00:00:00	2004-08-16 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	12.6	Outdoors Supplies	Fish/Game	Approved	12.6	Approve in Full
+49212	2004122370813	2004-11-04 00:00:00	2003-11-24 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	450.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+49963	2004122270428	2004-11-15 00:00:00	2004-08-10 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage	79.12	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+52605	2005011073338	2004-12-21 00:00:00	2004-07-11 00:00:00	JNU	Juneau International		Passenger Property Loss	Checkpoint	160.0	Other	Other	Approved	160.0	Approve in Full
+59790	2005033080645	2005-03-22 00:00:00	2005-02-16 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	350.0	Other	Other	Settled	150.0	Settle
+62530	2005042783493	2005-04-26 00:00:00	2005-02-15 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	120.0	Other	Other	Approved	120.0	Approve in Full
+67500	2005070888448	2005-07-06 00:00:00	2005-05-22 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checkpoint	2371.1	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+72286	2005092893394	2005-09-19 00:00:00	2005-07-02 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	6629.34	Electronics	Stereo Items & Accessories	Denied	0.0	Deny
+72469	2005092993447	2005-09-20 00:00:00	2005-08-31 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checkpoint	100.0	Other	Other	Settled	50.0	Settle
+73044	2005100594110	2005-09-30 00:00:00	2005-09-21 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	479.99	Electronics	Cameras - Digital	Settled	120.0	Settle
+78029	2006010999076	2006-01-04 00:00:00	2005-12-27 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	399.9	Electronics	Cell Phones	Denied	0.0	Deny
+80940	2006030202370	2006-02-17 00:00:00	2006-01-28 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	242.0	Other	Other	Settled	108.9	Settle
+82112	2006031603253	2006-03-13 00:00:00	2005-10-30 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	30.0	Settle
+88536	2006071909720	2006-07-17 00:00:00	2006-05-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	433.08	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Settled	216.54	Settle
+90433	2006082811670	2006-08-23 00:00:00	2006-06-13 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	485.6	Electronics	Computer - Laptop	Settled	185.55	Settle
+93013	2006101914209	2006-10-13 00:00:00	2006-10-07 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	60.0	Settle
+94971	2006112916425	2006-11-21 00:00:00	2006-09-07 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	117.06	Clothing & Accessories,Other	Clothing - Shoes, belts, accessories, etc.*Other	Approved	117.06	Approve in Full
+98584	2007012619564	2007-01-23 00:00:00	2006-12-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	324.99	Electronics	Cameras - Digital	Denied	0.0	Deny
+105236	2007060726493	2007-06-04 00:00:00	2007-05-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	109.0	Other	Other	Denied	0.0	Deny
+108550	2007080829842	2007-08-06 00:00:00	2007-07-24 00:00:00	JNU	Juneau International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Locks	Denied	0.0	Deny
+109819	2007082931118	2007-08-27 00:00:00	2007-08-19 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	20.0	Settle
+110302	2007091231752	2007-09-06 00:00:00	2007-08-26 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	278.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+112277	2007101833656	2007-10-16 00:00:00	2007-08-01 00:00:00	JNU	Juneau International	American Airlines	Passenger Property Loss	Checked Baggage	720.0	Other	Other	Denied	0.0	Deny
+114700	2007120636148	2007-12-04 00:00:00	2007-08-08 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	459.85	Electronics,Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+115189	2007122636858	2007-12-13 00:00:00	2007-11-15 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	552.0	Electronics,Clothing & Accessories,Cosmetics,Clothing & Accessories,Containers,Other	Cell Phones*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Eyeglasses - (including contact lenses)*Luggage (all types including footlockers)*Other	Denied	0.0	Deny
+122267	2008050944080	2008-05-02 00:00:00	2008-04-20 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	205.06	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+124943	2008061845857	2008-07-02 00:00:00	2008-06-12 00:00:00	JNU	Juneau International		Passenger Property Loss	Checkpoint	100.0	Other	Other	Denied	0.0	Deny
+126569	2008081248406	2008-08-06 00:00:00	2008-08-03 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	280.79	Electronics	Cell Phones	Denied	0.0	Deny
+127255	2008082549078	2008-08-21 00:00:00	2008-08-04 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	8.71	Tools & Machines	Locks	Denied	0.0	Deny
+129490	2008102151378	2008-10-15 00:00:00	2008-08-10 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1058.0	Electronics,Other	Cell Phones*Other	Denied	0.0	Deny
+131791	2008121953547	2008-12-16 00:00:00	2008-07-18 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2754.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+146529	2010031869685	2010-03-09 00:00:00	2010-02-16 18:30:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+150303	2010071473648	2010-07-06 00:00:00	2010-06-25 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+150542	2010072273977	2010-07-12 00:00:00	2010-05-10 12:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies	Hunting & Fishing Items*Tools & Home Improvement Supplies		95.0	Approve in Full
+156486	2011020279898	2011-01-13 00:00:00	2010-12-16 17:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		77.36	Settle
+159612	2011050483210	2011-04-25 00:00:00	2011-03-04 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+167989	2012030891610	2012-01-31 00:00:00	2012-01-01 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other	Clothing*Other		0.0	Deny
+168685	2012040292329	2012-02-23 00:00:00	2012-02-17 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+172796	2012090496520	2012-07-23 00:00:00	2012-06-08 00:00:00	JNU	Juneau International		Passenger Property Loss	Checked Baggage		Household Decor,Other	Home Decor*Other		0.0	Deny
+188039	2014022011808	2014-02-11 00:00:00	2014-01-17 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+190759	2014061214583	2014-06-02 00:00:00	2014-05-22 00:00:00	JNU	Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+208115	2016110435534	2016-09-29 00:00:00	2016-09-18 00:00:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+216366	2017072041717	2017-06-07 00:00:00	2017-05-29 14:30:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+216368	2017022337684	2017-01-10 00:00:00	2017-01-01 00:00:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			In Review
+216369	2017092243481	2017-08-16 00:00:00	2017-07-29 00:00:00	JNU	Juneau International Juneau International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other			In Review

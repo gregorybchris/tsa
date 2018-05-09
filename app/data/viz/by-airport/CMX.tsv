@@ -1,8 +1,8 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-69675	2005081790755	2005-08-08 00:00:00	2005-05-16 00:00:00	CMX	Houghton County Memorial	Northwest Airlines	Passenger Property Loss	Checked Baggage	272.0	Clothing & Accessories	Approved	272.0	Approve in Full
-130580	2008111952437	2008-11-13 00:00:00	2008-10-28 00:00:00	CMX	Houghton County Memorial	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
-141221	2009090163219	2009-08-31 00:00:00	2009-08-03 00:00:00	CMX	Houghton County Memorial	Northwest Airlines	Passenger Property Loss	Checked Baggage	297.0	Watches & Jewelry	Denied	0.0	Deny
-148118	2010042871251	2010-04-27 00:00:00	2010-04-06 14:15:00	CMX	Houghton County Memorial	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry,Watches & Jewelry		0.0	Deny
-168487	2012032792142	2012-02-16 00:00:00	2011-12-16 05:25:00	CMX	Houghton County Memorial	UAL	Passenger Property Loss	Checkpoint		Electronics		1174.86	Settle
-205570	2016042730878	2016-04-04 00:00:00	2016-01-04 00:00:00	CMX	Houghton County Memorial Houghton County Memorial	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-213766	2017060540169	2017-03-02 00:00:00	2017-02-17 12:00:00	CMX	Houghton County Memorial Houghton County Memorial	UAL	Passenger Property Loss	Checkpoint		Cosmetics		97.39	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+69675	2005081790755	2005-08-08 00:00:00	2005-05-16 00:00:00	CMX	Houghton County Memorial	Northwest Airlines	Passenger Property Loss	Checked Baggage	272.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	272.0	Approve in Full
+130580	2008111952437	2008-11-13 00:00:00	2008-10-28 00:00:00	CMX	Houghton County Memorial	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Currency	Denied	0.0	Deny
+141221	2009090163219	2009-08-31 00:00:00	2009-08-03 00:00:00	CMX	Houghton County Memorial	Northwest Airlines	Passenger Property Loss	Checked Baggage	297.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+148118	2010042871251	2010-04-27 00:00:00	2010-04-06 14:15:00	CMX	Houghton County Memorial	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry,Watches & Jewelry	Jewelry & Watches*Jewelry & Watches		0.0	Deny
+168487	2012032792142	2012-02-16 00:00:00	2011-12-16 05:25:00	CMX	Houghton County Memorial	UAL	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories		1174.86	Settle
+205570	2016042730878	2016-04-04 00:00:00	2016-01-04 00:00:00	CMX	Houghton County Memorial Houghton County Memorial	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+213766	2017060540169	2017-03-02 00:00:00	2017-02-17 12:00:00	CMX	Houghton County Memorial Houghton County Memorial	UAL	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming		97.39	Approve in Full

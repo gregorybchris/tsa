@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-183507	2013092707375	2013-08-20 00:00:00	2013-08-05 00:00:00	MWA	Williamson County	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-218389	2017091343012	2017-08-01 00:00:00	2017-07-12 13:30:00	MWA	Williamson County Williamson County	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics			Closed: Canceled
-218391	2017090142667	2017-07-19 00:00:00	2017-07-13 00:00:00	MWA	Williamson County Williamson County	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+183507	2013092707375	2013-08-20 00:00:00	2013-08-05 00:00:00	MWA	Williamson County	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+218389	2017091343012	2017-08-01 00:00:00	2017-07-12 13:30:00	MWA	Williamson County Williamson County	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics	Baggage/Cases/Purses*Clothing*Cosmetics & Grooming			Closed: Canceled
+218391	2017090142667	2017-07-19 00:00:00	2017-07-13 00:00:00	MWA	Williamson County Williamson County	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review

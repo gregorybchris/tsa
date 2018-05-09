@@ -1,4 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-104691	2007052325896	2007-05-22 00:00:00	2007-05-12 00:00:00	HOM	Homer Airport		Passenger Property Loss	Checked Baggage	297.0	Scientific Intruments,Scientific Intruments	Dental Equipment and Instruments*Dental Equipment and Instruments	Settled	148.5	Settle
-198483	2015092925735	2015-09-15 00:00:00	2015-08-31 00:00:00	HOM	Homer Airport	UAL	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			
-198484	2015102326242	2015-10-23 00:00:00	2015-09-14 00:00:00	HOM	Homer Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			

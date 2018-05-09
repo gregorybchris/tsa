@@ -1,26 +1,26 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-5815	0429024L	2003-04-29 00:00:00	2003-04-02 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	22.63	Other	Denied	0.0	Deny
-6496	0514155L	2003-05-14 00:00:00	2003-04-24 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-9751	0701117M	2003-07-01 00:00:00	2003-05-22 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	52.21	Clothing & Accessories	Denied	0.0	Deny
-13976	0821169M	2003-08-21 00:00:00	2003-08-08 00:00:00	TSA	TSA - Non-Specified Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	257.0	Clothing & Accessories	Denied	0.0	Deny
-15462	0909001M	2003-09-09 00:00:00	2003-08-11 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	750.0	Other	Denied	0.0	Deny
-15500	0909134M	2003-09-09 00:00:00	2003-08-02 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	212.0	Other	Denied	0.0	Deny
-20363	1117348M	2003-11-17 00:00:00	2003-10-16 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	280.0	Electronics	Denied	0.0	Deny
-21345	1204005M	2003-12-04 00:00:00	2003-10-08 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	1538.99	Watches & Jewelry	Denied	0.0	Deny
-22133	1208310M	2003-12-08 00:00:00	2003-11-21 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Approved	20.0	Approve in Full
-22234	1208067M	2003-12-08 00:00:00	2003-11-23 00:00:00	TSA	TSA - Non-Specified Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.95	Other	Denied		Deny
-23378	1222310M	2003-12-22 00:00:00	2003-11-26 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	454.0	Other	Denied		Deny
-41408	2004091362817	2004-08-03 00:00:00	2004-07-22 00:00:00	TSA	TSA - Non-Specified Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
-47314	2004120168147	2004-10-14 00:00:00	2004-09-22 00:00:00	TSA	TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage	929.86	Other	Denied	0.0	Deny
-62607	2005042783522	2005-04-26 00:00:00	2005-04-17 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	85.0	Watches & Jewelry	Denied	0.0	Deny
-71450	2005091592556	2005-09-08 00:00:00	2005-09-01 00:00:00	TSA	TSA - Non-Specified Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.6	Tools & Machines	Approved	9.6	Approve in Full
-144198	2009121666582	2009-12-01 00:00:00	2005-04-10 00:00:00	TSA	TSA - Non-Specified Airport	American Eagle	Passenger Property Loss	Checked Baggage	249.99	Electronics	Denied	0.0	Deny
-188686	2014031412471	2014-03-13 00:00:00	2014-01-24 00:00:00	TSA	TSA - Non-Specified Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
-192608	2014090916475	2014-08-15 00:00:00	2014-06-09 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checkpoint		Clothing & Accessories			
-204048	2015072824312	2015-07-28 00:00:00	2014-11-03 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checkpoint		Other		34.46	Approve in Full
-220609	2017110845062	2017-10-06 00:00:00	2017-08-29 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Insufficient
-220610	2017111645210	2017-10-06 00:00:00	2017-09-25 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			Insufficient
-220611	2017051839679	2017-04-07 00:00:00	2017-03-20 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
-220612	2017121245919	2017-11-20 00:00:00	2017-11-12 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Household Decor,Other			In Review
-220613	2017121245935	2017-11-20 00:00:00	2017-11-04 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	Etihad Airways	Passenger Property Loss	Checked Baggage		Clothing & Accessories			Insufficient
-220614	2017121846047	2017-11-27 00:00:00	2017-11-11 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	Not Provided	Passenger Property Loss	Checked Baggage		Automobile & Mechanical			Insufficient
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+5815	0429024L	2003-04-29 00:00:00	2003-04-02 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	22.63	Other	Other	Denied	0.0	Deny
+6496	0514155L	2003-05-14 00:00:00	2003-04-24 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	30.0	Other	Currency	Denied	0.0	Deny
+9751	0701117M	2003-07-01 00:00:00	2003-05-22 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	52.21	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+13976	0821169M	2003-08-21 00:00:00	2003-08-08 00:00:00	TSA	TSA - Non-Specified Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	257.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+15462	0909001M	2003-09-09 00:00:00	2003-08-11 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	750.0	Other	Other	Denied	0.0	Deny
+15500	0909134M	2003-09-09 00:00:00	2003-08-02 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	212.0	Other	Other	Denied	0.0	Deny
+20363	1117348M	2003-11-17 00:00:00	2003-10-16 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	280.0	Electronics	Cell Phones	Denied	0.0	Deny
+21345	1204005M	2003-12-04 00:00:00	2003-10-08 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	1538.99	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+22133	1208310M	2003-12-08 00:00:00	2003-11-21 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	20.0	Approve in Full
+22234	1208067M	2003-12-08 00:00:00	2003-11-23 00:00:00	TSA	TSA - Non-Specified Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	49.95	Other	Other	Denied		Deny
+23378	1222310M	2003-12-22 00:00:00	2003-11-26 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	454.0	Other	Other	Denied		Deny
+41408	2004091362817	2004-08-03 00:00:00	2004-07-22 00:00:00	TSA	TSA - Non-Specified Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Other	Other	Approved	20.0	Approve in Full
+47314	2004120168147	2004-10-14 00:00:00	2004-09-22 00:00:00	TSA	TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage	929.86	Other	Other	Denied	0.0	Deny
+62607	2005042783522	2005-04-26 00:00:00	2005-04-17 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checked Baggage	85.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+71450	2005091592556	2005-09-08 00:00:00	2005-09-01 00:00:00	TSA	TSA - Non-Specified Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.6	Tools & Machines	Locks	Approved	9.6	Approve in Full
+144198	2009121666582	2009-12-01 00:00:00	2005-04-10 00:00:00	TSA	TSA - Non-Specified Airport	American Eagle	Passenger Property Loss	Checked Baggage	249.99	Electronics	PDA - Personal Data Assistants	Denied	0.0	Deny
+188686	2014031412471	2014-03-13 00:00:00	2014-01-24 00:00:00	TSA	TSA - Non-Specified Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+192608	2014090916475	2014-08-15 00:00:00	2014-06-09 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+204048	2015072824312	2015-07-28 00:00:00	2014-11-03 00:00:00	TSA	TSA - Non-Specified Airport		Passenger Property Loss	Checkpoint		Other	Currency		34.46	Approve in Full
+220609	2017110845062	2017-10-06 00:00:00	2017-08-29 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			Insufficient
+220610	2017111645210	2017-10-06 00:00:00	2017-09-25 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			Insufficient
+220611	2017051839679	2017-04-07 00:00:00	2017-03-20 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			Insufficient
+220612	2017121245919	2017-11-20 00:00:00	2017-11-12 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Household Decor,Other	Clothing*Cosmetics & Grooming*Home Decor*Other			In Review
+220613	2017121245935	2017-11-20 00:00:00	2017-11-04 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	Etihad Airways	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			Insufficient
+220614	2017121846047	2017-11-27 00:00:00	2017-11-11 00:00:00	TSA	TSA - Non-Specified Airport TSA - Non-Specified Airport	Not Provided	Passenger Property Loss	Checked Baggage		Automobile & Mechanical	Automobile Parts & Accessories			Insufficient

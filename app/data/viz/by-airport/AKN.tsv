@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-88413	2006071709571	2006-07-14 00:00:00	2006-07-06 00:00:00	AKN	King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Settled	37.5	Settle
-106937	2007071328275	2007-07-09 00:00:00	2007-06-07 00:00:00	AKN	King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.99	Tools & Machines	Approved	12.99	Approve in Full
-111103	2007092532541	2007-09-21 00:00:00	2007-08-14 00:00:00	AKN	King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage	2744.0	Watches & Jewelry	Denied	0.0	Deny
-212484	2017090742764	2017-09-07 00:00:00	2017-07-04 17:20:00	AKN	King Salmon King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage		Household Decor			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+88413	2006071709571	2006-07-14 00:00:00	2006-07-06 00:00:00	AKN	King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage	75.0	Other	Other	Settled	37.5	Settle
+106937	2007071328275	2007-07-09 00:00:00	2007-06-07 00:00:00	AKN	King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.99	Tools & Machines	Locks	Approved	12.99	Approve in Full
+111103	2007092532541	2007-09-21 00:00:00	2007-08-14 00:00:00	AKN	King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage	2744.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+212484	2017090742764	2017-09-07 00:00:00	2017-07-04 17:20:00	AKN	King Salmon King Salmon	Alaska Airlines	Passenger Property Loss	Checked Baggage		Household Decor	Home Decor			In Review

@@ -1,3 +1,3 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-198482	2015092925720	2015-09-10 00:00:00	2015-08-18 00:00:00	HOB	Lea County Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Other			
-207126	2016032930167	2016-03-14 00:00:00	2016-03-10 19:50:00	HOB	Lea County Regional Airport Lea County Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Watches & Jewelry		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+198482	2015092925720	2015-09-10 00:00:00	2015-08-18 00:00:00	HOB	Lea County Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Other	Other			
+207126	2016032930167	2016-03-14 00:00:00	2016-03-10 19:50:00	HOB	Lea County Regional Airport Lea County Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics,Watches & Jewelry	Cosmetics & Grooming*Cosmetics & Grooming*Jewelry & Watches		0.0	Deny

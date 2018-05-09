@@ -1,372 +1,372 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-358	0703501M	2002-11-22 00:00:00	2002-11-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	747.13	Watches & Jewelry	Approved	747.13	Approve in Full
-604	23156	2002-12-12 00:00:00	2002-11-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2600.0	Electronics	Settled	1626.92	Settle
-4509	0401099L	2003-04-01 00:00:00	2003-03-03 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	345.0	Cosmetics	Settled	172.5	Settle
-6361	0513002L	2003-05-13 00:00:00	2003-03-31 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	240.0	Clothing & Accessories	Settled	120.0	Settle
-7242	0529133L	2003-05-29 00:00:00	2003-05-27 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	4625.0	Watches & Jewelry	Denied	4625.0	Deny
-7995	0609017L	2003-06-09 00:00:00	2003-05-25 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	482.72	Watches & Jewelry	Denied	0.0	Deny
-8098	0610022L	2003-06-10 00:00:00	2003-05-30 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checkpoint	757.97	Electronics	Approved	720.0	Approve in Full
-8285	0610143L	2003-06-10 00:00:00	2003-05-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	317.92	Electronics	Settled	158.96	Settle
-8736	0617109L	2003-06-17 00:00:00	2003-06-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	105.0	Other	Denied	0.0	Deny
-8850	0618108L	2003-06-18 00:00:00	2003-05-29 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	725.0	Watches & Jewelry	Approved	725.0	Approve in Full
-9753	0701119M	2003-07-01 00:00:00	2003-05-20 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	15700.0	Watches & Jewelry	Denied	0.0	Deny
-12792	0808094M	2003-08-08 00:00:00	2003-07-24 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	730.0	Electronics	Approved	730.0	Approve in Full
-12809	0808078M	2003-08-08 00:00:00	2003-06-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	220.0	Watches & Jewelry	Denied	0.0	Deny
-13021	0812039M	2003-08-12 00:00:00	2003-07-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	527.03	Clothing & Accessories	Settled	263.51	Settle
-13140	0813170M	2003-08-13 00:00:00	2003-07-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Denied	0.0	Deny
-14078	0822085M	2003-08-22 00:00:00	2003-08-12 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	650.0	Containers	Canceled		
-14426	0826291M	2003-08-26 00:00:00	2003-08-07 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1620.0	Other	Denied	0.0	Deny
-15114	0905213M	2003-09-05 00:00:00	2003-06-30 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	190.0	Clothing & Accessories	Approved	190.0	Approve in Full
-15239	0905070M	2003-09-05 00:00:00	2003-08-21 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Settled	2500.0	Settle
-15322	0908029M	2003-09-08 00:00:00	2003-08-12 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1100.0	Containers	Denied	0.0	Deny
-15809	0911020M	2003-09-11 00:00:00	2003-07-23 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	37.83	Clothing & Accessories	Settled	18.92	Settle
-15875	0915027M	2003-09-15 00:00:00	2003-08-22 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied		Deny
-15996	0916052M	2003-09-16 00:00:00	2003-08-28 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
-16065	0916044M	2003-09-16 00:00:00	2003-08-29 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	700.0	Other	Settled	675.72	Settle
-16269	0923149M	2003-09-23 00:00:00	2003-09-13 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1445.0	Watches & Jewelry	Denied	0.0	Deny
-17518	1008017M	2003-10-08 00:00:00	2003-09-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Approved	150.0	Approve in Full
-17781	1009020M	2003-10-09 00:00:00	2003-09-24 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	22.19	Tools & Machines	Settled	11.09	Settle
-18721	1022182M	2003-10-22 00:00:00	2003-10-06 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	504.0	Electronics	Denied		Deny
-19215	1030182M	2003-10-30 00:00:00	2003-10-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	65.0	Other	Denied	0.0	Deny
-19841	1107125M	2003-11-07 00:00:00	2003-10-07 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1592.7	Electronics	Denied	0.0	Deny
-20625	1117505M	2003-11-17 00:00:00	2003-10-13 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	410.06	Other	Settled	205.03	Settle
-20633	1117530M	2003-11-17 00:00:00	2003-11-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	124.99	Cosmetics	Settled	62.5	Settle
-20881	1119171M	2003-11-19 00:00:00	2003-09-10 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	161.51	Other	Settled	80.75	Settle
-21589	1205602M	2003-12-05 00:00:00	2003-10-06 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	80.0	Other	Canceled		
-22018	1205585M	2003-12-05 00:00:00	2003-11-17 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	2500.0	Electronics	Settled	966.7	Settle
-22027	1205617M	2003-12-05 00:00:00	2003-09-28 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Settled	200.0	Settle
-22100	1208173M	2003-12-08 00:00:00	2003-11-12 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	73.0	Other	Approved	73.0	Approve in Full
-22815	1217216M	2003-12-17 00:00:00	2003-11-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	390.0	Other	Denied	0.0	Deny
-23455	1222144M	2003-12-22 00:00:00	2003-10-14 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Settled	87.5	Settle
-23958	0105194M	2004-01-05 00:00:00	2003-12-14 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	281.45	Clothing & Accessories	Settled	140.53	Settle
-24427	0107057M	2004-01-07 00:00:00	2003-12-12 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	721.98	Other	Settled	403.02	Settle
-25172	0114586M	2004-01-14 00:00:00	2003-12-30 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	117.45	Clothing & Accessories	Settled	58.78	Settle
-26159	2005030977364	2004-02-01 00:00:00	2005-01-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	288.66	Other	Approved	288.66	Approve in Full
-27161	0205028M	2004-02-05 00:00:00	2004-01-25 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	3356.4	Clothing & Accessories	Denied	0.0	Deny
-27194	0205187M	2004-02-05 00:00:00	2004-01-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	100.0	Clothing & Accessories	Denied	0.0	Deny
-27341	0210084M	2004-02-10 00:00:00	2004-01-19 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	298.75	Watches & Jewelry	Approved	298.75	Approve in Full
-27567	0210094M	2004-02-10 00:00:00	2003-12-18 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	463.0	Watches & Jewelry	Settled	231.5	Settle
-28240	2004050450456	2004-02-19 00:00:00	2004-01-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	1100.0	Watches & Jewelry	Denied	0.0	Deny
-28775	0226331M	2004-02-26 00:00:00	2004-02-09 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	29.98	Other	Approved	29.98	Approve in Full
-28776	0226332M	2004-02-26 00:00:00	2004-02-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	186.19	Clothing & Accessories	Approved	186.19	Approve in Full
-29477	2004042750147	2004-03-05 00:00:00	2004-02-14 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	545.0	Electronics	Denied	0.0	Deny
-29650	2004050650656	2004-03-05 00:00:00	2004-01-27 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	123.0	Other	Settled	61.5	Settle
-30273	0312004M	2004-03-12 00:00:00	2003-03-28 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1149.91	Watches & Jewelry	Denied	1149.91	Deny
-30610	2004052353090	2004-03-18 00:00:00	2004-03-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	375.0	Other	Approved	375.0	Approve in Full
-30637	2004042350134	2004-03-18 00:00:00	2004-02-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Canceled	0.0	
-30767	2004060154057	2004-03-18 00:00:00	2004-02-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	395.0	Watches & Jewelry	Denied		Deny
-31145	2004051351846	2004-03-24 00:00:00	2004-01-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	161.61	Watches & Jewelry	Approved	161.61	Approve in Full
-31161	2004051452020	2004-03-24 00:00:00	2004-03-11 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-31193	2004051652351	2004-03-24 00:00:00	2003-11-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	76.01	Other	Approved	76.01	Approve in Full
-31309	2004051552325	2004-03-24 00:00:00	2004-01-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	632.0	Other	Denied	0.0	Deny
-31387	2004051251473	2004-03-24 00:00:00	2004-03-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1102.44	Electronics	Settled	500.0	Settle
-31628	2004051452166	2004-03-30 00:00:00	2004-02-25 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	878.67	Watches & Jewelry	Denied	0.0	Deny
-31662	2004050550559	2004-03-30 00:00:00	2004-02-05 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	800.06	Electronics	Settled	400.03	Settle
-31666	2004051351652	2004-03-30 00:00:00	2004-03-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	559.0	Electronics	Settled	280.0	Settle
-33683	2004060354549	2004-04-23 00:00:00	2004-04-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	300.0	Cosmetics	Settled	150.0	Settle
-33838	2004052553351	2004-05-03 00:00:00	2004-04-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	109.0	Clothing & Accessories	Approved	109.0	Approve in Full
-34696	2004060855129	2004-05-05 00:00:00	2004-04-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	170.0	Other	Settled	85.0	Settle
-34847	2004061455556	2004-05-10 00:00:00	2004-05-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
-35327	2004061055457	2004-05-13 00:00:00	2004-03-21 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	350.0	Electronics	Settled	175.0	Settle
-35381	2004061756193	2004-05-13 00:00:00	2004-02-26 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	300.0	Supplies	Settled	150.0	Settle
-35615	2004060955225	2004-05-19 00:00:00	2004-04-01 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1470.04	Watches & Jewelry	Denied	0.0	Deny
-35958	2004062156471	2004-05-27 00:00:00	2004-03-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Approved	60.0	Approve in Full
-36192	2004061055483	2004-05-27 00:00:00	2004-05-17 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	20.0	Clothing & Accessories	Denied	0.0	Deny
-36218	2004061856332	2004-05-27 00:00:00	2004-04-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Denied	0.0	Deny
-36737	2004062357022	2004-06-02 00:00:00	2004-04-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	148.0	Clothing & Accessories	Settled	74.0	Settle
-36790	2004062357203	2004-06-03 00:00:00	2004-05-08 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	27.05	Clothing & Accessories	Approved	27.03	Approve in Full
-37108	2004062557330	2004-06-04 00:00:00	2004-05-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	7450.0	Other	Denied	0.0	Deny
-38376	2004070858900	2004-06-21 00:00:00	2004-03-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	146.05	Other	Settled	73.02	Settle
-38983	2004072359971	2004-06-29 00:00:00	2004-04-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	4150.0	Other	Denied	0.0	Deny
-40196	2004080560700	2004-07-13 00:00:00	2004-03-18 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	655.1	Electronics	Settled	327.5	Settle
-40561	2004072659985	2004-07-20 00:00:00	2004-07-09 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	24.99	Clothing & Accessories	Denied	24.99	Deny
-43442	2004092263470	2004-08-27 00:00:00	2004-08-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	21.35	Tools & Machines	Approved	21.35	Approve in Full
-44091	2004101965267	2004-09-09 00:00:00	2004-08-22 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	105.0	Other	Approved	105.0	Approve in Full
-44717	2004092263430	2004-09-14 00:00:00	2004-04-27 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	68.65	Clothing & Accessories	Approved	68.65	Approve in Full
-44856	2004110466325	2004-09-15 00:00:00	2004-07-09 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	75.0	Cosmetics	Approved	75.0	Approve in Full
-45010	2004103166011	2004-09-16 00:00:00	2004-08-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	160.0	Watches & Jewelry	Approved	160.0	Approve in Full
-45077	2004103065819	2004-09-16 00:00:00	2004-09-14 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
-45302	2004102165417	2004-09-17 00:00:00	2004-08-31 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	499.94	Other	Settled	199.94	Settle
-46922	2004120768685	2004-10-07 00:00:00	2004-10-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Clothing & Accessories	Denied	0.0	Deny
-47979	2004120868883	2004-10-20 00:00:00	2004-08-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	75.4	Other	Settled	37.7	Settle
-48727	2004122169759	2004-10-29 00:00:00	2004-07-23 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-48882	2005021276055	2004-11-02 00:00:00	2004-04-02 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1470.04	Watches & Jewelry	Denied	0.0	Deny
-49809	2004122169962	2004-11-14 00:00:00	2004-10-03 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Denied	0.0	Deny
-50111	2004122370713	2004-11-16 00:00:00	2004-10-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-50730	2004123071828	2004-11-24 00:00:00	2004-10-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	443.39	Cosmetics	Settled	165.42	Settle
-52093	2005010472481	2004-12-14 00:00:00	2004-12-04 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1200.0	Other	Denied	0.0	Deny
-52547	2005010673084	2004-12-21 00:00:00	2004-11-24 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	22.4	Other	Approved	22.4	Approve in Full
-53875	2005012774554	2005-01-07 00:00:00	2004-12-14 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	56.0	Other	Settled	28.0	Settle
-54629	2005013174977	2005-01-14 00:00:00	2004-12-12 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	250.0	Other	Settled	125.0	Settle
-55857	2005022476781	2005-01-28 00:00:00	2004-12-30 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	198.48	Clothing & Accessories	Approved	198.48	Approve in Full
-55861	2005022376664	2005-01-28 00:00:00	2005-01-06 00:00:00	LGB	Long Beach	American West	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Canceled	0.0	
-55941	2005022476748	2005-01-28 00:00:00	2004-10-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	319.79	Electronics	Settled	159.9	Settle
-56114	2005022876842	2005-02-01 00:00:00	2005-01-08 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	120.0	Other	Denied	0.0	Deny
-57761	2005031778581	2005-02-23 00:00:00	2004-12-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	473.12	Other	Settled	385.71	Settle
-57975	2005032178922	2005-02-24 00:00:00	2004-12-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	158.38	Cosmetics	Settled	79.19	Settle
-58048	2005032178932	2005-03-01 00:00:00	2005-02-08 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	525.0	Watches & Jewelry	Approved	525.0	Approve in Full
-58730	2005032479692	2005-03-07 00:00:00	2005-02-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	349.99	Electronics	Settled	300.41	Settle
-58898	2005032479774	2005-03-09 00:00:00	2005-01-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	60.0	Other	Approved	60.0	Approve in Full
-58919	2005032579879	2005-03-09 00:00:00		LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Approved	85.0	Approve in Full
-59219	2005032880038	2005-03-14 00:00:00	2004-12-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	467.28	Electronics	Settled	344.27	Settle
-59312	2005032178964	2005-03-16 00:00:00	2005-02-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	120.09	Other	Approved	120.09	Approve in Full
-60948	2005040781829	2005-04-05 00:00:00	2004-10-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	200.57	Settle
-61198	2005041182120	2005-04-07 00:00:00	2005-03-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	56.9	Electronics	Approved	56.9	Approve in Full
-61566	2005041382445	2005-04-12 00:00:00	2005-02-21 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checkpoint	484.4	Watches & Jewelry	Denied	0.0	Deny
-61801	2005041482576	2005-04-14 00:00:00	2005-03-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Settled	87.5	Settle
-62260	2005042583177	2005-04-22 00:00:00	2005-04-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Approved	40.0	Approve in Full
-63051	2005050484009	2005-05-03 00:00:00	2005-04-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	189.93	Electronics	Approved	189.93	Approve in Full
-63446	2005051184517	2005-05-09 00:00:00	2005-03-17 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	450.0	Clothing & Accessories	Denied	0.0	Deny
-63929	2005060685824	2005-05-14 00:00:00	2005-04-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2446.88	Watches & Jewelry	Canceled	0.0	
-66033	2005062286947	2005-06-13 00:00:00	2005-05-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	100.0	Watches & Jewelry	Denied	0.0	Deny
-66462	2005062887598	2005-06-20 00:00:00	2005-05-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	22.17	Other	Approved	22.17	Approve in Full
-66715	2005062887494	2005-06-21 00:00:00	2005-05-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	268.43	Electronics	Settled	68.43	Settle
-67272	2005070588241	2005-06-30 00:00:00	2004-12-30 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	260.99	Electronics	Settled	136.83	Settle
-67299	2005070588283	2005-07-01 00:00:00	2005-05-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Approved	150.0	Approve in Full
-67395	2005070688353	2005-07-05 00:00:00	2005-05-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	40.0	Watches & Jewelry	Denied	0.0	Deny
-67756	2005071288765	2005-07-11 00:00:00	2005-05-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.87	Tools & Machines	Approved	10.87	Approve in Full
-69503	2005081590589	2005-08-04 00:00:00	2005-07-15 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	68.0	Other	Denied	0.0	Deny
-69604	2005081790697	2005-08-05 00:00:00	2005-07-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
-70554	2005083091865	2005-08-23 00:00:00	2005-08-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-71217	2005083191972	2005-08-31 00:00:00	2005-08-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	1487.13	Watches & Jewelry	Denied	0.0	Deny
-71431	2005092793282	2005-09-07 00:00:00	2005-07-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	22.45	Tools & Machines	Approved	22.45	Approve in Full
-71627	2005091992691	2005-09-08 00:00:00	2005-08-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	159.95	Clothing & Accessories	Settled	79.97	Settle
-72165	2005092393188	2005-09-16 00:00:00	2005-08-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	380.0	Electronics	Settled	134.38	Settle
-72682	2005100493825	2005-09-26 00:00:00	2005-09-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	53.86	Clothing & Accessories	Approved	53.86	Approve in Full
-72783	2005100493829	2005-09-27 00:00:00	2005-09-18 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Denied	0.0	Deny
-72911	2005100594023	2005-09-29 00:00:00	2005-09-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.64	Tools & Machines	Approved	9.64	Approve in Full
-73305	2005101294429	2005-10-05 00:00:00	2005-09-02 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.87	Tools & Machines	Approved	10.87	Approve in Full
-73333	2005101394547	2005-10-05 00:00:00	2005-09-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-73709	2005101894803	2005-10-12 00:00:00	2005-09-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	214.43	Other	Settled	107.22	Settle
-74233	2005102895352	2005-10-21 00:00:00	2005-09-30 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Other	752.5	Watches & Jewelry	Denied	0.0	Deny
-74295	2005103195414	2005-10-24 00:00:00	2005-09-02 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1250.0	Watches & Jewelry	Denied	0.0	Deny
-74303	2005103195450	2005-10-24 00:00:00	2005-10-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	160.0	Other	Denied	0.0	Deny
-74395	2005110195488	2005-10-25 00:00:00	2005-10-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	19.74	Other	Denied	0.0	Deny
-74776	2005111095995	2005-11-01 00:00:00	2005-09-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	15.73	Tools & Machines	Approved	15.73	Approve in Full
-74978	2005111596115	2005-11-03 00:00:00	2005-10-19 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Settled	139.01	Settle
-75302	2005112596434	2005-11-10 00:00:00	2005-10-03 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	219.99	Electronics	Denied	0.0	Deny
-75374	2005112596429	2005-11-14 00:00:00	2005-09-30 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	750.0	Other	Denied	0.0	Deny
-76414	2005121297529	2005-12-02 00:00:00	2005-11-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Approved	75.0	Approve in Full
-76959	2005122198226	2005-12-12 00:00:00	2005-10-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	550.0	Containers	Denied	0.0	Deny
-77233	2005122398327	2005-12-16 00:00:00	2005-11-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	41.21	Other	Denied	0.0	Deny
-77247	2005122798380	2005-12-16 00:00:00	2005-12-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	39.91	Other	Denied	0.0	Deny
-77394	2005122798439	2005-12-21 00:00:00	2005-10-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1214.17	Electronics	Denied	0.0	Deny
-77504	2006010398660	2005-12-22 00:00:00	2005-11-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-77546	2006010398672	2005-12-23 00:00:00	2005-12-14 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	7.0	Other	Approved	7.0	Approve in Full
-77716	2006010598802	2005-12-28 00:00:00	2005-12-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	8.14	Other	Denied	0.0	Deny
-77979	2006010999155	2006-01-04 00:00:00	2005-12-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	44.69	Electronics	Approved	44.69	Approve in Full
-78050	2006010999174	2006-01-04 00:00:00	2005-12-09 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
-78607	2006011899791	2006-01-10 00:00:00	2005-11-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Clothing & Accessories	Settled	202.68	Settle
-78618	2006011899806	2006-01-11 00:00:00	2006-01-09 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	212.36	Other	Approved	212.36	Approve in Full
-78706	2006012099863	2006-01-12 00:00:00	2005-07-04 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	335.0	Watches & Jewelry	Denied	0.0	Deny
-78768	2006012099940	2006-01-13 00:00:00	2006-01-11 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	98.0	Clothing & Accessories	Approved	98.0	Approve in Full
-78782	2006012099892	2006-01-13 00:00:00	2005-12-30 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1000.0	Clothing & Accessories	Denied	0.0	Deny
-78950	2006012300167	2006-01-18 00:00:00	2006-01-09 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	130.0	Clothing & Accessories	Approved	130.0	Approve in Full
-78975	2006012400225	2006-01-18 00:00:00	2005-11-23 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	78.0	Clothing & Accessories	Approved	78.0	Approve in Full
-79053	2006012400257	2006-01-18 00:00:00	2005-12-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	540.0	Electronics	Denied	0.0	Deny
-79409	2006020100694	2006-01-24 00:00:00	2006-01-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	268.3	Other	Approved	268.3	Approve in Full
-79530	2006020100710	2006-01-24 00:00:00	2005-12-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Settled	100.0	Settle
-79658	2006020200816	2006-01-26 00:00:00	2006-01-15 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	377.07	Electronics	Settled	188.54	Settle
-80277	2006021001397	2006-02-07 00:00:00	2005-01-23 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	148.75	Clothing & Accessories	Denied	0.0	Deny
-81013	2006022402101	2006-02-21 00:00:00	2006-01-03 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Settled	150.0	Settle
-81169	2006030102326	2006-02-23 00:00:00	2006-02-07 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	515.97	Electronics	Settled	407.92	Settle
-81189	2006030202381	2006-02-24 00:00:00	2006-02-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	36.81	Clothing & Accessories	Approved	36.81	Approve in Full
-81348	2006030602534	2006-02-28 00:00:00	2006-02-21 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Approved	14.0	Approve in Full
-81561	2006030702715	2006-03-03 00:00:00	2006-02-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	29.97	Other	Approved	29.97	Approve in Full
-81669	2006030802801	2006-03-06 00:00:00	2006-01-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Clothing & Accessories	Denied	0.0	Deny
-81753	2006031302983	2006-03-07 00:00:00	2006-01-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	38.32	Clothing & Accessories	Approved	38.32	Approve in Full
-82054	2006031503183	2006-03-10 00:00:00	2006-02-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
-82154	2006032803763	2006-03-14 00:00:00	2006-02-16 00:00:00	LGB	Long Beach	American West	Passenger Property Loss	Checked Baggage	15.0	Supplies	Approved	15.0	Approve in Full
-82807	2006040403983	2006-03-24 00:00:00	2006-03-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	8825.0	Watches & Jewelry	Denied	0.0	Deny
-82851	2006040504078	2006-03-27 00:00:00	2006-02-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	55.0	Clothing & Accessories	Approved	55.0	Approve in Full
-82925	2006040604123	2006-03-28 00:00:00	2006-02-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	410.0	Watches & Jewelry	Approved	410.0	Approve in Full
-83284	2006041304498	2006-04-04 00:00:00	2006-03-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Approved	150.0	Approve in Full
-83393	2006041404597	2006-04-04 00:00:00	2006-02-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	99.0	Clothing & Accessories	Settled	50.0	Settle
-83426	2006041704652	2006-04-06 00:00:00	2006-03-22 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Approved	18.0	Approve in Full
-83884	2006042405003	2006-04-14 00:00:00	2006-03-30 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	96.96	Other	Settled	48.48	Settle
-84117	2006042505290	2006-04-20 00:00:00	2006-04-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	247.71	Other	Approved	247.71	Approve in Full
-84204	2006042505328	2006-04-24 00:00:00	2006-03-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Electronics	Canceled	0.0	
-85166	2006051706458	2006-05-11 00:00:00	2006-04-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Settled	20.0	Settle
-86058	2006060507321	2006-05-31 00:00:00	2006-04-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	29.5	Clothing & Accessories	Denied	0.0	Deny
-86412	2006061307901	2006-06-06 00:00:00	2006-05-31 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	53.18	Cosmetics	Denied	0.0	Deny
-86779	2006061508083	2006-06-14 00:00:00	2006-05-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	8.95	Tools & Machines	Approved	8.95	Approve in Full
-87014	2006062008281	2006-06-19 00:00:00	2006-05-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	678.0	Clothing & Accessories,Containers	Denied	0.0	Deny
-87261	2006062608525	2006-06-22 00:00:00	2006-06-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	401.87	Containers,Clothing & Accessories	Settled	200.93	Settle
-87265	2006062308500	2006-06-23 00:00:00	2006-06-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	390.0	Scientific Intruments	Approved	390.0	Approve in Full
-87407	2006062808639	2006-06-27 00:00:00	2006-06-09 00:00:00	LGB	Long Beach	Jet Train Airlines	Passenger Property Loss	Checked Baggage	600.0	Cosmetics	Settled	177.0	Settle
-88108	2006071409465	2006-07-10 00:00:00	2006-06-30 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	44.85	Cosmetics	Denied	0.0	Deny
-89114	2006080210351	2006-07-28 00:00:00	2006-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	323.7	Clothing & Accessories,Scientific Intruments	Settled	195.43	Settle
-89636	2006081110829	2006-08-09 00:00:00	2006-01-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Watches & Jewelry,Games & Toys	Denied	0.0	Deny
-90093	2006081811291	2006-08-17 00:00:00	2006-08-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	661.0	Electronics,Cosmetics,Supplies	Settled	236.8	Settle
-90197	2006082411522	2006-08-21 00:00:00	2006-08-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-90443	2006082911730	2006-08-24 00:00:00	2006-08-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	27.94	Other	Approved	27.94	Approve in Full
-90782	2006090712062	2006-08-30 00:00:00	2006-08-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	574.59	Electronics,Electronics,Other	Denied	0.0	Deny
-91013	2006090812198	2006-09-05 00:00:00	2006-08-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1500.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
-91078	2006090812174	2006-09-05 00:00:00	2006-08-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Settled	335.0	Settle
-91658	2006092112964	2006-09-15 00:00:00	2006-08-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	149.5	Watches & Jewelry	Denied	0.0	Deny
-91747	2006092213122	2006-09-18 00:00:00	2006-08-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
-92226	2006100413586	2006-09-27 00:00:00	2006-09-15 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
-92686	2006101013803	2006-10-06 00:00:00	2006-09-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.84	Cosmetics,Tools & Machines,Other	Settled	60.89	Settle
-92688	2006101113870	2006-10-06 00:00:00	2006-10-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	154.0	Clothing & Accessories,Containers	Settled	150.0	Settle
-92836	2006101213936	2006-10-11 00:00:00	2006-08-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	574.59	Containers,Electronics,Other	Canceled	0.0	
-92902	2006101814150	2006-10-12 00:00:00	2006-08-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	442.92	Clothing & Accessories,Electronics	Approved	442.92	Approve in Full
-93300	2006102714771	2006-10-18 00:00:00	2006-06-16 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Electronics,Electronics	Denied	0.0	Deny
-93401	2006102614654	2006-10-20 00:00:00	2006-10-17 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	9.78	Tools & Machines	Approved	9.78	Approve in Full
-93510	2006102714767	2006-10-23 00:00:00	2006-09-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1399.67	Electronics	Denied	0.0	Deny
-94098	2006110815345	2006-11-03 00:00:00	2006-10-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	530.0	Watches & Jewelry	Denied	0.0	Deny
-94442	2006111715775	2006-11-13 00:00:00	2006-10-30 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	12.95	Tools & Machines	Approved	12.95	Approve in Full
-94941	2006112416219	2006-11-20 00:00:00	2006-11-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1413.32	Electronics	Settled	649.5	Settle
-95267	2006113016529	2006-11-27 00:00:00	2006-11-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	390.0	Other	Settled	195.0	Settle
-96480	2006122617914	2006-12-19 00:00:00	2006-12-03 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
-96879	2007010418313	2006-12-28 00:00:00	2006-12-23 00:00:00	LGB	Long Beach	American West	Passenger Property Loss	Checked Baggage	32.5	Outdoors Supplies	Denied	0.0	Deny
-97035	0819101M		2003-07-07 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Approved	81.0	Approve in Full
-97979	2007012319243	2007-01-11 00:00:00	2006-12-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	59.26	Cosmetics	Denied	0.0	Deny
-98208	2007012319203	2007-01-16 00:00:00	2006-11-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	417.88	Cosmetics	Settled	219.07	Settle
-98425	2007012619551	2007-01-19 00:00:00	2006-12-28 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	2500.0	Scientific Intruments	Denied	0.0	Deny
-99104	2007020520186	2007-01-30 00:00:00	2006-12-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	59.26	Cosmetics	Settled	30.0	Settle
-99118	2007020520171	2007-01-31 00:00:00	2007-01-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	213.35	Electronics	Approved	213.35	Approve in Full
-99182	2007020820483	2007-01-31 00:00:00	2006-10-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	268.69	Containers	Settled	76.1	Settle
-99547	2007020920637	2007-02-07 00:00:00	2007-01-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	141.02	Other	Denied	0.0	Deny
-99938	2007021621163	2007-02-14 00:00:00	2007-12-26 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	386.79	Electronics	Canceled	0.0	
-100020	2007021621136	2007-02-15 00:00:00	2006-11-08 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	392.0	Outdoors Supplies	Settled	196.0	Settle
-100272	2007022321443	2007-02-22 00:00:00	2007-02-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	80.95	Food & Drink	Denied	0.0	Deny
-100315	2007022621487	2007-02-22 00:00:00	2007-02-14 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Settled	45.0	Settle
-100525	2007022821709	2007-02-27 00:00:00	2007-02-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	153.0	Clothing & Accessories	Settled	76.5	Settle
-100937	2007031222125	2007-03-08 00:00:00	2007-02-19 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	16.27	Tools & Machines	Approved	16.27	Approve in Full
-101012	2007031322181	2007-03-09 00:00:00	2007-01-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Denied	0.0	Deny
-101371	2007032022565	2007-03-15 00:00:00	2007-01-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	229.9	Electronics	Settled	85.0	Settle
-102228	2007040423460	2007-04-02 00:00:00	2007-03-10 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	32.33	Clothing & Accessories	Denied	0.0	Deny
-102306	2007040423497	2007-04-03 00:00:00	2007-02-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	5000.0	Cosmetics,Watches & Jewelry	Denied	0.0	Deny
-102438	2007040923660	2007-04-06 00:00:00	2006-07-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	102.84	Watches & Jewelry	Approved	102.84	Approve in Full
-102610	2007041323971	2007-04-09 00:00:00	2007-03-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	437.09	Electronics,Electronics	Settled	131.55	Settle
-103496	2007050124818	2007-04-27 00:00:00	2007-04-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	600.0	Electronics	Canceled	0.0	
-103791	2007050424968	2007-05-03 00:00:00	2007-04-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	149.95	Electronics	Settled	74.97	Settle
-103942	2007050825116	2007-05-08 00:00:00	2007-04-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
-104008	2007051025266	2007-05-08 00:00:00	2007-03-23 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	311.67	Other	Settled	155.84	Settle
-104060	2007051625467	2007-05-09 00:00:00	2007-04-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	208.5	Cosmetics	Settled	104.25	Settle
-104487	2007052225800	2007-05-18 00:00:00	2007-04-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Approved	9.0	Approve in Full
-104690	2007052325895	2007-05-22 00:00:00	2007-05-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	260.99	Electronics	Settled	130.04	Settle
-104932	2007060126001	2007-05-30 00:00:00	2007-05-13 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	159.95	Scientific Intruments	Approved	159.95	Approve in Full
-104955	2007053025972	2007-05-30 00:00:00	2007-03-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	7000.0	Watches & Jewelry	Denied	0.0	Deny
-105006	2007060626346	2007-05-30 00:00:00		LGB	Long Beach		Passenger Property Loss		25.0	Containers	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-105062	2007060426189	2007-05-31 00:00:00	2007-05-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	327.68	Settle
-105072	2007060426246	2007-06-01 00:00:00	2007-05-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-105449	2007061126629	2007-06-06 00:00:00	2007-06-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	470.0	Watches & Jewelry	Settled	235.0	Settle
-105725	2007061526993	2007-06-12 00:00:00	2007-06-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	190.0	Clothing & Accessories,Other	Settled	95.0	Settle
-105775	2007061827103	2007-06-14 00:00:00	2007-05-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	35.54	Watches & Jewelry	Approved	35.54	Approve in Full
-105859	2007061827115	2007-06-14 00:00:00	2007-05-29 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	447.99	Cosmetics	Settled	413.95	Settle
-105910	2007062027208	2007-06-15 00:00:00	2007-06-04 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	307.08	Electronics	Denied	0.0	Deny
-106618	2007071728502	2007-07-01 00:00:00	2007-07-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	310.0	Other	Denied	0.0	Deny
-106835	2007071028066	2007-07-05 00:00:00	2007-07-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Settled	55.0	Settle
-107121	2007071628379	2007-07-11 00:00:00	2007-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	230.0	Watches & Jewelry	Canceled	0.0	
-107607	2007072028791	2007-07-19 00:00:00	2007-06-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.42	Containers	Settled	100.21	Settle
-107717	2007072328928	2007-07-23 00:00:00	2007-06-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	194.0	Other	Denied	0.0	Deny
-107803	2007072629083	2007-07-24 00:00:00	2007-07-17 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.87	Electronics	Denied	0.0	Deny
-107936	2007073029328	2007-07-26 00:00:00	2007-07-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-108126	2007073129425	2007-07-30 00:00:00	2007-07-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	751.99	Electronics,Electronics	Denied	0.0	Deny
-108230	2007080129472	2007-07-31 00:00:00	2007-07-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	705.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-108311	2007080229548	2007-08-01 00:00:00	2007-06-25 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	366.97	Cosmetics	Settled	84.75	Settle
-108336	2007080629683	2007-08-02 00:00:00	2007-07-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	705.0	Clothing & Accessories,Cosmetics,Containers	Canceled	0.0	
-108860	2007081430215	2007-08-10 00:00:00	2007-08-06 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Denied	0.0	Deny
-109556	2007082430825	2007-08-23 00:00:00	2007-05-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	152.0	Clothing & Accessories	Denied	0.0	Deny
-109714	2007082730938	2007-08-27 00:00:00	2007-07-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	975.0	Watches & Jewelry	Denied	0.0	Deny
-110114	2007090731522	2007-09-04 00:00:00	2007-04-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	300.0	Other	Denied	0.0	Deny
-110148	2007090631429	2007-09-05 00:00:00	2007-07-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	75.78	Clothing & Accessories	Approved	75.78	Approve in Full
-110344	2007091231692	2007-09-07 00:00:00	2007-09-01 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	45.0	Other	Denied	0.0	Deny
-111038	2007092032350	2007-09-20 00:00:00	2007-09-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	2725.0	Watches & Jewelry	Denied	0.0	Deny
-111115	2007092532561	2007-09-21 00:00:00	2007-06-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	3083.0	Electronics	Denied	0.0	Deny
-112922	2007110234289	2007-10-30 00:00:00	2007-07-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	350.0	Office Supplies,Other	Denied	0.0	Deny
-113215	2007110634550	2007-11-05 00:00:00	2007-10-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	253.34	Cosmetics,Containers	Denied	0.0	Deny
-113742	2007111935124	2007-11-15 00:00:00	2007-11-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	60.34	Clothing & Accessories	Denied	0.0	Deny
-113824	2007112035220	2007-11-16 00:00:00	2007-11-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	180.0	Other	Denied	0.0	Deny
-114090	2007112635391	2007-11-23 00:00:00	2007-11-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Electronics	Denied	0.0	Deny
-114357	2007112835617	2007-11-28 00:00:00	2007-10-26 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-115840	2008010437394	2007-12-31 00:00:00	2007-12-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-116150	2008011437851	2008-01-07 00:00:00	2007-12-23 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	395.9	Watches & Jewelry	Approved	395.9	Approve in Full
-116881	2008012238328	2008-01-16 00:00:00	2007-11-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	262.51	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-117349	2008013038930	2008-01-25 00:00:00	2008-01-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	16.0	Outdoors Supplies	Denied	0.0	Deny
-117703	2008013038812	2008-01-31 00:00:00	2008-01-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1289.54	Electronics,Other	Settled	172.41	Settle
-118328	2008020839320	2008-02-14 00:00:00	2008-01-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	500.0	Electronics,Containers	Denied	0.0	Deny
-118879	2008030340346	2008-02-26 00:00:00	2008-02-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2500.0	Electronics	Denied	0.0	Deny
-119299	2008030640528	2008-03-06 00:00:00	2007-06-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	694.0	Electronics,Electronics	Denied	0.0	Deny
-119620	2008040241699	2008-03-12 00:00:00	2008-02-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-119721	2008032141401	2008-03-14 00:00:00	2008-03-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	59.99	Other	Denied	0.0	Deny
-121293	2008042142969	2008-04-14 00:00:00	2008-02-15 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-121413	2008042143008	2008-04-15 00:00:00	2008-04-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	432.98	Electronics	Denied	0.0	Deny
-122104	2008050243755	2008-04-29 00:00:00	2008-03-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	219.0	Electronics	Settled	109.5	Settle
-123841	2008061145488	2008-06-06 00:00:00	2008-05-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	550.0	Electronics	Denied	0.0	Deny
-124078	2008061745762	2008-06-11 00:00:00	2008-05-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	180.0	Tools & Machines	Settled	162.0	Settle
-124993	2008071046707	2008-07-02 00:00:00	2008-03-25 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-125366	2008071046788	2008-07-11 00:00:00	2008-06-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1046.0	Tools & Machines	Denied	0.0	Deny
-125794	2008072947643	2008-07-22 00:00:00	2008-06-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.78	Tools & Machines	Approved	10.78	Approve in Full
-127140	2008082148896	2008-08-19 00:00:00	2008-07-23 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-127961	2008091249807	2008-09-08 00:00:00	2008-08-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2087.79	Electronics	Denied	0.0	Deny
-128435	2008091950170	2008-09-18 00:00:00	2008-07-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	227.28	Electronics	Denied	0.0	Deny
-129126	2008101551148	2008-10-06 00:00:00	2008-09-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	625.0	Household Items	Denied	0.0	Deny
-129354	2008102051282	2008-10-14 00:00:00	2008-09-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	250.0	Electronics,Electronics	Canceled	0.0	
-130411	2008111752256	2008-11-07 00:00:00	2008-05-16 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage		Tools & Machines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-130566	2008111852383	2008-11-13 00:00:00	2008-08-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1405.0	Electronics	Denied	0.0	Deny
-130868	2008112152654	2008-11-20 00:00:00	2008-11-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	325.0	Household Items	Denied	0.0	Deny
-132186	2009010554032	2008-12-29 00:00:00	2008-12-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	188.64	Electronics	Denied	0.0	Deny
-132565	2009011354431	2009-01-07 00:00:00	2008-12-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1429.0	Containers,Electronics	Denied	0.0	Deny
-132897	2009012354887	2009-01-13 00:00:00	2008-12-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	250.0	Other	Denied	0.0	Deny
-135324	2009041057290	2009-03-20 00:00:00	2009-01-17 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checkpoint	48.9	Watches & Jewelry	Denied	0.0	Deny
-135891	2009042257888	2009-04-06 00:00:00	2009-03-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-137018	2009051958976	2009-05-06 00:00:00	2009-04-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	250.0	Cosmetics	Denied	0.0	Deny
-138212	2009061560187	2009-06-10 00:00:00	2009-04-12 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Supplies	Denied	0.0	Deny
-138931	2009070760904	2009-06-30 00:00:00	2007-07-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2599.49	Electronics,Watches & Jewelry,Supplies	Denied	0.0	Deny
-138982	2009070960990	2009-07-01 00:00:00	2009-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	441.5	Cosmetics	Canceled	0.0	
-139347	2009072461719	2009-07-10 00:00:00	2009-06-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	50.0	Containers	Denied	0.0	Deny
-139809	2009072861827	2009-07-22 00:00:00	2009-06-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Denied	0.0	Deny
-140585	2009081362593	2009-08-12 00:00:00	2009-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	21.9	Tools & Machines	Approved	21.9	Approve in Full
-141361	2009090463379	2009-09-03 00:00:00	2009-08-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
-141362	2009090463389	2009-09-03 00:00:00	2008-11-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
-141679	2009091563677	2009-09-14 00:00:00	2009-09-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	291.38	Containers,Cosmetics,Cosmetics	Denied	0.0	Deny
-141842	2009092163867	2009-09-17 00:00:00	2009-08-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	124.53	Cosmetics	Denied	0.0	Deny
-145992	2010030569109	2010-02-19 00:00:00	2010-01-19 16:25:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Electronics		0.0	Deny
-147013	2010032670121	2010-03-24 00:00:00	2010-03-12 20:45:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Containers,Cosmetics		0.0	Deny
-148005	2010042671204	2010-04-23 00:00:00	2010-04-19 12:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-149671	2010062272925	2010-06-15 00:00:00	2010-05-28 10:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-155108	2010120378479	2010-11-29 00:00:00	2010-11-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-155216	2010120678557	2010-12-01 00:00:00	2010-11-23 18:30:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-156064	2011010979407	2011-01-03 00:00:00	2010-11-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry		0.0	Deny
-161862	2011072185400	2011-07-08 00:00:00	2011-06-29 16:15:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-162572	2011081586136	2011-08-01 00:00:00	2011-01-29 19:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-162897	2011082686474	2011-08-09 00:00:00	2011-07-28 21:25:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other		20.0	Approve in Full
-164314	2011101487944	2011-09-28 00:00:00	2011-09-02 05:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage		Clothing & Accessories		150.0	Approve in Full
-164902	2011102888511	2011-10-17 00:00:00	2011-09-16 08:10:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics			
-165303	2011103188577	2011-10-31 00:00:00	2011-05-26 12:45:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Cosmetics,Scientific Intruments		0.0	Deny
-166316	2012010389919	2011-12-06 00:00:00	2011-11-28 09:30:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-167108	2012020990880	2012-01-04 00:00:00	2011-12-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-167526	2012022291238	2012-01-17 00:00:00	2011-12-11 11:15:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-169162	2012041192791	2012-03-12 00:00:00	2012-02-17 11:05:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories		107.91	Approve in Full
-169689	2012092597131	2012-04-02 00:00:00	2012-02-22 06:40:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		280.0	Settle
-172446	2012082896229	2012-07-10 00:00:00	2012-07-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Other		Other		0.0	Deny
-174475	2012102698187	2012-09-19 00:00:00	2012-08-27 09:20:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		134.55	Settle
-174864	2012110998517	2012-10-03 00:00:00	2012-09-11 14:59:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other		52.0	Approve in Full
-176507	2013012900523	2012-12-06 00:00:00	2012-12-03 05:28:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage		Other		54.0	Approve in Full
-176523	2013012400209	2012-12-07 00:00:00	2012-05-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories			
-179802	2013042503346	2013-04-11 00:00:00	2013-04-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories		203.81	Settle
-183441	2013102107504	2013-08-17 00:00:00	2013-07-30 12:36:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-185936	2013120509864	2013-11-26 00:00:00	2013-10-31 07:45:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-186868	2014010710597	2014-01-02 00:00:00	2013-12-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-188783	2014031812574	2014-03-17 00:00:00	2014-03-14 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-190878	2014061714705	2014-06-10 00:00:00	2014-05-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-200510	2015021920716	2015-02-19 00:00:00	2015-01-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Food & Drink,Other		0.0	Deny
-200511	2015022320787	2015-02-23 00:00:00	2015-02-01 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-200513	2015060922971	2015-05-29 00:00:00	2015-05-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
-200515	2015063023587	2015-06-24 00:00:00	2015-06-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other,Other			
-200517	2015072224101	2015-07-16 00:00:00	2015-06-23 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage		Supplies,Office Supplies		30.0	Approve in Full
-200519	2015100225853	2015-09-16 00:00:00	2015-09-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-200520	2015120427292	2015-11-16 00:00:00	2015-10-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-200521	2015121527580	2015-11-24 00:00:00	2015-11-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		90.0	Settle
-200522	2015122427866	2015-12-11 00:00:00	2015-11-16 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-209042	2016071432669	2016-06-17 00:00:00	2016-05-15 09:30:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics			Insufficient
-209045	2016042730862	2016-04-08 00:00:00	2016-04-07 16:44:00	LGB	Long Beach Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics		0.0	Deny
-209046	2016050431066	2016-04-12 00:00:00	2016-04-07 18:30:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-209048	2016092133715	2016-07-28 00:00:00	2016-07-09 00:00:00	LGB	Long Beach Long Beach	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-209051	2016102835374	2016-09-27 00:00:00	2016-09-03 12:25:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Other			In Review
-209053	2017010936379	2016-11-17 00:00:00	2016-11-13 00:00:00	LGB	Long Beach Long Beach	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-217307	2017071841640	2017-06-02 00:00:00	2017-05-16 20:00:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories			In Review
-217309	2018011646823	2017-12-08 00:00:00	2017-11-29 00:00:00	LGB	Long Beach Long Beach	Southwest Airlines	Passenger Property Loss	Checkpoint		Food & Drink			In Review
-217312	2017112845526	2017-10-24 00:00:00	2017-10-02 00:00:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Other,Clothing & Accessories			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+358	0703501M	2002-11-22 00:00:00	2002-11-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	747.13	Watches & Jewelry	Jewelry - Fine	Approved	747.13	Approve in Full
+604	23156	2002-12-12 00:00:00	2002-11-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2600.0	Electronics	Computer - Laptop	Settled	1626.92	Settle
+4509	0401099L	2003-04-01 00:00:00	2003-03-03 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	345.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	172.5	Settle
+6361	0513002L	2003-05-13 00:00:00	2003-03-31 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	240.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	120.0	Settle
+7242	0529133L	2003-05-29 00:00:00	2003-05-27 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	4625.0	Watches & Jewelry	Jewelry - Fine	Denied	4625.0	Deny
+7995	0609017L	2003-06-09 00:00:00	2003-05-25 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	482.72	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+8098	0610022L	2003-06-10 00:00:00	2003-05-30 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checkpoint	757.97	Electronics	Cameras - Digital	Approved	720.0	Approve in Full
+8285	0610143L	2003-06-10 00:00:00	2003-05-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	317.92	Electronics	PDA - Personal Data Assistants	Settled	158.96	Settle
+8736	0617109L	2003-06-17 00:00:00	2003-06-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	105.0	Other	Other	Denied	0.0	Deny
+8850	0618108L	2003-06-18 00:00:00	2003-05-29 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	725.0	Watches & Jewelry	Jewelry - Fine	Approved	725.0	Approve in Full
+9753	0701119M	2003-07-01 00:00:00	2003-05-20 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	15700.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+12792	0808094M	2003-08-08 00:00:00	2003-07-24 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	730.0	Electronics	Cameras - Digital	Approved	730.0	Approve in Full
+12809	0808078M	2003-08-08 00:00:00	2003-06-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	220.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+13021	0812039M	2003-08-12 00:00:00	2003-07-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	527.03	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	263.51	Settle
+13140	0813170M	2003-08-13 00:00:00	2003-07-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Locks	Denied	0.0	Deny
+14078	0822085M	2003-08-22 00:00:00	2003-08-12 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	650.0	Containers	Luggage (all types including footlockers)	Canceled		
+14426	0826291M	2003-08-26 00:00:00	2003-08-07 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1620.0	Other	Other	Denied	0.0	Deny
+15114	0905213M	2003-09-05 00:00:00	2003-06-30 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	190.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	190.0	Approve in Full
+15239	0905070M	2003-09-05 00:00:00	2003-08-21 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Computer - Laptop	Settled	2500.0	Settle
+15322	0908029M	2003-09-08 00:00:00	2003-08-12 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1100.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+15809	0911020M	2003-09-11 00:00:00	2003-07-23 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	37.83	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	18.92	Settle
+15875	0915027M	2003-09-15 00:00:00	2003-08-22 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1000.0	Electronics	Cameras - Digital	Denied		Deny
+15996	0916052M	2003-09-16 00:00:00	2003-08-28 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	30.0	Other	Other	Approved	30.0	Approve in Full
+16065	0916044M	2003-09-16 00:00:00	2003-08-29 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	700.0	Other	Other	Settled	675.72	Settle
+16269	0923149M	2003-09-23 00:00:00	2003-09-13 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1445.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+17518	1008017M	2003-10-08 00:00:00	2003-09-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	150.0	Approve in Full
+17781	1009020M	2003-10-09 00:00:00	2003-09-24 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	22.19	Tools & Machines	Locks	Settled	11.09	Settle
+18721	1022182M	2003-10-22 00:00:00	2003-10-06 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	504.0	Electronics	Cameras - Digital	Denied		Deny
+19215	1030182M	2003-10-30 00:00:00	2003-10-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	65.0	Other	Other	Denied	0.0	Deny
+19841	1107125M	2003-11-07 00:00:00	2003-10-07 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1592.7	Electronics	Cameras - Digital	Denied	0.0	Deny
+20625	1117505M	2003-11-17 00:00:00	2003-10-13 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	410.06	Other	Other	Settled	205.03	Settle
+20633	1117530M	2003-11-17 00:00:00	2003-11-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	124.99	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	62.5	Settle
+20881	1119171M	2003-11-19 00:00:00	2003-09-10 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	161.51	Other	Other	Settled	80.75	Settle
+21589	1205602M	2003-12-05 00:00:00	2003-10-06 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	80.0	Other	Other	Canceled		
+22018	1205585M	2003-12-05 00:00:00	2003-11-17 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	2500.0	Electronics	Computer - Laptop	Settled	966.7	Settle
+22027	1205617M	2003-12-05 00:00:00	2003-09-28 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Jewelry - Fine	Settled	200.0	Settle
+22100	1208173M	2003-12-08 00:00:00	2003-11-12 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	73.0	Other	Other	Approved	73.0	Approve in Full
+22815	1217216M	2003-12-17 00:00:00	2003-11-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	390.0	Other	Other	Denied	0.0	Deny
+23455	1222144M	2003-12-22 00:00:00	2003-10-14 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	87.5	Settle
+23958	0105194M	2004-01-05 00:00:00	2003-12-14 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	281.45	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	140.53	Settle
+24427	0107057M	2004-01-07 00:00:00	2003-12-12 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	721.98	Other	Other	Settled	403.02	Settle
+25172	0114586M	2004-01-14 00:00:00	2003-12-30 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	117.45	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	58.78	Settle
+26159	2005030977364	2004-02-01 00:00:00	2005-01-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	288.66	Other	Other	Approved	288.66	Approve in Full
+27161	0205028M	2004-02-05 00:00:00	2004-01-25 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	3356.4	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+27194	0205187M	2004-02-05 00:00:00	2004-01-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	100.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+27341	0210084M	2004-02-10 00:00:00	2004-01-19 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	298.75	Watches & Jewelry	Jewelry - Fine	Approved	298.75	Approve in Full
+27567	0210094M	2004-02-10 00:00:00	2003-12-18 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	463.0	Watches & Jewelry	Jewelry - Fine	Settled	231.5	Settle
+28240	2004050450456	2004-02-19 00:00:00	2004-01-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	1100.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+28775	0226331M	2004-02-26 00:00:00	2004-02-09 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	29.98	Other	Other	Approved	29.98	Approve in Full
+28776	0226332M	2004-02-26 00:00:00	2004-02-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	186.19	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	186.19	Approve in Full
+29477	2004042750147	2004-03-05 00:00:00	2004-02-14 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	545.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+29650	2004050650656	2004-03-05 00:00:00	2004-01-27 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	123.0	Other	Other	Settled	61.5	Settle
+30273	0312004M	2004-03-12 00:00:00	2003-03-28 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1149.91	Watches & Jewelry	Jewelry - Fine	Denied	1149.91	Deny
+30610	2004052353090	2004-03-18 00:00:00	2004-03-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	375.0	Other	Currency	Approved	375.0	Approve in Full
+30637	2004042350134	2004-03-18 00:00:00	2004-02-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+30767	2004060154057	2004-03-18 00:00:00	2004-02-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	395.0	Watches & Jewelry	Jewelry - Fine	Denied		Deny
+31145	2004051351846	2004-03-24 00:00:00	2004-01-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	161.61	Watches & Jewelry	Jewelry - Fine	Approved	161.61	Approve in Full
+31161	2004051452020	2004-03-24 00:00:00	2004-03-11 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	25.0	Other	Other	Approved	25.0	Approve in Full
+31193	2004051652351	2004-03-24 00:00:00	2003-11-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	76.01	Other	Other	Approved	76.01	Approve in Full
+31309	2004051552325	2004-03-24 00:00:00	2004-01-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	632.0	Other	Other	Denied	0.0	Deny
+31387	2004051251473	2004-03-24 00:00:00	2004-03-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1102.44	Electronics	PDA - Personal Data Assistants	Settled	500.0	Settle
+31628	2004051452166	2004-03-30 00:00:00	2004-02-25 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	878.67	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+31662	2004050550559	2004-03-30 00:00:00	2004-02-05 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	800.06	Electronics	Cameras - Digital	Settled	400.03	Settle
+31666	2004051351652	2004-03-30 00:00:00	2004-03-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	559.0	Electronics	Cameras - Digital	Settled	280.0	Settle
+33683	2004060354549	2004-04-23 00:00:00	2004-04-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	300.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	150.0	Settle
+33838	2004052553351	2004-05-03 00:00:00	2004-04-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	109.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	109.0	Approve in Full
+34696	2004060855129	2004-05-05 00:00:00	2004-04-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	170.0	Other	Other	Settled	85.0	Settle
+34847	2004061455556	2004-05-10 00:00:00	2004-05-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+35327	2004061055457	2004-05-13 00:00:00	2004-03-21 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	350.0	Electronics	Cameras - Digital	Settled	175.0	Settle
+35381	2004061756193	2004-05-13 00:00:00	2004-02-26 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	300.0	Supplies	Medicines	Settled	150.0	Settle
+35615	2004060955225	2004-05-19 00:00:00	2004-04-01 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1470.04	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+35958	2004062156471	2004-05-27 00:00:00	2004-03-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Jewelry - Fine	Approved	60.0	Approve in Full
+36192	2004061055483	2004-05-27 00:00:00	2004-05-17 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	20.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+36218	2004061856332	2004-05-27 00:00:00	2004-04-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+36737	2004062357022	2004-06-02 00:00:00	2004-04-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	148.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	74.0	Settle
+36790	2004062357203	2004-06-03 00:00:00	2004-05-08 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	27.05	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	27.03	Approve in Full
+37108	2004062557330	2004-06-04 00:00:00	2004-05-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	7450.0	Other	Other	Denied	0.0	Deny
+38376	2004070858900	2004-06-21 00:00:00	2004-03-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	146.05	Other	Other	Settled	73.02	Settle
+38983	2004072359971	2004-06-29 00:00:00	2004-04-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	4150.0	Other	Other	Denied	0.0	Deny
+40196	2004080560700	2004-07-13 00:00:00	2004-03-18 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	655.1	Electronics	Cameras - Digital	Settled	327.5	Settle
+40561	2004072659985	2004-07-20 00:00:00	2004-07-09 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	24.99	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	24.99	Deny
+43442	2004092263470	2004-08-27 00:00:00	2004-08-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	21.35	Tools & Machines	Locks	Approved	21.35	Approve in Full
+44091	2004101965267	2004-09-09 00:00:00	2004-08-22 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	105.0	Other	Other	Approved	105.0	Approve in Full
+44717	2004092263430	2004-09-14 00:00:00	2004-04-27 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	68.65	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	68.65	Approve in Full
+44856	2004110466325	2004-09-15 00:00:00	2004-07-09 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	75.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	75.0	Approve in Full
+45010	2004103166011	2004-09-16 00:00:00	2004-08-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	160.0	Watches & Jewelry	Jewelry - Fine	Approved	160.0	Approve in Full
+45077	2004103065819	2004-09-16 00:00:00	2004-09-14 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+45302	2004102165417	2004-09-17 00:00:00	2004-08-31 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	499.94	Other	Other	Settled	199.94	Settle
+46922	2004120768685	2004-10-07 00:00:00	2004-10-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+47979	2004120868883	2004-10-20 00:00:00	2004-08-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	75.4	Other	Other	Settled	37.7	Settle
+48727	2004122169759	2004-10-29 00:00:00	2004-07-23 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1000.0	Other	Currency	Denied	0.0	Deny
+48882	2005021276055	2004-11-02 00:00:00	2004-04-02 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1470.04	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+49809	2004122169962	2004-11-14 00:00:00	2004-10-03 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+50111	2004122370713	2004-11-16 00:00:00	2004-10-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	30.0	Other	Other	Denied	0.0	Deny
+50730	2004123071828	2004-11-24 00:00:00	2004-10-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	443.39	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	165.42	Settle
+52093	2005010472481	2004-12-14 00:00:00	2004-12-04 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1200.0	Other	Currency	Denied	0.0	Deny
+52547	2005010673084	2004-12-21 00:00:00	2004-11-24 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	22.4	Other	Other	Approved	22.4	Approve in Full
+53875	2005012774554	2005-01-07 00:00:00	2004-12-14 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	56.0	Other	Other	Settled	28.0	Settle
+54629	2005013174977	2005-01-14 00:00:00	2004-12-12 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	250.0	Other	Other	Settled	125.0	Settle
+55857	2005022476781	2005-01-28 00:00:00	2004-12-30 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	198.48	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	198.48	Approve in Full
+55861	2005022376664	2005-01-28 00:00:00	2005-01-06 00:00:00	LGB	Long Beach	American West	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+55941	2005022476748	2005-01-28 00:00:00	2004-10-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	319.79	Electronics	DVD/CD Players	Settled	159.9	Settle
+56114	2005022876842	2005-02-01 00:00:00	2005-01-08 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	120.0	Other	Other	Denied	0.0	Deny
+57761	2005031778581	2005-02-23 00:00:00	2004-12-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	473.12	Other	Other	Settled	385.71	Settle
+57975	2005032178922	2005-02-24 00:00:00	2004-12-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	158.38	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	79.19	Settle
+58048	2005032178932	2005-03-01 00:00:00	2005-02-08 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	525.0	Watches & Jewelry	Jewelry - Fine	Approved	525.0	Approve in Full
+58730	2005032479692	2005-03-07 00:00:00	2005-02-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	349.99	Electronics	Cameras - Digital	Settled	300.41	Settle
+58898	2005032479774	2005-03-09 00:00:00	2005-01-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	60.0	Other	Other	Approved	60.0	Approve in Full
+58919	2005032579879	2005-03-09 00:00:00		LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	85.0	Approve in Full
+59219	2005032880038	2005-03-14 00:00:00	2004-12-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	467.28	Electronics	Cameras - Digital	Settled	344.27	Settle
+59312	2005032178964	2005-03-16 00:00:00	2005-02-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	120.09	Other	Other	Approved	120.09	Approve in Full
+60948	2005040781829	2005-04-05 00:00:00	2004-10-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Settled	200.57	Settle
+61198	2005041182120	2005-04-07 00:00:00	2005-03-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	56.9	Electronics	DVD/CD Players	Approved	56.9	Approve in Full
+61566	2005041382445	2005-04-12 00:00:00	2005-02-21 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checkpoint	484.4	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+61801	2005041482576	2005-04-14 00:00:00	2005-03-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	87.5	Settle
+62260	2005042583177	2005-04-22 00:00:00	2005-04-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	40.0	Approve in Full
+63051	2005050484009	2005-05-03 00:00:00	2005-04-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	189.93	Electronics	Computer - Laptop	Approved	189.93	Approve in Full
+63446	2005051184517	2005-05-09 00:00:00	2005-03-17 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	450.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+63929	2005060685824	2005-05-14 00:00:00	2005-04-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2446.88	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+66033	2005062286947	2005-06-13 00:00:00	2005-05-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	100.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+66462	2005062887598	2005-06-20 00:00:00	2005-05-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	22.17	Other	Other	Approved	22.17	Approve in Full
+66715	2005062887494	2005-06-21 00:00:00	2005-05-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	268.43	Electronics	Cell Phones	Settled	68.43	Settle
+67272	2005070588241	2005-06-30 00:00:00	2004-12-30 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	260.99	Electronics	Cameras - Digital	Settled	136.83	Settle
+67299	2005070588283	2005-07-01 00:00:00	2005-05-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	150.0	Approve in Full
+67395	2005070688353	2005-07-05 00:00:00	2005-05-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	40.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+67756	2005071288765	2005-07-11 00:00:00	2005-05-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.87	Tools & Machines	Locks	Approved	10.87	Approve in Full
+69503	2005081590589	2005-08-04 00:00:00	2005-07-15 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	68.0	Other	Other	Denied	0.0	Deny
+69604	2005081790697	2005-08-05 00:00:00	2005-07-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	75.0	Other	Currency	Denied	0.0	Deny
+70554	2005083091865	2005-08-23 00:00:00	2005-08-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+71217	2005083191972	2005-08-31 00:00:00	2005-08-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	1487.13	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+71431	2005092793282	2005-09-07 00:00:00	2005-07-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	22.45	Tools & Machines	Locks	Approved	22.45	Approve in Full
+71627	2005091992691	2005-09-08 00:00:00	2005-08-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	159.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	79.97	Settle
+72165	2005092393188	2005-09-16 00:00:00	2005-08-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	380.0	Electronics	Cameras - Digital	Settled	134.38	Settle
+72682	2005100493825	2005-09-26 00:00:00	2005-09-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	53.86	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	53.86	Approve in Full
+72783	2005100493829	2005-09-27 00:00:00	2005-09-18 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+72911	2005100594023	2005-09-29 00:00:00	2005-09-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.64	Tools & Machines	Locks	Approved	9.64	Approve in Full
+73305	2005101294429	2005-10-05 00:00:00	2005-09-02 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.87	Tools & Machines	Locks	Approved	10.87	Approve in Full
+73333	2005101394547	2005-10-05 00:00:00	2005-09-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+73709	2005101894803	2005-10-12 00:00:00	2005-09-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	214.43	Other	Other	Settled	107.22	Settle
+74233	2005102895352	2005-10-21 00:00:00	2005-09-30 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Other	752.5	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+74295	2005103195414	2005-10-24 00:00:00	2005-09-02 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	1250.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+74303	2005103195450	2005-10-24 00:00:00	2005-10-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	160.0	Other	Currency	Denied	0.0	Deny
+74395	2005110195488	2005-10-25 00:00:00	2005-10-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	19.74	Other	Other	Denied	0.0	Deny
+74776	2005111095995	2005-11-01 00:00:00	2005-09-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	15.73	Tools & Machines	Locks	Approved	15.73	Approve in Full
+74978	2005111596115	2005-11-03 00:00:00	2005-10-19 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Cameras - Digital	Settled	139.01	Settle
+75302	2005112596434	2005-11-10 00:00:00	2005-10-03 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	219.99	Electronics	Cell Phones	Denied	0.0	Deny
+75374	2005112596429	2005-11-14 00:00:00	2005-09-30 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	750.0	Other	Other	Denied	0.0	Deny
+76414	2005121297529	2005-12-02 00:00:00	2005-11-26 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Watches & Jewelry	Jewelry - Fine	Approved	75.0	Approve in Full
+76959	2005122198226	2005-12-12 00:00:00	2005-10-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	550.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+77233	2005122398327	2005-12-16 00:00:00	2005-11-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	41.21	Other	Other	Denied	0.0	Deny
+77247	2005122798380	2005-12-16 00:00:00	2005-12-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	39.91	Other	Other	Denied	0.0	Deny
+77394	2005122798439	2005-12-21 00:00:00	2005-10-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1214.17	Electronics	Cameras - Digital	Denied	0.0	Deny
+77504	2006010398660	2005-12-22 00:00:00	2005-11-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1000.0	Other	Currency	Denied	0.0	Deny
+77546	2006010398672	2005-12-23 00:00:00	2005-12-14 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	7.0	Other	Other	Approved	7.0	Approve in Full
+77716	2006010598802	2005-12-28 00:00:00	2005-12-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	8.14	Other	Other	Denied	0.0	Deny
+77979	2006010999155	2006-01-04 00:00:00	2005-12-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	44.69	Electronics	Cameras - Digital	Approved	44.69	Approve in Full
+78050	2006010999174	2006-01-04 00:00:00	2005-12-09 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	400.0	Other	Currency	Denied	0.0	Deny
+78607	2006011899791	2006-01-10 00:00:00	2005-11-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	202.68	Settle
+78618	2006011899806	2006-01-11 00:00:00	2006-01-09 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	212.36	Other	Other	Approved	212.36	Approve in Full
+78706	2006012099863	2006-01-12 00:00:00	2005-07-04 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	335.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+78768	2006012099940	2006-01-13 00:00:00	2006-01-11 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	98.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	98.0	Approve in Full
+78782	2006012099892	2006-01-13 00:00:00	2005-12-30 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	1000.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+78950	2006012300167	2006-01-18 00:00:00	2006-01-09 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	130.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	130.0	Approve in Full
+78975	2006012400225	2006-01-18 00:00:00	2005-11-23 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	78.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	78.0	Approve in Full
+79053	2006012400257	2006-01-18 00:00:00	2005-12-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	540.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+79409	2006020100694	2006-01-24 00:00:00	2006-01-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	268.3	Other	Other	Approved	268.3	Approve in Full
+79530	2006020100710	2006-01-24 00:00:00	2005-12-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Settled	100.0	Settle
+79658	2006020200816	2006-01-26 00:00:00	2006-01-15 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	377.07	Electronics	Cameras - Digital	Settled	188.54	Settle
+80277	2006021001397	2006-02-07 00:00:00	2005-01-23 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	148.75	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+81013	2006022402101	2006-02-21 00:00:00	2006-01-03 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	150.0	Settle
+81169	2006030102326	2006-02-23 00:00:00	2006-02-07 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	515.97	Electronics	Cameras - Digital	Settled	407.92	Settle
+81189	2006030202381	2006-02-24 00:00:00	2006-02-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	36.81	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	36.81	Approve in Full
+81348	2006030602534	2006-02-28 00:00:00	2006-02-21 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	14.0	Tools & Machines	Locks	Approved	14.0	Approve in Full
+81561	2006030702715	2006-03-03 00:00:00	2006-02-10 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	29.97	Other	Other	Approved	29.97	Approve in Full
+81669	2006030802801	2006-03-06 00:00:00	2006-01-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+81753	2006031302983	2006-03-07 00:00:00	2006-01-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	38.32	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	38.32	Approve in Full
+82054	2006031503183	2006-03-10 00:00:00	2006-02-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Other	Currency	Settled	75.0	Settle
+82154	2006032803763	2006-03-14 00:00:00	2006-02-16 00:00:00	LGB	Long Beach	American West	Passenger Property Loss	Checked Baggage	15.0	Supplies	Medicines	Approved	15.0	Approve in Full
+82807	2006040403983	2006-03-24 00:00:00	2006-03-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	8825.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+82851	2006040504078	2006-03-27 00:00:00	2006-02-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	55.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	55.0	Approve in Full
+82925	2006040604123	2006-03-28 00:00:00	2006-02-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	410.0	Watches & Jewelry	Jewelry - Fine	Approved	410.0	Approve in Full
+83284	2006041304498	2006-04-04 00:00:00	2006-03-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	150.0	Approve in Full
+83393	2006041404597	2006-04-04 00:00:00	2006-02-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	99.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	50.0	Settle
+83426	2006041704652	2006-04-06 00:00:00	2006-03-22 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Locks	Approved	18.0	Approve in Full
+83884	2006042405003	2006-04-14 00:00:00	2006-03-30 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	96.96	Other	Other	Settled	48.48	Settle
+84117	2006042505290	2006-04-20 00:00:00	2006-04-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	247.71	Other	Other	Approved	247.71	Approve in Full
+84204	2006042505328	2006-04-24 00:00:00	2006-03-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Electronics	Cameras - Digital	Canceled	0.0	
+85166	2006051706458	2006-05-11 00:00:00	2006-04-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	50.0	Tools & Machines	Locks	Settled	20.0	Settle
+86058	2006060507321	2006-05-31 00:00:00	2006-04-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	29.5	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+86412	2006061307901	2006-06-06 00:00:00	2006-05-31 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	53.18	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+86779	2006061508083	2006-06-14 00:00:00	2006-05-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	8.95	Tools & Machines	Locks	Approved	8.95	Approve in Full
+87014	2006062008281	2006-06-19 00:00:00	2006-05-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	678.0	Clothing & Accessories,Containers	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+87261	2006062608525	2006-06-22 00:00:00	2006-06-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	401.87	Containers,Clothing & Accessories	Bags - Fabric, plastic, etc. (not purses)*Clothing - Shoes, belts, accessories, etc.	Settled	200.93	Settle
+87265	2006062308500	2006-06-23 00:00:00	2006-06-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	390.0	Scientific Intruments	Dental Equipment and Instruments	Approved	390.0	Approve in Full
+87407	2006062808639	2006-06-27 00:00:00	2006-06-09 00:00:00	LGB	Long Beach	Jet Train Airlines	Passenger Property Loss	Checked Baggage	600.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	177.0	Settle
+88108	2006071409465	2006-07-10 00:00:00	2006-06-30 00:00:00	LGB	Long Beach	America West	Passenger Property Loss	Checked Baggage	44.85	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+89114	2006080210351	2006-07-28 00:00:00	2006-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	323.7	Clothing & Accessories,Scientific Intruments	Clothing - Shoes, belts, accessories, etc.*Medical Equipment & Insturments	Settled	195.43	Settle
+89636	2006081110829	2006-08-09 00:00:00	2006-01-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.0	Watches & Jewelry,Games & Toys	Jewelry - Fine*Toys - Other (including games, toys, play dolls etc.)	Denied	0.0	Deny
+90093	2006081811291	2006-08-17 00:00:00	2006-08-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	661.0	Electronics,Cosmetics,Supplies	Cell Phones*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Settled	236.8	Settle
+90197	2006082411522	2006-08-21 00:00:00	2006-08-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Approved	15.0	Approve in Full
+90443	2006082911730	2006-08-24 00:00:00	2006-08-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	27.94	Other	Other	Approved	27.94	Approve in Full
+90782	2006090712062	2006-08-30 00:00:00	2006-08-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	574.59	Electronics,Electronics,Other	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Denied	0.0	Deny
+91013	2006090812198	2006-09-05 00:00:00	2006-08-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1500.0	Electronics,Clothing & Accessories	Cameras - Digital*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+91078	2006090812174	2006-09-05 00:00:00	2006-08-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	335.0	Settle
+91658	2006092112964	2006-09-15 00:00:00	2006-08-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	149.5	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+91747	2006092213122	2006-09-18 00:00:00	2006-08-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Video Recordings - Laser Discs	Denied	0.0	Deny
+92226	2006100413586	2006-09-27 00:00:00	2006-09-15 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+92686	2006101013803	2006-10-06 00:00:00	2006-09-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	220.84	Cosmetics,Tools & Machines,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Lighters - (cigar, cigerette, etc.)*Other	Settled	60.89	Settle
+92688	2006101113870	2006-10-06 00:00:00	2006-10-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	154.0	Clothing & Accessories,Containers	Clothing - Shoes, belts, accessories, etc.*Luggage (all types including footlockers)	Settled	150.0	Settle
+92836	2006101213936	2006-10-11 00:00:00	2006-08-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	574.59	Containers,Electronics,Other	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Other	Canceled	0.0	
+92902	2006101814150	2006-10-12 00:00:00	2006-08-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	442.92	Clothing & Accessories,Electronics	Clothing - Shoes, belts, accessories, etc.*MP3 Players-(iPods, etc)	Approved	442.92	Approve in Full
+93300	2006102714771	2006-10-18 00:00:00	2006-06-16 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Electronics,Electronics	Cell Phones*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+93401	2006102614654	2006-10-20 00:00:00	2006-10-17 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	9.78	Tools & Machines	Locks	Approved	9.78	Approve in Full
+93510	2006102714767	2006-10-23 00:00:00	2006-09-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1399.67	Electronics	Computer - Laptop	Denied	0.0	Deny
+94098	2006110815345	2006-11-03 00:00:00	2006-10-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	530.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+94442	2006111715775	2006-11-13 00:00:00	2006-10-30 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	12.95	Tools & Machines	Locks	Approved	12.95	Approve in Full
+94941	2006112416219	2006-11-20 00:00:00	2006-11-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1413.32	Electronics	Computer - Laptop	Settled	649.5	Settle
+95267	2006113016529	2006-11-27 00:00:00	2006-11-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	390.0	Other	Currency	Settled	195.0	Settle
+96480	2006122617914	2006-12-19 00:00:00	2006-12-03 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	250.0	Electronics	Cell Phones	Denied	0.0	Deny
+96879	2007010418313	2006-12-28 00:00:00	2006-12-23 00:00:00	LGB	Long Beach	American West	Passenger Property Loss	Checked Baggage	32.5	Outdoors Supplies	Camping Equipment & Supplies	Denied	0.0	Deny
+97035	0819101M		2003-07-07 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	81.0	Approve in Full
+97979	2007012319243	2007-01-11 00:00:00	2006-12-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	59.26	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+98208	2007012319203	2007-01-16 00:00:00	2006-11-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	417.88	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	219.07	Settle
+98425	2007012619551	2007-01-19 00:00:00	2006-12-28 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	2500.0	Scientific Intruments	Medical Equipment & Insturments	Denied	0.0	Deny
+99104	2007020520186	2007-01-30 00:00:00	2006-12-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	59.26	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	30.0	Settle
+99118	2007020520171	2007-01-31 00:00:00	2007-01-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	213.35	Electronics	Cell Phones	Approved	213.35	Approve in Full
+99182	2007020820483	2007-01-31 00:00:00	2006-10-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	268.69	Containers	Luggage (all types including footlockers)	Settled	76.1	Settle
+99547	2007020920637	2007-02-07 00:00:00	2007-01-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	141.02	Other	Other	Denied	0.0	Deny
+99938	2007021621163	2007-02-14 00:00:00	2007-12-26 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	386.79	Electronics	GPS - Global Positioning System	Canceled	0.0	
+100020	2007021621136	2007-02-15 00:00:00	2006-11-08 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	392.0	Outdoors Supplies	Tools - Manual (not in a vehicle)	Settled	196.0	Settle
+100272	2007022321443	2007-02-22 00:00:00	2007-02-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	80.95	Food & Drink	Alcoholic beverages	Denied	0.0	Deny
+100315	2007022621487	2007-02-22 00:00:00	2007-02-14 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	45.0	Settle
+100525	2007022821709	2007-02-27 00:00:00	2007-02-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	153.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	76.5	Settle
+100937	2007031222125	2007-03-08 00:00:00	2007-02-19 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	16.27	Tools & Machines	Locks	Approved	16.27	Approve in Full
+101012	2007031322181	2007-03-09 00:00:00	2007-01-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+101371	2007032022565	2007-03-15 00:00:00	2007-01-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	229.9	Electronics	Cameras - Digital	Settled	85.0	Settle
+102228	2007040423460	2007-04-02 00:00:00	2007-03-10 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	32.33	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+102306	2007040423497	2007-04-03 00:00:00	2007-02-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	5000.0	Cosmetics,Watches & Jewelry	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Fine	Denied	0.0	Deny
+102438	2007040923660	2007-04-06 00:00:00	2006-07-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	102.84	Watches & Jewelry	Watches - Expensive more than $100	Approved	102.84	Approve in Full
+102610	2007041323971	2007-04-09 00:00:00	2007-03-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	437.09	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Settled	131.55	Settle
+103496	2007050124818	2007-04-27 00:00:00	2007-04-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	600.0	Electronics	Cell Phones	Canceled	0.0	
+103791	2007050424968	2007-05-03 00:00:00	2007-04-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	149.95	Electronics	GPS - Global Positioning System	Settled	74.97	Settle
+103942	2007050825116	2007-05-08 00:00:00	2007-04-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+104008	2007051025266	2007-05-08 00:00:00	2007-03-23 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	311.67	Other	Other	Settled	155.84	Settle
+104060	2007051625467	2007-05-09 00:00:00	2007-04-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	208.5	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	104.25	Settle
+104487	2007052225800	2007-05-18 00:00:00	2007-04-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Locks	Approved	9.0	Approve in Full
+104690	2007052325895	2007-05-22 00:00:00	2007-05-18 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	260.99	Electronics	MP3 Players-(iPods, etc)	Settled	130.04	Settle
+104932	2007060126001	2007-05-30 00:00:00	2007-05-13 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	159.95	Scientific Intruments	Medical Equipment & Insturments	Approved	159.95	Approve in Full
+104955	2007053025972	2007-05-30 00:00:00	2007-03-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	7000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+105006	2007060626346	2007-05-30 00:00:00		LGB	Long Beach		Passenger Property Loss		25.0	Containers	Handbags & Purses (leather or fabric)	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+105062	2007060426189	2007-05-31 00:00:00	2007-05-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Settled	327.68	Settle
+105072	2007060426246	2007-06-01 00:00:00	2007-05-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+105449	2007061126629	2007-06-06 00:00:00	2007-06-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	470.0	Watches & Jewelry	Jewelry - Fine	Settled	235.0	Settle
+105725	2007061526993	2007-06-12 00:00:00	2007-06-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	190.0	Clothing & Accessories,Other	Clothing - Shoes, belts, accessories, etc.*Other	Settled	95.0	Settle
+105775	2007061827103	2007-06-14 00:00:00	2007-05-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	35.54	Watches & Jewelry	Jewelry - Costume	Approved	35.54	Approve in Full
+105859	2007061827115	2007-06-14 00:00:00	2007-05-29 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	447.99	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	413.95	Settle
+105910	2007062027208	2007-06-15 00:00:00	2007-06-04 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	307.08	Electronics	Cameras - Digital	Denied	0.0	Deny
+106618	2007071728502	2007-07-01 00:00:00	2007-07-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	310.0	Other	Currency	Denied	0.0	Deny
+106835	2007071028066	2007-07-05 00:00:00	2007-07-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	55.0	Settle
+107121	2007071628379	2007-07-11 00:00:00	2007-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	230.0	Watches & Jewelry	Jewelry - Costume	Canceled	0.0	
+107607	2007072028791	2007-07-19 00:00:00	2007-06-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.42	Containers	Handbags & Purses (leather or fabric)	Settled	100.21	Settle
+107717	2007072328928	2007-07-23 00:00:00	2007-06-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	194.0	Other	Currency	Denied	0.0	Deny
+107803	2007072629083	2007-07-24 00:00:00	2007-07-17 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.87	Electronics	Cell Phones	Denied	0.0	Deny
+107936	2007073029328	2007-07-26 00:00:00	2007-07-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+108126	2007073129425	2007-07-30 00:00:00	2007-07-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	751.99	Electronics,Electronics	Cameras - Digital*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+108230	2007080129472	2007-07-31 00:00:00	2007-07-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	705.0	Clothing & Accessories,Cosmetics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+108311	2007080229548	2007-08-01 00:00:00	2007-06-25 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	366.97	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	84.75	Settle
+108336	2007080629683	2007-08-02 00:00:00	2007-07-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	705.0	Clothing & Accessories,Cosmetics,Containers	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Luggage (all types including footlockers)	Canceled	0.0	
+108860	2007081430215	2007-08-10 00:00:00	2007-08-06 00:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+109556	2007082430825	2007-08-23 00:00:00	2007-05-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	152.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+109714	2007082730938	2007-08-27 00:00:00	2007-07-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	975.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+110114	2007090731522	2007-09-04 00:00:00	2007-04-14 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	300.0	Other	Currency	Denied	0.0	Deny
+110148	2007090631429	2007-09-05 00:00:00	2007-07-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	75.78	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	75.78	Approve in Full
+110344	2007091231692	2007-09-07 00:00:00	2007-09-01 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	45.0	Other	Other	Denied	0.0	Deny
+111038	2007092032350	2007-09-20 00:00:00	2007-09-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	2725.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+111115	2007092532561	2007-09-21 00:00:00	2007-06-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	3083.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+112922	2007110234289	2007-10-30 00:00:00	2007-07-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	350.0	Office Supplies,Other	Books - Reference books, cookbooks, etc.*Other	Denied	0.0	Deny
+113215	2007110634550	2007-11-05 00:00:00	2007-10-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	253.34	Cosmetics,Containers	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+113742	2007111935124	2007-11-15 00:00:00	2007-11-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	60.34	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+113824	2007112035220	2007-11-16 00:00:00	2007-11-13 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	180.0	Other	Currency	Denied	0.0	Deny
+114090	2007112635391	2007-11-23 00:00:00	2007-11-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+114357	2007112835617	2007-11-28 00:00:00	2007-10-26 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+115840	2008010437394	2007-12-31 00:00:00	2007-12-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Denied	0.0	Deny
+116150	2008011437851	2008-01-07 00:00:00	2007-12-23 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage	395.9	Watches & Jewelry	Jewelry - Fine	Approved	395.9	Approve in Full
+116881	2008012238328	2008-01-16 00:00:00	2007-11-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	262.51	Clothing & Accessories,Cosmetics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+117349	2008013038930	2008-01-25 00:00:00	2008-01-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	16.0	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+117703	2008013038812	2008-01-31 00:00:00	2008-01-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1289.54	Electronics,Other	Computer - Laptop*Other	Settled	172.41	Settle
+118328	2008020839320	2008-02-14 00:00:00	2008-01-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	500.0	Electronics,Containers	Cameras - Digital*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+118879	2008030340346	2008-02-26 00:00:00	2008-02-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2500.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+119299	2008030640528	2008-03-06 00:00:00	2007-06-29 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	694.0	Electronics,Electronics	Cameras - Digital*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+119620	2008040241699	2008-03-12 00:00:00	2008-02-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Computer - Laptop	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+119721	2008032141401	2008-03-14 00:00:00	2008-03-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	59.99	Other	Other	Denied	0.0	Deny
+121293	2008042142969	2008-04-14 00:00:00	2008-02-15 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+121413	2008042143008	2008-04-15 00:00:00	2008-04-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	432.98	Electronics	Cell Phones	Denied	0.0	Deny
+122104	2008050243755	2008-04-29 00:00:00	2008-03-15 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	219.0	Electronics	Cameras - Digital	Settled	109.5	Settle
+123841	2008061145488	2008-06-06 00:00:00	2008-05-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	550.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+124078	2008061745762	2008-06-11 00:00:00	2008-05-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	180.0	Tools & Machines	Baby - Strollers, car seats, playpen, etc.	Settled	162.0	Settle
+124993	2008071046707	2008-07-02 00:00:00	2008-03-25 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+125366	2008071046788	2008-07-11 00:00:00	2008-06-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1046.0	Tools & Machines	Barber Supplies - Scissors, shears, elecric razors, etc.	Denied	0.0	Deny
+125794	2008072947643	2008-07-22 00:00:00	2008-06-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.78	Tools & Machines	Locks	Approved	10.78	Approve in Full
+127140	2008082148896	2008-08-19 00:00:00	2008-07-23 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	800.0	Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine*Watches - Expensive more than $100	Denied	0.0	Deny
+127961	2008091249807	2008-09-08 00:00:00	2008-08-19 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2087.79	Electronics	Computer - Laptop	Denied	0.0	Deny
+128435	2008091950170	2008-09-18 00:00:00	2008-07-26 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	227.28	Electronics	Cell Phones	Denied	0.0	Deny
+129126	2008101551148	2008-10-06 00:00:00	2008-09-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	625.0	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
+129354	2008102051282	2008-10-14 00:00:00	2008-09-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	250.0	Electronics,Electronics	Batteries - Dry cell only*Cameras - Digital	Canceled	0.0	
+130411	2008111752256	2008-11-07 00:00:00	2008-05-16 00:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage		Tools & Machines	Locks	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+130566	2008111852383	2008-11-13 00:00:00	2008-08-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1405.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+130868	2008112152654	2008-11-20 00:00:00	2008-11-16 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	325.0	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
+132186	2009010554032	2008-12-29 00:00:00	2008-12-11 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	188.64	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+132565	2009011354431	2009-01-07 00:00:00	2008-12-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	1429.0	Containers,Electronics	Bags - Fabric, plastic, etc. (not purses)*Computer - Laptop	Denied	0.0	Deny
+132897	2009012354887	2009-01-13 00:00:00	2008-12-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	250.0	Other	Currency	Denied	0.0	Deny
+135324	2009041057290	2009-03-20 00:00:00	2009-01-17 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checkpoint	48.9	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+135891	2009042257888	2009-04-06 00:00:00	2009-03-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Approved	15.0	Approve in Full
+137018	2009051958976	2009-05-06 00:00:00	2009-04-17 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	250.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+138212	2009061560187	2009-06-10 00:00:00	2009-04-12 00:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage	40.0	Supplies	Medicines	Denied	0.0	Deny
+138931	2009070760904	2009-06-30 00:00:00	2007-07-27 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	2599.49	Electronics,Watches & Jewelry,Supplies	Flashlights*Jewelry - Fine*Medicines	Denied	0.0	Deny
+138982	2009070960990	2009-07-01 00:00:00	2009-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint	441.5	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
+139347	2009072461719	2009-07-10 00:00:00	2009-06-25 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	50.0	Containers	Bags - Fabric, plastic, etc. (not purses)	Denied	0.0	Deny
+139809	2009072861827	2009-07-22 00:00:00	2009-06-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Locks	Denied	0.0	Deny
+140585	2009081362593	2009-08-12 00:00:00	2009-06-28 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	21.9	Tools & Machines	Locks	Approved	21.9	Approve in Full
+141361	2009090463379	2009-09-03 00:00:00	2009-08-12 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Other	Other	Approved	10.0	Approve in Full
+141362	2009090463389	2009-09-03 00:00:00	2008-11-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Other	Other	Approved	10.0	Approve in Full
+141679	2009091563677	2009-09-14 00:00:00	2009-09-07 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	291.38	Containers,Cosmetics,Cosmetics	Bags - Fabric, plastic, etc. (not purses)*Brushes - Hair, Clothes, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+141842	2009092163867	2009-09-17 00:00:00	2009-08-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage	124.53	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+145992	2010030569109	2010-02-19 00:00:00	2010-01-19 16:25:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Electronics	Baggage/Cases/Purses*Cameras		0.0	Deny
+147013	2010032670121	2010-03-24 00:00:00	2010-03-12 20:45:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Containers,Cosmetics	Baggage/Cases/Purses*Cosmetics & Grooming		0.0	Deny
+148005	2010042671204	2010-04-23 00:00:00	2010-04-19 12:00:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			
+149671	2010062272925	2010-06-15 00:00:00	2010-05-28 10:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+155108	2010120378479	2010-11-29 00:00:00	2010-11-22 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+155216	2010120678557	2010-12-01 00:00:00	2010-11-23 18:30:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+156064	2011010979407	2011-01-03 00:00:00	2010-11-03 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry	Clothing*Jewelry & Watches		0.0	Deny
+161862	2011072185400	2011-07-08 00:00:00	2011-06-29 16:15:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+162572	2011081586136	2011-08-01 00:00:00	2011-01-29 19:00:00	LGB	Long Beach		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+162897	2011082686474	2011-08-09 00:00:00	2011-07-28 21:25:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other		20.0	Approve in Full
+164314	2011101487944	2011-09-28 00:00:00	2011-09-02 05:00:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		150.0	Approve in Full
+164902	2011102888511	2011-10-17 00:00:00	2011-09-16 08:10:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+165303	2011103188577	2011-10-31 00:00:00	2011-05-26 12:45:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Cosmetics,Scientific Intruments	Cosmetics & Grooming*Medical/Science		0.0	Deny
+166316	2012010389919	2011-12-06 00:00:00	2011-11-28 09:30:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+167108	2012020990880	2012-01-04 00:00:00	2011-12-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+167526	2012022291238	2012-01-17 00:00:00	2011-12-11 11:15:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+169162	2012041192791	2012-03-12 00:00:00	2012-02-17 11:05:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		107.91	Approve in Full
+169689	2012092597131	2012-04-02 00:00:00	2012-02-22 06:40:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		280.0	Settle
+172446	2012082896229	2012-07-10 00:00:00	2012-07-01 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Other		Other	Other		0.0	Deny
+174475	2012102698187	2012-09-19 00:00:00	2012-08-27 09:20:00	LGB	Long Beach	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		134.55	Settle
+174864	2012110998517	2012-10-03 00:00:00	2012-09-11 14:59:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other		52.0	Approve in Full
+176507	2013012900523	2012-12-06 00:00:00	2012-12-03 05:28:00	LGB	Long Beach		Passenger Property Loss	Checked Baggage		Other	Other		54.0	Approve in Full
+176523	2013012400209	2012-12-07 00:00:00	2012-05-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+179802	2013042503346	2013-04-11 00:00:00	2013-04-08 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		203.81	Settle
+183441	2013102107504	2013-08-17 00:00:00	2013-07-30 12:36:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+185936	2013120509864	2013-11-26 00:00:00	2013-10-31 07:45:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+186868	2014010710597	2014-01-02 00:00:00	2013-12-24 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+188783	2014031812574	2014-03-17 00:00:00	2014-03-14 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories		0.0	Deny
+190878	2014061714705	2014-06-10 00:00:00	2014-05-20 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+200510	2015021920716	2015-02-19 00:00:00	2015-01-31 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Food & Drink,Other	Food & Drink*Other		0.0	Deny
+200511	2015022320787	2015-02-23 00:00:00	2015-02-01 00:00:00	LGB	Long Beach	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+200513	2015060922971	2015-05-29 00:00:00	2015-05-05 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other	Clothing*Other		0.0	Deny
+200515	2015063023587	2015-06-24 00:00:00	2015-06-02 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Other,Other	Currency*Other			
+200517	2015072224101	2015-07-16 00:00:00	2015-06-23 00:00:00	LGB	Long Beach	USAir	Passenger Property Loss	Checked Baggage		Supplies,Office Supplies	Crafting & Hobby*Office Equipment & Supplies		30.0	Approve in Full
+200519	2015100225853	2015-09-16 00:00:00	2015-09-06 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Outdoor Items		0.0	Deny
+200520	2015120427292	2015-11-16 00:00:00	2015-10-10 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+200521	2015121527580	2015-11-24 00:00:00	2015-11-21 00:00:00	LGB	Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		90.0	Settle
+200522	2015122427866	2015-12-11 00:00:00	2015-11-16 00:00:00	LGB	Long Beach	American Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+209042	2016071432669	2016-06-17 00:00:00	2016-05-15 09:30:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			Insufficient
+209045	2016042730862	2016-04-08 00:00:00	2016-04-07 16:44:00	LGB	Long Beach Long Beach	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics	Baggage/Cases/Purses*Clothing*Cosmetics & Grooming		0.0	Deny
+209046	2016050431066	2016-04-12 00:00:00	2016-04-07 18:30:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+209048	2016092133715	2016-07-28 00:00:00	2016-07-09 00:00:00	LGB	Long Beach Long Beach	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			In Review
+209051	2016102835374	2016-09-27 00:00:00	2016-09-03 12:25:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Other	Clothing*Cosmetics & Grooming*Personal Documents			In Review
+209053	2017010936379	2016-11-17 00:00:00	2016-11-13 00:00:00	LGB	Long Beach Long Beach	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Currency			In Review
+217307	2017071841640	2017-06-02 00:00:00	2017-05-16 20:00:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			In Review
+217309	2018011646823	2017-12-08 00:00:00	2017-11-29 00:00:00	LGB	Long Beach Long Beach	Southwest Airlines	Passenger Property Loss	Checkpoint		Food & Drink	Food & Drink			In Review
+217312	2017112845526	2017-10-24 00:00:00	2017-10-02 00:00:00	LGB	Long Beach Long Beach	Jet Blue	Passenger Property Loss	Checkpoint		Other,Clothing & Accessories	Currency*Personal Accessories			In Review

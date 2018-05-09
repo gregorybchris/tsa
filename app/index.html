@@ -71,35 +71,40 @@
 						</div>
 					</div>
 
-					<div id="items-section">
-						<div class="airport-info">
-							<div class="airport-title-container">
-								<p id="airport-title">All Airports</p>
-							</div>
-							<div class="airport-stats">
-								<div class="airport-stats-column">
-									<div class="airport-stat">
-										<p class="airport-stat-description">Total Claims</p>
-										<p id="claim-count">4</p>
+					<div id="interactive-right">
+						<div id="items-section">
+							<div class="airport-info">
+								<div class="airport-title-container">
+									<p id="airport-title">All Airports</p>
+								</div>
+								<div class="airport-stats">
+									<div class="airport-stats-column">
+										<div class="airport-stat">
+											<p class="airport-stat-description">Total Claims</p>
+											<p id="claim-count">4</p>
+										</div>
+										<div class="airport-stat">
+											<p class="airport-stat-description">Claims per Million Passengers</p>
+											<p id="claims-per-passenger">1</p>
+										</div>
 									</div>
-									<div class="airport-stat">
-										<p class="airport-stat-description">Claims per Million Passengers</p>
-										<p id="claims-per-passenger">1</p>
+									<div class="airport-stats-column">
+										<div class="airport-stat">
+											<p class="airport-stat-description">Median Claim Amount</p>
+											<p id="median-claim-amount">3</p>
+										</div>
+										<div class="airport-stat">
+											<p class="airport-stat-description">Median Close Amount</p>
+											<p id="median-close-amount">2</p>
+										</div>
 									</div>
 								</div>
-								<div class="airport-stats-column">
-									<div class="airport-stat">
-										<p class="airport-stat-description">Median Claim Amount</p>
-										<p id="median-claim-amount">3</p>
-									</div>
-									<div class="airport-stat">
-										<p class="airport-stat-description">Median Close Amount</p>
-										<p id="median-close-amount">2</p>
-									</div>
-								</div>
 							</div>
+							<svg class="no-select" id="items-svg" width="600" height="250"></svg>
 						</div>
-						<svg class="no-select" id="items-svg" width="600" height="250"></svg>
+						<div id="dates-section">
+							<svg id="dates-svg" width="700" height="400"></svg>
+						</div>
 					</div>
 				</div>
 

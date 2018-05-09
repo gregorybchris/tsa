@@ -1,7 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-136739	2009051858706	2009-04-29 00:00:00	2009-04-17 00:00:00	SPS	Sheppard AFB/Wichita Falls Municipal	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-144665	2009122366744	2009-12-15 00:00:00	2009-11-21 06:30:00	SPS	Sheppard AFB/Wichita Falls Municipal	American Eagle	Passenger Property Loss	Checked Baggage	51.0	Clothing & Accessories,Other,Other	Clothing - Shoes, belts, accessories, etc.*Currency*Other	Denied	0.0	Deny
-145718	2010021968588	2010-02-12 00:00:00	2010-02-03 00:00:00	SPS	Sheppard AFB/Wichita Falls Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Household Items	Household Items		0.0	Deny
-165084	2011110188595	2011-10-24 00:00:00	2011-10-18 05:30:00	SPS	Sheppard AFB/Wichita Falls Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		0.0	Deny
-177321	2013020601064	2013-01-10 00:00:00	2012-12-15 00:00:00	SPS	Sheppard AFB/Wichita Falls Municipal	American Eagle	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
-184555	2013103008325	2013-09-26 00:00:00	2013-09-24 12:30:00	SPS	Sheppard AFB/Wichita Falls Municipal	American Eagle	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies			

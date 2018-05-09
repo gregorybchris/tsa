@@ -1,17 +1,17 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-45916	2004102165496	2004-09-28 00:00:00	2004-07-27 00:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.98	Electronics	Approved	35.0	Approve in Full
-48655	2004122169781	2004-10-28 00:00:00	2004-08-24 00:00:00	GFK	Grand Forks - Mark Andrews International		Passenger Property Loss	Checkpoint	350.0	Watches & Jewelry	Denied	350.0	Deny
-72389	2005100393752	2005-09-20 00:00:00	2005-08-08 00:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	408.0	Watches & Jewelry	Canceled	0.0	
-74185	2005102895324	2005-10-20 00:00:00	2005-07-27 00:00:00	GFK	Grand Forks - Mark Andrews International		Passenger Property Loss	Checked Baggage	850.0	Electronics	Denied	0.0	Deny
-79581	2006020100765	2006-01-26 00:00:00	2006-01-15 00:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.0	Tools & Machines	Approved	17.0	Approve in Full
-143203	2009110565179	2009-11-02 00:00:00	2009-09-30 16:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.55	Outdoors Supplies	Denied	0.0	Deny
-148534	2010051771831	2010-05-10 00:00:00	2010-03-31 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		14.95	Approve in Full
-151022	2010080574485	2010-07-26 00:00:00	2010-07-10 17:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			
-180814	2013062404660	2013-05-20 00:00:00	2013-04-28 00:00:00	GFK	Grand Forks - Mark Andrews International	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-186165	2013121009972	2013-12-05 00:00:00	2013-11-25 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-190857	2014061714683	2014-06-09 00:00:00	2014-05-16 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-191195	2014070815029	2014-06-24 00:00:00	2014-05-16 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
-193125	2014092517004	2014-09-08 00:00:00	2014-08-29 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items			
-195561	2015010219535	2014-12-31 00:00:00	2014-12-23 00:00:00	GFK	Grand Forks - Mark Andrews International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-198284	2015063023593	2015-06-19 00:00:00	2015-06-09 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-198285	2015121527559	2015-12-01 00:00:00	2015-11-05 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+45916	2004102165496	2004-09-28 00:00:00	2004-07-27 00:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.98	Electronics	DVD/CD Players	Approved	35.0	Approve in Full
+48655	2004122169781	2004-10-28 00:00:00	2004-08-24 00:00:00	GFK	Grand Forks - Mark Andrews International		Passenger Property Loss	Checkpoint	350.0	Watches & Jewelry	Jewelry - Fine	Denied	350.0	Deny
+72389	2005100393752	2005-09-20 00:00:00	2005-08-08 00:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	408.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+74185	2005102895324	2005-10-20 00:00:00	2005-07-27 00:00:00	GFK	Grand Forks - Mark Andrews International		Passenger Property Loss	Checked Baggage	850.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+79581	2006020100765	2006-01-26 00:00:00	2006-01-15 00:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.0	Tools & Machines	Locks	Approved	17.0	Approve in Full
+143203	2009110565179	2009-11-02 00:00:00	2009-09-30 16:00:00	GFK	Grand Forks - Mark Andrews International	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.55	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+148534	2010051771831	2010-05-10 00:00:00	2010-03-31 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other		14.95	Approve in Full
+151022	2010080574485	2010-07-26 00:00:00	2010-07-10 17:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other			
+180814	2013062404660	2013-05-20 00:00:00	2013-04-28 00:00:00	GFK	Grand Forks - Mark Andrews International	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+186165	2013121009972	2013-12-05 00:00:00	2013-11-25 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+190857	2014061714683	2014-06-09 00:00:00	2014-05-16 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+191195	2014070815029	2014-06-24 00:00:00	2014-05-16 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			
+193125	2014092517004	2014-09-08 00:00:00	2014-08-29 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Household Items	Household Items			
+195561	2015010219535	2014-12-31 00:00:00	2014-12-23 00:00:00	GFK	Grand Forks - Mark Andrews International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+198284	2015063023593	2015-06-19 00:00:00	2015-06-09 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+198285	2015121527559	2015-12-01 00:00:00	2015-11-05 00:00:00	GFK	Grand Forks - Mark Andrews International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			

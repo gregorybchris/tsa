@@ -146,7 +146,7 @@ function setupMap() {
             svg.selectAll("circle")
                 .transition()
                 .duration(1000)
-                .attr('r', d => Math.max(Math.sqrt(getValue(d)), 2.5))
+                .attr('r', d => Math.max(Math.sqrt(getValue(d)), 2))
 
             svg.selectAll("circle")
                 .sort(getSortFunction(sortBy))

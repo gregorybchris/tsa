@@ -1,4 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-75779	2005120696996	2005-11-21 00:00:00	2005-09-30 00:00:00	GYY	Gary Regional Airport, Gary IN	Hooters Air (PACE)	Passenger Property Loss	Checked Baggage	20.59	Other	Other	Approved	20.59	Approve in Full
-100251	2007022621506	2007-02-21 00:00:00	2007-02-02 00:00:00	GYY	Gary Regional Airport, Gary IN		Passenger Property Loss	Checked Baggage	64.8	Outdoors Supplies	Tools - Manual (not in a vehicle)	Settled	32.4	Settle
-120278	2008040441936	2008-03-26 00:00:00	2008-03-22 00:00:00	GYY	Gary Regional Airport, Gary IN		Passenger Property Loss	Checked Baggage	249.99	Electronics	GPS - Global Positioning System	Canceled	0.0	

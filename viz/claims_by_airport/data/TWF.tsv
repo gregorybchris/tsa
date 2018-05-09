@@ -1,7 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-42856	2004092864076	2004-08-19 00:00:00	2004-07-28 00:00:00	TWF	Joslin Field Magic Valley	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	330.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied		Deny
-43560	2004110866658	2004-08-27 00:00:00	2004-07-02 00:00:00	TWF	Joslin Field Magic Valley	Delta Air Lines	Passenger Property Loss	Checked Baggage	817.31	Other	Other	Settled	408.5	Settle
-74483	2005102695197	2005-10-26 00:00:00	2004-09-23 00:00:00	TWF	Joslin Field Magic Valley	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.52	Tools & Machines	Locks	Approved	21.52	Approve in Full
-113840	2007112035292	2007-11-16 00:00:00	2007-11-12 00:00:00	TWF	Joslin Field Magic Valley	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-183894	2013092107168	2013-09-03 00:00:00	2013-08-25 00:00:00	TWF	Joslin Field Magic Valley	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
-220665	2017050339204	2017-03-09 00:00:00	2017-02-13 00:00:00	TWF	Joslin Field Magic Valley Joslin Field Magic Valley	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video			In Review

@@ -1,6 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-60458	2005040581455	2005-03-30 00:00:00	2005-03-05 00:00:00	DEC	Decatur, IL	American Airlines	Passenger Property Loss	Checkpoint	64.16	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	64.16	Approve in Full
-62836	2005050283740	2005-04-29 00:00:00	2005-03-15 00:00:00	DEC	Decatur, IL	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Jewelry - Fine	Approved	100.0	Approve in Full
-76674	2005121697955	2005-12-06 00:00:00	2005-11-25 00:00:00	DEC	Decatur, IL		Passenger Property Loss	Checked Baggage	100.0	Other	Other	Denied	0.0	Deny
-81587	2006030702714	2006-03-03 00:00:00	2005-12-28 00:00:00	DEC	Decatur, IL	American Airlines	Passenger Property Loss	Checked Baggage	12.9	Other	Other	Denied	0.0	Deny
-89930	2006081611187	2006-08-14 00:00:00	2006-07-28 00:00:00	DEC	Decatur, IL	American Airlines	Passenger Property Loss	Checked Baggage	125.0	Watches & Jewelry	Jewelry - Fine	Settled	62.5	Settle

@@ -1,13 +1,13 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-3060	0227015L	2003-02-27 00:00:00	2003-01-12 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	106.27	Clothing & Accessories	Settled	53.5	Settle
-7999	0609047L	2003-06-09 00:00:00	2003-05-27 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	210.0	Other	Denied	0.0	Deny
-16254	0923081M	2003-09-23 00:00:00	2003-09-05 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	153.5	Other	Denied	0.0	Deny
-16805	0925432M	2003-09-25 00:00:00	2003-08-25 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	40.0	Other	Settled	20.0	Settle
-20768	1119064M	2003-11-19 00:00:00	2003-10-15 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	101.85	Clothing & Accessories	Denied	0.0	Deny
-20980	1121088M	2003-11-21 00:00:00	2003-10-31 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
-24030	0105454M	2004-01-05 00:00:00	2003-11-19 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Settled	375.0	Settle
-27933	0212170M	2004-02-12 00:00:00	2003-12-08 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Settled	10.0	Settle
-29819	2004051050790	2004-03-10 00:00:00	2004-02-13 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	553.92	Electronics	Denied	0.0	Deny
-31494	2004043050323	2004-03-30 00:00:00	2004-02-13 00:00:00	FOE	Forbes Field	Continental Airlines	Passenger Property Loss	Checked Baggage	312.9	Watches & Jewelry	Approved	312.9	Approve in Full
-38209	2004070758650	2004-06-21 00:00:00	2004-06-14 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Approved	100.0	Approve in Full
-38947	2004071459351	2004-06-29 00:00:00	2004-05-14 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	6500.0	Watches & Jewelry	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+3060	0227015L	2003-02-27 00:00:00	2003-01-12 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	106.27	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	53.5	Settle
+7999	0609047L	2003-06-09 00:00:00	2003-05-27 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	210.0	Other	Currency	Denied	0.0	Deny
+16254	0923081M	2003-09-23 00:00:00	2003-09-05 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	153.5	Other	Other	Denied	0.0	Deny
+16805	0925432M	2003-09-25 00:00:00	2003-08-25 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	40.0	Other	Other	Settled	20.0	Settle
+20768	1119064M	2003-11-19 00:00:00	2003-10-15 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	101.85	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+20980	1121088M	2003-11-21 00:00:00	2003-10-31 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other	Canceled	0.0	
+24030	0105454M	2004-01-05 00:00:00	2003-11-19 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Jewelry - Fine	Settled	375.0	Settle
+27933	0212170M	2004-02-12 00:00:00	2003-12-08 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	10.0	Settle
+29819	2004051050790	2004-03-10 00:00:00	2004-02-13 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	553.92	Electronics	Stereo Items & Accessories	Denied	0.0	Deny
+31494	2004043050323	2004-03-30 00:00:00	2004-02-13 00:00:00	FOE	Forbes Field	Continental Airlines	Passenger Property Loss	Checked Baggage	312.9	Watches & Jewelry	Jewelry - Fine	Approved	312.9	Approve in Full
+38209	2004070758650	2004-06-21 00:00:00	2004-06-14 00:00:00	FOE	Forbes Field		Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Jewelry - Fine	Approved	100.0	Approve in Full
+38947	2004071459351	2004-06-29 00:00:00	2004-05-14 00:00:00	FOE	Forbes Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	6500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny

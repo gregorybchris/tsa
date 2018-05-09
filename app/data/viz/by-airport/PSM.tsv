@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-118108	2008021339548	2008-02-11 00:00:00	2007-07-12 00:00:00	PSM	Pease International	SkyBus	Passenger Property Loss	Checked Baggage	1066.98	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-118919	2008030740632	2008-02-27 00:00:00	2008-02-23 00:00:00	PSM	Pease International		Passenger Property Loss	Checked Baggage	308.0	Watches & Jewelry	Canceled	0.0	
-119199	2008031441051	2008-03-03 00:00:00	2008-12-30 00:00:00	PSM	Pease International		Passenger Property Loss	Checked Baggage	12.0	Clothing & Accessories	Denied	0.0	Deny
-190389	2014052714206	2014-05-21 00:00:00	2014-03-28 00:00:00	PSM	Pease International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		11.6	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+118108	2008021339548	2008-02-11 00:00:00	2007-07-12 00:00:00	PSM	Pease International	SkyBus	Passenger Property Loss	Checked Baggage	1066.98	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+118919	2008030740632	2008-02-27 00:00:00	2008-02-23 00:00:00	PSM	Pease International		Passenger Property Loss	Checked Baggage	308.0	Watches & Jewelry	Jewelry - Costume	Canceled	0.0	
+119199	2008031441051	2008-03-03 00:00:00	2008-12-30 00:00:00	PSM	Pease International		Passenger Property Loss	Checked Baggage	12.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+190389	2014052714206	2014-05-21 00:00:00	2014-03-28 00:00:00	PSM	Pease International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		11.6	Approve in Full

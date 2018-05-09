@@ -1,7 +1,7 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-80352	2006021501576	2006-02-07 00:00:00	2006-01-25 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
-98912	2007013019762	2007-01-28 00:00:00	2007-01-09 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.07	Outdoors Supplies	Approved	50.07	Approve in Full
-123661	2008060945409	2008-06-03 00:00:00	2008-05-15 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	3692.96	Watches & Jewelry	Canceled	0.0	
-124172	2008062045950	2008-06-13 00:00:00	2008-05-27 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.99	Tools & Machines	Denied	0.0	Deny
-139032	2009071061057	2009-07-01 00:00:00	2009-06-12 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	11.75	Tools & Machines	Denied	0.0	Deny
-220426	2017121546008	2017-12-01 00:00:00	2017-11-26 12:15:00	STC	 Saint Cloud Regional Airport, MN	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Scientific Intruments			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+80352	2006021501576	2006-02-07 00:00:00	2006-01-25 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Denied	0.0	Deny
+98912	2007013019762	2007-01-28 00:00:00	2007-01-09 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.07	Outdoors Supplies	Tools - Manual (not in a vehicle)	Approved	50.07	Approve in Full
+123661	2008060945409	2008-06-03 00:00:00	2008-05-15 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	3692.96	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+124172	2008062045950	2008-06-13 00:00:00	2008-05-27 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	17.99	Tools & Machines	Locks	Denied	0.0	Deny
+139032	2009071061057	2009-07-01 00:00:00	2009-06-12 00:00:00	STC	Saint Cloud Regional Airport, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	11.75	Tools & Machines	Locks	Denied	0.0	Deny
+220426	2017121546008	2017-12-01 00:00:00	2017-11-26 12:15:00	STC	 Saint Cloud Regional Airport, MN	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Scientific Intruments	Baggage/Cases/Purses*Cosmetics & Grooming*Medical/Science			In Review

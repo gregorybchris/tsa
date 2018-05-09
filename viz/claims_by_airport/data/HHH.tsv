@@ -1,3 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-207015	2016040130268	2016-03-18 00:00:00	2016-03-04 12:36:00	HHH	Hilton Head Island Airport Hilton Head Island Airport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		135.0	Approve in Full
-207017	2016062132344	2016-06-08 00:00:00	2016-06-04 00:00:00	HHH	Hilton Head Island Airport Hilton Head Island Airport	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		145.6	Settle

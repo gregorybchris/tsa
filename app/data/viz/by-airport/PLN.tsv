@@ -1,19 +1,19 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-62169	2005042183021	2005-04-19 00:00:00	2005-04-05 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	1165.95	Electronics	Settled	448.82	Settle
-72846	2005100493962	2005-09-27 00:00:00	2005-09-19 00:00:00	PLN	Pellston Regional Of Emmet County		Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Denied	0.0	Deny
-88457	2006071909801	2006-07-17 00:00:00	2006-06-29 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Approved	50.0	Approve in Full
-90950	2006090812246	2006-09-01 00:00:00	2006-08-01 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	190.46	Clothing & Accessories	Settled	178.0	Settle
-107519	2007072028789	2007-07-19 00:00:00	2007-07-18 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	62.17	Other	Approved	62.17	Approve in Full
-110616	2007091732009	2007-09-12 00:00:00	2007-08-21 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	395.0	Watches & Jewelry	Denied	0.0	Deny
-122831	2008051944532	2008-05-15 00:00:00	2008-04-30 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	279.0	Electronics	Denied	0.0	Deny
-124431	2008062646198	2008-06-20 00:00:00	2008-06-02 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
-129796	2008102751578	2008-10-23 00:00:00	2008-10-19 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Denied	0.0	Deny
-151331	2010081174717	2010-08-03 00:00:00	2010-07-29 13:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		12.5	Approve in Full
-153156	2010093076542	2010-09-25 00:00:00	2010-09-17 16:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Office Supplies		0.0	Deny
-177769	2013013100751	2013-01-25 00:00:00	2012-12-28 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-183695	2013092207201	2013-08-28 00:00:00	2013-08-24 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		17.0	Approve in Full
-184350	2013102808079	2013-09-19 00:00:00	2013-09-11 14:30:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		12.0	Approve in Full
-192352	2014082516211	2014-08-11 00:00:00	2014-07-14 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other		15.94	Approve in Full
-192358	2014082616217	2014-08-26 00:00:00	2014-07-15 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-194434	2014111318337	2014-11-05 00:00:00	2014-10-17 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers			
-211133	2016092633848	2016-07-29 00:00:00	2016-07-26 12:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+62169	2005042183021	2005-04-19 00:00:00	2005-04-05 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	1165.95	Electronics	Cameras - Digital	Settled	448.82	Settle
+72846	2005100493962	2005-09-27 00:00:00	2005-09-19 00:00:00	PLN	Pellston Regional Of Emmet County		Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+88457	2006071909801	2006-07-17 00:00:00	2006-06-29 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+90950	2006090812246	2006-09-01 00:00:00	2006-08-01 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	190.46	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	178.0	Settle
+107519	2007072028789	2007-07-19 00:00:00	2007-07-18 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	62.17	Other	Other	Approved	62.17	Approve in Full
+110616	2007091732009	2007-09-12 00:00:00	2007-08-21 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	395.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+122831	2008051944532	2008-05-15 00:00:00	2008-04-30 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	279.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+124431	2008062646198	2008-06-20 00:00:00	2008-06-02 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+129796	2008102751578	2008-10-23 00:00:00	2008-10-19 00:00:00	PLN	Pellston Regional Of Emmet County	Northwest Airlines	Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Locks	Denied	0.0	Deny
+151331	2010081174717	2010-08-03 00:00:00	2010-07-29 13:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.5	Approve in Full
+153156	2010093076542	2010-09-25 00:00:00	2010-09-17 16:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics,Office Supplies	Cosmetics & Grooming*Office Equipment & Supplies		0.0	Deny
+177769	2013013100751	2013-01-25 00:00:00	2012-12-28 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+183695	2013092207201	2013-08-28 00:00:00	2013-08-24 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		17.0	Approve in Full
+184350	2013102808079	2013-09-19 00:00:00	2013-09-11 14:30:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.0	Approve in Full
+192352	2014082516211	2014-08-11 00:00:00	2014-07-14 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other	Other*Other		15.94	Approve in Full
+192358	2014082616217	2014-08-26 00:00:00	2014-07-15 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+194434	2014111318337	2014-11-05 00:00:00	2014-10-17 00:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+211133	2016092633848	2016-07-29 00:00:00	2016-07-26 12:00:00	PLN	Pellston Regional Of Emmet County	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other	Clothing*Other			In Review

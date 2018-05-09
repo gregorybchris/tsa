@@ -1,5 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-179397	2013040903072	2013-03-26 00:00:00	2012-12-10 15:10:00	JLN	Joplin Regional	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other		383.23	Approve in Full
-185490	2013111209154	2013-11-07 00:00:00	2013-10-27 00:00:00	JLN	Joplin Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
-194719	2014112618630	2014-11-14 00:00:00	2014-11-10 00:00:00	JLN	Joplin Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
-216365	2017092943850	2017-08-25 00:00:00	2017-08-20 00:00:00	JLN	Joplin Regional Joplin Regional	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review

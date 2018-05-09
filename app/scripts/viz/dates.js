@@ -1,3 +1,35 @@
+function changeDatesScatter(airport_code) {
+  let svg = d3.select("#dates-svg")
+  let xMax = d3.max(claims, d => d.incidentDate)
+  let xMin = d3.min(claims, d => d.incidentDate)
+  let yMax = d3.max(claims, d => d.closeAmount)
+  let yMin = d3.min(claims, d => d.closeAmount)
+  let [scaleLength, majorMax] = xMax > yMax ? [width, xMax] : [height, yMax]
+
+  let xScale = d3.scaleTime()
+      .domain([xMin, xMax])
+      .range([0, width])
+
+  let yScale = d3.scaleLinear()
+      .domain([yMin, yMax])
+      .range([height, 0])
+
+
+  svg.selectAll("circle")
+      .remove()
+      .data(claims)
+      .enter().append("circle")
+          .attr("cx", d => xScale(d.incidentDate))
+          .attr("cy", d => yScale(d.closeAmount))
+          .attr("r", 3.4)
+          .style("fill", "transparent")
+          .style("stroke", "rgba(108, 34, 125, 0.7)")
+          .style("stroke-width", 1.8)
+          .on("mouseover", function(d) {
+              console.log(d)
+          })
+}
+
 function setupDates() {
     let svg = d3.select("#dates-svg")
     let width = 0.8 * (+svg.attr("width"))
@@ -79,13 +111,13 @@ function setupDates() {
         }
 
         let xAxis = d3.axisBottom(xScale)
-            .ticks(3, "s")
-            .tickSize(-width)
+            .ticks(5 * width / height, "s")
+            .tickSize(-height)
             .tickFormat(tickFormat)
 
         let yAxis = d3.axisLeft(yScale)
             .ticks(5, "s")
-            .tickSize(-height);
+            .tickSize(-width);
 
         let gX = svg.append("g")
             .attr("transform", "translate(" + margin.left + "," + (margin.top + height) + ")")

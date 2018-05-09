@@ -1,17 +1,17 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-30316	2004051452248	2004-03-12 00:00:00	2003-12-23 00:00:00	HVN	New Haven, CT		Passenger Property Loss	Checked Baggage	1250.0	Other	Denied	0.0	Deny
-52191	2005010472680	2004-12-14 00:00:00	2004-10-07 00:00:00	HVN	New Haven, CT	Delta Air Lines	Passenger Property Loss	Checked Baggage	343.12	Clothing & Accessories	Settled	171.56	Settle
-71006	2005090192053	2005-08-29 00:00:00	2005-07-14 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	3200.0	Containers	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-71452	2005091592563	2005-09-08 00:00:00	2005-08-03 00:00:00	HVN	New Haven, CT	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.95	Other	Approved	12.95	Approve in Full
-103777	2007050725054	2007-05-03 00:00:00	2007-05-12 00:00:00	HVN	New Haven, CT		Passenger Property Loss	Checked Baggage	600.0	Electronics,Other	Denied	0.0	Deny
-104312	2007051825646	2007-05-15 00:00:00	2007-05-05 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	88.0	Clothing & Accessories	Denied	0.0	Deny
-105672	2007061226797	2007-06-11 00:00:00	2007-05-12 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	16.95	Other	Settled	8.48	Settle
-107653	2007072528999	2007-07-20 00:00:00	2007-06-24 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	2500.0	Scientific Intruments,Supplies	Denied	0.0	Deny
-114002	2007112335348	2007-11-20 00:00:00	2007-11-05 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Approved	9.95	Approve in Full
-121608	2007122736996	2008-04-21 00:00:00	2007-10-24 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	272.74	Electronics,Electronics	Denied	0.0	Deny
-124881	2008070746588	2008-07-01 00:00:00	2008-06-29 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	243.0	Electronics,Other	Denied	0.0	Deny
-143229	2009111265330	2009-11-02 00:00:00	2009-10-15 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	500.0	Electronics	Denied	0.0	Deny
-147143	2010040670449	2010-03-29 00:00:00	2010-03-08 06:35:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-187751	2014020611512	2014-02-02 00:00:00	2013-10-12 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Other		Watches & Jewelry			
-198574	2015071423791	2015-07-02 00:00:00	2015-06-14 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-215440	2018010446513	2017-12-13 00:00:00	2017-11-04 05:00:00	HVN	New Haven, CT New Haven, CT	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+30316	2004051452248	2004-03-12 00:00:00	2003-12-23 00:00:00	HVN	New Haven, CT		Passenger Property Loss	Checked Baggage	1250.0	Other	Other	Denied	0.0	Deny
+52191	2005010472680	2004-12-14 00:00:00	2004-10-07 00:00:00	HVN	New Haven, CT	Delta Air Lines	Passenger Property Loss	Checked Baggage	343.12	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	171.56	Settle
+71006	2005090192053	2005-08-29 00:00:00	2005-07-14 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	3200.0	Containers	Luggage (all types including footlockers)	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+71452	2005091592563	2005-09-08 00:00:00	2005-08-03 00:00:00	HVN	New Haven, CT	Delta Air Lines	Passenger Property Loss	Checked Baggage	12.95	Other	Other	Approved	12.95	Approve in Full
+103777	2007050725054	2007-05-03 00:00:00	2007-05-12 00:00:00	HVN	New Haven, CT		Passenger Property Loss	Checked Baggage	600.0	Electronics,Other	Cameras - Digital*Other	Denied	0.0	Deny
+104312	2007051825646	2007-05-15 00:00:00	2007-05-05 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	88.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+105672	2007061226797	2007-06-11 00:00:00	2007-05-12 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	16.95	Other	Other	Settled	8.48	Settle
+107653	2007072528999	2007-07-20 00:00:00	2007-06-24 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	2500.0	Scientific Intruments,Supplies	Dental Equipment and Instruments*Medicines	Denied	0.0	Deny
+114002	2007112335348	2007-11-20 00:00:00	2007-11-05 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Locks	Approved	9.95	Approve in Full
+121608	2007122736996	2008-04-21 00:00:00	2007-10-24 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	272.74	Electronics,Electronics	MP3 Players-(iPods, etc)*Stereo Items & Accessories	Denied	0.0	Deny
+124881	2008070746588	2008-07-01 00:00:00	2008-06-29 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	243.0	Electronics,Other	MP3 Players-(iPods, etc)*Other	Denied	0.0	Deny
+143229	2009111265330	2009-11-02 00:00:00	2009-10-15 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage	500.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+147143	2010040670449	2010-03-29 00:00:00	2010-03-08 06:35:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+187751	2014020611512	2014-02-02 00:00:00	2013-10-12 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Other		Watches & Jewelry	Jewelry & Watches			
+198574	2015071423791	2015-07-02 00:00:00	2015-06-14 00:00:00	HVN	New Haven, CT	USAir	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+215440	2018010446513	2017-12-13 00:00:00	2017-11-04 05:00:00	HVN	New Haven, CT New Haven, CT	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video			In Review

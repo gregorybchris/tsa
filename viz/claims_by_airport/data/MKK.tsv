@@ -1,8 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-82163	2006031603269	2006-03-14 00:00:00	2006-02-05 00:00:00	MKK	Molokai Airport	Island Air	Passenger Property Loss	Checked Baggage	16000.0	Other	Currency	Denied	0.0	Deny
-101527	2007032322903	2007-03-19 00:00:00	2007-03-08 00:00:00	MKK	Molokai Airport	Island Air	Passenger Property Loss	Checked Baggage	600.0	Electronics	Cameras - Digital	Denied	0.0	Deny
-122873	2008051944526	2008-05-16 00:00:00	2008-05-05 00:00:00	MKK	Molokai Airport	Island Air	Passenger Property Loss	Checked Baggage	135.0	Other	Other	Denied	0.0	Deny
-127746	2008090449440	2008-09-03 00:00:00	2008-08-23 00:00:00	MKK	Molokai Airport	Island Air	Passenger Property Loss	Checked Baggage	130.0	Other	Other	Denied	0.0	Deny
-131808	2008122253686	2008-12-16 00:00:00	2008-10-27 00:00:00	MKK	Molokai Airport	Island Air	Passenger Property Loss	Checkpoint	600.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
-132606	2009011454516	2009-01-08 00:00:00	2009-01-03 00:00:00	MKK	Molokai Airport	Island Air	Passenger Property Loss	Checkpoint	249.99	Electronics	MP3 Players-(iPods, etc)	Canceled	0.0	
-157790	2011031581222	2011-02-24 00:00:00	2011-02-17 00:00:00	MKK	Molokai Airport	Go	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny

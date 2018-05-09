@@ -1,7 +1,7 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-66800	2005062987733	2005-06-23 00:00:00	2005-06-17 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	95.0	Watches & Jewelry	Denied	0.0	Deny
-98734	2007012919745	2007-01-24 00:00:00	2007-01-14 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	252.42	Electronics,Clothing & Accessories	Denied	0.0	Deny
-100961	2007031222138	2007-03-08 00:00:00	2007-02-18 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Denied	0.0	Deny
-103712	2007050424987	2007-05-02 00:00:00	2007-04-24 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Denied	0.0	Deny
-106332	2007062927628	2007-06-25 00:00:00	2007-06-20 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Denied	0.0	Deny
-179240	2013040402986	2013-03-19 00:00:00	2013-03-12 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+66800	2005062987733	2005-06-23 00:00:00	2005-06-17 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	95.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+98734	2007012919745	2007-01-24 00:00:00	2007-01-14 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	252.42	Electronics,Clothing & Accessories	Cell Phones*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+100961	2007031222138	2007-03-08 00:00:00	2007-02-18 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+103712	2007050424987	2007-05-02 00:00:00	2007-04-24 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+106332	2007062927628	2007-06-25 00:00:00	2007-06-20 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage	160.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+179240	2013040402986	2013-03-19 00:00:00	2013-03-12 00:00:00	SBY	Salisbury/Wicomico County Regional	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			

@@ -1,8 +1,8 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-47156	2004112867927	2004-10-14 00:00:00	2004-10-01 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage	180.0	Electronics	Approved	180.0	Approve in Full
-52737	2005010773220	2004-12-21 00:00:00	2004-03-26 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage	500.0	Other	Settled	250.0	Settle
-56110	2005022876829	2005-02-01 00:00:00	2005-12-29 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage	840.0	Electronics	Denied	0.0	Deny
-149682	2010062373011	2010-06-15 00:00:00	2010-05-31 00:00:00	PSG	Petersburg	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-192051	2014081515904	2014-07-25 00:00:00	2014-07-21 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-202759	2015082625088	2015-08-20 00:00:00	2015-08-09 00:00:00	PSG	Petersburg	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Clothing & Accessories,Outdoors Supplies			
-219398	2017091142854	2017-07-26 00:00:00	2017-07-14 15:00:00	PSG	Petersburg Petersburg	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+47156	2004112867927	2004-10-14 00:00:00	2004-10-01 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage	180.0	Electronics	Cameras - Digital	Approved	180.0	Approve in Full
+52737	2005010773220	2004-12-21 00:00:00	2004-03-26 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage	500.0	Other	Other	Settled	250.0	Settle
+56110	2005022876829	2005-02-01 00:00:00	2005-12-29 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage	840.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+149682	2010062373011	2010-06-15 00:00:00	2010-05-31 00:00:00	PSG	Petersburg	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+192051	2014081515904	2014-07-25 00:00:00	2014-07-21 00:00:00	PSG	Petersburg		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+202759	2015082625088	2015-08-20 00:00:00	2015-08-09 00:00:00	PSG	Petersburg	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Clothing & Accessories,Outdoors Supplies	Baggage/Cases/Purses*Clothing*Clothing*Hunting & Fishing Items			
+219398	2017091142854	2017-07-26 00:00:00	2017-07-14 15:00:00	PSG	Petersburg Petersburg	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			In Review

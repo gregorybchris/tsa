@@ -1,10 +1,10 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-20343	1117242M	2003-11-17 00:00:00	2003-10-29 00:00:00	YAK	Yakutat		Passenger Property Loss	Checked Baggage	35.0	Other	Denied	0.0	Deny
-59815	2005033180715	2005-03-23 00:00:00	2004-08-09 00:00:00	YAK	Yakutat	Horizon Air	Passenger Property Loss	Checked Baggage	41.93	Other	Approved	41.93	Approve in Full
-71809	2005092092951	2005-09-13 00:00:00	2005-09-09 00:00:00	YAK	Yakutat		Passenger Property Loss	Checked Baggage	175.0	Other	Settled	87.5	Settle
-75246	2005111896261	2005-11-09 00:00:00	2005-10-03 00:00:00	YAK	Yakutat	Northwest Airlines	Passenger Property Loss	Checked Baggage	230.95	Other	Settled	161.67	Settle
-88800	2006072710155	2006-07-24 00:00:00	2006-07-15 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage	177.36	Other	Approved	177.36	Approve in Full
-104561	2007052925938	2007-05-21 00:00:00	2007-05-11 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage	584.97	Outdoors Supplies	Canceled	0.0	
-107742	2007072529051	2007-07-23 00:00:00	2007-06-23 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage	32.16	Electronics	Denied	0.0	Deny
-167591	2012011990240	2012-01-19 00:00:00	2011-09-03 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
-204120	2015120727346	2015-12-07 00:00:00	2015-10-05 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Outdoors Supplies,Outdoors Supplies			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+20343	1117242M	2003-11-17 00:00:00	2003-10-29 00:00:00	YAK	Yakutat		Passenger Property Loss	Checked Baggage	35.0	Other	Other	Denied	0.0	Deny
+59815	2005033180715	2005-03-23 00:00:00	2004-08-09 00:00:00	YAK	Yakutat	Horizon Air	Passenger Property Loss	Checked Baggage	41.93	Other	Other	Approved	41.93	Approve in Full
+71809	2005092092951	2005-09-13 00:00:00	2005-09-09 00:00:00	YAK	Yakutat		Passenger Property Loss	Checked Baggage	175.0	Other	Other	Settled	87.5	Settle
+75246	2005111896261	2005-11-09 00:00:00	2005-10-03 00:00:00	YAK	Yakutat	Northwest Airlines	Passenger Property Loss	Checked Baggage	230.95	Other	Other	Settled	161.67	Settle
+88800	2006072710155	2006-07-24 00:00:00	2006-07-15 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage	177.36	Other	Other	Approved	177.36	Approve in Full
+104561	2007052925938	2007-05-21 00:00:00	2007-05-11 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage	584.97	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Canceled	0.0	
+107742	2007072529051	2007-07-23 00:00:00	2007-06-23 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage	32.16	Electronics	Cell Phones	Denied	0.0	Deny
+167591	2012011990240	2012-01-19 00:00:00	2011-09-03 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics	Other*Personal Electronics		0.0	Deny
+204120	2015120727346	2015-12-07 00:00:00	2015-10-05 00:00:00	YAK	Yakutat	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Outdoors Supplies,Outdoors Supplies	Clothing*Clothing*Hunting & Fishing Items*Sporting Equipment & Supplies (footballs, parachutes, etc.)			

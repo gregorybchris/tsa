@@ -1,9 +1,9 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-5965	0502038L	2003-05-02 00:00:00	2003-03-10 00:00:00	LAR	Laramie Regional		Passenger Property Loss	Checked Baggage	120.0	Watches & Jewelry	Settled	60.0	Settle
-12806	0808071M	2003-08-08 00:00:00	2003-06-23 00:00:00	LAR	Laramie Regional		Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Denied	0.0	Deny
-14980	0903124M	2003-09-03 00:00:00	2003-07-29 00:00:00	LAR	Laramie Regional		Passenger Property Loss	Checked Baggage	70.0	Electronics	Settled	35.0	Settle
-56914	2005031077589	2005-02-09 00:00:00	2005-01-15 00:00:00	LAR	Laramie Regional	UAL	Passenger Property Loss	Checked Baggage	404.95	Electronics	Denied	0.0	Deny
-61848	2005041882761	2005-04-15 00:00:00	2005-03-07 00:00:00	LAR	Laramie Regional	UAL	Passenger Property Loss	Checked Baggage	826.95	Other	Denied	0.0	Deny
-93387	2006102514543	2006-10-19 00:00:00	2006-10-04 00:00:00	LAR	Laramie Regional	American Airlines	Passenger Property Loss	Checked Baggage	363.53	Electronics,Other	Settled	160.85	Settle
-111072	2007092032346	2007-09-20 00:00:00	2007-09-16 00:00:00	LAR	Laramie Regional	UAL	Passenger Property Loss	Checked Baggage	175.0	Outdoors Supplies	Settled	87.5	Settle
-216397	2017062941068	2017-06-16 00:00:00	2017-06-15 00:00:00	LAR	Laramie Regional Laramie Regional	UAL	Passenger Property Loss	Checked Baggage		Other			Insufficient
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+5965	0502038L	2003-05-02 00:00:00	2003-03-10 00:00:00	LAR	Laramie Regional		Passenger Property Loss	Checked Baggage	120.0	Watches & Jewelry	Jewelry - Fine	Settled	60.0	Settle
+12806	0808071M	2003-08-08 00:00:00	2003-06-23 00:00:00	LAR	Laramie Regional		Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+14980	0903124M	2003-09-03 00:00:00	2003-07-29 00:00:00	LAR	Laramie Regional		Passenger Property Loss	Checked Baggage	70.0	Electronics	Cameras - Digital	Settled	35.0	Settle
+56914	2005031077589	2005-02-09 00:00:00	2005-01-15 00:00:00	LAR	Laramie Regional	UAL	Passenger Property Loss	Checked Baggage	404.95	Electronics	Cameras - Digital	Denied	0.0	Deny
+61848	2005041882761	2005-04-15 00:00:00	2005-03-07 00:00:00	LAR	Laramie Regional	UAL	Passenger Property Loss	Checked Baggage	826.95	Other	Other	Denied	0.0	Deny
+93387	2006102514543	2006-10-19 00:00:00	2006-10-04 00:00:00	LAR	Laramie Regional	American Airlines	Passenger Property Loss	Checked Baggage	363.53	Electronics,Other	Cameras - Digital*Other	Settled	160.85	Settle
+111072	2007092032346	2007-09-20 00:00:00	2007-09-16 00:00:00	LAR	Laramie Regional	UAL	Passenger Property Loss	Checked Baggage	175.0	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Settled	87.5	Settle
+216397	2017062941068	2017-06-16 00:00:00	2017-06-15 00:00:00	LAR	Laramie Regional Laramie Regional	UAL	Passenger Property Loss	Checked Baggage		Other	Other			Insufficient

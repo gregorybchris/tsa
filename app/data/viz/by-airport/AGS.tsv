@@ -1,42 +1,42 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-2176	0203086L	2003-02-03 00:00:00	2003-01-16 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
-6555	0514168L	2003-05-14 00:00:00	2003-04-26 00:00:00	AGS	Bush Field		Passenger Property Loss	Checked Baggage	525.0	Watches & Jewelry	Settled	300.0	Settle
-44799	2004092263445	2004-09-14 00:00:00	2004-08-03 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	874.0	Clothing & Accessories	Settled	247.18	Settle
-48157	2004120868843	2004-10-25 00:00:00	2004-09-11 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1147.0	Clothing & Accessories	Denied	0.0	Deny
-55286	2005021776429	2005-01-24 00:00:00	2004-11-14 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-61199	2005041182122	2005-04-07 00:00:00	2004-11-30 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	210.0	Clothing & Accessories	Approved	210.0	Approve in Full
-62044	2005042082895	2005-04-19 00:00:00	2005-04-09 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checkpoint	90.95	Watches & Jewelry	Denied	0.0	Deny
-64197	2005051884955	2005-05-17 00:00:00	2005-05-07 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry	Settled	100.0	Settle
-64247	2005052085233	2005-05-18 00:00:00	2005-05-05 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-76050	2005120797174	2005-11-28 00:00:00	2005-11-18 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	167.0	Clothing & Accessories	Approved	167.0	Approve in Full
-81738	2006030902877	2006-03-07 00:00:00	2006-01-31 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	32.08	Clothing & Accessories	Approved	32.08	Approve in Full
-90511	2006083011809	2006-08-25 00:00:00	2006-08-25 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-95143	2006120416610	2006-11-24 00:00:00	2006-10-12 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	153.31	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-96510	2007010418297	2006-12-20 00:00:00	2006-11-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.0	Clothing & Accessories	Approved	69.0	Approve in Full
-103333	2007042624581	2007-04-23 00:00:00	2007-04-09 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage	277.0	Clothing & Accessories,Other,Outdoors Supplies	Settled	138.5	Settle
-106073	2007062127371	2007-06-20 00:00:00	2007-04-23 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	65.55	Clothing & Accessories	Approved	65.55	Approve in Full
-108247	2007080329607	2007-07-31 00:00:00	2007-06-12 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage	225.0	Containers,Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-108739	2007080929961	2007-08-08 00:00:00	2007-08-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Settled	200.0	Settle
-119267	2008031240909	2008-03-05 00:00:00	2007-11-23 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage	19.98	Cosmetics	Denied	0.0	Deny
-125493	2008072347258	2008-07-14 00:00:00	2008-04-14 00:00:00	AGS	Bush Field	Canadian Airlines	Passenger Property Loss	Checked Baggage	15000.0	Watches & Jewelry	Denied	0.0	Deny
-139868	2009073062015	2009-07-23 00:00:00	2009-07-10 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.85	Electronics	Denied	0.0	Deny
-141969	2009092263937	2009-09-22 00:00:00	2009-09-13 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Denied	0.0	Deny
-145557	2010020568338	2010-02-01 00:00:00	2010-01-05 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-163208	2011090986809	2011-08-18 00:00:00	2011-08-14 06:30:00	AGS	Bush Field	USAir	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-164339	2011101487941	2011-09-29 00:00:00	2011-08-24 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Cosmetics		0.0	Deny
-167406	2012020990838	2012-01-12 00:00:00	2011-11-29 00:00:00	AGS	Bush Field	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-170077	2012050993766	2012-04-16 00:00:00	2012-04-10 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		7.46	Approve in Full
-170150	2012051193851	2012-04-18 00:00:00	2012-03-28 05:08:00	AGS	Bush Field		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-170299	2012050993727	2012-04-24 00:00:00	2012-04-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		42.78	Approve in Full
-171487	2012071095185	2012-06-05 00:00:00	2012-05-05 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-171541	2012071195244	2012-06-06 00:00:00	2012-05-05 07:30:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Musical Intruments		0.0	Deny
-172288	2012081595971	2012-07-05 00:00:00	2012-06-17 05:15:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		17.96	Approve in Full
-172462	2012082696191	2012-07-11 00:00:00	2012-02-12 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		6.89	Approve in Full
-172660	2012071795448	2012-07-17 00:00:00	2012-04-12 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-176488	2013011800034	2012-12-06 00:00:00	2012-12-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-180242	2013060503987	2013-04-29 00:00:00	2013-04-12 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-195606	2015071423780	2015-07-01 00:00:00	2015-05-30 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-204279	2016041530572	2016-03-23 00:00:00	2016-03-03 00:00:00	AGS	Bush Field Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-204280	2016091433541	2016-07-21 00:00:00	2016-06-03 00:00:00	AGS	Bush Field Bush Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-212481	2017042138785	2017-02-17 00:00:00	2017-02-13 00:00:00	AGS	Bush Field Bush Field	American Airlines	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
-212482	2017101144250	2017-08-30 00:00:00	2017-08-13 08:00:00	AGS	Bush Field Bush Field	Not Provided	Passenger Theft	Checkpoint		Other			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+2176	0203086L	2003-02-03 00:00:00	2003-01-16 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+6555	0514168L	2003-05-14 00:00:00	2003-04-26 00:00:00	AGS	Bush Field		Passenger Property Loss	Checked Baggage	525.0	Watches & Jewelry	Jewelry - Fine	Settled	300.0	Settle
+44799	2004092263445	2004-09-14 00:00:00	2004-08-03 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	874.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	247.18	Settle
+48157	2004120868843	2004-10-25 00:00:00	2004-09-11 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1147.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+55286	2005021776429	2005-01-24 00:00:00	2004-11-14 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+61199	2005041182122	2005-04-07 00:00:00	2004-11-30 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	210.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	210.0	Approve in Full
+62044	2005042082895	2005-04-19 00:00:00	2005-04-09 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checkpoint	90.95	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+64197	2005051884955	2005-05-17 00:00:00	2005-05-07 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry	Jewelry - Fine	Settled	100.0	Settle
+64247	2005052085233	2005-05-18 00:00:00	2005-05-05 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Approved	15.0	Approve in Full
+76050	2005120797174	2005-11-28 00:00:00	2005-11-18 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	167.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	167.0	Approve in Full
+81738	2006030902877	2006-03-07 00:00:00	2006-01-31 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	32.08	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	32.08	Approve in Full
+90511	2006083011809	2006-08-25 00:00:00	2006-08-25 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+95143	2006120416610	2006-11-24 00:00:00	2006-10-12 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	153.31	Clothing & Accessories,Cosmetics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+96510	2007010418297	2006-12-20 00:00:00	2006-11-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	69.0	Approve in Full
+103333	2007042624581	2007-04-23 00:00:00	2007-04-09 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage	277.0	Clothing & Accessories,Other,Outdoors Supplies	Clothing - Shoes, belts, accessories, etc.*Other*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Settled	138.5	Settle
+106073	2007062127371	2007-06-20 00:00:00	2007-04-23 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	65.55	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	65.55	Approve in Full
+108247	2007080329607	2007-07-31 00:00:00	2007-06-12 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage	225.0	Containers,Clothing & Accessories,Cosmetics	Bags - Fabric, plastic, etc. (not purses)*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+108739	2007080929961	2007-08-08 00:00:00	2007-08-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Settled	200.0	Settle
+119267	2008031240909	2008-03-05 00:00:00	2007-11-23 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage	19.98	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+125493	2008072347258	2008-07-14 00:00:00	2008-04-14 00:00:00	AGS	Bush Field	Canadian Airlines	Passenger Property Loss	Checked Baggage	15000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+139868	2009073062015	2009-07-23 00:00:00	2009-07-10 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.85	Electronics	Cameras - Digital	Denied	0.0	Deny
+141969	2009092263937	2009-09-22 00:00:00	2009-09-13 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+145557	2010020568338	2010-02-01 00:00:00	2010-01-05 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+163208	2011090986809	2011-08-18 00:00:00	2011-08-14 06:30:00	AGS	Bush Field	USAir	Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+164339	2011101487941	2011-09-29 00:00:00	2011-08-24 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Cosmetics	Cameras*Clothing*Cosmetics & Grooming		0.0	Deny
+167406	2012020990838	2012-01-12 00:00:00	2011-11-29 00:00:00	AGS	Bush Field	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+170077	2012050993766	2012-04-16 00:00:00	2012-04-10 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		7.46	Approve in Full
+170150	2012051193851	2012-04-18 00:00:00	2012-03-28 05:08:00	AGS	Bush Field		Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+170299	2012050993727	2012-04-24 00:00:00	2012-04-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		42.78	Approve in Full
+171487	2012071095185	2012-06-05 00:00:00	2012-05-05 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+171541	2012071195244	2012-06-06 00:00:00	2012-05-05 07:30:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Musical Intruments	Musical Instruments & Accessories		0.0	Deny
+172288	2012081595971	2012-07-05 00:00:00	2012-06-17 05:15:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		17.96	Approve in Full
+172462	2012082696191	2012-07-11 00:00:00	2012-02-12 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		6.89	Approve in Full
+172660	2012071795448	2012-07-17 00:00:00	2012-04-12 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+176488	2013011800034	2012-12-06 00:00:00	2012-12-04 00:00:00	AGS	Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+180242	2013060503987	2013-04-29 00:00:00	2013-04-12 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+195606	2015071423780	2015-07-01 00:00:00	2015-05-30 00:00:00	AGS	Bush Field	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+204279	2016041530572	2016-03-23 00:00:00	2016-03-03 00:00:00	AGS	Bush Field Bush Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+204280	2016091433541	2016-07-21 00:00:00	2016-06-03 00:00:00	AGS	Bush Field Bush Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+212481	2017042138785	2017-02-17 00:00:00	2017-02-13 00:00:00	AGS	Bush Field Bush Field	American Airlines	Passenger Property Loss	Checked Baggage		Household Items	Household Items		0.0	Deny
+212482	2017101144250	2017-08-30 00:00:00	2017-08-13 08:00:00	AGS	Bush Field Bush Field	Not Provided	Passenger Theft	Checkpoint		Other	Currency			In Review

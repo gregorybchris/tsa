@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-130295	2008111052148	2008-11-05 00:00:00	2008-10-31 00:00:00	HYA	Barnstable Municipal, Hyannis	Jet Blue	Passenger Property Loss	Checked Baggage	17.5	Tools & Machines,Other	Denied	0.0	Deny
-142048	2009093064160	2009-09-23 00:00:00	2009-09-01 00:00:00	HYA	Barnstable Municipal, Hyannis	Cape Air	Passenger Property Loss	Checked Baggage	798.75	Electronics,Electronics,Clothing & Accessories	Denied	0.0	Deny
-193539	2014100717423	2014-09-26 00:00:00	2014-09-22 00:00:00	HYA	Barnstable Municipal, Hyannis	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+130295	2008111052148	2008-11-05 00:00:00	2008-10-31 00:00:00	HYA	Barnstable Municipal, Hyannis	Jet Blue	Passenger Property Loss	Checked Baggage	17.5	Tools & Machines,Other	Locks*Other	Denied	0.0	Deny
+142048	2009093064160	2009-09-23 00:00:00	2009-09-01 00:00:00	HYA	Barnstable Municipal, Hyannis	Cape Air	Passenger Property Loss	Checked Baggage	798.75	Electronics,Electronics,Clothing & Accessories	Cameras - Digital*Cell Phones*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+193539	2014100717423	2014-09-26 00:00:00	2014-09-22 00:00:00	HYA	Barnstable Municipal, Hyannis	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			

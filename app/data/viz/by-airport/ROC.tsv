@@ -1,95 +1,95 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-10095	0707109M	2003-07-07 00:00:00	2003-06-20 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	150.0	Electronics	Canceled		
-32185	2004051952890	2004-04-06 00:00:00	2004-02-20 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	100.0	Electronics	Canceled		
-32482	2004052653579	2004-04-15 00:00:00	2004-03-16 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	49.95	Other	Closed as a contractor claim	0.0	
-33022	2004052653593	2004-04-21 00:00:00	2004-03-20 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	1282.58	Electronics	Closed as a contractor claim	0.0	
-36142	2004062156549	2004-05-27 00:00:00	2004-04-03 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Canceled		
-36571	2004062256763	2004-05-28 00:00:00	2004-05-10 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	2645.0	Watches & Jewelry	Canceled		
-36582	2004062357054	2004-05-28 00:00:00	2004-04-28 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	541.92	Electronics	Closed as a contractor claim	0.0	
-37966	2004070658550	2004-06-16 00:00:00	2004-05-01 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage	159.71	Other	Canceled		
-37974	2004070658442	2004-06-16 00:00:00	2004-05-23 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	10.85	Tools & Machines	Closed as a contractor claim	0.0	
-38758	2004071659645	2004-06-28 00:00:00	2004-06-12 00:00:00	ROC	Greater Rochester International	Northwest Airlines	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
-39154	2004071559465	2004-07-06 00:00:00	2004-06-24 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	362.99	Supplies	Canceled		
-39155	2004071559468	2004-07-06 00:00:00	2004-06-04 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	210.0	Watches & Jewelry	Canceled		
-39159	2004071659611	2004-07-06 00:00:00	2004-06-17 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	293.45	Other	Canceled	0.0	
-39170	2004071959719	2004-07-06 00:00:00	2004-06-04 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	100.0	Other	Closed as a contractor claim	0.0	
-39623	2004080360484	2004-07-09 00:00:00	2004-04-03 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	159.99	Electronics	Canceled		
-39637	2004080360455	2004-07-09 00:00:00	2004-06-04 00:00:00	ROC	Greater Rochester International	Kuwait Airlines	Passenger Property Loss	Checked Baggage	125.0	Other	Closed as a contractor claim	0.0	
-39638	2004080360483	2004-07-09 00:00:00	2004-05-27 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Closed as a contractor claim	0.0	
-39978	2004080360499	2004-07-13 00:00:00	2004-05-07 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	324.73	Electronics	Approved	324.73	Approve in Full
-42434	2004091562903	2004-08-10 00:00:00	2004-05-09 00:00:00	ROC	Greater Rochester International	UAL	Passenger Theft	Checked Baggage	999.99	Electronics	Settled	367.29	Settle
-44167	2004100664741	2004-09-09 00:00:00	2004-06-01 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checkpoint	1334.76	Electronics	Canceled	0.0	
-44169	2004100764801	2004-09-09 00:00:00	2004-08-06 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	105.12	Other	Canceled		
-44170	2004100764803	2004-09-09 00:00:00	2003-12-17 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Canceled		
-44287	2004102265565	2004-09-09 00:00:00	2004-08-10 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Other	Denied		Deny
-44536	2004102165476	2004-09-10 00:00:00	2004-07-30 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Theft	Checked Baggage	70.0	Watches & Jewelry	Denied		Deny
-45405	2004102165457	2004-09-20 00:00:00	2004-08-10 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	414.0	Other	Closed as a contractor claim	0.0	
-46599	2004111967402	2004-10-05 00:00:00	2004-08-19 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	48.47	Other	Approved	48.47	Approve in Full
-46655	2004110766577	2004-10-05 00:00:00	2004-09-27 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	2208.0	Electronics	Closed as a contractor claim	0.0	
-46660	2004111967424	2004-10-05 00:00:00	2004-09-27 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	74.95	Other	Closed as a contractor claim	0.0	
-49431	2004122971735	2004-11-08 00:00:00	2004-10-28 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	5.45	Tools & Machines	Closed as a contractor claim	0.0	
-51368	2004122270602	2004-12-07 00:00:00	2004-11-29 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	173.18	Electronics	Closed as a contractor claim	0.0	
-51876	2005010472413	2004-12-13 00:00:00	2004-09-27 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	2500.0	Watches & Jewelry	Denied	0.0	Deny
-53695	2005012674330	2005-01-06 00:00:00	2004-10-31 00:00:00	ROC	Greater Rochester International	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.91	Tools & Machines	Canceled	0.0	
-53922	2005012774501	2005-01-10 00:00:00	2004-12-29 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	70.0	Other	Canceled	0.0	
-56714	2005031177661	2005-02-08 00:00:00	2005-01-26 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	54.99	Electronics	Canceled	0.0	
-58801	2005030877268	2005-03-08 00:00:00	2004-08-13 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	55.0	Other	Closed as a contractor claim	0.0	
-59141	2005031177794	2005-03-10 00:00:00	2004-08-29 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	160.0	Clothing & Accessories	Closed as a contractor claim	0.0	
-61741	2005041582647	2005-04-14 00:00:00	2005-04-07 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	30.0	Other	Closed as a contractor claim	0.0	
-63192	2005050684229	2005-05-04 00:00:00	2005-01-18 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	91.82	Cosmetics	Closed as a contractor claim	0.0	
-63632	2005051684704	2005-05-11 00:00:00	2005-04-24 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	640.83	Electronics	Closed as a contractor claim	0.0	
-64882	2005060986076	2005-05-31 00:00:00	2005-12-25 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	129.9	Other	Closed as a contractor claim	0.0	
-66468	2005062787257	2005-06-20 00:00:00	2005-05-14 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	518.68	Other	Closed as a contractor claim	0.0	
-69790	2005081790792	2005-08-09 00:00:00	2005-08-01 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	243.1	Supplies	Closed as a contractor claim	0.0	
-72693	2005100393723	2005-09-26 00:00:00	2005-07-27 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checkpoint	200.0	Other	Closed as a contractor claim	0.0	
-74619	2005110895811	2005-10-28 00:00:00	2005-10-19 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	65.0	Other	Closed as a contractor claim	0.0	
-74787	2005111095974	2005-11-01 00:00:00	2005-10-17 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5000.0	Watches & Jewelry	Closed as a contractor claim	0.0	
-75170	2005112196340	2005-11-09 00:00:00	2005-10-30 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	10.75	Other	Closed as a contractor claim	0.0	
-76084	2005121397656	2005-11-28 00:00:00	2005-09-27 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	120.0	Watches & Jewelry	Closed as a contractor claim	0.0	
-77478	2006010598907	2005-12-22 00:00:00	2005-11-15 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Closed as a contractor claim	0.0	
-77706	2006010598790	2005-12-28 00:00:00	2005-12-06 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Closed as a contractor claim	0.0	
-77830	2006011199323	2005-12-30 00:00:00	2005-11-15 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage	89.49	Clothing & Accessories	Closed as a contractor claim	0.0	
-80659	2006022101851	2006-02-14 00:00:00	2005-04-22 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	54.16	Clothing & Accessories	Closed as a contractor claim	0.0	
-83322	2006041404616	2006-04-04 00:00:00	2005-12-25 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	16.18	Tools & Machines	Closed as a contractor claim	0.0	
-88170	2006071409522	2006-07-11 00:00:00	2006-05-20 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Closed as a contractor claim	0.0	
-96424	2006122217860	2006-12-19 00:00:00	2006-11-25 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	150.0	Other	Closed as a contractor claim	0.0	
-103008	2007042024271	2007-04-18 00:00:00	2007-04-16 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	300.0	Electronics,Watches & Jewelry,Electronics,Other	Closed as a contractor claim	0.0	
-103009	2007042024306	2007-04-18 00:00:00	2007-02-28 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Closed as a contractor claim	0.0	
-107123	2007061226783	2007-07-11 00:00:00	2007-06-04 00:00:00	ROC	Greater Rochester International	Air Tran Airlines(do not use)	Passenger Property Loss	Checkpoint	369.98	Electronics	Closed as a contractor claim	0.0	
-107543	2007072328873	2007-07-19 00:00:00	2007-06-06 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	19.99	Cosmetics	Closed as a contractor claim	0.0	
-107703	2007072529061	2007-07-23 00:00:00	2007-06-08 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.42	Clothing & Accessories	Closed as a contractor claim	0.0	
-109259	2007082130621	2007-08-20 00:00:00	2007-08-12 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	32.31	Office Supplies	Closed as a contractor claim	0.0	
-109535	2007082830958	2007-08-23 00:00:00	2007-08-12 00:00:00	ROC	Greater Rochester International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	325.0	Other	Closed as a contractor claim	0.0	
-110586	2007091732034	2007-09-12 00:00:00	2007-08-26 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	389.0	Cosmetics	Closed as a contractor claim	0.0	
-113537	2007111434876	2007-11-13 00:00:00	2007-10-17 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories,Watches & Jewelry	Closed as a contractor claim	0.0	
-114008	2007112335333	2007-11-20 00:00:00	2007-09-09 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Closed as a contractor claim	0.0	
-119573	2008031941275	2008-03-12 00:00:00	2008-02-16 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	24.31	Electronics	Closed as a contractor claim	0.0	
-124469	2008062746292	2008-06-23 00:00:00	2008-05-29 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage	8.5	Tools & Machines	Closed as a contractor claim	0.0	
-126559	2008081148388	2008-08-06 00:00:00	2008-06-30 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.54	Tools & Machines	Denied	0.0	Deny
-127327	2008080748243	2008-08-25 00:00:00	2008-05-25 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	347.88	Containers	Closed as a contractor claim	0.0	
-131863	2008122253679	2008-12-17 00:00:00	2008-12-06 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	55.0	Cosmetics	Denied	0.0	Deny
-134417	2009031756378	2009-02-26 00:00:00	2008-10-29 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	208.23	Electronics	Closed as a contractor claim	0.0	
-145771	2010022568729	2010-02-12 00:00:00	2010-01-10 19:30:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Food & Drink			
-146378	2010030368984	2010-03-05 00:00:00	2010-01-10 19:30:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics		0.0	Deny
-146482	2010031869688	2010-03-08 00:00:00	2010-02-03 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-146777	2010082375244	2010-03-16 00:00:00	2010-03-04 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-150871	2010072774121	2010-07-21 00:00:00	2010-07-13 16:30:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-151273	2010080774663	2010-08-02 00:00:00	2010-07-22 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics			
-152091	2010083075462	2010-08-24 00:00:00	2010-08-20 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Other			
-154051	2010102977487	2010-10-22 00:00:00	2010-09-21 06:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics			
-156526	2011020779950	2011-01-14 00:00:00	2010-12-26 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories			
-160200	2011052483698	2011-05-16 00:00:00	2011-04-25 17:30:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-162108	2011080385691	2011-07-18 00:00:00	2011-06-20 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
-165040	2011103188554	2011-10-21 00:00:00	2011-10-05 19:30:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage		Other			
-167692	2012022891346	2012-01-23 00:00:00	2012-01-05 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics,Electronics			
-170935	2012060594525	2012-05-15 00:00:00	2012-05-04 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage		Containers			
-182636	2013082806373	2013-07-23 00:00:00	2013-07-12 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage		Other			
-193162	2014092517041	2014-09-10 00:00:00	2014-08-24 00:00:00	ROC	Greater Rochester International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-194127	2014102818022	2014-10-22 00:00:00	2014-10-20 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage		Electronics			
-202954	2015102226184	2015-10-22 00:00:00	2015-09-25 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-202955	2015111927016	2015-11-06 00:00:00	2015-07-21 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checkpoint		Cosmetics			
-211300	2016052531727	2016-05-11 00:00:00	2016-04-30 13:30:00	ROC	Greater Rochester International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			Closed:Contractor Claim
-211301	2016080332936	2016-06-27 00:00:00	2016-05-31 13:30:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage		Games & Toys			Closed:Contractor Claim
-211302	2017011336542	2016-11-07 00:00:00	2016-11-04 18:30:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry			Closed:Contractor Claim
-219585	2017100243879	2017-09-01 00:00:00	2017-08-19 00:00:00	ROC	 Greater Rochester International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219587	2017060240144	2017-04-21 00:00:00	2017-04-03 00:00:00	ROC	 Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			losed: Contractor Claim
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+10095	0707109M	2003-07-07 00:00:00	2003-06-20 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	150.0	Electronics	Cell Phones	Canceled		
+32185	2004051952890	2004-04-06 00:00:00	2004-02-20 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	100.0	Electronics	Cell Phones	Canceled		
+32482	2004052653579	2004-04-15 00:00:00	2004-03-16 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	49.95	Other	Other	Closed as a contractor claim	0.0	
+33022	2004052653593	2004-04-21 00:00:00	2004-03-20 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	1282.58	Electronics	Cameras - Digital	Closed as a contractor claim	0.0	
+36142	2004062156549	2004-05-27 00:00:00	2004-04-03 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Currency	Canceled		
+36571	2004062256763	2004-05-28 00:00:00	2004-05-10 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	2645.0	Watches & Jewelry	Jewelry - Fine	Canceled		
+36582	2004062357054	2004-05-28 00:00:00	2004-04-28 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	541.92	Electronics	Cameras - Digital	Closed as a contractor claim	0.0	
+37966	2004070658550	2004-06-16 00:00:00	2004-05-01 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage	159.71	Other	Other	Canceled		
+37974	2004070658442	2004-06-16 00:00:00	2004-05-23 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	10.85	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+38758	2004071659645	2004-06-28 00:00:00	2004-06-12 00:00:00	ROC	Greater Rochester International	Northwest Airlines	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Jewelry - Fine	Closed as a contractor claim	0.0	
+39154	2004071559465	2004-07-06 00:00:00	2004-06-24 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	362.99	Supplies	Medicines	Canceled		
+39155	2004071559468	2004-07-06 00:00:00	2004-06-04 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	210.0	Watches & Jewelry	Jewelry - Fine	Canceled		
+39159	2004071659611	2004-07-06 00:00:00	2004-06-17 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	293.45	Other	Other	Canceled	0.0	
+39170	2004071959719	2004-07-06 00:00:00	2004-06-04 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	100.0	Other	Other	Closed as a contractor claim	0.0	
+39623	2004080360484	2004-07-09 00:00:00	2004-04-03 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	159.99	Electronics	Cameras - Digital	Canceled		
+39637	2004080360455	2004-07-09 00:00:00	2004-06-04 00:00:00	ROC	Greater Rochester International	Kuwait Airlines	Passenger Property Loss	Checked Baggage	125.0	Other	Other	Closed as a contractor claim	0.0	
+39638	2004080360483	2004-07-09 00:00:00	2004-05-27 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Closed as a contractor claim	0.0	
+39978	2004080360499	2004-07-13 00:00:00	2004-05-07 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	324.73	Electronics	Cameras - Digital	Approved	324.73	Approve in Full
+42434	2004091562903	2004-08-10 00:00:00	2004-05-09 00:00:00	ROC	Greater Rochester International	UAL	Passenger Theft	Checked Baggage	999.99	Electronics	Stereo Items & Accessories	Settled	367.29	Settle
+44167	2004100664741	2004-09-09 00:00:00	2004-06-01 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checkpoint	1334.76	Electronics	Cameras - Digital	Canceled	0.0	
+44169	2004100764801	2004-09-09 00:00:00	2004-08-06 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	105.12	Other	Other	Canceled		
+44170	2004100764803	2004-09-09 00:00:00	2003-12-17 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	20.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled		
+44287	2004102265565	2004-09-09 00:00:00	2004-08-10 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	150.0	Other	Currency	Denied		Deny
+44536	2004102165476	2004-09-10 00:00:00	2004-07-30 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Theft	Checked Baggage	70.0	Watches & Jewelry	Jewelry - Fine	Denied		Deny
+45405	2004102165457	2004-09-20 00:00:00	2004-08-10 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	414.0	Other	Other	Closed as a contractor claim	0.0	
+46599	2004111967402	2004-10-05 00:00:00	2004-08-19 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	48.47	Other	Other	Approved	48.47	Approve in Full
+46655	2004110766577	2004-10-05 00:00:00	2004-09-27 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	2208.0	Electronics	Computer - Laptop	Closed as a contractor claim	0.0	
+46660	2004111967424	2004-10-05 00:00:00	2004-09-27 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	74.95	Other	Other	Closed as a contractor claim	0.0	
+49431	2004122971735	2004-11-08 00:00:00	2004-10-28 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	5.45	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+51368	2004122270602	2004-12-07 00:00:00	2004-11-29 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	173.18	Electronics	PDA - Personal Data Assistants	Closed as a contractor claim	0.0	
+51876	2005010472413	2004-12-13 00:00:00	2004-09-27 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	2500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+53695	2005012674330	2005-01-06 00:00:00	2004-10-31 00:00:00	ROC	Greater Rochester International	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.91	Tools & Machines	Locks	Canceled	0.0	
+53922	2005012774501	2005-01-10 00:00:00	2004-12-29 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	70.0	Other	Currency	Canceled	0.0	
+56714	2005031177661	2005-02-08 00:00:00	2005-01-26 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	54.99	Electronics	Cameras - Digital	Canceled	0.0	
+58801	2005030877268	2005-03-08 00:00:00	2004-08-13 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	55.0	Other	Other	Closed as a contractor claim	0.0	
+59141	2005031177794	2005-03-10 00:00:00	2004-08-29 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checkpoint	160.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Closed as a contractor claim	0.0	
+61741	2005041582647	2005-04-14 00:00:00	2005-04-07 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	30.0	Other	Other	Closed as a contractor claim	0.0	
+63192	2005050684229	2005-05-04 00:00:00	2005-01-18 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	91.82	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Closed as a contractor claim	0.0	
+63632	2005051684704	2005-05-11 00:00:00	2005-04-24 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	640.83	Electronics	Cameras - Digital	Closed as a contractor claim	0.0	
+64882	2005060986076	2005-05-31 00:00:00	2005-12-25 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	129.9	Other	Other	Closed as a contractor claim	0.0	
+66468	2005062787257	2005-06-20 00:00:00	2005-05-14 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	518.68	Other	Other	Closed as a contractor claim	0.0	
+69790	2005081790792	2005-08-09 00:00:00	2005-08-01 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	243.1	Supplies	Medicines	Closed as a contractor claim	0.0	
+72693	2005100393723	2005-09-26 00:00:00	2005-07-27 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checkpoint	200.0	Other	Other	Closed as a contractor claim	0.0	
+74619	2005110895811	2005-10-28 00:00:00	2005-10-19 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	65.0	Other	Other	Closed as a contractor claim	0.0	
+74787	2005111095974	2005-11-01 00:00:00	2005-10-17 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	5000.0	Watches & Jewelry	Jewelry - Fine	Closed as a contractor claim	0.0	
+75170	2005112196340	2005-11-09 00:00:00	2005-10-30 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	10.75	Other	Other	Closed as a contractor claim	0.0	
+76084	2005121397656	2005-11-28 00:00:00	2005-09-27 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	120.0	Watches & Jewelry	Jewelry - Fine	Closed as a contractor claim	0.0	
+77478	2006010598907	2005-12-22 00:00:00	2005-11-15 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+77706	2006010598790	2005-12-28 00:00:00	2005-12-06 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Cell Phones	Closed as a contractor claim	0.0	
+77830	2006011199323	2005-12-30 00:00:00	2005-11-15 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage	89.49	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Closed as a contractor claim	0.0	
+80659	2006022101851	2006-02-14 00:00:00	2005-04-22 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	54.16	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Closed as a contractor claim	0.0	
+83322	2006041404616	2006-04-04 00:00:00	2005-12-25 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	16.18	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+88170	2006071409522	2006-07-11 00:00:00	2006-05-20 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+96424	2006122217860	2006-12-19 00:00:00	2006-11-25 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Closed as a contractor claim	0.0	
+103008	2007042024271	2007-04-18 00:00:00	2007-04-16 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	300.0	Electronics,Watches & Jewelry,Electronics,Other	Cameras - Digital*Jewelry - Costume*MP3 Players-(iPods, etc)*Other	Closed as a contractor claim	0.0	
+103009	2007042024306	2007-04-18 00:00:00	2007-02-28 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+107123	2007061226783	2007-07-11 00:00:00	2007-06-04 00:00:00	ROC	Greater Rochester International	Air Tran Airlines(do not use)	Passenger Property Loss	Checkpoint	369.98	Electronics	Cell Phones	Closed as a contractor claim	0.0	
+107543	2007072328873	2007-07-19 00:00:00	2007-06-06 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	19.99	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Closed as a contractor claim	0.0	
+107703	2007072529061	2007-07-23 00:00:00	2007-06-08 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	97.42	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Closed as a contractor claim	0.0	
+109259	2007082130621	2007-08-20 00:00:00	2007-08-12 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	32.31	Office Supplies	Books - Other (Hardcover non-fiction)	Closed as a contractor claim	0.0	
+109535	2007082830958	2007-08-23 00:00:00	2007-08-12 00:00:00	ROC	Greater Rochester International	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	325.0	Other	Other	Closed as a contractor claim	0.0	
+110586	2007091732034	2007-09-12 00:00:00	2007-08-26 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	389.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Closed as a contractor claim	0.0	
+113537	2007111434876	2007-11-13 00:00:00	2007-10-17 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Closed as a contractor claim	0.0	
+114008	2007112335333	2007-11-20 00:00:00	2007-09-09 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+119573	2008031941275	2008-03-12 00:00:00	2008-02-16 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage	24.31	Electronics	Cell Phones	Closed as a contractor claim	0.0	
+124469	2008062746292	2008-06-23 00:00:00	2008-05-29 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage	8.5	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+126559	2008081148388	2008-08-06 00:00:00	2008-06-30 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage	11.54	Tools & Machines	Locks	Denied	0.0	Deny
+127327	2008080748243	2008-08-25 00:00:00	2008-05-25 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	347.88	Containers	Handbags & Purses (leather or fabric)	Closed as a contractor claim	0.0	
+131863	2008122253679	2008-12-17 00:00:00	2008-12-06 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	55.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+134417	2009031756378	2009-02-26 00:00:00	2008-10-29 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage	208.23	Electronics	GPS - Global Positioning System	Closed as a contractor claim	0.0	
+145771	2010022568729	2010-02-12 00:00:00	2010-01-10 19:30:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Food & Drink	Cosmetics & Grooming*Food & Drink			
+146378	2010030368984	2010-03-05 00:00:00	2010-01-10 19:30:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics	Cosmetics & Grooming*Cosmetics & Grooming		0.0	Deny
+146482	2010031869688	2010-03-08 00:00:00	2010-02-03 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+146777	2010082375244	2010-03-16 00:00:00	2010-03-04 00:00:00	ROC	Greater Rochester International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+150871	2010072774121	2010-07-21 00:00:00	2010-07-13 16:30:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+151273	2010080774663	2010-08-02 00:00:00	2010-07-22 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics	Clothing*Personal Electronics			
+152091	2010083075462	2010-08-24 00:00:00	2010-08-20 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Other	Other			
+154051	2010102977487	2010-10-22 00:00:00	2010-09-21 06:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+156526	2011020779950	2011-01-14 00:00:00	2010-12-26 00:00:00	ROC	Greater Rochester International		Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories	Baggage/Cases/Purses*Personal Accessories			
+160200	2011052483698	2011-05-16 00:00:00	2011-04-25 17:30:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+162108	2011080385691	2011-07-18 00:00:00	2011-06-20 00:00:00	ROC	Greater Rochester International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Computer & Accessories			
+165040	2011103188554	2011-10-21 00:00:00	2011-10-05 19:30:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other			
+167692	2012022891346	2012-01-23 00:00:00	2012-01-05 00:00:00	ROC	Greater Rochester International	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Cameras			
+170935	2012060594525	2012-05-15 00:00:00	2012-05-04 00:00:00	ROC	Greater Rochester International	AirTran Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+182636	2013082806373	2013-07-23 00:00:00	2013-07-12 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage		Other	Other			
+193162	2014092517041	2014-09-10 00:00:00	2014-08-24 00:00:00	ROC	Greater Rochester International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+194127	2014102818022	2014-10-22 00:00:00	2014-10-20 00:00:00	ROC	Greater Rochester International	USAir	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+202954	2015102226184	2015-10-22 00:00:00	2015-09-25 00:00:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+202955	2015111927016	2015-11-06 00:00:00	2015-07-21 00:00:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming			
+211300	2016052531727	2016-05-11 00:00:00	2016-04-30 13:30:00	ROC	Greater Rochester International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science			Closed:Contractor Claim
+211301	2016080332936	2016-06-27 00:00:00	2016-05-31 13:30:00	ROC	Greater Rochester International	American Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games			Closed:Contractor Claim
+211302	2017011336542	2016-11-07 00:00:00	2016-11-04 18:30:00	ROC	Greater Rochester International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			Closed:Contractor Claim
+219585	2017100243879	2017-09-01 00:00:00	2017-08-19 00:00:00	ROC	 Greater Rochester International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			In Review
+219587	2017060240144	2017-04-21 00:00:00	2017-04-03 00:00:00	ROC	 Greater Rochester International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			losed: Contractor Claim
