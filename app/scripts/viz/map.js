@@ -185,9 +185,9 @@ function setupMap() {
                 .attr('display', d => {
                   if (!searchTerm) {
                     return null
-                  } else if (d.Airport.toLowerCase().includes(searchTerm.toLowerCase())) {
+                  } else if (d.Airport.toLowerCase().includes(searchTerm.toLowerCase().trim())) {
                     return null
-                  } else if (d.airport_code.toLowerCase().includes(searchTerm.toLowerCase())) {
+                  } else if (d.airport_code.toLowerCase().includes(searchTerm.toLowerCase().trim())) {
                     return null
                   } else {
                     return 'none'
@@ -226,7 +226,7 @@ function setupMap() {
             changeCircleSize('median_close_amount', d => {
                 if (d.med_close < 0)
                     return 0
-                return d.med_close / 10
+                return d.med_close / 2
             })
             changeView(d3.select("#map-median-close-button"))
         })

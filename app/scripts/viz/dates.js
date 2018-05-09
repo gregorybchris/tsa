@@ -1,3 +1,40 @@
+function resetStats() {
+  t = d3.transition().duration(400)
+  d3.select("#claim-date-received-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+  d3.select("#claim-incident-date-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+  d3.select("#claim-airline-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+  d3.select("#claim-items-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+
+  d3.select("#claim-site-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+  d3.select("#claim-amount-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+  d3.select("#claim-close-amount-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+  d3.select("#claim-disposition-text")
+    .transition(t)
+    .style('opacity', 0)
+    .on('end', function(d) { d3.select(this).html('') })
+}
+
 let initialRender = true
 function setupDates(airport_code) {
     let svg = d3.select("#dates-svg")
@@ -12,14 +49,7 @@ function setupDates(airport_code) {
           .transition()
           .duration(500)
           .style('opacity', 0)
-        d3.select("#claim-date-received-text").html('')
-        d3.select("#claim-incident-date-text").html('')
-        d3.select("#claim-airline-text").html('')
-        d3.select("#claim-items-text").html('')
-        d3.select("#claim-site-text").html('')
-        d3.select("#claim-amount-text").html('')
-        d3.select("#claim-close-amount-text").html('')
-        d3.select("#claim-disposition-text").html('')
+        resetStats()
       return
   } else if (!initialRender) {
       d3.select("#claim-empty-message")
@@ -33,6 +63,8 @@ function setupDates(airport_code) {
         .transition()
         .duration(500)
         .style('opacity', 1)
+      resetStats()
+
   }
     let width = 0.8 * (+svg.attr("width"))
     let height = 0.8 * (+svg.attr("height"))
@@ -75,7 +107,7 @@ function setupDates(airport_code) {
                 claimNumber: +d.claim_number,
                 airportCode: d.airport_code,
                 airportName: d.airport_name,
-                airline: d.airline,
+                airline: d.airline || 'Unknown',
                 claimType: d.claim_type,
                 claimNumber: d.claim_number,
                 legitClaimAmount: d.claim_amount !== '',
@@ -86,7 +118,7 @@ function setupDates(airport_code) {
                 incidentDateString: formatDateString(d.incident_date),
                 incidentDate: convertDate(d.incident_date),
                 incidentDateUnix: formatDateUnix(d.incident_date),
-                disposition: d.disposition,
+                disposition: d.disposition || 'Unknown',
                 newItems: d.items_new.split(","),
                 oldItems: d.items_old.split("*")
             }))
@@ -194,21 +226,14 @@ function setupDates(airport_code) {
                 .classed("zoomable-rect", true)
                 .on("click", function(d, i) {
                     d3.select(this).classed("clickable", false)
-                    d3.select("#claim-date-received-text").html('')
-                    d3.select("#claim-incident-date-text").html('')
-                    d3.select("#claim-airline-text").html('')
-                    d3.select("#claim-items-text").html('')
-                    d3.select("#claim-site-text").html('')
-                    d3.select("#claim-amount-text").html('')
-                    d3.select("#claim-close-amount-text").html('')
-                    d3.select("#claim-disposition-text").html('')
+                    resetStats()
                     d3.select("#claim-empty-message")
                         .html('Select a claim from the scatter plot')
                         .style('opacity', 1)
                       svg.selectAll('circle')
 
                           .style("fill", "transparent")
-                          .classed("clickable", true)
+                          .classed("clickable", true  )
                 })
                 .attr("width", width)
                 .attr("height", height)
@@ -253,15 +278,15 @@ function setupDates(airport_code) {
                     .enter()
                     .append('circle')
                   .on("click", function(d, i) {
-                      updateClaimFields(claims[i])
+                      updateClaimFields(d)
                       d3.select("#claim-empty-message").style('opacity', 0)
                       d3.select(".zoomable-rect").classed('clickable', true)
 
-                        svg.selectAll('circle')
-                            .style("fill", (d, i2) => {
-                                return claims[i].id == claims[i2].id ? "rgba(108, 34, 125, 0.5)" : "transparent"
-                            })
-                            .classed("clickable", (_, i2) => claims[i].id !== claims[i2].id)
+                      svg.selectAll('circle')
+                          .style("fill", (d2, i2) => {
+                              return d.id === d2.id ? "rgba(108, 34, 125, 0.5)" : "transparent"
+                          })
+                          .classed("clickable", (d2) => d.id !== d2.id)
                   })
                   .classed("clickable", true)
                   .attr("cx", () => (Math.random() - 0.5) * 10000)
@@ -278,21 +303,59 @@ function setupDates(airport_code) {
         }
 
         function filterItems(items) {
-            return items.filter(function(item, i, self) {
+            html = '<ul>'
+            items.filter(function(item, i, self) {
                 return i === self.indexOf(item);
-            })
+            }).forEach(item => html += '<li>' + item + '</li>')
+            html += '</ul>'
+            return html
         }
 
         function updateClaimFields(d) {
-            d3.select("#claim-date-received-text").html(d.dateReceivedString)
-            d3.select("#claim-incident-date-text").html(d.incidentDateString)
-            d3.select("#claim-airline-text").html(d.airline)
-            d3.select("#claim-items-text").html(filterItems(d.oldItems))
 
-            d3.select("#claim-site-text").html(d.claimSite)
-            d3.select("#claim-amount-text").html(d.legitClaimAmount ? `$${d.claimAmount}` : 'Unknown')
-            d3.select("#claim-close-amount-text").html(`$${d.closeAmount}`)
-            d3.select("#claim-disposition-text").html(d.disposition)
+          t = d3.transition().duration(400)
+
+            d3.select("#claim-date-received-text")
+              .style('opacity', 0)
+              .html(d.dateReceivedString)
+              .transition(t)
+              .style('opacity', 1)
+            d3.select("#claim-incident-date-text")
+              .style('opacity', 0)
+              .html(d.incidentDateString)
+              .transition(t)
+              .style('opacity', 1)
+            d3.select("#claim-airline-text")
+              .style('opacity', 0)
+              .html(d.airline)
+              .transition(t)
+              .style('opacity', 1)
+            d3.select("#claim-items-text")
+              .style('opacity', 0)
+              .html(filterItems(d.oldItems))
+              .transition(t)
+              .style('opacity', 1)
+
+            d3.select("#claim-site-text")
+              .style('opacity', 0)
+              .html(d.claimSite)
+              .transition(t)
+              .style('opacity', 1)
+            d3.select("#claim-amount-text")
+              .style('opacity', 0)
+              .html(d.legitClaimAmount ? `$${d.claimAmount}` : 'Unknown')
+              .transition(t)
+              .style('opacity', 1)
+            d3.select("#claim-close-amount-text")
+              .style('opacity', 0)
+              .html(`$${d.closeAmount}`)
+              .transition(t)
+              .style('opacity', 1)
+            d3.select("#claim-disposition-text")
+              .style('opacity', 0)
+              .html(d.disposition)
+              .transition(t)
+              .style('opacity', 1)
         }
       initialRender = false
     }

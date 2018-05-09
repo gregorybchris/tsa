@@ -1,4 +1,5 @@
 airports_by_code = {}
+isFiltering = false
 totals_for_all_airports = []
 stats_for_all_airports = {
   med_claim: '$211.35',
@@ -6,8 +7,20 @@ stats_for_all_airports = {
   count: 126767,
   count_per_million_passengers: 77,
 }
+showingAllAirports = true
 function changeAirport(airport_data) {
+  d3.select("#items-svg").classed('clickable', false)
+  isFiltering = false
+    d3.select("#items-svg").selectAll(".bar")
+      .classed("clickable", !!airport_data)
+  d3.select("#dates-svg")
+    .selectAll('circle')
+    .transition()
+    .duration(300)
+    .style('opacity', 1)
+
   airport_code = airport_data && airport_data.airport_code
+  showingAllAirports = airport_code === undefined
   let items
   if (airport_code === undefined) {
     items = totals_for_all_airports
@@ -82,10 +95,13 @@ function changeAirport(airport_data) {
   svg.selectAll(".bar")
     .data(items)
     .transition(t)
+    .style("opacity", 1)
     .attr("width", d => x(d.count))
 }
 
 function setupItems() {
+
+
     let svg = d3.select("#items-svg")
     let margin = {top: 10, right: 20, bottom: 30, left: 160}
     let width = +svg.attr("width") - margin.left - margin.right
@@ -105,6 +121,21 @@ function setupItems() {
 
     function ready(error, airports) {
         if (error) throw error
+
+        svg
+          .on('click', function() {
+            svg.classed('clickable', false)
+            isFiltering = false
+              g.selectAll(".bar")
+                .transition()
+                .duration(300)
+                .style('opacity', 1)
+            d3.select("#dates-svg")
+              .selectAll('circle')
+              .transition()
+              .duration(300)
+              .style('opacity', 1)
+          })
 
         airports.forEach(function(d) {
           Object.keys(d).forEach(key => {
@@ -152,6 +183,49 @@ function setupItems() {
             .attr("height", y.bandwidth())
             .attr("y", function(d) { return y(d.category) })
             .attr("width", d => x(d.count))
+            .on('click', function(d) {
+              if (showingAllAirports) {
+                return
+              }
+              const fullOpacity = +(d3.select(this).style('opacity'))
+              const shouldStopFiltering = isFiltering && fullOpacity === 1
+
+              d3.select("#dates-svg")
+                .selectAll('circle')
+                .classed("clickable", function(d2) {
+                  if (shouldStopFiltering) {
+                    return true
+                  }
+                  return d2.newItems.find(s => s === d.category) ? true : false
+                })
+                .transition()
+                .duration(300)
+                .style('opacity', function(d2) {
+                  if (shouldStopFiltering) {
+                    return 1
+                  }
+                  return d2.newItems.find(s => s === d.category) ? 1 : 0
+                })
+                .style("pointer-events", function(d2) {
+                  if (shouldStopFiltering) {
+                    return null
+                  }
+                  return d2.newItems.find(s => s === d.category) ? null : 'none'
+                })
+
+              svg.classed('clickable', !shouldStopFiltering)
+              g.selectAll(".bar")
+                .transition()
+                .duration(300)
+                .style('opacity', function (other) {
+                  if (shouldStopFiltering) {
+                    return 1
+                  }
+                  return d.category === other.category ? 1 : 0.5
+                })
+              isFiltering = !shouldStopFiltering
+              d3.event.stopPropagation()
+            })
 /*
             .on("mousemove", function(d) {
                 let text = "<span class='tooltip-text'>" +
