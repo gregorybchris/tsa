@@ -1,6 +1,6 @@
 function setupDispositions() {
   var svg = d3.select("#dispositions-svg"),
-      margin = {top: 20, right: 20, bottom: 30, left: 70},
+      margin = {top: 20, right: 20, bottom: 50, left: 90},
       width = svg.attr("width") - margin.left - margin.right,
       height = svg.attr("height") - margin.top - margin.bottom;
 
@@ -72,10 +72,24 @@ function setupDispositions() {
       .style("font-size", 14)
 
     let claim_value = values.append("text")
-      .attr("x", width - 132)
-      .attr("y", 10)
+      .attr("x", width - 160)
+      .attr("y", 40)
       .attr("dy", "0.4em")
       .style("font-weight", "bold")
+
+      svg.append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", 30)
+          .attr("x", 0 - (height / 2))
+          .attr("dy", "10px")
+          .attr("class", "scatter-label")
+          .style("text-anchor", "middle")
+          .text("Claims")
+
+      svg.append("text")
+          .attr("transform", "translate(" + (width / 2 + 50) + ", " + (height + margin.top + 45) + ")")
+          .style("text-anchor", "middle")
+          .text("Claim Amount")
 
     svg.on("mousemove", () => {
       const x_coord = d3.mouse(g.node())[0]
@@ -169,15 +183,16 @@ function setupDispositions() {
       .attr("transform", function(d, i) { return "translate(0," + i * 40 + ")"; });
 
     legend.append("rect")
-        .attr("x", width - 35)
-        .attr("y", 25)
+        .attr("x", width - 50)
+        .attr("y", 65)
         .attr("width", 30)
         .attr("height", 30)
         .style("fill", (_, i) => COLORS[i])
+        .classed("legend-rect", true)
 
     labels = legend.append("text")
-        .attr("x", width - 45)
-        .attr("y", 38.5)
+        .attr("x", width - 60)
+        .attr("y", 80)
         .attr("dy", "0.4em")
         .text(d => d)
 
