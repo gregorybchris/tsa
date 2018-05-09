@@ -60,6 +60,10 @@ html, body {
   pointer-events: none;
 }
 
+.clickable:hover {
+	cursor: pointer;
+}
+
 /* ~ ~ ~ ~ Header ~ ~ ~ ~ */
 
 .header {
@@ -354,7 +358,68 @@ html, body {
 
 /* ~ ~ ~ ~ Claim Section ~ ~ ~ ~ */
 
+#claim-section {
+	padding: 20px 20px 0px 80px;
+	    width: 600px;
+}
 
+#claim-section-col1, #claim-section-col2 {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#claim-section-col1 {
+	width: 200px;
+}
+
+#claim-section-col2 {
+	width: 200px;
+	margin-left: 30px;
+}
+
+.claim-feature {
+	display: block;
+	padding-bottom: 6px;
+	font-size: 13px;
+	overflow: hidden;
+}
+
+.claim-feature-label {
+	display: inline-block;
+	color: @urban-grey;
+}
+
+.claim-feature-text {
+	display: inline-block;
+	color: @black;
+	text-indent: 10px;
+}
+
+#claim-empty-message {
+	color: grey;
+	font-size: 13px;
+	text-align: center;
+	margin: 10px auto;
+}
+
+#claim-section-columns {
+	display: none;
+	margin-left: 40px;
+	margin-right: 40px;
+	display: block;
+	padding: 30px;
+	border-radius: 5px;
+	/* border: 1px solid black; */
+	background-color: rgba(108, 34, 125, 0.08);
+}
+
+.claim-section-title {
+	font-size: 18px;
+	font-family: "Nexa Bold";
+	display: block;
+	text-align: center;
+	margin: 10px auto 0px;
+}
 
 /* ~ ~ ~ ~ Footer ~ ~ ~ ~ */
 

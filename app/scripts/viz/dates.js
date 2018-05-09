@@ -1,13 +1,26 @@
 let initialRender = true
 function setupDates(airport_code) {
     let svg = d3.select("#dates-svg")
+    svg.selectAll("circle")
+      .remove()
     if (airport_code === undefined && !initialRender) {
-      svg.selectAll("circle")
-        .transition()
-        .duration(500)
-        .style("opacity", 0)
+        d3.select("#claim-empty-message")
+            .html('Select an airport to get started!')
+            .style('opacity', 1)
+        d3.select("#claim-date-received-text").html('')
+        d3.select("#claim-incident-date-text").html('')
+        d3.select("#claim-airline-text").html('')
+        d3.select("#claim-items-text").html('')
+        d3.select("#claim-site-text").html('')
+        d3.select("#claim-amount-text").html('')
+        d3.select("#claim-close-amount-text").html('')
+        d3.select("#claim-disposition-text").html('')
       return
-    }
+  } else if (!initialRender) {
+      d3.select("#claim-empty-message")
+        .html('Select a claim from the scatter plot')
+        .style('opacity', 1)
+  }
     let width = 0.8 * (+svg.attr("width"))
     let height = 0.8 * (+svg.attr("height"))
 
@@ -38,14 +51,30 @@ function setupDates(airport_code) {
         formatDateUnix = date => new Date(date).getTime()
         convertDate = date => new Date(date)
 
+        // id,claim_number,date_received,incident_date,
+        // airport_code,airport_name,airline,claim_type,
+        // claim_site,claim_amount,status,close_amount,disposition
+
         claims = claims.filter(d => d.incident_date)
             .filter(d => d.close_amount)
             .map(d => ({
                 id: +d.id,
+                claimNumber: +d.claim_number,
+                airportCode: d.airport_code,
+                airportName: d.airport_name,
+                airline: d.airline,
+                claimType: d.claim_type,
+                claimNumber: d.claim_number,
+                claimAmount: +d.claim_amount,
                 closeAmount: +d.close_amount,
-                incidentString: formatDateString(d.incident_date),
+                claimSite: d.claim_site,
+                dateReceivedString: formatDateString(d.date_received),
+                incidentDateString: formatDateString(d.incident_date),
                 incidentDate: convertDate(d.incident_date),
-                incidentDateUnix: formatDateUnix(d.incident_date)
+                incidentDateUnix: formatDateUnix(d.incident_date),
+                disposition: d.disposition,
+                newItems: d.items_new.split(","),
+                oldItems: d.items_old.split("*")
             }))
 
         let xMax = d3.max(claims, d => d.incidentDate)
@@ -95,7 +124,7 @@ function setupDates(airport_code) {
         }
 
         let xAxis = d3.axisBottom(xScale)
-            .ticks(5 * width / height, "s")
+            .ticks(3, "s")
             .tickSize(-height)
             .tickFormat(tickFormat)
 
@@ -146,46 +175,74 @@ function setupDates(airport_code) {
         let circlesGroup
 
         if (initialRender) {
+            let zoom = d3.zoom()
+                // .scaleExtent([.5, 20])
+                .extent([[0, 0], [width, height]])
+                .on("zoom", zoomed)
+
+            svg.append("rect")
+                .classed("zoomable-rect", true)
+                .on("click", function(d, i) {
+                    d3.select(this).classed("clickable", false)
+                    d3.select("#claim-date-received-text").html('')
+                    d3.select("#claim-incident-date-text").html('')
+                    d3.select("#claim-airline-text").html('')
+                    d3.select("#claim-items-text").html('')
+                    d3.select("#claim-site-text").html('')
+                    d3.select("#claim-amount-text").html('')
+                    d3.select("#claim-close-amount-text").html('')
+                    d3.select("#claim-disposition-text").html('')
+                    d3.select("#claim-empty-message")
+                        .html('Select an claim from the scatter plot')
+                        .style('opacity', 1)
+                      svg.selectAll('circle')
+
+                          .style("fill", "transparent")
+                          .classed("clickable", true)
+                })
+                .attr("width", width)
+                .attr("height", height)
+                .style("fill", "none")
+                .style("pointer-events", "all")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+                .call(zoom)
+
           let circlesGroup = svg.append("g")
               .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
               .attr("clip-path", "url(#clip)")
               .classed("circles-group", true)
 
-          for (let i = 0; i < 6148; i++) {
-            circlesGroup.append('circle')
-              .attr("cx", 0)
-              .attr("cy", 0)
-              .attr("r", 3.4)
-              .style("fill", "transparent")
-              .style("stroke", "rgba(108, 34, 125, 0.7)")
-              .style("opacity", 0)
-              .style("stroke-width", 1.8)
-          }
         } else {
+
           circlesGroup = svg.select(".circles-group")
           let points = circlesGroup.selectAll("circle")
+                    .data(claims)
+                    .enter()
+                    .append('circle')
+                  .on("click", function(d, i) {
+                      updateClaimFields(claims[i])
+                      d3.select("#claim-empty-message").style('opacity', 0)
+                      d3.select(".zoomable-rect").classed('clickable', true)
+
+                        svg.selectAll('circle')
+                            .style("fill", (d, i2) => {
+                                return claims[i].id == claims[i2].id ? "rgba(108, 34, 125, 0.7)" : "transparent"
+                            })
+                            .classed("clickable", (_, i2) => claims[i].id !== claims[i2].id)
+                  })
+                  .classed("clickable", true)
+                  .attr("cx", () => (Math.random() - 0.5) * 10000)
+                  .attr("cy", () => (Math.random() - 0.5) * 10000)
                   .transition()
                   .duration(1000)
-                  .attr("cx", (_, i) => claims[i] && xScale(claims[i].incidentDate))
-                  .attr("cy", (_, i) => claims[i] && yScale(claims[i].closeAmount))
+                  .attr("cx", d => xScale(d.incidentDate))
+                  .attr("cy", d => yScale(d.closeAmount))
                   .attr("r", 3.4)
                   .style("fill", "transparent")
                   .style("stroke", "rgba(108, 34, 125, 0.7)")
                   .style("stroke-width", 1.8)
-                  .style('opacity', (_, i) => claims[i] ? 1 : 0)
 
-          let zoom = d3.zoom()
-              // .scaleExtent([.5, 20])
-              .extent([[0, 0], [width, height]])
-              .on("zoom", zoomed)
 
-          svg.append("rect")
-              .attr("width", width)
-              .attr("height", height)
-              .style("fill", "none")
-              .style("pointer-events", "all")
-              .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-              .call(zoom)
 
           function zoomed() {
               let newXScale = d3.event.transform.rescaleX(xScale)
@@ -196,6 +253,25 @@ function setupDates(airport_code) {
                   .attr("cx", (_, i) => claims[i] && newXScale(claims[i].incidentDate))
                   .attr("cy", (_, i) => claims[i] && newYScale(claims[i].closeAmount))
           }
+        }
+
+        function filterItems(items) {
+            return items.filter(function(item, i, self) {
+                return i === self.indexOf(item);
+            })
+        }
+
+        function updateClaimFields(d) {
+            console.log("Clicked", d)
+            d3.select("#claim-date-received-text").html(d.dateReceivedString)
+            d3.select("#claim-incident-date-text").html(d.incidentDateString)
+            d3.select("#claim-airline-text").html(d.airline)
+            d3.select("#claim-items-text").html(filterItems(d.oldItems))
+
+            d3.select("#claim-site-text").html(d.claimSite)
+            d3.select("#claim-amount-text").html("$" + d.claimAmount)
+            d3.select("#claim-close-amount-text").html("$" + d.closeAmount)
+            d3.select("#claim-disposition-text").html(d.disposition)
         }
       initialRender = false
     }
