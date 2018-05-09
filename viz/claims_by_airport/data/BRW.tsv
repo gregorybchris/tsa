@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-19893	1107361M	2003-11-07 00:00:00	2003-07-25 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint	1200.0	Jewelry - Fine	Denied	0.0	Deny
-88426	2006071809666	2006-07-14 00:00:00	2006-05-29 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	42.0	Clothing - Shoes, belts, accessories, etc.	Settled	21.0	Settle
-109291	2007082230666	2007-08-20 00:00:00	2007-07-31 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	3000.0	Cameras - Digital	Denied	0.0	Deny
-121689	2008042843434	2008-04-21 00:00:00	2008-04-14 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-213342	2017032338148	2017-01-30 00:00:00	2017-01-25 16:30:00	BRW	 Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		34.99	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+19893	1107361M	2003-11-07 00:00:00	2003-07-25 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint	1200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+88426	2006071809666	2006-07-14 00:00:00	2006-05-29 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	42.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	21.0	Settle
+109291	2007082230666	2007-08-20 00:00:00	2007-07-31 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+121689	2008042843434	2008-04-21 00:00:00	2008-04-14 00:00:00	BRW	Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	90.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+213342	2017032338148	2017-01-30 00:00:00	2017-01-25 16:30:00	BRW	 Wiley Post/Will Rogers Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		34.99	Approve in Full

@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-173848	2012082896310	2012-08-28 00:00:00	2012-06-27 00:00:00	PVU	Provo Municipal Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Personal Electronics		65.0	Approve in Full
-187446	2014012811202	2014-01-23 00:00:00	2013-12-27 00:00:00	PVU	Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Travel Accessories		20.0	Approve in Full
-211188	2016062432397	2016-06-08 00:00:00	2016-05-26 15:30:00	PVU	Provo Municipal Airport Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
-211189	2016101934907	2016-09-08 00:00:00	2016-08-02 00:00:00	PVU	Provo Municipal Airport Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-219455	2017062140897	2017-05-05 00:00:00	2017-04-23 00:00:00	PVU	Provo Municipal Airport Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Other			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+173848	2012082896310	2012-08-28 00:00:00	2012-06-27 00:00:00	PVU	Provo Municipal Airport	Frontier Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		65.0	Approve in Full
+187446	2014012811202	2014-01-23 00:00:00	2013-12-27 00:00:00	PVU	Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		20.0	Approve in Full
+211188	2016062432397	2016-06-08 00:00:00	2016-05-26 15:30:00	PVU	Provo Municipal Airport Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+211189	2016101934907	2016-09-08 00:00:00	2016-08-02 00:00:00	PVU	Provo Municipal Airport Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+219455	2017062140897	2017-05-05 00:00:00	2017-04-23 00:00:00	PVU	Provo Municipal Airport Provo Municipal Airport	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics,Other	Cosmetics & Grooming*Other			In Review

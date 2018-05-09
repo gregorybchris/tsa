@@ -1,23 +1,23 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-46717	2004111767279	2004-10-05 00:00:00	2004-09-18 00:00:00	OTH	North Bend Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	763.0	Other	Denied	0.0	Deny
-49457	2004122871375	2004-11-08 00:00:00	2004-10-16 00:00:00	OTH	North Bend Municipal		Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
-71934	2005092193025	2005-09-14 00:00:00	2005-08-22 00:00:00	OTH	North Bend Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	1200.0	Currency	Denied	0.0	Deny
-76070	2005121397607	2005-11-28 00:00:00	2005-11-13 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
-89464	2006081010738	2006-08-07 00:00:00	2006-07-01 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	295.9	Clothing - Shoes, belts, accessories, etc.	Approved	295.9	Approve in Full
-90744	2006083111894	2006-08-29 00:00:00	2006-08-12 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Settled	87.5	Settle
-93622	2006103014830	2006-10-25 00:00:00	2006-07-07 00:00:00	OTH	North Bend Municipal		Passenger Property Loss	Checked Baggage	60.0	Jewelry - Costume	Denied	0.0	Deny
-118398	2008022540108	2008-02-15 00:00:00	2008-01-30 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.47	Medicines	Denied	0.0	Deny
-119611	2008032041342	2008-03-12 00:00:00	2008-03-10 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	148.66	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
-125722	2008072947571	2008-07-21 00:00:00	2008-07-13 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	58.99	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Approved	58.99	Approve in Full
-151768	2010082075183	2010-08-16 00:00:00	2010-08-07 15:45:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checkpoint		Household Items			
-154914	2010113078374	2010-11-19 00:00:00	2010-11-08 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Cameras*Clothing		0.0	Deny
-157879	2011032281383	2011-02-28 00:00:00	2011-02-05 08:01:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-159095	2011050283105	2011-04-07 00:00:00	2010-11-19 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Other*Travel Accessories		0.0	Deny
-160069	2011052083625	2011-05-09 00:00:00	2011-04-24 08:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		85.0	Settle
-160512	2011060384034	2011-05-24 00:00:00	2011-05-16 13:15:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		87.99	Settle
-162874	2011082686481	2011-08-08 00:00:00	2011-07-31 09:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-165452	2011111889141	2011-11-03 00:00:00	2011-10-23 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
-169965	2012050893724	2012-04-11 00:00:00	2011-09-23 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checkpoint		Computer & Accessories		0.0	Deny
-176073	2013010999768	2012-11-20 00:00:00	2012-10-23 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses		50.0	Settle
-202134	2015050822388	2015-05-04 00:00:00	2015-04-12 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing		824.0	Approve in Full
-202135	2015080424544	2015-08-04 00:00:00	2015-07-16 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		30.0	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+46717	2004111767279	2004-10-05 00:00:00	2004-09-18 00:00:00	OTH	North Bend Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	763.0	Other	Other	Denied	0.0	Deny
+49457	2004122871375	2004-11-08 00:00:00	2004-10-16 00:00:00	OTH	North Bend Municipal		Passenger Property Loss	Checked Baggage	150.0	Other	Other	Denied	0.0	Deny
+71934	2005092193025	2005-09-14 00:00:00	2005-08-22 00:00:00	OTH	North Bend Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	1200.0	Other	Currency	Denied	0.0	Deny
+76070	2005121397607	2005-11-28 00:00:00	2005-11-13 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+89464	2006081010738	2006-08-07 00:00:00	2006-07-01 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	295.9	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	295.9	Approve in Full
+90744	2006083111894	2006-08-29 00:00:00	2006-08-12 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Other	Settled	87.5	Settle
+93622	2006103014830	2006-10-25 00:00:00	2006-07-07 00:00:00	OTH	North Bend Municipal		Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+118398	2008022540108	2008-02-15 00:00:00	2008-01-30 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.47	Supplies	Medicines	Denied	0.0	Deny
+119611	2008032041342	2008-03-12 00:00:00	2008-03-10 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	148.66	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+125722	2008072947571	2008-07-21 00:00:00	2008-07-13 00:00:00	OTH	North Bend Municipal	Alaska Airlines	Passenger Property Loss	Checked Baggage	58.99	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Approved	58.99	Approve in Full
+151768	2010082075183	2010-08-16 00:00:00	2010-08-07 15:45:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checkpoint		Household Items	Household Items			
+154914	2010113078374	2010-11-19 00:00:00	2010-11-08 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories	Cameras*Clothing		0.0	Deny
+157879	2011032281383	2011-02-28 00:00:00	2011-02-05 08:01:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+159095	2011050283105	2011-04-07 00:00:00	2010-11-19 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Other,Cosmetics	Other*Travel Accessories		0.0	Deny
+160069	2011052083625	2011-05-09 00:00:00	2011-04-24 08:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		85.0	Settle
+160512	2011060384034	2011-05-24 00:00:00	2011-05-16 13:15:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies	Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		87.99	Settle
+162874	2011082686481	2011-08-08 00:00:00	2011-07-31 09:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+165452	2011111889141	2011-11-03 00:00:00	2011-10-23 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies	Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+169965	2012050893724	2012-04-11 00:00:00	2011-09-23 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories		0.0	Deny
+176073	2013010999768	2012-11-20 00:00:00	2012-10-23 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checkpoint		Containers	Baggage/Cases/Purses		50.0	Settle
+202134	2015050822388	2015-05-04 00:00:00	2015-04-12 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		824.0	Approve in Full
+202135	2015080424544	2015-08-04 00:00:00	2015-07-16 00:00:00	OTH	North Bend Municipal	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		30.0	Approve in Full

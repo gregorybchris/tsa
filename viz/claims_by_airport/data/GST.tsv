@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-88817	2006072610061	2006-07-24 00:00:00	2006-06-28 00:00:00	GST	Gustavus	Alaska Airlines	Passenger Property Loss	Checked Baggage	80.0	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
-126872	2008081548673	2008-08-13 00:00:00	2008-08-02 00:00:00	GST	Gustavus	Alaska Airlines	Passenger Property Loss	Checkpoint	800.0	Jewelry - Fine	Denied	0.0	Deny
-198346	2015072924318	2015-07-23 00:00:00	2015-07-19 00:00:00	GST	Gustavus	Alaska Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+88817	2006072610061	2006-07-24 00:00:00	2006-06-28 00:00:00	GST	Gustavus	Alaska Airlines	Passenger Property Loss	Checked Baggage	80.0	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+126872	2008081548673	2008-08-13 00:00:00	2008-08-02 00:00:00	GST	Gustavus	Alaska Airlines	Passenger Property Loss	Checkpoint	800.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+198346	2015072924318	2015-07-23 00:00:00	2015-07-19 00:00:00	GST	Gustavus	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny

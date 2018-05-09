@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-106639	2007070927947	2007-07-02 00:00:00	2007-06-25 00:00:00	GBD	Great Bend Municipal Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage		Other	Canceled	0.0	
-183171	2013092007159	2013-08-08 00:00:00	2013-07-27 07:00:00	GBD	Great Bend Municipal Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			
-185475	2013110708840	2013-11-07 00:00:00	2013-10-09 17:00:00	GBD	Great Bend Municipal Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+106639	2007070927947	2007-07-02 00:00:00	2007-06-25 00:00:00	GBD	Great Bend Municipal Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other	Canceled	0.0	
+183171	2013092007159	2013-08-08 00:00:00	2013-07-27 07:00:00	GBD	Great Bend Municipal Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			
+185475	2013110708840	2013-11-07 00:00:00	2013-10-09 17:00:00	GBD	Great Bend Municipal Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny

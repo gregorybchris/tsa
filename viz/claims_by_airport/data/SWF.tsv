@@ -1,117 +1,117 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-2334	0206033L	2003-02-06 00:00:00	2003-01-08 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checkpoint	450.0	Other	Denied	0.0	Deny
-6082	0506041L	2003-05-06 00:00:00	2003-03-19 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	105.0	Clothing - Shoes, belts, accessories, etc.	Approved	105.0	Approve in Full
-14086	0822016M	2003-08-22 00:00:00	2003-06-30 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	932.37	Luggage (all types including footlockers)	Denied	0.0	Deny
-14704	0829100M	2003-08-29 00:00:00	2003-07-26 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	468.39	Cameras - Digital	Denied	0.0	Deny
-16534	0925122M	2003-09-25 00:00:00	2003-08-31 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.8	Other	Denied	0.0	Deny
-18388	1021310M	2003-10-21 00:00:00	2003-08-23 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	3050.0	Other	Denied	0.0	Deny
-20684	1119110M	2003-11-19 00:00:00	2003-10-10 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.95	Clothing - Shoes, belts, accessories, etc.	Approved	69.95	Approve in Full
-28718	0226113M	2004-02-26 00:00:00	2004-01-14 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	178.28	Other	Approved	178.28	Approve in Full
-31426	2004051452149	2004-03-24 00:00:00	2004-01-26 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Clothing - Shoes, belts, accessories, etc.	Settled	98.0	Settle
-32171	2004052853842	2004-04-06 00:00:00	2004-01-28 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	95.0	Other	Approved	95.0	Approve in Full
-32718	2004060654798	2004-04-20 00:00:00	2004-04-09 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
-32736	2004060654800	2004-04-20 00:00:00	2004-03-21 00:00:00	SWF	Stewart  Field	Tran Meridian Airlines	Passenger Property Loss	Checked Baggage	69.0	Other	Denied	0.0	Deny
-37730	2004070158141	2004-06-10 00:00:00	2004-04-05 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	2175.89	Jewelry - Fine	Settled	1325.89	Settle
-39265	2004071959692	2004-07-06 00:00:00	2004-05-09 00:00:00	SWF	Stewart  Field	Southeast Airlines	Passenger Property Loss	Checked Baggage	250.0	Currency	Settled	125.0	Settle
-43230	2004100664657	2004-08-24 00:00:00	2004-07-31 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Theft	Checked Baggage	149.0	Cameras - Digital	Denied	0.0	Deny
-43836	2004101364931	2004-08-31 00:00:00	2004-07-10 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Settled	236.98	Settle
-46302	2004111667175	2004-09-29 00:00:00	2004-09-12 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	120.0	Other	Denied		Deny
-46574	2004111767253	2004-10-05 00:00:00	2004-09-07 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	98.0	Other	Approved	98.0	Approve in Full
-46783	2004110866712	2004-10-05 00:00:00	2004-09-19 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	930.95	Stereo Items & Accessories	Settled	465.47	Settle
-48776	2004122270424	2004-10-29 00:00:00	2004-09-30 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	2150.0	Clothing - Shoes, belts, accessories, etc.	Settled	1075.0	Settle
-50814	2004122771055	2004-11-29 00:00:00	2004-11-19 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	19.85	Locks	Approved	19.85	Approve in Full
-52203	2005030777132	2004-12-14 00:00:00	2004-11-21 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checkpoint	208.0	Eyeglasses - (including contact lenses)	Settled	134.3	Settle
-52327	2005010572868	2004-12-17 00:00:00	2004-11-24 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	198.98	Other	Denied	0.0	Deny
-53039	2005012574182	2004-12-28 00:00:00	2004-11-29 00:00:00	SWF	Stewart  Field	Southeast Airlines	Passenger Property Loss	Checked Baggage	4.02	Luggage (all types including footlockers)	Approved	4.02	Approve in Full
-58272	2005032279240	2005-03-04 00:00:00	2005-12-06 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.3	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	70.3	Approve in Full
-59331	2005032980241	2005-03-16 00:00:00	2005-02-05 00:00:00	SWF	Stewart  Field	Independence Air	Passenger Property Loss	Checked Baggage	150.0	Jewelry - Fine	Approved	150.0	Approve in Full
-59580	2005031778647	2005-03-17 00:00:00	2004-12-06 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Theft	Checked Baggage	68.25	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
-61991	2005042183037	2005-04-19 00:00:00	2005-03-13 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	193.0	Jewelry - Fine	Approved	193.0	Approve in Full
-64937	2005060785879	2005-05-31 00:00:00	2005-05-20 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	2100.0	Computer - Laptop	Denied	0.0	Deny
-65366	2005061386347	2005-06-03 00:00:00	2005-05-22 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Approved	500.0	Approve in Full
-70452	2005082591453	2005-08-19 00:00:00	2005-07-04 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	573.73	Other	Denied	0.0	Deny
-70749	2005083091797	2005-08-24 00:00:00	2005-07-17 00:00:00	SWF	Stewart  Field	Independence Air	Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Approved	80.0	Approve in Full
-70882	2005083091902	2005-08-25 00:00:00	2005-08-10 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	189.73	Other	Settled	94.86	Settle
-71479	2005091692640	2005-09-08 00:00:00	2005-08-27 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.9	Locks	Approved	29.9	Approve in Full
-73874	2005102094958	2005-10-17 00:00:00	2005-08-13 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	23.31	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-74557	2005110795691	2005-10-27 00:00:00	2005-10-12 00:00:00	SWF	Stewart  Field	UAL	Passenger Property Loss	Checked Baggage	7.0	Other	Denied	0.0	Deny
-80973	2006022402127	2006-02-21 00:00:00	2006-01-19 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	47.05	Cameras - Digital	Denied	0.0	Deny
-81958	2006031503140	2006-03-09 00:00:00	2006-02-05 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checkpoint	399.0	Cameras - Digital	Denied	0.0	Deny
-85743	2006052507000	2006-05-23 00:00:00	2006-04-25 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	1057.96	Computer - Laptop	Denied	0.0	Deny
-88720	2006072109867	2006-07-20 00:00:00	2006-06-30 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	1848.0	Jewelry - Fine	Settled	462.0	Settle
-91471	2006091512592	2006-09-12 00:00:00	2006-08-27 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	33.62	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-91950	2006092513210	2006-09-21 00:00:00	2006-08-06 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	41.5	Brushes - Hair, Clothes, etc.*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-93491	2006102614669	2006-10-23 00:00:00	2006-10-15 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checkpoint	26.05	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-95188	2006113016564	2006-11-27 00:00:00	2006-09-28 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	30.0	Jewelry - Costume	Canceled	0.0	
-96337	2006122117677	2006-12-18 00:00:00	2006-11-23 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checkpoint	18.81	Other	Denied	0.0	Deny
-97008	2004051452008		2004-02-11 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-97953	2007011919027	2007-01-11 00:00:00	2007-01-03 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	81.56	DVD/CD Players*Luggage (all types including footlockers)	Denied	0.0	Deny
-98935	2007020520231	2007-01-29 00:00:00	2007-01-21 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	995.0	Hearing Aids	Canceled	0.0	
-99610	2007021220743	2007-02-08 00:00:00	2007-01-27 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	37.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-99733	2007021220820	2007-02-12 00:00:00	2007-01-27 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	2000.0	Jewelry - Fine	Denied	0.0	Deny
-99831	2007021621071	2007-02-13 00:00:00	2007-01-18 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	80.0	Bags - Fabric, plastic, etc. (not purses)	Canceled	0.0	
-100344	2007022621527	2007-02-23 00:00:00	2007-01-26 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	236.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Settled	59.0	Settle
-100543	2007030221822	2007-02-28 00:00:00	2007-02-06 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
-100990	2007031322173	2007-03-09 00:00:00	2007-02-20 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
-101033	2007031522311	2007-03-09 00:00:00	2006-11-28 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
-101283	2007032122684	2007-03-14 00:00:00	2007-03-03 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	170.0	Clothing - Shoes, belts, accessories, etc.	Settled	85.0	Settle
-103261	2007042624500	2007-04-23 00:00:00	2007-03-22 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	165.15	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-103436	2007042724633	2007-04-26 00:00:00	2007-03-22 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	267.99	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-103785	2007050925146	2007-05-03 00:00:00	2007-04-07 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	12.0	Locks	Denied	0.0	Deny
-103886	2007050925154	2007-05-07 00:00:00	2007-04-16 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	39.0	Cameras - Digital*Cell Phones	Denied	0.0	Deny
-105161	2007060426222	2007-06-01 00:00:00	2007-02-07 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	140.0	Clothing - Shoes, belts, accessories, etc.	Settled	70.0	Settle
-105469	2007061326815	2007-06-07 00:00:00	2007-05-28 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	344.0	Eyeglasses - (including contact lenses)	Canceled	0.0	
-105877	2007062027245	2007-06-15 00:00:00	2007-04-28 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	450.0	Eyeglasses - (including contact lenses)	Approved	450.0	Approve in Full
-105950	2007062127289	2007-06-18 00:00:00	2007-06-12 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	450.0	Cameras - Digital	Canceled	0.0	
-106289	2007070227713	2007-06-25 00:00:00	2007-06-18 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	21.0	Clothing - Shoes, belts, accessories, etc.	Approved	21.0	Approve in Full
-107117	2007071628406	2007-07-11 00:00:00	2007-06-26 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	199.93	Eyeglasses - (including contact lenses)	Approved	199.93	Approve in Full
-107183	2007071628372	2007-07-12 00:00:00	2007-07-08 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	450.0	MP3 Players-(iPods, etc)*Watches - Inexpensive $100 or less	Denied	0.0	Deny
-107487	2007072028749	2007-07-18 00:00:00	2007-07-03 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	8.17	Locks	Approved	8.17	Approve in Full
-107783	2007072629104	2007-07-24 00:00:00	2007-06-21 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	304.26	Eyeglasses - (including contact lenses)	Approved	304.26	Approve in Full
-108312	2007080329560	2007-08-01 00:00:00	2007-07-17 00:00:00	SWF	Stewart  Field	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Settled	89.95	Settle
-109343	2007082130602	2007-08-21 00:00:00	2007-08-17 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	499.99	Cameras - Digital	Denied	0.0	Deny
-109364	2007082330691	2007-08-21 00:00:00	2007-08-12 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	5300.0	Jewelry - Fine	Denied	0.0	Deny
-109403	2007082430885	2007-08-21 00:00:00	2007-07-26 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1051.6	Jewelry - Fine	Denied	0.0	Deny
-109481	2007082430823	2007-08-22 00:00:00	2007-07-25 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	34.99	Other	Denied	0.0	Deny
-109787	2007082931140	2007-08-27 00:00:00	2007-08-19 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	15.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-110617	2007091732014	2007-09-12 00:00:00	2007-09-04 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	200.0	Cameras - Digital	Denied	0.0	Deny
-110946	2007092132389	2007-09-19 00:00:00	2007-01-25 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	7.47	Locks	Approved	7.47	Approve in Full
-111013	2007100232823	2007-09-19 00:00:00	2007-08-21 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-111196	2007092732632	2007-09-24 00:00:00	2007-09-15 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	135.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-111210	2007092732685	2007-09-24 00:00:00	2007-08-26 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Luggage (all types including footlockers)*Other	Denied	0.0	Deny
-111627	2007100432989	2007-10-03 00:00:00	2007-09-25 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Medical Equipment & Insturments	Denied	0.0	Deny
-112333	2007102233767	2007-10-17 00:00:00	2007-10-04 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	19.95	Other	Denied	0.0	Deny
-115485	2007122736984	2007-12-20 00:00:00	2007-12-01 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	538.0	Currency	Denied	0.0	Deny
-115875	2008010837520	2007-12-31 00:00:00	2007-11-11 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1331.0	Computer - Laptop	Denied	0.0	Deny
-116975	2008012538646	2008-01-17 00:00:00	2008-01-13 00:00:00	SWF	Stewart  Field	SkyBus	Passenger Property Loss	Checkpoint	957.65	Jewelry - Fine	Denied	0.0	Deny
-117420	2008020139008	2008-01-28 00:00:00	2008-01-16 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	167.08	Clothing - Shoes, belts, accessories, etc.	Approved	167.08	Approve in Full
-118229	2008022039881	2008-02-12 00:00:00	2007-11-09 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	98.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
-121391	2008042243163	2008-04-15 00:00:00	2008-03-16 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	39.95	Clothing - Shoes, belts, accessories, etc.	Approved	39.95	Approve in Full
-123929	2008061345617	2008-06-09 00:00:00	2008-05-13 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	48.0	Cell Phones*MP3 Players-(iPods, etc)*Watches - Inexpensive $100 or less	Denied	0.0	Deny
-125031	2008070946698	2008-07-03 00:00:00	2008-07-01 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	13.1	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-126115	2008080147902	2008-07-28 00:00:00	2008-06-25 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	79.0	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
-126940	2008081848748	2008-08-14 00:00:00	2008-07-25 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	63.09	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
-127121	2008081348510	2008-08-19 00:00:00	2008-06-24 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checkpoint	197.83	Cameras - Digital	Canceled	0.0	
-128520	2008092550462	2008-09-19 00:00:00	2008-08-11 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	161.89	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)*Other	Denied	0.0	Deny
-128586	2008092450350	2008-09-22 00:00:00	2008-08-17 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	1819.79	Computer - Laptop	Denied	0.0	Deny
-131106	2008120152925	2008-11-26 00:00:00	2008-11-20 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	200.03	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-132023	2008123053852	2008-12-22 00:00:00	2008-12-02 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	18.0	Locks	Denied	0.0	Deny
-134224	2009031756388	2009-02-19 00:00:00	2008-09-01 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	24548.3	Medical Equipment & Insturments	Denied	0.0	Deny
-137784	2009060259730	2009-05-29 00:00:00	2009-05-12 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	222.98	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-145590	2010022068594	2010-02-01 00:00:00	2010-01-01 09:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checkpoint		Medical/Science		0.0	Deny
-147913	2010042371107	2010-04-20 00:00:00	2010-03-25 06:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing		0.0	Deny
-151349	2010081274731	2010-08-04 00:00:00	2010-07-22 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-151787	2010081975035	2010-08-17 00:00:00	2010-07-21 16:29:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Toys & Games		0.0	Deny
-156949	2011022380389	2011-01-26 00:00:00	2011-01-24 10:15:00	SWF	Stewart  Field		Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
-158967	2011041382425	2011-04-04 00:00:00	2011-02-28 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-159165	2011041482570	2011-04-11 00:00:00	2011-02-22 07:46:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Medical/Science		46.25	Settle
-160952	2011062184470	2011-06-08 00:00:00	2011-05-17 05:30:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-167917	2012030791580	2012-01-30 00:00:00	2012-01-10 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
-168458	2012032792164	2012-02-15 00:00:00	2012-01-18 12:30:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			
-169625	2012042593213	2012-03-29 00:00:00	2012-03-12 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
-185380	2013110308633	2013-11-03 00:00:00	2013-10-20 06:30:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checkpoint		Currency		400.0	Approve in Full
-190283	2014052014099	2014-05-16 00:00:00	2014-04-10 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-203919	2015031021119	2015-03-09 00:00:00	2015-01-01 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing*Clothing*Travel Accessories		0.0	Deny
-212179	2016051931465	2016-05-05 00:00:00	2016-03-26 00:00:00	SWF	Stewart  Field Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-220495	2017030237814	2017-01-20 00:00:00	2017-01-01 16:00:00	SWF	Stewart  Field Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Audio/Video		0.0	Deny
-220497	2017121946097	2017-11-28 00:00:00	2017-11-12 00:00:00	SWF	Stewart  Field Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+2334	0206033L	2003-02-06 00:00:00	2003-01-08 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checkpoint	450.0	Other	Other	Denied	0.0	Deny
+6082	0506041L	2003-05-06 00:00:00	2003-03-19 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	105.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	105.0	Approve in Full
+14086	0822016M	2003-08-22 00:00:00	2003-06-30 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	932.37	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+14704	0829100M	2003-08-29 00:00:00	2003-07-26 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	468.39	Electronics	Cameras - Digital	Denied	0.0	Deny
+16534	0925122M	2003-09-25 00:00:00	2003-08-31 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	42.8	Other	Other	Denied	0.0	Deny
+18388	1021310M	2003-10-21 00:00:00	2003-08-23 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	3050.0	Other	Other	Denied	0.0	Deny
+20684	1119110M	2003-11-19 00:00:00	2003-10-10 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	69.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	69.95	Approve in Full
+28718	0226113M	2004-02-26 00:00:00	2004-01-14 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	178.28	Other	Other	Approved	178.28	Approve in Full
+31426	2004051452149	2004-03-24 00:00:00	2004-01-26 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	98.0	Settle
+32171	2004052853842	2004-04-06 00:00:00	2004-01-28 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	95.0	Other	Other	Approved	95.0	Approve in Full
+32718	2004060654798	2004-04-20 00:00:00	2004-04-09 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
+32736	2004060654800	2004-04-20 00:00:00	2004-03-21 00:00:00	SWF	Stewart  Field	Tran Meridian Airlines	Passenger Property Loss	Checked Baggage	69.0	Other	Other	Denied	0.0	Deny
+37730	2004070158141	2004-06-10 00:00:00	2004-04-05 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	2175.89	Watches & Jewelry	Jewelry - Fine	Settled	1325.89	Settle
+39265	2004071959692	2004-07-06 00:00:00	2004-05-09 00:00:00	SWF	Stewart  Field	Southeast Airlines	Passenger Property Loss	Checked Baggage	250.0	Other	Currency	Settled	125.0	Settle
+43230	2004100664657	2004-08-24 00:00:00	2004-07-31 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Theft	Checked Baggage	149.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+43836	2004101364931	2004-08-31 00:00:00	2004-07-10 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Settled	236.98	Settle
+46302	2004111667175	2004-09-29 00:00:00	2004-09-12 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	120.0	Other	Other	Denied		Deny
+46574	2004111767253	2004-10-05 00:00:00	2004-09-07 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	98.0	Other	Other	Approved	98.0	Approve in Full
+46783	2004110866712	2004-10-05 00:00:00	2004-09-19 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	930.95	Electronics	Stereo Items & Accessories	Settled	465.47	Settle
+48776	2004122270424	2004-10-29 00:00:00	2004-09-30 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	2150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	1075.0	Settle
+50814	2004122771055	2004-11-29 00:00:00	2004-11-19 00:00:00	SWF	Stewart  Field	Southwest Airlines	Passenger Property Loss	Checked Baggage	19.85	Tools & Machines	Locks	Approved	19.85	Approve in Full
+52203	2005030777132	2004-12-14 00:00:00	2004-11-21 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checkpoint	208.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	134.3	Settle
+52327	2005010572868	2004-12-17 00:00:00	2004-11-24 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	198.98	Other	Other	Denied	0.0	Deny
+53039	2005012574182	2004-12-28 00:00:00	2004-11-29 00:00:00	SWF	Stewart  Field	Southeast Airlines	Passenger Property Loss	Checked Baggage	4.02	Containers	Luggage (all types including footlockers)	Approved	4.02	Approve in Full
+58272	2005032279240	2005-03-04 00:00:00	2005-12-06 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.3	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	70.3	Approve in Full
+59331	2005032980241	2005-03-16 00:00:00	2005-02-05 00:00:00	SWF	Stewart  Field	Independence Air	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Jewelry - Fine	Approved	150.0	Approve in Full
+59580	2005031778647	2005-03-17 00:00:00	2004-12-06 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Theft	Checked Baggage	68.25	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
+61991	2005042183037	2005-04-19 00:00:00	2005-03-13 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	193.0	Watches & Jewelry	Jewelry - Fine	Approved	193.0	Approve in Full
+64937	2005060785879	2005-05-31 00:00:00	2005-05-20 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	2100.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+65366	2005061386347	2005-06-03 00:00:00	2005-05-22 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Jewelry - Fine	Approved	500.0	Approve in Full
+70452	2005082591453	2005-08-19 00:00:00	2005-07-04 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	573.73	Other	Other	Denied	0.0	Deny
+70749	2005083091797	2005-08-24 00:00:00	2005-07-17 00:00:00	SWF	Stewart  Field	Independence Air	Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	80.0	Approve in Full
+70882	2005083091902	2005-08-25 00:00:00	2005-08-10 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	189.73	Other	Other	Settled	94.86	Settle
+71479	2005091692640	2005-09-08 00:00:00	2005-08-27 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.9	Tools & Machines	Locks	Approved	29.9	Approve in Full
+73874	2005102094958	2005-10-17 00:00:00	2005-08-13 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	23.31	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+74557	2005110795691	2005-10-27 00:00:00	2005-10-12 00:00:00	SWF	Stewart  Field	UAL	Passenger Property Loss	Checked Baggage	7.0	Other	Other	Denied	0.0	Deny
+80973	2006022402127	2006-02-21 00:00:00	2006-01-19 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	47.05	Electronics	Cameras - Digital	Denied	0.0	Deny
+81958	2006031503140	2006-03-09 00:00:00	2006-02-05 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checkpoint	399.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+85743	2006052507000	2006-05-23 00:00:00	2006-04-25 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	1057.96	Electronics	Computer - Laptop	Denied	0.0	Deny
+88720	2006072109867	2006-07-20 00:00:00	2006-06-30 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	1848.0	Watches & Jewelry	Jewelry - Fine	Settled	462.0	Settle
+91471	2006091512592	2006-09-12 00:00:00	2006-08-27 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	33.62	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+91950	2006092513210	2006-09-21 00:00:00	2006-08-06 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	41.5	Cosmetics,Clothing & Accessories	Brushes - Hair, Clothes, etc.*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+93491	2006102614669	2006-10-23 00:00:00	2006-10-15 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checkpoint	26.05	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+95188	2006113016564	2006-11-27 00:00:00	2006-09-28 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	30.0	Watches & Jewelry	Jewelry - Costume	Canceled	0.0	
+96337	2006122117677	2006-12-18 00:00:00	2006-11-23 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checkpoint	18.81	Other	Other	Denied	0.0	Deny
+97008	2004051452008		2004-02-11 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+97953	2007011919027	2007-01-11 00:00:00	2007-01-03 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	81.56	Electronics,Containers	DVD/CD Players*Luggage (all types including footlockers)	Denied	0.0	Deny
+98935	2007020520231	2007-01-29 00:00:00	2007-01-21 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	995.0	Electronics	Hearing Aids	Canceled	0.0	
+99610	2007021220743	2007-02-08 00:00:00	2007-01-27 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	37.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+99733	2007021220820	2007-02-12 00:00:00	2007-01-27 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+99831	2007021621071	2007-02-13 00:00:00	2007-01-18 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	80.0	Containers	Bags - Fabric, plastic, etc. (not purses)	Canceled	0.0	
+100344	2007022621527	2007-02-23 00:00:00	2007-01-26 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	236.0	Cosmetics,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Settled	59.0	Settle
+100543	2007030221822	2007-02-28 00:00:00	2007-02-06 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+100990	2007031322173	2007-03-09 00:00:00	2007-02-20 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+101033	2007031522311	2007-03-09 00:00:00	2006-11-28 00:00:00	SWF	Stewart  Field	Northwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Containers	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+101283	2007032122684	2007-03-14 00:00:00	2007-03-03 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	170.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	85.0	Settle
+103261	2007042624500	2007-04-23 00:00:00	2007-03-22 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	165.15	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+103436	2007042724633	2007-04-26 00:00:00	2007-03-22 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	267.99	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+103785	2007050925146	2007-05-03 00:00:00	2007-04-07 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Locks	Denied	0.0	Deny
+103886	2007050925154	2007-05-07 00:00:00	2007-04-16 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	39.0	Electronics,Electronics	Cameras - Digital*Cell Phones	Denied	0.0	Deny
+105161	2007060426222	2007-06-01 00:00:00	2007-02-07 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	140.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	70.0	Settle
+105469	2007061326815	2007-06-07 00:00:00	2007-05-28 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	344.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Canceled	0.0	
+105877	2007062027245	2007-06-15 00:00:00	2007-04-28 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	450.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	450.0	Approve in Full
+105950	2007062127289	2007-06-18 00:00:00	2007-06-12 00:00:00	SWF	Stewart  Field	American Airlines	Passenger Property Loss	Checked Baggage	450.0	Electronics	Cameras - Digital	Canceled	0.0	
+106289	2007070227713	2007-06-25 00:00:00	2007-06-18 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	21.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	21.0	Approve in Full
+107117	2007071628406	2007-07-11 00:00:00	2007-06-26 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	199.93	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	199.93	Approve in Full
+107183	2007071628372	2007-07-12 00:00:00	2007-07-08 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	450.0	Electronics,Watches & Jewelry	MP3 Players-(iPods, etc)*Watches - Inexpensive $100 or less	Denied	0.0	Deny
+107487	2007072028749	2007-07-18 00:00:00	2007-07-03 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	8.17	Tools & Machines	Locks	Approved	8.17	Approve in Full
+107783	2007072629104	2007-07-24 00:00:00	2007-06-21 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	304.26	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	304.26	Approve in Full
+108312	2007080329560	2007-08-01 00:00:00	2007-07-17 00:00:00	SWF	Stewart  Field	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	89.95	Settle
+109343	2007082130602	2007-08-21 00:00:00	2007-08-17 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	499.99	Electronics	Cameras - Digital	Denied	0.0	Deny
+109364	2007082330691	2007-08-21 00:00:00	2007-08-12 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	5300.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+109403	2007082430885	2007-08-21 00:00:00	2007-07-26 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	1051.6	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+109481	2007082430823	2007-08-22 00:00:00	2007-07-25 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	34.99	Other	Other	Denied	0.0	Deny
+109787	2007082931140	2007-08-27 00:00:00	2007-08-19 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	15.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+110617	2007091732014	2007-09-12 00:00:00	2007-09-04 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	200.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+110946	2007092132389	2007-09-19 00:00:00	2007-01-25 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	7.47	Tools & Machines	Locks	Approved	7.47	Approve in Full
+111013	2007100232823	2007-09-19 00:00:00	2007-08-21 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+111196	2007092732632	2007-09-24 00:00:00	2007-09-15 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	135.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+111210	2007092732685	2007-09-24 00:00:00	2007-08-26 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Containers,Other	Luggage (all types including footlockers)*Other	Denied	0.0	Deny
+111627	2007100432989	2007-10-03 00:00:00	2007-09-25 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Scientific Intruments	Medical Equipment & Insturments	Denied	0.0	Deny
+112333	2007102233767	2007-10-17 00:00:00	2007-10-04 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	19.95	Other	Other	Denied	0.0	Deny
+115485	2007122736984	2007-12-20 00:00:00	2007-12-01 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	538.0	Other	Currency	Denied	0.0	Deny
+115875	2008010837520	2007-12-31 00:00:00	2007-11-11 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	1331.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+116975	2008012538646	2008-01-17 00:00:00	2008-01-13 00:00:00	SWF	Stewart  Field	SkyBus	Passenger Property Loss	Checkpoint	957.65	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+117420	2008020139008	2008-01-28 00:00:00	2008-01-16 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	167.08	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	167.08	Approve in Full
+118229	2008022039881	2008-02-12 00:00:00	2007-11-09 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	98.0	Cosmetics,Containers	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+121391	2008042243163	2008-04-15 00:00:00	2008-03-16 00:00:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage	39.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	39.95	Approve in Full
+123929	2008061345617	2008-06-09 00:00:00	2008-05-13 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	48.0	Electronics,Electronics,Watches & Jewelry	Cell Phones*MP3 Players-(iPods, etc)*Watches - Inexpensive $100 or less	Denied	0.0	Deny
+125031	2008070946698	2008-07-03 00:00:00	2008-07-01 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	13.1	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+126115	2008080147902	2008-07-28 00:00:00	2008-06-25 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	79.0	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Denied	0.0	Deny
+126940	2008081848748	2008-08-14 00:00:00	2008-07-25 00:00:00	SWF	Stewart  Field	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	63.09	Clothing & Accessories,Containers	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+127121	2008081348510	2008-08-19 00:00:00	2008-06-24 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checkpoint	197.83	Electronics	Cameras - Digital	Canceled	0.0	
+128520	2008092550462	2008-09-19 00:00:00	2008-08-11 00:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checked Baggage	161.89	Cosmetics,Household Items,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)*Other	Denied	0.0	Deny
+128586	2008092450350	2008-09-22 00:00:00	2008-08-17 00:00:00	SWF	Stewart  Field	AirTran Airlines	Passenger Property Loss	Checked Baggage	1819.79	Electronics	Computer - Laptop	Denied	0.0	Deny
+131106	2008120152925	2008-11-26 00:00:00	2008-11-20 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	200.03	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+132023	2008123053852	2008-12-22 00:00:00	2008-12-02 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	18.0	Tools & Machines	Locks	Denied	0.0	Deny
+134224	2009031756388	2009-02-19 00:00:00	2008-09-01 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage	24548.3	Scientific Intruments	Medical Equipment & Insturments	Denied	0.0	Deny
+137784	2009060259730	2009-05-29 00:00:00	2009-05-12 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage	222.98	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+145590	2010022068594	2010-02-01 00:00:00	2010-01-01 09:00:00	SWF	Stewart  Field	USAir	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		0.0	Deny
+147913	2010042371107	2010-04-20 00:00:00	2010-03-25 06:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		0.0	Deny
+151349	2010081274731	2010-08-04 00:00:00	2010-07-22 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+151787	2010081975035	2010-08-17 00:00:00	2010-07-21 16:29:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games		0.0	Deny
+156949	2011022380389	2011-01-26 00:00:00	2011-01-24 10:15:00	SWF	Stewart  Field		Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+158967	2011041382425	2011-04-04 00:00:00	2011-02-28 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+159165	2011041482570	2011-04-11 00:00:00	2011-02-22 07:46:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		46.25	Settle
+160952	2011062184470	2011-06-08 00:00:00	2011-05-17 05:30:00	SWF	Stewart  Field		Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+167917	2012030791580	2012-01-30 00:00:00	2012-01-10 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+168458	2012032792164	2012-02-15 00:00:00	2012-01-18 12:30:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+169625	2012042593213	2012-03-29 00:00:00	2012-03-12 00:00:00	SWF	Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+185380	2013110308633	2013-11-03 00:00:00	2013-10-20 06:30:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checkpoint		Other	Currency		400.0	Approve in Full
+190283	2014052014099	2014-05-16 00:00:00	2014-04-10 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+203919	2015031021119	2015-03-09 00:00:00	2015-01-01 00:00:00	SWF	Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Clothing & Accessories,Cosmetics	Baggage/Cases/Purses*Clothing*Clothing*Travel Accessories		0.0	Deny
+212179	2016051931465	2016-05-05 00:00:00	2016-03-26 00:00:00	SWF	Stewart  Field Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+220495	2017030237814	2017-01-20 00:00:00	2017-01-01 16:00:00	SWF	Stewart  Field Stewart  Field	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video		0.0	Deny
+220497	2017121946097	2017-11-28 00:00:00	2017-11-12 00:00:00	SWF	Stewart  Field Stewart  Field	Jet Blue	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review

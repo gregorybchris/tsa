@@ -1,22 +1,22 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-10584	0711039M	2003-07-11 00:00:00	2003-06-16 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Southwest Airlines	Passenger Property Loss	Checked Baggage	727.0	Jewelry - Fine	Denied		Deny
-72629	2005100393776	2005-09-23 00:00:00	2005-08-16 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	269.5	Cameras - Digital	Denied	0.0	Deny
-87715	2006070508940	2006-07-03 00:00:00	2006-05-21 00:00:00	SIT	Sitka 'Rocky Guitierrez'		Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-87828	2006070709115	2006-07-06 00:00:00	2006-06-25 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
-90330	2006082311474	2006-08-22 00:00:00	2006-07-31 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Horizon Air	Passenger Property Loss	Checked Baggage	36.64	Other	Denied	0.0	Deny
-90544	2006083011804	2006-08-25 00:00:00	2006-08-21 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	1300.0	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Video Recordings (blank & commercial)	Denied	0.0	Deny
-91060	2006091412516	2006-09-05 00:00:00	2006-07-11 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	464.41	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
-93534	2006110114932	2006-10-23 00:00:00	2006-07-04 00:00:00	SIT	Sitka 'Rocky Guitierrez'	American Airlines	Passenger Property Loss	Checked Baggage	591.64	Hearing Aids	Denied	0.0	Deny
-95940	2006121517295	2006-12-09 00:00:00	2006-12-01 00:00:00	SIT	Sitka 'Rocky Guitierrez'		Passenger Property Loss	Checked Baggage	500.0	Medicines	Settled	178.96	Settle
-98141	2007012319218	2007-01-16 00:00:00	2006-12-03 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checkpoint	689.0	Camping Equipment & Supplies	Denied	0.0	Deny
-98962	2007020120038	2007-01-29 00:00:00	2007-01-16 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	270.75	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-105652	2007061426948	2007-06-11 00:00:00	2007-05-04 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	43.5	Locks*Other	Denied	0.0	Deny
-108152	2007080229495	2007-07-30 00:00:00	2007-07-12 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	120.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-115058	2007121436524	2007-12-11 00:00:00	2007-11-25 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	399.0	Flashlights*Other	Settled	124.3	Settle
-123425	2008060245122	2008-05-28 00:00:00	2008-05-10 00:00:00	SIT	Sitka 'Rocky Guitierrez'		Passenger Property Loss	Checked Baggage	11.24	Locks	Denied	0.0	Deny
-123519	2008060245137	2008-05-30 00:00:00	2008-05-28 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-132607	2008110551954	2009-01-08 00:00:00	2008-09-09 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checkpoint	177.16	Cameras - Digital	Denied	0.0	Deny
-150627	2010071773854	2010-07-14 00:00:00	2010-06-26 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
-153390	2010091275889	2010-10-04 00:00:00	2010-09-04 10:35:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-170368	2012050993767	2012-04-26 00:00:00	2012-04-17 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras		180.0	Settle
-186792	2014102117897	2014-10-07 00:00:00	2014-08-15 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+10584	0711039M	2003-07-11 00:00:00	2003-06-16 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Southwest Airlines	Passenger Property Loss	Checked Baggage	727.0	Watches & Jewelry	Jewelry - Fine	Denied		Deny
+72629	2005100393776	2005-09-23 00:00:00	2005-08-16 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	269.5	Electronics	Cameras - Digital	Denied	0.0	Deny
+87715	2006070508940	2006-07-03 00:00:00	2006-05-21 00:00:00	SIT	Sitka 'Rocky Guitierrez'		Passenger Property Loss	Checked Baggage	100.0	Other	Other	Denied	0.0	Deny
+87828	2006070709115	2006-07-06 00:00:00	2006-06-25 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+90330	2006082311474	2006-08-22 00:00:00	2006-07-31 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Horizon Air	Passenger Property Loss	Checked Baggage	36.64	Other	Other	Denied	0.0	Deny
+90544	2006083011804	2006-08-25 00:00:00	2006-08-21 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	1300.0	Containers,Electronics,Electronics	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Video Recordings (blank & commercial)	Denied	0.0	Deny
+91060	2006091412516	2006-09-05 00:00:00	2006-07-11 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	464.41	Containers,Electronics,Electronics,Clothing & Accessories	Bags - Fabric, plastic, etc. (not purses)*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+93534	2006110114932	2006-10-23 00:00:00	2006-07-04 00:00:00	SIT	Sitka 'Rocky Guitierrez'	American Airlines	Passenger Property Loss	Checked Baggage	591.64	Electronics	Hearing Aids	Denied	0.0	Deny
+95940	2006121517295	2006-12-09 00:00:00	2006-12-01 00:00:00	SIT	Sitka 'Rocky Guitierrez'		Passenger Property Loss	Checked Baggage	500.0	Supplies	Medicines	Settled	178.96	Settle
+98141	2007012319218	2007-01-16 00:00:00	2006-12-03 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checkpoint	689.0	Outdoors Supplies	Camping Equipment & Supplies	Denied	0.0	Deny
+98962	2007020120038	2007-01-29 00:00:00	2007-01-16 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	270.75	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+105652	2007061426948	2007-06-11 00:00:00	2007-05-04 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	43.5	Tools & Machines,Other	Locks*Other	Denied	0.0	Deny
+108152	2007080229495	2007-07-30 00:00:00	2007-07-12 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	120.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+115058	2007121436524	2007-12-11 00:00:00	2007-11-25 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	399.0	Electronics,Other	Flashlights*Other	Settled	124.3	Settle
+123425	2008060245122	2008-05-28 00:00:00	2008-05-10 00:00:00	SIT	Sitka 'Rocky Guitierrez'		Passenger Property Loss	Checked Baggage	11.24	Tools & Machines	Locks	Denied	0.0	Deny
+123519	2008060245137	2008-05-30 00:00:00	2008-05-28 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Other	Other	Denied	0.0	Deny
+132607	2008110551954	2009-01-08 00:00:00	2008-09-09 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checkpoint	177.16	Electronics	Cameras - Digital	Denied	0.0	Deny
+150627	2010071773854	2010-07-14 00:00:00	2010-06-26 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+153390	2010091275889	2010-10-04 00:00:00	2010-09-04 10:35:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+170368	2012050993767	2012-04-26 00:00:00	2012-04-17 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		180.0	Settle
+186792	2014102117897	2014-10-07 00:00:00	2014-08-15 00:00:00	SIT	Sitka 'Rocky Guitierrez'	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			

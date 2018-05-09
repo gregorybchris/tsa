@@ -1,26 +1,26 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-39640	2004081060968	2004-07-09 00:00:00	2004-06-26 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checked Baggage	4.95	Luggage (all types including footlockers)	Closed as a contractor claim	0.0	
-39905	2004081261248	2004-07-12 00:00:00	2004-03-16 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checked Baggage	39.43	Other	Closed as a contractor claim	0.0	
-41747	2004090261970	2004-08-05 00:00:00	2004-07-18 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.95	Other	Canceled	0.0	
-42266	2004092763932	2004-08-10 00:00:00	2004-06-25 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checkpoint	4425.0	Jewelry - Fine	Canceled	0.0	
-42823	2004092263513	2004-08-19 00:00:00	2004-06-22 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checkpoint	150.0	Locks	Closed as a contractor claim	0.0	
-46405	2004111767280	2004-10-01 00:00:00	2004-07-19 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checkpoint	75.0	Other	Canceled		
-46460	2004111767209	2004-10-04 00:00:00	2004-09-18 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checked Baggage	27.05	Clothing - Shoes, belts, accessories, etc.	Approved	27.05	Approve in Full
-50560	2004122871392	2004-11-23 00:00:00	2004-10-28 00:00:00	JAC	Jackson Hole	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
-50903	2004122871277	2004-11-29 00:00:00	2004-11-21 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checked Baggage	33.28	Other	Denied	0.0	Deny
-53699	2005012674326	2005-01-06 00:00:00	2004-12-22 00:00:00	JAC	Jackson Hole	Northwest Airlines	Passenger Property Loss	Checked Baggage	205.58	Cameras - Digital	Closed as a contractor claim	0.0	
-57556	2005032379422	2005-02-18 00:00:00	2005-02-13 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.95	Other	Closed as a contractor claim	0.0	
-58526	2005030777058	2005-03-07 00:00:00	2004-12-28 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.68	Other	Canceled	0.0	
-59392	2005032980345	2005-03-16 00:00:00	2005-03-01 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checked Baggage	20.95	Other	Closed as a contractor claim	0.0	
-61016	2005040882008	2005-04-06 00:00:00	2005-03-04 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	110.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
-63956	2005062487197	2005-05-16 00:00:00	2005-05-11 00:00:00	JAC	Jackson Hole	Northwest Airlines	Passenger Property Loss	Checked Baggage	299.9	Eyeglasses - (including contact lenses)	Closed as a contractor claim	0.0	
-68601	2005072589634	2005-07-22 00:00:00	2005-07-10 00:00:00	JAC	Jackson Hole	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Closed as a contractor claim	0.0	
-70167	2005082391219	2005-08-16 00:00:00	2005-08-01 00:00:00	JAC	Jackson Hole	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Other	Closed as a contractor claim	0.0	
-71276	2005090892297	2005-09-01 00:00:00	2005-08-25 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	110.0	Other	Closed as a contractor claim	0.0	
-73339	2005101294385	2005-10-05 00:00:00	2005-09-19 00:00:00	JAC	Jackson Hole	American Airlines	Passenger Property Loss	Checked Baggage	346.13	Other	Closed as a contractor claim	0.0	
-81523	2006030802826	2006-03-02 00:00:00	2006-02-10 00:00:00	JAC	Jackson Hole	Continental Airlines	Passenger Property Loss	Checked Baggage	122.95	Luggage (all types including footlockers)	Closed as a contractor claim	0.0	
-91342	2006091812725	2006-09-11 00:00:00	2006-08-16 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checked Baggage	16.52	Other	Closed as a contractor claim	0.0	
-175555	2012121999307	2012-10-31 00:00:00	2012-10-19 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cameras*Cameras		0.0	Deny
-194090	2014102417984	2014-10-20 00:00:00	2014-09-10 00:00:00	JAC	Jackson Hole	Southwest Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches			
-207599	2016060331991	2016-05-24 00:00:00	2016-05-23 06:30:00	JAC	Jackson Hole Jackson Hole	UAL	Passenger Property Loss	Checkpoint		Medical/Science			Closed:Contractor Claim
-215833	2017083042533	2017-08-30 00:00:00	2017-08-09 00:00:00	JAC	Jackson Hole Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoor Items			losed: Contractor Claim
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+39640	2004081060968	2004-07-09 00:00:00	2004-06-26 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checked Baggage	4.95	Containers	Luggage (all types including footlockers)	Closed as a contractor claim	0.0	
+39905	2004081261248	2004-07-12 00:00:00	2004-03-16 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checked Baggage	39.43	Other	Other	Closed as a contractor claim	0.0	
+41747	2004090261970	2004-08-05 00:00:00	2004-07-18 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	59.95	Other	Other	Canceled	0.0	
+42266	2004092763932	2004-08-10 00:00:00	2004-06-25 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checkpoint	4425.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+42823	2004092263513	2004-08-19 00:00:00	2004-06-22 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checkpoint	150.0	Tools & Machines	Locks	Closed as a contractor claim	0.0	
+46405	2004111767280	2004-10-01 00:00:00	2004-07-19 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checkpoint	75.0	Other	Other	Canceled		
+46460	2004111767209	2004-10-04 00:00:00	2004-09-18 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checked Baggage	27.05	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	27.05	Approve in Full
+50560	2004122871392	2004-11-23 00:00:00	2004-10-28 00:00:00	JAC	Jackson Hole	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+50903	2004122871277	2004-11-29 00:00:00	2004-11-21 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checked Baggage	33.28	Other	Other	Denied	0.0	Deny
+53699	2005012674326	2005-01-06 00:00:00	2004-12-22 00:00:00	JAC	Jackson Hole	Northwest Airlines	Passenger Property Loss	Checked Baggage	205.58	Electronics	Cameras - Digital	Closed as a contractor claim	0.0	
+57556	2005032379422	2005-02-18 00:00:00	2005-02-13 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.95	Other	Other	Closed as a contractor claim	0.0	
+58526	2005030777058	2005-03-07 00:00:00	2004-12-28 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.68	Other	Other	Canceled	0.0	
+59392	2005032980345	2005-03-16 00:00:00	2005-03-01 00:00:00	JAC	Jackson Hole		Passenger Property Loss	Checked Baggage	20.95	Other	Other	Closed as a contractor claim	0.0	
+61016	2005040882008	2005-04-06 00:00:00	2005-03-04 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+63956	2005062487197	2005-05-16 00:00:00	2005-05-11 00:00:00	JAC	Jackson Hole	Northwest Airlines	Passenger Property Loss	Checked Baggage	299.9	Clothing & Accessories	Eyeglasses - (including contact lenses)	Closed as a contractor claim	0.0	
+68601	2005072589634	2005-07-22 00:00:00	2005-07-10 00:00:00	JAC	Jackson Hole	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Closed as a contractor claim	0.0	
+70167	2005082391219	2005-08-16 00:00:00	2005-08-01 00:00:00	JAC	Jackson Hole	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Other	Other	Closed as a contractor claim	0.0	
+71276	2005090892297	2005-09-01 00:00:00	2005-08-25 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage	110.0	Other	Other	Closed as a contractor claim	0.0	
+73339	2005101294385	2005-10-05 00:00:00	2005-09-19 00:00:00	JAC	Jackson Hole	American Airlines	Passenger Property Loss	Checked Baggage	346.13	Other	Other	Closed as a contractor claim	0.0	
+81523	2006030802826	2006-03-02 00:00:00	2006-02-10 00:00:00	JAC	Jackson Hole	Continental Airlines	Passenger Property Loss	Checked Baggage	122.95	Containers	Luggage (all types including footlockers)	Closed as a contractor claim	0.0	
+91342	2006091812725	2006-09-11 00:00:00	2006-08-16 00:00:00	JAC	Jackson Hole	UAL	Passenger Property Loss	Checked Baggage	16.52	Other	Other	Closed as a contractor claim	0.0	
+175555	2012121999307	2012-10-31 00:00:00	2012-10-19 00:00:00	JAC	Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Cameras		0.0	Deny
+194090	2014102417984	2014-10-20 00:00:00	2014-09-10 00:00:00	JAC	Jackson Hole	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+207599	2016060331991	2016-05-24 00:00:00	2016-05-23 06:30:00	JAC	Jackson Hole Jackson Hole	UAL	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science			Closed:Contractor Claim
+215833	2017083042533	2017-08-30 00:00:00	2017-08-09 00:00:00	JAC	Jackson Hole Jackson Hole	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Outdoor Items			losed: Contractor Claim

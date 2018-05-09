@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-69976	2005082391284	2005-08-11 00:00:00	2005-08-01 00:00:00	PVC	Provincetown Airport	Cape Air	Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
-97007	2006122017470		2006-09-06 00:00:00	PVC	Provincetown Airport	Cape Air	Passenger Property Loss	Checkpoint	150.0	Clothing - Shoes, belts, accessories, etc.	Approved	150.0	Approve in Full
-152539	2010091575985	2010-09-07 00:00:00	2010-07-25 11:57:00	PVC	Provincetown Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-163405	2011092887208	2011-08-24 00:00:00	2011-08-12 00:00:00	PVC	Provincetown Airport	Cape Air	Passenger Property Loss	Checked Baggage		Personal Electronics			
-219427	2017122246268	2017-12-04 00:00:00	2017-11-29 00:00:00	PVC	Provincetown Airport Provincetown Airport	Cape Air	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+69976	2005082391284	2005-08-11 00:00:00	2005-08-01 00:00:00	PVC	Provincetown Airport	Cape Air	Passenger Property Loss	Checked Baggage	75.0	Other	Other	Denied	0.0	Deny
+97007	2006122017470		2006-09-06 00:00:00	PVC	Provincetown Airport	Cape Air	Passenger Property Loss	Checkpoint	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	150.0	Approve in Full
+152539	2010091575985	2010-09-07 00:00:00	2010-07-25 11:57:00	PVC	Provincetown Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+163405	2011092887208	2011-08-24 00:00:00	2011-08-12 00:00:00	PVC	Provincetown Airport	Cape Air	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+219427	2017122246268	2017-12-04 00:00:00	2017-11-29 00:00:00	PVC	Provincetown Airport Provincetown Airport	Cape Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review

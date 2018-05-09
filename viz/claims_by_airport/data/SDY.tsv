@@ -1,2 +1,2 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-188076	2014022011845	2014-02-14 00:00:00	2014-02-05 00:00:00	SDY	Sidney-Richland Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+188076	2014022011845	2014-02-14 00:00:00	2014-02-05 00:00:00	SDY	Sidney-Richland Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other			

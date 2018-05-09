@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-76660	2005121697923	2005-12-06 00:00:00	2005-11-27 00:00:00	HYS	Hays Regional	UAL	Passenger Property Loss	Checked Baggage	29.45	Other	Denied	0.0	Deny
-106693	2007070927993	2007-07-02 00:00:00	2007-06-05 00:00:00	HYS	Hays Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	349.99	Jewelry - Fine	Denied	0.0	Deny
-126800	2008081848752	2008-08-11 00:00:00	2008-06-03 00:00:00	HYS	Hays Regional	Great Lakes Airline	Passenger Property Loss	Checked Baggage	448.4	Cameras - Digital	Denied	0.0	Deny
-131933	2008122453761	2008-12-19 00:00:00	2008-11-26 00:00:00	HYS	Hays Regional	UAL	Passenger Property Loss	Checked Baggage	515.86	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Fine*Watches - Expensive more than $100*Watches - Inexpensive $100 or less	Canceled	0.0	
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+76660	2005121697923	2005-12-06 00:00:00	2005-11-27 00:00:00	HYS	Hays Regional	UAL	Passenger Property Loss	Checked Baggage	29.45	Other	Other	Denied	0.0	Deny
+106693	2007070927993	2007-07-02 00:00:00	2007-06-05 00:00:00	HYS	Hays Regional	Frontier Airlines	Passenger Property Loss	Checked Baggage	349.99	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+126800	2008081848752	2008-08-11 00:00:00	2008-06-03 00:00:00	HYS	Hays Regional	Great Lakes Airline	Passenger Property Loss	Checked Baggage	448.4	Electronics	Cameras - Digital	Denied	0.0	Deny
+131933	2008122453761	2008-12-19 00:00:00	2008-11-26 00:00:00	HYS	Hays Regional	UAL	Passenger Property Loss	Checked Baggage	515.86	Containers,Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Fine*Watches - Expensive more than $100*Watches - Inexpensive $100 or less	Canceled	0.0	

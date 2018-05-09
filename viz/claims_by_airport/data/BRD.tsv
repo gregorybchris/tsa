@@ -1,9 +1,9 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-87594	2006070308872	2006-06-29 00:00:00	2006-06-06 00:00:00	BRD	Brainerd, MN		Passenger Property Loss	Checked Baggage	250.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
-92510	2006101614085	2006-10-03 00:00:00	2006-08-26 00:00:00	BRD	Brainerd, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.51	Locks	Approved	8.51	Approve in Full
-92511	2006101614086	2006-10-03 00:00:00	2006-09-05 00:00:00	BRD	Brainerd, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.84	Locks	Approved	6.84	Approve in Full
-108849	2007081330124	2007-08-10 00:00:00	2007-07-22 00:00:00	BRD	Brainerd, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	341.99	Jewelry - Fine*Watches - Inexpensive $100 or less	Denied	0.0	Deny
-160465	2011060283976	2011-05-23 00:00:00	2011-05-14 15:15:00	BRD	Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Electronics			
-188083	2014022111852	2014-02-18 00:00:00	2014-01-20 00:00:00	BRD	Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing		205.0	Approve in Full
-205108	2016041330517	2016-03-29 00:00:00	2016-03-17 00:00:00	BRD	Brainerd, MN Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing*Clothing*Clothing*Clothing*Clothing*Clothing		0.0	Deny
-205109	2016110435531	2016-11-04 00:00:00	2016-08-28 00:00:00	BRD	Brainerd, MN Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+87594	2006070308872	2006-06-29 00:00:00	2006-06-06 00:00:00	BRD	Brainerd, MN		Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+92510	2006101614085	2006-10-03 00:00:00	2006-08-26 00:00:00	BRD	Brainerd, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	8.51	Tools & Machines	Locks	Approved	8.51	Approve in Full
+92511	2006101614086	2006-10-03 00:00:00	2006-09-05 00:00:00	BRD	Brainerd, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.84	Tools & Machines	Locks	Approved	6.84	Approve in Full
+108849	2007081330124	2007-08-10 00:00:00	2007-07-22 00:00:00	BRD	Brainerd, MN	Northwest Airlines	Passenger Property Loss	Checked Baggage	341.99	Watches & Jewelry,Watches & Jewelry	Jewelry - Fine*Watches - Inexpensive $100 or less	Denied	0.0	Deny
+160465	2011060283976	2011-05-23 00:00:00	2011-05-14 15:15:00	BRD	Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			
+188083	2014022111852	2014-02-18 00:00:00	2014-01-20 00:00:00	BRD	Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		205.0	Approve in Full
+205108	2016041330517	2016-03-29 00:00:00	2016-03-17 00:00:00	BRD	Brainerd, MN Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Clothing & Accessories,Clothing & Accessories,Clothing & Accessories,Clothing & Accessories	Clothing*Clothing*Clothing*Clothing*Clothing*Clothing		0.0	Deny
+205109	2016110435531	2016-11-04 00:00:00	2016-08-28 00:00:00	BRD	Brainerd, MN Brainerd, MN	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny

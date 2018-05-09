@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-78076	2006011099249	2006-01-04 00:00:00	2005-06-09 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Denied	0.0	Deny
-89340	2006081010725	2006-08-02 00:00:00	2006-06-12 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	298.84	Cameras - Digital	Settled	157.95	Settle
-104803	2007060125997	2007-05-25 00:00:00	2007-04-21 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	2370.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Fine	Denied	0.0	Deny
-114554	2007120636164	2007-11-30 00:00:00	2007-11-24 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1350.0	Currency	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+78076	2006011099249	2006-01-04 00:00:00	2005-06-09 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Denied	0.0	Deny
+89340	2006081010725	2006-08-02 00:00:00	2006-06-12 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	298.84	Electronics	Cameras - Digital	Settled	157.95	Settle
+104803	2007060125997	2007-05-25 00:00:00	2007-04-21 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	2370.0	Cosmetics,Watches & Jewelry	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Fine	Denied	0.0	Deny
+114554	2007120636164	2007-11-30 00:00:00	2007-11-24 00:00:00	VCT	Victoria Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1350.0	Other	Currency	Denied	0.0	Deny

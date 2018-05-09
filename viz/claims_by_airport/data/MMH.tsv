@@ -1,14 +1,14 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-147668	2010041470790	2010-04-13 00:00:00	2010-02-14 17:10:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		41.1	Approve in Full
-150584	2010071973873	2010-07-13 00:00:00	2010-07-06 00:00:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		211.85	Settle
-158421	2011040782012	2011-03-16 00:00:00	2011-01-15 18:20:00	MMH	Mammoth Lakes	Horizon Air	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		174.44	Settle
-158652	2011041282102	2011-03-25 00:00:00	2011-01-09 15:30:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		565.0	Approve in Full
-166305	2012011890227	2011-12-05 00:00:00	2011-08-23 23:50:00	MMH	Mammoth Lakes	Horizon Air	Passenger Property Loss	Checked Baggage		Travel Accessories		17.0	Approve in Full
-168910	2012042593230	2012-03-04 00:00:00	2012-02-25 00:00:00	MMH	Mammoth Lakes		Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
-169047	2012040992652	2012-03-07 00:00:00	2012-02-25 00:00:00	MMH	Mammoth Lakes		Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-170224	2012051794093	2012-04-20 00:00:00	2012-04-08 00:00:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-177822	2013021901583	2013-01-28 00:00:00	2013-01-12 00:00:00	MMH	Mammoth Lakes	UAL	Passenger Property Loss	Checked Baggage		Clothing		39.95	Approve in Full
-188646	2014031312428	2014-03-10 00:00:00	2013-12-28 00:00:00	MMH	Mammoth Lakes	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-201455	2015092325571	2015-09-07 00:00:00	2015-08-24 00:00:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoor Items		87.51	Approve in Full
-210006	2016102635194	2016-09-17 00:00:00	2016-09-15 18:00:00	MMH	Mammoth Lakes Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		11.11	Approve in Full
-210007	2016110435500	2016-10-07 00:00:00	2016-09-11 18:00:00	MMH	Mammoth Lakes Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Home Decor			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+147668	2010041470790	2010-04-13 00:00:00	2010-02-14 17:10:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies	Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		41.1	Approve in Full
+150584	2010071973873	2010-07-13 00:00:00	2010-07-06 00:00:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other		211.85	Settle
+158421	2011040782012	2011-03-16 00:00:00	2011-01-15 18:20:00	MMH	Mammoth Lakes	Horizon Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		174.44	Settle
+158652	2011041282102	2011-03-25 00:00:00	2011-01-09 15:30:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		565.0	Approve in Full
+166305	2012011890227	2011-12-05 00:00:00	2011-08-23 23:50:00	MMH	Mammoth Lakes	Horizon Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		17.0	Approve in Full
+168910	2012042593230	2012-03-04 00:00:00	2012-02-25 00:00:00	MMH	Mammoth Lakes		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+169047	2012040992652	2012-03-07 00:00:00	2012-02-25 00:00:00	MMH	Mammoth Lakes		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+170224	2012051794093	2012-04-20 00:00:00	2012-04-08 00:00:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+177822	2013021901583	2013-01-28 00:00:00	2013-01-12 00:00:00	MMH	Mammoth Lakes	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		39.95	Approve in Full
+188646	2014031312428	2014-03-10 00:00:00	2013-12-28 00:00:00	MMH	Mammoth Lakes	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+201455	2015092325571	2015-09-07 00:00:00	2015-08-24 00:00:00	MMH	Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Outdoor Items		87.51	Approve in Full
+210006	2016102635194	2016-09-17 00:00:00	2016-09-15 18:00:00	MMH	Mammoth Lakes Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		11.11	Approve in Full
+210007	2016110435500	2016-10-07 00:00:00	2016-09-11 18:00:00	MMH	Mammoth Lakes Mammoth Lakes	Alaska Airlines	Passenger Property Loss	Checked Baggage		Household Decor	Home Decor			In Review

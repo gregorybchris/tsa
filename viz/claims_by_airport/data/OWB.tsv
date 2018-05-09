@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-172726	2012083096492	2012-07-18 00:00:00	2012-05-19 07:45:00	OWB	Owensboro Daviess County	Allegiant Air	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
-186514	2013123010316	2013-12-20 00:00:00	2013-11-12 15:00:00	OWB	Owensboro Daviess County	Cape Air	Passenger Property Loss	Checkpoint		Currency*Personal Electronics			
-187210	2014012110961	2014-01-14 00:00:00	2013-11-07 00:00:00	OWB	Owensboro Daviess County		Passenger Property Loss	Checked Baggage		Currency*Personal Electronics			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+172726	2012083096492	2012-07-18 00:00:00	2012-05-19 07:45:00	OWB	Owensboro Daviess County	Allegiant Air	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+186514	2013123010316	2013-12-20 00:00:00	2013-11-12 15:00:00	OWB	Owensboro Daviess County	Cape Air	Passenger Property Loss	Checkpoint		Other,Electronics	Currency*Personal Electronics			
+187210	2014012110961	2014-01-14 00:00:00	2013-11-07 00:00:00	OWB	Owensboro Daviess County		Passenger Property Loss	Checked Baggage		Other,Electronics	Currency*Personal Electronics			

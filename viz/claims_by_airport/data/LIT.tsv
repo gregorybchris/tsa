@@ -1,176 +1,176 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-2417	0211104L	2003-02-11 00:00:00	2003-01-29 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	49.99	Clothing - Shoes, belts, accessories, etc.	Approved	49.99	Approve in Full
-2764	0224001L	2003-02-24 00:00:00	2003-02-03 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage		Luggage (all types including footlockers)	Canceled		
-2953	0225104L	2003-02-25 00:00:00	2003-02-03 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Cameras - Digital	Settled	75.0	Settle
-3325	0306032L	2003-03-06 00:00:00	2003-01-23 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1101.32	Other	Denied	0.0	Deny
-4297	0326085L	2003-03-26 00:00:00	2003-01-20 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	298.0	Cameras - Digital	Settled	150.0	Settle
-4610	0402074L	2003-04-02 00:00:00	2003-03-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.48	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	31.24	Settle
-5736	0428101L	2003-04-28 00:00:00	2003-04-10 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	10.0	Other	Denied		Deny
-6066	0505095L	2003-05-05 00:00:00	2003-03-12 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage	15.0	Clothing - Shoes, belts, accessories, etc.	Settled	7.5	Settle
-6456	0514014L	2003-05-14 00:00:00	2003-04-29 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.02	Locks	Denied	0.0	Deny
-7818	0605031L	2003-06-05 00:00:00	2003-03-26 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint	110.0	Cameras - Digital	Approved	110.0	Approve in Full
-11815	0728060M	2003-07-28 00:00:00	2003-06-27 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	130.0	Luggage (all types including footlockers)	Settled	65.0	Settle
-12366	0801027M	2003-08-01 00:00:00	2003-07-13 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage	355.0	Clothing - Shoes, belts, accessories, etc.	Settled	177.5	Settle
-12634	0806055M	2003-08-06 00:00:00	2003-07-12 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1280.0	Jewelry - Fine	Denied	0.0	Deny
-14224	0825064M	2003-08-25 00:00:00	2003-06-01 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Jewelry - Fine	Settled	150.0	Settle
-17316	1006086M	2003-10-06 00:00:00	2003-06-30 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	95.0	Currency	Approved	95.0	Approve in Full
-19249	1030056M	2003-10-30 00:00:00	2003-10-05 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	120.0	Other	Settled	60.0	Settle
-21914	1205236M	2003-12-05 00:00:00	2003-10-22 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	252.0	Other	Settled	126.0	Settle
-23193	1217662M	2003-12-17 00:00:00	2003-10-24 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	949.77	Cameras - Digital	Settled	590.49	Settle
-23929	0105058M	2004-01-05 00:00:00	2003-12-12 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	500.0	Clothing - Shoes, belts, accessories, etc.	Settled	400.0	Settle
-24927	0114533M	2004-01-14 00:00:00	2003-12-19 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	1200.0	Jewelry - Fine	Denied	0.0	Deny
-25778	0129213M	2004-01-29 00:00:00	2003-01-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint	1500.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-28253	2004050550517	2004-02-19 00:00:00	2004-01-01 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
-32009	2004051852797	2004-04-01 00:00:00	2004-02-21 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
-33122	2004060154016	2004-04-21 00:00:00	2004-03-13 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	8.55	Locks	Denied	0.0	Deny
-33301	2004052853776	2004-04-21 00:00:00	2004-03-13 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
-33392	2004060354484	2004-04-21 00:00:00	2004-03-25 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Settled	25.0	Settle
-34901	2004061555841	2004-05-10 00:00:00	2004-02-13 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	278.0	Cameras - Digital	Approved	278.0	Approve in Full
-39748	2004090262012	2004-07-09 00:00:00	2004-05-07 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checkpoint	2936.21	Computer - Laptop	Denied	0.0	Deny
-40422	2004110566476	2004-07-16 00:00:00	2004-04-26 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-43729	2004100564522	2004-08-31 00:00:00	2004-08-19 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	5.95	Locks	Denied	0.0	Deny
-46237	2004110366177	2004-09-29 00:00:00	2004-07-03 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	3055.0	Jewelry - Fine	Denied		Deny
-47224	2005020975802	2004-10-14 00:00:00	2004-08-25 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	119.99	Other	Approved	119.99	Approve in Full
-47560	2004120368378	2004-10-18 00:00:00	2004-09-28 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
-47647	2004120368373	2004-10-18 00:00:00	2004-09-27 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	55.0	Eyeglasses - (including contact lenses)	Denied		Deny
-50884	2004122771093	2004-11-29 00:00:00	2004-11-15 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	5.0	Medicines	Denied		Deny
-52117	2005010472632	2004-12-14 00:00:00	2004-11-08 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	4474.47	Computer - Laptop	Denied	0.0	Deny
-52836	2005011273576	2004-12-22 00:00:00	2004-12-12 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	161.24	Cell Phones	Denied		Deny
-61155	2005040881960	2005-04-06 00:00:00	2005-03-18 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	595.0	Clothing - Shoes, belts, accessories, etc.	Settled	208.75	Settle
-64357	2005052385309	2005-05-19 00:00:00	2005-04-29 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	900.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-64871	2005060385762	2005-05-31 00:00:00	2005-04-30 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint	321.33	Cameras - Digital	Canceled	0.0	
-65755	2005060986031	2005-06-08 00:00:00	2005-02-19 00:00:00	LIT	Little Rock National	American Eagle	Passenger Property Loss	Checked Baggage	650.0	Other	Denied	0.0	Deny
-66612	2005062887431	2005-06-21 00:00:00	2005-06-16 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	48.0	Other	Denied	0.0	Deny
-66849	2005062987730	2005-06-24 00:00:00	2005-05-21 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Clothing - Shoes, belts, accessories, etc.	Approved	100.0	Approve in Full
-66899	2005062987759	2005-06-24 00:00:00	2005-05-17 00:00:00	LIT	Little Rock National	American Eagle	Passenger Property Loss	Checked Baggage	23.0	Clothing - Shoes, belts, accessories, etc.	Settled	8.0	Settle
-67104	2005070188087	2005-06-28 00:00:00	2005-06-01 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Medicines	Denied	0.0	Deny
-67473	2005071188583	2005-07-06 00:00:00	2005-06-25 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.02	Clothing - Shoes, belts, accessories, etc.	Approved	99.02	Approve in Full
-69548	2005081690657	2005-08-05 00:00:00	2005-06-06 00:00:00	LIT	Little Rock National	Horizon Air	Passenger Property Loss	Checked Baggage	35.0	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
-71314	2005091492442	2005-09-01 00:00:00	2005-08-04 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	575.0	Other	Denied	0.0	Deny
-72033	2005092193055	2005-09-14 00:00:00	2005-08-26 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	114.89	Other	Settled	57.45	Settle
-72291	2005092993415	2005-09-19 00:00:00	2005-09-08 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.03	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-73099	2005100694216	2005-10-03 00:00:00	2005-09-14 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	250.0	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-75449	2005120196792	2005-11-15 00:00:00	2005-11-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Medicines	Approved	125.0	Approve in Full
-75979	2005120596991	2005-11-22 00:00:00	2005-11-07 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	385.0	Other	Settled	348.0	Settle
-75991	2005120797189	2005-11-22 00:00:00	2005-11-13 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Cameras - Digital	Settled	266.1	Settle
-76637	2005121497756	2005-12-06 00:00:00	2005-11-26 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checkpoint	200.0	Cell Phones	Denied	0.0	Deny
-76687	2005121998020	2005-12-06 00:00:00	2005-11-20 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1571.0	Computer - Laptop	Denied	0.0	Deny
-76734	2005121497758	2005-12-07 00:00:00	2005-11-19 00:00:00	LIT	Little Rock National	Frontier Airlines	Passenger Property Loss	Checked Baggage	9.95	Locks	Approved	9.95	Approve in Full
-77159	2005122398351	2005-12-15 00:00:00	2005-11-18 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint	400.0	Eyeglasses - (including contact lenses)	Approved	400.0	Approve in Full
-78077	2006011099255	2006-01-04 00:00:00	2005-09-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Jewelry - Fine	Denied	0.0	Deny
-78483	2006011799623	2006-01-10 00:00:00	2006-01-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-78571	2006011899753	2006-01-10 00:00:00	2005-11-22 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-78846	2006012300003	2006-01-17 00:00:00	2005-12-27 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	23.95	Luggage (all types including footlockers)	Approved	23.95	Approve in Full
-78905	2006012399997	2006-01-17 00:00:00	2006-01-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1284.65	Computer - Laptop	Denied	0.0	Deny
-80144	2006020901300	2006-02-06 00:00:00	2006-01-16 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1729.52	Medicines	Canceled	0.0	
-84444	2006050105523	2006-04-27 00:00:00	2006-04-03 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	113.0	Jewelry - Fine	Denied	0.0	Deny
-84760	2006051005808	2006-05-03 00:00:00	2006-03-08 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checkpoint	2000.0	Jewelry - Fine	Approved	2000.0	Approve in Full
-87614	2006063008806	2006-06-29 00:00:00	2006-05-31 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	61.08	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	30.54	Settle
-88180	2006071209343	2006-07-11 00:00:00	2006-05-31 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checkpoint	529.0	Jewelry - Fine	Denied	0.0	Deny
-89832	2006081511002	2006-08-14 00:00:00	2006-08-10 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	299.0	Stereo Items & Accessories	Denied	0.0	Deny
-90669	2006083111876	2006-08-28 00:00:00	2006-07-18 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	999.99	Computer - Laptop	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-90849	2006090812154	2006-08-31 00:00:00	2006-07-24 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	959.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-91508	2006091812726	2006-09-13 00:00:00	2006-09-01 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.7	Locks*Locks	Approved	10.7	Approve in Full
-91615	2006092112969	2006-09-15 00:00:00	2006-09-01 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	55.0	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Costume	Approved	55.0	Approve in Full
-92629	2006101914204	2006-10-05 00:00:00	2006-10-01 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	75.0	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-93745	2006110114964	2006-10-27 00:00:00	2006-09-29 00:00:00	LIT	Little Rock National	Frontier Airlines	Passenger Property Loss	Checked Baggage	1636.46	Dental Equipment and Instruments*Jewelry - Costume	Denied	0.0	Deny
-94391	2006111515666	2006-11-09 00:00:00	2006-09-24 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	550.0	Video Recordings (blank & commercial)	Denied	0.0	Deny
-95153	2006121216953	2006-11-24 00:00:00	2006-11-15 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint	12.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-98433	2007012619608	2007-01-19 00:00:00	2006-12-26 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	590.0	Other*Toys - Other (including games, toys, play dolls etc.)*Video Recordings - Laser Discs	Denied	0.0	Deny
-98546	2007013119926	2007-01-22 00:00:00	2006-12-18 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	263.36	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*MP3 Players-(iPods, etc)*Other*Toys (game systems, cartridges, radio controlled cars, etc.)	Settled	131.68	Settle
-99782	2007021621027	2007-02-12 00:00:00	2006-12-07 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checkpoint	350.0	MP3 Players-(iPods, etc)	Settled	279.14	Settle
-103251	2007042424440	2007-04-23 00:00:00	2007-03-05 00:00:00	LIT	Little Rock National	American Eagle	Passenger Property Loss	Checked Baggage	187.95	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-104081	2007051425336	2007-05-10 00:00:00	2007-04-23 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	1380.79	Watches - Expensive more than $100	Denied	0.0	Deny
-106531	2007070227696	2007-06-28 00:00:00	2007-05-28 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Cameras - Digital	Settled	50.0	Settle
-107420	2007071728503	2007-07-16 00:00:00	2007-06-21 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	397.0	Cell Phones*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume	Settled	198.5	Settle
-107505	2007072328840	2007-07-18 00:00:00	2007-07-08 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-108392	2007080729753	2007-08-02 00:00:00	2007-07-01 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Denied	0.0	Deny
-108559	2007080829861	2007-08-06 00:00:00	2007-06-13 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	114.0	Other	Denied	0.0	Deny
-108569	2007080829879	2007-08-06 00:00:00	2007-07-31 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	330.0	Jewelry - Costume*Other	Denied	0.0	Deny
-108736	2007081030063	2007-08-08 00:00:00	2007-06-24 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage		Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-109103	2007082030458	2007-08-15 00:00:00	2007-07-26 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-109845	2007083031183	2007-08-28 00:00:00	2007-08-17 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint	698.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-110749	2007091832180	2007-09-14 00:00:00	2007-08-24 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.84	Watches - Inexpensive $100 or less	Denied	0.0	Deny
-115206	2007121936686	2007-12-14 00:00:00	2007-12-06 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checkpoint	129.0	Cameras - Digital	Canceled	0.0	
-117030	2008012938708	2008-01-18 00:00:00	2007-12-13 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage	353.76	GPS - Global Positioning System*Other	Denied	0.0	Deny
-118481	2008022540115	2008-02-19 00:00:00	2007-12-22 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
-119019	2008030740659	2008-02-28 00:00:00	2008-02-23 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage	2000.0	Cameras - Digital*Computer - Laptop*Other	Denied	0.0	Deny
-119507	2008032141372	2008-03-10 00:00:00	2008-01-09 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.98	Other	Denied	0.0	Deny
-121343	2008042243107	2008-04-14 00:00:00	2008-03-27 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	90.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-123761	2008061045466	2008-06-04 00:00:00	2008-05-24 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Cameras - Digital	Denied	0.0	Deny
-125588	2008072447380	2008-07-16 00:00:00	2008-07-09 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	234.0	Cameras - Digital*Other	Denied	0.0	Deny
-126043	2008073147825	2008-07-25 00:00:00	2008-07-19 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	17.22	Locks	Denied	0.0	Deny
-127568	2008090249320	2008-08-28 00:00:00	2008-08-26 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1159.0	Cameras - Digital*GPS - Global Positioning System	Denied	0.0	Deny
-127830	2008090849635	2008-09-04 00:00:00	2008-08-08 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	398.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-128343	2008091950147	2008-09-16 00:00:00	2008-09-02 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	195.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
-129340	2008102751568	2008-10-12 00:00:00	2008-08-15 00:00:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage	1472.01	Computer - Laptop	Denied	0.0	Deny
-129652	2008102351469	2008-10-20 00:00:00	2008-10-11 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1800.0	Computer - Laptop	Denied	0.0	Deny
-129985	2008110451807	2008-10-28 00:00:00	2008-10-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	978.25	Other	Denied	0.0	Deny
-131524	2008121253352	2008-12-09 00:00:00	2008-12-03 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checkpoint	760.0	Watches - Expensive more than $100	Denied	0.0	Deny
-132563	2009011354423	2009-01-07 00:00:00	2008-12-26 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checkpoint	550.0	Currency	Denied	0.0	Deny
-132747	2009010554046	2009-01-12 00:00:00	2008-12-23 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	829.96	Computer - Laptop	Denied	0.0	Deny
-133550	2009021355477	2009-02-02 00:00:00	2008-10-08 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	229.43	Jewelry - Fine	Approved	229.43	Approve in Full
-135121	2009032757027	2009-03-16 00:00:00	2009-02-26 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1333.75	Cell Phones*Computer - Laptop	Denied	0.0	Deny
-135168	2009040257133	2009-03-17 00:00:00	2008-12-12 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	674.99	GPS - Global Positioning System	Denied	0.0	Deny
-139189	2009071561252	2009-07-07 00:00:00	2009-07-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	33.44	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
-139386	2009071761389	2009-07-13 00:00:00	2009-06-06 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	2300.0	Computer - Laptop	Denied	0.0	Deny
-139814	2009072861832	2009-07-22 00:00:00	2009-07-07 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-140323	2009081162486	2009-08-04 00:00:00	2009-03-29 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.39	Photographic Film	Denied	0.0	Deny
-140815	2009082462908	2009-08-18 00:00:00	2009-07-04 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	560.0	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Denied	0.0	Deny
-141588	2009091463582	2009-09-11 00:00:00	2009-08-27 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	434.58	GPS - Global Positioning System	Denied	0.0	Deny
-142175	2009100164210	2009-09-28 00:00:00	2009-08-18 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Denied	0.0	Deny
-143240	2009120265903	2009-11-02 00:00:00	2009-10-22 07:45:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	51.0	Currency	Denied	0.0	Deny
-144366	2009121066402	2009-12-07 00:00:00	2009-11-06 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	47.34	Other	Canceled		
-145464	2010020268134	2010-01-27 00:00:00	2010-01-14 12:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Personal Electronics		67.5	Settle
-146000	2010030168870	2010-02-22 00:00:00	2010-02-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-146407	2010031369528	2010-03-05 00:00:00	2010-02-15 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
-146608	2010032269794	2010-03-11 00:00:00	2010-03-05 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		54.93	Approve in Full
-146745	2010032269826	2010-03-16 00:00:00	2010-03-10 09:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics & Grooming		27.5	Settle
-146972	2010032970151	2010-03-23 00:00:00	2010-03-11 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Personal Electronics		0.0	Deny
-147288	2010040670472	2010-04-01 00:00:00	2010-03-04 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-148477	2010051971949	2010-05-07 00:00:00	2010-05-19 00:00:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		75.24	Approve in Full
-150817	2010080474385	2010-07-19 00:00:00	2010-07-16 06:30:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
-152703	2010091776150	2010-09-10 00:00:00	2010-09-01 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-154654	2010112378129	2010-11-11 00:00:00	2010-11-10 14:28:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
-156749	2011021180150	2011-01-21 00:00:00	2011-01-07 12:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
-157979	2011033081486	2011-03-02 00:00:00	2011-02-15 15:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.0	Approve in Full
-158455	2011040782008	2011-03-17 00:00:00	2011-02-27 06:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		50.0	Approve in Full
-159253	2011041382313	2011-04-13 00:00:00	2011-03-21 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
-160098	2011052083611	2011-05-10 00:00:00	2011-05-04 23:15:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
-160770	2011061484279	2011-06-02 00:00:00	2011-05-11 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-161248	2011072085332	2011-06-19 00:00:00	2011-06-19 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
-161266	2011062984749	2011-06-20 00:00:00	2011-06-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Electronics		0.0	Deny
-161842	2011072185419	2011-07-07 00:00:00	2011-06-19 17:10:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-161949	2011072785551	2011-07-12 00:00:00	2011-06-27 06:30:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-164177	2011101487919	2011-09-21 00:00:00	2011-09-21 07:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-166015	2011121589676	2011-11-23 00:00:00	2011-10-06 08:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-166992	2012020290592	2012-01-03 00:00:00	2011-12-15 05:04:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-167123	2012021290925	2012-01-04 00:00:00	2011-12-11 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checkpoint		Jewelry & Watches		900.0	Approve in Full
-168064	2012031591733	2012-02-02 00:00:00	2011-12-20 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-169334	2012041792984	2012-03-19 00:00:00	2012-03-02 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			
-169911	2012050293533	2012-04-10 00:00:00	2012-04-08 10:30:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-170039	2012050893713	2012-04-13 00:00:00	2012-03-29 06:39:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-171524	2012071095201	2012-06-06 00:00:00	2012-04-23 06:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-172128	2012080295838	2012-06-27 00:00:00	2012-06-16 11:20:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-177642	2013021301415	2013-01-22 00:00:00	2012-12-29 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Toys & Games		0.0	Deny
-178249	2013022101883	2013-02-12 00:00:00	2013-02-04 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Other			
-178853	2013030802493	2013-03-06 00:00:00	2013-03-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras*Personal Electronics		210.0	Settle
-181256	2013070204990	2013-06-05 00:00:00	2013-05-06 11:35:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
-181736	2013081605964	2013-06-21 00:00:00	2013-05-17 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint		Jewelry & Watches			
-182485	2013071805265	2013-07-18 00:00:00	2013-05-10 10:30:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint		Computer & Accessories		270.43	Settle
-182921	2013091006759	2013-08-01 00:00:00	2013-06-28 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories			
-184278	2013102708046	2013-09-17 00:00:00	2013-09-04 10:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Electronics			
-185443	2013110608812	2013-11-06 00:00:00	2013-09-05 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Clothing*Cosmetics & Grooming*Medical/Science*Travel Accessories		0.0	Deny
-185596	2013111409355	2013-11-12 00:00:00	2013-10-27 08:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			
-185824	2013112209605	2013-11-21 00:00:00	2013-10-15 14:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Currency			
-188059	2014022011828	2014-02-18 00:00:00	2014-02-16 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
-191814	2014080415662	2014-07-22 00:00:00	2014-07-09 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
-194911	2014120318827	2014-11-24 00:00:00	2014-11-15 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories			
-200547	2015012820229	2015-01-28 00:00:00	2015-01-10 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-200553	2015052122634	2015-05-21 00:00:00	2015-04-26 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-200554	2015072424212	2015-07-20 00:00:00	2015-07-06 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-200558	2015082725105	2015-08-21 00:00:00	2015-06-27 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Baggage/Cases/Purses*Household Items*Jewelry & Watches*Personal Accessories		0.0	Deny
-200561	2015120427319	2015-11-17 00:00:00	2015-11-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Crafting & Hobby			
-217349	2017091142878	2017-09-11 00:00:00	2017-09-11 00:00:00	LIT	Little Rock National Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			Closed: Canceled
-217350	2017042038732	2017-04-20 00:00:00	2017-03-25 00:00:00	LIT	Little Rock National Little Rock National		Passenger Property Loss	Checkpoint		Currency		580.0	Approve in Full
-217353	2017090842776	2017-07-26 00:00:00	2017-07-21 00:00:00	LIT	Little Rock National Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			Closed: Canceled
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+2417	0211104L	2003-02-11 00:00:00	2003-01-29 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	49.99	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	49.99	Approve in Full
+2764	0224001L	2003-02-24 00:00:00	2003-02-03 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers	Luggage (all types including footlockers)	Canceled		
+2953	0225104L	2003-02-25 00:00:00	2003-02-03 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Cameras - Digital	Settled	75.0	Settle
+3325	0306032L	2003-03-06 00:00:00	2003-01-23 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1101.32	Other	Other	Denied	0.0	Deny
+4297	0326085L	2003-03-26 00:00:00	2003-01-20 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	298.0	Electronics	Cameras - Digital	Settled	150.0	Settle
+4610	0402074L	2003-04-02 00:00:00	2003-03-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.48	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	31.24	Settle
+5736	0428101L	2003-04-28 00:00:00	2003-04-10 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	10.0	Other	Other	Denied		Deny
+6066	0505095L	2003-05-05 00:00:00	2003-03-12 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage	15.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	7.5	Settle
+6456	0514014L	2003-05-14 00:00:00	2003-04-29 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.02	Tools & Machines	Locks	Denied	0.0	Deny
+7818	0605031L	2003-06-05 00:00:00	2003-03-26 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint	110.0	Electronics	Cameras - Digital	Approved	110.0	Approve in Full
+11815	0728060M	2003-07-28 00:00:00	2003-06-27 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	130.0	Containers	Luggage (all types including footlockers)	Settled	65.0	Settle
+12366	0801027M	2003-08-01 00:00:00	2003-07-13 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage	355.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	177.5	Settle
+12634	0806055M	2003-08-06 00:00:00	2003-07-12 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1280.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+14224	0825064M	2003-08-25 00:00:00	2003-06-01 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Jewelry - Fine	Settled	150.0	Settle
+17316	1006086M	2003-10-06 00:00:00	2003-06-30 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	95.0	Other	Currency	Approved	95.0	Approve in Full
+19249	1030056M	2003-10-30 00:00:00	2003-10-05 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	120.0	Other	Other	Settled	60.0	Settle
+21914	1205236M	2003-12-05 00:00:00	2003-10-22 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	252.0	Other	Other	Settled	126.0	Settle
+23193	1217662M	2003-12-17 00:00:00	2003-10-24 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	949.77	Electronics	Cameras - Digital	Settled	590.49	Settle
+23929	0105058M	2004-01-05 00:00:00	2003-12-12 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	400.0	Settle
+24927	0114533M	2004-01-14 00:00:00	2003-12-19 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	1200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+25778	0129213M	2004-01-29 00:00:00	2003-01-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint	1500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+28253	2004050550517	2004-02-19 00:00:00	2004-01-01 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	150.0	Other	Other	Denied	0.0	Deny
+32009	2004051852797	2004-04-01 00:00:00	2004-02-21 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Settled	75.0	Settle
+33122	2004060154016	2004-04-21 00:00:00	2004-03-13 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	8.55	Tools & Machines	Locks	Denied	0.0	Deny
+33301	2004052853776	2004-04-21 00:00:00	2004-03-13 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Other	Settled	100.0	Settle
+33392	2004060354484	2004-04-21 00:00:00	2004-03-25 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	25.0	Settle
+34901	2004061555841	2004-05-10 00:00:00	2004-02-13 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	278.0	Electronics	Cameras - Digital	Approved	278.0	Approve in Full
+39748	2004090262012	2004-07-09 00:00:00	2004-05-07 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checkpoint	2936.21	Electronics	Computer - Laptop	Denied	0.0	Deny
+40422	2004110566476	2004-07-16 00:00:00	2004-04-26 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+43729	2004100564522	2004-08-31 00:00:00	2004-08-19 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	5.95	Tools & Machines	Locks	Denied	0.0	Deny
+46237	2004110366177	2004-09-29 00:00:00	2004-07-03 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	3055.0	Watches & Jewelry	Jewelry - Fine	Denied		Deny
+47224	2005020975802	2004-10-14 00:00:00	2004-08-25 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	119.99	Other	Other	Approved	119.99	Approve in Full
+47560	2004120368378	2004-10-18 00:00:00	2004-09-28 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Other	Approved	40.0	Approve in Full
+47647	2004120368373	2004-10-18 00:00:00	2004-09-27 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	55.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied		Deny
+50884	2004122771093	2004-11-29 00:00:00	2004-11-15 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	5.0	Supplies	Medicines	Denied		Deny
+52117	2005010472632	2004-12-14 00:00:00	2004-11-08 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	4474.47	Electronics	Computer - Laptop	Denied	0.0	Deny
+52836	2005011273576	2004-12-22 00:00:00	2004-12-12 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	161.24	Electronics	Cell Phones	Denied		Deny
+61155	2005040881960	2005-04-06 00:00:00	2005-03-18 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	595.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	208.75	Settle
+64357	2005052385309	2005-05-19 00:00:00	2005-04-29 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	900.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+64871	2005060385762	2005-05-31 00:00:00	2005-04-30 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint	321.33	Electronics	Cameras - Digital	Canceled	0.0	
+65755	2005060986031	2005-06-08 00:00:00	2005-02-19 00:00:00	LIT	Little Rock National	American Eagle	Passenger Property Loss	Checked Baggage	650.0	Other	Other	Denied	0.0	Deny
+66612	2005062887431	2005-06-21 00:00:00	2005-06-16 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	48.0	Other	Other	Denied	0.0	Deny
+66849	2005062987730	2005-06-24 00:00:00	2005-05-21 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	100.0	Approve in Full
+66899	2005062987759	2005-06-24 00:00:00	2005-05-17 00:00:00	LIT	Little Rock National	American Eagle	Passenger Property Loss	Checked Baggage	23.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	8.0	Settle
+67104	2005070188087	2005-06-28 00:00:00	2005-06-01 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Supplies	Medicines	Denied	0.0	Deny
+67473	2005071188583	2005-07-06 00:00:00	2005-06-25 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	99.02	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	99.02	Approve in Full
+69548	2005081690657	2005-08-05 00:00:00	2005-06-06 00:00:00	LIT	Little Rock National	Horizon Air	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
+71314	2005091492442	2005-09-01 00:00:00	2005-08-04 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	575.0	Other	Other	Denied	0.0	Deny
+72033	2005092193055	2005-09-14 00:00:00	2005-08-26 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	114.89	Other	Other	Settled	57.45	Settle
+72291	2005092993415	2005-09-19 00:00:00	2005-09-08 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	29.03	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+73099	2005100694216	2005-10-03 00:00:00	2005-09-14 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	250.0	Electronics,Clothing & Accessories,Clothing & Accessories	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+75449	2005120196792	2005-11-15 00:00:00	2005-11-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	125.0	Supplies	Medicines	Approved	125.0	Approve in Full
+75979	2005120596991	2005-11-22 00:00:00	2005-11-07 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	385.0	Other	Other	Settled	348.0	Settle
+75991	2005120797189	2005-11-22 00:00:00	2005-11-13 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Cameras - Digital	Settled	266.1	Settle
+76637	2005121497756	2005-12-06 00:00:00	2005-11-26 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checkpoint	200.0	Electronics	Cell Phones	Denied	0.0	Deny
+76687	2005121998020	2005-12-06 00:00:00	2005-11-20 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1571.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+76734	2005121497758	2005-12-07 00:00:00	2005-11-19 00:00:00	LIT	Little Rock National	Frontier Airlines	Passenger Property Loss	Checked Baggage	9.95	Tools & Machines	Locks	Approved	9.95	Approve in Full
+77159	2005122398351	2005-12-15 00:00:00	2005-11-18 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint	400.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	400.0	Approve in Full
+78077	2006011099255	2006-01-04 00:00:00	2005-09-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+78483	2006011799623	2006-01-10 00:00:00	2006-01-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+78571	2006011899753	2006-01-10 00:00:00	2005-11-22 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+78846	2006012300003	2006-01-17 00:00:00	2005-12-27 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	23.95	Containers	Luggage (all types including footlockers)	Approved	23.95	Approve in Full
+78905	2006012399997	2006-01-17 00:00:00	2006-01-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1284.65	Electronics	Computer - Laptop	Denied	0.0	Deny
+80144	2006020901300	2006-02-06 00:00:00	2006-01-16 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1729.52	Supplies	Medicines	Canceled	0.0	
+84444	2006050105523	2006-04-27 00:00:00	2006-04-03 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	113.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+84760	2006051005808	2006-05-03 00:00:00	2006-03-08 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checkpoint	2000.0	Watches & Jewelry	Jewelry - Fine	Approved	2000.0	Approve in Full
+87614	2006063008806	2006-06-29 00:00:00	2006-05-31 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	61.08	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	30.54	Settle
+88180	2006071209343	2006-07-11 00:00:00	2006-05-31 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checkpoint	529.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+89832	2006081511002	2006-08-14 00:00:00	2006-08-10 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	299.0	Electronics	Stereo Items & Accessories	Denied	0.0	Deny
+90669	2006083111876	2006-08-28 00:00:00	2006-07-18 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	999.99	Electronics	Computer - Laptop	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+90849	2006090812154	2006-08-31 00:00:00	2006-07-24 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	959.0	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+91508	2006091812726	2006-09-13 00:00:00	2006-09-01 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.7	Tools & Machines,Tools & Machines	Locks*Locks	Approved	10.7	Approve in Full
+91615	2006092112969	2006-09-15 00:00:00	2006-09-01 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	55.0	Containers,Watches & Jewelry	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Costume	Approved	55.0	Approve in Full
+92629	2006101914204	2006-10-05 00:00:00	2006-10-01 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	75.0	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+93745	2006110114964	2006-10-27 00:00:00	2006-09-29 00:00:00	LIT	Little Rock National	Frontier Airlines	Passenger Property Loss	Checked Baggage	1636.46	Scientific Intruments,Watches & Jewelry	Dental Equipment and Instruments*Jewelry - Costume	Denied	0.0	Deny
+94391	2006111515666	2006-11-09 00:00:00	2006-09-24 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	550.0	Electronics	Video Recordings (blank & commercial)	Denied	0.0	Deny
+95153	2006121216953	2006-11-24 00:00:00	2006-11-15 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint	12.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+98433	2007012619608	2007-01-19 00:00:00	2006-12-26 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	590.0	Other,Games & Toys,Electronics	Other*Toys - Other (including games, toys, play dolls etc.)*Video Recordings - Laser Discs	Denied	0.0	Deny
+98546	2007013119926	2007-01-22 00:00:00	2006-12-18 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	263.36	Cosmetics,Electronics,Other,Games & Toys	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*MP3 Players-(iPods, etc)*Other*Toys (game systems, cartridges, radio controlled cars, etc.)	Settled	131.68	Settle
+99782	2007021621027	2007-02-12 00:00:00	2006-12-07 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checkpoint	350.0	Electronics	MP3 Players-(iPods, etc)	Settled	279.14	Settle
+103251	2007042424440	2007-04-23 00:00:00	2007-03-05 00:00:00	LIT	Little Rock National	American Eagle	Passenger Property Loss	Checked Baggage	187.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+104081	2007051425336	2007-05-10 00:00:00	2007-04-23 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	1380.79	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+106531	2007070227696	2007-06-28 00:00:00	2007-05-28 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Electronics	Cameras - Digital	Settled	50.0	Settle
+107420	2007071728503	2007-07-16 00:00:00	2007-06-21 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	397.0	Electronics,Cosmetics,Watches & Jewelry	Cell Phones*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Costume	Settled	198.5	Settle
+107505	2007072328840	2007-07-18 00:00:00	2007-07-08 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	45.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+108392	2007080729753	2007-08-02 00:00:00	2007-07-01 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage	175.0	Other	Other	Denied	0.0	Deny
+108559	2007080829861	2007-08-06 00:00:00	2007-06-13 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	114.0	Other	Other	Denied	0.0	Deny
+108569	2007080829879	2007-08-06 00:00:00	2007-07-31 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	330.0	Watches & Jewelry,Other	Jewelry - Costume*Other	Denied	0.0	Deny
+108736	2007081030063	2007-08-08 00:00:00	2007-06-24 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+109103	2007082030458	2007-08-15 00:00:00	2007-07-26 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+109845	2007083031183	2007-08-28 00:00:00	2007-08-17 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint	698.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+110749	2007091832180	2007-09-14 00:00:00	2007-08-24 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	70.84	Watches & Jewelry	Watches - Inexpensive $100 or less	Denied	0.0	Deny
+115206	2007121936686	2007-12-14 00:00:00	2007-12-06 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checkpoint	129.0	Electronics	Cameras - Digital	Canceled	0.0	
+117030	2008012938708	2008-01-18 00:00:00	2007-12-13 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage	353.76	Electronics,Other	GPS - Global Positioning System*Other	Denied	0.0	Deny
+118481	2008022540115	2008-02-19 00:00:00	2007-12-22 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories,Other	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+119019	2008030740659	2008-02-28 00:00:00	2008-02-23 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics,Electronics,Other	Cameras - Digital*Computer - Laptop*Other	Denied	0.0	Deny
+119507	2008032141372	2008-03-10 00:00:00	2008-01-09 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.98	Other	Other	Denied	0.0	Deny
+121343	2008042243107	2008-04-14 00:00:00	2008-03-27 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checked Baggage	90.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+123761	2008061045466	2008-06-04 00:00:00	2008-05-24 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	450.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+125588	2008072447380	2008-07-16 00:00:00	2008-07-09 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	234.0	Electronics,Other	Cameras - Digital*Other	Denied	0.0	Deny
+126043	2008073147825	2008-07-25 00:00:00	2008-07-19 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	17.22	Tools & Machines	Locks	Denied	0.0	Deny
+127568	2008090249320	2008-08-28 00:00:00	2008-08-26 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1159.0	Electronics,Electronics	Cameras - Digital*GPS - Global Positioning System	Denied	0.0	Deny
+127830	2008090849635	2008-09-04 00:00:00	2008-08-08 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	398.0	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+128343	2008091950147	2008-09-16 00:00:00	2008-09-02 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	195.0	Games & Toys	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+129340	2008102751568	2008-10-12 00:00:00	2008-08-15 00:00:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage	1472.01	Electronics	Computer - Laptop	Denied	0.0	Deny
+129652	2008102351469	2008-10-20 00:00:00	2008-10-11 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	1800.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+129985	2008110451807	2008-10-28 00:00:00	2008-10-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	978.25	Other	Other	Denied	0.0	Deny
+131524	2008121253352	2008-12-09 00:00:00	2008-12-03 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checkpoint	760.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+132563	2009011354423	2009-01-07 00:00:00	2008-12-26 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checkpoint	550.0	Other	Currency	Denied	0.0	Deny
+132747	2009010554046	2009-01-12 00:00:00	2008-12-23 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	829.96	Electronics	Computer - Laptop	Denied	0.0	Deny
+133550	2009021355477	2009-02-02 00:00:00	2008-10-08 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint	229.43	Watches & Jewelry	Jewelry - Fine	Approved	229.43	Approve in Full
+135121	2009032757027	2009-03-16 00:00:00	2009-02-26 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	1333.75	Electronics,Electronics	Cell Phones*Computer - Laptop	Denied	0.0	Deny
+135168	2009040257133	2009-03-17 00:00:00	2008-12-12 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	674.99	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+139189	2009071561252	2009-07-07 00:00:00	2009-07-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	33.44	Outdoors Supplies	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+139386	2009071761389	2009-07-13 00:00:00	2009-06-06 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	2300.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+139814	2009072861832	2009-07-22 00:00:00	2009-07-07 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.0	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+140323	2009081162486	2009-08-04 00:00:00	2009-03-29 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	8.39	Supplies	Photographic Film	Denied	0.0	Deny
+140815	2009082462908	2009-08-18 00:00:00	2009-07-04 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	560.0	Clothing & Accessories,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Denied	0.0	Deny
+141588	2009091463582	2009-09-11 00:00:00	2009-08-27 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage	434.58	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+142175	2009100164210	2009-09-28 00:00:00	2009-08-18 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+143240	2009120265903	2009-11-02 00:00:00	2009-10-22 07:45:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage	51.0	Other	Currency	Denied	0.0	Deny
+144366	2009121066402	2009-12-07 00:00:00	2009-11-06 00:00:00	LIT	Little Rock National	Northwest Airlines	Passenger Property Loss	Checked Baggage	47.34	Other	Other	Canceled		
+145464	2010020268134	2010-01-27 00:00:00	2010-01-14 12:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		67.5	Settle
+146000	2010030168870	2010-02-22 00:00:00	2010-02-16 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+146407	2010031369528	2010-03-05 00:00:00	2010-02-15 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+146608	2010032269794	2010-03-11 00:00:00	2010-03-05 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other		54.93	Approve in Full
+146745	2010032269826	2010-03-16 00:00:00	2010-03-10 09:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming		27.5	Settle
+146972	2010032970151	2010-03-23 00:00:00	2010-03-11 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Electronics	Other*Personal Electronics		0.0	Deny
+147288	2010040670472	2010-04-01 00:00:00	2010-03-04 00:00:00	LIT	Little Rock National	Continental Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+148477	2010051971949	2010-05-07 00:00:00	2010-05-19 00:00:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		75.24	Approve in Full
+150817	2010080474385	2010-07-19 00:00:00	2010-07-16 06:30:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+152703	2010091776150	2010-09-10 00:00:00	2010-09-01 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+154654	2010112378129	2010-11-11 00:00:00	2010-11-10 14:28:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+156749	2011021180150	2011-01-21 00:00:00	2011-01-07 12:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+157979	2011033081486	2011-03-02 00:00:00	2011-02-15 15:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+158455	2011040782008	2011-03-17 00:00:00	2011-02-27 06:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		50.0	Approve in Full
+159253	2011041382313	2011-04-13 00:00:00	2011-03-21 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+160098	2011052083611	2011-05-10 00:00:00	2011-05-04 23:15:00	LIT	Little Rock National	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+160770	2011061484279	2011-06-02 00:00:00	2011-05-11 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+161248	2011072085332	2011-06-19 00:00:00	2011-06-19 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+161266	2011062984749	2011-06-20 00:00:00	2011-06-06 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+161842	2011072185419	2011-07-07 00:00:00	2011-06-19 17:10:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+161949	2011072785551	2011-07-12 00:00:00	2011-06-27 06:30:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+164177	2011101487919	2011-09-21 00:00:00	2011-09-21 07:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+166015	2011121589676	2011-11-23 00:00:00	2011-10-06 08:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+166992	2012020290592	2012-01-03 00:00:00	2011-12-15 05:04:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+167123	2012021290925	2012-01-04 00:00:00	2011-12-11 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		900.0	Approve in Full
+168064	2012031591733	2012-02-02 00:00:00	2011-12-20 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+169334	2012041792984	2012-03-19 00:00:00	2012-03-02 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+169911	2012050293533	2012-04-10 00:00:00	2012-04-08 10:30:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+170039	2012050893713	2012-04-13 00:00:00	2012-03-29 06:39:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+171524	2012071095201	2012-06-06 00:00:00	2012-04-23 06:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+172128	2012080295838	2012-06-27 00:00:00	2012-06-16 11:20:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+177642	2013021301415	2013-01-22 00:00:00	2012-12-29 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games		0.0	Deny
+178249	2013022101883	2013-02-12 00:00:00	2013-02-04 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+178853	2013030802493	2013-03-06 00:00:00	2013-03-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Personal Electronics		210.0	Settle
+181256	2013070204990	2013-06-05 00:00:00	2013-05-06 11:35:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Currency		0.0	Deny
+181736	2013081605964	2013-06-21 00:00:00	2013-05-17 00:00:00	LIT	Little Rock National		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+182485	2013071805265	2013-07-18 00:00:00	2013-05-10 10:30:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories		270.43	Settle
+182921	2013091006759	2013-08-01 00:00:00	2013-06-28 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			
+184278	2013102708046	2013-09-17 00:00:00	2013-09-04 10:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			
+185443	2013110608812	2013-11-06 00:00:00	2013-09-05 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Cosmetics,Scientific Intruments,Cosmetics	Baggage/Cases/Purses*Clothing*Cosmetics & Grooming*Medical/Science*Travel Accessories		0.0	Deny
+185596	2013111409355	2013-11-12 00:00:00	2013-10-27 08:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+185824	2013112209605	2013-11-21 00:00:00	2013-10-15 14:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency			
+188059	2014022011828	2014-02-18 00:00:00	2014-02-16 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry	Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+191814	2014080415662	2014-07-22 00:00:00	2014-07-09 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+194911	2014120318827	2014-11-24 00:00:00	2014-11-15 00:00:00	LIT	Little Rock National	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+200547	2015012820229	2015-01-28 00:00:00	2015-01-10 00:00:00	LIT	Little Rock National	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+200553	2015052122634	2015-05-21 00:00:00	2015-04-26 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+200554	2015072424212	2015-07-20 00:00:00	2015-07-06 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+200558	2015082725105	2015-08-21 00:00:00	2015-06-27 00:00:00	LIT	Little Rock National	American Airlines	Passenger Property Loss	Checked Baggage		Containers,Containers,Household Items,Watches & Jewelry,Clothing & Accessories	Baggage/Cases/Purses*Baggage/Cases/Purses*Household Items*Jewelry & Watches*Personal Accessories		0.0	Deny
+200561	2015120427319	2015-11-17 00:00:00	2015-11-02 00:00:00	LIT	Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Supplies	Crafting & Hobby			
+217349	2017091142878	2017-09-11 00:00:00	2017-09-11 00:00:00	LIT	Little Rock National Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			Closed: Canceled
+217350	2017042038732	2017-04-20 00:00:00	2017-03-25 00:00:00	LIT	Little Rock National Little Rock National		Passenger Property Loss	Checkpoint		Other	Currency		580.0	Approve in Full
+217353	2017090842776	2017-07-26 00:00:00	2017-07-21 00:00:00	LIT	Little Rock National Little Rock National	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			Closed: Canceled

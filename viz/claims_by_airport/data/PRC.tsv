@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-61618	2005041582608	2005-04-12 00:00:00	2005-02-28 00:00:00	PRC	Prescott Municipal	American West	Passenger Property Loss	Checked Baggage	111.4	Jewelry - Fine	Denied	0.0	Deny
-136370	2009050758434	2009-04-20 00:00:00	2009-03-19 00:00:00	PRC	Prescott Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	214.49	Cameras - Digital	Canceled	0.0	
-165885	2011120889422	2011-11-21 00:00:00	2011-09-19 11:05:00	PRC	Prescott Municipal	Great Lakes Airline	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
-169137	2012041092741	2012-03-12 00:00:00	2012-03-01 15:50:00	PRC	Prescott Municipal	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+61618	2005041582608	2005-04-12 00:00:00	2005-02-28 00:00:00	PRC	Prescott Municipal	American West	Passenger Property Loss	Checked Baggage	111.4	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+136370	2009050758434	2009-04-20 00:00:00	2009-03-19 00:00:00	PRC	Prescott Municipal	Horizon Air	Passenger Property Loss	Checked Baggage	214.49	Electronics	Cameras - Digital	Canceled	0.0	
+165885	2011120889422	2011-11-21 00:00:00	2011-09-19 11:05:00	PRC	Prescott Municipal	Great Lakes Airline	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+169137	2012041092741	2012-03-12 00:00:00	2012-03-01 15:50:00	PRC	Prescott Municipal	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Other	Currency		0.0	Deny

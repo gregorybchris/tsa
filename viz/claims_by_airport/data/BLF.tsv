@@ -1,3 +1,3 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-52182	2005010472575	2004-12-14 00:00:00	2004-07-27 00:00:00	BLF	Mercer County, Bluefield		Passenger Property Loss	Checked Baggage	492.47	Cameras - Digital	Settled	434.97	Settle
-59262	2005032880089	2005-03-15 00:00:00		BLF	Mercer County, Bluefield	American Airlines	Passenger Property Loss			Jewelry - Fine	Canceled	0.0	
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+52182	2005010472575	2004-12-14 00:00:00	2004-07-27 00:00:00	BLF	Mercer County, Bluefield		Passenger Property Loss	Checked Baggage	492.47	Electronics	Cameras - Digital	Settled	434.97	Settle
+59262	2005032880089	2005-03-15 00:00:00		BLF	Mercer County, Bluefield	American Airlines	Passenger Property Loss			Watches & Jewelry	Jewelry - Fine	Canceled	0.0	

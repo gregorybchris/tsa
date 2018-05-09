@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-113416	2007111434877	2007-11-08 00:00:00	2007-10-27 00:00:00	SGJ	St. Augustine	SkyBus	Passenger Property Loss	Checked Baggage	39.95	Other	Approved	39.95	Approve in Full
-120582	2008040842139	2008-04-01 00:00:00	2008-03-30 00:00:00	SGJ	St. Augustine		Passenger Property Loss	Checked Baggage	10.0	Other	Approved	10.0	Approve in Full
-203527	2015082725127	2015-08-18 00:00:00	2015-04-08 00:00:00	SGJ	St. Augustine	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cameras			
-220121	2017071341555	2017-06-02 00:00:00	2017-05-19 00:00:00	SGJ	St. Augustine St. Augustine	Frontier Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		76.0	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+113416	2007111434877	2007-11-08 00:00:00	2007-10-27 00:00:00	SGJ	St. Augustine	SkyBus	Passenger Property Loss	Checked Baggage	39.95	Other	Other	Approved	39.95	Approve in Full
+120582	2008040842139	2008-04-01 00:00:00	2008-03-30 00:00:00	SGJ	St. Augustine		Passenger Property Loss	Checked Baggage	10.0	Other	Other	Approved	10.0	Approve in Full
+203527	2015082725127	2015-08-18 00:00:00	2015-04-08 00:00:00	SGJ	St. Augustine	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras			
+220121	2017071341555	2017-06-02 00:00:00	2017-05-19 00:00:00	SGJ	St. Augustine St. Augustine	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		76.0	Approve in Full

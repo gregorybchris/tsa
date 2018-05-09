@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-44140	2004102765770	2004-09-09 00:00:00	2004-06-01 00:00:00	PIH	Pocatello Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	31.0	Other	Approved	31.0	Approve in Full
-53473	2005012173983	2005-01-04 00:00:00	2004-12-19 00:00:00	PIH	Pocatello Regional		Passenger Property Loss	Checkpoint	930.0	Currency	Denied	0.0	Deny
-59734	2005040181192	2005-03-22 00:00:00	2005-02-24 00:00:00	PIH	Pocatello Regional	USAir	Passenger Property Loss	Checked Baggage	65.87	Other	Approved	65.87	Approve in Full
-94251	2006111315494	2006-11-07 00:00:00	2006-10-20 00:00:00	PIH	Pocatello Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	299.0	Cameras - Digital*Jewelry - Fine	Denied	0.0	Deny
-211086	2017011736586	2016-11-25 00:00:00	2016-11-22 00:00:00	PIH	Pocatello Regional Pocatello Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Electronics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+44140	2004102765770	2004-09-09 00:00:00	2004-06-01 00:00:00	PIH	Pocatello Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	31.0	Other	Other	Approved	31.0	Approve in Full
+53473	2005012173983	2005-01-04 00:00:00	2004-12-19 00:00:00	PIH	Pocatello Regional		Passenger Property Loss	Checkpoint	930.0	Other	Currency	Denied	0.0	Deny
+59734	2005040181192	2005-03-22 00:00:00	2005-02-24 00:00:00	PIH	Pocatello Regional	USAir	Passenger Property Loss	Checked Baggage	65.87	Other	Other	Approved	65.87	Approve in Full
+94251	2006111315494	2006-11-07 00:00:00	2006-10-20 00:00:00	PIH	Pocatello Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	299.0	Electronics,Watches & Jewelry	Cameras - Digital*Jewelry - Fine	Denied	0.0	Deny
+211086	2017011736586	2016-11-25 00:00:00	2016-11-22 00:00:00	PIH	Pocatello Regional Pocatello Regional	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			In Review

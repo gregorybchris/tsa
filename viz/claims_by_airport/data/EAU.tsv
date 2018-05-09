@@ -1,10 +1,10 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-57732	2005031778691	2005-02-23 00:00:00	2004-12-15 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	75.0	Jewelry - Fine	Denied	0.0	Deny
-76087	2005120797060	2005-11-28 00:00:00	2005-11-11 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1429.04	Medicines	Denied	0.0	Deny
-113839	2007112035289	2007-11-16 00:00:00	2007-10-30 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other*Scissors, Shears (other than electric)	Denied	0.0	Deny
-131548	2008121653458	2008-12-09 00:00:00	2008-11-04 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	600.0	Jewelry - Fine	Denied	0.0	Deny
-152883	2010092176243	2010-09-16 00:00:00	2010-08-22 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Medical/Science		0.0	Deny
-163261	2011082286351	2011-08-22 00:00:00	2011-08-03 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		6.5	Approve in Full
-167963	2012031491684	2012-01-30 00:00:00	2011-12-26 14:30:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing		18.0	Approve in Full
-197613	2015031721298	2015-03-17 00:00:00	2015-03-15 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Jewelry & Watches			
-206271	2017011736600	2016-11-25 00:00:00	2016-06-17 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+57732	2005031778691	2005-02-23 00:00:00	2004-12-15 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	75.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+76087	2005120797060	2005-11-28 00:00:00	2005-11-11 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1429.04	Supplies	Medicines	Denied	0.0	Deny
+113839	2007112035289	2007-11-16 00:00:00	2007-10-30 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other,Tools & Machines	Other*Scissors, Shears (other than electric)	Denied	0.0	Deny
+131548	2008121653458	2008-12-09 00:00:00	2008-11-04 00:00:00	EAU	Chippewa Valley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	600.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+152883	2010092176243	2010-09-16 00:00:00	2010-08-22 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		0.0	Deny
+163261	2011082286351	2011-08-22 00:00:00	2011-08-03 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		6.5	Approve in Full
+167963	2012031491684	2012-01-30 00:00:00	2011-12-26 14:30:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		18.0	Approve in Full
+197613	2015031721298	2015-03-17 00:00:00	2015-03-15 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry	Baggage/Cases/Purses*Jewelry & Watches			
+206271	2017011736600	2016-11-25 00:00:00	2016-06-17 00:00:00	EAU	Chippewa Valley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review

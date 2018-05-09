@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-69681	2005081790776	2005-08-08 00:00:00	2005-06-29 00:00:00	PUW	Pullman/Moscow Regional	Air Canada	Passenger Property Loss	Checked Baggage	21.75	Locks	Approved	21.75	Approve in Full
-93447	2006102614653	2006-10-20 00:00:00	2006-10-13 00:00:00	PUW	Pullman/Moscow Regional	Alaska Airlines	Passenger Property Loss	Checked Baggage	65.0	Barber Supplies - Scissors, shears, elecric razors, etc.	Settled	32.5	Settle
-192205	2014082016059	2014-08-05 00:00:00	2014-06-25 00:00:00	PUW	Pullman/Moscow Regional	Horizon Air	Passenger Property Loss	Checked Baggage		Personal Accessories			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+69681	2005081790776	2005-08-08 00:00:00	2005-06-29 00:00:00	PUW	Pullman/Moscow Regional	Air Canada	Passenger Property Loss	Checked Baggage	21.75	Tools & Machines	Locks	Approved	21.75	Approve in Full
+93447	2006102614653	2006-10-20 00:00:00	2006-10-13 00:00:00	PUW	Pullman/Moscow Regional	Alaska Airlines	Passenger Property Loss	Checked Baggage	65.0	Tools & Machines	Barber Supplies - Scissors, shears, elecric razors, etc.	Settled	32.5	Settle
+192205	2014082016059	2014-08-05 00:00:00	2014-06-25 00:00:00	PUW	Pullman/Moscow Regional	Horizon Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			

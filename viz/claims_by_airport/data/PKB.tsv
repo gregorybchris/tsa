@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-30450	2004043050264	2004-03-15 00:00:00	2003-11-10 00:00:00	PKB	Mid Ohio Valley Regional	USAir	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-30759	2004052653575	2004-03-18 00:00:00	2004-02-21 00:00:00	PKB	Mid Ohio Valley Regional		Passenger Property Loss	Checked Baggage	1675.0	Jewelry - Fine	Denied	0.0	Deny
-34237	2004052453116	2004-05-04 00:00:00	2004-02-21 00:00:00	PKB	Mid Ohio Valley Regional	USAir	Passenger Property Loss	Checked Baggage	1675.0	Jewelry - Fine	Canceled	0.0	
-65591	2005061786525	2005-06-07 00:00:00	2005-06-02 00:00:00	PKB	Mid Ohio Valley Regional	USAir	Passenger Property Loss	Checked Baggage	23.71	Other	Approved	23.71	Approve in Full
-173860	2012101197523	2012-08-28 00:00:00	2012-08-24 00:00:00	PKB	Mid Ohio Valley Regional	UAL	Passenger Property Loss	Checked Baggage		Other		42.52	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+30450	2004043050264	2004-03-15 00:00:00	2003-11-10 00:00:00	PKB	Mid Ohio Valley Regional	USAir	Passenger Property Loss	Checked Baggage	1000.0	Other	Other	Denied	0.0	Deny
+30759	2004052653575	2004-03-18 00:00:00	2004-02-21 00:00:00	PKB	Mid Ohio Valley Regional		Passenger Property Loss	Checked Baggage	1675.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+34237	2004052453116	2004-05-04 00:00:00	2004-02-21 00:00:00	PKB	Mid Ohio Valley Regional	USAir	Passenger Property Loss	Checked Baggage	1675.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+65591	2005061786525	2005-06-07 00:00:00	2005-06-02 00:00:00	PKB	Mid Ohio Valley Regional	USAir	Passenger Property Loss	Checked Baggage	23.71	Other	Other	Approved	23.71	Approve in Full
+173860	2012101197523	2012-08-28 00:00:00	2012-08-24 00:00:00	PKB	Mid Ohio Valley Regional	UAL	Passenger Property Loss	Checked Baggage		Other	Other		42.52	Approve in Full

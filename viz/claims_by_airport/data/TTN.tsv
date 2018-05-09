@@ -1,17 +1,17 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-108533	2007080729765	2007-08-06 00:00:00	2007-07-17 00:00:00	TTN	Trenton-Mercer	Delta Air Lines	Passenger Property Loss	Checked Baggage	1806.0	Other	Denied	0.0	Deny
-177046	2013012900616	2013-01-02 00:00:00	2012-12-14 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		16.5	Approve in Full
-182117	2013082206167	2013-07-03 00:00:00	2013-04-26 18:00:00	TTN	Trenton-Mercer		Passenger Property Loss	Checkpoint		Clothing		60.0	Approve in Full
-186024	2013120409841	2013-12-02 00:00:00	2013-12-01 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			
-186971	2014011010710	2014-01-07 00:00:00	2014-01-05 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-187888	2014021211652	2014-02-07 00:00:00	2014-01-10 00:00:00	TTN	Trenton-Mercer		Passenger Property Loss	Checked Baggage		Personal Electronics			
-188840	2014032012631	2014-03-19 00:00:00	2014-03-01 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Personal Electronics		0.0	Deny
-204057	2015012019969	2015-01-20 00:00:00	2015-01-12 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-204059	2015030420990	2015-03-04 00:00:00	2015-02-18 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other		19.99	Approve in Full
-204061	2015100225824	2015-09-18 00:00:00	2015-09-06 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		89.0	Approve in Full
-212280	2016092233745	2016-08-01 00:00:00	2016-08-01 06:15:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.99	Approve in Full
-212281	2016021928993	2016-01-29 00:00:00	2016-01-03 10:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Closed:Contractor Claim
-212283	2016040530349	2016-03-18 00:00:00	2016-03-09 06:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		40.0	Settle
-220617	2017102544683	2017-10-05 00:00:00	2017-09-06 12:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			In Review
-220618	2017060740335	2017-04-17 00:00:00	2017-01-01 00:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checkpoint		Clothing			In Review
-220619	2017101244335	2017-09-19 00:00:00	2017-09-18 05:45:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+108533	2007080729765	2007-08-06 00:00:00	2007-07-17 00:00:00	TTN	Trenton-Mercer	Delta Air Lines	Passenger Property Loss	Checked Baggage	1806.0	Other	Other	Denied	0.0	Deny
+177046	2013012900616	2013-01-02 00:00:00	2012-12-14 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		16.5	Approve in Full
+182117	2013082206167	2013-07-03 00:00:00	2013-04-26 18:00:00	TTN	Trenton-Mercer		Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		60.0	Approve in Full
+186024	2013120409841	2013-12-02 00:00:00	2013-12-01 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+186971	2014011010710	2014-01-07 00:00:00	2014-01-05 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+187888	2014021211652	2014-02-07 00:00:00	2014-01-10 00:00:00	TTN	Trenton-Mercer		Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+188840	2014032012631	2014-03-19 00:00:00	2014-03-01 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Containers,Electronics	Baggage/Cases/Purses*Personal Electronics		0.0	Deny
+204057	2015012019969	2015-01-20 00:00:00	2015-01-12 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+204059	2015030420990	2015-03-04 00:00:00	2015-02-18 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Other	Other		19.99	Approve in Full
+204061	2015100225824	2015-09-18 00:00:00	2015-09-06 00:00:00	TTN	Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		89.0	Approve in Full
+212280	2016092233745	2016-08-01 00:00:00	2016-08-01 06:15:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.99	Approve in Full
+212281	2016021928993	2016-01-29 00:00:00	2016-01-03 10:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Closed:Contractor Claim
+212283	2016040530349	2016-03-18 00:00:00	2016-03-09 06:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		40.0	Settle
+220617	2017102544683	2017-10-05 00:00:00	2017-09-06 12:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			In Review
+220618	2017060740335	2017-04-17 00:00:00	2017-01-01 00:00:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing			In Review
+220619	2017101244335	2017-09-19 00:00:00	2017-09-18 05:45:00	TTN	Trenton-Mercer Trenton-Mercer	Frontier Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			In Review

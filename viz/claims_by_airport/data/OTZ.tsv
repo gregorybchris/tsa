@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-105907	2007062027201	2007-06-15 00:00:00	2007-04-27 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-176145	2013010499529	2012-11-23 00:00:00	2012-10-31 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Toys & Games		0.0	Deny
-202136	2015110526599	2015-10-16 00:00:00	2015-09-09 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint		Other			
-210622	2016052631779	2016-05-11 00:00:00	2016-04-09 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+105907	2007062027201	2007-06-15 00:00:00	2007-04-27 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+176145	2013010499529	2012-11-23 00:00:00	2012-10-31 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games		0.0	Deny
+202136	2015110526599	2015-10-16 00:00:00	2015-09-09 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint		Other	Other			
+210622	2016052631779	2016-05-11 00:00:00	2016-04-09 00:00:00	OTZ	Kotzebue 'Ralph Wien Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review

@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-110564	2007091432003	2007-09-11 00:00:00	2007-08-30 00:00:00	EAR	Kearney Municipal Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	234.97	Cell Phones*GPS - Global Positioning System	Denied	0.0	Deny
-153442	2010101376893	2010-10-04 00:00:00	2010-09-20 06:29:00	EAR	Kearney Municipal Airport	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items		0.0	Deny
-176309	2012112998959	2012-11-29 00:00:00	2012-09-19 06:10:00	EAR	Kearney Municipal Airport	UAL	Passenger Property Loss	Checkpoint		Cameras		137.82	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+110564	2007091432003	2007-09-11 00:00:00	2007-08-30 00:00:00	EAR	Kearney Municipal Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage	234.97	Electronics,Electronics	Cell Phones*GPS - Global Positioning System	Denied	0.0	Deny
+153442	2010101376893	2010-10-04 00:00:00	2010-09-20 06:29:00	EAR	Kearney Municipal Airport	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+176309	2012112998959	2012-11-29 00:00:00	2012-09-19 06:10:00	EAR	Kearney Municipal Airport	UAL	Passenger Property Loss	Checkpoint		Electronics	Cameras		137.82	Approve in Full

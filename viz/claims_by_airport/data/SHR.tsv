@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-103468	2007073029312	2007-04-26 00:00:00	2007-06-21 00:00:00	SHR	Sheridan County	UAL	Passenger Property Loss	Checked Baggage	439.09	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-161094	2011062484615	2011-06-13 00:00:00	2011-06-06 06:30:00	SHR	Sheridan County	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-162551	2011081286088	2011-07-29 00:00:00	2011-07-11 13:20:00	SHR	Sheridan County	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Travel Accessories		27.44	Approve in Full
-164152	2011101287758	2011-09-21 00:00:00	2011-09-18 00:00:00	SHR	Sheridan County	Frontier Airlines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		60.0	Approve in Full
-184933	2013111009045	2013-10-17 00:00:00	2013-09-29 00:00:00	SHR	Sheridan County	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Other			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+103468	2007073029312	2007-04-26 00:00:00	2007-06-21 00:00:00	SHR	Sheridan County	UAL	Passenger Property Loss	Checked Baggage	439.09	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+161094	2011062484615	2011-06-13 00:00:00	2011-06-06 06:30:00	SHR	Sheridan County	UAL	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+162551	2011081286088	2011-07-29 00:00:00	2011-07-11 13:20:00	SHR	Sheridan County	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		27.44	Approve in Full
+164152	2011101287758	2011-09-21 00:00:00	2011-09-18 00:00:00	SHR	Sheridan County	Frontier Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		60.0	Approve in Full
+184933	2013111009045	2013-10-17 00:00:00	2013-09-29 00:00:00	SHR	Sheridan County	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Other	Other			

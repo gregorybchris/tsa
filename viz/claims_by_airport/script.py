@@ -31,6 +31,8 @@ if __name__ == "__main__":
 
     for result in cursor.fetchall():
         airport_code = result['airport_code']
+        if not airport_code:
+            continue
         print airport_code
         cursor.execute("""
             SELECT id, claim_number, date_received, incident_date, airport_code, airport_name, airline, claim_type, claim_site, claim_amount, items, status, close_amount, disposition FROM claim x
@@ -56,7 +58,8 @@ if __name__ == "__main__":
                 'claim_type',
                 'claim_site',
                 'claim_amount',
-                'items',
+                'items_new',
+                'items_old',
                 'status',
                 'close_amount',
                 'disposition',
@@ -73,7 +76,7 @@ if __name__ == "__main__":
                     claim['claim_type'],
                     claim['claim_site'],
                     claim['claim_amount'],
-                    #','.join(map(lambda old: new_category[old], claim['items'].split('*'))),
+                    ','.join(map(lambda old: new_category[old], claim['items'].split('*'))),
                     claim['items'],
                     claim['status'],
                     claim['close_amount'],

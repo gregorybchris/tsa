@@ -1,3 +1,3 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-75242	2005112196309	2005-11-09 00:00:00	2005-04-06 00:00:00	FMN	Four Corners Regional Airport Farmington, NM		Passenger Property Loss			Currency	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-148840	2010052172028	2010-05-19 00:00:00	2010-05-13 00:00:00	FMN	Four Corners Regional Airport Farmington, NM	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cameras*Other*Other*Other*Other		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+75242	2005112196309	2005-11-09 00:00:00	2005-04-06 00:00:00	FMN	Four Corners Regional Airport Farmington, NM		Passenger Property Loss			Other	Currency	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+148840	2010052172028	2010-05-19 00:00:00	2010-05-13 00:00:00	FMN	Four Corners Regional Airport Farmington, NM	Frontier Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other,Other,Other,Other	Cameras*Other*Other*Other*Other		0.0	Deny

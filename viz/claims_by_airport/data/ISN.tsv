@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-149042	2010060372325	2010-05-25 00:00:00	2010-05-16 00:00:00	ISN	Sloulin Field International	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Computer & Accessories			
-207585	2016051731394	2016-05-17 00:00:00	2016-05-17 00:00:00	ISN	Sloulin Field International Sloulin Field International	UAL	Passenger Property Loss	Checkpoint		Currency			Closed:Canceled
-215811	2017052339905	2017-04-06 00:00:00	2017-03-09 12:30:00	ISN	Sloulin Field International Sloulin Field International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Audio/Video			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+149042	2010060372325	2010-05-25 00:00:00	2010-05-16 00:00:00	ISN	Sloulin Field International	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			
+207585	2016051731394	2016-05-17 00:00:00	2016-05-17 00:00:00	ISN	Sloulin Field International Sloulin Field International	UAL	Passenger Property Loss	Checkpoint		Other	Currency			Closed:Canceled
+215811	2017052339905	2017-04-06 00:00:00	2017-03-09 12:30:00	ISN	Sloulin Field International Sloulin Field International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video			In Review

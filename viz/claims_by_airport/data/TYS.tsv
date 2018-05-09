@@ -1,97 +1,97 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-791	0714548M	2002-12-18 00:00:00	2002-01-08 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint	347.0	Other	Denied		Deny
-4380	0331003L	2003-03-31 00:00:00	2003-03-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	2575.0	Jewelry - Fine	Settled	200.0	Settle
-9641	0630002M	2003-06-30 00:00:00	2003-06-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	27.85	Other	Settled	13.93	Settle
-9881	0701231M	2003-07-01 00:00:00	2003-06-08 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	20.0	Luggage (all types including footlockers)	Settled	10.0	Settle
-10613	0711046M	2003-07-11 00:00:00	2003-04-30 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checkpoint		Eyeglasses - (including contact lenses)	Settled	146.19	Settle
-11329	0721075M	2003-07-21 00:00:00	2003-05-05 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	525.0	Jewelry - Fine	Denied	0.0	Deny
-12527	0805024M	2003-08-05 00:00:00	2003-06-25 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	140.0	Jewelry - Fine	Denied	0.0	Deny
-13342	0814167M	2003-08-14 00:00:00	2003-07-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	750.0	Jewelry - Fine	Denied	0.0	Deny
-19632	1106197M	2003-11-06 00:00:00	2003-10-22 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Other	2395.0	Computer - Laptop	Settled	1197.5	Settle
-20568	1117331M	2003-11-17 00:00:00	2003-10-17 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint	917.0	Eyeglasses - (including contact lenses)	Settled	871.15	Settle
-21349	1204020M	2003-12-04 00:00:00	2003-11-22 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	1450.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-23314	1222002M	2003-12-22 00:00:00	2003-11-19 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	20.0	Locks	Denied	0.0	Deny
-24910	0114464M	2004-01-14 00:00:00	2003-10-31 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	660.0	Jewelry - Fine	Denied	0.0	Deny
-29973	2004051150955	2004-03-11 00:00:00	2004-02-18 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.93	Locks	Approved	10.93	Approve in Full
-36572	2004062256789	2004-05-28 00:00:00	2004-05-19 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	255.0	Jewelry - Fine	Canceled	0.0	
-44094	2004102065315	2004-09-09 00:00:00	2004-08-22 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	550.0	Jewelry - Fine	Approved	550.0	Approve in Full
-45351	2004101965185	2004-09-20 00:00:00	2004-08-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	26.49	Other	Approved	26.49	Approve in Full
-48690	2004122169745	2004-10-29 00:00:00	2004-10-24 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	39.5	Clothing - Shoes, belts, accessories, etc.	Approved	39.5	Approve in Full
-50062	2004122270576	2004-11-16 00:00:00	2004-10-24 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-51895	2005010372217	2004-12-13 00:00:00	2004-10-26 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Other	Settled	700.0	Settle
-54310	2005020275418	2005-01-11 00:00:00	2004-10-21 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	775.0	Clothing - Shoes, belts, accessories, etc.	Settled	125.0	Settle
-54823	2005020275330	2005-01-19 00:00:00	2005-01-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
-62405	2005042583240	2005-04-22 00:00:00	2005-04-16 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	297.0	Cameras - Digital	Settled	148.5	Settle
-64307	2005051985076	2005-05-18 00:00:00	2005-01-10 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	55.0	Other	Settled	27.5	Settle
-66048	2005062487191	2005-06-13 00:00:00	2005-06-07 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	2100.0	Jewelry - Fine	Denied	0.0	Deny
-70805	2005083091873	2005-08-24 00:00:00	2005-08-14 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	120.0	Other	Settled	70.0	Settle
-72508	2005093093545	2005-09-21 00:00:00	2005-09-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	368.45	Cameras - Digital	Denied	0.0	Deny
-73625	2005101794719	2005-10-12 00:00:00	2005-10-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	39.0	Other	Denied	0.0	Deny
-74243	2005103195379	2005-10-21 00:00:00	2005-10-07 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	601.14	Jewelry - Fine	Denied	0.0	Deny
-76197	2005120897331	2005-11-28 00:00:00	2005-07-10 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Other	Settled	42.5	Settle
-77640	2006010498723	2005-12-27 00:00:00	2005-12-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Eagle	Passenger Property Loss	Checked Baggage	1300.0	Computer - Laptop	Denied	0.0	Deny
-78856	2006012300051	2006-01-17 00:00:00	2005-12-18 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Approved	200.0	Approve in Full
-79578	2006020100737	2006-01-26 00:00:00	2005-12-03 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	61.0	Currency	Approved	61.0	Approve in Full
-80858	2006022302008	2006-02-16 00:00:00	2006-01-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	360.0	Cameras - Digital	Settled	97.14	Settle
-81573	2006030802756	2006-03-03 00:00:00	2006-02-23 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	55.0	Cell Phones	Approved	55.0	Approve in Full
-81932	2006031403080	2006-03-09 00:00:00	2006-03-01 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	218.98	Other	Denied	0.0	Deny
-82178	2006031703313	2006-03-14 00:00:00	2006-02-25 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	99.99	Other	Denied	0.0	Deny
-82737	2006040403949	2006-03-23 00:00:00	2006-03-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	39.25	Other	Denied	0.0	Deny
-83833	2006042505340	2006-04-14 00:00:00	2006-03-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
-84351	2006042805430	2006-04-25 00:00:00	2006-04-03 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.99	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-87279	2006062308480	2006-06-23 00:00:00	2006-06-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	660.0	Jewelry - Costume*Watches - Expensive more than $100	Denied	0.0	Deny
-88894	2006072710140	2006-07-25 00:00:00	2006-07-09 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.12	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
-89003	2006073110286	2006-07-26 00:00:00	2006-07-17 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	82.5	Clothing - Shoes, belts, accessories, etc.	Settled	41.25	Settle
-89252	2006080410522	2006-08-01 00:00:00	2006-07-25 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-92096	2006092713347	2006-09-25 00:00:00	2006-09-07 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	792.0	Jewelry - Fine	Denied	0.0	Deny
-93579	2006103114860	2006-10-24 00:00:00	2006-10-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	164.93	Telephones, Answering Machines, Telecommunication for the Deaf	Denied	0.0	Deny
-94224	2006111315511	2006-11-07 00:00:00	2006-10-27 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	21.6	Locks	Approved	21.6	Approve in Full
-96258	2006122117626	2006-12-14 00:00:00	2006-12-06 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	1400.0	Computer - Laptop	Denied	0.0	Deny
-96725	2006122818132	2006-12-26 00:00:00	2006-11-12 00:00:00	TYS	Mcghee Tyson ,Knoxville	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	385.0	Clocks - Expensive ($75.00 or more)*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-98236	2007032823110	2007-01-17 00:00:00	2006-08-18 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint	120.0	Eyeglasses - (including contact lenses)	Approved	120.0	Approve in Full
-100348	2007022621551	2007-02-26 00:00:00	2007-02-12 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-101698	2007032622979	2007-03-22 00:00:00	2007-02-21 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	95.0	Watches - Inexpensive $100 or less	Approved	95.0	Approve in Full
-103140	2007042624557	2007-04-19 00:00:00	2007-04-11 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	110.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Denied	0.0	Deny
-107987	2007073029310	2007-07-26 00:00:00	2007-06-27 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-110947	2007092132394	2007-09-19 00:00:00	2007-09-10 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	7.47	Locks	Approved	7.47	Approve in Full
-111020	2007092132396	2007-09-19 00:00:00	2007-09-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	54.85	Currency	Settled	27.43	Settle
-120184	2008040141653	2008-03-25 00:00:00	2008-01-24 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	450.5	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-120446	2008040942178	2008-03-31 00:00:00	2008-03-19 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	1008.6	Computer - Laptop	Approved	1008.6	Approve in Full
-122468	2008051344163	2008-05-07 00:00:00	2008-04-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	40.0	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
-125563	2008072447339	2008-07-16 00:00:00	2008-07-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	172.95	GPS - Global Positioning System	Canceled	0.0	
-131054	2008112852850	2008-11-25 00:00:00	2008-11-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.59	Locks	Denied	0.0	Deny
-134264	2009031056031	2009-02-20 00:00:00	2009-01-30 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	304.95	GPS - Global Positioning System	Denied	0.0	Deny
-134582	2009032556853	2009-03-03 00:00:00	2009-02-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checkpoint	878.82	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-135383	2009041157317	2009-03-23 00:00:00	2009-03-11 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	35.0	Alcoholic beverages	Denied	0.0	Deny
-138883	2009070860928	2009-06-29 00:00:00	2009-06-28 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Alcoholic beverages	Denied	0.0	Deny
-144538	2009121866678	2009-12-10 00:00:00	2009-11-23 08:45:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checkpoint	75.0	Jewelry - Costume	Denied	0.0	Deny
-150527	2010072173924	2010-07-12 00:00:00	2010-06-28 00:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-154799	2010112678204	2010-11-16 00:00:00	2010-11-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-157360	2011030480939	2011-02-08 00:00:00	2011-01-04 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Electronics			
-157595	2011030880987	2011-02-17 00:00:00	2011-02-01 11:15:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-161963	2011072785573	2011-07-12 00:00:00	2011-06-03 14:30:00	TYS	Mcghee Tyson ,Knoxville	Vision Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
-163397	2011091987008	2011-08-24 00:00:00	2011-07-25 07:30:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink*Jewelry & Watches		0.0	Deny
-164666	2011101888082	2011-10-11 00:00:00	2011-10-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			
-165315	2011110788734	2011-10-31 00:00:00	2011-10-16 20:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage		Food & Drink		50.46	Approve in Full
-168756	2012042593247	2012-02-27 00:00:00	2012-02-06 00:00:00	TYS	Mcghee Tyson ,Knoxville	AirTran Airlines	Passenger Property Loss	Checked Baggage		Other		65.0	Approve in Full
-169356	2012041292836	2012-03-20 00:00:00	2012-02-19 19:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint		Personal Accessories		219.95	Approve in Full
-170382	2012051694053	2012-04-26 00:00:00	2012-02-18 00:00:00	TYS	Mcghee Tyson ,Knoxville	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
-170598	2012052394207	2012-05-03 00:00:00	2012-04-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		49.99	Approve in Full
-171017	2012060894659	2012-05-17 00:00:00	2012-05-06 20:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Personal Accessories		503.81	Settle
-172062	2012073095785	2012-06-25 00:00:00	2012-06-01 09:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-172727	2012090596564	2012-07-18 00:00:00	2012-07-14 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		30.0	Approve in Full
-175648	2012120599083	2012-11-05 00:00:00	2012-10-23 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-176116	2013011099798	2012-11-21 00:00:00	2012-11-04 06:40:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		180.0	Approve in Full
-176496	2013012400294	2012-12-06 00:00:00	2012-11-30 10:55:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		306.45	Approve in Full
-177060	2013013000664	2013-01-02 00:00:00	2012-12-23 08:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checkpoint		Other		215.0	Approve in Full
-179594	2013042303276	2013-04-03 00:00:00	2013-03-22 07:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		0.0	Deny
-182865	2013090506558	2013-08-01 00:00:00	2013-07-24 10:30:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checkpoint		Currency			
-183690	2013092207195	2013-08-28 00:00:00	2013-08-23 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-184841	2013103108441	2013-10-16 00:00:00	2013-10-14 15:30:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-204105	2015072024012	2015-07-13 00:00:00	2015-07-03 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-204107	2015120827383	2015-11-16 00:00:00	2015-11-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Frontier Airlines	Passenger Property Loss	Checkpoint		Personal Accessories			
-212309	2016032530111	2016-03-10 00:00:00	2016-01-10 07:30:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-212311	2016071532751	2016-07-15 00:00:00	2016-07-13 00:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	Frontier Airlines	Passenger Property Loss	Checkpoint		Currency		0.0	Deny
-212312	2017010936385	2016-11-18 00:00:00	2016-11-01 00:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint		Computer & Accessories			In Review
-212313	2017020637323	2016-12-29 00:00:00	2016-11-30 00:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Personal Electronics			In Review
-220672	2018010446440	2017-12-14 00:00:00	2017-11-29 07:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Personal Accessories			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+791	0714548M	2002-12-18 00:00:00	2002-01-08 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint	347.0	Other	Other	Denied		Deny
+4380	0331003L	2003-03-31 00:00:00	2003-03-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	2575.0	Watches & Jewelry	Jewelry - Fine	Settled	200.0	Settle
+9641	0630002M	2003-06-30 00:00:00	2003-06-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	27.85	Other	Other	Settled	13.93	Settle
+9881	0701231M	2003-07-01 00:00:00	2003-06-08 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	20.0	Containers	Luggage (all types including footlockers)	Settled	10.0	Settle
+10613	0711046M	2003-07-11 00:00:00	2003-04-30 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	146.19	Settle
+11329	0721075M	2003-07-21 00:00:00	2003-05-05 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	525.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+12527	0805024M	2003-08-05 00:00:00	2003-06-25 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	140.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+13342	0814167M	2003-08-14 00:00:00	2003-07-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+19632	1106197M	2003-11-06 00:00:00	2003-10-22 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Other	2395.0	Electronics	Computer - Laptop	Settled	1197.5	Settle
+20568	1117331M	2003-11-17 00:00:00	2003-10-17 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint	917.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	871.15	Settle
+21349	1204020M	2003-12-04 00:00:00	2003-11-22 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	1450.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+23314	1222002M	2003-12-22 00:00:00	2003-11-19 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+24910	0114464M	2004-01-14 00:00:00	2003-10-31 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	660.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+29973	2004051150955	2004-03-11 00:00:00	2004-02-18 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.93	Tools & Machines	Locks	Approved	10.93	Approve in Full
+36572	2004062256789	2004-05-28 00:00:00	2004-05-19 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	255.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+44094	2004102065315	2004-09-09 00:00:00	2004-08-22 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	550.0	Watches & Jewelry	Jewelry - Fine	Approved	550.0	Approve in Full
+45351	2004101965185	2004-09-20 00:00:00	2004-08-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	26.49	Other	Other	Approved	26.49	Approve in Full
+48690	2004122169745	2004-10-29 00:00:00	2004-10-24 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	39.5	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	39.5	Approve in Full
+50062	2004122270576	2004-11-16 00:00:00	2004-10-24 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+51895	2005010372217	2004-12-13 00:00:00	2004-10-26 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	1000.0	Other	Other	Settled	700.0	Settle
+54310	2005020275418	2005-01-11 00:00:00	2004-10-21 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	775.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	125.0	Settle
+54823	2005020275330	2005-01-19 00:00:00	2005-01-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	50.0	Approve in Full
+62405	2005042583240	2005-04-22 00:00:00	2005-04-16 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	297.0	Electronics	Cameras - Digital	Settled	148.5	Settle
+64307	2005051985076	2005-05-18 00:00:00	2005-01-10 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	55.0	Other	Other	Settled	27.5	Settle
+66048	2005062487191	2005-06-13 00:00:00	2005-06-07 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	2100.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+70805	2005083091873	2005-08-24 00:00:00	2005-08-14 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	120.0	Other	Other	Settled	70.0	Settle
+72508	2005093093545	2005-09-21 00:00:00	2005-09-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	368.45	Electronics	Cameras - Digital	Denied	0.0	Deny
+73625	2005101794719	2005-10-12 00:00:00	2005-10-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	39.0	Other	Other	Denied	0.0	Deny
+74243	2005103195379	2005-10-21 00:00:00	2005-10-07 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	601.14	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+76197	2005120897331	2005-11-28 00:00:00	2005-07-10 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.0	Other	Other	Settled	42.5	Settle
+77640	2006010498723	2005-12-27 00:00:00	2005-12-02 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Eagle	Passenger Property Loss	Checked Baggage	1300.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+78856	2006012300051	2006-01-17 00:00:00	2005-12-18 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Approved	200.0	Approve in Full
+79578	2006020100737	2006-01-26 00:00:00	2005-12-03 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	61.0	Other	Currency	Approved	61.0	Approve in Full
+80858	2006022302008	2006-02-16 00:00:00	2006-01-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	360.0	Electronics	Cameras - Digital	Settled	97.14	Settle
+81573	2006030802756	2006-03-03 00:00:00	2006-02-23 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	55.0	Electronics	Cell Phones	Approved	55.0	Approve in Full
+81932	2006031403080	2006-03-09 00:00:00	2006-03-01 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	218.98	Other	Other	Denied	0.0	Deny
+82178	2006031703313	2006-03-14 00:00:00	2006-02-25 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	99.99	Other	Other	Denied	0.0	Deny
+82737	2006040403949	2006-03-23 00:00:00	2006-03-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	39.25	Other	Other	Denied	0.0	Deny
+83833	2006042505340	2006-04-14 00:00:00	2006-03-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+84351	2006042805430	2006-04-25 00:00:00	2006-04-03 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	89.99	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+87279	2006062308480	2006-06-23 00:00:00	2006-06-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	660.0	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Watches - Expensive more than $100	Denied	0.0	Deny
+88894	2006072710140	2006-07-25 00:00:00	2006-07-09 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	36.12	Outdoors Supplies	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+89003	2006073110286	2006-07-26 00:00:00	2006-07-17 00:00:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage	82.5	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	41.25	Settle
+89252	2006080410522	2006-08-01 00:00:00	2006-07-25 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+92096	2006092713347	2006-09-25 00:00:00	2006-09-07 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	792.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+93579	2006103114860	2006-10-24 00:00:00	2006-10-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	164.93	Tools & Machines	Telephones, Answering Machines, Telecommunication for the Deaf	Denied	0.0	Deny
+94224	2006111315511	2006-11-07 00:00:00	2006-10-27 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	21.6	Tools & Machines	Locks	Approved	21.6	Approve in Full
+96258	2006122117626	2006-12-14 00:00:00	2006-12-06 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	1400.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+96725	2006122818132	2006-12-26 00:00:00	2006-11-12 00:00:00	TYS	Mcghee Tyson ,Knoxville	Hawaiian Airlines	Passenger Property Loss	Checked Baggage	385.0	Household Decor,Clothing & Accessories	Clocks - Expensive ($75.00 or more)*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+98236	2007032823110	2007-01-17 00:00:00	2006-08-18 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint	120.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	120.0	Approve in Full
+100348	2007022621551	2007-02-26 00:00:00	2007-02-12 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	25.0	Other	Other	Approved	25.0	Approve in Full
+101698	2007032622979	2007-03-22 00:00:00	2007-02-21 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	95.0	Watches & Jewelry	Watches - Inexpensive $100 or less	Approved	95.0	Approve in Full
+103140	2007042624557	2007-04-19 00:00:00	2007-04-11 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage	110.5	Cosmetics,Supplies	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Denied	0.0	Deny
+107987	2007073029310	2007-07-26 00:00:00	2007-06-27 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+110947	2007092132394	2007-09-19 00:00:00	2007-09-10 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	7.47	Tools & Machines	Locks	Approved	7.47	Approve in Full
+111020	2007092132396	2007-09-19 00:00:00	2007-09-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	54.85	Other	Currency	Settled	27.43	Settle
+120184	2008040141653	2008-03-25 00:00:00	2008-01-24 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	450.5	Containers,Cosmetics	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+120446	2008040942178	2008-03-31 00:00:00	2008-03-19 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint	1008.6	Electronics	Computer - Laptop	Approved	1008.6	Approve in Full
+122468	2008051344163	2008-05-07 00:00:00	2008-04-22 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage	40.0	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+125563	2008072447339	2008-07-16 00:00:00	2008-07-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	172.95	Electronics	GPS - Global Positioning System	Canceled	0.0	
+131054	2008112852850	2008-11-25 00:00:00	2008-11-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.59	Tools & Machines	Locks	Denied	0.0	Deny
+134264	2009031056031	2009-02-20 00:00:00	2009-01-30 00:00:00	TYS	Mcghee Tyson ,Knoxville	Continental Airlines	Passenger Property Loss	Checked Baggage	304.95	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+134582	2009032556853	2009-03-03 00:00:00	2009-02-15 00:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checkpoint	878.82	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+135383	2009041157317	2009-03-23 00:00:00	2009-03-11 00:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage	35.0	Food & Drink	Alcoholic beverages	Denied	0.0	Deny
+138883	2009070860928	2009-06-29 00:00:00	2009-06-28 00:00:00	TYS	Mcghee Tyson ,Knoxville	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Food & Drink	Alcoholic beverages	Denied	0.0	Deny
+144538	2009121866678	2009-12-10 00:00:00	2009-11-23 08:45:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checkpoint	75.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+150527	2010072173924	2010-07-12 00:00:00	2010-06-28 00:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+154799	2010112678204	2010-11-16 00:00:00	2010-11-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+157360	2011030480939	2011-02-08 00:00:00	2011-01-04 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			
+157595	2011030880987	2011-02-17 00:00:00	2011-02-01 11:15:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+161963	2011072785573	2011-07-12 00:00:00	2011-06-03 14:30:00	TYS	Mcghee Tyson ,Knoxville	Vision Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+163397	2011091987008	2011-08-24 00:00:00	2011-07-25 07:30:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink,Watches & Jewelry	Food & Drink*Jewelry & Watches		0.0	Deny
+164666	2011101888082	2011-10-11 00:00:00	2011-10-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			
+165315	2011110788734	2011-10-31 00:00:00	2011-10-16 20:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		50.46	Approve in Full
+168756	2012042593247	2012-02-27 00:00:00	2012-02-06 00:00:00	TYS	Mcghee Tyson ,Knoxville	AirTran Airlines	Passenger Property Loss	Checked Baggage		Other	Other		65.0	Approve in Full
+169356	2012041292836	2012-03-20 00:00:00	2012-02-19 19:00:00	TYS	Mcghee Tyson ,Knoxville		Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		219.95	Approve in Full
+170382	2012051694053	2012-04-26 00:00:00	2012-02-18 00:00:00	TYS	Mcghee Tyson ,Knoxville	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+170598	2012052394207	2012-05-03 00:00:00	2012-04-13 00:00:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		49.99	Approve in Full
+171017	2012060894659	2012-05-17 00:00:00	2012-05-06 20:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		503.81	Settle
+172062	2012073095785	2012-06-25 00:00:00	2012-06-01 09:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+172727	2012090596564	2012-07-18 00:00:00	2012-07-14 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		30.0	Approve in Full
+175648	2012120599083	2012-11-05 00:00:00	2012-10-23 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+176116	2013011099798	2012-11-21 00:00:00	2012-11-04 06:40:00	TYS	Mcghee Tyson ,Knoxville	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		180.0	Approve in Full
+176496	2013012400294	2012-12-06 00:00:00	2012-11-30 10:55:00	TYS	Mcghee Tyson ,Knoxville	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		306.45	Approve in Full
+177060	2013013000664	2013-01-02 00:00:00	2012-12-23 08:00:00	TYS	Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checkpoint		Other	Other		215.0	Approve in Full
+179594	2013042303276	2013-04-03 00:00:00	2013-03-22 07:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+182865	2013090506558	2013-08-01 00:00:00	2013-07-24 10:30:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checkpoint		Other	Currency			
+183690	2013092207195	2013-08-28 00:00:00	2013-08-23 00:00:00	TYS	Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+184841	2013103108441	2013-10-16 00:00:00	2013-10-14 15:30:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+204105	2015072024012	2015-07-13 00:00:00	2015-07-03 00:00:00	TYS	Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+204107	2015120827383	2015-11-16 00:00:00	2015-11-08 00:00:00	TYS	Mcghee Tyson ,Knoxville	Frontier Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+212309	2016032530111	2016-03-10 00:00:00	2016-01-10 07:30:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+212311	2016071532751	2016-07-15 00:00:00	2016-07-13 00:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	Frontier Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+212312	2017010936385	2016-11-18 00:00:00	2016-11-01 00:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			In Review
+212313	2017020637323	2016-12-29 00:00:00	2016-11-30 00:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			In Review
+220672	2018010446440	2017-12-14 00:00:00	2017-11-29 07:00:00	TYS	Mcghee Tyson ,Knoxville Mcghee Tyson ,Knoxville	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			In Review

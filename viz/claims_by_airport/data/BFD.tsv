@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-61040	2005040781891	2005-04-06 00:00:00	2005-03-11 00:00:00	BFD	Bradford Regional	American Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-61144	2005040781838	2005-04-06 00:00:00	2005-03-26 00:00:00	BFD	Bradford Regional		Passenger Property Loss	Checked Baggage	249.98	Cameras - Digital	Settled	178.95	Settle
-63187	2005050684239	2005-05-04 00:00:00	2005-04-18 00:00:00	BFD	Bradford Regional	American Airlines	Passenger Property Loss	Checked Baggage	42.22	Clothing - Shoes, belts, accessories, etc.	Approved	42.22	Approve in Full
-63266	2005050584184	2005-05-04 00:00:00	2005-03-15 00:00:00	BFD	Bradford Regional	AirTran Airlines	Passenger Property Loss	Checked Baggage	494.47	Cameras - Digital	Settled	419.74	Settle
-75192	2005111896287	2005-11-09 00:00:00	2005-10-24 00:00:00	BFD	Bradford Regional		Passenger Property Loss	Checked Baggage	249.99	Cameras - Digital	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+61040	2005040781891	2005-04-06 00:00:00	2005-03-11 00:00:00	BFD	Bradford Regional	American Airlines	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+61144	2005040781838	2005-04-06 00:00:00	2005-03-26 00:00:00	BFD	Bradford Regional		Passenger Property Loss	Checked Baggage	249.98	Electronics	Cameras - Digital	Settled	178.95	Settle
+63187	2005050684239	2005-05-04 00:00:00	2005-04-18 00:00:00	BFD	Bradford Regional	American Airlines	Passenger Property Loss	Checked Baggage	42.22	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	42.22	Approve in Full
+63266	2005050584184	2005-05-04 00:00:00	2005-03-15 00:00:00	BFD	Bradford Regional	AirTran Airlines	Passenger Property Loss	Checked Baggage	494.47	Electronics	Cameras - Digital	Settled	419.74	Settle
+75192	2005111896287	2005-11-09 00:00:00	2005-10-24 00:00:00	BFD	Bradford Regional		Passenger Property Loss	Checked Baggage	249.99	Electronics	Cameras - Digital	Denied	0.0	Deny

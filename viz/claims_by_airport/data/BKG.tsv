@@ -1,9 +1,9 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-138509	2009062560605	2009-06-17 00:00:00	2009-05-30 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checkpoint	580.0	Cameras - Digital*Medical Equipment & Insturments	Denied	0.0	Deny
-139028	2009071061049	2009-07-01 00:00:00	2009-06-23 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	317.5	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-150027	2010070673338	2010-06-28 00:00:00	2010-05-11 00:00:00	BKG	Branson Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing			
-151927	2010082475291	2010-08-19 00:00:00	2010-08-04 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			
-160750	2011061384277	2011-06-01 00:00:00	2011-05-28 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		12.0	Approve in Full
-173589	2012100197269	2012-08-20 00:00:00	2012-08-06 00:00:00	BKG	Branson Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Jewelry & Watches			
-185506	2013111309226	2013-11-07 00:00:00	2013-10-22 10:30:00	BKG	Branson Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			
-185507	2013111309228	2013-11-07 00:00:00	2013-10-22 10:30:00	BKG	Branson Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Medical/Science		96.98	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+138509	2009062560605	2009-06-17 00:00:00	2009-05-30 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checkpoint	580.0	Electronics,Scientific Intruments	Cameras - Digital*Medical Equipment & Insturments	Denied	0.0	Deny
+139028	2009071061049	2009-07-01 00:00:00	2009-06-23 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage	317.5	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+150027	2010070673338	2010-06-28 00:00:00	2010-05-11 00:00:00	BKG	Branson Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+151927	2010082475291	2010-08-19 00:00:00	2010-08-04 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+160750	2011061384277	2011-06-01 00:00:00	2011-05-28 00:00:00	BKG	Branson Airport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.0	Approve in Full
+173589	2012100197269	2012-08-20 00:00:00	2012-08-06 00:00:00	BKG	Branson Airport	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Watches & Jewelry	Cosmetics & Grooming*Jewelry & Watches			
+185506	2013111309226	2013-11-07 00:00:00	2013-10-22 10:30:00	BKG	Branson Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+185507	2013111309228	2013-11-07 00:00:00	2013-10-22 10:30:00	BKG	Branson Airport	Southwest Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		96.98	Approve in Full

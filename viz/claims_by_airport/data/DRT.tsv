@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-82045	2006031603233	2006-03-10 00:00:00	2006-01-02 00:00:00	DRT	Del Rio International Airport		Passenger Property Loss	Checked Baggage	89.0	Other	Denied	0.0	Deny
-82230	2006032003392	2006-03-14 00:00:00	2006-03-11 00:00:00	DRT	Del Rio International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-172437	2012082596176	2012-07-10 00:00:00	2012-06-03 12:00:00	DRT	Del Rio International Airport	UAL	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+82045	2006031603233	2006-03-10 00:00:00	2006-01-02 00:00:00	DRT	Del Rio International Airport		Passenger Property Loss	Checked Baggage	89.0	Other	Other	Denied	0.0	Deny
+82230	2006032003392	2006-03-14 00:00:00	2006-03-11 00:00:00	DRT	Del Rio International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+172437	2012082596176	2012-07-10 00:00:00	2012-06-03 12:00:00	DRT	Del Rio International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny

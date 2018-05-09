@@ -1,7 +1,7 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-29388	0305041M	2004-03-05 00:00:00	2004-02-09 00:00:00	BRO	Brownsville/South Padre International		Passenger Property Loss	Checked Baggage	80.0	Other	Denied	0.0	Deny
-87894	2006070709165	2006-07-06 00:00:00	2006-06-17 00:00:00	BRO	Brownsville/South Padre International	Continental Airlines	Passenger Property Loss	Checked Baggage	210.94	Cameras - Digital	Denied	0.0	Deny
-109074	2007081630385	2007-08-15 00:00:00	2007-07-15 00:00:00	BRO	Brownsville/South Padre International	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Currency*Other	Denied	0.0	Deny
-117487	2008020839307	2008-01-28 00:00:00	2007-11-09 00:00:00	BRO	Brownsville/South Padre International	Continental Airlines	Passenger Property Loss	Checked Baggage	341.62	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-170660	2012052494270	2012-05-07 00:00:00	2012-05-06 00:00:00	BRO	Brownsville/South Padre International	American Eagle	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
-185167	2013110508675	2013-10-26 00:00:00	2013-10-26 00:00:00	BRO	Brownsville/South Padre International	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+29388	0305041M	2004-03-05 00:00:00	2004-02-09 00:00:00	BRO	Brownsville/South Padre International		Passenger Property Loss	Checked Baggage	80.0	Other	Other	Denied	0.0	Deny
+87894	2006070709165	2006-07-06 00:00:00	2006-06-17 00:00:00	BRO	Brownsville/South Padre International	Continental Airlines	Passenger Property Loss	Checked Baggage	210.94	Electronics	Cameras - Digital	Denied	0.0	Deny
+109074	2007081630385	2007-08-15 00:00:00	2007-07-15 00:00:00	BRO	Brownsville/South Padre International	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Other,Other	Currency*Other	Denied	0.0	Deny
+117487	2008020839307	2008-01-28 00:00:00	2007-11-09 00:00:00	BRO	Brownsville/South Padre International	Continental Airlines	Passenger Property Loss	Checked Baggage	341.62	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+170660	2012052494270	2012-05-07 00:00:00	2012-05-06 00:00:00	BRO	Brownsville/South Padre International	American Eagle	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+185167	2013110508675	2013-10-26 00:00:00	2013-10-26 00:00:00	BRO	Brownsville/South Padre International	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			

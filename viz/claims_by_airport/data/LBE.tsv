@@ -1,21 +1,21 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-84416	2006050105445	2006-04-26 00:00:00	2006-04-23 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	76.0	Clothing - Shoes, belts, accessories, etc.	Settled	38.0	Settle
-86755	2006061407965	2006-06-14 00:00:00	2006-03-09 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.56	Locks	Approved	12.56	Approve in Full
-86780	2006061407963	2006-06-14 00:00:00	2006-02-09 00:00:00	LBE	Arnold Palmer Regional Airport		Passenger Property Loss	Checked Baggage	12.56	Locks	Canceled	0.0	
-86931	2006061908143	2006-06-16 00:00:00	2006-04-17 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1580.06	Medical Equipment & Insturments	Denied	0.0	Deny
-91745	2006092213093	2006-09-18 00:00:00	2006-09-01 00:00:00	LBE	Arnold Palmer Regional Airport		Passenger Property Loss	Checked Baggage	416.0	Other	Denied	0.0	Deny
-92938	2006101914170	2006-10-12 00:00:00	2006-09-23 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	700.0	Jewelry - Fine	Denied	0.0	Deny
-164743	2011081286126	2011-10-12 00:00:00	2011-07-22 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-175530	2012112998951	2012-10-31 00:00:00	2012-10-26 07:10:00	LBE	Arnold Palmer Regional Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Other			
-175598	2012112998939	2012-11-01 00:00:00	2012-10-23 10:25:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-177693	2013021301366	2013-01-23 00:00:00	2013-01-04 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		46.0	Settle
-179183	2013032802839	2013-03-19 00:00:00	2013-02-18 10:45:00	LBE	Arnold Palmer Regional Airport		Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		0.0	Deny
-180128	2013052203797	2013-04-24 00:00:00	2013-03-21 13:35:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-180865	2013061904518	2013-05-22 00:00:00	2013-05-10 11:30:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		39.95	Settle
-182990	2013090906725	2013-08-05 00:00:00	2013-06-20 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Personal Accessories		0.0	Deny
-185049	2013102207642	2013-10-22 00:00:00	2013-09-05 12:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Currency		60.0	Approve in Full
-185911	2013112709713	2013-11-26 00:00:00	2013-09-26 15:25:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss			Clothing			
-185992	2013120409820	2013-11-29 00:00:00	2013-11-02 15:30:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cameras			
-200359	2015072824288	2015-07-22 00:00:00	2015-06-22 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		103.48	Settle
-200360	2015081124776	2015-08-11 00:00:00	2015-07-18 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checkpoint		Personal Accessories		0.0	Deny
-200361	2015102826368	2015-10-08 00:00:00	2015-10-01 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Other		Other		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+84416	2006050105445	2006-04-26 00:00:00	2006-04-23 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	76.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	38.0	Settle
+86755	2006061407965	2006-06-14 00:00:00	2006-03-09 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	12.56	Tools & Machines	Locks	Approved	12.56	Approve in Full
+86780	2006061407963	2006-06-14 00:00:00	2006-02-09 00:00:00	LBE	Arnold Palmer Regional Airport		Passenger Property Loss	Checked Baggage	12.56	Tools & Machines	Locks	Canceled	0.0	
+86931	2006061908143	2006-06-16 00:00:00	2006-04-17 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	1580.06	Scientific Intruments	Medical Equipment & Insturments	Denied	0.0	Deny
+91745	2006092213093	2006-09-18 00:00:00	2006-09-01 00:00:00	LBE	Arnold Palmer Regional Airport		Passenger Property Loss	Checked Baggage	416.0	Other	Other	Denied	0.0	Deny
+92938	2006101914170	2006-10-12 00:00:00	2006-09-23 00:00:00	LBE	Arnold Palmer Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	700.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+164743	2011081286126	2011-10-12 00:00:00	2011-07-22 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+175530	2012112998951	2012-10-31 00:00:00	2012-10-26 07:10:00	LBE	Arnold Palmer Regional Airport	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other			
+175598	2012112998939	2012-11-01 00:00:00	2012-10-23 10:25:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+177693	2013021301366	2013-01-23 00:00:00	2013-01-04 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		46.0	Settle
+179183	2013032802839	2013-03-19 00:00:00	2013-02-18 10:45:00	LBE	Arnold Palmer Regional Airport		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+180128	2013052203797	2013-04-24 00:00:00	2013-03-21 13:35:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+180865	2013061904518	2013-05-22 00:00:00	2013-05-10 11:30:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		39.95	Settle
+182990	2013090906725	2013-08-05 00:00:00	2013-06-20 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories	Cosmetics & Grooming*Personal Accessories		0.0	Deny
+185049	2013102207642	2013-10-22 00:00:00	2013-09-05 12:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Other	Currency		60.0	Approve in Full
+185911	2013112709713	2013-11-26 00:00:00	2013-09-26 15:25:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss			Clothing & Accessories	Clothing			
+185992	2013120409820	2013-11-29 00:00:00	2013-11-02 15:30:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras			
+200359	2015072824288	2015-07-22 00:00:00	2015-06-22 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		103.48	Settle
+200360	2015081124776	2015-08-11 00:00:00	2015-07-18 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		0.0	Deny
+200361	2015102826368	2015-10-08 00:00:00	2015-10-01 00:00:00	LBE	Arnold Palmer Regional Airport	Spirit Airlines	Passenger Property Loss	Other		Other	Other		0.0	Deny

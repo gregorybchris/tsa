@@ -1,5 +1,5 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-68158	2005071889128	2005-07-15 00:00:00	2005-05-22 00:00:00	EKO	Elko Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	45.0	Other	Approved	45.0	Approve in Full
-197620	2015022520869	2015-02-26 00:00:00	2015-02-14 00:00:00	EKO	Elko Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink*Other*Tools & Home Improvement Supplies		50.0	Approve in Full
-197622	2015090125208	2015-08-26 00:00:00	2014-08-14 00:00:00	EKO	Elko Regional	Southwest Airlines	Passenger Property Loss	Checkpoint		Medical/Science		0.0	Deny
-214498	2017102444650	2017-10-10 00:00:00	2017-09-30 00:00:00	EKO	Elko Regional Elko Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing			Insufficient
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+68158	2005071889128	2005-07-15 00:00:00	2005-05-22 00:00:00	EKO	Elko Regional	Delta Air Lines	Passenger Property Loss	Checkpoint	45.0	Other	Other	Approved	45.0	Approve in Full
+197620	2015022520869	2015-02-26 00:00:00	2015-02-14 00:00:00	EKO	Elko Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Food & Drink,Other,Outdoors Supplies	Food & Drink*Other*Tools & Home Improvement Supplies		50.0	Approve in Full
+197622	2015090125208	2015-08-26 00:00:00	2014-08-14 00:00:00	EKO	Elko Regional	Southwest Airlines	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		0.0	Deny
+214498	2017102444650	2017-10-10 00:00:00	2017-09-30 00:00:00	EKO	Elko Regional Elko Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			Insufficient

@@ -1,7 +1,7 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-114000	2007112735498	2007-11-19 00:00:00	2007-10-26 00:00:00	GCK	Garden City Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	75.0	Settle
-161880	2011071185091	2011-07-11 00:00:00	2011-05-19 16:00:00	GCK	Garden City Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-173280	2012090696625	2012-08-08 00:00:00	2012-06-20 00:00:00	GCK	Garden City Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			
-192912	2014091916787	2014-08-25 00:00:00	2014-08-19 00:00:00	GCK	Garden City Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			
-198265	2015102126153	2015-10-01 00:00:00	2015-09-05 00:00:00	GCK	Garden City Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-215180	2017060140116	2017-05-18 00:00:00	2017-05-10 16:45:00	GCK	Garden City Municipal Garden City Municipal	American Airlines	Passenger Property Loss	Checkpoint		Audio/Video		146.0	Settle
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+114000	2007112735498	2007-11-19 00:00:00	2007-10-26 00:00:00	GCK	Garden City Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories,Cosmetics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	75.0	Settle
+161880	2011071185091	2011-07-11 00:00:00	2011-05-19 16:00:00	GCK	Garden City Municipal	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+173280	2012090696625	2012-08-08 00:00:00	2012-06-20 00:00:00	GCK	Garden City Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+192912	2014091916787	2014-08-25 00:00:00	2014-08-19 00:00:00	GCK	Garden City Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			
+198265	2015102126153	2015-10-01 00:00:00	2015-09-05 00:00:00	GCK	Garden City Municipal	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+215180	2017060140116	2017-05-18 00:00:00	2017-05-10 16:45:00	GCK	Garden City Municipal Garden City Municipal	American Airlines	Passenger Property Loss	Checkpoint		Electronics	Audio/Video		146.0	Settle

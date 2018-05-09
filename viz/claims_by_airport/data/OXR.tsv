@@ -1,8 +1,8 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-39214	2005101194327	2004-07-06 00:00:00	2004-03-11 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	1501.49	Computer - Laptop	Denied	0.0	Deny
-75798	2005120596932	2005-11-21 00:00:00	2005-11-02 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	599.0	Cameras - Digital	Denied	0.0	Deny
-92769	2006101614062	2006-10-10 00:00:00	2006-09-08 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	26.75	Other	Denied	0.0	Deny
-105991	2007062027268	2007-06-19 00:00:00	2007-06-16 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	189.92	Other	Canceled	0.0	
-111051	2007092132377	2007-09-20 00:00:00	2007-09-12 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	250.0	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-123116	2008052344782	2008-05-21 00:00:00	2008-04-05 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	125.0	Jewelry - Fine*Luggage (all types including footlockers)	Denied	0.0	Deny
-136803	2009051858811	2009-04-30 00:00:00	2009-03-19 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	353.95	Cell Phones*Flashlights	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+39214	2005101194327	2004-07-06 00:00:00	2004-03-11 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	1501.49	Electronics	Computer - Laptop	Denied	0.0	Deny
+75798	2005120596932	2005-11-21 00:00:00	2005-11-02 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	599.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+92769	2006101614062	2006-10-10 00:00:00	2006-09-08 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	26.75	Other	Other	Denied	0.0	Deny
+105991	2007062027268	2007-06-19 00:00:00	2007-06-16 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	189.92	Other	Other	Canceled	0.0	
+111051	2007092132377	2007-09-20 00:00:00	2007-09-12 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	250.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+123116	2008052344782	2008-05-21 00:00:00	2008-04-05 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	125.0	Watches & Jewelry,Containers	Jewelry - Fine*Luggage (all types including footlockers)	Denied	0.0	Deny
+136803	2009051858811	2009-04-30 00:00:00	2009-03-19 00:00:00	OXR	Oxnard	UAL	Passenger Property Loss	Checked Baggage	353.95	Electronics,Electronics	Cell Phones*Flashlights	Denied	0.0	Deny

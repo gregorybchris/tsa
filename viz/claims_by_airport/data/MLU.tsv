@@ -1,25 +1,25 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-65918	2005062387078	2005-06-10 00:00:00	2005-05-20 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	27.31	Clothing - Shoes, belts, accessories, etc.	Approved	27.31	Approve in Full
-84190	2006050105512	2006-04-24 00:00:00	2006-03-03 00:00:00	MLU	Monroe Regional		Passenger Property Loss	Checkpoint	3.25	Other	Approved	3.25	Approve in Full
-96656	2006122718030	2006-12-26 00:00:00	2006-10-27 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	400.0	Currency	Approved	400.0	Approve in Full
-105693	2007061527005	2007-06-12 00:00:00	2007-06-10 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	106.82	Clothing - Shoes, belts, accessories, etc.	Approved	106.82	Approve in Full
-115258	2007110834709	2007-12-17 00:00:00	2007-09-27 00:00:00	MLU	Monroe Regional		Passenger Property Loss	Checked Baggage	425.0	Other	Canceled	0.0	
-116266	2008011437847	2008-01-07 00:00:00	2007-12-31 00:00:00	MLU	Monroe Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1186.49	Other	Denied	0.0	Deny
-116319	2008011037724	2008-01-07 00:00:00	2007-10-04 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	61.88	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	30.94	Settle
-119714	2008032041352	2008-03-14 00:00:00	2007-12-31 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	210.0	Other*Other	Denied	0.0	Deny
-127375	2008082749205	2008-08-25 00:00:00	2008-07-31 00:00:00	MLU	Monroe Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	311.86	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
-128252	2008091649962	2008-09-15 00:00:00	2008-08-05 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3027.98	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
-129299	2008101551151	2008-10-09 00:00:00	2008-09-04 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Bags - Fabric, plastic, etc. (not purses)*Desk and Writing Equipment - pen and pencil sets, fountain pens, etc.*Medicines*Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-131601	2008121553406	2008-12-10 00:00:00	2008-08-29 00:00:00	MLU	Monroe Regional	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Currency	Denied	0.0	Deny
-132324	2009011254380	2008-12-31 00:00:00	2008-12-02 00:00:00	MLU	Monroe Regional	UAL	Passenger Property Loss	Checked Baggage	325.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-138051	2009061560158	2009-06-05 00:00:00	2009-04-21 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	521.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines*Other	Denied	0.0	Deny
-141416	2009090863426	2009-09-08 00:00:00	2009-09-04 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.79	Clothing - Shoes, belts, accessories, etc.	Approved	42.79	Approve in Full
-145714	2010021968583	2010-02-12 00:00:00	2010-01-31 15:30:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-150372	2010071573724	2010-07-07 00:00:00	2010-05-20 00:00:00	MLU	Monroe Regional		Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
-150767	2010072974174	2010-07-19 00:00:00	2010-06-01 00:00:00	MLU	Monroe Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Other		0.0	Deny
-152056	2010071573722	2010-08-24 00:00:00	2010-06-06 00:00:00	MLU	Monroe Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-161541	2011070184940	2011-06-28 00:00:00	2011-06-13 06:30:00	MLU	Monroe Regional	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
-169412	2012032291953	2012-03-22 00:00:00	2012-02-09 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories			
-201452	2015071423807	2015-07-01 00:00:00	2015-05-28 00:00:00	MLU	Monroe Regional	UAL	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-201453	2015072324150	2015-07-16 00:00:00	2015-06-28 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		56.47	Approve in Full
-210005	2016040430277	2016-03-16 00:00:00	2016-02-15 10:30:00	MLU	Monroe Regional Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			Insufficient
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+65918	2005062387078	2005-06-10 00:00:00	2005-05-20 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	27.31	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	27.31	Approve in Full
+84190	2006050105512	2006-04-24 00:00:00	2006-03-03 00:00:00	MLU	Monroe Regional		Passenger Property Loss	Checkpoint	3.25	Other	Other	Approved	3.25	Approve in Full
+96656	2006122718030	2006-12-26 00:00:00	2006-10-27 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checkpoint	400.0	Other	Currency	Approved	400.0	Approve in Full
+105693	2007061527005	2007-06-12 00:00:00	2007-06-10 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	106.82	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	106.82	Approve in Full
+115258	2007110834709	2007-12-17 00:00:00	2007-09-27 00:00:00	MLU	Monroe Regional		Passenger Property Loss	Checked Baggage	425.0	Other	Other	Canceled	0.0	
+116266	2008011437847	2008-01-07 00:00:00	2007-12-31 00:00:00	MLU	Monroe Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	1186.49	Other	Other	Denied	0.0	Deny
+116319	2008011037724	2008-01-07 00:00:00	2007-10-04 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	61.88	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	30.94	Settle
+119714	2008032041352	2008-03-14 00:00:00	2007-12-31 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	210.0	Other,Other	Other*Other	Denied	0.0	Deny
+127375	2008082749205	2008-08-25 00:00:00	2008-07-31 00:00:00	MLU	Monroe Regional	Continental Airlines	Passenger Property Loss	Checked Baggage	311.86	Clothing & Accessories,Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+128252	2008091649962	2008-09-15 00:00:00	2008-08-05 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	3027.98	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+129299	2008101551151	2008-10-09 00:00:00	2008-09-04 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Office Supplies,Supplies,Other	Bags - Fabric, plastic, etc. (not purses)*Desk and Writing Equipment - pen and pencil sets, fountain pens, etc.*Medicines*Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+131601	2008121553406	2008-12-10 00:00:00	2008-08-29 00:00:00	MLU	Monroe Regional	Jet Blue	Passenger Property Loss	Checked Baggage	200.0	Other	Currency	Denied	0.0	Deny
+132324	2009011254380	2008-12-31 00:00:00	2008-12-02 00:00:00	MLU	Monroe Regional	UAL	Passenger Property Loss	Checked Baggage	325.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+138051	2009061560158	2009-06-05 00:00:00	2009-04-21 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage	521.0	Cosmetics,Supplies,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines*Other	Denied	0.0	Deny
+141416	2009090863426	2009-09-08 00:00:00	2009-09-04 00:00:00	MLU	Monroe Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.79	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	42.79	Approve in Full
+145714	2010021968583	2010-02-12 00:00:00	2010-01-31 15:30:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+150372	2010071573724	2010-07-07 00:00:00	2010-05-20 00:00:00	MLU	Monroe Regional		Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+150767	2010072974174	2010-07-19 00:00:00	2010-06-01 00:00:00	MLU	Monroe Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other	Clothing*Other		0.0	Deny
+152056	2010071573722	2010-08-24 00:00:00	2010-06-06 00:00:00	MLU	Monroe Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+161541	2011070184940	2011-06-28 00:00:00	2011-06-13 06:30:00	MLU	Monroe Regional	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+169412	2012032291953	2012-03-22 00:00:00	2012-02-09 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			
+201452	2015071423807	2015-07-01 00:00:00	2015-05-28 00:00:00	MLU	Monroe Regional	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+201453	2015072324150	2015-07-16 00:00:00	2015-06-28 00:00:00	MLU	Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		56.47	Approve in Full
+210005	2016040430277	2016-03-16 00:00:00	2016-02-15 10:30:00	MLU	Monroe Regional Monroe Regional	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			Insufficient

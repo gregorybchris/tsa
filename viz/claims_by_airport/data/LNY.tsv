@@ -1,9 +1,9 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-47797	2004120868851	2004-10-20 00:00:00	2004-09-18 00:00:00	LNY	Lanai City, HI		Passenger Property Loss	Checkpoint	175.0	Jewelry - Fine	Approved	175.0	Approve in Full
-77191	2005122798399	2005-12-15 00:00:00	2005-12-11 00:00:00	LNY	Lanai City, HI	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-96689	2006122718020	2006-12-26 00:00:00	2006-12-02 00:00:00	LNY	Lanai City, HI	Island Air	Passenger Property Loss	Checked Baggage	16000.0	Jewelry - Fine	Denied	0.0	Deny
-100234	2007091431962	2007-02-21 00:00:00	2006-12-02 00:00:00	LNY	Lanai City, HI	Island Air	Passenger Property Loss	Checked Baggage	14998.0	Jewelry - Fine	Denied	0.0	Deny
-102430	2007040923650	2007-04-05 00:00:00	2007-02-17 00:00:00	LNY	Lanai City, HI	American Airlines	Passenger Property Loss	Checked Baggage	140.27	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	70.14	Settle
-146344	2010031169477	2010-03-03 00:00:00	2010-02-22 15:00:00	LNY	Lanai City, HI	Island Air	Passenger Property Loss	Checked Baggage		Personal Accessories			
-153255	2010100476645	2010-09-28 00:00:00	2010-09-20 00:00:00	LNY	Lanai City, HI	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Other		26.49	Approve in Full
-217355	2017092743565	2017-08-14 00:00:00	2017-08-06 00:00:00	LNY	Lanai City, HI Lanai City, HI	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+47797	2004120868851	2004-10-20 00:00:00	2004-09-18 00:00:00	LNY	Lanai City, HI		Passenger Property Loss	Checkpoint	175.0	Watches & Jewelry	Jewelry - Fine	Approved	175.0	Approve in Full
+77191	2005122798399	2005-12-15 00:00:00	2005-12-11 00:00:00	LNY	Lanai City, HI	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+96689	2006122718020	2006-12-26 00:00:00	2006-12-02 00:00:00	LNY	Lanai City, HI	Island Air	Passenger Property Loss	Checked Baggage	16000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+100234	2007091431962	2007-02-21 00:00:00	2006-12-02 00:00:00	LNY	Lanai City, HI	Island Air	Passenger Property Loss	Checked Baggage	14998.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+102430	2007040923650	2007-04-05 00:00:00	2007-02-17 00:00:00	LNY	Lanai City, HI	American Airlines	Passenger Property Loss	Checked Baggage	140.27	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	70.14	Settle
+146344	2010031169477	2010-03-03 00:00:00	2010-02-22 15:00:00	LNY	Lanai City, HI	Island Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			
+153255	2010100476645	2010-09-28 00:00:00	2010-09-20 00:00:00	LNY	Lanai City, HI	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Other	Other		26.49	Approve in Full
+217355	2017092743565	2017-08-14 00:00:00	2017-08-06 00:00:00	LNY	Lanai City, HI Lanai City, HI	Hawaiian Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review

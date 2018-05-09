@@ -1,401 +1,401 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-856	24584	2002-12-23 00:00:00	2002-11-02 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint	21.74	Other	Approved	22.0	Approve in Full
-1252	0617584L	2003-01-10 00:00:00	2002-11-23 00:00:00	TUS	Tucson International		Passenger Property Loss	Checkpoint	1000.0	Cameras - Digital	Approved	1000.0	Approve in Full
-1960	0128040L	2003-01-28 00:00:00	2003-01-04 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	92.0	Other	Settled	46.0	Settle
-1979	0129053L	2003-01-29 00:00:00	2003-01-01 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing - Shoes, belts, accessories, etc.	Approved	125.0	Approve in Full
-2322	0206005L	2003-02-06 00:00:00	2003-01-20 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-3602	0313016L	2003-03-13 00:00:00	2003-02-10 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	360.0	Other	Canceled		
-4796	0408146L	2003-04-08 00:00:00	2003-02-10 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	360.0	Other	Denied	0.0	Deny
-4948	0410010L	2003-04-10 00:00:00	2003-03-08 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	156.97	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-6151	0506125L	2003-05-06 00:00:00	2003-04-12 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	672.05	Other	Denied	672.05	Deny
-6364	0513011L	2003-05-13 00:00:00	2003-04-26 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	250.0	Jewelry - Fine	Settled	125.0	Settle
-7564	0603000L	2003-06-03 00:00:00	2003-01-16 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	3824.39	Jewelry - Fine	Denied	0.0	Deny
-8273	0610107L	2003-06-10 00:00:00	2003-05-23 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checkpoint	200.0	Cameras - Digital	Settled	171.0	Settle
-8395	0612084L	2003-06-12 00:00:00	2003-05-04 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Jewelry - Fine	Approved	145.0	Approve in Full
-8876	0618083L	2003-06-18 00:00:00	2003-05-23 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	52.96	Other	Denied	0.0	Deny
-8891	0618003L	2003-06-18 00:00:00	2003-06-07 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	18.0	Other	Settled	9.0	Settle
-8892	0618006L	2003-06-18 00:00:00	2003-05-11 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	200.0	Other	Settled	100.0	Settle
-9788	0701005M	2003-07-01 00:00:00	2003-06-18 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-10959	0715071M	2003-07-15 00:00:00	2003-05-31 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-11078	0716046M	2003-07-16 00:00:00	2003-06-19 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1192.52	Jewelry - Fine	Settled	250.0	Settle
-11086	0717035M	2003-07-17 00:00:00	2003-07-10 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
-12840	0808043M	2003-08-08 00:00:00	2003-06-30 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	27.0	Other	Settled	13.5	Settle
-14038	0821145M	2003-08-21 00:00:00	2003-08-13 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	139.99	Cell Phones	Settled	70.0	Settle
-15563	0909030M	2003-09-09 00:00:00	2003-07-31 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	41.98	Clothing - Shoes, belts, accessories, etc.	Settled	21.0	Settle
-15869	0915147M	2003-09-15 00:00:00	2003-08-14 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	3000.0	Jewelry - Fine	Canceled	0.0	
-18175	1021120M	2003-10-21 00:00:00	2003-09-09 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	17.75	Other	Approved	17.75	Approve in Full
-20595	1117416M	2003-11-17 00:00:00	2003-10-18 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checkpoint	158.0	PDA - Personal Data Assistants	Settled	83.51	Settle
-22124	1208244M	2003-12-08 00:00:00	2003-11-04 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	300.0	Other	Approved	300.0	Approve in Full
-22280	1208266M	2003-12-08 00:00:00	2003-11-24 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	495.0	Cameras - Digital	Denied	0.0	Deny
-24734	0114515M	2004-01-14 00:00:00	2003-12-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	485.96	Other	Approved	485.96	Approve in Full
-24821	0114085M	2004-01-14 00:00:00	2003-11-17 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Denied	0.0	Deny
-26101	0130085M	2004-01-30 00:00:00	2003-12-19 00:00:00	TUS	Tucson International		Passenger Theft	Checked Baggage	499.99	Cameras - Digital	Settled	250.0	Settle
-26996	0203370M	2004-02-03 00:00:00	2003-11-24 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	120.0	Clothing - Shoes, belts, accessories, etc.	Settled	60.0	Settle
-27184	0205144M	2004-02-05 00:00:00	2003-10-06 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1007.0	Other	Denied	0.0	Deny
-28840	0226333M	2004-02-26 00:00:00	2004-02-16 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Other	Canceled		
-29652	2004050750682	2004-03-05 00:00:00	2004-01-17 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	476.0	Other	Settled	88.0	Settle
-29853	2004042350042	2004-03-10 00:00:00	2004-01-26 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	401.37	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Settled	200.68	Settle
-30193	2004060254308	2004-03-11 00:00:00	2004-02-20 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	90.0	Other	Settled	45.0	Settle
-30395	2004042350113	2004-03-15 00:00:00	2004-02-19 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	25.0	Jewelry - Fine	Approved	25.0	Approve in Full
-30441	2004042350078	2004-03-15 00:00:00	2003-01-26 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	36.0	Other	Denied	0.0	Deny
-31442	2004051652334	2004-03-24 00:00:00	2004-03-05 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	20.49	Other	Settled	10.25	Settle
-32119	2004051752611	2004-04-06 00:00:00	2004-03-27 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	39.98	Other	Approved	39.98	Approve in Full
-32162	2004052753655	2004-04-06 00:00:00	2004-01-20 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	56.93	Clothing - Shoes, belts, accessories, etc.	Approved	56.93	Approve in Full
-32564	2004051952887	2004-04-15 00:00:00	2004-03-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2400.0	Jewelry - Fine	Settled	300.0	Settle
-32616	2004052653551	2004-04-15 00:00:00	2004-03-22 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	665.0	Other	Settled	376.35	Settle
-32710	2004052553450	2004-04-20 00:00:00	2004-03-22 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	39.0	Jewelry - Fine	Approved	39.0	Approve in Full
-32729	2004052753657	2004-04-20 00:00:00	2004-11-28 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint	105.0	Jewelry - Fine	Denied	0.0	Deny
-33830	2004052453323	2004-05-03 00:00:00	2004-04-04 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	73.5	Cell Phones	Approved	73.5	Approve in Full
-33873	2004060354593	2004-05-03 00:00:00	2004-03-16 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
-34443	2004051251429	2004-05-04 00:00:00	2004-03-27 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	217.6	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	108.8	Settle
-35468	2004062457291	2004-05-18 00:00:00	2004-04-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Jewelry - Fine	Settled	12.5	Settle
-36527	2004062256874	2004-05-28 00:00:00	2004-04-09 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	93.98	Clothing - Shoes, belts, accessories, etc.	Approved	93.98	Approve in Full
-36699	2004062256929	2004-06-02 00:00:00	2004-04-22 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	997.21	DVD/CD Players	Denied	0.0	Deny
-37410	2004063057881	2004-06-08 00:00:00	2004-05-15 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	28.0	Other	Canceled		
-37461	2004063058013	2004-06-08 00:00:00	2004-05-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1750.0	Other	Denied	0.0	Deny
-37944	2004070858884	2004-06-16 00:00:00	2004-05-13 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	10.0	Clothing - Shoes, belts, accessories, etc.	Approved	10.0	Approve in Full
-38306	2004070758705	2004-06-21 00:00:00	2004-06-07 00:00:00	TUS	Tucson International		Passenger Property Loss	Checkpoint	989.92	Jewelry - Fine	Denied	0.0	Deny
-38604	2004071459353	2004-06-24 00:00:00	2004-05-29 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	187.22	Clothing - Shoes, belts, accessories, etc.	Approved	187.22	Approve in Full
-38900	2004072359947	2004-06-29 00:00:00	2004-06-14 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	160.0	Jewelry - Fine	Approved	160.0	Approve in Full
-40438	2004090261939	2004-07-16 00:00:00	2004-07-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	332.0	Other	Settled	141.0	Settle
-41019	2004082761461	2004-07-27 00:00:00	2004-05-26 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	185.0	Other	Approved	185.0	Approve in Full
-42486	2004090962516	2004-08-11 00:00:00	2004-07-31 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	2470.0	Jewelry - Fine	Denied	0.0	Deny
-42901	2004092964155	2004-08-19 00:00:00	2004-08-10 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-43110	2004100564552	2004-08-24 00:00:00	2004-07-09 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Other	8.4	Locks	Approved	8.4	Approve in Full
-43338	2004091362704	2004-08-25 00:00:00	2004-08-14 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checkpoint	233.65	Other	Denied	0.0	Deny
-43375	2004091062619	2004-08-26 00:00:00	2004-07-08 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	45.0	Luggage (all types including footlockers)	Approved	45.0	Approve in Full
-44308	2004102765771	2004-09-09 00:00:00	2004-08-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	179.95	Other	Denied	0.0	Deny
-44484	2004102765737	2004-09-10 00:00:00	2004-06-10 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	149.98	Clothing - Shoes, belts, accessories, etc.	Approved	149.98	Approve in Full
-45616	2004110566443	2004-09-23 00:00:00	2004-09-22 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	21.3	Locks	Approved	21.3	Approve in Full
-46123	2004110266133	2004-09-29 00:00:00	2004-09-18 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	21.4	Locks	Approved	21.4	Approve in Full
-46279	2004111567039	2004-09-29 00:00:00	2004-09-20 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
-46634	2004112067505	2004-10-05 00:00:00	2004-03-29 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	295.0	Jewelry - Fine	Approved	295.0	Approve in Full
-46690	2004111366940	2004-10-05 00:00:00	2004-08-29 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Other	Denied	0.0	Deny
-47303	2004113068065	2004-10-14 00:00:00	2004-09-12 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	10.73	Locks	Denied	0.0	Deny
-47671	2004120468496	2004-10-18 00:00:00	2004-07-26 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	755.0	Cameras - Digital	Denied	0.0	Deny
-48506	2004122169875	2004-10-27 00:00:00	2004-10-14 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	115.0	Other	Denied		Deny
-48583	2004122270374	2004-10-27 00:00:00	2004-10-11 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	450.0	Cameras - Digital	Settled	168.02	Settle
-48982	2004122069308	2004-11-04 00:00:00	2004-09-04 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	5.33	Locks	Approved	5.33	Approve in Full
-49311	2004110766594	2004-11-05 00:00:00	2004-09-25 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Denied	0.0	Deny
-49495	2004122069693	2004-11-09 00:00:00	2004-10-23 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	15.3	Locks	Approved	15.3	Approve in Full
-49752	2004122069732	2004-11-10 00:00:00	2004-04-04 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	179.0	Jewelry - Fine	Settled	149.81	Settle
-50328	2004122871342	2004-11-19 00:00:00	2004-10-11 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	96.12	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	96.12	Approve in Full
-50589	2004122871223	2004-11-23 00:00:00	2004-10-16 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	7106.38	Jewelry - Fine	Denied	0.0	Deny
-51148	2004123071865	2004-12-03 00:00:00	2004-09-20 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	4.99	Other	Approved	4.99	Approve in Full
-51278	2004122370735	2004-12-07 00:00:00	2004-11-28 00:00:00	TUS	Tucson International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	50.0	Other	Approved	50.0	Approve in Full
-51289	2004122370800	2004-12-07 00:00:00	2004-10-31 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	121.0	Other	Approved	121.0	Approve in Full
-51476	2005010472717	2004-12-07 00:00:00	2004-11-26 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	172.65	Cameras - Digital	Denied	0.0	Deny
-51487	2005012274013	2004-12-07 00:00:00	2004-10-29 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	104.86	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-51994	2005030176883	2004-12-14 00:00:00	2004-11-22 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	78.0	Other	Approved	78.0	Approve in Full
-52264	2005010472697	2004-12-16 00:00:00		TUS	Tucson International		Passenger Property Loss	Checked Baggage	80.0	Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-53367	2005012173935	2005-01-04 00:00:00	2004-12-18 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	189.0	Locks	Approved	189.0	Approve in Full
-54601	2005013175089	2005-01-14 00:00:00	2004-12-20 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	5900.0	Jewelry - Fine	Denied	0.0	Deny
-55173	2005021176032	2005-01-21 00:00:00	2005-01-18 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	300.0	Cell Phones	Denied	0.0	Deny
-55578	2005021476107	2005-01-26 00:00:00	2004-12-26 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	33.0	Other	Denied		Deny
-57180	2005031478060	2005-02-11 00:00:00	2004-12-31 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	1485.0	Jewelry - Fine	Denied	0.0	Deny
-57889	2005031778695	2005-02-24 00:00:00	2005-01-29 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	418.0	Other	Denied	0.0	Deny
-57917	2005032179025	2005-02-24 00:00:00	2004-12-09 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	176.84	Other	Denied	0.0	Deny
-58389	2005032279386	2005-03-04 00:00:00	2005-02-03 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	1100.0	Jewelry - Fine	Denied	0.0	Deny
-58514	2005042983674	2005-03-07 00:00:00	2005-02-02 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	37.5	Medicines	Approved	37.5	Approve in Full
-59008	2005032579843	2005-03-09 00:00:00	2005-02-28 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	955.81	Cameras - Digital	Denied	0.0	Deny
-59146	2005031478095	2005-03-11 00:00:00	2003-08-14 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	3000.0	Jewelry - Fine	Denied	0.0	Deny
-59472	2005032980344	2005-03-16 00:00:00	2005-03-03 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	10.73	Other	Denied	0.0	Deny
-59809	2005033180704	2005-03-23 00:00:00	2005-03-05 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing - Shoes, belts, accessories, etc.	Approved	85.0	Approve in Full
-60162	2005040181036	2005-03-29 00:00:00	2005-01-30 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	709.4	Jewelry - Fine	Approved	709.4	Approve in Full
-60197	2005040181146	2005-03-29 00:00:00	2005-03-19 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-60310	2005040181135	2005-03-29 00:00:00	2005-03-14 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Other	Denied	0.0	Deny
-60978	2005040781919	2005-04-06 00:00:00	2005-03-29 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Jewelry - Fine	Approved	60.0	Approve in Full
-61182	2005040881982	2005-04-07 00:00:00	2005-03-26 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	111.76	Other	Approved	111.76	Approve in Full
-61188	2005040882079	2005-04-07 00:00:00	2005-03-27 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	36.99	Baby - Strollers, car seats, playpen, etc.	Approved	36.99	Approve in Full
-61316	2005041182217	2005-04-08 00:00:00	2005-03-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Luggage (all types including footlockers)	Denied	0.0	Deny
-62042	2005042082887	2005-04-19 00:00:00	2005-02-12 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	1405.43	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-62652	2005042983696	2005-04-26 00:00:00	2005-02-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	200.0	Luggage (all types including footlockers)	Denied	0.0	Deny
-62797	2005050383939	2005-04-28 00:00:00	2005-02-07 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	10000.0	Other	Denied	0.0	Deny
-62826	2005050283783	2005-04-28 00:00:00	2005-03-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	94.9	Jewelry - Fine	Settled	47.45	Settle
-62938	2005050283833	2005-04-29 00:00:00	2005-04-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
-63390	2005051084429	2005-05-09 00:00:00	2005-05-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.74	Locks	Approved	10.74	Approve in Full
-63684	2005051784886	2005-05-11 00:00:00	2005-04-22 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-64133	2005051985128	2005-05-17 00:00:00	2005-04-20 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	4500.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-64167	2005052385267	2005-05-17 00:00:00	2005-05-02 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-64529	2005052485397	2005-05-23 00:00:00	2005-04-07 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	458.74	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-64652	2005060285688	2005-05-24 00:00:00	2005-04-21 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Other	Canceled	0.0	
-67292	2005070588254	2005-07-01 00:00:00	2005-06-11 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	13.9	Locks	Approved	13.9	Approve in Full
-67795	2005071288732	2005-07-11 00:00:00	2005-07-05 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	470.0	Jewelry - Fine	Denied	0.0	Deny
-67814	2005071889202	2005-07-11 00:00:00	2005-05-27 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	888.0	Cameras - Digital	Denied	0.0	Deny
-68155	2005071889116	2005-07-15 00:00:00	2005-06-14 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.68	Locks	Approved	40.68	Approve in Full
-68813	2005072989955	2005-07-26 00:00:00	2005-07-14 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	125.0	Clothing - Shoes, belts, accessories, etc.	Approved	125.0	Approve in Full
-68856	2005072989875	2005-07-26 00:00:00	2005-06-24 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	150.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-69265	2005081190400	2005-08-02 00:00:00	2005-07-13 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	30.0	Clothing - Shoes, belts, accessories, etc.	Approved	30.0	Approve in Full
-69287	2005081290470	2005-08-02 00:00:00	2005-07-16 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	149.0	Other	Canceled	0.0	
-69310	2005081090315	2005-08-02 00:00:00	2005-07-19 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1382.66	Computer - Laptop	Denied	0.0	Deny
-69314	2005081090321	2005-08-02 00:00:00	2005-07-14 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Jewelry - Fine	Denied	0.0	Deny
-69422	2005081290475	2005-08-03 00:00:00	2005-07-01 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Approved	400.0	Approve in Full
-69576	2005081790702	2005-08-05 00:00:00	2005-07-28 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	383.38	Cameras - Digital	Canceled	0.0	
-69661	2005081190365	2005-08-08 00:00:00	2005-07-23 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	1703.5	Jewelry - Fine	Approved	1703.5	Approve in Full
-70617	2005082991670	2005-08-23 00:00:00	2005-08-12 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	428.08	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-71514	2005091592536	2005-09-08 00:00:00	2005-08-26 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Jewelry - Fine	Denied	0.0	Deny
-71535	2005091692604	2005-09-08 00:00:00	2004-05-14 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	30.9	Other	Denied	0.0	Deny
-71868	2005092293120	2005-09-14 00:00:00	2005-08-18 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
-72541	2005093093585	2005-09-21 00:00:00	2005-06-23 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	182.87	Cameras - Digital	Settled	111.34	Settle
-73239	2005101194369	2005-10-04 00:00:00	2005-07-20 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	87.09	Other	Denied	0.0	Deny
-73400	2005101294439	2005-10-05 00:00:00	2005-09-12 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Settled	75.0	Settle
-73435	2005101794590	2005-10-07 00:00:00	2005-09-22 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	12.0	Other	Approved	12.0	Approve in Full
-73992	2005102595185	2005-10-18 00:00:00	2005-09-06 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	10.65	Locks	Approved	10.65	Approve in Full
-74117	2005102495103	2005-10-19 00:00:00	2005-10-10 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	140.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-74370	2005110395583	2005-10-25 00:00:00	2005-08-10 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	60.0	Locks	Canceled	0.0	
-74430	2005110395586	2005-10-25 00:00:00	2005-09-23 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Luggage (all types including footlockers)	Denied	0.0	Deny
-74813	2005110995902	2005-11-01 00:00:00	2005-10-05 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	5.93	Locks	Denied	0.0	Deny
-75198	2005112196300	2005-11-09 00:00:00	2005-10-31 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
-75217	2005112196346	2005-11-09 00:00:00	2005-10-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	475.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-75530	2005112996680	2005-11-15 00:00:00	2005-10-08 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	3620.0	Other	Denied	0.0	Deny
-75595	2005112896649	2005-11-15 00:00:00	2005-09-24 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	DVD/CD Players	Settled	75.0	Settle
-75697	2005120196745	2005-11-18 00:00:00	2005-11-16 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
-76557	2005121397705	2005-12-05 00:00:00	2005-11-22 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	96.34	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-77956	2006010699046	2006-01-03 00:00:00	2005-12-12 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	700.0	Computer - Laptop	Settled	368.65	Settle
-78655	2006021501554	2006-01-11 00:00:00	2005-12-23 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	435.47	Cameras - Digital	Denied	0.0	Deny
-79067	2006012500286	2006-01-18 00:00:00	2005-12-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	58.0	Jewelry - Fine	Denied	0.0	Deny
-79427	2006012400248	2006-01-24 00:00:00	2005-11-19 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint	1865.0	Jewelry - Fine	Denied	0.0	Deny
-80266	2006021001358	2006-02-07 00:00:00	2006-02-01 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	4242.87	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-80447	2006021601653	2006-02-09 00:00:00	2006-02-08 00:00:00	TUS	Tucson International		Passenger Property Loss	Checkpoint	65.0	Other	Canceled	0.0	
-81151	2006030102315	2006-02-23 00:00:00	2006-02-07 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	90.0	Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-81586	2006030702713	2006-03-03 00:00:00	2006-02-24 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	271.14	Cameras - Digital	Denied	0.0	Deny
-82571	2006032703704	2006-03-21 00:00:00	2006-03-15 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	70.31	Jewelry - Fine	Denied	0.0	Deny
-82726	2006040303879	2006-03-23 00:00:00	2006-03-10 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	400.0	Cameras - Digital	Denied	0.0	Deny
-83158	2006041904705	2006-03-31 00:00:00	2006-03-21 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	23.09	Locks	Approved	23.09	Approve in Full
-83535	2006042004885	2006-04-07 00:00:00	2006-03-05 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	2000.0	Computer - Laptop	Denied	0.0	Deny
-83585	2006041904751	2006-04-10 00:00:00	2006-03-21 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	254.25	Cameras - Digital	Denied	0.0	Deny
-83653	2006042004801	2006-04-11 00:00:00	2006-04-02 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	98.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-86162	2006060607447	2006-06-02 00:00:00	2006-05-07 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
-86218	2006060607372	2006-06-02 00:00:00	2006-01-17 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checkpoint	250.0	Clothing - Shoes, belts, accessories, etc.	Settled	160.0	Settle
-86339	2006060807616	2006-06-06 00:00:00	2006-05-24 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	19.95	Locks	Approved	19.95	Approve in Full
-86495	2006061207774	2006-06-08 00:00:00	2006-04-18 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	10.65	Locks	Approved	10.65	Approve in Full
-87137	2006062108315	2006-06-20 00:00:00	2006-06-04 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	79.0	Other	Settled	39.5	Settle
-87934	2006071109298	2006-07-07 00:00:00	2006-05-29 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	10.0	Locks	Approved	10.0	Approve in Full
-88163	2006071809663	2006-07-11 00:00:00	2006-06-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	20.0	Jewelry - Costume	Approved	20.0	Approve in Full
-89427	2006080910631	2006-08-04 00:00:00	2006-07-29 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	48.0	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
-90201	2006082511554	2006-08-21 00:00:00	2006-07-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	19.85	Locks	Approved	19.85	Approve in Full
-90396	2006082811614	2006-08-23 00:00:00	2006-08-13 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	156.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-90732	2006090612018	2006-08-29 00:00:00	2006-08-23 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	414.0	Other*Tools - Manual (not in a vehicle)*Watches - Expensive more than $100	Denied	0.0	Deny
-91222	2006091312475	2006-09-07 00:00:00	2006-08-02 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	56.0	Other	Denied	0.0	Deny
-91515	2006091812716	2006-09-13 00:00:00	2006-02-05 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1500.0	Watches - Expensive more than $100	Denied	0.0	Deny
-91524	2006091812754	2006-09-13 00:00:00	2006-09-10 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	41.38	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
-92176	2006092913470	2006-09-26 00:00:00	2006-02-15 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	1021.25	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
-94487	2006111715756	2006-11-13 00:00:00	2006-10-16 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches - Expensive more than $100	Denied	0.0	Deny
-96028	2006121817365	2006-12-11 00:00:00	2006-11-16 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint	393.25	Cameras - Digital	Settled	119.72	Settle
-96046	2006121817316	2006-12-12 00:00:00	2006-12-03 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	60.0	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
-96275	2006122017596	2006-12-14 00:00:00	2006-05-15 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	284.06	MP3 Players-(iPods, etc)	Settled	142.03	Settle
-96722	2006122818128	2006-12-26 00:00:00	2006-12-14 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	399.0	Other	Denied	0.0	Deny
-96792	2006122918149	2006-12-27 00:00:00	2006-12-15 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	618.99	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*MP3 Players-(iPods, etc)	Denied	0.0	Deny
-97488	2007011118612	2007-01-05 00:00:00	2006-10-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	800.0	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
-97765	2007011718859	2007-01-09 00:00:00	2006-12-04 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	211.0	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-97933	2007012319247	2007-01-11 00:00:00	2006-12-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.69	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Approved	40.69	Approve in Full
-98832	2007013119969	2007-01-25 00:00:00	2006-12-23 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	1503.29	Currency	Denied	0.0	Deny
-99715	2007021220821	2007-02-12 00:00:00	2007-02-12 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
-100532	2007030121756	2007-02-27 00:00:00	2007-02-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1568.2	Computer - Laptop	Settled	447.41	Settle
-100719	2007030821986	2007-03-05 00:00:00	2007-02-20 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	29.99	Clothing - Shoes, belts, accessories, etc.	Approved	29.99	Approve in Full
-101838	2007032723070	2007-03-26 00:00:00	2007-03-12 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	123.88	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Lamps (including sun lamps)	Denied	0.0	Deny
-102624	2007041323915	2007-04-10 00:00:00	2007-03-29 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	514.85	GPS - Global Positioning System	Canceled	0.0	
-103219	2007042624517	2007-04-23 00:00:00	2007-02-04 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	462.0	Currency*Other	Approved	462.0	Approve in Full
-103979	2007051025255	2007-05-08 00:00:00	2007-02-01 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	5730.4	Clothing - Shoes, belts, accessories, etc.*Computer - Laptop*Other*Professional Equipment	Denied	0.0	Deny
-105606	2007061426961	2007-06-11 00:00:00	2007-06-02 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.08	Other	Approved	21.08	Approve in Full
-106042	2007062127377	2007-06-19 00:00:00	2007-03-12 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	71.34	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-107799	2007072629070	2007-07-24 00:00:00	2007-03-25 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	387.39	Other	Denied	0.0	Deny
-108281	2007080229547	2007-08-01 00:00:00	2007-07-28 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	329.0	GPS - Global Positioning System	Denied	0.0	Deny
-108416	2007080929944	2007-08-02 00:00:00	2007-07-19 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	100.0	Watches - Inexpensive $100 or less	Denied	0.0	Deny
-108752	2007081330178	2007-08-09 00:00:00	2007-06-28 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Locks	Approved	20.0	Approve in Full
-108940	2007081530291	2007-08-13 00:00:00	2007-05-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-109981	2007090531347	2007-08-30 00:00:00	2007-04-11 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	293.15	Cameras - Digital	Settled	227.88	Settle
-111212	2007092832715	2007-09-24 00:00:00	2007-09-09 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	99.02	Material (including yard goods and yarn)	Denied	0.0	Deny
-111316	2007092732688	2007-09-26 00:00:00	2007-07-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2954.39	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Computer - Laptop*Luggage (all types including footlockers)*Other	Denied	0.0	Deny
-111523	2007100332976	2007-10-01 00:00:00	2007-09-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	210.0	Currency	Denied	0.0	Deny
-112304	2007101833624	2007-10-16 00:00:00	2007-10-08 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.06	Locks	Settled	8.03	Settle
-112384	2007102333794	2007-10-18 00:00:00	2007-10-03 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	1160.0	PDA - Personal Data Assistants	Denied	0.0	Deny
-113115	2007110534479	2007-11-01 00:00:00	2007-10-01 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	42.0	Locks	Settled	21.0	Settle
-113322	2007110834758	2007-11-06 00:00:00	2007-10-06 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	DVD/CD Players*Other	Denied	0.0	Deny
-113643	2007111434954	2007-11-13 00:00:00	2007-08-17 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	379.89	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Settled	189.95	Settle
-113649	2007111535064	2007-11-13 00:00:00	2007-08-06 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Computer - Laptop	Settled	71.45	Settle
-115197	2007121936675	2007-12-14 00:00:00	2007-12-08 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	13.58	Locks	Approved	13.58	Approve in Full
-115425	2007122636897	2007-12-19 00:00:00	2007-11-17 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Locks	Denied	0.0	Deny
-115809	2008010737444	2007-12-28 00:00:00	2007-11-27 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	630.0	Jewelry - Fine	Denied	0.0	Deny
-116421	2008011838169	2008-01-09 00:00:00	2008-01-01 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.0	Clothing - Shoes, belts, accessories, etc.	Approved	55.0	Approve in Full
-116509	2008011537954	2008-01-10 00:00:00	2008-01-05 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	52.9	Watches - Inexpensive $100 or less	Denied	0.0	Deny
-116528	2008011638025	2008-01-10 00:00:00	2007-12-29 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	46.5	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-117971	2008021339582	2008-02-07 00:00:00	2008-01-09 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.65	Locks	Approved	12.65	Approve in Full
-118423	2008022540051	2008-02-19 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	32.76	Cell Phones	Canceled	0.0	
-118424	2008022540082	2008-02-19 00:00:00	2008-02-07 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	45.0	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Canceled	0.0	
-118523	2008022840293	2008-02-19 00:00:00	2007-12-02 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	244.5	Other	Denied	0.0	Deny
-118768	2008030340342	2008-02-25 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	Jet Blue	Passenger Property Loss	Checked Baggage	2303.11	Computer - Laptop	Denied	0.0	Deny
-119114	2008080547976	2008-03-02 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	Jet Blue	Passenger Property Loss	Checked Baggage	1726.34	Computer - Laptop	Canceled	0.0	
-119258	2008031240857	2008-03-05 00:00:00	2008-02-29 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Baby - Strollers, car seats, playpen, etc.*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Tools - Manual (not in a vehicle)	Denied	0.0	Deny
-119993	2008040241706	2008-03-20 00:00:00	2008-03-09 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.4	Locks	Denied	0.0	Deny
-120924	2008041642596	2008-04-07 00:00:00	2008-03-28 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checkpoint	5400.0	Currency	Denied	0.0	Deny
-121068	2008041742807	2008-04-09 00:00:00	2008-03-27 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint	271.39	Bags - Fabric, plastic, etc. (not purses)*Cards - Greeting*Handbags & Purses (leather or fabric)	Canceled	0.0	
-122142	2008050643841	2008-04-30 00:00:00	2008-04-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	392.0	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
-122173	2008050143651	2008-05-01 00:00:00	2008-04-20 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	12.0	Other	Denied	0.0	Deny
-122614	2008051444249	2008-05-12 00:00:00	2008-05-09 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.24	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-123356	2008060245095	2008-05-27 00:00:00	2008-03-23 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	270.63	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
-123971	2008061345621	2008-06-10 00:00:00	2008-04-19 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	123.97	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
-124353	2008062446070	2008-06-18 00:00:00	2008-06-11 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	11.95	Locks	Denied	0.0	Deny
-124743	2008070146445	2008-06-27 00:00:00	2008-06-20 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	GPS - Global Positioning System	Denied	0.0	Deny
-125297	2008071747027	2008-07-10 00:00:00	2008-04-03 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	736.9	Jewelry - Fine	Denied	0.0	Deny
-125521	2008072847504	2008-07-15 00:00:00	2008-07-02 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	285.69	GPS - Global Positioning System	Canceled	0.0	
-126143	2008073147827	2008-07-29 00:00:00	2008-05-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	11.5	Locks	Denied	0.0	Deny
-126144	2008073147831	2008-07-29 00:00:00	2008-07-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	11.5	Locks	Denied	0.0	Deny
-127129	2008082048843	2008-08-19 00:00:00	2008-08-05 00:00:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-127592	2008091850054	2008-08-29 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	Jet Blue	Passenger Property Loss	Checked Baggage	2089.06	Computer - Laptop	Canceled	0.0	
-127800	2008090549556	2008-09-04 00:00:00	2008-08-15 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	48.59	Eyeglasses - (including contact lenses)	Approved	48.59	Approve in Full
-128619	2008092450378	2008-09-23 00:00:00	2008-09-19 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Cell Phones*Luggage (all types including footlockers)*Other	Denied	0.0	Deny
-129075	2008101051008	2008-10-06 00:00:00	2008-09-11 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
-129277	2008101451106	2008-10-09 00:00:00	2008-08-02 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	316.7	Cameras - Digital	Denied	0.0	Deny
-129450	2008100350776	2008-10-15 00:00:00	2008-09-26 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	392.0	Other	Denied	0.0	Deny
-130091	2008110652005	2008-10-31 00:00:00	2008-10-13 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	32.4	Other	Canceled	0.0	
-130317	2008111452228	2008-11-05 00:00:00	2008-10-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	712.84	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-131678	2008121953563	2008-12-12 00:00:00	2008-11-26 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checkpoint	150.0	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-132254	2009010554065	2008-12-29 00:00:00	2008-12-21 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	16.0	Luggage (all types including footlockers)	Settled	8.0	Settle
-132808	2009012354772	2009-01-12 00:00:00	2008-10-31 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	2250.0	Jewelry - Fine	Denied	0.0	Deny
-134341	2009031356193	2009-02-24 00:00:00	2009-02-16 00:00:00	TUS	Tucson International	Sun Country Airlines Inc	Passenger Property Loss	Checkpoint	100.0	Watches - Inexpensive $100 or less	Approved	100.0	Approve in Full
-135099	2009032757001	2009-03-16 00:00:00	2009-03-12 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	38.0	Luggage (all types including footlockers)	Approved	38.0	Approve in Full
-135169	2009040257137	2009-03-17 00:00:00	2009-02-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-135197	2009040357170	2009-03-18 00:00:00	2009-03-17 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	317.97	GPS - Global Positioning System	Canceled	0.0	
-135351	2009041357451	2009-03-20 00:00:00	2009-02-28 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Denied	0.0	Deny
-135451	2009041157341	2009-03-25 00:00:00	2009-02-22 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	99.95	Bedding - Air mattress	Canceled	0.0	
-135846	2009042758015	2009-04-02 00:00:00	2009-02-07 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	10.8	Locks	Denied	0.0	Deny
-136208	2009041457502	2009-04-14 00:00:00	2009-02-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1045.82	Boxes - Jewelry, Cigarette, Music, etc.*Jewelry - Costume*Jewelry - Fine*MP3 Players-(iPods, etc)	Denied	0.0	Deny
-136449	2009050758449	2009-04-21 00:00:00	2009-04-01 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	26.73	Cell Phones*Locks	Denied	0.0	Deny
-136633	2009051558683	2009-04-27 00:00:00	2009-04-09 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	159.0	Cameras - Digital	Canceled	0.0	
-137802	2009060259783	2009-05-29 00:00:00	2009-04-22 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	1616.0	Silverplate, Goldplate, Pewter, Stainless Steel, Copperware, Bronzeware	Denied	0.0	Deny
-139017	2009071061031	2009-07-01 00:00:00	2009-05-28 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Cameras - Digital*Other	Denied	0.0	Deny
-139380	2009071761369	2009-07-13 00:00:00	2009-06-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	182.41	Watches - Expensive more than $100	Denied	0.0	Deny
-140505	2009081362591	2009-08-10 00:00:00	2009-07-16 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
-140578	2009082162840	2009-08-11 00:00:00	2009-07-26 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	11.81	Locks	Denied	0.0	Deny
-140722	2009081762675	2009-08-17 00:00:00	2009-08-10 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1600.0	Binoculars*Cameras - Digital*DVD/CD Players*Other*Watches - Expensive more than $100	Denied	0.0	Deny
-140778	2009071661323	2009-08-18 00:00:00	2009-06-07 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.77	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
-141916	2009092163871	2009-09-21 00:00:00	2009-09-17 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	169.99	GPS - Global Positioning System	Denied	0.0	Deny
-142291	2009100564312	2009-10-01 00:00:00	2009-09-30 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	30.0	Locks	Approved	30.0	Approve in Full
-142546	2009101964527	2009-10-09 00:00:00	2009-09-03 09:30:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	396.0	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
-142582	2009102264609	2009-10-13 00:00:00	2009-09-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Locks	Denied	0.0	Deny
-142956	2009110465110	2009-10-26 00:00:00	2009-10-11 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	105.0	Currency	Canceled		
-143886	2009120165897	2009-11-20 00:00:00	2009-11-19 13:10:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-143998	2009120265965	2009-11-25 00:00:00	2009-10-22 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	5.75	Locks	Denied	0.0	Deny
-144005	2009120466067	2009-11-25 00:00:00	2009-10-28 06:30:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	594.0	Binoculars*Cameras - Digital	Denied	0.0	Deny
-144912	2009123066957	2009-12-23 00:00:00	2009-12-21 18:45:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing - Shoes, belts, accessories, etc.	Settled	35.0	Settle
-146510	2010031369578	2010-03-09 00:00:00	2010-03-01 00:00:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		5025.0	Approve in Full
-146817	2010032570042	2010-03-17 00:00:00	2010-03-04 08:30:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Medical/Science*Other		0.0	Deny
-147086	2010033070214	2010-03-29 00:00:00	2010-02-09 15:30:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		36.65	Settle
-147102	2010033070240	2010-03-29 00:00:00	2010-03-20 10:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-147260	2010040670439	2010-03-31 00:00:00	2010-03-24 05:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
-147344	2010040770499	2010-04-05 00:00:00	2010-03-28 10:15:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-147779	2010042171042	2010-04-15 00:00:00	2010-03-11 09:58:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming		5.49	Settle
-148296	2010050771598	2010-05-03 00:00:00	2010-04-22 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
-149103	2010060472368	2010-05-26 00:00:00	2010-05-21 12:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-149849	2010062873140	2010-06-22 00:00:00	2010-06-16 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-149869	2010062873172	2010-06-22 00:00:00	2010-06-02 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cameras		0.0	Deny
-150447	2010072974183	2010-07-08 00:00:00	2010-06-09 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-150637	2010072374003	2010-07-14 00:00:00	2010-06-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		81.0	Approve in Full
-151779	2010082275220	2010-08-16 00:00:00	2010-08-07 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Home Decor*Home Decor		0.0	Deny
-152346	2010090775696	2010-08-31 00:00:00	2010-07-23 08:50:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Cameras*Cameras		157.0	Approve in Full
-154821	2010112678171	2010-11-17 00:00:00	2010-11-14 07:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-155266	2010121578788	2010-12-02 00:00:00	2010-11-04 09:20:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-155338	2010121578776	2010-12-06 00:00:00	2010-11-14 08:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches			
-155406	2010121778833	2010-12-07 00:00:00	2010-11-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-156236	2011012579746	2011-01-06 00:00:00	2010-11-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras		240.0	Settle
-156368	2011012779771	2011-01-11 00:00:00	2010-12-15 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches		36.0	Approve in Full
-156824	2011021880302	2011-01-24 00:00:00	2010-12-18 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Personal Electronics		0.0	Deny
-157418	2011030380847	2011-02-10 00:00:00	2011-01-08 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		0.0	Deny
-157691	2011031481188	2011-02-22 00:00:00	2011-02-07 06:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-157692	2011031481190	2011-02-22 00:00:00	2011-01-25 16:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		7.0	Approve in Full
-158053	2011040181691	2011-03-04 00:00:00	2011-02-28 15:45:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories			
-159451	2011042182892	2011-04-19 00:00:00	2011-04-11 12:41:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-159958	2011042282909	2011-05-06 00:00:00	2011-03-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing*Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
-159960	2011051683452	2011-05-06 00:00:00	2011-04-16 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		39.0	Approve in Full
-160256	2011052583778	2011-05-16 00:00:00	2011-04-10 05:10:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		20.0	Approve in Full
-160265	2011053183858	2011-05-16 00:00:00	2011-05-03 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
-161977	2011072785601	2011-07-12 00:00:00	2011-07-03 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-162986	2011083186583	2011-08-11 00:00:00	2011-07-24 06:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Clothing			
-163807	2011100387324	2011-09-08 00:00:00	2011-06-28 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other			
-163930	2011100487451	2011-09-13 00:00:00	2011-08-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Travel Accessories		0.0	Deny
-164172	2011101487908	2011-09-21 00:00:00	2011-08-28 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		38.46	Approve in Full
-164410	2011101888021	2011-10-03 00:00:00	2011-09-01 08:30:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing*Jewelry & Watches		0.0	Deny
-164480	2011102188270	2011-10-04 00:00:00	2011-09-01 09:30:00	TUS	Tucson International	American Eagle	Passenger Property Loss	Checked Baggage		Cameras			
-164827	2011110888755	2011-10-13 00:00:00	2010-12-18 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		10.0	Approve in Full
-165268	2011102888521	2011-10-28 00:00:00	2011-08-12 10:30:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses		30.0	Approve in Full
-165380	2011110888831	2011-11-01 00:00:00	2011-04-01 05:09:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-165388	2011110988843	2011-11-01 00:00:00	2011-10-22 16:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		15.18	Approve in Full
-165889	2011120889429	2011-11-21 00:00:00	2011-11-13 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		41.9	Approve in Full
-166086	2011121489645	2011-11-28 00:00:00	2011-11-16 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Cameras*Other		45.0	Approve in Full
-167124	2012022891324	2012-01-04 00:00:00	2012-01-01 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-168031	2012031591718	2012-01-31 00:00:00	2011-12-19 05:30:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Other		65.0	Approve in Full
-168359	2012032392012	2012-02-13 00:00:00	2012-01-13 13:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other		12.0	Approve in Full
-168417	2012032792132	2012-02-14 00:00:00	2012-02-06 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-168577	2012032992254	2012-02-21 00:00:00	2012-02-10 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-168900	2012030291492	2012-03-02 00:00:00	2012-01-07 07:45:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-170003	2012050793623	2012-04-12 00:00:00	2012-03-26 12:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint		Jewelry & Watches		0.0	Deny
-170175	2012051593949	2012-04-18 00:00:00	2012-04-04 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Tools & Home Improvement Supplies		500.0	Settle
-170485	2012052194131	2012-04-30 00:00:00	2012-04-12 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		38.13	Approve in Full
-170495	2012052394225	2012-04-30 00:00:00	2012-04-15 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Household Items			
-170576	2012060694559	2012-05-02 00:00:00	2012-04-22 12:30:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		28.96	Approve in Full
-171548	2012071295284	2012-06-06 00:00:00	2012-05-09 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Accessories		0.0	Deny
-171694	2012071695397	2012-06-12 00:00:00	2012-05-22 14:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Computer & Accessories		0.0	Deny
-172629	2012082996379	2012-07-16 00:00:00	2012-05-12 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
-173099	2012081796044	2012-08-02 00:00:00	2012-07-25 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming*Personal Accessories		0.0	Deny
-173254	2012092097007	2012-08-07 00:00:00	2012-07-13 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing		32.12	Settle
-175711	2013010399489	2012-11-05 00:00:00	2012-10-24 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-176209	2013011099823	2012-11-26 00:00:00	2012-11-12 17:38:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint		Medical/Science		0.0	Deny
-177819	2013021901575	2013-01-28 00:00:00	2013-01-04 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Other			
-178061	2013022001640	2013-02-05 00:00:00	2013-02-02 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-178265	2013022602093	2013-02-12 00:00:00	2013-01-28 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage		Travel Accessories		12.95	Approve in Full
-179112	2013032702771	2013-03-14 00:00:00	2013-02-26 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			
-179507	2013041703215	2013-04-01 00:00:00	2013-02-26 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Automobile Parts & Accessories*Baggage/Cases/Purses		0.0	Deny
-179596	2013042303280	2013-04-03 00:00:00	2013-01-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
-180589	2013061204246	2013-05-10 00:00:00	2013-04-15 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-180779	2013071005103	2013-05-17 00:00:00	2013-05-02 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other*Other		139.9	Approve in Full
-182456	2013082306196	2013-07-17 00:00:00	2013-06-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses*Other*Other		0.0	Deny
-182639	2013082906384	2013-07-23 00:00:00	2013-07-15 15:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		15.95	Approve in Full
-182778	2013091206868	2013-07-29 00:00:00	2013-05-07 13:26:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Personal Accessories			
-183678	2013082706322	2013-08-27 00:00:00	2013-05-30 13:28:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Baggage/Cases/Purses			
-184007	2013102407800	2013-09-06 00:00:00	2013-08-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other			
-185054	2013103108416	2013-10-22 00:00:00	2013-09-26 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Audio/Video*Cameras*Clothing*Clothing*Cosmetics & Grooming*Home Decor*Other			
-187041	2014011310781	2014-01-08 00:00:00	2014-01-03 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
-188566	2014031112343	2014-03-10 00:00:00	2014-03-06 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-189412	2014041413212	2014-04-11 00:00:00	2014-02-22 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Medical/Science			
-190487	2014053014306	2014-05-28 00:00:00	2014-03-12 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing		43.24	Approve in Full
-190614	2014060414435	2014-05-30 00:00:00	2014-05-06 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-192010	2014081415861	2014-07-21 00:00:00	2014-03-31 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cameras			
-192557	2014090416423	2014-08-13 00:00:00	2014-07-09 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
-192811	2014091716685	2014-08-27 00:00:00	2014-08-14 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Automobile Parts & Accessories*Personal Electronics			
-194808	2014112818721	2014-11-20 00:00:00	2014-10-29 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
-194819	2014112818733	2014-11-25 00:00:00	2014-11-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			
-204074	2015011519919	2015-01-15 00:00:00	2014-12-14 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-204077	2015041521948	2015-04-16 00:00:00	2015-04-06 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checkpoint		Baggage/Cases/Purses			
-204083	2015100125810	2015-09-18 00:00:00	2015-08-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Currency		0.0	Deny
-204084	2015101325999	2015-09-25 00:00:00	2015-09-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		253.25	Approve in Full
-204085	2015110226444	2015-10-14 00:00:00	2015-10-08 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checkpoint		Jewelry & Watches			
-204086	2015111026776	2015-10-21 00:00:00	2015-08-24 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Personal Accessories			
-204087	2015111626880	2015-11-02 00:00:00	2015-10-05 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			
-204091	2015122427868	2015-12-08 00:00:00	2015-10-28 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Crafting & Hobby			
-204092	2015122927908	2015-12-29 00:00:00	2015-12-02 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics & Grooming			
-212292	2016060131921	2016-05-20 00:00:00	2016-05-04 12:35:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checkpoint		Jewelry & Watches		90.0	Approve in Full
-212293	2016101734753	2016-09-08 00:00:00	2016-09-06 18:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Medical/Science		41.64	Approve in Full
-212294	2016032830141	2016-03-11 00:00:00	2016-03-11 07:00:00	TUS	Tucson International Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-212295	2016042130709	2016-03-31 00:00:00	2016-03-29 11:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches		0.0	Deny
-212296	2016063032489	2016-06-07 00:00:00	2016-05-28 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing		0.0	Deny
-212297	2016072532843	2016-07-25 00:00:00	2016-06-01 00:00:00	TUS	Tucson International Tucson International	UAL	Passenger Property Loss	Checked Baggage		Travel Accessories		0.0	Deny
-212298	2016101434698	2016-09-08 00:00:00	2016-08-23 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
-220631	2017061940770	2017-05-02 00:00:00	2017-04-19 00:00:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			In Review
-220632	2017050839290	2017-04-03 00:00:00	2017-03-30 00:00:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			Closed: Canceled
-220634	2017121145838	2017-10-06 00:00:00	2017-09-29 10:00:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Audio/Video			In Review
-220636	2017071341510	2017-06-08 00:00:00	2017-04-25 00:00:00	TUS	Tucson International Tucson International	UAL	Passenger Property Loss	Checked Baggage		Medical/Science		53.26	Approve in Full
-220637	2017020937415	2017-02-09 00:00:00	2017-02-09 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other*Personal Electronics		0.0	Deny
-220638	2017050839259	2017-03-09 00:00:00	2017-02-18 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-220640	2017052239830	2017-04-11 00:00:00	2017-03-23 18:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing			In Review
-220641	2017060840378	2017-04-11 00:00:00	2017-03-26 00:00:00	TUS	Tucson International Tucson International		Passenger Property Loss	Checked Baggage		Travel Accessories			Insufficient
-220643	2017101844519	2017-09-13 00:00:00	2017-08-25 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-220644	2017121245922	2017-11-14 00:00:00	2017-11-14 02:15:00	TUS	Tucson International Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
-220646	2018010446505	2017-12-16 00:00:00	2017-12-14 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			Insufficient
-220647	2017041338565	2017-02-16 00:00:00	2017-02-15 14:30:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Travel Accessories			Insufficient
-220651	2017122046131	2017-12-20 00:00:00	2017-11-11 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Personal Electronics			In Review
-220654	2017042839091	2017-02-22 00:00:00	2017-02-16 00:00:00	TUS	Tucson International Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Personal Electronics			In Review
-220656	2017060140090	2017-04-25 00:00:00	2017-04-22 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-220657	2017061640753	2017-04-26 00:00:00	2017-03-28 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Hunting & Fishing Items			In Review
-220658	2017052439926	2017-03-28 00:00:00	2017-02-01 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checkpoint		Personal Documents			In Review
-220659	2017081542199	2017-06-29 00:00:00	2017-06-06 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Jewelry & Watches			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+856	24584	2002-12-23 00:00:00	2002-11-02 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint	21.74	Other	Other	Approved	22.0	Approve in Full
+1252	0617584L	2003-01-10 00:00:00	2002-11-23 00:00:00	TUS	Tucson International		Passenger Property Loss	Checkpoint	1000.0	Electronics	Cameras - Digital	Approved	1000.0	Approve in Full
+1960	0128040L	2003-01-28 00:00:00	2003-01-04 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	92.0	Other	Other	Settled	46.0	Settle
+1979	0129053L	2003-01-29 00:00:00	2003-01-01 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	125.0	Approve in Full
+2322	0206005L	2003-02-06 00:00:00	2003-01-20 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+3602	0313016L	2003-03-13 00:00:00	2003-02-10 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	360.0	Other	Other	Canceled		
+4796	0408146L	2003-04-08 00:00:00	2003-02-10 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	360.0	Other	Other	Denied	0.0	Deny
+4948	0410010L	2003-04-10 00:00:00	2003-03-08 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	156.97	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+6151	0506125L	2003-05-06 00:00:00	2003-04-12 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	672.05	Other	Other	Denied	672.05	Deny
+6364	0513011L	2003-05-13 00:00:00	2003-04-26 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Jewelry - Fine	Settled	125.0	Settle
+7564	0603000L	2003-06-03 00:00:00	2003-01-16 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	3824.39	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+8273	0610107L	2003-06-10 00:00:00	2003-05-23 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checkpoint	200.0	Electronics	Cameras - Digital	Settled	171.0	Settle
+8395	0612084L	2003-06-12 00:00:00	2003-05-04 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Watches & Jewelry	Jewelry - Fine	Approved	145.0	Approve in Full
+8876	0618083L	2003-06-18 00:00:00	2003-05-23 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	52.96	Other	Other	Denied	0.0	Deny
+8891	0618003L	2003-06-18 00:00:00	2003-06-07 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	18.0	Other	Other	Settled	9.0	Settle
+8892	0618006L	2003-06-18 00:00:00	2003-05-11 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	200.0	Other	Other	Settled	100.0	Settle
+9788	0701005M	2003-07-01 00:00:00	2003-06-18 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+10959	0715071M	2003-07-15 00:00:00	2003-05-31 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+11078	0716046M	2003-07-16 00:00:00	2003-06-19 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1192.52	Watches & Jewelry	Jewelry - Fine	Settled	250.0	Settle
+11086	0717035M	2003-07-17 00:00:00	2003-07-10 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	20.0	Other	Other	Approved	20.0	Approve in Full
+12840	0808043M	2003-08-08 00:00:00	2003-06-30 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	27.0	Other	Other	Settled	13.5	Settle
+14038	0821145M	2003-08-21 00:00:00	2003-08-13 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	139.99	Electronics	Cell Phones	Settled	70.0	Settle
+15563	0909030M	2003-09-09 00:00:00	2003-07-31 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	41.98	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	21.0	Settle
+15869	0915147M	2003-09-15 00:00:00	2003-08-14 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+18175	1021120M	2003-10-21 00:00:00	2003-09-09 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	17.75	Other	Other	Approved	17.75	Approve in Full
+20595	1117416M	2003-11-17 00:00:00	2003-10-18 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checkpoint	158.0	Electronics	PDA - Personal Data Assistants	Settled	83.51	Settle
+22124	1208244M	2003-12-08 00:00:00	2003-11-04 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Approved	300.0	Approve in Full
+22280	1208266M	2003-12-08 00:00:00	2003-11-24 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	495.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+24734	0114515M	2004-01-14 00:00:00	2003-12-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	485.96	Other	Other	Approved	485.96	Approve in Full
+24821	0114085M	2004-01-14 00:00:00	2003-11-17 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Other	Other	Denied	0.0	Deny
+26101	0130085M	2004-01-30 00:00:00	2003-12-19 00:00:00	TUS	Tucson International		Passenger Theft	Checked Baggage	499.99	Electronics	Cameras - Digital	Settled	250.0	Settle
+26996	0203370M	2004-02-03 00:00:00	2003-11-24 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	60.0	Settle
+27184	0205144M	2004-02-05 00:00:00	2003-10-06 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1007.0	Other	Other	Denied	0.0	Deny
+28840	0226333M	2004-02-26 00:00:00	2004-02-16 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	140.0	Other	Other	Canceled		
+29652	2004050750682	2004-03-05 00:00:00	2004-01-17 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	476.0	Other	Other	Settled	88.0	Settle
+29853	2004042350042	2004-03-10 00:00:00	2004-01-26 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	401.37	Clothing & Accessories,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Settled	200.68	Settle
+30193	2004060254308	2004-03-11 00:00:00	2004-02-20 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	90.0	Other	Other	Settled	45.0	Settle
+30395	2004042350113	2004-03-15 00:00:00	2004-02-19 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	25.0	Watches & Jewelry	Jewelry - Fine	Approved	25.0	Approve in Full
+30441	2004042350078	2004-03-15 00:00:00	2003-01-26 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	36.0	Other	Other	Denied	0.0	Deny
+31442	2004051652334	2004-03-24 00:00:00	2004-03-05 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	20.49	Other	Other	Settled	10.25	Settle
+32119	2004051752611	2004-04-06 00:00:00	2004-03-27 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	39.98	Other	Other	Approved	39.98	Approve in Full
+32162	2004052753655	2004-04-06 00:00:00	2004-01-20 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	56.93	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	56.93	Approve in Full
+32564	2004051952887	2004-04-15 00:00:00	2004-03-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2400.0	Watches & Jewelry	Jewelry - Fine	Settled	300.0	Settle
+32616	2004052653551	2004-04-15 00:00:00	2004-03-22 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	665.0	Other	Other	Settled	376.35	Settle
+32710	2004052553450	2004-04-20 00:00:00	2004-03-22 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	39.0	Watches & Jewelry	Jewelry - Fine	Approved	39.0	Approve in Full
+32729	2004052753657	2004-04-20 00:00:00	2004-11-28 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint	105.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+33830	2004052453323	2004-05-03 00:00:00	2004-04-04 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	73.5	Electronics	Cell Phones	Approved	73.5	Approve in Full
+33873	2004060354593	2004-05-03 00:00:00	2004-03-16 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
+34443	2004051251429	2004-05-04 00:00:00	2004-03-27 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	217.6	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	108.8	Settle
+35468	2004062457291	2004-05-18 00:00:00	2004-04-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Watches & Jewelry	Jewelry - Fine	Settled	12.5	Settle
+36527	2004062256874	2004-05-28 00:00:00	2004-04-09 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	93.98	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	93.98	Approve in Full
+36699	2004062256929	2004-06-02 00:00:00	2004-04-22 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	997.21	Electronics	DVD/CD Players	Denied	0.0	Deny
+37410	2004063057881	2004-06-08 00:00:00	2004-05-15 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	28.0	Other	Other	Canceled		
+37461	2004063058013	2004-06-08 00:00:00	2004-05-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1750.0	Other	Other	Denied	0.0	Deny
+37944	2004070858884	2004-06-16 00:00:00	2004-05-13 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	10.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	10.0	Approve in Full
+38306	2004070758705	2004-06-21 00:00:00	2004-06-07 00:00:00	TUS	Tucson International		Passenger Property Loss	Checkpoint	989.92	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+38604	2004071459353	2004-06-24 00:00:00	2004-05-29 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	187.22	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	187.22	Approve in Full
+38900	2004072359947	2004-06-29 00:00:00	2004-06-14 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	160.0	Watches & Jewelry	Jewelry - Fine	Approved	160.0	Approve in Full
+40438	2004090261939	2004-07-16 00:00:00	2004-07-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	332.0	Other	Other	Settled	141.0	Settle
+41019	2004082761461	2004-07-27 00:00:00	2004-05-26 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	185.0	Other	Other	Approved	185.0	Approve in Full
+42486	2004090962516	2004-08-11 00:00:00	2004-07-31 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	2470.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+42901	2004092964155	2004-08-19 00:00:00	2004-08-10 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+43110	2004100564552	2004-08-24 00:00:00	2004-07-09 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Other	8.4	Tools & Machines	Locks	Approved	8.4	Approve in Full
+43338	2004091362704	2004-08-25 00:00:00	2004-08-14 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checkpoint	233.65	Other	Other	Denied	0.0	Deny
+43375	2004091062619	2004-08-26 00:00:00	2004-07-08 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	45.0	Containers	Luggage (all types including footlockers)	Approved	45.0	Approve in Full
+44308	2004102765771	2004-09-09 00:00:00	2004-08-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	179.95	Other	Other	Denied	0.0	Deny
+44484	2004102765737	2004-09-10 00:00:00	2004-06-10 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	149.98	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	149.98	Approve in Full
+45616	2004110566443	2004-09-23 00:00:00	2004-09-22 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	21.3	Tools & Machines	Locks	Approved	21.3	Approve in Full
+46123	2004110266133	2004-09-29 00:00:00	2004-09-18 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	21.4	Tools & Machines	Locks	Approved	21.4	Approve in Full
+46279	2004111567039	2004-09-29 00:00:00	2004-09-20 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Denied	0.0	Deny
+46634	2004112067505	2004-10-05 00:00:00	2004-03-29 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	295.0	Watches & Jewelry	Jewelry - Fine	Approved	295.0	Approve in Full
+46690	2004111366940	2004-10-05 00:00:00	2004-08-29 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Other	Other	Denied	0.0	Deny
+47303	2004113068065	2004-10-14 00:00:00	2004-09-12 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	10.73	Tools & Machines	Locks	Denied	0.0	Deny
+47671	2004120468496	2004-10-18 00:00:00	2004-07-26 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	755.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+48506	2004122169875	2004-10-27 00:00:00	2004-10-14 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	115.0	Other	Other	Denied		Deny
+48583	2004122270374	2004-10-27 00:00:00	2004-10-11 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	450.0	Electronics	Cameras - Digital	Settled	168.02	Settle
+48982	2004122069308	2004-11-04 00:00:00	2004-09-04 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	5.33	Tools & Machines	Locks	Approved	5.33	Approve in Full
+49311	2004110766594	2004-11-05 00:00:00	2004-09-25 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+49495	2004122069693	2004-11-09 00:00:00	2004-10-23 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	15.3	Tools & Machines	Locks	Approved	15.3	Approve in Full
+49752	2004122069732	2004-11-10 00:00:00	2004-04-04 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	179.0	Watches & Jewelry	Jewelry - Fine	Settled	149.81	Settle
+50328	2004122871342	2004-11-19 00:00:00	2004-10-11 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	96.12	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	96.12	Approve in Full
+50589	2004122871223	2004-11-23 00:00:00	2004-10-16 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	7106.38	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+51148	2004123071865	2004-12-03 00:00:00	2004-09-20 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	4.99	Other	Other	Approved	4.99	Approve in Full
+51278	2004122370735	2004-12-07 00:00:00	2004-11-28 00:00:00	TUS	Tucson International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	50.0	Other	Other	Approved	50.0	Approve in Full
+51289	2004122370800	2004-12-07 00:00:00	2004-10-31 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	121.0	Other	Other	Approved	121.0	Approve in Full
+51476	2005010472717	2004-12-07 00:00:00	2004-11-26 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	172.65	Electronics	Cameras - Digital	Denied	0.0	Deny
+51487	2005012274013	2004-12-07 00:00:00	2004-10-29 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	104.86	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+51994	2005030176883	2004-12-14 00:00:00	2004-11-22 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	78.0	Other	Other	Approved	78.0	Approve in Full
+52264	2005010472697	2004-12-16 00:00:00		TUS	Tucson International		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+53367	2005012173935	2005-01-04 00:00:00	2004-12-18 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	189.0	Tools & Machines	Locks	Approved	189.0	Approve in Full
+54601	2005013175089	2005-01-14 00:00:00	2004-12-20 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	5900.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+55173	2005021176032	2005-01-21 00:00:00	2005-01-18 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	300.0	Electronics	Cell Phones	Denied	0.0	Deny
+55578	2005021476107	2005-01-26 00:00:00	2004-12-26 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	33.0	Other	Other	Denied		Deny
+57180	2005031478060	2005-02-11 00:00:00	2004-12-31 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	1485.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+57889	2005031778695	2005-02-24 00:00:00	2005-01-29 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	418.0	Other	Other	Denied	0.0	Deny
+57917	2005032179025	2005-02-24 00:00:00	2004-12-09 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	176.84	Other	Other	Denied	0.0	Deny
+58389	2005032279386	2005-03-04 00:00:00	2005-02-03 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	1100.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+58514	2005042983674	2005-03-07 00:00:00	2005-02-02 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	37.5	Supplies	Medicines	Approved	37.5	Approve in Full
+59008	2005032579843	2005-03-09 00:00:00	2005-02-28 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	955.81	Electronics	Cameras - Digital	Denied	0.0	Deny
+59146	2005031478095	2005-03-11 00:00:00	2003-08-14 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	3000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+59472	2005032980344	2005-03-16 00:00:00	2005-03-03 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	10.73	Other	Other	Denied	0.0	Deny
+59809	2005033180704	2005-03-23 00:00:00	2005-03-05 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	85.0	Approve in Full
+60162	2005040181036	2005-03-29 00:00:00	2005-01-30 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	709.4	Watches & Jewelry	Jewelry - Fine	Approved	709.4	Approve in Full
+60197	2005040181146	2005-03-29 00:00:00	2005-03-19 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+60310	2005040181135	2005-03-29 00:00:00	2005-03-14 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Other	Other	Denied	0.0	Deny
+60978	2005040781919	2005-04-06 00:00:00	2005-03-29 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Watches & Jewelry	Jewelry - Fine	Approved	60.0	Approve in Full
+61182	2005040881982	2005-04-07 00:00:00	2005-03-26 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	111.76	Other	Other	Approved	111.76	Approve in Full
+61188	2005040882079	2005-04-07 00:00:00	2005-03-27 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	36.99	Tools & Machines	Baby - Strollers, car seats, playpen, etc.	Approved	36.99	Approve in Full
+61316	2005041182217	2005-04-08 00:00:00	2005-03-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	49.99	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+62042	2005042082887	2005-04-19 00:00:00	2005-02-12 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	1405.43	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+62652	2005042983696	2005-04-26 00:00:00	2005-02-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	200.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+62797	2005050383939	2005-04-28 00:00:00	2005-02-07 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	10000.0	Other	Other	Denied	0.0	Deny
+62826	2005050283783	2005-04-28 00:00:00	2005-03-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	94.9	Watches & Jewelry	Jewelry - Fine	Settled	47.45	Settle
+62938	2005050283833	2005-04-29 00:00:00	2005-04-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Settled	50.0	Settle
+63390	2005051084429	2005-05-09 00:00:00	2005-05-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.74	Tools & Machines	Locks	Approved	10.74	Approve in Full
+63684	2005051784886	2005-05-11 00:00:00	2005-04-22 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1200.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+64133	2005051985128	2005-05-17 00:00:00	2005-04-20 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	4500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+64167	2005052385267	2005-05-17 00:00:00	2005-05-02 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+64529	2005052485397	2005-05-23 00:00:00	2005-04-07 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	458.74	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+64652	2005060285688	2005-05-24 00:00:00	2005-04-21 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	500.0	Other	Other	Canceled	0.0	
+67292	2005070588254	2005-07-01 00:00:00	2005-06-11 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	13.9	Tools & Machines	Locks	Approved	13.9	Approve in Full
+67795	2005071288732	2005-07-11 00:00:00	2005-07-05 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	470.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+67814	2005071889202	2005-07-11 00:00:00	2005-05-27 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	888.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+68155	2005071889116	2005-07-15 00:00:00	2005-06-14 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	40.68	Tools & Machines	Locks	Approved	40.68	Approve in Full
+68813	2005072989955	2005-07-26 00:00:00	2005-07-14 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	125.0	Approve in Full
+68856	2005072989875	2005-07-26 00:00:00	2005-06-24 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+69265	2005081190400	2005-08-02 00:00:00	2005-07-13 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	30.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	30.0	Approve in Full
+69287	2005081290470	2005-08-02 00:00:00	2005-07-16 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	149.0	Other	Other	Canceled	0.0	
+69310	2005081090315	2005-08-02 00:00:00	2005-07-19 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1382.66	Electronics	Computer - Laptop	Denied	0.0	Deny
+69314	2005081090321	2005-08-02 00:00:00	2005-07-14 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+69422	2005081290475	2005-08-03 00:00:00	2005-07-01 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Other	Approved	400.0	Approve in Full
+69576	2005081790702	2005-08-05 00:00:00	2005-07-28 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	383.38	Electronics	Cameras - Digital	Canceled	0.0	
+69661	2005081190365	2005-08-08 00:00:00	2005-07-23 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	1703.5	Watches & Jewelry	Jewelry - Fine	Approved	1703.5	Approve in Full
+70617	2005082991670	2005-08-23 00:00:00	2005-08-12 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	428.08	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+71514	2005091592536	2005-09-08 00:00:00	2005-08-26 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+71535	2005091692604	2005-09-08 00:00:00	2004-05-14 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	30.9	Other	Other	Denied	0.0	Deny
+71868	2005092293120	2005-09-14 00:00:00	2005-08-18 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	40.0	Other	Other	Approved	40.0	Approve in Full
+72541	2005093093585	2005-09-21 00:00:00	2005-06-23 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	182.87	Electronics	Cameras - Digital	Settled	111.34	Settle
+73239	2005101194369	2005-10-04 00:00:00	2005-07-20 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	87.09	Other	Other	Denied	0.0	Deny
+73400	2005101294439	2005-10-05 00:00:00	2005-09-12 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Settled	75.0	Settle
+73435	2005101794590	2005-10-07 00:00:00	2005-09-22 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	12.0	Other	Other	Approved	12.0	Approve in Full
+73992	2005102595185	2005-10-18 00:00:00	2005-09-06 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	10.65	Tools & Machines	Locks	Approved	10.65	Approve in Full
+74117	2005102495103	2005-10-19 00:00:00	2005-10-10 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	140.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+74370	2005110395583	2005-10-25 00:00:00	2005-08-10 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	60.0	Tools & Machines	Locks	Canceled	0.0	
+74430	2005110395586	2005-10-25 00:00:00	2005-09-23 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+74813	2005110995902	2005-11-01 00:00:00	2005-10-05 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	5.93	Tools & Machines	Locks	Denied	0.0	Deny
+75198	2005112196300	2005-11-09 00:00:00	2005-10-31 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Other	Denied	0.0	Deny
+75217	2005112196346	2005-11-09 00:00:00	2005-10-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	475.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+75530	2005112996680	2005-11-15 00:00:00	2005-10-08 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	3620.0	Other	Other	Denied	0.0	Deny
+75595	2005112896649	2005-11-15 00:00:00	2005-09-24 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	DVD/CD Players	Settled	75.0	Settle
+75697	2005120196745	2005-11-18 00:00:00	2005-11-16 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Denied	0.0	Deny
+76557	2005121397705	2005-12-05 00:00:00	2005-11-22 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	96.34	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+77956	2006010699046	2006-01-03 00:00:00	2005-12-12 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	700.0	Electronics	Computer - Laptop	Settled	368.65	Settle
+78655	2006021501554	2006-01-11 00:00:00	2005-12-23 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	435.47	Electronics	Cameras - Digital	Denied	0.0	Deny
+79067	2006012500286	2006-01-18 00:00:00	2005-12-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	58.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+79427	2006012400248	2006-01-24 00:00:00	2005-11-19 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint	1865.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+80266	2006021001358	2006-02-07 00:00:00	2006-02-01 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	4242.87	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+80447	2006021601653	2006-02-09 00:00:00	2006-02-08 00:00:00	TUS	Tucson International		Passenger Property Loss	Checkpoint	65.0	Other	Other	Canceled	0.0	
+81151	2006030102315	2006-02-23 00:00:00	2006-02-07 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	90.0	Watches & Jewelry	Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+81586	2006030702713	2006-03-03 00:00:00	2006-02-24 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	271.14	Electronics	Cameras - Digital	Denied	0.0	Deny
+82571	2006032703704	2006-03-21 00:00:00	2006-03-15 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	70.31	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+82726	2006040303879	2006-03-23 00:00:00	2006-03-10 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+83158	2006041904705	2006-03-31 00:00:00	2006-03-21 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	23.09	Tools & Machines	Locks	Approved	23.09	Approve in Full
+83535	2006042004885	2006-04-07 00:00:00	2006-03-05 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	2000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+83585	2006041904751	2006-04-10 00:00:00	2006-03-21 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	254.25	Electronics	Cameras - Digital	Denied	0.0	Deny
+83653	2006042004801	2006-04-11 00:00:00	2006-04-02 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	98.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+86162	2006060607447	2006-06-02 00:00:00	2006-05-07 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+86218	2006060607372	2006-06-02 00:00:00	2006-01-17 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checkpoint	250.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	160.0	Settle
+86339	2006060807616	2006-06-06 00:00:00	2006-05-24 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	19.95	Tools & Machines	Locks	Approved	19.95	Approve in Full
+86495	2006061207774	2006-06-08 00:00:00	2006-04-18 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	10.65	Tools & Machines	Locks	Approved	10.65	Approve in Full
+87137	2006062108315	2006-06-20 00:00:00	2006-06-04 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	79.0	Other	Other	Settled	39.5	Settle
+87934	2006071109298	2006-07-07 00:00:00	2006-05-29 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+88163	2006071809663	2006-07-11 00:00:00	2006-06-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	20.0	Watches & Jewelry	Jewelry - Costume	Approved	20.0	Approve in Full
+89427	2006080910631	2006-08-04 00:00:00	2006-07-29 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	48.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+90201	2006082511554	2006-08-21 00:00:00	2006-07-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	19.85	Tools & Machines	Locks	Approved	19.85	Approve in Full
+90396	2006082811614	2006-08-23 00:00:00	2006-08-13 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	156.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+90732	2006090612018	2006-08-29 00:00:00	2006-08-23 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	414.0	Other,Outdoors Supplies,Watches & Jewelry	Other*Tools - Manual (not in a vehicle)*Watches - Expensive more than $100	Denied	0.0	Deny
+91222	2006091312475	2006-09-07 00:00:00	2006-08-02 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	56.0	Other	Other	Denied	0.0	Deny
+91515	2006091812716	2006-09-13 00:00:00	2006-02-05 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	1500.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+91524	2006091812754	2006-09-13 00:00:00	2006-09-10 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	41.38	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+92176	2006092913470	2006-09-26 00:00:00	2006-02-15 00:00:00	TUS	Tucson International	American West	Passenger Property Loss	Checked Baggage	1021.25	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+94487	2006111715756	2006-11-13 00:00:00	2006-10-16 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+96028	2006121817365	2006-12-11 00:00:00	2006-11-16 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint	393.25	Electronics	Cameras - Digital	Settled	119.72	Settle
+96046	2006121817316	2006-12-12 00:00:00	2006-12-03 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
+96275	2006122017596	2006-12-14 00:00:00	2006-05-15 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	284.06	Electronics	MP3 Players-(iPods, etc)	Settled	142.03	Settle
+96722	2006122818128	2006-12-26 00:00:00	2006-12-14 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	399.0	Other	Other	Denied	0.0	Deny
+96792	2006122918149	2006-12-27 00:00:00	2006-12-15 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	618.99	Electronics,Clothing & Accessories,Electronics	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+97488	2007011118612	2007-01-05 00:00:00	2006-10-25 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	800.0	Containers	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+97765	2007011718859	2007-01-09 00:00:00	2006-12-04 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage	211.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+97933	2007012319247	2007-01-11 00:00:00	2006-12-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.69	Electronics,Other	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Approved	40.69	Approve in Full
+98832	2007013119969	2007-01-25 00:00:00	2006-12-23 00:00:00	TUS	Tucson International	America West	Passenger Property Loss	Checked Baggage	1503.29	Other	Currency	Denied	0.0	Deny
+99715	2007021220821	2007-02-12 00:00:00	2007-02-12 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
+100532	2007030121756	2007-02-27 00:00:00	2007-02-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1568.2	Electronics	Computer - Laptop	Settled	447.41	Settle
+100719	2007030821986	2007-03-05 00:00:00	2007-02-20 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	29.99	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	29.99	Approve in Full
+101838	2007032723070	2007-03-26 00:00:00	2007-03-12 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	123.88	Clothing & Accessories,Cosmetics,Household Decor	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Lamps (including sun lamps)	Denied	0.0	Deny
+102624	2007041323915	2007-04-10 00:00:00	2007-03-29 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	514.85	Electronics	GPS - Global Positioning System	Canceled	0.0	
+103219	2007042624517	2007-04-23 00:00:00	2007-02-04 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	462.0	Other,Other	Currency*Other	Approved	462.0	Approve in Full
+103979	2007051025255	2007-05-08 00:00:00	2007-02-01 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	5730.4	Clothing & Accessories,Electronics,Other,Scientific Intruments	Clothing - Shoes, belts, accessories, etc.*Computer - Laptop*Other*Professional Equipment	Denied	0.0	Deny
+105606	2007061426961	2007-06-11 00:00:00	2007-06-02 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.08	Other	Other	Approved	21.08	Approve in Full
+106042	2007062127377	2007-06-19 00:00:00	2007-03-12 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	71.34	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+107799	2007072629070	2007-07-24 00:00:00	2007-03-25 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	387.39	Other	Other	Denied	0.0	Deny
+108281	2007080229547	2007-08-01 00:00:00	2007-07-28 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	329.0	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+108416	2007080929944	2007-08-02 00:00:00	2007-07-19 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Watches - Inexpensive $100 or less	Denied	0.0	Deny
+108752	2007081330178	2007-08-09 00:00:00	2007-06-28 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+108940	2007081530291	2007-08-13 00:00:00	2007-05-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+109981	2007090531347	2007-08-30 00:00:00	2007-04-11 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	293.15	Electronics	Cameras - Digital	Settled	227.88	Settle
+111212	2007092832715	2007-09-24 00:00:00	2007-09-09 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	99.02	Supplies	Material (including yard goods and yarn)	Denied	0.0	Deny
+111316	2007092732688	2007-09-26 00:00:00	2007-07-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2954.39	Electronics,Clothing & Accessories,Electronics,Containers,Other	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Computer - Laptop*Luggage (all types including footlockers)*Other	Denied	0.0	Deny
+111523	2007100332976	2007-10-01 00:00:00	2007-09-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	210.0	Other	Currency	Denied	0.0	Deny
+112304	2007101833624	2007-10-16 00:00:00	2007-10-08 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.06	Tools & Machines	Locks	Settled	8.03	Settle
+112384	2007102333794	2007-10-18 00:00:00	2007-10-03 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	1160.0	Electronics	PDA - Personal Data Assistants	Denied	0.0	Deny
+113115	2007110534479	2007-11-01 00:00:00	2007-10-01 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	42.0	Tools & Machines	Locks	Settled	21.0	Settle
+113322	2007110834758	2007-11-06 00:00:00	2007-10-06 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics,Other	DVD/CD Players*Other	Denied	0.0	Deny
+113643	2007111434954	2007-11-13 00:00:00	2007-08-17 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	379.89	Electronics,Electronics,Other	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Settled	189.95	Settle
+113649	2007111535064	2007-11-13 00:00:00	2007-08-06 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	200.0	Electronics	Computer - Laptop	Settled	71.45	Settle
+115197	2007121936675	2007-12-14 00:00:00	2007-12-08 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	13.58	Tools & Machines	Locks	Approved	13.58	Approve in Full
+115425	2007122636897	2007-12-19 00:00:00	2007-11-17 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	40.0	Tools & Machines	Locks	Denied	0.0	Deny
+115809	2008010737444	2007-12-28 00:00:00	2007-11-27 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	630.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+116421	2008011838169	2008-01-09 00:00:00	2008-01-01 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	55.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	55.0	Approve in Full
+116509	2008011537954	2008-01-10 00:00:00	2008-01-05 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	52.9	Watches & Jewelry	Watches - Inexpensive $100 or less	Denied	0.0	Deny
+116528	2008011638025	2008-01-10 00:00:00	2007-12-29 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	46.5	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+117971	2008021339582	2008-02-07 00:00:00	2008-01-09 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	12.65	Tools & Machines	Locks	Approved	12.65	Approve in Full
+118423	2008022540051	2008-02-19 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	32.76	Electronics	Cell Phones	Canceled	0.0	
+118424	2008022540082	2008-02-19 00:00:00	2008-02-07 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	45.0	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Canceled	0.0	
+118523	2008022840293	2008-02-19 00:00:00	2007-12-02 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	244.5	Other	Other	Denied	0.0	Deny
+118768	2008030340342	2008-02-25 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	Jet Blue	Passenger Property Loss	Checked Baggage	2303.11	Electronics	Computer - Laptop	Denied	0.0	Deny
+119114	2008080547976	2008-03-02 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	Jet Blue	Passenger Property Loss	Checked Baggage	1726.34	Electronics	Computer - Laptop	Canceled	0.0	
+119258	2008031240857	2008-03-05 00:00:00	2008-02-29 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Tools & Machines,Clothing & Accessories,Cosmetics,Outdoors Supplies	Baby - Strollers, car seats, playpen, etc.*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+119993	2008040241706	2008-03-20 00:00:00	2008-03-09 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.4	Tools & Machines	Locks	Denied	0.0	Deny
+120924	2008041642596	2008-04-07 00:00:00	2008-03-28 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checkpoint	5400.0	Other	Currency	Denied	0.0	Deny
+121068	2008041742807	2008-04-09 00:00:00	2008-03-27 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint	271.39	Containers,Office Supplies,Containers	Bags - Fabric, plastic, etc. (not purses)*Cards - Greeting*Handbags & Purses (leather or fabric)	Canceled	0.0	
+122142	2008050643841	2008-04-30 00:00:00	2008-04-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	392.0	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+122173	2008050143651	2008-05-01 00:00:00	2008-04-20 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	12.0	Other	Other	Denied	0.0	Deny
+122614	2008051444249	2008-05-12 00:00:00	2008-05-09 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.24	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+123356	2008060245095	2008-05-27 00:00:00	2008-03-23 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	270.63	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+123971	2008061345621	2008-06-10 00:00:00	2008-04-19 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	123.97	Clothing & Accessories,Other	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+124353	2008062446070	2008-06-18 00:00:00	2008-06-11 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	11.95	Tools & Machines	Locks	Denied	0.0	Deny
+124743	2008070146445	2008-06-27 00:00:00	2008-06-20 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	399.0	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+125297	2008071747027	2008-07-10 00:00:00	2008-04-03 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	736.9	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+125521	2008072847504	2008-07-15 00:00:00	2008-07-02 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	285.69	Electronics	GPS - Global Positioning System	Canceled	0.0	
+126143	2008073147827	2008-07-29 00:00:00	2008-05-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	11.5	Tools & Machines	Locks	Denied	0.0	Deny
+126144	2008073147831	2008-07-29 00:00:00	2008-07-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	11.5	Tools & Machines	Locks	Denied	0.0	Deny
+127129	2008082048843	2008-08-19 00:00:00	2008-08-05 00:00:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checked Baggage	110.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+127592	2008091850054	2008-08-29 00:00:00	2008-02-13 00:00:00	TUS	Tucson International	Jet Blue	Passenger Property Loss	Checked Baggage	2089.06	Electronics	Computer - Laptop	Canceled	0.0	
+127800	2008090549556	2008-09-04 00:00:00	2008-08-15 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	48.59	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	48.59	Approve in Full
+128619	2008092450378	2008-09-23 00:00:00	2008-09-19 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Electronics,Containers,Other	Cell Phones*Luggage (all types including footlockers)*Other	Denied	0.0	Deny
+129075	2008101051008	2008-10-06 00:00:00	2008-09-11 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	35.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Canceled	0.0	
+129277	2008101451106	2008-10-09 00:00:00	2008-08-02 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	316.7	Electronics	Cameras - Digital	Denied	0.0	Deny
+129450	2008100350776	2008-10-15 00:00:00	2008-09-26 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	392.0	Other	Other	Denied	0.0	Deny
+130091	2008110652005	2008-10-31 00:00:00	2008-10-13 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	32.4	Other	Other	Canceled	0.0	
+130317	2008111452228	2008-11-05 00:00:00	2008-10-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	712.84	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+131678	2008121953563	2008-12-12 00:00:00	2008-11-26 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checkpoint	150.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+132254	2009010554065	2008-12-29 00:00:00	2008-12-21 00:00:00	TUS	Tucson International	Northwest Airlines	Passenger Property Loss	Checked Baggage	16.0	Containers	Luggage (all types including footlockers)	Settled	8.0	Settle
+132808	2009012354772	2009-01-12 00:00:00	2008-10-31 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	2250.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+134341	2009031356193	2009-02-24 00:00:00	2009-02-16 00:00:00	TUS	Tucson International	Sun Country Airlines Inc	Passenger Property Loss	Checkpoint	100.0	Watches & Jewelry	Watches - Inexpensive $100 or less	Approved	100.0	Approve in Full
+135099	2009032757001	2009-03-16 00:00:00	2009-03-12 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	38.0	Containers	Luggage (all types including footlockers)	Approved	38.0	Approve in Full
+135169	2009040257137	2009-03-17 00:00:00	2009-02-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Denied	0.0	Deny
+135197	2009040357170	2009-03-18 00:00:00	2009-03-17 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	317.97	Electronics	GPS - Global Positioning System	Canceled	0.0	
+135351	2009041357451	2009-03-20 00:00:00	2009-02-28 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Denied	0.0	Deny
+135451	2009041157341	2009-03-25 00:00:00	2009-02-22 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	99.95	Household Items	Bedding - Air mattress	Canceled	0.0	
+135846	2009042758015	2009-04-02 00:00:00	2009-02-07 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage	10.8	Tools & Machines	Locks	Denied	0.0	Deny
+136208	2009041457502	2009-04-14 00:00:00	2009-02-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1045.82	Containers,Watches & Jewelry,Watches & Jewelry,Electronics	Boxes - Jewelry, Cigarette, Music, etc.*Jewelry - Costume*Jewelry - Fine*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+136449	2009050758449	2009-04-21 00:00:00	2009-04-01 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	26.73	Electronics,Tools & Machines	Cell Phones*Locks	Denied	0.0	Deny
+136633	2009051558683	2009-04-27 00:00:00	2009-04-09 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	159.0	Electronics	Cameras - Digital	Canceled	0.0	
+137802	2009060259783	2009-05-29 00:00:00	2009-04-22 00:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage	1616.0	Household Decor	Silverplate, Goldplate, Pewter, Stainless Steel, Copperware, Bronzeware	Denied	0.0	Deny
+139017	2009071061031	2009-07-01 00:00:00	2009-05-28 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	200.0	Electronics,Other	Cameras - Digital*Other	Denied	0.0	Deny
+139380	2009071761369	2009-07-13 00:00:00	2009-06-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint	182.41	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+140505	2009081362591	2009-08-10 00:00:00	2009-07-16 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Games & Toys	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+140578	2009082162840	2009-08-11 00:00:00	2009-07-26 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	11.81	Tools & Machines	Locks	Denied	0.0	Deny
+140722	2009081762675	2009-08-17 00:00:00	2009-08-10 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	1600.0	Tools & Machines,Electronics,Electronics,Other,Watches & Jewelry	Binoculars*Cameras - Digital*DVD/CD Players*Other*Watches - Expensive more than $100	Denied	0.0	Deny
+140778	2009071661323	2009-08-18 00:00:00	2009-06-07 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	110.77	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+141916	2009092163871	2009-09-21 00:00:00	2009-09-17 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	169.99	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+142291	2009100564312	2009-10-01 00:00:00	2009-09-30 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Locks	Approved	30.0	Approve in Full
+142546	2009101964527	2009-10-09 00:00:00	2009-09-03 09:30:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage	396.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+142582	2009102264609	2009-10-13 00:00:00	2009-09-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	120.0	Tools & Machines	Locks	Denied	0.0	Deny
+142956	2009110465110	2009-10-26 00:00:00	2009-10-11 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	105.0	Other	Currency	Canceled		
+143886	2009120165897	2009-11-20 00:00:00	2009-11-19 13:10:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+143998	2009120265965	2009-11-25 00:00:00	2009-10-22 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage	5.75	Tools & Machines	Locks	Denied	0.0	Deny
+144005	2009120466067	2009-11-25 00:00:00	2009-10-28 06:30:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage	594.0	Tools & Machines,Electronics	Binoculars*Cameras - Digital	Denied	0.0	Deny
+144912	2009123066957	2009-12-23 00:00:00	2009-12-21 18:45:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	35.0	Settle
+146510	2010031369578	2010-03-09 00:00:00	2010-03-01 00:00:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		5025.0	Approve in Full
+146817	2010032570042	2010-03-17 00:00:00	2010-03-04 08:30:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments,Other	Medical/Science*Other		0.0	Deny
+147086	2010033070214	2010-03-29 00:00:00	2010-02-09 15:30:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		36.65	Settle
+147102	2010033070240	2010-03-29 00:00:00	2010-03-20 10:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+147260	2010040670439	2010-03-31 00:00:00	2010-03-24 05:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+147344	2010040770499	2010-04-05 00:00:00	2010-03-28 10:15:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+147779	2010042171042	2010-04-15 00:00:00	2010-03-11 09:58:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		5.49	Settle
+148296	2010050771598	2010-05-03 00:00:00	2010-04-22 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+149103	2010060472368	2010-05-26 00:00:00	2010-05-21 12:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+149849	2010062873140	2010-06-22 00:00:00	2010-06-16 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+149869	2010062873172	2010-06-22 00:00:00	2010-06-02 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+150447	2010072974183	2010-07-08 00:00:00	2010-06-09 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+150637	2010072374003	2010-07-14 00:00:00	2010-06-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		81.0	Approve in Full
+151779	2010082275220	2010-08-16 00:00:00	2010-08-07 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor,Household Decor	Home Decor*Home Decor		0.0	Deny
+152346	2010090775696	2010-08-31 00:00:00	2010-07-23 08:50:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Cameras		157.0	Approve in Full
+154821	2010112678171	2010-11-17 00:00:00	2010-11-14 07:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+155266	2010121578788	2010-12-02 00:00:00	2010-11-04 09:20:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+155338	2010121578776	2010-12-06 00:00:00	2010-11-14 08:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+155406	2010121778833	2010-12-07 00:00:00	2010-11-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+156236	2011012579746	2011-01-06 00:00:00	2010-11-21 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		240.0	Settle
+156368	2011012779771	2011-01-11 00:00:00	2010-12-15 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		36.0	Approve in Full
+156824	2011021880302	2011-01-24 00:00:00	2010-12-18 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+157418	2011030380847	2011-02-10 00:00:00	2011-01-08 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+157691	2011031481188	2011-02-22 00:00:00	2011-02-07 06:00:00	TUS	Tucson International	Continental Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+157692	2011031481190	2011-02-22 00:00:00	2011-01-25 16:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		7.0	Approve in Full
+158053	2011040181691	2011-03-04 00:00:00	2011-02-28 15:45:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			
+159451	2011042182892	2011-04-19 00:00:00	2011-04-11 12:41:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+159958	2011042282909	2011-05-06 00:00:00	2011-03-19 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Watches & Jewelry	Clothing*Cosmetics & Grooming*Jewelry & Watches		0.0	Deny
+159960	2011051683452	2011-05-06 00:00:00	2011-04-16 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		39.0	Approve in Full
+160256	2011052583778	2011-05-16 00:00:00	2011-04-10 05:10:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		20.0	Approve in Full
+160265	2011053183858	2011-05-16 00:00:00	2011-05-03 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+161977	2011072785601	2011-07-12 00:00:00	2011-07-03 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+162986	2011083186583	2011-08-11 00:00:00	2011-07-24 06:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+163807	2011100387324	2011-09-08 00:00:00	2011-06-28 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+163930	2011100487451	2011-09-13 00:00:00	2011-08-07 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Cosmetics	Other*Travel Accessories		0.0	Deny
+164172	2011101487908	2011-09-21 00:00:00	2011-08-28 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		38.46	Approve in Full
+164410	2011101888021	2011-10-03 00:00:00	2011-09-01 08:30:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Watches & Jewelry	Clothing*Jewelry & Watches		0.0	Deny
+164480	2011102188270	2011-10-04 00:00:00	2011-09-01 09:30:00	TUS	Tucson International	American Eagle	Passenger Property Loss	Checked Baggage		Electronics	Cameras			
+164827	2011110888755	2011-10-13 00:00:00	2010-12-18 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+165268	2011102888521	2011-10-28 00:00:00	2011-08-12 10:30:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		30.0	Approve in Full
+165380	2011110888831	2011-11-01 00:00:00	2011-04-01 05:09:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+165388	2011110988843	2011-11-01 00:00:00	2011-10-22 16:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		15.18	Approve in Full
+165889	2011120889429	2011-11-21 00:00:00	2011-11-13 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		41.9	Approve in Full
+166086	2011121489645	2011-11-28 00:00:00	2011-11-16 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Electronics,Other	Cameras*Other		45.0	Approve in Full
+167124	2012022891324	2012-01-04 00:00:00	2012-01-01 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+168031	2012031591718	2012-01-31 00:00:00	2011-12-19 05:30:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Other	Other		65.0	Approve in Full
+168359	2012032392012	2012-02-13 00:00:00	2012-01-13 13:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other		12.0	Approve in Full
+168417	2012032792132	2012-02-14 00:00:00	2012-02-06 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+168577	2012032992254	2012-02-21 00:00:00	2012-02-10 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+168900	2012030291492	2012-03-02 00:00:00	2012-01-07 07:45:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+170003	2012050793623	2012-04-12 00:00:00	2012-03-26 12:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+170175	2012051593949	2012-04-18 00:00:00	2012-04-04 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		500.0	Settle
+170485	2012052194131	2012-04-30 00:00:00	2012-04-12 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Other	Other		38.13	Approve in Full
+170495	2012052394225	2012-04-30 00:00:00	2012-04-15 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Household Items	Household Items			
+170576	2012060694559	2012-05-02 00:00:00	2012-04-22 12:30:00	TUS	Tucson International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		28.96	Approve in Full
+171548	2012071295284	2012-06-06 00:00:00	2012-05-09 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+171694	2012071695397	2012-06-12 00:00:00	2012-05-22 14:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+172629	2012082996379	2012-07-16 00:00:00	2012-05-12 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			
+173099	2012081796044	2012-08-02 00:00:00	2012-07-25 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories	Cosmetics & Grooming*Personal Accessories		0.0	Deny
+173254	2012092097007	2012-08-07 00:00:00	2012-07-13 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		32.12	Settle
+175711	2013010399489	2012-11-05 00:00:00	2012-10-24 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+176209	2013011099823	2012-11-26 00:00:00	2012-11-12 17:38:00	TUS	Tucson International	UAL	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		0.0	Deny
+177819	2013021901575	2013-01-28 00:00:00	2013-01-04 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Other	Other			
+178061	2013022001640	2013-02-05 00:00:00	2013-02-02 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+178265	2013022602093	2013-02-12 00:00:00	2013-01-28 00:00:00	TUS	Tucson International		Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.95	Approve in Full
+179112	2013032702771	2013-03-14 00:00:00	2013-02-26 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+179507	2013041703215	2013-04-01 00:00:00	2013-02-26 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Automobile & Mechanical,Containers	Automobile Parts & Accessories*Baggage/Cases/Purses		0.0	Deny
+179596	2013042303280	2013-04-03 00:00:00	2013-01-01 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+180589	2013061204246	2013-05-10 00:00:00	2013-04-15 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+180779	2013071005103	2013-05-17 00:00:00	2013-05-02 00:00:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other,Other	Other*Other		139.9	Approve in Full
+182456	2013082306196	2013-07-17 00:00:00	2013-06-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers,Other,Other	Baggage/Cases/Purses*Other*Other		0.0	Deny
+182639	2013082906384	2013-07-23 00:00:00	2013-07-15 15:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		15.95	Approve in Full
+182778	2013091206868	2013-07-29 00:00:00	2013-05-07 13:26:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+183678	2013082706322	2013-08-27 00:00:00	2013-05-30 13:28:00	TUS	Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			
+184007	2013102407800	2013-09-06 00:00:00	2013-08-22 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+185054	2013103108416	2013-10-22 00:00:00	2013-09-26 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Clothing & Accessories,Clothing & Accessories,Cosmetics,Household Decor,Other	Audio/Video*Cameras*Clothing*Clothing*Cosmetics & Grooming*Home Decor*Other			
+187041	2014011310781	2014-01-08 00:00:00	2014-01-03 00:00:00	TUS	Tucson International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+188566	2014031112343	2014-03-10 00:00:00	2014-03-06 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+189412	2014041413212	2014-04-11 00:00:00	2014-02-22 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science			
+190487	2014053014306	2014-05-28 00:00:00	2014-03-12 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		43.24	Approve in Full
+190614	2014060414435	2014-05-30 00:00:00	2014-05-06 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+192010	2014081415861	2014-07-21 00:00:00	2014-03-31 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras			
+192557	2014090416423	2014-08-13 00:00:00	2014-07-09 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+192811	2014091716685	2014-08-27 00:00:00	2014-08-14 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Automobile & Mechanical,Electronics	Automobile Parts & Accessories*Personal Electronics			
+194808	2014112818721	2014-11-20 00:00:00	2014-10-29 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+194819	2014112818733	2014-11-25 00:00:00	2014-11-23 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			
+204074	2015011519919	2015-01-15 00:00:00	2014-12-14 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+204077	2015041521948	2015-04-16 00:00:00	2015-04-06 00:00:00	TUS	Tucson International	Alaska Airlines	Passenger Property Loss	Checkpoint		Containers	Baggage/Cases/Purses			
+204083	2015100125810	2015-09-18 00:00:00	2015-08-20 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Currency		0.0	Deny
+204084	2015101325999	2015-09-25 00:00:00	2015-09-17 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		253.25	Approve in Full
+204085	2015110226444	2015-10-14 00:00:00	2015-10-08 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+204086	2015111026776	2015-10-21 00:00:00	2015-08-24 00:00:00	TUS	Tucson International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			
+204087	2015111626880	2015-11-02 00:00:00	2015-10-05 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+204091	2015122427868	2015-12-08 00:00:00	2015-10-28 00:00:00	TUS	Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Supplies	Crafting & Hobby			
+204092	2015122927908	2015-12-29 00:00:00	2015-12-02 00:00:00	TUS	Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+212292	2016060131921	2016-05-20 00:00:00	2016-05-04 12:35:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		90.0	Approve in Full
+212293	2016101734753	2016-09-08 00:00:00	2016-09-06 18:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		41.64	Approve in Full
+212294	2016032830141	2016-03-11 00:00:00	2016-03-11 07:00:00	TUS	Tucson International Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+212295	2016042130709	2016-03-31 00:00:00	2016-03-29 11:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+212296	2016063032489	2016-06-07 00:00:00	2016-05-28 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+212297	2016072532843	2016-07-25 00:00:00	2016-06-01 00:00:00	TUS	Tucson International Tucson International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+212298	2016101434698	2016-09-08 00:00:00	2016-08-23 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+220631	2017061940770	2017-05-02 00:00:00	2017-04-19 00:00:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			In Review
+220632	2017050839290	2017-04-03 00:00:00	2017-03-30 00:00:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			Closed: Canceled
+220634	2017121145838	2017-10-06 00:00:00	2017-09-29 10:00:00	TUS	Tucson International Tucson International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video			In Review
+220636	2017071341510	2017-06-08 00:00:00	2017-04-25 00:00:00	TUS	Tucson International Tucson International	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		53.26	Approve in Full
+220637	2017020937415	2017-02-09 00:00:00	2017-02-09 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics	Other*Personal Electronics		0.0	Deny
+220638	2017050839259	2017-03-09 00:00:00	2017-02-18 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other			In Review
+220640	2017052239830	2017-04-11 00:00:00	2017-03-23 18:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+220641	2017060840378	2017-04-11 00:00:00	2017-03-26 00:00:00	TUS	Tucson International Tucson International		Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			Insufficient
+220643	2017101844519	2017-09-13 00:00:00	2017-08-25 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Other			In Review
+220644	2017121245922	2017-11-14 00:00:00	2017-11-14 02:15:00	TUS	Tucson International Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+220646	2018010446505	2017-12-16 00:00:00	2017-12-14 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			Insufficient
+220647	2017041338565	2017-02-16 00:00:00	2017-02-15 14:30:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			Insufficient
+220651	2017122046131	2017-12-20 00:00:00	2017-11-11 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			In Review
+220654	2017042839091	2017-02-22 00:00:00	2017-02-16 00:00:00	TUS	Tucson International Tucson International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			In Review
+220656	2017060140090	2017-04-25 00:00:00	2017-04-22 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+220657	2017061640753	2017-04-26 00:00:00	2017-03-28 00:00:00	TUS	Tucson International Tucson International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			In Review
+220658	2017052439926	2017-03-28 00:00:00	2017-02-01 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checkpoint		Other	Personal Documents			In Review
+220659	2017081542199	2017-06-29 00:00:00	2017-06-06 00:00:00	TUS	Tucson International Tucson International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
