@@ -36,9 +36,16 @@
 			</div>
 
 			<div class="about-section">
-				<span class="about-section-title">Interactive Visualization</span>
-				<span class="about-section-text">Try out this demo by looking at airports that interest you!</span>
+				<div class="about-section-description">
+					<span class="about-section-title">Interactive Visualization</span>
+					<span class="about-section-text">Try out this demo by looking at airports that interest you!</span>
+				</div>
 			</div>
+
+			<div class="search-section">
+				<input type="text" name="airport" id="search-airport" placeholder="Search for an Airport">
+			</div>
+
 
 			<div class="viz-section" id="interactive-section">
 				<div id="interactive-row-1">
@@ -53,7 +60,34 @@
 					</div>
 
 					<div id="items-section">
-						<svg class="no-select" id="items-svg" width="800" height="500"></svg>
+						<div class="airport-info">
+							<div class="airport-title-container">
+								<p id="airport-title">All Airports</p>
+							</div>
+							<div class="airport-stats">
+								<div class="airport-stats-column">
+									<div class="airport-stat">
+										<p class="airport-stat-description">Total Claims</p>
+										<p id="claim-count">4</p>
+									</div>
+									<div class="airport-stat">
+										<p class="airport-stat-description">Claims per Million Passengers</p>
+										<p id="claims-per-passenger">1</p>
+									</div>
+								</div>
+								<div class="airport-stats-column">
+									<div class="airport-stat">
+										<p class="airport-stat-description">Median Claim Amount</p>
+										<p id="median-claim-amount">3</p>
+									</div>
+									<div class="airport-stat">
+										<p class="airport-stat-description">Median Close Amount</p>
+										<p id="median-close-amount">2</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<svg class="no-select" id="items-svg" width="800" height="400"></svg>
 					</div>
 				</div>
 

@@ -74,6 +74,7 @@ function setupMap() {
           if (airportSelected) {
             airportSelected = false
             changeAirport(undefined)
+            svg.classed('clickable-state', false)
             d3.selectAll(".map-airport-indicator")
               .attr("selected", false)
               .transition()
@@ -118,7 +119,7 @@ function setupMap() {
                     .attr("opacity", 0.5)
                 } else {
                   airportSelected = true
-                  changeAirport(d.airport_code)
+                  changeAirport(d)
                   d3.selectAll(".map-airport-indicator")
                     .transition()
                     .duration(300)
@@ -180,6 +181,21 @@ function setupMap() {
             button.classed("selected", true)
         }
 
+        function filterAirports(searchTerm) {
+            svg.selectAll("circle")
+                .attr('display', d => {
+                  if (!searchTerm) {
+                    return null
+                  } else if (d.Airport.toLowerCase().includes(searchTerm.toLowerCase())) {
+                    return null
+                  } else if (d.airport_code.toLowerCase().includes(searchTerm.toLowerCase())) {
+                    return null
+                  } else {
+                    return 'none'
+                  }
+                })
+        }
+
         changeCircleSize('claim_count', d => d.count / 20)
         changeView(d3.select("#map-total-claims-button"))
 
@@ -215,5 +231,9 @@ function setupMap() {
             })
             changeView(d3.select("#map-median-close-button"))
         })
+
+      d3.select("#search-airport").on('input', function() {
+        filterAirports(this.value)
+      })
     }
 }

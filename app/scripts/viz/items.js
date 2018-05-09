@@ -1,11 +1,43 @@
 airports_by_code = {}
 totals_for_all_airports = []
-function changeAirport(airport_code) {
-
+stats_for_all_airports = {
+  med_claim: '$211.35',
+  med_close: '$80.00',
+  count: 126767,
+  count_per_million_passengers: 77,
+}
+function changeAirport(airport_data) {
+  airport_code = airport_data && airport_data.airport_code
   let items
   if (airport_code === undefined) {
     items = totals_for_all_airports
+    d3.select('#airport-title').text('All Airports')
+    d3.select('#claim-count').text(stats_for_all_airports.count.toLocaleString())
+    d3.select('#median-close-amount').text(stats_for_all_airports.med_close)
+    d3.select('#median-claim-amount').text(stats_for_all_airports.med_claim)
+    d3.select('#claims-per-passenger').text(stats_for_all_airports.count_per_million_passengers)
   } else {
+    console.log(airport_data)
+    d3.select('#airport-title').text(`${airport_data.Airport} (${airport_data.airport_code})`)
+
+    const claim_count = +airport_data.count
+    d3.select('#claim-count').text(claim_count.toLocaleString())
+
+    const med_claim_amount = +airport_data.med_claim
+    if (med_claim_amount === -1) {
+      d3.select('#median-claim-amount').text('Unknown')
+    } else {
+      d3.select('#median-claim-amount').text(`$${(+airport_data.med_claim).toLocaleString(undefined, {minimumFractionDigits: 2})}`)
+    }
+    d3.select('#median-close-amount').text(`$${(+airport_data.med_close).toLocaleString(undefined, {minimumFractionDigits: 2})}`)
+
+    const passengers = +airport_data.domestic_passengers + +airport_data.international_passengers
+    if (!passengers) {
+      d3.select('#claims-per-passenger').text('Unknown')
+    } else {
+      d3.select('#claims-per-passenger').text(`${Math.round(claim_count/passengers*1000000).toLocaleString()}`)
+    }
+
     items = Object.keys(airports_by_code[airport_code])
     .filter(key => key !== 'Airport')
     .map(key => ({
@@ -14,6 +46,16 @@ function changeAirport(airport_code) {
     }))
   }
 
+  /*
+							<p id="airport-title">Hello</p>
+							<div class="airport-stats">
+								<p id="claim-count">Hello</p>
+								<p id="median-claim-amount">Hello</p>
+								<p id="median-close-amount">Hello</p>
+								<p id="claims-per-pasenger">Hello</p>
+							</div>
+						</div>
+            */
   let svg = d3.select("#items-svg")
   let margin = {top: 10, right: 20, bottom: 30, left: 160}
   let width = +svg.attr("width") - margin.left - margin.right
@@ -79,6 +121,11 @@ function setupItems() {
         })))
 
         items = totals_for_all_airports
+        d3.select('#airport-title').text('All Airports')
+        d3.select('#claim-count').text(stats_for_all_airports.count.toLocaleString())
+        d3.select('#median-close-amount').text(stats_for_all_airports.med_close)
+        d3.select('#median-claim-amount').text(stats_for_all_airports.med_claim)
+        d3.select('#claims-per-passenger').text(stats_for_all_airports.count_per_million_passengers)
 
         x.domain([0, d3.max(items, function(d) { return d.count })])
         y.domain(items.map(function(d) { return d.category })).padding(0.1)

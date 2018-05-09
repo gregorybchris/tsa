@@ -90,12 +90,45 @@ html, body {
 	background-color: @faded-purple;
 }
 
+.search-section {
+	margin: 20px 500px;
+	display: flex;
+	flex: 1;
+	flex-direction: row;
+	justify-content: center;
+
+	input {
+		font-family: "Open Sans Regular";
+		width: 100%;
+		height: 40px;
+		font-size: 20px;
+		text-align: center;
+		border-radius: 5px;
+		border-width: 1px;
+		border-style: solid;
+		border-color: transparent;
+	}
+	input::placeholder {
+		color: rgb(200, 200, 200);
+	}
+	input:focus {
+		outline-width: 0;
+		border-color: @classic-purple;
+	}
+}
+
+.about-section-description {
+	display: flex;
+	flex: 2;
+}
+
 .about-section-title {
 	font-family: "Nexa Bold";
 	color: darken(@urban-grey, 5%);
 	display: block;
 	font-size: 20px;
 	margin-bottom: 15px;
+	margin-top: 3px;
 }
 
 .about-section-text {
@@ -127,7 +160,7 @@ html, body {
 
 /* ~ ~ ~ ~ Interactive Section ~ ~ ~ ~ */
 
-#map-section, #items-section, #amounts-section, #dates-section, #claim-section {
+#map-section, #amounts-section, #dates-section, #claim-section {
 	display: inline-block;
 }
 
@@ -150,7 +183,54 @@ html, body {
 
 #items-section {
 	display: flex;
+	flex-direction: column;
 	flex: 1;
+}
+
+#airport-title {
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: "Nexa Bold";
+}
+
+.airport-title-container {
+	display: flex;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+}
+
+.airport-stats {
+	display: flex;
+	margin-bottom: 15px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.airport-stats-column {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin-left: 30px;
+}
+
+.airport-stats > p {
+	font-family: "Open Sans Regular";
+	text-align: center;
+	flex: 1;
+}
+
+.airport-stat {
+	display: flex;
+	flex-direction: row;
+}
+
+.airport-stat-description {
+	color: gray;
+	margin-right: 5px;
+	margin-bottom: 5px;
 }
 
 /* ~ ~ ~ ~ Map Section ~ ~ ~ ~ */
@@ -173,6 +253,10 @@ html, body {
 #items-svg text {
 	font-family: "Open Sans Regular";
 	fill: @urban-grey;
+}
+
+#items-svg .y text {
+	font-size: 13px;
 }
 
 .bar {
