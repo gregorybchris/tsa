@@ -91,17 +91,17 @@ html, body {
 }
 
 .search-section {
-	margin: 20px 500px;
 	display: flex;
 	flex: 1;
 	flex-direction: row;
-	justify-content: center;
+	margin-top: 10px;
+	width: 50%;
 
 	input {
 		font-family: "Open Sans Regular";
 		width: 100%;
-		height: 40px;
-		font-size: 20px;
+		height: 30px;
+		font-size: 15px;
 		text-align: center;
 		border-radius: 5px;
 		border-width: 1px;
@@ -143,6 +143,26 @@ html, body {
 
 .viz-section {
 	padding: 10px 50px 40px;
+}
+
+.video-section {
+	padding: 0px 0px 40px;
+	text-align: center;
+	background-color: @faded-purple;
+}
+
+.video-frame {
+	border: 15px solid @classic-purple;
+}
+
+.text-link {
+	color: @classic-purple;
+	text-decoration: none;
+	transition: color 200ms;
+}
+
+.text-link:hover {
+	color: lighten(@classic-purple, 10%);
 }
 
 /* ~ ~ ~ ~ Disposition Section ~ ~ ~ ~ */
@@ -233,6 +253,10 @@ html, body {
 	margin-bottom: 5px;
 }
 
+#sites-section {
+	text-align: center;
+}
+
 /* ~ ~ ~ ~ Map Section ~ ~ ~ ~ */
 
 .clickable-state:hover {
@@ -244,7 +268,7 @@ html, body {
 }
 
 .map-buttons-wrap {
-	padding: 10px;
+	padding: 30px 10px 10px;
 	text-align: center;
 }
 
@@ -376,7 +400,7 @@ html, body {
 	padding: 6px 8px 4px;
 	margin: 0px 10px;
 	box-sizing: border-box;
-	border: 3px solid @classic-purple;
+	border: 2px solid @classic-purple;
 	color: darken(@classic-purple, 10%);
 	background-color: transparent;
 	transition: border 300ms, background-color 300ms, color 33ms;
@@ -385,7 +409,7 @@ html, body {
 
 .button:hover, {
 	background-color: lighten(@classic-purple, 5%);
-	border: 3px solid lighten(@classic-purple, 5%);
+	border: 2px solid lighten(@classic-purple, 5%);
 	color: @white;
 	cursor: pointer;
 }
@@ -396,7 +420,7 @@ html, body {
 }
 
 .button.disabled {
-	border: 3px solid lighten(@classic-purple, 15%);
+	border: 2px solid lighten(@classic-purple, 15%);
 	color: lighten(@urban-grey, 30%);
 	cursor: default;
 }
@@ -408,7 +432,7 @@ html, body {
 
 .button.selected {
 	background-color: lighten(@classic-purple, 5%);
-	border: 3px solid lighten(@classic-purple, 5%);
+	border: 2px solid lighten(@classic-purple, 5%);
 	color: @white;
 	cursor: default;
 }
