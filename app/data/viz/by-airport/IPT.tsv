@@ -1,10 +1,10 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-57895	2005031878780	2005-02-24 00:00:00	2005-01-04 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage	130.94	Clothing & Accessories	Denied	0.0	Deny
-102814	2007041724120	2007-04-13 00:00:00	2006-11-29 00:00:00	IPT	Williamsport Lycoming Regional		Passenger Property Loss	Checkpoint	485.0	Electronics	Approved	485.0	Approve in Full
-136016	2009042858062	2009-04-08 00:00:00	2009-03-10 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage	50.0	Cosmetics,Tools & Machines	Denied	0.0	Deny
-145022	2010010467092	2009-12-29 00:00:00	2009-12-15 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage	0.0	Supplies	Canceled		
-145535	2010020468278	2010-02-01 00:00:00	2010-01-30 11:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-156657	2011021080087	2011-01-19 00:00:00	2011-01-13 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Cosmetics		0.0	Deny
-182298	2013081605974	2013-07-15 00:00:00	2013-06-09 13:30:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		8.0	Settle
-182558	2013090206459	2013-07-19 00:00:00	2013-06-29 14:07:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-215810	2017091342966	2017-07-13 00:00:00	2017-07-01 00:00:00	IPT	 Williamsport Lycoming Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+57895	2005031878780	2005-02-24 00:00:00	2005-01-04 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage	130.94	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+102814	2007041724120	2007-04-13 00:00:00	2006-11-29 00:00:00	IPT	Williamsport Lycoming Regional		Passenger Property Loss	Checkpoint	485.0	Electronics	Cameras - Digital	Approved	485.0	Approve in Full
+136016	2009042858062	2009-04-08 00:00:00	2009-03-10 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage	50.0	Cosmetics,Tools & Machines	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Scissors, Shears (other than electric)	Denied	0.0	Deny
+145022	2010010467092	2009-12-29 00:00:00	2009-12-15 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage	0.0	Supplies	Medicines	Canceled		
+145535	2010020468278	2010-02-01 00:00:00	2010-01-30 11:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checkpoint		Electronics	Cameras		0.0	Deny
+156657	2011021080087	2011-01-19 00:00:00	2011-01-13 00:00:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Cosmetics	Jewelry & Watches*Travel Accessories		0.0	Deny
+182298	2013081605974	2013-07-15 00:00:00	2013-06-09 13:30:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		8.0	Settle
+182558	2013090206459	2013-07-19 00:00:00	2013-06-29 14:07:00	IPT	Williamsport Lycoming Regional	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+215810	2017091342966	2017-07-13 00:00:00	2017-07-01 00:00:00	IPT	 Williamsport Lycoming Regional	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			In Review

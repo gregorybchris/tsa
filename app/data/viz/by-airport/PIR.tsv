@@ -1,3 +1,3 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-77650	2006010598797	2005-12-27 00:00:00	2005-11-26 00:00:00	PIR	Pierre Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	395.0	Other	Denied	0.0	Deny
-77653	2006010598812	2005-12-27 00:00:00	2005-11-26 00:00:00	PIR	Pierre Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	155.0	Other	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+77650	2006010598797	2005-12-27 00:00:00	2005-11-26 00:00:00	PIR	Pierre Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	395.0	Other	Other	Denied	0.0	Deny
+77653	2006010598812	2005-12-27 00:00:00	2005-11-26 00:00:00	PIR	Pierre Regional	Northwest Airlines	Passenger Property Loss	Checked Baggage	155.0	Other	Other	Denied	0.0	Deny

@@ -1,4 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-99163	2007020820490	2007-01-31 00:00:00	2007-01-20 00:00:00	VIS	Visalia Municipal	USAir	Passenger Property Loss	Checked Baggage	344.0	Electronics	Cameras - Digital	Denied	0.0	Deny
-185247	2013111209134	2013-10-29 00:00:00	2013-10-05 06:00:00	VIS	Visalia Municipal	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
-187989	2014021911756	2014-02-07 00:00:00	2013-10-03 00:00:00	VIS	Visalia Municipal	Great Lakes Airline	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny

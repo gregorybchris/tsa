@@ -1,9 +1,9 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-88969	2006073110267	2006-07-26 00:00:00	2006-07-06 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-94762	2006112816275	2006-11-16 00:00:00	2006-11-08 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage	518.79	Electronics,Clothing & Accessories,Tools & Machines,Containers	Denied	0.0	Deny
-100724	2007030922048	2007-03-05 00:00:00	2007-02-03 00:00:00	DBQ	Dubuque Regional		Passenger Property Loss	Checked Baggage	9.63	Tools & Machines	Approved	9.63	Approve in Full
-128775	2008093050598	2008-09-26 00:00:00	2008-08-30 00:00:00	DBQ	Dubuque Regional		Passenger Property Loss	Checked Baggage	245.0	Other	Denied	0.0	Deny
-138319	2009061560162	2009-06-12 00:00:00	2009-05-30 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage	221.85	Tools & Machines	Denied	0.0	Deny
-139759	2009072461753	2009-07-21 00:00:00	2008-04-04 00:00:00	DBQ	Dubuque Regional	UAL	Passenger Property Loss	Checked Baggage	32.89	Other	Denied	0.0	Deny
-175458	2012121299249	2012-10-25 00:00:00	2012-10-13 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-213869	2017122646292	2017-11-17 00:00:00	2017-10-12 07:00:00	DBQ	Dubuque Regional Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+88969	2006073110267	2006-07-26 00:00:00	2006-07-06 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+94762	2006112816275	2006-11-16 00:00:00	2006-11-08 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage	518.79	Electronics,Clothing & Accessories,Tools & Machines,Containers	Cameras - Digital*Clothing - Shoes, belts, accessories, etc.*Locks*Luggage (all types including footlockers)	Denied	0.0	Deny
+100724	2007030922048	2007-03-05 00:00:00	2007-02-03 00:00:00	DBQ	Dubuque Regional		Passenger Property Loss	Checked Baggage	9.63	Tools & Machines	Locks	Approved	9.63	Approve in Full
+128775	2008093050598	2008-09-26 00:00:00	2008-08-30 00:00:00	DBQ	Dubuque Regional		Passenger Property Loss	Checked Baggage	245.0	Other	Currency	Denied	0.0	Deny
+138319	2009061560162	2009-06-12 00:00:00	2009-05-30 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage	221.85	Tools & Machines	Locks	Denied	0.0	Deny
+139759	2009072461753	2009-07-21 00:00:00	2008-04-04 00:00:00	DBQ	Dubuque Regional	UAL	Passenger Property Loss	Checked Baggage	32.89	Other	Other	Denied	0.0	Deny
+175458	2012121299249	2012-10-25 00:00:00	2012-10-13 00:00:00	DBQ	Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+213869	2017122646292	2017-11-17 00:00:00	2017-10-12 07:00:00	DBQ	Dubuque Regional Dubuque Regional	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review

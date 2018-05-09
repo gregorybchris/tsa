@@ -1,64 +1,64 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-43597	2004090962434	2004-08-31 00:00:00	2004-05-09 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Approved	250.0	Approve in Full
-44328	2004110266127	2004-09-09 00:00:00	2004-08-17 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checkpoint	1200.0	Electronics	Denied		Deny
-44368	2004101364872	2004-09-09 00:00:00	2003-12-29 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Settled	158.69	Settle
-44817	2004092763891	2004-09-14 00:00:00	2004-07-09 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checkpoint	950.0	Watches & Jewelry	Settled	204.31	Settle
-46598	2004111967398	2004-10-05 00:00:00	2004-08-15 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	39.95	Clothing & Accessories	Approved	39.95	Approve in Full
-49148	2004122069397	2004-11-04 00:00:00	2004-10-08 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	86.0	Other	Denied	0.0	Deny
-53968	2005012774627	2005-01-10 00:00:00	2004-12-27 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage	300.0	Electronics	Denied	0.0	Deny
-56451	2005030877198	2005-02-04 00:00:00	2005-01-26 00:00:00	CHO	Charlottesville / Albemarle	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-62587	2005042783482	2005-04-26 00:00:00	2005-04-14 00:00:00	CHO	Charlottesville / Albemarle	Northwest Airlines	Passenger Property Loss	Other	74.87	Watches & Jewelry	Denied	0.0	Deny
-62707	2005042983681	2005-04-27 00:00:00	2005-03-30 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	801.51	Electronics	Denied	0.0	Deny
-89879	2006081611157	2006-08-14 00:00:00	2006-08-05 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Denied	0.0	Deny
-91673	2006092213162	2006-09-15 00:00:00	2006-08-31 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	523.5	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-94514	2006111715814	2006-11-13 00:00:00	2006-10-29 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	586.24	Clothing & Accessories,Other	Denied	0.0	Deny
-95752	2006121317006	2006-12-05 00:00:00	2006-09-15 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	435.45	Office Supplies,Scientific Intruments,Tools & Machines	Settled	217.73	Settle
-96768	2006122818133	2006-12-27 00:00:00	2006-11-30 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	431.99	Electronics	Canceled	0.0	
-100367	2007022621543	2007-02-26 00:00:00	2007-02-07 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage	150.36	Automobile & Mechanical	Denied	0.0	Deny
-101813	2007032622992	2007-03-23 00:00:00	2007-03-21 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	350.0	Other	Settled	175.0	Settle
-104021	2007051125283	2007-05-09 00:00:00	2007-05-06 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	315.84	Electronics,Other,Electronics	Denied	0.0	Deny
-106621	2007070627905	2007-07-02 00:00:00	2007-06-01 00:00:00	CHO	Charlottesville / Albemarle	Delta (Song)	Passenger Property Loss	Checked Baggage	185.0	Watches & Jewelry,Other	Approved	185.0	Approve in Full
-106829	2007071328271	2007-07-05 00:00:00	2007-07-08 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-107283	2007071828575	2007-07-16 00:00:00	2007-05-24 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Other	Approved	100.0	Approve in Full
-107540	2007072328884	2007-07-19 00:00:00	2007-05-24 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Other	Canceled	0.0	
-109035	2007081530349	2007-08-14 00:00:00	2007-07-21 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	629.95	Containers,Clothing & Accessories,Watches & Jewelry	Denied	0.0	Deny
-109252	2007082130567	2007-08-20 00:00:00	2007-08-07 00:00:00	CHO	Charlottesville / Albemarle	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Approved	25.0	Approve in Full
-117551	2008020639165	2008-01-29 00:00:00	2008-12-14 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	800.0	Containers,Watches & Jewelry,Other	Denied	0.0	Deny
-117570	2008020739231	2008-01-29 00:00:00	2008-01-04 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	285.0	Cosmetics	Denied	0.0	Deny
-118191	2008021539707	2008-02-12 00:00:00	2008-02-05 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checkpoint	280.27	Electronics,Other	Approved	280.27	Approve in Full
-122355	2008050843961	2008-05-06 00:00:00	2008-05-02 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Denied	0.0	Deny
-140797	2009082162830	2009-08-18 00:00:00	2009-08-07 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
-144170	2009120866222	2009-12-01 00:00:00	2009-11-24 10:20:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checkpoint	179.48	Clothing & Accessories	Denied	0.0	Deny
-145588	2010021968569	2010-02-01 00:00:00	2010-01-22 17:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-145948	2010022668764	2010-02-19 00:00:00	2010-02-01 12:15:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-146359	2010031169466	2010-03-04 00:00:00	2010-03-01 14:30:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		75.0	Settle
-147231	2010033170301	2010-03-31 00:00:00	2010-03-29 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-148874	2010052472083	2010-05-20 00:00:00	2010-05-14 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		17.59	Approve in Full
-150371	2010071573719	2010-07-07 00:00:00	2010-05-27 11:55:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-150750	2010072574054	2010-07-19 00:00:00	2010-07-17 13:30:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		21.7	Approve in Full
-152020	2010082875441	2010-08-23 00:00:00	2010-05-14 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-153084	2010092876469	2010-09-22 00:00:00	2010-07-10 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		20.93	Approve in Full
-154182	2010121578787	2010-10-26 00:00:00	2010-10-15 06:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-154329	2010111277783	2010-11-01 00:00:00	2010-10-13 19:14:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Office Supplies			
-158657	2011041282112	2011-03-25 00:00:00	2011-03-03 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-161249	2011063084778	2011-06-20 00:00:00	2011-06-07 10:58:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-161826	2011071485210	2011-07-07 00:00:00	2011-06-24 04:26:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-162116	2011080385704	2011-07-18 00:00:00	2011-06-25 10:30:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-162244	2011072085373	2011-07-20 00:00:00	2011-07-01 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Other		139.0	Approve in Full
-164364	2011102188268	2011-09-29 00:00:00	2011-08-18 11:15:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Electronics		551.68	Settle
-165006	2011102788470	2011-10-20 00:00:00	2011-10-11 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Other		13.08	Settle
-165628	2011120189296	2011-11-10 00:00:00	2011-10-22 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-165734	2011111588976	2011-11-15 00:00:00	2011-10-11 12:35:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		139.95	Approve in Full
-168397	2012032692082	2012-02-14 00:00:00	2012-01-28 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage		Clothing & Accessories		46.18	Approve in Full
-168928	2012040492529	2012-03-05 00:00:00	2012-02-18 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-172171	2012080795874	2012-06-29 00:00:00	2012-06-15 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		500.0	Settle
-176854	2013012300105	2012-12-26 00:00:00	2012-10-20 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics		23.76	Approve in Full
-177335	2013011199947	2013-01-11 00:00:00	2012-12-15 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-179785	2013050603521	2013-04-09 00:00:00	2013-03-22 14:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other		0.0	Deny
-180001	2013060603994	2013-04-18 00:00:00	2013-03-22 14:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-180504	2013061904517	2013-05-07 00:00:00	2013-04-20 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-181889	2013080805761	2013-06-27 00:00:00	2013-06-25 13:25:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-183010	2013091006767	2013-08-05 00:00:00	2013-07-31 09:30:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Electronics		83.19	Approve in Full
-184579	2013103108411	2013-09-27 00:00:00	2013-09-15 05:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-185044	2013102207587	2013-10-22 00:00:00	2013-08-30 13:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments		27.0	Approve in Full
-186457	2013122710293	2013-12-18 00:00:00	2013-12-13 04:08:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics			
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+43597	2004090962434	2004-08-31 00:00:00	2004-05-09 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Jewelry - Fine	Approved	250.0	Approve in Full
+44328	2004110266127	2004-09-09 00:00:00	2004-08-17 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checkpoint	1200.0	Electronics	Cameras - Digital	Denied		Deny
+44368	2004101364872	2004-09-09 00:00:00	2003-12-29 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage	200.0	Watches & Jewelry	Jewelry - Fine	Settled	158.69	Settle
+44817	2004092763891	2004-09-14 00:00:00	2004-07-09 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checkpoint	950.0	Watches & Jewelry	Jewelry - Fine	Settled	204.31	Settle
+46598	2004111967398	2004-10-05 00:00:00	2004-08-15 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	39.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	39.95	Approve in Full
+49148	2004122069397	2004-11-04 00:00:00	2004-10-08 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	86.0	Other	Currency	Denied	0.0	Deny
+53968	2005012774627	2005-01-10 00:00:00	2004-12-27 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage	300.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+56451	2005030877198	2005-02-04 00:00:00	2005-01-26 00:00:00	CHO	Charlottesville / Albemarle	Northwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+62587	2005042783482	2005-04-26 00:00:00	2005-04-14 00:00:00	CHO	Charlottesville / Albemarle	Northwest Airlines	Passenger Property Loss	Other	74.87	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+62707	2005042983681	2005-04-27 00:00:00	2005-03-30 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	801.51	Electronics	Cameras - Digital	Denied	0.0	Deny
+89879	2006081611157	2006-08-14 00:00:00	2006-08-05 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+91673	2006092213162	2006-09-15 00:00:00	2006-08-31 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	523.5	Clothing & Accessories,Cosmetics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+94514	2006111715814	2006-11-13 00:00:00	2006-10-29 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	586.24	Clothing & Accessories,Other	Clothing - Shoes, belts, accessories, etc.*Other	Denied	0.0	Deny
+95752	2006121317006	2006-12-05 00:00:00	2006-09-15 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	435.45	Office Supplies,Scientific Intruments,Tools & Machines	Books - Other (Hardcover non-fiction)*Dental Equipment and Instruments*Locks	Settled	217.73	Settle
+96768	2006122818133	2006-12-27 00:00:00	2006-11-30 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	431.99	Electronics	Cameras - Digital	Canceled	0.0	
+100367	2007022621543	2007-02-26 00:00:00	2007-02-07 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage	150.36	Automobile & Mechanical	Automobile Parts	Denied	0.0	Deny
+101813	2007032622992	2007-03-23 00:00:00	2007-03-21 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	350.0	Other	Currency	Settled	175.0	Settle
+104021	2007051125283	2007-05-09 00:00:00	2007-05-06 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	315.84	Electronics,Other,Electronics	MP3 Players-(iPods, etc)*Other*Stereo Items & Accessories	Denied	0.0	Deny
+106621	2007070627905	2007-07-02 00:00:00	2007-06-01 00:00:00	CHO	Charlottesville / Albemarle	Delta (Song)	Passenger Property Loss	Checked Baggage	185.0	Watches & Jewelry,Other	Jewelry - Fine*Other	Approved	185.0	Approve in Full
+106829	2007071328271	2007-07-05 00:00:00	2007-07-08 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	1000.0	Other	Other	Denied	0.0	Deny
+107283	2007071828575	2007-07-16 00:00:00	2007-05-24 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Other	Currency	Approved	100.0	Approve in Full
+107540	2007072328884	2007-07-19 00:00:00	2007-05-24 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Other	Currency	Canceled	0.0	
+109035	2007081530349	2007-08-14 00:00:00	2007-07-21 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage	629.95	Containers,Clothing & Accessories,Watches & Jewelry	Bags - Fabric, plastic, etc. (not purses)*Clothing - Shoes, belts, accessories, etc.*Jewelry - Fine	Denied	0.0	Deny
+109252	2007082130567	2007-08-20 00:00:00	2007-08-07 00:00:00	CHO	Charlottesville / Albemarle	Northwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Tools & Machines	Locks	Approved	25.0	Approve in Full
+117551	2008020639165	2008-01-29 00:00:00	2008-12-14 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	800.0	Containers,Watches & Jewelry,Other	Boxes - Jewelry, Cigarette, Music, etc.*Jewelry - Fine*Other	Denied	0.0	Deny
+117570	2008020739231	2008-01-29 00:00:00	2008-01-04 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage	285.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+118191	2008021539707	2008-02-12 00:00:00	2008-02-05 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checkpoint	280.27	Electronics,Other	MP3 Players-(iPods, etc)*Other	Approved	280.27	Approve in Full
+122355	2008050843961	2008-05-06 00:00:00	2008-05-02 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+140797	2009082162830	2009-08-18 00:00:00	2009-08-07 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+144170	2009120866222	2009-12-01 00:00:00	2009-11-24 10:20:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checkpoint	179.48	Clothing & Accessories	Sunglasses	Denied	0.0	Deny
+145588	2010021968569	2010-02-01 00:00:00	2010-01-22 17:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Electronics	Audio/Video		0.0	Deny
+145948	2010022668764	2010-02-19 00:00:00	2010-02-01 12:15:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+146359	2010031169466	2010-03-04 00:00:00	2010-03-01 14:30:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		75.0	Settle
+147231	2010033170301	2010-03-31 00:00:00	2010-03-29 00:00:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+148874	2010052472083	2010-05-20 00:00:00	2010-05-14 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		17.59	Approve in Full
+150371	2010071573719	2010-07-07 00:00:00	2010-05-27 11:55:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+150750	2010072574054	2010-07-19 00:00:00	2010-07-17 13:30:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		21.7	Approve in Full
+152020	2010082875441	2010-08-23 00:00:00	2010-05-14 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+153084	2010092876469	2010-09-22 00:00:00	2010-07-10 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		20.93	Approve in Full
+154182	2010121578787	2010-10-26 00:00:00	2010-10-15 06:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+154329	2010111277783	2010-11-01 00:00:00	2010-10-13 19:14:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Office Supplies	Office Equipment & Supplies			
+158657	2011041282112	2011-03-25 00:00:00	2011-03-03 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+161249	2011063084778	2011-06-20 00:00:00	2011-06-07 10:58:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+161826	2011071485210	2011-07-07 00:00:00	2011-06-24 04:26:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+162116	2011080385704	2011-07-18 00:00:00	2011-06-25 10:30:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+162244	2011072085373	2011-07-20 00:00:00	2011-07-01 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Other	Other		139.0	Approve in Full
+164364	2011102188268	2011-09-29 00:00:00	2011-08-18 11:15:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		551.68	Settle
+165006	2011102788470	2011-10-20 00:00:00	2011-10-11 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Other	Clothing*Other*Other		13.08	Settle
+165628	2011120189296	2011-11-10 00:00:00	2011-10-22 00:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+165734	2011111588976	2011-11-15 00:00:00	2011-10-11 12:35:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		139.95	Approve in Full
+168397	2012032692082	2012-02-14 00:00:00	2012-01-28 00:00:00	CHO	Charlottesville / Albemarle		Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		46.18	Approve in Full
+168928	2012040492529	2012-03-05 00:00:00	2012-02-18 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+172171	2012080795874	2012-06-29 00:00:00	2012-06-15 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		500.0	Settle
+176854	2013012300105	2012-12-26 00:00:00	2012-10-20 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Cosmetics	Cosmetics & Grooming*Travel Accessories		23.76	Approve in Full
+177335	2013011199947	2013-01-11 00:00:00	2012-12-15 00:00:00	CHO	Charlottesville / Albemarle	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+179785	2013050603521	2013-04-09 00:00:00	2013-03-22 14:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other	Jewelry & Watches*Other		0.0	Deny
+180001	2013060603994	2013-04-18 00:00:00	2013-03-22 14:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+180504	2013061904517	2013-05-07 00:00:00	2013-04-20 00:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+181889	2013080805761	2013-06-27 00:00:00	2013-06-25 13:25:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+183010	2013091006767	2013-08-05 00:00:00	2013-07-31 09:30:00	CHO	Charlottesville / Albemarle	UAL	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		83.19	Approve in Full
+184579	2013103108411	2013-09-27 00:00:00	2013-09-15 05:00:00	CHO	Charlottesville / Albemarle	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			
+185044	2013102207587	2013-10-22 00:00:00	2013-08-30 13:00:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments	Cosmetics & Grooming*Medical/Science		27.0	Approve in Full
+186457	2013122710293	2013-12-18 00:00:00	2013-12-13 04:08:00	CHO	Charlottesville / Albemarle	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			

@@ -1,5 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-62078	2005042082983	2005-04-19 00:00:00	2005-03-24 00:00:00	FOD	Fort Dodge Municipal Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	42.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
-105576	2007061426910	2007-06-08 00:00:00	2007-05-30 00:00:00	FOD	Fort Dodge Municipal Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Office Supplies,Electronics	Books - Other (Hardcover non-fiction)*PDA - Personal Data Assistants	Denied	0.0	Deny
-162255	2011080585837	2011-07-20 00:00:00	2011-07-09 06:50:00	FOD	Fort Dodge Municipal Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		148.53	Approve in Full
-170168	2012051493903	2012-04-18 00:00:00	2012-03-20 00:00:00	FOD	Fort Dodge Municipal Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny

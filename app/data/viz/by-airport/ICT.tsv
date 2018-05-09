@@ -1,186 +1,186 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-13179	0813084M	2003-08-13 00:00:00	2003-07-23 00:00:00	ICT	Wichita Mid-Continent	America West	Passenger Property Loss	Checked Baggage	133.58	Clothing & Accessories	Settled	66.79	Settle
-13450	0815079M	2003-08-15 00:00:00	2003-07-31 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	1010.0	Watches & Jewelry	Canceled	0.0	
-17055	1002197M	2003-10-02 00:00:00	2003-08-02 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Other	1200.0	Watches & Jewelry	Canceled		
-20945	1121034M	2003-11-21 00:00:00	2003-11-01 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	200.0	Other	Approved	200.0	Approve in Full
-23536	2005012474154	2004-01-04 00:00:00	2004-12-27 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	120.0	Other	Approved	120.0	Approve in Full
-24044	0105529M	2004-01-05 00:00:00	2003-12-03 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Settled	50.0	Settle
-25442	2005010572869	2004-01-18 00:00:00	2004-11-22 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Approved	200.0	Approve in Full
-28728	0226162M	2004-02-26 00:00:00	2004-02-18 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Approved	1000.0	Approve in Full
-31067	2004050750739	2004-03-24 00:00:00	2004-02-26 00:00:00	ICT	Wichita Mid-Continent	American Eagle	Passenger Property Loss	Checked Baggage	330.0	Other	Approved	330.0	Approve in Full
-31221	2004051151176	2004-03-24 00:00:00	2004-03-14 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	367.0	Other	Canceled		
-31916	2004051852674	2004-04-01 00:00:00	2004-01-22 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-33385	2004060354471	2004-04-21 00:00:00	2004-02-26 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Settled	175.0	Settle
-33640	2004060153973	2004-04-23 00:00:00	2004-03-14 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	319.0	Other	Settled	158.0	Settle
-34158	2004060454750	2004-05-04 00:00:00	2004-03-24 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	200.0	Other	Approved	200.0	Approve in Full
-34551	2004071259047	2004-05-04 00:00:00	2004-03-18 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	258.0	Clothing & Accessories	Settled	208.0	Settle
-34597	2004061455635	2004-05-05 00:00:00	2004-04-08 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	120.72	Electronics	Approved	120.72	Approve in Full
-36028	2004062156682	2004-05-27 00:00:00	2004-05-08 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	420.0	Electronics	Approved	420.0	Approve in Full
-36477	2004062256859	2004-05-27 00:00:00	2004-05-01 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	380.0	Other	Settled	190.0	Settle
-36786	2004062357196	2004-06-03 00:00:00	2004-05-20 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Other	Approved	35.0	Approve in Full
-39556	2004080960836	2004-07-09 00:00:00	2004-01-30 00:00:00	ICT	Wichita Mid-Continent		Passenger Theft	Checked Baggage	159.42	Other	Approved	159.42	Approve in Full
-39584	2004081161142	2004-07-09 00:00:00	2004-06-21 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Approved	12.0	Approve in Full
-40192	2004080560684	2004-07-13 00:00:00	2004-06-29 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	630.0	Clothing & Accessories	Settled	315.0	Settle
-40311	2004080960749	2004-07-15 00:00:00	2004-06-30 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Settled	125.0	Settle
-40498	2004072860158	2004-07-20 00:00:00	2004-05-31 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Approved	300.0	Approve in Full
-40789	2004091062584	2004-07-21 00:00:00	2004-06-26 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	275.0	Other	Settled	137.5	Settle
-41725	2004090962466	2004-08-05 00:00:00	2004-07-15 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	49.99	Other	Approved	49.99	Approve in Full
-43132	2004092864023	2004-08-24 00:00:00	2004-07-25 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	5343.0	Watches & Jewelry	Canceled	0.0	
-43404	0212234M	2004-08-27 00:00:00	2004-07-10 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Containers	Approved	20.0	Approve in Full
-45340	2004101965134	2004-09-20 00:00:00	2004-07-09 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	318.9	Watches & Jewelry	Approved	318.9	Approve in Full
-46018	2004110466324	2004-09-28 00:00:00	2004-09-07 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	200.0	Other	Denied	0.0	Deny
-48369	2004121769220	2004-10-27 00:00:00	2004-08-13 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	24.43	Clothing & Accessories	Approved	24.43	Approve in Full
-48888	2004121769197	2004-11-02 00:00:00	2004-10-11 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Theft	Checked Baggage	534.53	Electronics	Settled	262.3	Settle
-49740	2004122170160	2004-11-10 00:00:00	2004-10-17 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Denied	0.0	Deny
-51012	2004122971743	2004-12-01 00:00:00	2004-11-12 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Denied	0.0	Deny
-51329	2005010472719	2004-12-07 00:00:00	2004-11-28 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	114.5	Clothing & Accessories	Approved	114.5	Approve in Full
-51638	2005010472553	2004-12-10 00:00:00	2004-09-30 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	70.0	Other	Approved	70.0	Approve in Full
-53215	2005021075913	2004-12-29 00:00:00	2004-12-13 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	176.0	Clothing & Accessories	Denied	0.0	Deny
-53959	2005012774599	2005-01-10 00:00:00	2004-11-29 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	149.17	Other	Denied	0.0	Deny
-54143	2005020375602	2005-01-11 00:00:00	2005-01-03 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	109.95	Other	Canceled		
-54197	2005020275364	2005-01-11 00:00:00	2004-12-28 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Denied	0.0	Deny
-54236	2005020375564	2005-01-11 00:00:00	2004-12-27 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	560.0	Other	Denied	0.0	Deny
-54419	2005012874769	2005-01-12 00:00:00	2004-12-20 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	538.0	Other	Settled	269.0	Settle
-55633	2005022276553	2005-01-26 00:00:00	2005-01-03 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Supplies	Denied	0.0	Deny
-55636	2005022276566	2005-01-26 00:00:00	2004-12-25 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Electronics	Denied	0.0	Deny
-55712	2005022276551	2005-01-27 00:00:00	2004-12-28 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	127.54	Other	Approved	127.54	Approve in Full
-55724	2005022276612	2005-01-27 00:00:00	2005-01-01 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	34.0	Clothing & Accessories	Approved	34.0	Approve in Full
-56531	2005030877240	2005-02-04 00:00:00	2004-11-16 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	6284.52	Outdoors Supplies	Settled	3142.26	Settle
-57223	2005031478046	2005-02-11 00:00:00	2004-11-03 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	400.0	Other	Settled	100.0	Settle
-57762	2005031778582	2005-02-23 00:00:00	2004-12-17 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	2029.08	Electronics	Settled	1244.26	Settle
-57818	2005032179011	2005-02-24 00:00:00	2005-02-01 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	597.01	Other	Approved	597.01	Approve in Full
-60891	2005040681793	2005-04-05 00:00:00	2005-02-15 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	95.34	Other	Denied	0.0	Deny
-61485	2005041582672	2005-04-12 00:00:00	2005-03-25 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	94.87	Containers	Approved	94.87	Approve in Full
-63243	2005050684228	2005-05-04 00:00:00	2005-04-16 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	3225.0	Watches & Jewelry	Denied	0.0	Deny
-63838	2005051684798	2005-05-13 00:00:00	2005-03-31 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.32	Other	Approved	6.32	Approve in Full
-63870	2005051684747	2005-05-13 00:00:00	2005-04-17 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	635.5	Clothing & Accessories	Denied	0.0	Deny
-64411	2005052485421	2005-05-20 00:00:00	2005-05-06 00:00:00	ICT	Wichita Mid-Continent	American Eagle	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Approved	8.0	Approve in Full
-66376	2005062787250	2005-06-17 00:00:00	2005-05-21 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-66797	2005062987703	2005-06-23 00:00:00	2005-05-12 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	62.79	Clothing & Accessories	Denied	0.0	Deny
-67242	2005070588234	2005-06-30 00:00:00	2005-05-23 00:00:00	ICT	Wichita Mid-Continent	American West	Passenger Property Loss	Checkpoint	159.44	Electronics	Denied	0.0	Deny
-67326	2005070588281	2005-07-01 00:00:00	2005-06-07 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	10.69	Other	Denied	0.0	Deny
-67743	2005071288715	2005-07-11 00:00:00	2005-06-16 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.6	Supplies	Approved	9.6	Approve in Full
-67788	2005071288721	2005-07-11 00:00:00	2005-06-22 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	295.0	Clothing & Accessories	Denied	0.0	Deny
-68076	2005071589055	2005-07-14 00:00:00	2005-07-05 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	167.05	Other	Approved	167.05	Approve in Full
-68197	2005071889177	2005-07-15 00:00:00	2005-06-26 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	2000.0	Electronics	Denied	0.0	Deny
-68549	2005072689695	2005-07-20 00:00:00	2005-06-20 00:00:00	ICT	Wichita Mid-Continent	Continental Express Inc	Passenger Property Loss	Checkpoint	100.0	Other	Settled	67.94	Settle
-68819	2005080890176	2005-07-26 00:00:00	2005-07-18 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	20.0	Other	Approved	20.0	Approve in Full
-70090	2005082291084	2005-08-15 00:00:00	2005-06-29 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	1638.14	Clothing & Accessories	Denied	0.0	Deny
-70620	2005082991679	2005-08-23 00:00:00	2005-08-14 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	133.05	Clothing & Accessories	Denied	0.0	Deny
-71149	2005090692235	2005-08-30 00:00:00	2005-08-11 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	266.0	Other	Denied	0.0	Deny
-71267	2005091492434	2005-09-01 00:00:00	2005-07-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	4.0	Tools & Machines	Approved	4.0	Approve in Full
-71419	2005091492474	2005-09-06 00:00:00	2005-08-04 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Settled	209.48	Settle
-71885	2005092193059	2005-09-14 00:00:00	2005-09-02 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage	121.65	Watches & Jewelry	Canceled	0.0	
-75477	2005112896555	2005-11-15 00:00:00	2005-10-04 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	705.0	Clothing & Accessories	Denied	0.0	Deny
-75760	2005120196805	2005-11-18 00:00:00	2005-10-23 00:00:00	ICT	Wichita Mid-Continent	American West	Passenger Property Loss	Checked Baggage	184.99	Cosmetics	Settled	112.49	Settle
-75886	2005120797224	2005-11-22 00:00:00	2005-11-11 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	24.99	Other	Canceled	0.0	
-76525	2005121397623	2005-12-05 00:00:00	2005-11-03 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	198.75	Clothing & Accessories	Denied	0.0	Deny
-78924	2006012300090	2006-01-17 00:00:00	2005-11-19 00:00:00	ICT	Wichita Mid-Continent	America West	Passenger Property Loss	Checked Baggage	409.66	Watches & Jewelry	Settled	204.83	Settle
-82162	2006031603267	2006-03-14 00:00:00	2006-02-13 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	722.0	Watches & Jewelry	Denied	0.0	Deny
-82904	2006062808651	2006-03-27 00:00:00	2006-02-24 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint	12.0	Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-82921	2006040604103	2006-03-28 00:00:00	2006-03-15 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-83879	2006042404975	2006-04-14 00:00:00	2006-03-09 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	427.0	Electronics	Settled	145.0	Settle
-83885	2006042405004	2006-04-14 00:00:00	2006-03-07 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	541.01	Clothing & Accessories	Settled	270.51	Settle
-84328	2006042805429	2006-04-25 00:00:00	2006-01-29 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	159.45	Watches & Jewelry	Approved	159.45	Approve in Full
-84852	2006051105903	2006-05-05 00:00:00	2006-03-16 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	94.95	Clothing & Accessories	Approved	94.95	Approve in Full
-86460	2006060907669	2006-06-07 00:00:00	2006-03-30 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	175.9	Clothing & Accessories	Denied	0.0	Deny
-86760	2006061508017	2006-06-14 00:00:00	2006-06-02 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.29	Games & Toys	Approved	21.29	Approve in Full
-86811	2006061508065	2006-06-14 00:00:00	2006-05-13 00:00:00	ICT	Wichita Mid-Continent	US Express	Passenger Property Loss	Checked Baggage	1300.0	Watches & Jewelry	Denied	0.0	Deny
-87525	2006062908750	2006-06-28 00:00:00	2006-06-05 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	181.98	Outdoors Supplies	Settled	90.99	Settle
-87586	2006070308832	2006-06-29 00:00:00	2006-06-14 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	423.58	Electronics	Denied	0.0	Deny
-87636	2006070508953	2006-06-30 00:00:00	2006-05-12 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Other	Canceled	0.0	
-88739	2006072510025	2006-07-21 00:00:00	2006-07-04 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry,Watches & Jewelry	Approved	400.0	Approve in Full
-89211	2006080210413	2006-07-31 00:00:00	2006-07-11 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	310.0	Clothing & Accessories,Tools & Machines	Settled	155.0	Settle
-89691	2006081410984	2006-08-10 00:00:00	2006-07-13 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	605.12	Electronics	Denied	0.0	Deny
-89904	2006081711249	2006-08-14 00:00:00	2006-07-27 00:00:00	ICT	Wichita Mid-Continent	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	98.25	Cosmetics	Denied	0.0	Deny
-90770	2006090712109	2006-08-30 00:00:00	2006-08-28 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	19.99	Office Supplies	Approved	19.99	Approve in Full
-91710	2006092112994	2006-09-18 00:00:00	2006-08-31 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.85	Other	Approved	14.85	Approve in Full
-93694	2006110114939	2006-10-26 00:00:00	2006-09-22 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	64.78	Other	Denied	0.0	Deny
-93836	2006110215062	2006-10-30 00:00:00	2006-09-23 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Supplies	Denied	0.0	Deny
-95009	2006112916418	2006-11-21 00:00:00	2006-11-09 00:00:00	ICT	Wichita Mid-Continent	America West	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Denied	0.0	Deny
-95391	2006120516614	2006-11-29 00:00:00	2006-10-12 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Settled	750.0	Settle
-97438	2007010818471	2007-01-05 00:00:00	2006-12-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	32.21	Electronics	Denied	0.0	Deny
-97503	2007011218772	2007-01-05 00:00:00	2006-12-04 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	17.02	Tools & Machines	Denied	0.0	Deny
-99752	2007021621031	2007-02-12 00:00:00	2006-09-06 00:00:00	ICT	Wichita Mid-Continent	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	362.14	Electronics	Denied	0.0	Deny
-99800	2007021520984	2007-02-13 00:00:00	2006-11-20 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint	110.0	Watches & Jewelry	Approved	110.0	Approve in Full
-101175	2007031522358	2007-03-12 00:00:00	2007-03-05 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	97.0	Other	Settled	48.5	Settle
-101452	2007032122701	2007-03-19 00:00:00	2007-02-19 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Approved	9.0	Approve in Full
-102598	2007041123804	2007-04-09 00:00:00	2007-02-10 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	46.26	Other	Settled	23.13	Settle
-103183	2007042324359	2007-04-20 00:00:00	2007-03-10 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	262.32	Electronics	Denied	0.0	Deny
-103488	2007050124790	2007-04-27 00:00:00	2007-03-09 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	220.0	Tools & Machines	Approved	220.0	Approve in Full
-103686	2007050324929	2007-05-01 00:00:00	2007-04-04 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	359.52	Electronics	Settled	267.93	Settle
-105626	2007061326841	2007-06-11 00:00:00	2007-06-06 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Denied	0.0	Deny
-109370	2007082330716	2007-08-21 00:00:00	2007-07-22 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage	598.0	Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-109373	2007082330733	2007-08-21 00:00:00	2007-08-15 00:00:00	ICT	Wichita Mid-Continent	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	299.0	Electronics	Denied	0.0	Deny
-109871	2007083131264	2007-08-29 00:00:00	2007-07-03 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checkpoint	512.1	Clothing & Accessories	Approved	512.1	Approve in Full
-110508	2007091431923	2007-09-11 00:00:00	2007-07-31 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
-112557	2007102934051	2007-10-22 00:00:00	2007-08-12 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checkpoint	40.0	Food & Drink,Cosmetics	Denied	0.0	Deny
-114575	2007120435980	2007-11-30 00:00:00	2007-09-07 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	177.44	Other	Settled	150.0	Settle
-114927	2007121136364	2007-12-10 00:00:00	2007-11-17 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	161.63	Clothing & Accessories	Denied	0.0	Deny
-115623	2008010237119	2007-12-26 00:00:00	2007-12-26 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Containers,Household Items,Watches & Jewelry	Denied	0.0	Deny
-115747	2008010237128	2007-12-27 00:00:00	2007-08-01 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics,Other,Other	Denied	0.0	Deny
-115832	2008010737432	2007-12-31 00:00:00	2007-12-27 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	105.0	Cosmetics,Other	Canceled	0.0	
-118124	2008021439643	2008-02-11 00:00:00	2008-01-16 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	399.99	Electronics	Denied	0.0	Deny
-120034	2008040441891	2008-03-20 00:00:00	2008-02-21 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-120201	2008040241731	2008-03-25 00:00:00	2008-03-07 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	138.55	Cosmetics,Clothing & Accessories	Denied	0.0	Deny
-120977	2008050944078	2008-04-07 00:00:00	2008-02-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1000.0	Other	Denied	0.0	Deny
-121350	2008042243138	2008-04-14 00:00:00	2008-03-11 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	8.91	Tools & Machines	Denied	0.0	Deny
-123748	2008060945389	2008-06-04 00:00:00	2008-05-24 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	104.99	Clothing & Accessories	Denied	0.0	Deny
-123993	2008061345650	2008-06-10 00:00:00	2008-05-01 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	8.95	Tools & Machines	Denied	0.0	Deny
-124103	2008061745782	2008-06-12 00:00:00	2008-06-08 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	240.0	Cosmetics,Containers	Denied	0.0	Deny
-124310	2008062045982	2008-06-17 00:00:00	2008-06-13 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	683.0	Clothing & Accessories,Electronics,Other	Denied	0.0	Deny
-124657	2008063046369	2008-06-25 00:00:00	2008-06-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
-125068	2008071046745	2008-07-07 00:00:00	2008-07-01 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-125673	2008072447391	2008-07-18 00:00:00	2008-07-07 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	39.95	Tools & Machines	Denied	0.0	Deny
-126504	2008080848282	2008-08-05 00:00:00	2008-06-17 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-126816	2008081448633	2008-08-12 00:00:00	2008-08-01 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	1500.0	Other	Canceled	0.0	
-128870	2008100350780	2008-09-29 00:00:00	2008-09-15 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	5.95	Clothing & Accessories	Denied	0.0	Deny
-129945	2008110752078	2008-10-28 00:00:00	2008-09-28 00:00:00	ICT	Wichita Mid-Continent	Frontier Airlines	Passenger Property Loss	Checked Baggage	17.98	Office Supplies	Approved	17.98	Approve in Full
-130908	2008112852879	2008-11-20 00:00:00	2008-10-22 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	473.87	Electronics	Denied	0.0	Deny
-131761	2008121953645	2008-12-15 00:00:00	2008-12-08 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Cosmetics,Other	Denied	0.0	Deny
-132500	2009011254349	2009-01-06 00:00:00	2008-12-26 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	298.02	Containers	Denied	0.0	Deny
-132871	2009012354785	2009-01-13 00:00:00	2008-12-31 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Denied	0.0	Deny
-133582	2009021355508	2009-02-02 00:00:00	2008-12-27 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1261.88	Electronics,Electronics,Household Decor,Clothing & Accessories,Other,Household Decor,Watches & Jewelry,Games & Toys	Denied	0.0	Deny
-134202	2009031656269	2009-02-19 00:00:00	2009-02-17 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	349.99	Electronics	Denied	0.0	Deny
-134906	2009032656944	2009-03-10 00:00:00	2009-02-08 00:00:00	ICT	Wichita Mid-Continent	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.87	Cosmetics	Denied	0.0	Deny
-135437	2009041157410	2009-03-24 00:00:00	2009-02-27 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	350.0	Electronics,Electronics	Denied	0.0	Deny
-138271	2009061660255	2009-06-11 00:00:00	2009-06-03 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Denied	0.0	Deny
-139577	2009072161513	2009-07-16 00:00:00	2009-06-29 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Containers	Denied	0.0	Deny
-139617	2009072361679	2009-07-16 00:00:00	2009-05-28 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	238.97	Other	Denied	0.0	Deny
-139791	2009072861839	2009-07-22 00:00:00	2009-07-11 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	182.41	Cosmetics,Household Items	Canceled	0.0	
-141172	2009083163175	2009-08-31 00:00:00	2009-08-27 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	24.99	Tools & Machines	Approved	24.99	Approve in Full
-141928	2009092263938	2009-09-21 00:00:00	2009-09-20 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	20.81	Other	Denied	0.0	Deny
-143503	2009112465679	2009-11-12 00:00:00	2009-10-19 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Approved	15.0	Approve in Full
-146753	2010032269856	2010-03-16 00:00:00	2010-03-08 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-147107	2010033170246	2010-03-29 00:00:00	2010-02-25 17:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Food & Drink		0.0	Deny
-148375	2010050671564	2010-05-05 00:00:00	2010-03-26 14:45:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checkpoint		Other		200.0	Approve in Full
-148942	2010052772161	2010-05-24 00:00:00	2010-05-18 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-150663	2010082375234	2010-07-14 00:00:00	2010-06-21 12:30:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Electronics		0.0	Deny
-150850	2010073074230	2010-07-20 00:00:00	2010-05-28 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-152516	2010091275903	2010-09-07 00:00:00	2010-08-23 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		34.0	Approve in Full
-154192	2010110577602	2010-10-27 00:00:00	2010-10-21 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-154999	2010120178392	2010-11-23 00:00:00	2010-11-09 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-157308	2011030280780	2011-02-07 00:00:00	2011-01-08 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-159762	2011050283108	2011-05-02 00:00:00	2011-05-02 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-164337	2011101487874	2011-09-29 00:00:00	2011-09-07 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-167096	2012020890798	2012-01-04 00:00:00	2011-12-20 16:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Clothing & Accessories		42.0	Approve in Full
-167721	2012022991391	2012-01-23 00:00:00	2011-12-14 06:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint		Food & Drink		60.0	Approve in Full
-169301	2012041292837	2012-03-19 00:00:00	2012-02-21 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-169518	2012041993036	2012-03-26 00:00:00	2012-02-25 09:30:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Watches & Jewelry		50.0	Approve in Full
-175670	2012122899425	2012-11-05 00:00:00	2012-08-14 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-178823	2013030702435	2013-03-05 00:00:00	2013-03-03 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-184570	2013103008357	2013-09-27 00:00:00	2013-08-15 10:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		64.15	Approve in Full
-186347	2013121910160	2013-12-13 00:00:00	2013-10-18 05:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Electronics			
-190672	2014060914495	2014-06-02 00:00:00	2014-05-17 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		24.0	Approve in Full
-193991	2014102017884	2014-10-09 00:00:00	2014-08-20 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories			
-195358	2014121819301	2014-12-18 00:00:00	2014-12-01 00:00:00	ICT	Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-198918	2015042122050	2015-04-14 00:00:00	2015-03-24 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-198924	2016011328297	2015-12-31 00:00:00	2015-12-08 00:00:00	ICT	Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Office Supplies			
-207522	2016031629804	2016-03-02 00:00:00	2016-02-06 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			Insufficient
-207525	2016032330016	2016-03-07 00:00:00	2016-02-09 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-207526	2016040630398	2016-03-22 00:00:00	2016-02-29 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-207527	2016042630846	2016-04-08 00:00:00	2016-03-09 10:24:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-207528	2016082633362	2016-07-11 00:00:00	2016-06-19 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-207530	2016092834021	2016-08-10 00:00:00	2016-07-27 04:38:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-215766	2017041138493	2017-03-06 00:00:00	2017-02-17 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-215767	2018010246387	2017-12-07 00:00:00	2017-11-22 16:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+13179	0813084M	2003-08-13 00:00:00	2003-07-23 00:00:00	ICT	Wichita Mid-Continent	America West	Passenger Property Loss	Checked Baggage	133.58	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	66.79	Settle
+13450	0815079M	2003-08-15 00:00:00	2003-07-31 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	1010.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+17055	1002197M	2003-10-02 00:00:00	2003-08-02 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Other	1200.0	Watches & Jewelry	Jewelry - Fine	Canceled		
+20945	1121034M	2003-11-21 00:00:00	2003-11-01 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	200.0	Other	Currency	Approved	200.0	Approve in Full
+23536	2005012474154	2004-01-04 00:00:00	2004-12-27 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	120.0	Other	Currency	Approved	120.0	Approve in Full
+24044	0105529M	2004-01-05 00:00:00	2003-12-03 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	50.0	Settle
+25442	2005010572869	2004-01-18 00:00:00	2004-11-22 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Other	Approved	200.0	Approve in Full
+28728	0226162M	2004-02-26 00:00:00	2004-02-18 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Jewelry - Fine	Approved	1000.0	Approve in Full
+31067	2004050750739	2004-03-24 00:00:00	2004-02-26 00:00:00	ICT	Wichita Mid-Continent	American Eagle	Passenger Property Loss	Checked Baggage	330.0	Other	Currency	Approved	330.0	Approve in Full
+31221	2004051151176	2004-03-24 00:00:00	2004-03-14 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	367.0	Other	Other	Canceled		
+31916	2004051852674	2004-04-01 00:00:00	2004-01-22 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+33385	2004060354471	2004-04-21 00:00:00	2004-02-26 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	350.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	175.0	Settle
+33640	2004060153973	2004-04-23 00:00:00	2004-03-14 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	319.0	Other	Other	Settled	158.0	Settle
+34158	2004060454750	2004-05-04 00:00:00	2004-03-24 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	200.0	Other	Currency	Approved	200.0	Approve in Full
+34551	2004071259047	2004-05-04 00:00:00	2004-03-18 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	258.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	208.0	Settle
+34597	2004061455635	2004-05-05 00:00:00	2004-04-08 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	120.72	Electronics	Cameras - Digital	Approved	120.72	Approve in Full
+36028	2004062156682	2004-05-27 00:00:00	2004-05-08 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	420.0	Electronics	Cameras - Digital	Approved	420.0	Approve in Full
+36477	2004062256859	2004-05-27 00:00:00	2004-05-01 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	380.0	Other	Currency	Settled	190.0	Settle
+36786	2004062357196	2004-06-03 00:00:00	2004-05-20 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	35.0	Other	Other	Approved	35.0	Approve in Full
+39556	2004080960836	2004-07-09 00:00:00	2004-01-30 00:00:00	ICT	Wichita Mid-Continent		Passenger Theft	Checked Baggage	159.42	Other	Other	Approved	159.42	Approve in Full
+39584	2004081161142	2004-07-09 00:00:00	2004-06-21 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Locks	Approved	12.0	Approve in Full
+40192	2004080560684	2004-07-13 00:00:00	2004-06-29 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	630.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	315.0	Settle
+40311	2004080960749	2004-07-15 00:00:00	2004-06-30 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Watches & Jewelry	Jewelry - Fine	Settled	125.0	Settle
+40498	2004072860158	2004-07-20 00:00:00	2004-05-31 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	300.0	Approve in Full
+40789	2004091062584	2004-07-21 00:00:00	2004-06-26 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	275.0	Other	Other	Settled	137.5	Settle
+41725	2004090962466	2004-08-05 00:00:00	2004-07-15 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	49.99	Other	Other	Approved	49.99	Approve in Full
+43132	2004092864023	2004-08-24 00:00:00	2004-07-25 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	5343.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+43404	0212234M	2004-08-27 00:00:00	2004-07-10 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	20.0	Containers	Luggage (all types including footlockers)	Approved	20.0	Approve in Full
+45340	2004101965134	2004-09-20 00:00:00	2004-07-09 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	318.9	Watches & Jewelry	Jewelry - Fine	Approved	318.9	Approve in Full
+46018	2004110466324	2004-09-28 00:00:00	2004-09-07 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	200.0	Other	Currency	Denied	0.0	Deny
+48369	2004121769220	2004-10-27 00:00:00	2004-08-13 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	24.43	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	24.43	Approve in Full
+48888	2004121769197	2004-11-02 00:00:00	2004-10-11 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Theft	Checked Baggage	534.53	Electronics	Cameras - Digital	Settled	262.3	Settle
+49740	2004122170160	2004-11-10 00:00:00	2004-10-17 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+51012	2004122971743	2004-12-01 00:00:00	2004-11-12 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	250.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+51329	2005010472719	2004-12-07 00:00:00	2004-11-28 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	114.5	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	114.5	Approve in Full
+51638	2005010472553	2004-12-10 00:00:00	2004-09-30 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	70.0	Other	Other	Approved	70.0	Approve in Full
+53215	2005021075913	2004-12-29 00:00:00	2004-12-13 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	176.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+53959	2005012774599	2005-01-10 00:00:00	2004-11-29 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	149.17	Other	Other	Denied	0.0	Deny
+54143	2005020375602	2005-01-11 00:00:00	2005-01-03 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	109.95	Other	Other	Canceled		
+54197	2005020275364	2005-01-11 00:00:00	2004-12-28 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+54236	2005020375564	2005-01-11 00:00:00	2004-12-27 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	560.0	Other	Currency	Denied	0.0	Deny
+54419	2005012874769	2005-01-12 00:00:00	2004-12-20 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	538.0	Other	Other	Settled	269.0	Settle
+55633	2005022276553	2005-01-26 00:00:00	2005-01-03 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Supplies	Medicines	Denied	0.0	Deny
+55636	2005022276566	2005-01-26 00:00:00	2004-12-25 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+55712	2005022276551	2005-01-27 00:00:00	2004-12-28 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	127.54	Other	Other	Approved	127.54	Approve in Full
+55724	2005022276612	2005-01-27 00:00:00	2005-01-01 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	34.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	34.0	Approve in Full
+56531	2005030877240	2005-02-04 00:00:00	2004-11-16 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	6284.52	Outdoors Supplies	Fish/Game	Settled	3142.26	Settle
+57223	2005031478046	2005-02-11 00:00:00	2004-11-03 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	400.0	Other	Other	Settled	100.0	Settle
+57762	2005031778582	2005-02-23 00:00:00	2004-12-17 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	2029.08	Electronics	Cameras - Digital	Settled	1244.26	Settle
+57818	2005032179011	2005-02-24 00:00:00	2005-02-01 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	597.01	Other	Other	Approved	597.01	Approve in Full
+60891	2005040681793	2005-04-05 00:00:00	2005-02-15 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	95.34	Other	Other	Denied	0.0	Deny
+61485	2005041582672	2005-04-12 00:00:00	2005-03-25 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	94.87	Containers	Luggage (all types including footlockers)	Approved	94.87	Approve in Full
+63243	2005050684228	2005-05-04 00:00:00	2005-04-16 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	3225.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+63838	2005051684798	2005-05-13 00:00:00	2005-03-31 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	6.32	Other	Other	Approved	6.32	Approve in Full
+63870	2005051684747	2005-05-13 00:00:00	2005-04-17 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	635.5	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+64411	2005052485421	2005-05-20 00:00:00	2005-05-06 00:00:00	ICT	Wichita Mid-Continent	American Eagle	Passenger Property Loss	Checked Baggage	8.0	Tools & Machines	Locks	Approved	8.0	Approve in Full
+66376	2005062787250	2005-06-17 00:00:00	2005-05-21 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+66797	2005062987703	2005-06-23 00:00:00	2005-05-12 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	62.79	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+67242	2005070588234	2005-06-30 00:00:00	2005-05-23 00:00:00	ICT	Wichita Mid-Continent	American West	Passenger Property Loss	Checkpoint	159.44	Electronics	Cameras - Digital	Denied	0.0	Deny
+67326	2005070588281	2005-07-01 00:00:00	2005-06-07 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	10.69	Other	Other	Denied	0.0	Deny
+67743	2005071288715	2005-07-11 00:00:00	2005-06-16 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.6	Supplies	Medicines	Approved	9.6	Approve in Full
+67788	2005071288721	2005-07-11 00:00:00	2005-06-22 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	295.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+68076	2005071589055	2005-07-14 00:00:00	2005-07-05 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	167.05	Other	Other	Approved	167.05	Approve in Full
+68197	2005071889177	2005-07-15 00:00:00	2005-06-26 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	2000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+68549	2005072689695	2005-07-20 00:00:00	2005-06-20 00:00:00	ICT	Wichita Mid-Continent	Continental Express Inc	Passenger Property Loss	Checkpoint	100.0	Other	Other	Settled	67.94	Settle
+68819	2005080890176	2005-07-26 00:00:00	2005-07-18 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint	20.0	Other	Other	Approved	20.0	Approve in Full
+70090	2005082291084	2005-08-15 00:00:00	2005-06-29 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	1638.14	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+70620	2005082991679	2005-08-23 00:00:00	2005-08-14 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	133.05	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+71149	2005090692235	2005-08-30 00:00:00	2005-08-11 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	266.0	Other	Other	Denied	0.0	Deny
+71267	2005091492434	2005-09-01 00:00:00	2005-07-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	4.0	Tools & Machines	Locks	Approved	4.0	Approve in Full
+71419	2005091492474	2005-09-06 00:00:00	2005-08-04 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	209.48	Settle
+71885	2005092193059	2005-09-14 00:00:00	2005-09-02 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage	121.65	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+75477	2005112896555	2005-11-15 00:00:00	2005-10-04 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	705.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+75760	2005120196805	2005-11-18 00:00:00	2005-10-23 00:00:00	ICT	Wichita Mid-Continent	American West	Passenger Property Loss	Checked Baggage	184.99	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	112.49	Settle
+75886	2005120797224	2005-11-22 00:00:00	2005-11-11 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	24.99	Other	Other	Canceled	0.0	
+76525	2005121397623	2005-12-05 00:00:00	2005-11-03 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	198.75	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+78924	2006012300090	2006-01-17 00:00:00	2005-11-19 00:00:00	ICT	Wichita Mid-Continent	America West	Passenger Property Loss	Checked Baggage	409.66	Watches & Jewelry	Jewelry - Fine	Settled	204.83	Settle
+82162	2006031603267	2006-03-14 00:00:00	2006-02-13 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	722.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+82904	2006062808651	2006-03-27 00:00:00	2006-02-24 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint	12.0	Watches & Jewelry	Jewelry - Costume	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+82921	2006040604103	2006-03-28 00:00:00	2006-03-15 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+83879	2006042404975	2006-04-14 00:00:00	2006-03-09 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	427.0	Electronics	Cameras - Digital	Settled	145.0	Settle
+83885	2006042405004	2006-04-14 00:00:00	2006-03-07 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	541.01	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	270.51	Settle
+84328	2006042805429	2006-04-25 00:00:00	2006-01-29 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	159.45	Watches & Jewelry	Jewelry - Fine	Approved	159.45	Approve in Full
+84852	2006051105903	2006-05-05 00:00:00	2006-03-16 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	94.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	94.95	Approve in Full
+86460	2006060907669	2006-06-07 00:00:00	2006-03-30 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	175.9	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+86760	2006061508017	2006-06-14 00:00:00	2006-06-02 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.29	Games & Toys	Toys (game systems, cartridges, radio controlled cars, etc.)	Approved	21.29	Approve in Full
+86811	2006061508065	2006-06-14 00:00:00	2006-05-13 00:00:00	ICT	Wichita Mid-Continent	US Express	Passenger Property Loss	Checked Baggage	1300.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+87525	2006062908750	2006-06-28 00:00:00	2006-06-05 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	181.98	Outdoors Supplies	Tools - Manual (not in a vehicle)	Settled	90.99	Settle
+87586	2006070308832	2006-06-29 00:00:00	2006-06-14 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	423.58	Electronics	Cameras - Digital	Denied	0.0	Deny
+87636	2006070508953	2006-06-30 00:00:00	2006-05-12 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	350.0	Other	Other	Canceled	0.0	
+88739	2006072510025	2006-07-21 00:00:00	2006-07-04 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Approved	400.0	Approve in Full
+89211	2006080210413	2006-07-31 00:00:00	2006-07-11 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage	310.0	Clothing & Accessories,Tools & Machines	Clothing - Shoes, belts, accessories, etc.*Scissors, Shears (other than electric)	Settled	155.0	Settle
+89691	2006081410984	2006-08-10 00:00:00	2006-07-13 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	605.12	Electronics	Computer - Laptop	Denied	0.0	Deny
+89904	2006081711249	2006-08-14 00:00:00	2006-07-27 00:00:00	ICT	Wichita Mid-Continent	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	98.25	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+90770	2006090712109	2006-08-30 00:00:00	2006-08-28 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	19.99	Office Supplies	Books - Reference books, cookbooks, etc.	Approved	19.99	Approve in Full
+91710	2006092112994	2006-09-18 00:00:00	2006-08-31 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	14.85	Other	Other	Approved	14.85	Approve in Full
+93694	2006110114939	2006-10-26 00:00:00	2006-09-22 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	64.78	Other	Other	Denied	0.0	Deny
+93836	2006110215062	2006-10-30 00:00:00	2006-09-23 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	150.0	Supplies	Medicines	Denied	0.0	Deny
+95009	2006112916418	2006-11-21 00:00:00	2006-11-09 00:00:00	ICT	Wichita Mid-Continent	America West	Passenger Property Loss	Checked Baggage	2000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+95391	2006120516614	2006-11-29 00:00:00	2006-10-12 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Jewelry - Costume	Settled	750.0	Settle
+97438	2007010818471	2007-01-05 00:00:00	2006-12-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	32.21	Electronics	Video Recordings (blank & commercial)	Denied	0.0	Deny
+97503	2007011218772	2007-01-05 00:00:00	2006-12-04 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	17.02	Tools & Machines	Locks	Denied	0.0	Deny
+99752	2007021621031	2007-02-12 00:00:00	2006-09-06 00:00:00	ICT	Wichita Mid-Continent	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	362.14	Electronics	Cameras - Digital	Denied	0.0	Deny
+99800	2007021520984	2007-02-13 00:00:00	2006-11-20 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint	110.0	Watches & Jewelry	Jewelry - Fine	Approved	110.0	Approve in Full
+101175	2007031522358	2007-03-12 00:00:00	2007-03-05 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	97.0	Other	Other	Settled	48.5	Settle
+101452	2007032122701	2007-03-19 00:00:00	2007-02-19 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage	9.0	Tools & Machines	Locks	Approved	9.0	Approve in Full
+102598	2007041123804	2007-04-09 00:00:00	2007-02-10 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage	46.26	Other	Other	Settled	23.13	Settle
+103183	2007042324359	2007-04-20 00:00:00	2007-03-10 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	262.32	Electronics	Cameras - Digital	Denied	0.0	Deny
+103488	2007050124790	2007-04-27 00:00:00	2007-03-09 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	220.0	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Approved	220.0	Approve in Full
+103686	2007050324929	2007-05-01 00:00:00	2007-04-04 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	359.52	Electronics	Cameras - Digital	Settled	267.93	Settle
+105626	2007061326841	2007-06-11 00:00:00	2007-06-06 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+109370	2007082330716	2007-08-21 00:00:00	2007-07-22 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage	598.0	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+109373	2007082330733	2007-08-21 00:00:00	2007-08-15 00:00:00	ICT	Wichita Mid-Continent	Air Tran Airlines(do not use)	Passenger Property Loss	Checked Baggage	299.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+109871	2007083131264	2007-08-29 00:00:00	2007-07-03 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checkpoint	512.1	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	512.1	Approve in Full
+110508	2007091431923	2007-09-11 00:00:00	2007-07-31 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Other	Approved	15.0	Approve in Full
+112557	2007102934051	2007-10-22 00:00:00	2007-08-12 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checkpoint	40.0	Food & Drink,Cosmetics	Alcoholic beverages*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+114575	2007120435980	2007-11-30 00:00:00	2007-09-07 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	177.44	Other	Other	Settled	150.0	Settle
+114927	2007121136364	2007-12-10 00:00:00	2007-11-17 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	161.63	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+115623	2008010237119	2007-12-26 00:00:00	2007-12-26 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage	600.0	Containers,Household Items,Watches & Jewelry	Boxes - Jewelry, Cigarette, Music, etc.*House Keeping Items (mops, brooms, ironing boards, pails, etc)*Jewelry - Costume	Denied	0.0	Deny
+115747	2008010237128	2007-12-27 00:00:00	2007-08-01 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Cosmetics,Other,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other*Other	Denied	0.0	Deny
+115832	2008010737432	2007-12-31 00:00:00	2007-12-27 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	105.0	Cosmetics,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Canceled	0.0	
+118124	2008021439643	2008-02-11 00:00:00	2008-01-16 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	399.99	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+120034	2008040441891	2008-03-20 00:00:00	2008-02-21 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+120201	2008040241731	2008-03-25 00:00:00	2008-03-07 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	138.55	Cosmetics,Clothing & Accessories	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+120977	2008050944078	2008-04-07 00:00:00	2008-02-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1000.0	Other	Other	Denied	0.0	Deny
+121350	2008042243138	2008-04-14 00:00:00	2008-03-11 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	8.91	Tools & Machines	Locks	Denied	0.0	Deny
+123748	2008060945389	2008-06-04 00:00:00	2008-05-24 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	104.99	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+123993	2008061345650	2008-06-10 00:00:00	2008-05-01 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	8.95	Tools & Machines	Locks	Denied	0.0	Deny
+124103	2008061745782	2008-06-12 00:00:00	2008-06-08 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	240.0	Cosmetics,Containers	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+124310	2008062045982	2008-06-17 00:00:00	2008-06-13 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	683.0	Clothing & Accessories,Electronics,Other	Clothing - Shoes, belts, accessories, etc.*GPS - Global Positioning System*Other	Denied	0.0	Deny
+124657	2008063046369	2008-06-25 00:00:00	2008-06-23 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	250.0	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+125068	2008071046745	2008-07-07 00:00:00	2008-07-01 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+125673	2008072447391	2008-07-18 00:00:00	2008-07-07 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	39.95	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+126504	2008080848282	2008-08-05 00:00:00	2008-06-17 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+126816	2008081448633	2008-08-12 00:00:00	2008-08-01 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	1500.0	Other	Other	Canceled	0.0	
+128870	2008100350780	2008-09-29 00:00:00	2008-09-15 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	5.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+129945	2008110752078	2008-10-28 00:00:00	2008-09-28 00:00:00	ICT	Wichita Mid-Continent	Frontier Airlines	Passenger Property Loss	Checked Baggage	17.98	Office Supplies	Books - Reference books, cookbooks, etc.	Approved	17.98	Approve in Full
+130908	2008112852879	2008-11-20 00:00:00	2008-10-22 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	473.87	Electronics	Cameras - Digital	Denied	0.0	Deny
+131761	2008121953645	2008-12-15 00:00:00	2008-12-08 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Cosmetics,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Other	Denied	0.0	Deny
+132500	2009011254349	2009-01-06 00:00:00	2008-12-26 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	298.02	Containers	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+132871	2009012354785	2009-01-13 00:00:00	2008-12-31 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Currency	Denied	0.0	Deny
+133582	2009021355508	2009-02-02 00:00:00	2008-12-27 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	1261.88	Electronics,Electronics,Household Decor,Clothing & Accessories,Other,Household Decor,Watches & Jewelry,Games & Toys	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Candles - Decorative and other*Clothing - Shoes, belts, accessories, etc.*Currency*Decorations - Christmas, Birthday, etc.*Jewelry - Fine*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+134202	2009031656269	2009-02-19 00:00:00	2009-02-17 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	349.99	Electronics	Cell Phones	Denied	0.0	Deny
+134906	2009032656944	2009-03-10 00:00:00	2009-02-08 00:00:00	ICT	Wichita Mid-Continent	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.87	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+135437	2009041157410	2009-03-24 00:00:00	2009-02-27 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	350.0	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+138271	2009061660255	2009-06-11 00:00:00	2009-06-03 00:00:00	ICT	Wichita Mid-Continent	USAir	Passenger Property Loss	Checked Baggage	1500.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+139577	2009072161513	2009-07-16 00:00:00	2009-06-29 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	10.0	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+139617	2009072361679	2009-07-16 00:00:00	2009-05-28 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	238.97	Other	Other	Denied	0.0	Deny
+139791	2009072861839	2009-07-22 00:00:00	2009-07-11 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage	182.41	Cosmetics,Household Items	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Canceled	0.0	
+141172	2009083163175	2009-08-31 00:00:00	2009-08-27 00:00:00	ICT	Wichita Mid-Continent	Northwest Airlines	Passenger Property Loss	Checked Baggage	24.99	Tools & Machines	Locks	Approved	24.99	Approve in Full
+141928	2009092263938	2009-09-21 00:00:00	2009-09-20 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage	20.81	Other	Other	Denied	0.0	Deny
+143503	2009112465679	2009-11-12 00:00:00	2009-10-19 00:00:00	ICT	Wichita Mid-Continent	Continental Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Other	Approved	15.0	Approve in Full
+146753	2010032269856	2010-03-16 00:00:00	2010-03-08 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+147107	2010033170246	2010-03-29 00:00:00	2010-02-25 17:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink		0.0	Deny
+148375	2010050671564	2010-05-05 00:00:00	2010-03-26 14:45:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checkpoint		Other	Currency		200.0	Approve in Full
+148942	2010052772161	2010-05-24 00:00:00	2010-05-18 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+150663	2010082375234	2010-07-14 00:00:00	2010-06-21 12:30:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers,Electronics	Baggage/Cases/Purses*Personal Electronics		0.0	Deny
+150850	2010073074230	2010-07-20 00:00:00	2010-05-28 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+152516	2010091275903	2010-09-07 00:00:00	2010-08-23 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		34.0	Approve in Full
+154192	2010110577602	2010-10-27 00:00:00	2010-10-21 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+154999	2010120178392	2010-11-23 00:00:00	2010-11-09 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+157308	2011030280780	2011-02-07 00:00:00	2011-01-08 00:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+159762	2011050283108	2011-05-02 00:00:00	2011-05-02 00:00:00	ICT	Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+164337	2011101487874	2011-09-29 00:00:00	2011-09-07 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+167096	2012020890798	2012-01-04 00:00:00	2011-12-20 16:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		42.0	Approve in Full
+167721	2012022991391	2012-01-23 00:00:00	2011-12-14 06:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint		Food & Drink	Food & Drink		60.0	Approve in Full
+169301	2012041292837	2012-03-19 00:00:00	2012-02-21 00:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+169518	2012041993036	2012-03-26 00:00:00	2012-02-25 09:30:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		50.0	Approve in Full
+175670	2012122899425	2012-11-05 00:00:00	2012-08-14 00:00:00	ICT	Wichita Mid-Continent	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+178823	2013030702435	2013-03-05 00:00:00	2013-03-03 00:00:00	ICT	Wichita Mid-Continent	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+184570	2013103008357	2013-09-27 00:00:00	2013-08-15 10:00:00	ICT	Wichita Mid-Continent	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		64.15	Approve in Full
+186347	2013121910160	2013-12-13 00:00:00	2013-10-18 05:00:00	ICT	Wichita Mid-Continent		Passenger Property Loss	Checkpoint		Electronics	Cameras			
+190672	2014060914495	2014-06-02 00:00:00	2014-05-17 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		24.0	Approve in Full
+193991	2014102017884	2014-10-09 00:00:00	2014-08-20 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories			
+195358	2014121819301	2014-12-18 00:00:00	2014-12-01 00:00:00	ICT	Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+198918	2015042122050	2015-04-14 00:00:00	2015-03-24 00:00:00	ICT	Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+198924	2016011328297	2015-12-31 00:00:00	2015-12-08 00:00:00	ICT	Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Office Supplies	Office Equipment & Supplies			
+207522	2016031629804	2016-03-02 00:00:00	2016-02-06 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			Insufficient
+207525	2016032330016	2016-03-07 00:00:00	2016-02-09 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+207526	2016040630398	2016-03-22 00:00:00	2016-02-29 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+207527	2016042630846	2016-04-08 00:00:00	2016-03-09 10:24:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+207528	2016082633362	2016-07-11 00:00:00	2016-06-19 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+207530	2016092834021	2016-08-10 00:00:00	2016-07-27 04:38:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Navigation			In Review
+215766	2017041138493	2017-03-06 00:00:00	2017-02-17 00:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+215767	2018010246387	2017-12-07 00:00:00	2017-11-22 16:00:00	ICT	Wichita Mid-Continent Wichita Mid-Continent	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other			In Review

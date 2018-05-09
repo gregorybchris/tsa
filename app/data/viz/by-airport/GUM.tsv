@@ -1,61 +1,61 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-26003	0130079M	2004-01-30 00:00:00	2003-10-25 00:00:00	GUM	Guam		Passenger Property Loss	Checked Baggage	800.0	Electronics	Denied	800.0	Deny
-39599	2004081261293	2004-07-09 00:00:00	2004-05-29 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	199.99	Watches & Jewelry	Approved	199.99	Approve in Full
-42792	2004100464370	2004-08-19 00:00:00	2004-06-28 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	90.0	Other	Approved	90.0	Approve in Full
-47451	2004120268284	2004-10-15 00:00:00	2004-09-30 00:00:00	GUM	Guam		Passenger Property Loss	Checkpoint	805.0	Other	Denied	0.0	Deny
-66982	2005063087913	2005-06-27 00:00:00	2005-06-10 00:00:00	GUM	Guam		Passenger Property Loss	Checked Baggage	100.0	Other	Settled	50.0	Settle
-71912	2005092092945	2005-09-14 00:00:00	2005-08-12 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	243.0	Electronics	Denied	0.0	Deny
-73766	2005101994885	2005-10-13 00:00:00	2005-10-05 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	129.02	Electronics	Settled	79.02	Settle
-76936	2005121997975	2005-12-12 00:00:00	2005-11-27 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	399.95	Electronics	Denied	0.0	Deny
-78900	2006012300099	2006-01-17 00:00:00	2005-11-01 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Denied	0.0	Deny
-79031	2006012400208	2006-01-18 00:00:00	2005-12-31 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage	625.47	Watches & Jewelry	Denied	0.0	Deny
-80766	2006022201882	2006-02-15 00:00:00	2006-01-15 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	5275.0	Watches & Jewelry	Denied	0.0	Deny
-81465	2006030702663	2006-03-01 00:00:00	2006-01-17 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Approved	125.0	Approve in Full
-85590	2006052406890	2006-05-22 00:00:00	2006-05-12 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	280.0	Electronics,Electronics	Canceled	0.0	
-87409	2006062808650	2006-06-27 00:00:00	2006-04-30 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	2353.0	Electronics,Electronics,Electronics,Other	Settled	877.01	Settle
-87514	2006062808676	2006-06-28 00:00:00	2006-06-20 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	60.37	Outdoors Supplies	Settled	30.2	Settle
-89348	2006081010698	2006-08-03 00:00:00	2006-07-29 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	39.95	Tools & Machines	Approved	39.95	Approve in Full
-89761	2006081611122	2006-08-11 00:00:00	2006-07-14 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	1132.0	Clothing & Accessories,Tools & Machines,Containers	Denied	0.0	Deny
-90271	2006082811679	2006-08-21 00:00:00	2006-04-07 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	545.0	Electronics,Clothing & Accessories	Denied	0.0	Deny
-92904	2006101814156	2006-10-12 00:00:00	2006-09-23 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	10.41	Tools & Machines	Approved	10.41	Approve in Full
-103730	2007050725066	2007-05-02 00:00:00	2007-03-25 00:00:00	GUM	Guam	All Nippon Airways	Passenger Property Loss	Checked Baggage	44.92	Cosmetics	Settled	22.46	Settle
-104701	2007060126015	2007-05-23 00:00:00	2007-05-03 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-104721	2007060126008	2007-05-23 00:00:00	2007-03-23 00:00:00	GUM	Guam	All Nippon Airways	Passenger Property Loss	Checked Baggage	3750.0	Watches & Jewelry	Denied	0.0	Deny
-108505	2007080929917	2007-08-06 00:00:00	2007-06-16 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	34.02	Other	Approved	34.02	Approve in Full
-113874	2007112635417	2007-11-19 00:00:00	2007-11-04 00:00:00	GUM	Guam	Southwest Airlines	Passenger Property Loss	Checked Baggage	5.4	Tools & Machines	Approved	5.4	Approve in Full
-114839	2007121736547	2007-12-06 00:00:00	2007-09-26 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	220.0	Other	Denied	0.0	Deny
-114972	2007121136362	2007-12-10 00:00:00	2007-12-01 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	454.97	Electronics,Other	Settled	227.49	Settle
-121487	2008042243139	2008-04-17 00:00:00	2008-03-24 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	548.99	Electronics	Approved	548.99	Approve in Full
-123552	2008060545294	2008-05-30 00:00:00	2008-05-25 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	246.15	Electronics,Other,Electronics	Denied	0.0	Deny
-130796	2008112552780	2008-11-18 00:00:00	2008-11-03 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Containers	Denied	0.0	Deny
-136710	2009051858714	2009-04-28 00:00:00	2009-04-16 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	249.94	Electronics,Electronics	Denied	0.0	Deny
-136740	2009051858707	2009-04-29 00:00:00	2009-04-19 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	700.0	Other	Denied	0.0	Deny
-137529	2009052959606	2009-05-21 00:00:00	2009-04-01 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	613.0	Electronics,Electronics,Tools & Machines	Denied	0.0	Deny
-137756	2009060259748	2009-05-28 00:00:00	2009-04-20 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	152.25	Containers,Cosmetics	Denied	0.0	Deny
-138646	2009063060738	2009-06-22 00:00:00	2009-06-07 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	403.0	Clothing & Accessories	Denied	0.0	Deny
-139458	2009071761392	2009-07-14 00:00:00	2009-07-06 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	25.0	Cosmetics,Games & Toys,Other	Denied	0.0	Deny
-148057	2010042971305	2010-04-26 00:00:00	2010-04-19 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers,Other		0.0	Deny
-149019	2010060272275	2010-05-25 00:00:00	2010-05-13 05:15:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics		0.0	Deny
-149601	2010062172857	2010-06-14 00:00:00	2010-06-04 05:40:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-151789	2010081975043	2010-08-17 00:00:00	2010-08-04 18:30:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-151979	2010082575339	2010-08-23 00:00:00	2010-08-08 04:44:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics		0.0	Deny
-156085	2011011279468	2011-01-03 00:00:00	2010-12-21 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-160478	2011060283968	2011-05-24 00:00:00	2011-04-26 06:30:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Games & Toys		0.0	Deny
-161342	2011070584973	2011-06-21 00:00:00	2011-06-13 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-162235	2011072085318	2011-07-20 00:00:00	2011-06-15 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-162809	2011082686510	2011-08-05 00:00:00	2011-07-16 06:00:00	GUM	Guam	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-164134	2011101287738	2011-09-20 00:00:00	2011-08-29 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Other,Watches & Jewelry		0.0	Deny
-164989	2011110988842	2011-10-19 00:00:00	2011-10-07 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-168384	2012032392017	2012-02-14 00:00:00	2012-01-28 06:35:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		108.74	Approve in Full
-171723	2012071895504	2012-06-12 00:00:00	2012-01-26 05:20:00	GUM	Guam		Passenger Property Loss			Electronics		0.0	Deny
-172517	2012082896257	2012-07-12 00:00:00	2012-07-08 06:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-177108	2013020601032	2013-01-03 00:00:00	2013-01-02 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
-181275	2013062504726	2013-06-06 00:00:00	2013-03-21 06:35:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Electronics			
-183095	2013080805754	2013-08-08 00:00:00	2013-06-23 16:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-189080	2014040112875	2014-03-27 00:00:00	2014-01-05 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Automobile & Mechanical		0.0	Deny
-193424	2014100217307	2014-09-18 00:00:00	2014-08-15 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry			
-198350	2015031021129	2015-03-10 00:00:00	2015-03-09 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-198351	2015040121665	2015-03-31 00:00:00	2015-03-28 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-207007	2016112135841	2016-10-25 00:00:00	2016-10-03 17:35:00	GUM	Guam Guam	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Scientific Intruments			In Review
-215245	2017083142560	2017-07-05 00:00:00	2017-06-22 19:00:00	GUM	Guam Guam	Korean Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies			In Review
-215248	2017051839730	2017-04-27 00:00:00	2017-04-10 00:00:00	GUM	Guam Guam	UAL	Passenger Property Loss	Checked Baggage		Electronics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+26003	0130079M	2004-01-30 00:00:00	2003-10-25 00:00:00	GUM	Guam		Passenger Property Loss	Checked Baggage	800.0	Electronics	DVD/CD Players	Denied	800.0	Deny
+39599	2004081261293	2004-07-09 00:00:00	2004-05-29 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	199.99	Watches & Jewelry	Jewelry - Fine	Approved	199.99	Approve in Full
+42792	2004100464370	2004-08-19 00:00:00	2004-06-28 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	90.0	Other	Other	Approved	90.0	Approve in Full
+47451	2004120268284	2004-10-15 00:00:00	2004-09-30 00:00:00	GUM	Guam		Passenger Property Loss	Checkpoint	805.0	Other	Other	Denied	0.0	Deny
+66982	2005063087913	2005-06-27 00:00:00	2005-06-10 00:00:00	GUM	Guam		Passenger Property Loss	Checked Baggage	100.0	Other	Other	Settled	50.0	Settle
+71912	2005092092945	2005-09-14 00:00:00	2005-08-12 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	243.0	Electronics	Cell Phones	Denied	0.0	Deny
+73766	2005101994885	2005-10-13 00:00:00	2005-10-05 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	129.02	Electronics	Computer - Laptop	Settled	79.02	Settle
+76936	2005121997975	2005-12-12 00:00:00	2005-11-27 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	399.95	Electronics	Cameras - Digital	Denied	0.0	Deny
+78900	2006012300099	2006-01-17 00:00:00	2005-11-01 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	1200.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+79031	2006012400208	2006-01-18 00:00:00	2005-12-31 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage	625.47	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+80766	2006022201882	2006-02-15 00:00:00	2006-01-15 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	5275.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+81465	2006030702663	2006-03-01 00:00:00	2006-01-17 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	125.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	125.0	Approve in Full
+85590	2006052406890	2006-05-22 00:00:00	2006-05-12 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	280.0	Electronics,Electronics	Audio - Other (Phonograph, cassettes, etc)*Electrical and Gas Appliances Minor - $200 or less (humidifiers, tv's, etc)	Canceled	0.0	
+87409	2006062808650	2006-06-27 00:00:00	2006-04-30 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	2353.0	Electronics,Electronics,Electronics,Other	Cameras - Digital*Cameras - Digital*Computer - Laptop*Other	Settled	877.01	Settle
+87514	2006062808676	2006-06-28 00:00:00	2006-06-20 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	60.37	Outdoors Supplies	Fish/Game	Settled	30.2	Settle
+89348	2006081010698	2006-08-03 00:00:00	2006-07-29 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	39.95	Tools & Machines	Locks	Approved	39.95	Approve in Full
+89761	2006081611122	2006-08-11 00:00:00	2006-07-14 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	1132.0	Clothing & Accessories,Tools & Machines,Containers	Clothing - Shoes, belts, accessories, etc.*Locks*Luggage (all types including footlockers)	Denied	0.0	Deny
+90271	2006082811679	2006-08-21 00:00:00	2006-04-07 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	545.0	Electronics,Clothing & Accessories	Cameras - Digital*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+92904	2006101814156	2006-10-12 00:00:00	2006-09-23 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	10.41	Tools & Machines	Locks	Approved	10.41	Approve in Full
+103730	2007050725066	2007-05-02 00:00:00	2007-03-25 00:00:00	GUM	Guam	All Nippon Airways	Passenger Property Loss	Checked Baggage	44.92	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	22.46	Settle
+104701	2007060126015	2007-05-23 00:00:00	2007-05-03 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+104721	2007060126008	2007-05-23 00:00:00	2007-03-23 00:00:00	GUM	Guam	All Nippon Airways	Passenger Property Loss	Checked Baggage	3750.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+108505	2007080929917	2007-08-06 00:00:00	2007-06-16 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	34.02	Other	Other	Approved	34.02	Approve in Full
+113874	2007112635417	2007-11-19 00:00:00	2007-11-04 00:00:00	GUM	Guam	Southwest Airlines	Passenger Property Loss	Checked Baggage	5.4	Tools & Machines	Locks	Approved	5.4	Approve in Full
+114839	2007121736547	2007-12-06 00:00:00	2007-09-26 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	220.0	Other	Currency	Denied	0.0	Deny
+114972	2007121136362	2007-12-10 00:00:00	2007-12-01 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	454.97	Electronics,Other	Cell Phones*Other	Settled	227.49	Settle
+121487	2008042243139	2008-04-17 00:00:00	2008-03-24 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint	548.99	Electronics	MP3 Players-(iPods, etc)	Approved	548.99	Approve in Full
+123552	2008060545294	2008-05-30 00:00:00	2008-05-25 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	246.15	Electronics,Other,Electronics	MP3 Players-(iPods, etc)*Other*Stereo Items & Accessories	Denied	0.0	Deny
+130796	2008112552780	2008-11-18 00:00:00	2008-11-03 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	300.0	Containers	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+136710	2009051858714	2009-04-28 00:00:00	2009-04-16 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	249.94	Electronics,Electronics	MP3 Players-(iPods, etc)*Stereo Items & Accessories	Denied	0.0	Deny
+136740	2009051858707	2009-04-29 00:00:00	2009-04-19 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	700.0	Other	Currency	Denied	0.0	Deny
+137529	2009052959606	2009-05-21 00:00:00	2009-04-01 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	613.0	Electronics,Electronics,Tools & Machines	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Locks	Denied	0.0	Deny
+137756	2009060259748	2009-05-28 00:00:00	2009-04-20 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	152.25	Containers,Cosmetics	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+138646	2009063060738	2009-06-22 00:00:00	2009-06-07 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	403.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+139458	2009071761392	2009-07-14 00:00:00	2009-07-06 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage	25.0	Cosmetics,Games & Toys,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Knick Knacks (bric-a-bracks)*Other	Denied	0.0	Deny
+148057	2010042971305	2010-04-26 00:00:00	2010-04-19 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Containers,Other	Baggage/Cases/Purses*Other		0.0	Deny
+149019	2010060272275	2010-05-25 00:00:00	2010-05-13 05:15:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Cosmetics	Audio/Video*Cosmetics & Grooming		0.0	Deny
+149601	2010062172857	2010-06-14 00:00:00	2010-06-04 05:40:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+151789	2010081975043	2010-08-17 00:00:00	2010-08-04 18:30:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			
+151979	2010082575339	2010-08-23 00:00:00	2010-08-08 04:44:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Electronics	Personal Accessories*Personal Electronics		0.0	Deny
+156085	2011011279468	2011-01-03 00:00:00	2010-12-21 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+160478	2011060283968	2011-05-24 00:00:00	2011-04-26 06:30:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Games & Toys	Toys & Games		0.0	Deny
+161342	2011070584973	2011-06-21 00:00:00	2011-06-13 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+162235	2011072085318	2011-07-20 00:00:00	2011-06-15 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+162809	2011082686510	2011-08-05 00:00:00	2011-07-16 06:00:00	GUM	Guam	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+164134	2011101287738	2011-09-20 00:00:00	2011-08-29 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Other,Watches & Jewelry	Currency*Jewelry & Watches		0.0	Deny
+164989	2011110988842	2011-10-19 00:00:00	2011-10-07 00:00:00	GUM	Guam	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+168384	2012032392017	2012-02-14 00:00:00	2012-01-28 06:35:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		108.74	Approve in Full
+171723	2012071895504	2012-06-12 00:00:00	2012-01-26 05:20:00	GUM	Guam		Passenger Property Loss			Electronics	Personal Electronics		0.0	Deny
+172517	2012082896257	2012-07-12 00:00:00	2012-07-08 06:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+177108	2013020601032	2013-01-03 00:00:00	2013-01-02 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Other,Electronics	Other*Personal Electronics		0.0	Deny
+181275	2013062504726	2013-06-06 00:00:00	2013-03-21 06:35:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			
+183095	2013080805754	2013-08-08 00:00:00	2013-06-23 16:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+189080	2014040112875	2014-03-27 00:00:00	2014-01-05 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Automobile & Mechanical	Automobile Parts & Accessories		0.0	Deny
+193424	2014100217307	2014-09-18 00:00:00	2014-08-15 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+198350	2015031021129	2015-03-10 00:00:00	2015-03-09 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories		0.0	Deny
+198351	2015040121665	2015-03-31 00:00:00	2015-03-28 00:00:00	GUM	Guam	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+207007	2016112135841	2016-10-25 00:00:00	2016-10-03 17:35:00	GUM	Guam Guam	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Scientific Intruments	Hunting & Fishing Items*Medical/Science			In Review
+215245	2017083142560	2017-07-05 00:00:00	2017-06-22 19:00:00	GUM	Guam Guam	Korean Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies	Clothing*Hunting & Fishing Items			In Review
+215248	2017051839730	2017-04-27 00:00:00	2017-04-10 00:00:00	GUM	Guam Guam	UAL	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories			In Review

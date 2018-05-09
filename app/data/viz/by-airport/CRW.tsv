@@ -1,39 +1,39 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-2191	0203064L	2003-02-03 00:00:00	2002-12-24 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	90.0	Other	Settled	45.0	Settle
-2820	0224076L	2003-02-24 00:00:00	2003-01-23 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	124.4	Watches & Jewelry	Settled	62.23	Settle
-7490	0603210L	2003-06-03 00:00:00	2003-04-27 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	258.66	Electronics	Approved	258.66	Approve in Full
-19380	1105019M	2003-11-05 00:00:00	2003-10-03 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	402.75	Electronics	Settled	125.0	Settle
-23051	1217270M	2003-12-17 00:00:00	2003-07-26 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	1065.09	Watches & Jewelry	Settled	500.0	Settle
-25020	0114065M	2004-01-14 00:00:00	2003-12-05 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	49.95	Other	Settled	25.0	Settle
-26341	0202362M	2004-02-02 00:00:00	2003-12-20 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	3209.0	Watches & Jewelry	Canceled	0.0	
-32587	2004052453237	2004-04-15 00:00:00	2004-03-18 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	343.0	Other	Settled	171.5	Settle
-46027	2004110766584	2004-09-28 00:00:00	2004-09-11 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checkpoint	102.0	Electronics	Denied	102.0	Deny
-48755	2004122971553	2004-10-29 00:00:00	2004-10-18 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	505.0	Other	Denied	0.0	Deny
-50772	2004122771113	2004-11-26 00:00:00	2004-09-16 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	330.0	Clothing & Accessories	Denied	0.0	Deny
-52207	2005030777152	2004-12-14 00:00:00	2004-11-26 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	254.0	Clothing & Accessories	Settled	127.0	Settle
-52531	2005010673045	2004-12-20 00:00:00	2004-11-14 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Settled	75.0	Settle
-61998	2005042183077	2005-04-19 00:00:00	2005-01-27 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	15.9	Tools & Machines	Approved	15.9	Approve in Full
-66828	2005062987693	2005-06-23 00:00:00	2004-06-03 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-70600	2005082691621	2005-08-23 00:00:00	2005-08-12 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checkpoint	1000.0	Other	Denied	0.0	Deny
-75272	2005112396396	2005-11-10 00:00:00	2005-09-17 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checkpoint	48.99	Other	Approved	48.99	Approve in Full
-82502	2006032303633	2006-03-20 00:00:00	2006-03-10 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	143.0	Cosmetics	Settled	71.5	Settle
-89197	2006080910613	2006-07-31 00:00:00	2006-05-27 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	1840.0	Supplies	Denied	0.0	Deny
-91802	2006092213105	2006-09-19 00:00:00	2006-08-27 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	150.0	Electronics	Denied	0.0	Deny
-100093	2007022221299	2007-02-16 00:00:00	2007-02-05 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.83	Cosmetics	Settled	42.7	Settle
-100956	2007031222122	2007-03-08 00:00:00	2006-09-20 00:00:00	CRW	Yeager, Charleston	Northwest Airlines	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Denied	0.0	Deny
-106611	2007071128123	2007-06-29 00:00:00	2007-06-23 00:00:00	CRW	Yeager, Charleston	Northwest Airlines	Passenger Property Loss	Checked Baggage	556.95	Containers,Games & Toys	Denied	0.0	Deny
-113076	2007110534493	2007-11-01 00:00:00	2007-10-22 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	364.99	Containers,Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-114075	2007112635367	2007-11-23 00:00:00	2007-10-14 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	359.98	Clothing & Accessories,Electronics,Other	Denied	0.0	Deny
-114918	2007121136344	2007-12-10 00:00:00	2007-12-07 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Denied	0.0	Deny
-117415	2008012838697	2008-01-26 00:00:00	2008-01-21 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	1700.0	Electronics	Denied	0.0	Deny
-131488	2008121253382	2008-12-08 00:00:00	2008-11-24 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
-131920	2008123053898	2008-12-18 00:00:00	2008-10-31 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Denied	0.0	Deny
-137912	2009060559902	2009-06-03 00:00:00	2009-05-26 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	381.5	Containers,Cosmetics	Denied	0.0	Deny
-138448	2009061860365	2009-06-16 00:00:00	2009-06-03 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	326.25	Electronics	Settled	254.39	Settle
-141609	2009091563692	2009-09-11 00:00:00	2009-06-26 00:00:00	CRW	Yeager, Charleston	Continental Express Inc	Passenger Property Loss	Checked Baggage	420.0	Clothing & Accessories,Cosmetics,Tools & Machines,Containers,Supplies	Denied	0.0	Deny
-162979	2011083086565	2011-08-11 00:00:00	2011-07-28 00:00:00	CRW	Yeager, Charleston	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		106.64	Approve in Full
-174363	2012112098790	2012-09-14 00:00:00	2012-09-07 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories		156.74	Settle
-175051	2012111398638	2012-10-12 00:00:00	2012-10-07 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-177970	2013021901550	2013-01-31 00:00:00	2013-01-25 00:00:00	CRW	Yeager, Charleston	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-188405	2014030412180	2014-03-03 00:00:00	2014-02-23 00:00:00	CRW	Yeager, Charleston	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		175.0	Approve in Full
-189960	2014050713772	2014-04-29 00:00:00	2014-04-02 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		35.9	Approve in Full
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+2191	0203064L	2003-02-03 00:00:00	2002-12-24 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	90.0	Other	Other	Settled	45.0	Settle
+2820	0224076L	2003-02-24 00:00:00	2003-01-23 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	124.4	Watches & Jewelry	Jewelry - Fine	Settled	62.23	Settle
+7490	0603210L	2003-06-03 00:00:00	2003-04-27 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	258.66	Electronics	PDA - Personal Data Assistants	Approved	258.66	Approve in Full
+19380	1105019M	2003-11-05 00:00:00	2003-10-03 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	402.75	Electronics	Cameras - Digital	Settled	125.0	Settle
+23051	1217270M	2003-12-17 00:00:00	2003-07-26 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	1065.09	Watches & Jewelry	Jewelry - Fine	Settled	500.0	Settle
+25020	0114065M	2004-01-14 00:00:00	2003-12-05 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	49.95	Other	Other	Settled	25.0	Settle
+26341	0202362M	2004-02-02 00:00:00	2003-12-20 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	3209.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+32587	2004052453237	2004-04-15 00:00:00	2004-03-18 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	343.0	Other	Other	Settled	171.5	Settle
+46027	2004110766584	2004-09-28 00:00:00	2004-09-11 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checkpoint	102.0	Electronics	DVD/CD Players	Denied	102.0	Deny
+48755	2004122971553	2004-10-29 00:00:00	2004-10-18 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	505.0	Other	Other	Denied	0.0	Deny
+50772	2004122771113	2004-11-26 00:00:00	2004-09-16 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	330.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+52207	2005030777152	2004-12-14 00:00:00	2004-11-26 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checked Baggage	254.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	127.0	Settle
+52531	2005010673045	2004-12-20 00:00:00	2004-11-14 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Jewelry - Fine	Settled	75.0	Settle
+61998	2005042183077	2005-04-19 00:00:00	2005-01-27 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	15.9	Tools & Machines	Locks	Approved	15.9	Approve in Full
+66828	2005062987693	2005-06-23 00:00:00	2004-06-03 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+70600	2005082691621	2005-08-23 00:00:00	2005-08-12 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checkpoint	1000.0	Other	Currency	Denied	0.0	Deny
+75272	2005112396396	2005-11-10 00:00:00	2005-09-17 00:00:00	CRW	Yeager, Charleston		Passenger Property Loss	Checkpoint	48.99	Other	Other	Approved	48.99	Approve in Full
+82502	2006032303633	2006-03-20 00:00:00	2006-03-10 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	143.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	71.5	Settle
+89197	2006080910613	2006-07-31 00:00:00	2006-05-27 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	1840.0	Supplies	Medicines	Denied	0.0	Deny
+91802	2006092213105	2006-09-19 00:00:00	2006-08-27 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	150.0	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+100093	2007022221299	2007-02-16 00:00:00	2007-02-05 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	85.83	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	42.7	Settle
+100956	2007031222122	2007-03-08 00:00:00	2006-09-20 00:00:00	CRW	Yeager, Charleston	Northwest Airlines	Passenger Property Loss	Checked Baggage	750.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+106611	2007071128123	2007-06-29 00:00:00	2007-06-23 00:00:00	CRW	Yeager, Charleston	Northwest Airlines	Passenger Property Loss	Checked Baggage	556.95	Containers,Games & Toys	Luggage (all types including footlockers)*Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+113076	2007110534493	2007-11-01 00:00:00	2007-10-22 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	364.99	Containers,Clothing & Accessories,Cosmetics	Bags - Fabric, plastic, etc. (not purses)*Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+114075	2007112635367	2007-11-23 00:00:00	2007-10-14 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	359.98	Clothing & Accessories,Electronics,Other	Clothing - Shoes, belts, accessories, etc.*Computer - Laptop*Other	Denied	0.0	Deny
+114918	2007121136344	2007-12-10 00:00:00	2007-12-07 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Denied	0.0	Deny
+117415	2008012838697	2008-01-26 00:00:00	2008-01-21 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	1700.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+131488	2008121253382	2008-12-08 00:00:00	2008-11-24 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+131920	2008123053898	2008-12-18 00:00:00	2008-10-31 00:00:00	CRW	Yeager, Charleston	USAir	Passenger Property Loss	Checked Baggage	150.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+137912	2009060559902	2009-06-03 00:00:00	2009-05-26 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	381.5	Containers,Cosmetics	Bags - Fabric, plastic, etc. (not purses)*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+138448	2009061860365	2009-06-16 00:00:00	2009-06-03 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage	326.25	Electronics	MP3 Players-(iPods, etc)	Settled	254.39	Settle
+141609	2009091563692	2009-09-11 00:00:00	2009-06-26 00:00:00	CRW	Yeager, Charleston	Continental Express Inc	Passenger Property Loss	Checked Baggage	420.0	Clothing & Accessories,Cosmetics,Tools & Machines,Containers,Supplies	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Locks*Luggage (all types including footlockers)*Medicines	Denied	0.0	Deny
+162979	2011083086565	2011-08-11 00:00:00	2011-07-28 00:00:00	CRW	Yeager, Charleston	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		106.64	Approve in Full
+174363	2012112098790	2012-09-14 00:00:00	2012-09-07 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		156.74	Settle
+175051	2012111398638	2012-10-12 00:00:00	2012-10-07 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+177970	2013021901550	2013-01-31 00:00:00	2013-01-25 00:00:00	CRW	Yeager, Charleston	UAL	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+188405	2014030412180	2014-03-03 00:00:00	2014-02-23 00:00:00	CRW	Yeager, Charleston	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		175.0	Approve in Full
+189960	2014050713772	2014-04-29 00:00:00	2014-04-02 00:00:00	CRW	Yeager, Charleston	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		35.9	Approve in Full

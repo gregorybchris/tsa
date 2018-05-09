@@ -1,3 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-87319	2006062308494	2006-06-23 00:00:00	2006-06-21 00:00:00	HON	Huron Municipal		Passenger Property Loss	Checked Baggage	120.0	Household Decor	Paintings and Pictures (including frames, etchings, photos, etc)	Settled	60.0	Settle
-115019	2007121436515	2007-12-11 00:00:00	2007-11-25 00:00:00	HON	Huron Municipal	Great Lakes Airline	Passenger Property Loss	Checked Baggage	23.0	Other	Other	Denied	0.0	Deny

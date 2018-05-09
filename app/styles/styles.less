@@ -91,9 +91,6 @@ html, body {
 }
 
 .search-section {
-	display: flex;
-	flex: 1;
-	flex-direction: row;
 	margin-top: 10px;
 	width: 50%;
 
@@ -180,7 +177,12 @@ html, body {
 
 /* ~ ~ ~ ~ Interactive Section ~ ~ ~ ~ */
 
-#map-section, #amounts-section, #dates-section, #claim-section {
+#interactive-right {
+	display: flex;
+	flex-direction: column;
+}
+
+#amounts-section, #dates-section, #claim-section {
 	display: inline-block;
 }
 
@@ -194,10 +196,7 @@ html, body {
 	flex-direction: row;
 }
 
-#map-section {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+#map-svg {
 	flex: 1;
 }
 
@@ -236,15 +235,10 @@ html, body {
 	margin-left: 30px;
 }
 
-.airport-stats > p {
-	font-family: "Open Sans Regular";
-	text-align: center;
-	flex: 1;
-}
-
 .airport-stat {
 	display: flex;
 	flex-direction: row;
+	font-size: 14px;
 }
 
 .airport-stat-description {

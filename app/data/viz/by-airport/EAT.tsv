@@ -1,26 +1,26 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-3298	0305070L	2003-03-05 00:00:00	2003-02-06 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Other	525.0	Other	Settled	262.5	Settle
-89113	2006080110344	2006-07-28 00:00:00	2006-04-21 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	71.16	Containers,Electronics	Settled	35.58	Settle
-102542	2007041123821	2007-04-09 00:00:00	2007-03-13 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.97	Cosmetics	Denied	0.0	Deny
-103093	2007041924257	2007-04-19 00:00:00	2007-02-11 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	121.8	Clothing & Accessories	Denied	0.0	Deny
-104388	2007051725533	2007-05-16 00:00:00	2007-04-29 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	95.29	Tools & Machines	Settled	47.65	Settle
-112315	2007101933709	2007-10-17 00:00:00	2007-09-30 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Denied	0.0	Deny
-113448	2007111635091	2007-11-08 00:00:00	2007-10-24 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	1600.0	Watches & Jewelry	Denied	0.0	Deny
-113932	2007112635393	2007-11-19 00:00:00	2007-11-01 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	454.94	Electronics,Clothing & Accessories	Denied	0.0	Deny
-116048	2008011037676	2008-01-03 00:00:00	2007-12-05 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	631.17	Electronics,Electronics	Denied	0.0	Deny
-123374	2008052944946	2008-05-27 00:00:00	2008-05-23 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Settled	220.0	Settle
-125888	2008072947600	2008-07-23 00:00:00	2008-07-15 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Denied	0.0	Deny
-129101	2008100850929	2008-10-06 00:00:00	2008-09-05 00:00:00	EAT	Pangborn Memorial		Passenger Property Loss	Checked Baggage	95.0	Tools & Machines,Containers	Denied	0.0	Deny
-150076	2010071373613	2010-06-28 00:00:00	2010-05-28 05:30:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-150141	2010071373579	2010-06-29 00:00:00	2010-05-17 06:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
-167068	2012020690712	2012-01-04 00:00:00	2011-12-06 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-169549	2012042493148	2012-03-27 00:00:00	2012-03-20 00:00:00	EAT	Pangborn Memorial		Passenger Property Loss	Checked Baggage		Outdoors Supplies		52.0	Approve in Full
-171266	2012062594897	2012-05-29 00:00:00	2012-05-08 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		42.1	Approve in Full
-175288	2012120499017	2012-10-22 00:00:00	2012-08-29 10:30:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint		Other		130.0	Approve in Full
-175406	2012120799166	2012-10-24 00:00:00	2012-10-05 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-179086	2013032802837	2013-03-13 00:00:00	2012-12-08 14:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		91.97	Approve in Full
-185922	2013120309781	2013-11-26 00:00:00	2013-11-03 16:30:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
-189448	2014041513249	2014-04-09 00:00:00	2014-03-28 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other			
-197610	2015070223636	2015-06-25 00:00:00	2015-06-12 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Other		0.0	Deny
-197611	2015072724225	2015-07-21 00:00:00	2015-07-20 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint		Outdoors Supplies			
-206270	2016101834845	2016-10-13 00:00:00	2016-09-14 00:00:00	EAT	Pangborn Memorial Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry,Scientific Intruments			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+3298	0305070L	2003-03-05 00:00:00	2003-02-06 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Other	525.0	Other	Other	Settled	262.5	Settle
+89113	2006080110344	2006-07-28 00:00:00	2006-04-21 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	71.16	Containers,Electronics	Bags - Fabric, plastic, etc. (not purses)*MP3 Players-(iPods, etc)	Settled	35.58	Settle
+102542	2007041123821	2007-04-09 00:00:00	2007-03-13 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.97	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+103093	2007041924257	2007-04-19 00:00:00	2007-02-11 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	121.8	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+104388	2007051725533	2007-05-16 00:00:00	2007-04-29 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	95.29	Tools & Machines	Barber Supplies - Scissors, shears, elecric razors, etc.	Settled	47.65	Settle
+112315	2007101933709	2007-10-17 00:00:00	2007-09-30 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+113448	2007111635091	2007-11-08 00:00:00	2007-10-24 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	1600.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+113932	2007112635393	2007-11-19 00:00:00	2007-11-01 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	454.94	Electronics,Clothing & Accessories	Cell Phones*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+116048	2008011037676	2008-01-03 00:00:00	2007-12-05 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	631.17	Electronics,Electronics	Cameras - Digital*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+123374	2008052944946	2008-05-27 00:00:00	2008-05-23 00:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	220.0	Settle
+125888	2008072947600	2008-07-23 00:00:00	2008-07-15 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage	70.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+129101	2008100850929	2008-10-06 00:00:00	2008-09-05 00:00:00	EAT	Pangborn Memorial		Passenger Property Loss	Checked Baggage	95.0	Tools & Machines,Containers	Locks*Luggage (all types including footlockers)	Denied	0.0	Deny
+150076	2010071373613	2010-06-28 00:00:00	2010-05-28 05:30:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+150141	2010071373579	2010-06-29 00:00:00	2010-05-17 06:00:00	EAT	Pangborn Memorial	Horizon Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry	Jewelry & Watches*Jewelry & Watches		0.0	Deny
+167068	2012020690712	2012-01-04 00:00:00	2011-12-06 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+169549	2012042493148	2012-03-27 00:00:00	2012-03-20 00:00:00	EAT	Pangborn Memorial		Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		52.0	Approve in Full
+171266	2012062594897	2012-05-29 00:00:00	2012-05-08 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		42.1	Approve in Full
+175288	2012120499017	2012-10-22 00:00:00	2012-08-29 10:30:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint		Other	Other		130.0	Approve in Full
+175406	2012120799166	2012-10-24 00:00:00	2012-10-05 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+179086	2013032802837	2013-03-13 00:00:00	2012-12-08 14:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		91.97	Approve in Full
+185922	2013120309781	2013-11-26 00:00:00	2013-11-03 16:30:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science			
+189448	2014041513249	2014-04-09 00:00:00	2014-03-28 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Other			
+197610	2015070223636	2015-06-25 00:00:00	2015-06-12 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Other	Baggage/Cases/Purses*Other		0.0	Deny
+197611	2015072724225	2015-07-21 00:00:00	2015-07-20 00:00:00	EAT	Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checkpoint		Outdoors Supplies	Hunting & Fishing Items			
+206270	2016101834845	2016-10-13 00:00:00	2016-09-14 00:00:00	EAT	Pangborn Memorial Pangborn Memorial	Alaska Airlines	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry,Scientific Intruments	Baggage/Cases/Purses*Jewelry & Watches*Medical/Science			In Review

@@ -1,9 +1,9 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-49546	2005010572751	2004-11-09 00:00:00	2004-10-02 00:00:00	SGU	St. George Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
-61603	2005041482543	2005-04-12 00:00:00	2005-03-20 00:00:00	SGU	St. George Municipal		Passenger Property Loss	Checked Baggage	209.0	Other	Denied	0.0	Deny
-71567	2005091992694	2005-09-08 00:00:00	2005-08-30 00:00:00	SGU	St. George Municipal	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	75.0	Other	Denied	0.0	Deny
-93807	2006110315144	2006-10-30 00:00:00	2006-09-27 00:00:00	SGU	St. George Municipal	UAL	Passenger Property Loss	Checked Baggage	10.77	Tools & Machines	Approved	10.77	Approve in Full
-116416	2008012338423	2008-01-08 00:00:00	2007-10-30 00:00:00	SGU	St. George Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.87	Office Supplies	Settled	43.43	Settle
-117802	2008020839318	2008-02-04 00:00:00	2008-01-31 00:00:00	SGU	St. George Municipal	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	26.05	Supplies	Denied	0.0	Deny
-193194	2014092617073	2014-09-11 00:00:00	2014-07-24 00:00:00	SGU	St. George Municipal	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
-220122	2017031738028	2017-01-24 00:00:00	2017-01-06 05:30:00	SGU	St. George Municipal St. George Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Automobile & Mechanical			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+49546	2005010572751	2004-11-09 00:00:00	2004-10-02 00:00:00	SGU	St. George Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	75.0	Approve in Full
+61603	2005041482543	2005-04-12 00:00:00	2005-03-20 00:00:00	SGU	St. George Municipal		Passenger Property Loss	Checked Baggage	209.0	Other	Other	Denied	0.0	Deny
+71567	2005091992694	2005-09-08 00:00:00	2005-08-30 00:00:00	SGU	St. George Municipal	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	75.0	Other	Other	Denied	0.0	Deny
+93807	2006110315144	2006-10-30 00:00:00	2006-09-27 00:00:00	SGU	St. George Municipal	UAL	Passenger Property Loss	Checked Baggage	10.77	Tools & Machines	Locks	Approved	10.77	Approve in Full
+116416	2008012338423	2008-01-08 00:00:00	2007-10-30 00:00:00	SGU	St. George Municipal	Northwest Airlines	Passenger Property Loss	Checked Baggage	86.87	Office Supplies	Books - Bibles & Bound classics	Settled	43.43	Settle
+117802	2008020839318	2008-02-04 00:00:00	2008-01-31 00:00:00	SGU	St. George Municipal	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	26.05	Supplies	Medicines	Denied	0.0	Deny
+193194	2014092617073	2014-09-11 00:00:00	2014-07-24 00:00:00	SGU	St. George Municipal	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			
+220122	2017031738028	2017-01-24 00:00:00	2017-01-06 05:30:00	SGU	St. George Municipal St. George Municipal	Delta Air Lines	Passenger Property Loss	Checked Baggage		Automobile & Mechanical	Automobile Parts & Accessories			In Review

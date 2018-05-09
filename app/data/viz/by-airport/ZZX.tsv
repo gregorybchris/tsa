@@ -1,7 +1,7 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-113103	2007110634542	2007-11-01 00:00:00	2007-10-04 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Other	100.0	Other	Denied	0.0	Deny
-120456	2008052244688	2008-03-31 00:00:00	2008-02-27 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Checked Baggage	2420.0	Other	Canceled		
-144492	2009122966870	2009-12-10 00:00:00	2009-07-03 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Motor Vehicle	914.55	Automobile & Mechanical	Approved	914.55	Approve in Full
-145885	2010030168875	2010-02-17 00:00:00	2010-01-02 05:30:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Checkpoint		Watches & Jewelry			
-176249	2013020100831	2012-11-26 00:00:00	2012-11-06 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Motor Vehicle		Other		964.0	Settle
-177943	2013021401457	2013-01-31 00:00:00	2013-01-21 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Other		Other		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+113103	2007110634542	2007-11-01 00:00:00	2007-10-04 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Other	100.0	Other	Currency	Denied	0.0	Deny
+120456	2008052244688	2008-03-31 00:00:00	2008-02-27 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Checked Baggage	2420.0	Other	Currency	Canceled		
+144492	2009122966870	2009-12-10 00:00:00	2009-07-03 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Motor Vehicle	914.55	Automobile & Mechanical	Automobile Parts	Approved	914.55	Approve in Full
+145885	2010030168875	2010-02-17 00:00:00	2010-01-02 05:30:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			
+176249	2013020100831	2012-11-26 00:00:00	2012-11-06 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Motor Vehicle		Other	Other		964.0	Settle
+177943	2013021401457	2013-01-31 00:00:00	2013-01-21 00:00:00	ZZX	Non TSA Airport (motor vehicle)		Passenger Property Loss	Other		Other	Other		0.0	Deny

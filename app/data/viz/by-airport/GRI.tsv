@@ -1,6 +1,6 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-167216	2012021491001	2012-01-09 00:00:00	2011-11-21 12:00:00	GRI	Central Nebraska Regional		Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-171837	2012071895515	2012-06-18 00:00:00	2012-05-24 11:30:00	GRI	Central Nebraska Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-187836	2014021111600	2014-02-07 00:00:00	2014-02-02 00:00:00	GRI	Central Nebraska Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-192399	2014082716260	2014-08-05 00:00:00	2014-06-26 00:00:00	GRI	Central Nebraska Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-206956	2016060332010	2016-05-19 00:00:00	2016-05-09 00:00:00	GRI	Central Nebraska Regional Central Nebraska Regional	Turkish Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+167216	2012021491001	2012-01-09 00:00:00	2011-11-21 12:00:00	GRI	Central Nebraska Regional		Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+171837	2012071895515	2012-06-18 00:00:00	2012-05-24 11:30:00	GRI	Central Nebraska Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+187836	2014021111600	2014-02-07 00:00:00	2014-02-02 00:00:00	GRI	Central Nebraska Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+192399	2014082716260	2014-08-05 00:00:00	2014-06-26 00:00:00	GRI	Central Nebraska Regional	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+206956	2016060332010	2016-05-19 00:00:00	2016-05-09 00:00:00	GRI	Central Nebraska Regional Central Nebraska Regional	Turkish Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny

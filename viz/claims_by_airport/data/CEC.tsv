@@ -1,5 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-98248	2007012319270	2007-01-17 00:00:00	2006-11-30 00:00:00	CEC	Crescent City	UAL	Passenger Property Loss	Checked Baggage	456.0	Electronics	Cameras - Digital	Denied	0.0	Deny
-143794	2009120265962	2009-11-18 00:00:00	2009-10-17 00:00:00	CEC	Crescent City	UAL	Passenger Property Loss	Checked Baggage	163.24	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
-160997	2011062184513	2011-06-09 00:00:00	2011-06-07 00:00:00	CEC	Crescent City	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other	Cameras*Other		0.0	Deny
-185496	2013111309206	2013-11-07 00:00:00	2013-10-14 00:00:00	CEC	Crescent City	UAL	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science			

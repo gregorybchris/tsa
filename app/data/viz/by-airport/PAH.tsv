@@ -1,7 +1,7 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-69286	2005081190379	2005-08-02 00:00:00	2005-06-11 00:00:00	PAH	Barkley Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	10000.0	Watches & Jewelry	Canceled	0.0	
-72589	2005100393687	2005-09-23 00:00:00	2005-09-14 00:00:00	PAH	Barkley Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Tools & Machines	Approved	16.0	Approve in Full
-106002	2007062027251	2007-06-19 00:00:00	2007-06-09 00:00:00	PAH	Barkley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	52.33	Containers	Denied	0.0	Deny
-109586	2007082730942	2007-08-23 00:00:00	2007-07-24 00:00:00	PAH	Barkley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	179.99	Electronics	Denied	0.0	Deny
-142482	2009100864470	2009-10-08 00:00:00	2009-09-13 00:00:00	PAH	Barkley Regional Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	308.0	Electronics,Other	Closed as a contractor claim	0.0	
-218849	2017090142731	2017-07-19 00:00:00	2017-07-02 00:00:00	PAH	Barkley Regional Airport Barkley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+69286	2005081190379	2005-08-02 00:00:00	2005-06-11 00:00:00	PAH	Barkley Regional Airport	Northwest Airlines	Passenger Property Loss	Checkpoint	10000.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+72589	2005100393687	2005-09-23 00:00:00	2005-09-14 00:00:00	PAH	Barkley Regional Airport	American Airlines	Passenger Property Loss	Checked Baggage	16.0	Tools & Machines	Locks	Approved	16.0	Approve in Full
+106002	2007062027251	2007-06-19 00:00:00	2007-06-09 00:00:00	PAH	Barkley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	52.33	Containers	Boxes - Jewelry, Cigarette, Music, etc.	Denied	0.0	Deny
+109586	2007082730942	2007-08-23 00:00:00	2007-07-24 00:00:00	PAH	Barkley Regional Airport	Northwest Airlines	Passenger Property Loss	Checked Baggage	179.99	Electronics	Cameras - Digital	Denied	0.0	Deny
+142482	2009100864470	2009-10-08 00:00:00	2009-09-13 00:00:00	PAH	Barkley Regional Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	308.0	Electronics,Other	Cameras - Digital*Other	Closed as a contractor claim	0.0	
+218849	2017090142731	2017-07-19 00:00:00	2017-07-02 00:00:00	PAH	Barkley Regional Airport Barkley Regional Airport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			In Review

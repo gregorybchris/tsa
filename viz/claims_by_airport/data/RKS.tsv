@@ -1,7 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-127273	2008082148957	2008-08-21 00:00:00	2008-08-08 00:00:00	RKS	Rock Springs-Sweetwater County	Delta Air Lines	Passenger Property Loss	Checkpoint	190.0	Other	Other	Settled	135.0	Settle
-127667	2008090449446	2008-09-02 00:00:00	2008-08-03 00:00:00	RKS	Rock Springs-Sweetwater County	Delta Air Lines	Passenger Property Loss	Checked Baggage	430.0	Electronics	Cameras - Digital	Denied	0.0	Deny
-129162	2008100950944	2008-10-07 00:00:00	2008-08-28 00:00:00	RKS	Rock Springs-Sweetwater County	UAL	Passenger Property Loss	Checked Baggage	304.0	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
-140172	2009072261608	2009-07-31 00:00:00	2009-06-28 00:00:00	RKS	Rock Springs-Sweetwater County	Delta Air Lines	Passenger Property Loss	Checked Baggage	159.0	Other	Other	Denied	0.0	Deny
-148349	2010050571532	2010-05-04 00:00:00	2010-04-08 00:00:00	RKS	Rock Springs-Sweetwater County	UAL	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
-151923	2010082475284	2010-08-19 00:00:00	2010-08-11 22:00:00	RKS	Rock Springs-Sweetwater County	Continental Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		0.0	Deny

@@ -1,5 +1,0 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
-13074	0813127M	2003-08-13 00:00:00	2003-08-02 00:00:00	DLG	Dillingham	Alaska Airlines	Passenger Property Loss	Checked Baggage	106.95	Other	Other	Approved	106.95	Approve in Full
-45043	2004092263587	2004-09-16 00:00:00	2004-07-05 00:00:00	DLG	Dillingham	Alaska Airlines	Passenger Property Loss	Checked Baggage	5239.0	Other	Other	Denied	0.0	Deny
-90666	2006090812277	2006-08-28 00:00:00	2006-07-05 00:00:00	DLG	Dillingham	Alaska Airlines	Passenger Property Loss	Checked Baggage	360.0	Scientific Intruments	Medical Equipment & Insturments	Denied	0.0	Deny
-152424	2010090875767	2010-09-02 00:00:00	2010-08-13 00:00:00	DLG	Dillingham	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny

@@ -1,2 +1,2 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-138444	2009062360524	2009-06-16 00:00:00	2009-05-27 00:00:00	SLN	Salina Municipal Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	2860.0	Watches & Jewelry	Denied	0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+138444	2009062360524	2009-06-16 00:00:00	2009-05-27 00:00:00	SLN	Salina Municipal Airport	Delta Air Lines	Passenger Property Loss	Checkpoint	2860.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny

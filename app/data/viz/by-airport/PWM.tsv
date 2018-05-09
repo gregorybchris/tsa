@@ -1,149 +1,149 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-309	18982	2002-11-20 00:00:00	2002-09-25 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	30.0	Other	Approved	30.0	Approve in Full
-3468	0311055L	2003-03-11 00:00:00	2003-02-16 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Denied	0.0	Deny
-4972	0410033L	2003-04-10 00:00:00	2003-03-22 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage	399.99	Electronics	Settled	200.0	Settle
-18355	1021227M	2003-10-21 00:00:00	2003-08-19 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	35.9	Other	Denied	0.0	Deny
-18914	1022207M	2003-10-22 00:00:00	2003-09-28 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Theft	Checked Baggage	189.19	Other	Settled	79.75	Settle
-18984	1022406M	2003-10-22 00:00:00	2003-09-28 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Settled	125.0	Settle
-21799	1205014M	2003-12-05 00:00:00	2003-09-09 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-23813	0105285M	2004-01-05 00:00:00	2003-10-26 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Other	250.0	Clothing & Accessories	Denied	0.0	Deny
-25089	0114318M	2004-01-14 00:00:00	2003-12-28 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Cosmetics	Settled	35.0	Settle
-26775	2004080960733	2004-02-03 00:00:00	2003-12-26 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	0.0	Other	Canceled	0.0	
-31117	2004051251462	2004-03-24 00:00:00	2004-02-28 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	221.96	Watches & Jewelry	Approved	221.96	Approve in Full
-31419	2004051351931	2004-03-24 00:00:00	2003-12-23 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	203.25	Cosmetics,Containers	Settled	101.63	Settle
-35786	2004062657430	2004-05-25 00:00:00	2004-05-13 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	89.0	Other	Settled	44.5	Settle
-36222	2004061856340	2004-05-27 00:00:00	2004-05-04 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	800.0	Clothing & Accessories	Denied	0.0	Deny
-38989	2004071459322	2004-06-29 00:00:00	2004-06-23 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	70.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-39580	2004081161123	2004-07-09 00:00:00	2004-06-29 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Theft	Checked Baggage	27.19	Other	Approved	27.19	Approve in Full
-41203	2004082761470	2004-07-27 00:00:00	2004-07-05 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	250.0	Other	Settled	50.0	Settle
-44068	2004100764816	2004-09-09 00:00:00	2004-07-28 00:00:00	PWM	Portland International Jetport	Frontier Airlines	Passenger Property Loss	Checked Baggage	7.5	Other	Approved	7.5	Approve in Full
-47125	2004112467822	2004-10-12 00:00:00	2004-09-20 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage	30.67	Other	Denied	0.0	Deny
-47307	2004120168102	2004-10-14 00:00:00	2004-10-04 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checkpoint	105.96	Electronics	Denied	0.0	Deny
-49642	2004123071864	2004-11-09 00:00:00	2004-10-07 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Denied	0.0	Deny
-51407	2004122270502	2004-12-07 00:00:00	2004-11-27 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	573.0	Watches & Jewelry	Denied	0.0	Deny
-53859	2005012674394	2005-01-07 00:00:00	2004-12-28 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	230.0	Electronics	Settled	212.26	Settle
-54355	2005012874781	2005-01-12 00:00:00	2005-01-04 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	20.0	Other	Approved	20.0	Approve in Full
-57368	2005031578222	2005-02-16 00:00:00	2005-02-11 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	164.27	Clothing & Accessories	Canceled	0.0	
-59760	2005033080637	2005-03-22 00:00:00	2005-02-26 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	965.25	Electronics	Denied	0.0	Deny
-63846	2005051784850	2005-05-13 00:00:00	2005-03-20 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	44.0	Other	Approved	44.0	Approve in Full
-63860	2005051684685	2005-05-13 00:00:00	2005-03-28 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	75.15	Other	Denied	0.0	Deny
-66386	2005062787401	2005-06-17 00:00:00	2005-06-11 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	44.85	Other	Approved	44.85	Approve in Full
-66584	2005062887589	2005-06-21 00:00:00	2005-05-23 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	14.99	Clothing & Accessories	Approved	14.99	Approve in Full
-66843	2005062987707	2005-06-24 00:00:00	2005-05-25 00:00:00	PWM	Portland International Jetport	US Express	Passenger Property Loss	Checked Baggage	7.18	Tools & Machines	Approved	7.18	Approve in Full
-67920	2005071388839	2005-07-13 00:00:00	2005-06-28 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checkpoint	41.99	Watches & Jewelry	Denied	0.0	Deny
-68071	2005071589033	2005-07-14 00:00:00	2005-05-11 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	27.0	Other	Approved	27.0	Approve in Full
-68822	2005080890215	2005-07-26 00:00:00	2005-06-21 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-69175	2005080890142	2005-08-01 00:00:00	2005-07-05 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	659.61	Electronics	Denied	0.0	Deny
-69195	2005080990274	2005-08-01 00:00:00	2005-05-27 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	325.33	Electronics	Denied	0.0	Deny
-70825	2005083091887	2005-08-25 00:00:00	2005-08-16 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.18	Other	Canceled	0.0	
-71344	2005091492420	2005-09-06 00:00:00	2005-08-01 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.67	Tools & Machines	Approved	8.67	Approve in Full
-72868	2005100493956	2005-09-27 00:00:00	2005-09-12 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-73177	2005110395565	2005-10-04 00:00:00	2005-09-21 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	14.99	Tools & Machines	Approved	14.99	Approve in Full
-73623	2005101794715	2005-10-12 00:00:00	2005-09-16 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	264.46	Cosmetics	Denied	0.0	Deny
-74036	2005102595153	2005-10-18 00:00:00	2005-09-18 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	62.0	Other	Denied	0.0	Deny
-77164	2005122198225	2005-12-15 00:00:00	2005-11-29 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.99	Other	Denied	0.0	Deny
-79509	2006013000540	2006-01-24 00:00:00	2006-01-05 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	238.95	Other	Settled	200.0	Settle
-84253	2006050205603	2006-04-24 00:00:00	2006-04-15 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	548.0	Electronics	Denied	0.0	Deny
-84857	2006051105907	2006-05-05 00:00:00	2006-04-23 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.0	Office Supplies	Canceled	0.0	
-88711	2006072409978	2006-07-20 00:00:00	2006-07-06 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	5000.0	Electronics	Denied	0.0	Deny
-92082	2006092813448	2006-09-25 00:00:00	2006-08-28 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	174.96	Other,Other	Canceled	0.0	
-92890	2006101614001	2006-10-11 00:00:00	2006-08-17 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	125.0	Other	Settled	62.5	Settle
-94080	2006110915383	2006-11-03 00:00:00	2006-10-11 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	96.0	Supplies	Approved	96.0	Approve in Full
-95182	2006120616745	2006-11-27 00:00:00	2006-11-17 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	10.93	Tools & Machines	Approved	10.93	Approve in Full
-98474	2007013019832	2007-01-22 00:00:00	2006-12-19 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	10.5	Tools & Machines	Approved	10.5	Approve in Full
-99350	2007020820507	2007-02-05 00:00:00	2006-11-08 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checkpoint	204.76	Supplies	Denied	0.0	Deny
-99512	2007021220796	2007-02-06 00:00:00	2007-02-03 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	188.0	Clothing & Accessories	Settled	98.88	Settle
-103204	2007042324365	2007-04-21 00:00:00	2007-02-19 00:00:00	PWM	Portland International Jetport	US Express	Passenger Property Loss	Checkpoint	2600.0	Watches & Jewelry	Denied	0.0	Deny
-105677	2007061426926	2007-06-11 00:00:00	2007-05-04 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	365.96	Electronics,Electronics,Other	Settled	315.96	Settle
-107003	2007071328288	2007-07-09 00:00:00	2007-06-20 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Electronics	Denied	0.0	Deny
-108377	2007080629705	2007-08-02 00:00:00	2007-07-17 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	900.0	Other	Denied	0.0	Deny
-108459	2007080629653	2007-08-03 00:00:00	2007-07-24 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	79.0	Other	Denied	0.0	Deny
-108653	2007080929950	2007-08-07 00:00:00	2007-06-22 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	760.29	Electronics,Clothing & Accessories	Denied	0.0	Deny
-108682	2007081030098	2007-08-07 00:00:00	2007-07-28 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	550.99	Watches & Jewelry,Tools & Machines,Electronics	Denied	0.0	Deny
-109255	2007082130606	2007-08-20 00:00:00	2007-07-25 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	854.93	Watches & Jewelry	Approved	854.93	Approve in Full
-109956	2007083131234	2007-08-30 00:00:00	2007-08-18 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	650.0	Electronics,Electronics,Clothing & Accessories	Denied	0.0	Deny
-111362	2007092832740	2007-09-27 00:00:00	2007-09-18 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Denied	0.0	Deny
-111596	2007100433009	2007-10-02 00:00:00	2007-09-30 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	576.55	Watches & Jewelry	Denied	0.0	Deny
-114152	2007112735496	2007-11-26 00:00:00	2007-11-10 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	660.93	Electronics	Denied	0.0	Deny
-114697	2007120636129	2007-12-04 00:00:00	2007-11-13 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	189.0	Other	Denied	0.0	Deny
-115426	2007122636899	2007-12-19 00:00:00	2007-12-11 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	6.29	Tools & Machines	Denied	0.0	Deny
-115956	2008010737421	2008-01-02 00:00:00	2007-12-26 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	303.49	Electronics,Electronics	Denied	0.0	Deny
-118066	2008022039812	2008-02-08 00:00:00	2008-01-19 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	3500.0	Watches & Jewelry	Denied	0.0	Deny
-119384	2008031741092	2008-03-07 00:00:00	2008-02-16 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checkpoint	90.0	Watches & Jewelry	Denied	0.0	Deny
-120386	2008050643900	2008-03-27 00:00:00	2008-03-18 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	405.47	Electronics,Electronics,Tools & Machines	Denied	0.0	Deny
-121306	2008042143007	2008-04-14 00:00:00	2008-04-03 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	139.12	Other,Electronics	Denied	0.0	Deny
-126247	2008080648059	2008-07-30 00:00:00	2008-07-02 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checkpoint	6000.0	Watches & Jewelry	Denied	0.0	Deny
-127264	2008090249305	2008-08-21 00:00:00	2008-07-24 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	995.0	Watches & Jewelry	Denied	0.0	Deny
-127971	2008091249822	2008-09-08 00:00:00	2008-08-03 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	269.98	Electronics	Denied	0.0	Deny
-128362	2008092450349	2008-09-16 00:00:00	2008-07-10 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	144.45	Watches & Jewelry	Denied	0.0	Deny
-129300	2008101551165	2008-10-09 00:00:00	2008-08-22 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	225.0	Household Items	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-129309	2008091549919	2008-10-10 00:00:00	2008-08-18 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	23.5	Other	Denied	0.0	Deny
-129839	2008110351697	2008-10-24 00:00:00	2008-09-14 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	272.0	Clothing & Accessories	Canceled	0.0	
-131262	2008110651998	2008-12-02 00:00:00	2008-09-16 00:00:00	PWM	Portland International Jetport	Air Tran Airlines(do not use)	Passenger Property Loss	Checkpoint	396.97	Electronics	Denied	0.0	Deny
-132433	2009010854234	2009-01-05 00:00:00	2008-12-23 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	600.0	Other	Denied	0.0	Deny
-134890	2009032056669	2009-03-10 00:00:00	2009-02-22 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checkpoint	1900.0	Watches & Jewelry	Denied	0.0	Deny
-135578	2009041557550	2009-03-27 00:00:00	2009-01-12 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	325.0	Electronics	Denied	0.0	Deny
-136438	2009050758431	2009-04-21 00:00:00	2009-01-11 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	370.0	Clothing & Accessories	Denied	0.0	Deny
-138869	2009070660861	2009-06-29 00:00:00	2009-06-15 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.5	Electronics	Denied	0.0	Deny
-139602	2009072261629	2009-07-16 00:00:00	2008-11-14 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	24000.0	Watches & Jewelry	Denied	0.0	Deny
-139685	2009072361644	2009-07-20 00:00:00	2009-07-06 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Games & Toys	Denied	0.0	Deny
-139819	2009072861838	2009-07-22 00:00:00	2009-06-19 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	139.64	Cosmetics	Denied	0.0	Deny
-141704	2009091463624	2009-09-14 00:00:00	2009-08-16 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	314.99	Clothing & Accessories	Settled	195.0	Settle
-141802	2009092263912	2009-09-16 00:00:00	2009-08-15 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checkpoint	50.0	Scientific Intruments	Denied	0.0	Deny
-142765	2009102764796	2009-10-19 00:00:00	2009-10-05 05:30:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-143840	2009120165886	2009-11-19 00:00:00	2009-10-28 14:45:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
-144133	2009120966299	2009-12-01 00:00:00	2009-11-12 05:30:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage	57.75	Household Items	Approved	57.75	Approve in Full
-145236	2010012267765	2010-01-14 00:00:00	2010-01-01 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics,Electronics,Electronics		0.0	Deny
-145719	2010022068596	2010-02-12 00:00:00	2010-01-16 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Household Items		0.0	Deny
-152288	2010090775709	2010-08-30 00:00:00	2010-08-18 05:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-152682	2010091676067	2010-09-10 00:00:00	2010-07-06 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-154336	2010111277787	2010-11-02 00:00:00	2010-10-04 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-154538	2010112278078	2010-11-08 00:00:00	2010-11-03 07:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Watches & Jewelry			
-154819	2010112678164	2010-11-17 00:00:00	2010-11-13 16:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint		Household Items		0.0	Deny
-154929	2010113078345	2010-11-22 00:00:00	2010-11-15 06:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-158008	2011033081497	2011-03-03 00:00:00	2011-02-19 11:45:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-159627	2011042783035	2011-04-26 00:00:00	2011-04-22 11:30:00	PWM	Portland International Jetport		Passenger Property Loss	Checkpoint		Scientific Intruments		0.0	Deny
-160195	2011050283137	2011-05-16 00:00:00	2011-04-18 07:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Other,Other		0.0	Deny
-160490	2011060384005	2011-05-24 00:00:00	2011-05-15 09:15:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-162462	2011081686169	2011-07-26 00:00:00	2011-07-24 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-165335	2011111088890	2011-10-31 00:00:00	2011-10-03 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-165412	2011111589011	2011-11-02 00:00:00	2011-10-15 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-165561	2011111789105	2011-11-08 00:00:00	2011-03-11 06:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-165841	2011120689376	2011-11-17 00:00:00	2011-10-19 11:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics		100.66	Settle
-166300	2012010590015	2011-12-05 00:00:00	2011-10-19 11:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics			
-166685	2012011990249	2011-12-20 00:00:00	2011-11-16 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-167694	2012022891349	2012-01-23 00:00:00	2011-12-01 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Other		94.5	Approve in Full
-167866	2012030691530	2012-01-26 00:00:00	2012-01-03 00:00:00	PWM	Portland International Jetport	Air Canada	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-168026	2012031491709	2012-01-31 00:00:00	2012-01-15 15:34:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		65.0	Approve in Full
-168725	2012040292364	2012-02-27 00:00:00	2012-01-25 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-170505	2012052294137	2012-05-01 00:00:00	2012-04-16 00:00:00	PWM	Portland International Jetport	Delta (Song)	Passenger Property Loss	Checked Baggage		Household Items		0.0	Deny
-172619	2012082996368	2012-07-16 00:00:00	2012-06-27 10:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-174409	2012102598137	2012-09-17 00:00:00	2012-09-12 10:40:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other,Other		0.0	Deny
-174977	2012110898484	2012-10-09 00:00:00	2012-05-23 11:31:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-175034	2012112198808	2012-10-11 00:00:00	2012-08-24 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-177345	2013020100868	2013-01-11 00:00:00	2012-12-27 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other		28.0	Approve in Full
-179094	2013032802853	2013-03-13 00:00:00	2013-02-15 06:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-179639	2013042403322	2013-04-05 00:00:00	2013-03-22 12:30:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-181291	2013071005129	2013-06-07 00:00:00	2013-05-27 07:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checkpoint		Scientific Intruments		130.13	Approve in Full
-183239	2013102507864	2013-08-12 00:00:00	2013-07-29 07:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Other			
-183339	2013092407276	2013-08-15 00:00:00	2013-07-24 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories,Electronics		0.0	Deny
-183938	2013111209113	2013-09-04 00:00:00	2013-07-31 00:00:00	PWM	Portland International Jetport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			
-184361	2013103008318	2013-09-19 00:00:00	2013-09-17 12:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics			
-184909	2013110808983	2013-10-17 00:00:00	2013-09-15 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics			
-185712	2013111909526	2013-11-15 00:00:00	2013-10-16 05:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-187084	2014011410829	2014-01-09 00:00:00	2014-01-06 00:00:00	PWM	Portland International Jetport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-188903	2014032412695	2014-03-18 00:00:00	2014-02-22 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-189784	2014042913593	2014-04-25 00:00:00	2014-01-30 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other			
-190375	2014052714192	2014-05-20 00:00:00	2014-04-16 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-190572	2014060314393	2014-05-30 00:00:00	2014-05-02 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-190573	2014060314394	2014-05-30 00:00:00	2014-05-02 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-190890	2014061814717	2014-06-10 00:00:00	2014-05-19 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
-193658	2014100917544	2014-09-26 00:00:00	2014-09-18 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		570.46	Settle
-202799	2015021320562	2015-02-11 00:00:00	2014-11-28 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies		0.0	Deny
-202805	2015080524588	2015-07-28 00:00:00	2015-07-05 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry		0.0	Deny
-202808	2015091525350	2015-08-28 00:00:00	2015-06-27 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories		125.0	Settle
-211192	2016020428726	2016-01-19 00:00:00	2016-01-15 10:30:00	PWM	Portland International Jetport Portland International Jetport		Passenger Property Loss	Checked Baggage		Cosmetics		13.1	Closed:Canceled
-211194	2016050631138	2016-04-20 00:00:00	2016-03-22 09:55:00	PWM	Portland International Jetport   Southwest Airlines Portland International Jetport   Southwest Airlines		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-211195	2017012736960	2016-12-03 00:00:00	2016-11-21 00:00:00	PWM	Portland International Jetport Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			In Review
-219457	2017072541815	2017-06-14 00:00:00	2017-06-05 00:00:00	PWM	Portland International Jetport Portland International Jetport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			In Review
-219462	2017092143372	2017-08-30 00:00:00	2017-08-19 17:47:00	PWM	Portland International Jetport Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+309	18982	2002-11-20 00:00:00	2002-09-25 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	30.0	Other	Other	Approved	30.0	Approve in Full
+3468	0311055L	2003-03-11 00:00:00	2003-02-16 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage	30.0	Tools & Machines	Locks	Denied	0.0	Deny
+4972	0410033L	2003-04-10 00:00:00	2003-03-22 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage	399.99	Electronics	Stereo Items & Accessories	Settled	200.0	Settle
+18355	1021227M	2003-10-21 00:00:00	2003-08-19 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	35.9	Other	Other	Denied	0.0	Deny
+18914	1022207M	2003-10-22 00:00:00	2003-09-28 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Theft	Checked Baggage	189.19	Other	Other	Settled	79.75	Settle
+18984	1022406M	2003-10-22 00:00:00	2003-09-28 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	125.0	Settle
+21799	1205014M	2003-12-05 00:00:00	2003-09-09 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+23813	0105285M	2004-01-05 00:00:00	2003-10-26 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Other	250.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+25089	0114318M	2004-01-14 00:00:00	2003-12-28 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	35.0	Settle
+26775	2004080960733	2004-02-03 00:00:00	2003-12-26 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	0.0	Other	Other	Canceled	0.0	
+31117	2004051251462	2004-03-24 00:00:00	2004-02-28 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	221.96	Watches & Jewelry	Jewelry - Fine	Approved	221.96	Approve in Full
+31419	2004051351931	2004-03-24 00:00:00	2003-12-23 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	203.25	Cosmetics,Containers	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Luggage (all types including footlockers)	Settled	101.63	Settle
+35786	2004062657430	2004-05-25 00:00:00	2004-05-13 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	89.0	Other	Other	Settled	44.5	Settle
+36222	2004061856340	2004-05-27 00:00:00	2004-05-04 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	800.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+38989	2004071459322	2004-06-29 00:00:00	2004-06-23 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	70.0	Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+39580	2004081161123	2004-07-09 00:00:00	2004-06-29 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Theft	Checked Baggage	27.19	Other	Other	Approved	27.19	Approve in Full
+41203	2004082761470	2004-07-27 00:00:00	2004-07-05 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	250.0	Other	Other	Settled	50.0	Settle
+44068	2004100764816	2004-09-09 00:00:00	2004-07-28 00:00:00	PWM	Portland International Jetport	Frontier Airlines	Passenger Property Loss	Checked Baggage	7.5	Other	Other	Approved	7.5	Approve in Full
+47125	2004112467822	2004-10-12 00:00:00	2004-09-20 00:00:00	PWM	Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage	30.67	Other	Other	Denied	0.0	Deny
+47307	2004120168102	2004-10-14 00:00:00	2004-10-04 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checkpoint	105.96	Electronics	Cell Phones	Denied	0.0	Deny
+49642	2004123071864	2004-11-09 00:00:00	2004-10-07 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	500.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+51407	2004122270502	2004-12-07 00:00:00	2004-11-27 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	573.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+53859	2005012674394	2005-01-07 00:00:00	2004-12-28 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	230.0	Electronics	Cameras - Digital	Settled	212.26	Settle
+54355	2005012874781	2005-01-12 00:00:00	2005-01-04 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	20.0	Other	Other	Approved	20.0	Approve in Full
+57368	2005031578222	2005-02-16 00:00:00	2005-02-11 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	164.27	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+59760	2005033080637	2005-03-22 00:00:00	2005-02-26 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	965.25	Electronics	Computer - Laptop	Denied	0.0	Deny
+63846	2005051784850	2005-05-13 00:00:00	2005-03-20 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	44.0	Other	Other	Approved	44.0	Approve in Full
+63860	2005051684685	2005-05-13 00:00:00	2005-03-28 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	75.15	Other	Other	Denied	0.0	Deny
+66386	2005062787401	2005-06-17 00:00:00	2005-06-11 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	44.85	Other	Other	Approved	44.85	Approve in Full
+66584	2005062887589	2005-06-21 00:00:00	2005-05-23 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	14.99	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	14.99	Approve in Full
+66843	2005062987707	2005-06-24 00:00:00	2005-05-25 00:00:00	PWM	Portland International Jetport	US Express	Passenger Property Loss	Checked Baggage	7.18	Tools & Machines	Locks	Approved	7.18	Approve in Full
+67920	2005071388839	2005-07-13 00:00:00	2005-06-28 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checkpoint	41.99	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+68071	2005071589033	2005-07-14 00:00:00	2005-05-11 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	27.0	Other	Other	Approved	27.0	Approve in Full
+68822	2005080890215	2005-07-26 00:00:00	2005-06-21 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+69175	2005080890142	2005-08-01 00:00:00	2005-07-05 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	659.61	Electronics	Stereo Items & Accessories	Denied	0.0	Deny
+69195	2005080990274	2005-08-01 00:00:00	2005-05-27 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	325.33	Electronics	Cameras - Digital	Denied	0.0	Deny
+70825	2005083091887	2005-08-25 00:00:00	2005-08-16 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	39.18	Other	Other	Canceled	0.0	
+71344	2005091492420	2005-09-06 00:00:00	2005-08-01 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	8.67	Tools & Machines	Locks	Approved	8.67	Approve in Full
+72868	2005100493956	2005-09-27 00:00:00	2005-09-12 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Other	Currency	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+73177	2005110395565	2005-10-04 00:00:00	2005-09-21 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	14.99	Tools & Machines	Locks	Approved	14.99	Approve in Full
+73623	2005101794715	2005-10-12 00:00:00	2005-09-16 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	264.46	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+74036	2005102595153	2005-10-18 00:00:00	2005-09-18 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	62.0	Other	Other	Denied	0.0	Deny
+77164	2005122198225	2005-12-15 00:00:00	2005-11-29 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	30.99	Other	Other	Denied	0.0	Deny
+79509	2006013000540	2006-01-24 00:00:00	2006-01-05 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	238.95	Other	Other	Settled	200.0	Settle
+84253	2006050205603	2006-04-24 00:00:00	2006-04-15 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	548.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+84857	2006051105907	2006-05-05 00:00:00	2006-04-23 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	21.0	Office Supplies	Books - Reference books, cookbooks, etc.	Canceled	0.0	
+88711	2006072409978	2006-07-20 00:00:00	2006-07-06 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checked Baggage	5000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+92082	2006092813448	2006-09-25 00:00:00	2006-08-28 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	174.96	Other,Other	Other*Other	Canceled	0.0	
+92890	2006101614001	2006-10-11 00:00:00	2006-08-17 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	125.0	Other	Other	Settled	62.5	Settle
+94080	2006110915383	2006-11-03 00:00:00	2006-10-11 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	96.0	Supplies	Medicines	Approved	96.0	Approve in Full
+95182	2006120616745	2006-11-27 00:00:00	2006-11-17 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	10.93	Tools & Machines	Locks	Approved	10.93	Approve in Full
+98474	2007013019832	2007-01-22 00:00:00	2006-12-19 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	10.5	Tools & Machines	Locks	Approved	10.5	Approve in Full
+99350	2007020820507	2007-02-05 00:00:00	2006-11-08 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checkpoint	204.76	Supplies	Medicines	Denied	0.0	Deny
+99512	2007021220796	2007-02-06 00:00:00	2007-02-03 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	188.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	98.88	Settle
+103204	2007042324365	2007-04-21 00:00:00	2007-02-19 00:00:00	PWM	Portland International Jetport	US Express	Passenger Property Loss	Checkpoint	2600.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+105677	2007061426926	2007-06-11 00:00:00	2007-05-04 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	365.96	Electronics,Electronics,Other	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Settled	315.96	Settle
+107003	2007071328288	2007-07-09 00:00:00	2007-06-20 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	100.0	Electronics	PDA - Personal Data Assistants	Denied	0.0	Deny
+108377	2007080629705	2007-08-02 00:00:00	2007-07-17 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	900.0	Other	Currency	Denied	0.0	Deny
+108459	2007080629653	2007-08-03 00:00:00	2007-07-24 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage	79.0	Other	Other	Denied	0.0	Deny
+108653	2007080929950	2007-08-07 00:00:00	2007-06-22 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	760.29	Electronics,Clothing & Accessories	Cameras - Digital*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+108682	2007081030098	2007-08-07 00:00:00	2007-07-28 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	550.99	Watches & Jewelry,Tools & Machines,Electronics	Jewelry - Fine*Locks*PDA - Personal Data Assistants	Denied	0.0	Deny
+109255	2007082130606	2007-08-20 00:00:00	2007-07-25 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint	854.93	Watches & Jewelry	Jewelry - Fine	Approved	854.93	Approve in Full
+109956	2007083131234	2007-08-30 00:00:00	2007-08-18 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	650.0	Electronics,Electronics,Clothing & Accessories	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+111362	2007092832740	2007-09-27 00:00:00	2007-09-18 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	7.99	Tools & Machines	Locks	Denied	0.0	Deny
+111596	2007100433009	2007-10-02 00:00:00	2007-09-30 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	576.55	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+114152	2007112735496	2007-11-26 00:00:00	2007-11-10 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	660.93	Electronics	Computer - Laptop	Denied	0.0	Deny
+114697	2007120636129	2007-12-04 00:00:00	2007-11-13 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	189.0	Other	Other	Denied	0.0	Deny
+115426	2007122636899	2007-12-19 00:00:00	2007-12-11 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	6.29	Tools & Machines	Locks	Denied	0.0	Deny
+115956	2008010737421	2008-01-02 00:00:00	2007-12-26 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	303.49	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+118066	2008022039812	2008-02-08 00:00:00	2008-01-19 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	3500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+119384	2008031741092	2008-03-07 00:00:00	2008-02-16 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checkpoint	90.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+120386	2008050643900	2008-03-27 00:00:00	2008-03-18 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	405.47	Electronics,Electronics,Tools & Machines	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Locks	Denied	0.0	Deny
+121306	2008042143007	2008-04-14 00:00:00	2008-04-03 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	139.12	Other,Electronics	Currency*MP3 Players-(iPods, etc)	Denied	0.0	Deny
+126247	2008080648059	2008-07-30 00:00:00	2008-07-02 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checkpoint	6000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+127264	2008090249305	2008-08-21 00:00:00	2008-07-24 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	995.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+127971	2008091249822	2008-09-08 00:00:00	2008-08-03 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	269.98	Electronics	Cameras - Digital	Denied	0.0	Deny
+128362	2008092450349	2008-09-16 00:00:00	2008-07-10 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	144.45	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+129300	2008101551165	2008-10-09 00:00:00	2008-08-22 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	225.0	Household Items	Kitchen Utensils -Pots, Pans, Knives (heavy aluminum, cast iron, etc.)	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+129309	2008091549919	2008-10-10 00:00:00	2008-08-18 00:00:00	PWM	Portland International Jetport	Northwest Airlines	Passenger Property Loss	Checked Baggage	23.5	Other	Other	Denied	0.0	Deny
+129839	2008110351697	2008-10-24 00:00:00	2008-09-14 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	272.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+131262	2008110651998	2008-12-02 00:00:00	2008-09-16 00:00:00	PWM	Portland International Jetport	Air Tran Airlines(do not use)	Passenger Property Loss	Checkpoint	396.97	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+132433	2009010854234	2009-01-05 00:00:00	2008-12-23 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	600.0	Other	Currency	Denied	0.0	Deny
+134890	2009032056669	2009-03-10 00:00:00	2009-02-22 00:00:00	PWM	Portland International Jetport		Passenger Property Loss	Checkpoint	1900.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+135578	2009041557550	2009-03-27 00:00:00	2009-01-12 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	325.0	Electronics	Stereo Items & Accessories	Denied	0.0	Deny
+136438	2009050758431	2009-04-21 00:00:00	2009-01-11 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage	370.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+138869	2009070660861	2009-06-29 00:00:00	2009-06-15 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	62.5	Electronics	Flashlights	Denied	0.0	Deny
+139602	2009072261629	2009-07-16 00:00:00	2008-11-14 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint	24000.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+139685	2009072361644	2009-07-20 00:00:00	2009-07-06 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage	50.0	Games & Toys	Stuffed Animals	Denied	0.0	Deny
+139819	2009072861838	2009-07-22 00:00:00	2009-06-19 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	139.64	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+141704	2009091463624	2009-09-14 00:00:00	2009-08-16 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage	314.99	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	195.0	Settle
+141802	2009092263912	2009-09-16 00:00:00	2009-08-15 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checkpoint	50.0	Scientific Intruments	Microscopes & Telescopes - Inexpensive $100 or less	Denied	0.0	Deny
+142765	2009102764796	2009-10-19 00:00:00	2009-10-05 05:30:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+143840	2009120165886	2009-11-19 00:00:00	2009-10-28 14:45:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Denied	0.0	Deny
+144133	2009120966299	2009-12-01 00:00:00	2009-11-12 05:30:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage	57.75	Household Items	Dishes, Pottery, Glassware, Plasticware	Approved	57.75	Approve in Full
+145236	2010012267765	2010-01-14 00:00:00	2010-01-01 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics,Electronics,Electronics,Electronics	Cameras*Computer & Accessories*Computer & Accessories*Personal Electronics*Personal Electronics		0.0	Deny
+145719	2010022068596	2010-02-12 00:00:00	2010-01-16 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Household Items	Clothing*Household Items		0.0	Deny
+152288	2010090775709	2010-08-30 00:00:00	2010-08-18 05:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+152682	2010091676067	2010-09-10 00:00:00	2010-07-06 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+154336	2010111277787	2010-11-02 00:00:00	2010-10-04 00:00:00	PWM	Portland International Jetport	AirTran Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+154538	2010112278078	2010-11-08 00:00:00	2010-11-03 07:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Containers,Cosmetics,Watches & Jewelry	Baggage/Cases/Purses*Cosmetics & Grooming*Jewelry & Watches			
+154819	2010112678164	2010-11-17 00:00:00	2010-11-13 16:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint		Household Items	Household Items		0.0	Deny
+154929	2010113078345	2010-11-22 00:00:00	2010-11-15 06:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+158008	2011033081497	2011-03-03 00:00:00	2011-02-19 11:45:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+159627	2011042783035	2011-04-26 00:00:00	2011-04-22 11:30:00	PWM	Portland International Jetport		Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		0.0	Deny
+160195	2011050283137	2011-05-16 00:00:00	2011-04-18 07:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics,Other,Other	Cameras*Other*Other		0.0	Deny
+160490	2011060384005	2011-05-24 00:00:00	2011-05-15 09:15:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Computer & Accessories		0.0	Deny
+162462	2011081686169	2011-07-26 00:00:00	2011-07-24 00:00:00	PWM	Portland International Jetport	Continental Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Cameras		0.0	Deny
+165335	2011111088890	2011-10-31 00:00:00	2011-10-03 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+165412	2011111589011	2011-11-02 00:00:00	2011-10-15 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+165561	2011111789105	2011-11-08 00:00:00	2011-03-11 06:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+165841	2011120689376	2011-11-17 00:00:00	2011-10-19 11:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Cameras		100.66	Settle
+166300	2012010590015	2011-12-05 00:00:00	2011-10-19 11:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checkpoint		Electronics	Cameras			
+166685	2012011990249	2011-12-20 00:00:00	2011-11-16 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+167694	2012022891349	2012-01-23 00:00:00	2011-12-01 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other		94.5	Approve in Full
+167866	2012030691530	2012-01-26 00:00:00	2012-01-03 00:00:00	PWM	Portland International Jetport	Air Canada	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+168026	2012031491709	2012-01-31 00:00:00	2012-01-15 15:34:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		65.0	Approve in Full
+168725	2012040292364	2012-02-27 00:00:00	2012-01-25 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+170505	2012052294137	2012-05-01 00:00:00	2012-04-16 00:00:00	PWM	Portland International Jetport	Delta (Song)	Passenger Property Loss	Checked Baggage		Household Items	Household Items		0.0	Deny
+172619	2012082996368	2012-07-16 00:00:00	2012-06-27 10:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+174409	2012102598137	2012-09-17 00:00:00	2012-09-12 10:40:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other,Other	Other*Other		0.0	Deny
+174977	2012110898484	2012-10-09 00:00:00	2012-05-23 11:31:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+175034	2012112198808	2012-10-11 00:00:00	2012-08-24 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+177345	2013020100868	2013-01-11 00:00:00	2012-12-27 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other	Other		28.0	Approve in Full
+179094	2013032802853	2013-03-13 00:00:00	2013-02-15 06:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+179639	2013042403322	2013-04-05 00:00:00	2013-03-22 12:30:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+181291	2013071005129	2013-06-07 00:00:00	2013-05-27 07:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		130.13	Approve in Full
+183239	2013102507864	2013-08-12 00:00:00	2013-07-29 07:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Other	Other			
+183339	2013092407276	2013-08-15 00:00:00	2013-07-24 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories,Electronics	Cosmetics & Grooming*Personal Accessories*Personal Electronics		0.0	Deny
+183938	2013111209113	2013-09-04 00:00:00	2013-07-31 00:00:00	PWM	Portland International Jetport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+184361	2013103008318	2013-09-19 00:00:00	2013-09-17 12:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+184909	2013110808983	2013-10-17 00:00:00	2013-09-15 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+185712	2013111909526	2013-11-15 00:00:00	2013-10-16 05:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			
+187084	2014011410829	2014-01-09 00:00:00	2014-01-06 00:00:00	PWM	Portland International Jetport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+188903	2014032412695	2014-03-18 00:00:00	2014-02-22 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+189784	2014042913593	2014-04-25 00:00:00	2014-01-30 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Other	Other			
+190375	2014052714192	2014-05-20 00:00:00	2014-04-16 00:00:00	PWM	Portland International Jetport	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+190572	2014060314393	2014-05-30 00:00:00	2014-05-02 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+190573	2014060314394	2014-05-30 00:00:00	2014-05-02 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+190890	2014061814717	2014-06-10 00:00:00	2014-05-19 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		20.0	Approve in Full
+193658	2014100917544	2014-09-26 00:00:00	2014-09-18 00:00:00	PWM	Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		570.46	Settle
+202799	2015021320562	2015-02-11 00:00:00	2014-11-28 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Outdoors Supplies	Clothing*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+202805	2015080524588	2015-07-28 00:00:00	2015-07-05 00:00:00	PWM	Portland International Jetport	USAir	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Jewelry & Watches*Jewelry & Watches*Jewelry & Watches		0.0	Deny
+202808	2015091525350	2015-08-28 00:00:00	2015-06-27 00:00:00	PWM	Portland International Jetport	Jet Blue	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		125.0	Settle
+211192	2016020428726	2016-01-19 00:00:00	2016-01-15 10:30:00	PWM	Portland International Jetport Portland International Jetport		Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		13.1	Closed:Canceled
+211194	2016050631138	2016-04-20 00:00:00	2016-03-22 09:55:00	PWM	Portland International Jetport   Southwest Airlines Portland International Jetport   Southwest Airlines		Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+211195	2017012736960	2016-12-03 00:00:00	2016-11-21 00:00:00	PWM	Portland International Jetport Portland International Jetport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Currency			In Review
+219457	2017072541815	2017-06-14 00:00:00	2017-06-05 00:00:00	PWM	Portland International Jetport Portland International Jetport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Navigation			In Review
+219462	2017092143372	2017-08-30 00:00:00	2017-08-19 17:47:00	PWM	Portland International Jetport Portland International Jetport	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			In Review

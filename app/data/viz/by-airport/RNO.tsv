@@ -1,505 +1,505 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-719	0703523M	2002-12-16 00:00:00	2002-11-30 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	383.03	Electronics	Canceled		
-734	0620501M	2002-12-16 00:00:00	2002-11-30 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	383.03	Electronics	Settled	324.05	Settle
-1224	20493	2003-01-09 00:00:00	2002-10-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
-2788	0224050L	2003-02-24 00:00:00	2003-01-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	250.0	Other	Denied	0.0	Deny
-2912	0225089L	2003-02-25 00:00:00	2003-02-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Other	3374.93	Containers	Denied	0.0	Deny
-3683	0314013L	2003-03-14 00:00:00	2003-02-10 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	370.0	Other	Settled	100.0	Settle
-5318	0417081L	2003-04-17 00:00:00	2003-03-13 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	974.0	Electronics	Settled	261.5	Settle
-5536	0422054L	2003-04-22 00:00:00	2003-03-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1070.0	Electronics	Settled	898.71	Settle
-5967	0502046L	2003-05-02 00:00:00	2003-04-05 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	89.95	Clothing & Accessories	Settled	62.97	Settle
-8830	0618050L	2003-06-18 00:00:00	2003-04-18 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	34.0	Other	Approved	34.0	Approve in Full
-11763	0728069M	2003-07-28 00:00:00	2003-07-16 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	750.0	Other	Canceled		
-11781	0728064M	2003-07-28 00:00:00	2003-02-03 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	28605.0	Watches & Jewelry	Denied	0.0	Deny
-12133	0731001M	2003-07-31 00:00:00	2003-07-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	180.0	Other	Approved	180.0	Approve in Full
-12555	0805023M	2003-08-05 00:00:00	2003-07-24 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checkpoint	255.0	Other	Settled	127.5	Settle
-13234	0814054M	2003-08-14 00:00:00	2003-06-25 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	436.0	Other	Approved	436.0	Approve in Full
-14330	0826231M	2003-08-26 00:00:00	2003-07-24 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checkpoint	255.0	Watches & Jewelry	Canceled	0.0	
-14458	0826039M	2003-08-26 00:00:00	2003-08-17 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Settled	30.0	Settle
-15151	0905016M	2003-09-05 00:00:00	2003-08-10 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Denied	0.0	Deny
-16833	0926041M	2003-09-26 00:00:00	2003-09-15 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	150.0	Other	Approved	150.0	Approve in Full
-17078	1002065M	2003-10-02 00:00:00	2003-05-24 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	2000.0	Other	Denied	0.0	Deny
-17582	1009044M	2003-10-09 00:00:00	2003-09-17 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	99.95	Other	Approved	99.95	Approve in Full
-17638	1009276M	2003-10-09 00:00:00	2003-09-11 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	125.0	Other	Approved	125.0	Approve in Full
-18606	1022354M	2003-10-22 00:00:00	2003-10-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.0	Other	Approved	37.0	Approve in Full
-19075	1028054M	2003-10-28 00:00:00	2003-10-02 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-19662	1107041M	2003-11-07 00:00:00	2003-10-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-19921	1107510M	2003-11-07 00:00:00	2003-10-11 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	170.0	Other	Denied	0.0	Deny
-20948	1121039M	2003-11-21 00:00:00	2003-09-21 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	310.53	Watches & Jewelry	Approved	310.53	Approve in Full
-20975	1121149M	2003-11-21 00:00:00	2003-10-25 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	395.0	Other	Approved	395.0	Approve in Full
-23458	1222157M	2003-12-22 00:00:00	2003-11-30 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	1500.0	Electronics	Settled	400.0	Settle
-23798	0105206M	2004-01-05 00:00:00	2003-11-07 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	445.0	Watches & Jewelry	Denied	0.0	Deny
-27214	0205269M	2004-02-05 00:00:00	2004-01-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2833.0	Electronics	Denied	0.0	Deny
-27454	0210056M	2004-02-10 00:00:00	2004-02-01 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	30.0	Other	Denied	0.0	Deny
-28197	0219478M	2004-02-19 00:00:00	2004-01-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	850.0	Watches & Jewelry	Denied	0.0	Deny
-28835	0226158M	2004-02-26 00:00:00	2004-02-15 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	312.95	Clothing & Accessories	Canceled		
-29642	2004050650581	2004-03-05 00:00:00	2004-01-24 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Settled	150.0	Settle
-29696	2004042350050	2004-03-10 00:00:00	2004-02-21 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	28.0	Other	Approved	28.0	Approve in Full
-29750	2004051752485	2004-03-10 00:00:00	2004-12-18 00:00:00	RNO	Reno/Tahoe International	American West	Passenger Property Loss	Checked Baggage	150.0	Other	Approved	150.0	Approve in Full
-30570	2004051151148	2004-03-18 00:00:00	2004-03-04 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Approved	35.0	Approve in Full
-30715	2004051151155	2004-03-18 00:00:00	2004-01-02 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	450.0	Clothing & Accessories	Denied	0.0	Deny
-31034	2004051351560	2004-03-22 00:00:00	2003-10-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	245.91	Electronics	Settled	208.88	Settle
-31091	2004051251320	2004-03-24 00:00:00	2004-03-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Electronics	Approved	25.0	Approve in Full
-31316	2004052453210	2004-03-24 00:00:00	2004-03-16 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Denied	0.0	Deny
-31390	2004051351650	2004-03-24 00:00:00	2004-01-12 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	158.42	Electronics	Settled	79.21	Settle
-32183	2004051852854	2004-04-06 00:00:00	2004-02-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1382.95	Other	Canceled	0.0	
-32235	2004052153039	2004-04-06 00:00:00	2004-03-22 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	580.0	Other	Denied	0.0	Deny
-32332	0226280M	2004-04-07 00:00:00	2004-02-05 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	250.0	Electronics	Denied	0.0	Deny
-32471	2004052553476	2004-04-15 00:00:00	2004-03-30 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	14.96	Other	Canceled	0.0	
-32602	2004052553395	2004-04-15 00:00:00	2004-03-05 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	114.0	Clothing & Accessories	Settled	57.0	Settle
-33361	2004060254221	2004-04-21 00:00:00	2003-09-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	365.7	Other	Settled	182.5	Settle
-33599	2004060754949	2004-04-23 00:00:00	2004-03-15 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	4017.31	Other	Denied	0.0	Deny
-34128	2004060454631	2004-05-04 00:00:00	2004-04-08 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	6.0	Other	Approved	6.0	Approve in Full
-34142	2004060454679	2004-05-04 00:00:00	2004-03-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Other	Approved	85.0	Approve in Full
-34835	2004061055413	2004-05-10 00:00:00	2004-04-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	26.5	Other	Approved	26.5	Approve in Full
-35082	2004061555912	2004-05-10 00:00:00	2004-02-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	423.0	Other	Settled	211.5	Settle
-35540	2004061856245	2004-05-19 00:00:00	2004-05-06 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	59.95	Clothing & Accessories	Approved	59.95	Approve in Full
-35963	2004062156500	2004-05-27 00:00:00	2004-03-14 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1649.99	Electronics	Approved	1649.99	Approve in Full
-36614	2004062156709	2004-05-28 00:00:00	2004-05-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	587.15	Other	Settled	293.58	Settle
-37327	2004062957731	2004-06-08 00:00:00	2004-05-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	92.0	Other	Approved	92.0	Approve in Full
-37384	2004070158179	2004-06-08 00:00:00	2004-05-27 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	19.95	Clothing & Accessories	Approved	19.95	Approve in Full
-37626	2004063057942	2004-06-10 00:00:00	2004-03-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Approved	40.0	Approve in Full
-37635	2004070158076	2004-06-10 00:00:00	2004-05-06 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Approved	60.0	Approve in Full
-37722	2004063058011	2004-06-10 00:00:00	2004-05-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Settled	150.0	Settle
-38638	2004071559418	2004-06-24 00:00:00	2004-05-25 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	9.23	Tools & Machines	Denied	9.23	Deny
-39737	2004081161218	2004-07-09 00:00:00	2004-06-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	400.0	Other	Denied	0.0	Deny
-39845	2004081161210	2004-07-09 00:00:00	2004-05-17 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Theft	Checkpoint	1529.5	Other	Settled	29.5	Settle
-40515	2004081061029	2004-07-20 00:00:00	2004-05-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	704.95	Electronics	Approved	704.95	Approve in Full
-40567	2004072760054	2004-07-20 00:00:00	2004-06-24 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	5000.0	Electronics	Denied	0.0	Deny
-42668	2004092463837	2004-08-16 00:00:00	2004-07-24 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	8.43	Tools & Machines	Approved	8.43	Approve in Full
-42951	2004100564572	2004-08-19 00:00:00	2004-08-05 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	105.0	Clothing & Accessories	Settled	50.0	Settle
-43202	2004100464411	2004-08-24 00:00:00	2004-08-07 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	1499.99	Electronics	Denied	0.0	Deny
-43300	2004100564553	2004-08-24 00:00:00	2004-08-15 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checked Baggage	207.0	Other	Settled	182.6	Settle
-43703	2004092163312	2004-08-31 00:00:00	2004-08-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	170.0	Clothing & Accessories	Denied	0.0	Deny
-43713	2004092363803	2004-08-31 00:00:00	2004-08-02 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	201.98	Clothing & Accessories	Denied		Deny
-43734	2004100564540	2004-08-31 00:00:00	2004-08-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	502.93	Electronics	Denied		Deny
-43740	2004100564586	2004-08-31 00:00:00	2004-08-20 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	492.82	Electronics	Denied	0.0	Deny
-44072	2004101364879	2004-09-09 00:00:00	2004-08-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	18.9	Other	Approved	18.9	Approve in Full
-45157	2004110666534	2004-09-16 00:00:00	2004-08-12 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	139.99	Electronics	Settled	111.2	Settle
-45202	2004110566452	2004-09-17 00:00:00	2004-08-28 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	88.0	Supplies	Approved	88.0	Approve in Full
-45641	2004110766623	2004-09-23 00:00:00	2004-09-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	105.56	Other	Approved	105.56	Approve in Full
-46254	2004110566462	2004-09-29 00:00:00	2004-09-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1479.95	Electronics	Denied	0.0	Deny
-46539	2004110866728	2004-10-05 00:00:00	2004-09-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	80.0	Other	Approved	80.0	Approve in Full
-46816	2004111967389	2004-10-05 00:00:00	2004-09-06 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1623.74	Electronics	Settled	639.92	Settle
-47024	2004112767869	2004-10-08 00:00:00	2004-09-20 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	373.92	Electronics	Denied	0.0	Deny
-47251	2004112867887	2004-10-14 00:00:00	2004-09-05 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	629.0	Other	Denied	0.0	Deny
-47527	2004120268258	2004-10-18 00:00:00	2004-09-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.23	Other	Approved	32.23	Approve in Full
-47557	2004120368370	2004-10-18 00:00:00	2004-09-25 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Approved	65.0	Approve in Full
-48005	2004120768731	2004-10-21 00:00:00	2004-08-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1450.0	Watches & Jewelry	Denied	0.0	Deny
-48198	2004120868842	2004-10-25 00:00:00	2004-08-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Settled	50.0	Settle
-48206	2004120968917	2004-10-25 00:00:00	2004-06-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	591.4	Watches & Jewelry	Settled	247.5	Settle
-48275	2004121068960	2004-10-26 00:00:00	2004-10-11 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checkpoint	820.0	Other	Denied	0.0	Deny
-48573	2004122170007	2004-10-27 00:00:00	2004-10-17 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	105.0	Watches & Jewelry	Settled	88.69	Settle
-48687	2004122069437	2004-10-29 00:00:00	2004-10-13 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	31.24	Other	Approved	31.24	Approve in Full
-49078	2004122971669	2004-11-04 00:00:00	2004-10-14 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	60.33	Supplies	Approved	60.33	Approve in Full
-49952	2004122270346	2004-11-15 00:00:00	2004-08-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	135.0	Cosmetics	Denied	0.0	Deny
-50409	2004122770857	2004-11-22 00:00:00	2004-11-08 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	1128.0	Watches & Jewelry	Approved	1128.0	Approve in Full
-50605	2004122871364	2004-11-23 00:00:00	2004-08-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15200.0	Watches & Jewelry	Denied	0.0	Deny
-50614	2004122871465	2004-11-23 00:00:00	2004-09-23 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	520.0	Clothing & Accessories	Denied	0.0	Deny
-50921	2004122770971	2004-11-29 00:00:00	2004-11-08 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	10253.0	Watches & Jewelry	Settled	250.0	Settle
-51891	2005010372096	2004-12-13 00:00:00	2004-11-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	339.95	Clothing & Accessories	Settled	169.98	Settle
-51987	2005010673021	2004-12-14 00:00:00	2004-09-02 00:00:00	RNO	Reno/Tahoe International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Approved	20.0	Approve in Full
-52438	2005010673013	2004-12-20 00:00:00	2004-11-03 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	95.0	Watches & Jewelry	Approved	95.0	Approve in Full
-52868	2005011173405	2004-12-23 00:00:00	2004-12-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	108.0	Clothing & Accessories	Approved	108.0	Approve in Full
-52872	2005011173390	2004-12-23 00:00:00	2004-12-17 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	369.45	Electronics	Canceled		
-54132	2005020475690	2005-01-11 00:00:00	2004-10-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	26.99	Other	Approved	26.99	Approve in Full
-54251	2005020375611	2005-01-11 00:00:00	2004-09-10 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2857.0	Electronics	Denied	0.0	Deny
-54557	2005013174968	2005-01-14 00:00:00	2005-01-06 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	56.35	Other	Denied	0.0	Deny
-55262	2005021776360	2005-01-24 00:00:00	2004-12-23 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-55365	2005021776320	2005-01-24 00:00:00	2004-12-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Denied		Deny
-55568	2005021176048	2005-01-26 00:00:00	2005-01-01 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	267.98	Watches & Jewelry	Denied	276.98	Deny
-56828	2005030977436	2005-02-08 00:00:00	2004-11-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	2250.0	Other	Settled	1400.0	Settle
-57374	2005031678451	2005-02-16 00:00:00	2005-02-05 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	1120.0	Electronics	Canceled	0.0	
-57600	2005032479635	2005-02-18 00:00:00	2005-02-16 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	899.99	Other	Settled	449.5	Settle
-59014	2005032579862	2005-03-09 00:00:00	2005-02-22 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	160.0	Other	Denied	0.0	Deny
-59409	2005032880111	2005-03-16 00:00:00	2005-03-08 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	519.96	Clothing & Accessories	Denied	0.0	Deny
-59965	2005033180842	2005-03-23 00:00:00	2005-03-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	91.24	Other	Denied	0.0	Deny
-60278	2005040181013	2005-03-29 00:00:00	2005-02-25 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Denied	0.0	Deny
-60473	2005040581504	2005-03-30 00:00:00	2005-03-21 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	121.0	Clothing & Accessories	Approved	121.0	Approve in Full
-60688	2005040581617	2005-04-04 00:00:00	2005-01-31 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	7.1	Tools & Machines	Approved	7.1	Approve in Full
-61902	2005041982805	2005-04-18 00:00:00	2005-04-11 00:00:00	RNO	Reno/Tahoe International	American West	Passenger Property Loss	Checked Baggage	70.0	Other	Denied	0.0	Deny
-62336	2005042583204	2005-04-22 00:00:00	2005-03-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Denied	0.0	Deny
-62650	2005042983693	2005-04-26 00:00:00	2005-03-29 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	318.97	Electronics	Denied	0.0	Deny
-63362	2005052385306	2005-05-06 00:00:00	2004-02-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1419.11	Other	Settled	85.11	Settle
-63494	2005051084402	2005-05-10 00:00:00	2005-02-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	269.97	Electronics	Approved	269.97	Approve in Full
-63977	2005051884932	2005-05-16 00:00:00	2005-04-27 00:00:00	RNO	Reno/Tahoe International	Allegiant Air	Passenger Property Loss	Checkpoint	475.0	Other	Denied	0.0	Deny
-65005	2005061086190	2005-05-31 00:00:00	2005-02-01 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Denied	0.0	Deny
-65794	2005062186779	2005-06-09 00:00:00	2005-05-22 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	40.0	Other	Approved	40.0	Approve in Full
-67970	2005071488972	2005-07-13 00:00:00	2005-07-03 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	26.5	Electronics	Denied	0.0	Deny
-68311	2005071989205	2005-07-18 00:00:00	2004-09-17 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	657.0	Electronics	Settled	301.15	Settle
-69488	2005081590552	2005-08-04 00:00:00	2005-05-15 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	495.74	Electronics	Denied	0.0	Deny
-69804	2005081890811	2005-08-09 00:00:00	2005-06-05 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage	247.9	Other	Denied	0.0	Deny
-69817	2005081890857	2005-08-09 00:00:00	2005-07-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	1499.0	Electronics	Denied	0.0	Deny
-69915	2005081990999	2005-08-10 00:00:00	2004-12-30 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	180.0	Electronics	Approved	180.0	Approve in Full
-70304	2005082491337	2005-08-16 00:00:00	2005-08-08 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	549.74	Other	Settled	207.32	Settle
-70372	2005082491401	2005-08-18 00:00:00	2005-07-02 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	500.0	Other	Denied	0.0	Deny
-70428	2005082591480	2005-08-19 00:00:00	2005-07-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	25.0	Other	Approved	25.0	Approve in Full
-70658	2005082991763	2005-08-23 00:00:00	2005-08-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	700.0	Electronics	Denied	0.0	Deny
-70931	2005082991741	2005-08-29 00:00:00	2005-08-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Approved	150.0	Approve in Full
-71107	2005090692154	2005-08-30 00:00:00	2005-07-29 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	140.0	Other	Denied	0.0	Deny
-71197	2005083191967	2005-08-31 00:00:00	2005-07-31 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checked Baggage	7.4	Tools & Machines	Approved	7.4	Approve in Full
-71416	2005091492401	2005-09-06 00:00:00	2005-08-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Settled	84.4	Settle
-72043	2005092193085	2005-09-14 00:00:00	2005-07-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	484.98	Electronics	Settled	187.77	Settle
-72222	2005092993400	2005-09-19 00:00:00	2005-09-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	4600.0	Watches & Jewelry	Canceled	0.0	
-72364	2005092993481	2005-09-20 00:00:00	2005-09-11 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	64.37	Watches & Jewelry	Approved	64.37	Approve in Full
-72672	2005100393780	2005-09-26 00:00:00	2005-09-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Approved	10.0	Approve in Full
-72914	2005100594035	2005-09-29 00:00:00	2005-08-11 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	4.29	Tools & Machines	Approved	4.29	Approve in Full
-73722	2005101894827	2005-10-13 00:00:00	2005-09-13 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	275.0	Other	Approved	275.0	Approve in Full
-74133	2005102795283	2005-10-20 00:00:00	2005-10-06 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint	25.0	Other	Approved	25.0	Approve in Full
-74266	2005102895371	2005-10-21 00:00:00	2005-10-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	1193.24	Electronics	Settled	928.0	Settle
-74368	2005110795638	2005-10-25 00:00:00	2005-09-03 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	21.55	Tools & Machines	Approved	21.55	Approve in Full
-75451	2005120196812	2005-11-15 00:00:00	2005-10-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	66.28	Clothing & Accessories	Approved	66.28	Approve in Full
-75717	2005120196845	2005-11-18 00:00:00	2005-09-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	275.0	Other	Denied	0.0	Deny
-77297	2005122798440	2005-12-19 00:00:00	2005-12-07 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	120.0	Watches & Jewelry	Denied	0.0	Deny
-78994	2006012300034	2006-01-18 00:00:00	2005-10-04 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	316.99	Electronics	Denied	0.0	Deny
-79264	2006012600428	2006-01-23 00:00:00	2005-12-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	391.96	Electronics	Approved	391.96	Approve in Full
-79308	2006012600458	2006-01-23 00:00:00	2006-01-05 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1164.0	Clothing & Accessories	Denied	0.0	Deny
-79822	2006020701014	2006-01-31 00:00:00	2006-01-13 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage	99.0	Other	Approved	99.0	Approve in Full
-81183	2006030202354	2006-02-24 00:00:00	2006-02-11 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Watches & Jewelry	Approved	25.0	Approve in Full
-81393	2006030602552	2006-02-28 00:00:00	2006-01-29 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	156.0	Other	Denied	0.0	Deny
-81525	2006030702678	2006-03-02 00:00:00	2006-02-13 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	195.0	Clothing & Accessories	Denied	0.0	Deny
-81960	2006031503142	2006-03-09 00:00:00	2006-01-03 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	350.0	Other	Denied	0.0	Deny
-82239	2006031703300	2006-03-14 00:00:00	2006-02-26 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	350.0	Electronics	Settled	69.98	Settle
-82342	2006032103462	2006-03-16 00:00:00	2005-12-22 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	790.0	Watches & Jewelry	Settled	321.59	Settle
-82966	2006040604116	2006-03-28 00:00:00	2006-03-20 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	514.18	Electronics	Denied	0.0	Deny
-83914	2006041704670	2006-04-17 00:00:00	2005-11-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	14.95	Other	Denied	0.0	Deny
-84146	2006042505267	2006-04-20 00:00:00	2006-02-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	909.69	Clothing & Accessories	Settled	441.72	Settle
-84176	2006042505326	2006-04-24 00:00:00	2006-04-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	376.0	Other	Approved	376.0	Approve in Full
-84281	2006050305679	2006-04-24 00:00:00	2006-04-01 00:00:00	RNO	Reno/Tahoe International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	1075.94	Electronics	Denied	0.0	Deny
-84421	2006050105519	2006-04-26 00:00:00	2006-03-08 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	309.98	Electronics	Settled	116.88	Settle
-84449	2006050105542	2006-04-27 00:00:00	2006-02-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	260.0	Other	Denied	0.0	Deny
-84450	2006050105550	2006-04-27 00:00:00	2006-04-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2125.0	Other	Denied	0.0	Deny
-85615	2006052306850	2006-05-22 00:00:00	2006-05-07 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Denied	0.0	Deny
-86535	2006061207813	2006-06-08 00:00:00	2006-05-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Clothing & Accessories	Denied	0.0	Deny
-86691	2006061407999	2006-06-13 00:00:00	2006-03-06 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	181.68	Clothing & Accessories	Approved	181.68	Approve in Full
-86741	2006061407946	2006-06-13 00:00:00	2005-11-19 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	111.83	Clothing & Accessories	Settled	55.92	Settle
-87214	2006062308477	2006-06-22 00:00:00	2006-05-16 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1635.97	Electronics,Electronics	Denied	0.0	Deny
-87635	2006070508918	2006-06-30 00:00:00	2006-06-11 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Canceled	0.0	
-88674	2006072109896	2006-07-19 00:00:00	2006-06-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	165.0	Electronics,Other	Settled	74.94	Settle
-88686	2006072409927	2006-07-20 00:00:00	2006-05-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	448.0	Electronics,Other	Canceled	0.0	
-88748	2006072109910	2006-07-21 00:00:00	2006-07-18 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1496.4	Electronics	Denied	0.0	Deny
-89123	2006080310437	2006-07-31 00:00:00	2006-07-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	63.95	Clothing & Accessories	Approved	63.95	Approve in Full
-91854	2006092113059	2006-09-20 00:00:00	2006-09-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Supplies	Denied	0.0	Deny
-91951	2006092513214	2006-09-21 00:00:00	2006-07-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Watches & Jewelry	Denied	0.0	Deny
-92987	2006101914212	2006-10-12 00:00:00	2006-09-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.8	Electronics,Supplies,Other	Settled	63.4	Settle
-94090	2006110715298	2006-11-03 00:00:00	2006-10-02 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	499.99	Electronics	Denied	0.0	Deny
-94271	2006111515630	2006-11-07 00:00:00	2006-08-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Food & Drink	Denied	0.0	Deny
-94626	2006112015860	2006-11-14 00:00:00	2004-11-14 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	750.0	Containers,Other	Denied	0.0	Deny
-94628	2006112015863	2006-11-14 00:00:00	2004-11-14 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	870.88	Other,Containers,Other	Denied	0.0	Deny
-94821	2006112416157	2006-11-17 00:00:00	2006-11-16 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	82.95	Other	Denied	0.0	Deny
-94950	2006112816315	2006-11-20 00:00:00	2006-10-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	127.75	Clothing & Accessories	Settled	63.88	Settle
-94973	2006113016520	2006-11-21 00:00:00	2006-10-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.75	Electronics	Approved	21.75	Approve in Full
-95057	2006112916403	2006-11-22 00:00:00	2006-11-14 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Denied	0.0	Deny
-95212	2006113016514	2006-11-27 00:00:00	2006-10-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Supplies	Denied	0.0	Deny
-95379	2006120616709	2006-11-29 00:00:00	2006-11-08 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint	1459.35	Watches & Jewelry	Denied	0.0	Deny
-95962	2006121417135	2006-12-11 00:00:00	2006-09-08 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	554.64	Clothing & Accessories,Containers	Denied	0.0	Deny
-96070	2006121517228	2006-12-12 00:00:00	2006-11-26 00:00:00	RNO	Reno/Tahoe International	American West	Passenger Property Loss	Checked Baggage	1407.79	Watches & Jewelry	Denied	0.0	Deny
-96439	2006122217719	2006-12-19 00:00:00	2006-11-29 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Denied	0.0	Deny
-96491	2006122117642	2006-12-19 00:00:00	2006-12-08 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Settled	20.0	Settle
-96634	2006122818038	2006-12-22 00:00:00	2006-08-23 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.99	Food & Drink	Denied	0.0	Deny
-97244	2007010318233	2007-01-03 00:00:00	2006-12-22 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	250.0	Containers,Supplies,Other	Denied	0.0	Deny
-98094	2007012519521	2007-01-16 00:00:00	2006-12-31 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	360.0	Clothing & Accessories	Canceled	0.0	
-98651	2007013119981	2007-01-23 00:00:00	2006-12-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	208.39	Cosmetics	Denied	0.0	Deny
-98720	2007012919691	2007-01-24 00:00:00	2007-01-13 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	726.68	Electronics	Denied	0.0	Deny
-98786	2007013019779	2007-01-25 00:00:00	2007-01-16 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Canceled	0.0	
-99617	2007021220779	2007-02-08 00:00:00	2007-01-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	406.55	Electronics,Other	Denied	0.0	Deny
-99857	2007021520963	2007-02-13 00:00:00	2007-01-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.78	Tools & Machines	Denied	0.0	Deny
-100170	2007022221361	2007-02-21 00:00:00	2007-02-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	10.55	Tools & Machines	Approved	10.55	Approve in Full
-100198	2007022221368	2007-02-21 00:00:00	2007-01-01 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	78.0	Clothing & Accessories,Cosmetics,Tools & Machines	Denied	0.0	Deny
-100841	2007030922042	2007-03-06 00:00:00	2007-01-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	859.98	Tools & Machines,Cosmetics,Scientific Intruments	Denied	0.0	Deny
-100985	2007031322177	2007-03-08 00:00:00	2006-12-17 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	99.08	Cosmetics	Settled	58.05	Settle
-101003	2007031222128	2007-03-09 00:00:00	2007-02-09 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	505.98	Other	Denied	0.0	Deny
-101744	2007032622933	2007-03-22 00:00:00	2007-02-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	89.56	Clothing & Accessories	Settled	44.78	Settle
-101928	2007032823135	2007-03-27 00:00:00	2007-03-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Food & Drink	Denied	0.0	Deny
-101954	2007032923221	2007-03-27 00:00:00	2007-03-20 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Denied	0.0	Deny
-102183	2007040323401	2007-04-02 00:00:00	2007-03-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Approved	80.0	Approve in Full
-102651	2007041623999	2007-04-10 00:00:00	2007-04-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Tools & Machines	Denied	0.0	Deny
-102674	2007041624007	2007-04-11 00:00:00	2007-04-04 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	21.48	Tools & Machines	Approved	21.48	Approve in Full
-102689	2007041123808	2007-04-11 00:00:00	2007-02-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	21.85	Electronics	Denied	0.0	Deny
-102709	2007041323973	2007-04-11 00:00:00	2007-04-06 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage	230.5	Outdoors Supplies	Denied	0.0	Deny
-102770	2007041323949	2007-04-12 00:00:00	2007-03-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.08	Other	Denied	0.0	Deny
-103247	2007042424412	2007-04-23 00:00:00	2007-04-12 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	303.66	Watches & Jewelry	Denied	0.0	Deny
-103409	2007042724673	2007-04-25 00:00:00	2007-04-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Supplies	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-103965	2007051025223	2007-05-08 00:00:00	2007-02-16 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	163.17	Electronics	Denied	0.0	Deny
-104052	2007051625463	2007-05-09 00:00:00	2007-04-26 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-104300	2007051625469	2007-05-15 00:00:00	2007-04-10 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	4500.0	Other	Denied	0.0	Deny
-105491	2007061226767	2007-06-07 00:00:00	2007-03-31 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	450.0	Electronics	Denied	0.0	Deny
-105613	2007061426872	2007-06-11 00:00:00	2007-06-05 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	130.0	Clothing & Accessories,Watches & Jewelry	Canceled	0.0	
-106838	2007071128096	2007-07-05 00:00:00	2007-06-16 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Settled	99.22	Settle
-106958	2007071128146	2007-07-09 00:00:00	2007-06-28 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	69.67	Electronics	Denied	0.0	Deny
-107362	2007071928655	2007-07-16 00:00:00	2007-04-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	Denied	0.0	Deny
-108582	2007080929918	2007-08-06 00:00:00	2007-05-22 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	20.0	Household Decor	Denied	0.0	Deny
-109098	2007082030439	2007-08-15 00:00:00	2007-05-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.8	Other	Denied	0.0	Deny
-109212	2007082130551	2007-08-17 00:00:00	2007-07-24 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	74.61	Electronics,Electronics	Denied	0.0	Deny
-109614	2007082430838	2007-08-24 00:00:00	2007-08-03 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	303.1	Clothing & Accessories	Denied	0.0	Deny
-110305	2007091331793	2007-09-06 00:00:00	2007-08-25 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	110.0	Other	Denied	0.0	Deny
-110352	2007091231737	2007-09-07 00:00:00	2007-08-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	95.0	Cosmetics	Denied	0.0	Deny
-110843	2007091932245	2007-09-17 00:00:00	2007-08-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	4500.0	Cosmetics,Watches & Jewelry,Other	Denied	0.0	Deny
-111217	2007092532522	2007-09-24 00:00:00	2007-07-15 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2150.0	Watches & Jewelry,Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-111243	2007092632567	2007-09-25 00:00:00	2007-08-01 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	100.0	Cosmetics	Denied	0.0	Deny
-111910	2007101233349	2007-10-09 00:00:00	2007-08-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	648.0	Scientific Intruments,Clothing & Accessories	Denied	0.0	Deny
-112113	2007101833594	2007-10-12 00:00:00	2007-10-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.99	Tools & Machines	Denied	0.0	Deny
-112426	2007102433842	2007-10-19 00:00:00	2007-10-10 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	647.77	Electronics	Denied	0.0	Deny
-112482	2007102633983	2007-10-22 00:00:00	2007-08-30 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Approved	75.0	Approve in Full
-113374	2007110934787	2007-11-07 00:00:00	2007-10-23 00:00:00	RNO	Reno/Tahoe International	Allegiant Air	Passenger Property Loss	Checked Baggage	885.0	Watches & Jewelry	Denied	0.0	Deny
-113578	2007111535067	2007-11-13 00:00:00	2007-11-02 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Scientific Intruments	Denied	0.0	Deny
-113645	2007111434959	2007-11-13 00:00:00	2007-11-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	3274.96	Watches & Jewelry	Settled	2321.07	Settle
-113774	2007112035221	2007-11-15 00:00:00	2007-10-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	52.99	Outdoors Supplies	Denied	0.0	Deny
-113936	2007112635408	2007-11-19 00:00:00	2007-11-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.7	Games & Toys	Denied	0.0	Deny
-113944	2007112635425	2007-11-19 00:00:00	2007-10-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	550.0	Watches & Jewelry,Other	Denied	0.0	Deny
-114978	2007121236423	2007-12-11 00:00:00	2007-12-03 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	215.0	Other	Approved	215.0	Approve in Full
-115215	2007121936689	2007-12-14 00:00:00	2007-12-06 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint	64.41	Other	Denied	0.0	Deny
-115970	2008010837554	2008-01-02 00:00:00	2007-11-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	116.0	Clothing & Accessories,Containers,Watches & Jewelry	Denied	0.0	Deny
-116640	2008011638049	2008-01-11 00:00:00	2008-01-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	130.0	Watches & Jewelry	Settled	65.0	Settle
-117044	2008012938786	2008-01-22 00:00:00	2008-01-12 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	400.16	Electronics	Approved	400.16	Approve in Full
-117257	2008013038811	2008-01-24 00:00:00	2007-12-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	1930.2	Electronics	Denied	0.0	Deny
-117372	2008020139030	2008-01-25 00:00:00	2008-01-13 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	600.0	Electronics,Electronics	Denied	0.0	Deny
-118205	2008021539711	2008-02-12 00:00:00	2008-01-18 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Denied	0.0	Deny
-118587	2008022640197	2008-02-20 00:00:00	2007-06-18 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	155.61	Containers,Outdoors Supplies	Denied	0.0	Deny
-118774	2008030440382	2008-02-25 00:00:00	2008-02-13 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.49	Tools & Machines	Denied	0.0	Deny
-118855	2008030640513	2008-02-25 00:00:00	2008-02-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-118865	2008030540445	2008-02-26 00:00:00	2008-01-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Other	Approved	300.0	Approve in Full
-119292	2008031340959	2008-03-06 00:00:00	2008-01-20 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint	94.26	Electronics	Approved	94.26	Approve in Full
-119408	2008031741163	2008-03-10 00:00:00	2008-03-02 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Approved	100.0	Approve in Full
-119659	2008032041305	2008-03-13 00:00:00	2008-02-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	12.79	Tools & Machines	Denied	0.0	Deny
-120907	2008041542559	2008-04-07 00:00:00	2008-03-07 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint	1300.0	Watches & Jewelry	Denied	0.0	Deny
-121140	2008041742816	2008-04-10 00:00:00	2008-03-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.76	Tools & Machines	Denied	0.0	Deny
-121187	2008041742833	2008-04-11 00:00:00	2008-04-04 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	63.88	Other,Other	Denied	0.0	Deny
-121463	2008042243104	2008-04-16 00:00:00	2008-04-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	22.0	Other	Denied	0.0	Deny
-122153	2008051444232	2008-04-30 00:00:00	2008-04-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.88	Electronics	Denied	0.0	Deny
-122397	2008050944061	2008-05-06 00:00:00	2008-03-07 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	363.46	Electronics,Other	Denied	0.0	Deny
-122497	2008051244130	2008-05-08 00:00:00	2008-05-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.46	Electronics,Other	Denied	0.0	Deny
-123564	2008061345651	2008-05-30 00:00:00	2008-05-13 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	14.99	Tools & Machines	Denied	0.0	Deny
-123869	2008061245575	2008-06-06 00:00:00	2008-05-31 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	255.0	Watches & Jewelry	Denied	0.0	Deny
-124176	2008062045956	2008-06-13 00:00:00	2008-05-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	60.0	Other	Denied	0.0	Deny
-124390	2008062446072	2008-06-19 00:00:00	2008-06-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	241.0	Electronics,Electronics,Electronics	Denied	0.0	Deny
-127055	2008082048844	2008-08-18 00:00:00	2008-08-09 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	409.98	Electronics,Electronics	Denied	0.0	Deny
-127093	2008082148914	2008-08-18 00:00:00	2008-05-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	268.44	Watches & Jewelry	Denied	0.0	Deny
-127184	2008082248985	2008-08-20 00:00:00	2008-08-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	205.0	Clothing & Accessories	Denied	0.0	Deny
-127232	2008082248972	2008-08-21 00:00:00	2008-08-09 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	1178.0	Watches & Jewelry	Denied	0.0	Deny
-128146	2008091549905	2008-09-11 00:00:00	2008-08-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Denied	0.0	Deny
-128277	2008091850053	2008-09-15 00:00:00	2008-09-03 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	172.0	Other	Denied	0.0	Deny
-128348	2008091950156	2008-09-16 00:00:00	2008-08-26 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	95.75	Outdoors Supplies	Denied	0.0	Deny
-128627	2008092550409	2008-09-23 00:00:00	2008-09-14 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	9.88	Tools & Machines	Denied	0.0	Deny
-128792	2008100350773	2008-09-28 00:00:00	2008-09-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	Canceled	0.0	
-128942	2008100250677	2008-10-01 00:00:00	2008-09-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Denied	0.0	Deny
-128948	2008100250699	2008-10-01 00:00:00	2008-09-11 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	358.61	Clothing & Accessories,Watches & Jewelry,Watches & Jewelry	Denied	0.0	Deny
-129140	2008101051051	2008-10-07 00:00:00	2008-09-29 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	84.0	Clothing & Accessories	Approved	84.0	Approve in Full
-129152	2008100850891	2008-10-07 00:00:00	2008-09-13 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Tools & Machines	Denied	0.0	Deny
-129175	2008101051049	2008-10-07 00:00:00	2008-09-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Containers,Watches & Jewelry	Denied	0.0	Deny
-129780	2008102751586	2008-10-23 00:00:00	2008-10-15 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	10.95	Tools & Machines	Approved	10.95	Approve in Full
-130328	2008111452212	2008-11-06 00:00:00	2008-08-19 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	351.0	Electronics	Canceled	0.0	
-130784	2008112052618	2008-11-18 00:00:00	2008-11-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2700.0	Clothing & Accessories	Denied	0.0	Deny
-131028	2008120152958	2008-11-25 00:00:00	2008-11-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	82.56	Clothing & Accessories	Approved	82.56	Approve in Full
-131715	2008121853535	2008-12-15 00:00:00	2008-12-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Denied	0.0	Deny
-132275	2009010654148	2008-12-30 00:00:00	2008-11-29 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Other	330.0	Electronics,Other	Denied	0.0	Deny
-132442	2009010954304	2009-01-05 00:00:00	2008-11-17 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	100.0	Electronics	Denied	0.0	Deny
-134314	2009031156107	2009-02-23 00:00:00	2009-02-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	58.2	Musical Intruments	Denied	0.0	Deny
-134508	2009032056579	2009-02-27 00:00:00	2009-01-13 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	385.0	Games & Toys	Denied	0.0	Deny
-135202	2009040357168	2009-03-18 00:00:00	2009-02-09 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	48.0	Clothing & Accessories	Denied	0.0	Deny
-135529	2009041457505	2009-03-26 00:00:00	2009-03-21 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Denied	0.0	Deny
-135688	2009042157805	2009-03-31 00:00:00	2009-03-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.99	Containers	Approved	7.99	Approve in Full
-136474	2009051458636	2009-04-21 00:00:00	2009-02-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1200.0	Clothing & Accessories,Cosmetics	Denied	0.0	Deny
-136854	2009051858823	2009-05-01 00:00:00	2009-04-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-136923	2009051858902	2009-05-04 00:00:00	2009-04-09 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint	3195.0	Watches & Jewelry	Denied	0.0	Deny
-137136	2009051958934	2009-05-11 00:00:00	2009-04-24 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	550.0	Other	Denied	0.0	Deny
-137796	2009060259765	2009-05-29 00:00:00	2009-05-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Denied	0.0	Deny
-138649	2009063060752	2009-06-22 00:00:00	2009-06-06 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	70.67	Electronics	Denied	0.0	Deny
-139339	2009072161522	2009-07-10 00:00:00	2009-06-28 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.99	Clothing & Accessories	Denied	0.0	Deny
-139451	2009071761406	2009-07-14 00:00:00	2009-06-06 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	64.0	Household Decor	Canceled	0.0	
-141533	2009091163562	2009-09-10 00:00:00	2009-09-03 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	159.0	Clothing & Accessories	Canceled		
-142114	2009093064165	2009-09-25 00:00:00	2009-09-16 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	75.75	Other	Denied	0.0	Deny
-142222	2009092964144	2009-09-29 00:00:00	2009-09-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.0	Other	Denied	0.0	Deny
-142254	2009100664348	2009-09-30 00:00:00	2009-09-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	77.57	Tools & Machines,Outdoors Supplies	Canceled		
-142307	2009100664338	2009-10-01 00:00:00	2009-09-21 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	640.97	Electronics,Clothing & Accessories	Denied	0.0	Deny
-144010	2009120366000	2009-11-27 00:00:00	2009-11-22 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Approved	15.0	Approve in Full
-144409	2009121466542	2009-12-08 00:00:00	2009-11-11 10:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	585.0	Watches & Jewelry	Approved	585.0	Approve in Full
-145102	2010010667234	2009-12-30 00:00:00	2009-12-14 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Denied	0.0	Deny
-145232	2010012167733	2010-01-14 00:00:00	2010-01-01 06:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Other		36.88	Approve in Full
-145351	2010012767976	2010-01-22 00:00:00	2010-01-19 06:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Scientific Intruments		0.0	Deny
-145516	2010020468282	2010-01-29 00:00:00	2010-01-24 21:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		52.72	Approve in Full
-145528	2010021968563	2010-01-31 00:00:00	2010-01-04 10:40:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Household Items		300.0	Approve in Full
-145764	2010022468698	2010-02-12 00:00:00	2010-01-31 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
-145805	2010022668759	2010-02-16 00:00:00	2010-01-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		68.1	Settle
-146125	2010030669151	2010-02-25 00:00:00	2010-01-22 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-146520	2010031769651	2010-03-09 00:00:00	2010-01-25 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Household Items		0.0	Deny
-147007	2010032670109	2010-03-24 00:00:00	2010-03-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-147340	2010040670479	2010-04-05 00:00:00	2010-03-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other			
-147521	2010041370754	2010-04-08 00:00:00	2010-03-17 05:15:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-147731	2010042070997	2010-04-14 00:00:00	2010-03-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics		0.0	Deny
-147773	2010042070983	2010-04-15 00:00:00	2010-03-25 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		21.9	Approve in Full
-148339	2010050571511	2010-05-04 00:00:00	2010-04-30 21:55:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		40.24	Approve in Full
-148757	2010052472078	2010-05-17 00:00:00	2010-04-30 11:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments			
-149055	2010060372347	2010-05-25 00:00:00	2010-05-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry		0.0	Deny
-149393	2010061672707	2010-06-07 00:00:00	2010-05-13 10:30:00	RNO	Reno/Tahoe International	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-149460	2010062573122	2010-06-08 00:00:00	2010-05-16 13:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Other,Other,Other		99.11	Approve in Full
-149686	2010062873126	2010-06-15 00:00:00	2010-06-11 18:41:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Electronics			
-150199	2010071473667	2010-06-30 00:00:00	2010-06-07 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-150314	2010071473681	2010-07-06 00:00:00	2010-07-01 13:45:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-150775	2010072974189	2010-07-19 00:00:00	2010-06-14 14:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-150839	2010072874145	2010-07-20 00:00:00	2010-07-18 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-150925	2010080374327	2010-07-22 00:00:00	2010-06-15 05:05:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-151805	2010081975096	2010-08-17 00:00:00	2010-02-22 10:30:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Other		26.98	Approve in Full
-151972	2010082575330	2010-08-23 00:00:00	2010-07-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Clothing & Accessories		0.0	Deny
-152246	2010090275596	2010-08-30 00:00:00	2010-08-20 11:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-152496	2010091075879	2010-09-07 00:00:00	2010-07-20 07:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Cosmetics		18.0	Approve in Full
-152730	2010091776114	2010-09-13 00:00:00	2010-09-07 06:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		500.0	Approve in Full
-152745	2010091776133	2010-09-13 00:00:00	2010-08-21 12:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.59	Approve in Full
-153461	2010101376929	2010-10-04 00:00:00	2010-09-20 14:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		54.95	Approve in Full
-153552	2010101576972	2010-10-06 00:00:00	2010-09-26 13:15:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		54.03	Approve in Full
-153727	2010102177146	2010-10-13 00:00:00	2010-08-09 11:45:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-153772	2010101877042	2010-10-14 00:00:00	2010-10-05 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Electronics		133.49	Settle
-153914	2010102477310	2010-10-19 00:00:00	2010-10-24 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Electronics			
-154029	2010102977464	2010-10-21 00:00:00	2010-10-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-154036	2010102777437	2010-10-22 00:00:00	2010-09-17 17:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint		Electronics		124.12	Approve in Full
-154245	2010110677668	2010-10-28 00:00:00	2010-10-05 10:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-154265	2011010379174	2010-11-01 00:00:00	2011-10-04 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
-155426	2010122078863	2010-12-07 00:00:00	2010-12-05 06:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry		0.0	Deny
-156186	2011011479563	2011-01-06 00:00:00	2010-12-31 16:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		271.2	Approve in Full
-157042	2011022880612	2011-01-28 00:00:00	2011-01-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-157095	2011022480574	2011-01-31 00:00:00	2010-12-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items			
-157158	2011030280746	2011-02-01 00:00:00	2011-01-01 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-157179	2011011979612	2011-02-02 00:00:00	2010-10-25 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-157405	2011030280806	2011-02-10 00:00:00	2011-02-06 05:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics		0.0	Deny
-157672	2011031081084	2011-02-22 00:00:00	2011-02-11 06:05:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-157733	2011031181154	2011-02-23 00:00:00	2011-02-08 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-158113	2011033181622	2011-03-07 00:00:00	2010-12-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-158373	2011040481837	2011-03-15 00:00:00	2011-03-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-158498	2011040581877	2011-03-21 00:00:00	2011-03-17 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Clothing & Accessories		0.0	Deny
-158710	2011042783025	2011-03-28 00:00:00	2011-03-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments		0.0	Deny
-159365	2011042082805	2011-04-18 00:00:00	2011-03-31 05:45:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		11.9	Approve in Full
-159734	2011050583259	2011-04-28 00:00:00	2011-04-23 17:30:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-160078	2011051983549	2011-05-10 00:00:00	2011-04-14 13:05:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-161264	2011062984746	2011-06-20 00:00:00	2011-06-04 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Electronics			
-161341	2011070584972	2011-06-21 00:00:00	2011-06-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		205.05	Settle
-161778	2011072085330	2011-07-06 00:00:00	2011-06-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-162165	2011080585776	2011-07-18 00:00:00	2011-06-15 06:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-162636	2011081886221	2011-08-02 00:00:00	2011-06-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		85.9	Approve in Full
-162825	2011082286352	2011-08-08 00:00:00	2011-07-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.58	Approve in Full
-162916	2011083086553	2011-08-09 00:00:00	2011-07-25 22:40:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics		0.0	Deny
-163146	2011090886776	2011-08-17 00:00:00	2011-07-30 07:25:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-163227	2011091286826	2011-08-19 00:00:00	2011-07-28 13:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other,Other		0.0	Deny
-163407	2011092087042	2011-08-25 00:00:00	2011-08-15 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Other		50.0	Approve in Full
-163565	2011100487447	2011-08-30 00:00:00	2011-08-30 10:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
-163977	2011100587587	2011-09-14 00:00:00	2011-08-14 10:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		12.95	Approve in Full
-164466	2011101888085	2011-10-04 00:00:00	2011-04-10 11:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-164749	2011101287753	2011-10-12 00:00:00	2011-10-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-164979	2011110188612	2011-10-19 00:00:00	2011-10-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		8.52	Approve in Full
-165826	2011120589359	2011-11-16 00:00:00	2011-11-04 14:53:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-166925	2012013090493	2011-12-29 00:00:00	2011-12-23 06:30:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-167185	2012020990847	2012-01-09 00:00:00	2011-12-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		82.95	Approve in Full
-167516	2012022291225	2012-01-17 00:00:00	2012-01-02 08:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other		0.0	Deny
-168681	2012040592591	2012-02-22 00:00:00	2012-02-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories		191.43	Approve in Full
-168961	2012040992645	2012-03-05 00:00:00	2012-02-12 11:02:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		20.13	Approve in Full
-169413	2012032291957	2012-03-22 00:00:00	2011-12-18 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Other			
-170384	2012051694057	2012-04-26 00:00:00	2012-03-03 05:30:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Other		500.0	Approve in Full
-170628	2012052494247	2012-05-04 00:00:00	2012-04-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-170925	2012060694570	2012-05-14 00:00:00	2012-04-27 14:15:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		23.0	Approve in Full
-170971	2012051694059	2012-05-16 00:00:00	2012-03-03 05:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-171406	2012070395055	2012-06-01 00:00:00	2012-05-25 06:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-171652	2012071395359	2012-06-11 00:00:00	2012-02-27 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-171692	2012062895019	2012-06-12 00:00:00	2012-06-08 11:30:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-171828	2012071895498	2012-06-18 00:00:00	2012-05-07 11:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		36.04	Approve in Full
-172440	2012082596179	2012-07-10 00:00:00	2012-06-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		16.26	Approve in Full
-172455	2012071195236	2012-07-11 00:00:00	2012-05-22 12:55:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies		0.0	Deny
-172851	2012090796663	2012-07-24 00:00:00	2012-06-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Scientific Intruments		182.0	Approve in Full
-173038	2012091396784	2012-07-31 00:00:00	2012-03-07 18:55:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-173420	2012092597132	2012-08-13 00:00:00	2012-08-04 12:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.64	Approve in Full
-173684	2012100597419	2012-08-21 00:00:00	2012-08-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-173777	2012100797448	2012-08-27 00:00:00	2012-07-13 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-173827	2012101697631	2012-08-27 00:00:00	2012-08-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
-173897	2012101597572	2012-08-29 00:00:00	2012-08-25 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics			
-174443	2012102598117	2012-09-18 00:00:00	2012-09-11 11:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-174617	2012110798406	2012-09-24 00:00:00	2012-09-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-175108	2012111998766	2012-10-15 00:00:00	2012-09-21 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-175563	2012121999317	2012-10-31 00:00:00	2012-10-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-175903	2013010899641	2012-11-13 00:00:00	2012-09-28 10:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		25.0	Approve in Full
-177086	2013010399506	2013-01-03 00:00:00	2012-11-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		228.96	Approve in Full
-177577	2013020701192	2013-01-18 00:00:00	2013-01-08 13:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		60.0	Approve in Full
-178221	2013022501990	2013-02-11 00:00:00	2012-11-21 06:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		89.0	Approve in Full
-178848	2013031402589	2013-03-05 00:00:00	2013-02-18 15:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		12.0	Approve in Full
-179007	2013032502723	2013-03-11 00:00:00	2013-03-01 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-179589	2013041703226	2013-04-03 00:00:00	2013-03-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Cosmetics		100.0	Approve in Full
-179899	2013050903606	2013-04-15 00:00:00	2013-04-07 14:42:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		22.5	Approve in Full
-179981	2013060904090	2013-04-17 00:00:00	2013-04-10 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics		7.82	Approve in Full
-180027	2013060604000	2013-04-19 00:00:00	2013-04-17 05:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics			
-180617	2013061304329	2013-05-13 00:00:00	2013-03-30 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		11.5	Approve in Full
-181179	2013062404656	2013-06-04 00:00:00	2013-05-27 08:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		4.0	Approve in Full
-181533	2013080505639	2013-06-14 00:00:00	2013-05-17 09:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-181657	2013081305875	2013-06-19 00:00:00	2013-05-30 05:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		162.41	Approve in Full
-182104	2013072605481	2013-07-03 00:00:00	2013-07-01 06:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics			
-182329	2013082006078	2013-07-15 00:00:00	2013-06-21 06:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-182339	2013082006104	2013-07-15 00:00:00	2013-06-05 06:35:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		60.0	Approve in Full
-182569	2013090406518	2013-07-19 00:00:00	2013-06-26 12:22:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Containers		22.1	Approve in Full
-182909	2013090906716	2013-08-01 00:00:00	2013-06-22 19:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-183367	2013092707382	2013-08-15 00:00:00	2013-04-17 13:40:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		22.42	Approve in Full
-183486	2013102407767	2013-08-19 00:00:00	2013-06-10 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Containers		46.99	Approve in Full
-183629	2013102507897	2013-08-23 00:00:00	2013-08-01 15:12:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-184485	2013092507322	2013-09-25 00:00:00	2013-03-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers		0.0	Deny
-185411	2013111509431	2013-11-04 00:00:00	2013-10-28 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink			
-185509	2013111309237	2013-11-07 00:00:00	2013-09-14 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-185519	2013111309279	2013-11-07 00:00:00	2013-10-03 09:00:00	RNO	Reno/Tahoe International	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage		Containers		170.99	Approve in Full
-185991	2013120409816	2013-11-29 00:00:00	2013-11-10 10:45:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories			
-186326	2013122010184	2013-12-12 00:00:00	2013-11-30 11:10:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other,Cosmetics			
-186331	2013121710104	2013-12-13 00:00:00	2013-11-12 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics			
-186459	2013123010310	2013-12-18 00:00:00	2013-12-08 12:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		205.0	Approve in Full
-187565	2014013111323	2014-01-27 00:00:00	2014-01-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		9.08	Approve in Full
-188367	2014030312141	2014-02-26 00:00:00	2013-09-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-188424	2014030512199	2014-02-26 00:00:00	2014-02-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-188549	2014031012326	2014-03-10 00:00:00	2014-01-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage		Cosmetics		30.0	Approve in Full
-189070	2014040112865	2014-03-27 00:00:00	2014-03-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-189287	2014040913087	2014-04-04 00:00:00	2014-03-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-189382	2014041413182	2014-04-09 00:00:00	2014-01-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-189404	2014041413204	2014-04-10 00:00:00	2014-03-21 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-189842	2014050113653	2014-04-29 00:00:00	2014-04-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage		Cosmetics		11.85	Approve in Full
-189970	2014050813782	2014-05-01 00:00:00	2014-04-04 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Scientific Intruments		100.0	Approve in Full
-190807	2014061314632	2014-06-11 00:00:00	2014-05-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		501.65	Settle
-191009	2014062414839	2014-06-17 00:00:00	2014-04-23 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		2.74	Approve in Full
-191022	2014062514854	2014-06-23 00:00:00	2014-05-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-191315	2014071515151	2014-06-29 00:00:00	2014-06-03 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		47.82	Approve in Full
-191702	2014080115547	2014-07-14 00:00:00	2014-06-24 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-192833	2014091816708	2014-08-26 00:00:00	2014-08-09 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Other		47.0	Approve in Full
-202911	2015011319820	2015-01-13 00:00:00	2015-01-02 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint		Other		0.0	Deny
-202912	2015012220076	2015-01-22 00:00:00	2014-11-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other			
-202913	2015012820242	2015-01-28 00:00:00	2014-12-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other		0.0	Deny
-202915	2015021820697	2015-02-18 00:00:00	2015-02-09 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories		0.0	Deny
-202917	2015050722367	2015-05-07 00:00:00	2015-03-17 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Household Items		0.0	Deny
-202918	2015051322496	2015-05-13 00:00:00	2015-04-02 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories,Electronics		0.0	Deny
-202919	2015052622767	2015-05-20 00:00:00	2015-04-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-202921	2015062223308	2015-06-11 00:00:00	2015-05-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			
-202927	2015080724684	2015-08-07 00:00:00	2015-06-10 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-202928	2015081824962	2015-08-17 00:00:00	2015-08-12 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Scientific Intruments,Scientific Intruments,Scientific Intruments,Scientific Intruments,Scientific Intruments		0.0	Deny
-202929	2015092125492	2015-08-31 00:00:00	2015-07-21 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-202930	2015092225531	2015-09-02 00:00:00	2015-07-17 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-202932	2015102126150	2015-10-01 00:00:00	2015-08-23 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories		129.0	Approve in Full
-202935	2015102326223	2015-10-16 00:00:00	2015-09-23 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Outdoors Supplies		0.0	Deny
-202936	2015111026780	2015-10-21 00:00:00	2015-09-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories		0.0	Deny
-202937	2015111726946	2015-10-26 00:00:00	2015-10-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		10.0	Approve in Full
-202941	2015121827680	2015-12-04 00:00:00	2015-11-22 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-211276	2016092133666	2016-07-21 00:00:00	2016-06-03 09:05:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor			Insufficient
-211279	2016030829444	2016-02-19 00:00:00	2016-02-08 15:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics			Closed:Canceled
-211281	2016053131889	2016-05-20 00:00:00	2016-03-15 12:50:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry,Watches & Jewelry,Scientific Intruments		0.0	Deny
-211282	2016060332007	2016-05-25 00:00:00	2016-05-10 12:15:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-211283	2016062832437	2016-06-03 00:00:00	2016-05-29 15:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies		0.0	Deny
-211285	2016082233178	2016-07-08 00:00:00	2016-06-11 12:18:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories,Electronics		0.0	Deny
-211287	2016101734721	2016-08-29 00:00:00	2016-07-21 06:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-211289	2016100634471	2016-08-29 00:00:00	2016-08-26 19:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories,Clothing & Accessories			In Review
-211290	2016122136114	2016-11-02 00:00:00	2016-09-04 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Electronics			In Review
-211291	2016092834012	2016-09-23 00:00:00	2016-09-07 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-211292	2016110235463	2016-10-06 00:00:00	2016-09-22 05:15:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint		Household Decor			In Review
-211293	2016122136110	2016-12-21 00:00:00	2016-10-04 19:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-211295	2017011836679	2016-11-28 00:00:00	2016-11-14 17:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-211297	2017020337243	2017-02-03 00:00:00	2016-12-12 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry			In Review
-219562	2017041138476	2017-02-07 00:00:00	2017-02-06 19:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
-219564	2017051139430	2017-03-10 00:00:00	2017-03-08 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219565	2017091843180	2017-08-12 00:00:00	2017-07-21 14:39:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-219566	2017052539959	2017-04-13 00:00:00	2017-03-27 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other			In Review
-219567	2017041238511	2017-02-13 00:00:00	2017-01-22 18:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
-219568	2017101244297	2017-09-13 00:00:00	2017-09-12 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Other			In Review
-219570	2017053140078	2017-04-18 00:00:00	2017-04-09 06:15:00	RNO	Reno/Tahoe International Reno/Tahoe International	Not Provided	Passenger Property Loss	Checked Baggage		Cosmetics			In Review
-219574	2017071941687	2017-06-21 00:00:00	2017-06-18 17:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-219576	2017100243901	2017-08-23 00:00:00	2017-07-11 19:16:00	RNO	Reno/Tahoe International Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies			In Review
-219578	2017091443106	2017-07-24 00:00:00	2017-06-28 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Containers			In Review
-219579	2017092543504	2017-09-25 00:00:00	2017-09-18 12:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Other			In Review
-219580	2017061340507	2017-04-26 00:00:00	2017-03-19 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics			In Review
-219582	2018011646809	2017-12-27 00:00:00	2017-12-27 09:45:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Cosmetics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+719	0703523M	2002-12-16 00:00:00	2002-11-30 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	383.03	Electronics	Cameras - Digital	Canceled		
+734	0620501M	2002-12-16 00:00:00	2002-11-30 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	383.03	Electronics	Cameras - Digital	Settled	324.05	Settle
+1224	20493	2003-01-09 00:00:00	2002-10-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	75.0	Approve in Full
+2788	0224050L	2003-02-24 00:00:00	2003-01-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	250.0	Other	Other	Denied	0.0	Deny
+2912	0225089L	2003-02-25 00:00:00	2003-02-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Other	3374.93	Containers	Luggage (all types including footlockers)	Denied	0.0	Deny
+3683	0314013L	2003-03-14 00:00:00	2003-02-10 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	370.0	Other	Other	Settled	100.0	Settle
+5318	0417081L	2003-04-17 00:00:00	2003-03-13 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	974.0	Electronics	Cell Phones	Settled	261.5	Settle
+5536	0422054L	2003-04-22 00:00:00	2003-03-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1070.0	Electronics	Cameras - Digital	Settled	898.71	Settle
+5967	0502046L	2003-05-02 00:00:00	2003-04-05 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	89.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	62.97	Settle
+8830	0618050L	2003-06-18 00:00:00	2003-04-18 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	34.0	Other	Other	Approved	34.0	Approve in Full
+11763	0728069M	2003-07-28 00:00:00	2003-07-16 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	750.0	Other	Other	Canceled		
+11781	0728064M	2003-07-28 00:00:00	2003-02-03 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	28605.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+12133	0731001M	2003-07-31 00:00:00	2003-07-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	180.0	Other	Currency	Approved	180.0	Approve in Full
+12555	0805023M	2003-08-05 00:00:00	2003-07-24 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checkpoint	255.0	Other	Other	Settled	127.5	Settle
+13234	0814054M	2003-08-14 00:00:00	2003-06-25 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	436.0	Other	Other	Approved	436.0	Approve in Full
+14330	0826231M	2003-08-26 00:00:00	2003-07-24 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checkpoint	255.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+14458	0826039M	2003-08-26 00:00:00	2003-08-17 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	30.0	Settle
+15151	0905016M	2003-09-05 00:00:00	2003-08-10 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	1500.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+16833	0926041M	2003-09-26 00:00:00	2003-09-15 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	150.0	Other	Other	Approved	150.0	Approve in Full
+17078	1002065M	2003-10-02 00:00:00	2003-05-24 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	2000.0	Other	Other	Denied	0.0	Deny
+17582	1009044M	2003-10-09 00:00:00	2003-09-17 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	99.95	Other	Other	Approved	99.95	Approve in Full
+17638	1009276M	2003-10-09 00:00:00	2003-09-11 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	125.0	Other	Other	Approved	125.0	Approve in Full
+18606	1022354M	2003-10-22 00:00:00	2003-10-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	37.0	Other	Other	Approved	37.0	Approve in Full
+19075	1028054M	2003-10-28 00:00:00	2003-10-02 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+19662	1107041M	2003-11-07 00:00:00	2003-10-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Other	Approved	25.0	Approve in Full
+19921	1107510M	2003-11-07 00:00:00	2003-10-11 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	170.0	Other	Other	Denied	0.0	Deny
+20948	1121039M	2003-11-21 00:00:00	2003-09-21 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	310.53	Watches & Jewelry	Jewelry - Fine	Approved	310.53	Approve in Full
+20975	1121149M	2003-11-21 00:00:00	2003-10-25 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	395.0	Other	Other	Approved	395.0	Approve in Full
+23458	1222157M	2003-12-22 00:00:00	2003-11-30 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	1500.0	Electronics	Cameras - Digital	Settled	400.0	Settle
+23798	0105206M	2004-01-05 00:00:00	2003-11-07 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	445.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+27214	0205269M	2004-02-05 00:00:00	2004-01-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2833.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+27454	0210056M	2004-02-10 00:00:00	2004-02-01 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	30.0	Other	Other	Denied	0.0	Deny
+28197	0219478M	2004-02-19 00:00:00	2004-01-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	850.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+28835	0226158M	2004-02-26 00:00:00	2004-02-15 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	312.95	Clothing & Accessories	Eyeglasses - (including contact lenses)	Canceled		
+29642	2004050650581	2004-03-05 00:00:00	2004-01-24 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Settled	150.0	Settle
+29696	2004042350050	2004-03-10 00:00:00	2004-02-21 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	28.0	Other	Other	Approved	28.0	Approve in Full
+29750	2004051752485	2004-03-10 00:00:00	2004-12-18 00:00:00	RNO	Reno/Tahoe International	American West	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Approved	150.0	Approve in Full
+30570	2004051151148	2004-03-18 00:00:00	2004-03-04 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	35.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	35.0	Approve in Full
+30715	2004051151155	2004-03-18 00:00:00	2004-01-02 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	450.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+31034	2004051351560	2004-03-22 00:00:00	2003-10-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	245.91	Electronics	Cameras - Digital	Settled	208.88	Settle
+31091	2004051251320	2004-03-24 00:00:00	2004-03-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Electronics	DVD/CD Players	Approved	25.0	Approve in Full
+31316	2004052453210	2004-03-24 00:00:00	2004-03-16 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+31390	2004051351650	2004-03-24 00:00:00	2004-01-12 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	158.42	Electronics	Cell Phones	Settled	79.21	Settle
+32183	2004051852854	2004-04-06 00:00:00	2004-02-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1382.95	Other	Other	Canceled	0.0	
+32235	2004052153039	2004-04-06 00:00:00	2004-03-22 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	580.0	Other	Other	Denied	0.0	Deny
+32332	0226280M	2004-04-07 00:00:00	2004-02-05 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	250.0	Electronics	Cell Phones	Denied	0.0	Deny
+32471	2004052553476	2004-04-15 00:00:00	2004-03-30 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	14.96	Other	Other	Canceled	0.0	
+32602	2004052553395	2004-04-15 00:00:00	2004-03-05 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	114.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	57.0	Settle
+33361	2004060254221	2004-04-21 00:00:00	2003-09-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	365.7	Other	Other	Settled	182.5	Settle
+33599	2004060754949	2004-04-23 00:00:00	2004-03-15 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	4017.31	Other	Other	Denied	0.0	Deny
+34128	2004060454631	2004-05-04 00:00:00	2004-04-08 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	6.0	Other	Currency	Approved	6.0	Approve in Full
+34142	2004060454679	2004-05-04 00:00:00	2004-03-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Other	Other	Approved	85.0	Approve in Full
+34835	2004061055413	2004-05-10 00:00:00	2004-04-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	26.5	Other	Other	Approved	26.5	Approve in Full
+35082	2004061555912	2004-05-10 00:00:00	2004-02-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	423.0	Other	Other	Settled	211.5	Settle
+35540	2004061856245	2004-05-19 00:00:00	2004-05-06 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	59.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	59.95	Approve in Full
+35963	2004062156500	2004-05-27 00:00:00	2004-03-14 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1649.99	Electronics	Computer - Laptop	Approved	1649.99	Approve in Full
+36614	2004062156709	2004-05-28 00:00:00	2004-05-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	587.15	Other	Other	Settled	293.58	Settle
+37327	2004062957731	2004-06-08 00:00:00	2004-05-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	92.0	Other	Other	Approved	92.0	Approve in Full
+37384	2004070158179	2004-06-08 00:00:00	2004-05-27 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	19.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	19.95	Approve in Full
+37626	2004063057942	2004-06-10 00:00:00	2004-03-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	40.0	Other	Other	Approved	40.0	Approve in Full
+37635	2004070158076	2004-06-10 00:00:00	2004-05-06 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	60.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	60.0	Approve in Full
+37722	2004063058011	2004-06-10 00:00:00	2004-05-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Jewelry - Fine	Settled	150.0	Settle
+38638	2004071559418	2004-06-24 00:00:00	2004-05-25 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	9.23	Tools & Machines	Locks	Denied	9.23	Deny
+39737	2004081161218	2004-07-09 00:00:00	2004-06-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	400.0	Other	Other	Denied	0.0	Deny
+39845	2004081161210	2004-07-09 00:00:00	2004-05-17 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Theft	Checkpoint	1529.5	Other	Other	Settled	29.5	Settle
+40515	2004081061029	2004-07-20 00:00:00	2004-05-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	704.95	Electronics	Cameras - Digital	Approved	704.95	Approve in Full
+40567	2004072760054	2004-07-20 00:00:00	2004-06-24 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	5000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+42668	2004092463837	2004-08-16 00:00:00	2004-07-24 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	8.43	Tools & Machines	Locks	Approved	8.43	Approve in Full
+42951	2004100564572	2004-08-19 00:00:00	2004-08-05 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	105.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	50.0	Settle
+43202	2004100464411	2004-08-24 00:00:00	2004-08-07 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	1499.99	Electronics	Computer - Laptop	Denied	0.0	Deny
+43300	2004100564553	2004-08-24 00:00:00	2004-08-15 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checked Baggage	207.0	Other	Other	Settled	182.6	Settle
+43703	2004092163312	2004-08-31 00:00:00	2004-08-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	170.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+43713	2004092363803	2004-08-31 00:00:00	2004-08-02 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	201.98	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied		Deny
+43734	2004100564540	2004-08-31 00:00:00	2004-08-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	502.93	Electronics	Cameras - Digital	Denied		Deny
+43740	2004100564586	2004-08-31 00:00:00	2004-08-20 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	492.82	Electronics	Cameras - Digital	Denied	0.0	Deny
+44072	2004101364879	2004-09-09 00:00:00	2004-08-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	18.9	Other	Other	Approved	18.9	Approve in Full
+45157	2004110666534	2004-09-16 00:00:00	2004-08-12 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	139.99	Electronics	Cameras - Digital	Settled	111.2	Settle
+45202	2004110566452	2004-09-17 00:00:00	2004-08-28 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	88.0	Supplies	Medicines	Approved	88.0	Approve in Full
+45641	2004110766623	2004-09-23 00:00:00	2004-09-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	105.56	Other	Other	Approved	105.56	Approve in Full
+46254	2004110566462	2004-09-29 00:00:00	2004-09-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1479.95	Electronics	Cameras - Digital	Denied	0.0	Deny
+46539	2004110866728	2004-10-05 00:00:00	2004-09-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	80.0	Other	Other	Approved	80.0	Approve in Full
+46816	2004111967389	2004-10-05 00:00:00	2004-09-06 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1623.74	Electronics	Computer - Laptop	Settled	639.92	Settle
+47024	2004112767869	2004-10-08 00:00:00	2004-09-20 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	373.92	Electronics	Cameras - Digital	Denied	0.0	Deny
+47251	2004112867887	2004-10-14 00:00:00	2004-09-05 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	629.0	Other	Other	Denied	0.0	Deny
+47527	2004120268258	2004-10-18 00:00:00	2004-09-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.23	Other	Other	Approved	32.23	Approve in Full
+47557	2004120368370	2004-10-18 00:00:00	2004-09-25 00:00:00	RNO	Reno/Tahoe International	Northwest Airlines	Passenger Property Loss	Checked Baggage	65.0	Other	Other	Approved	65.0	Approve in Full
+48005	2004120768731	2004-10-21 00:00:00	2004-08-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1450.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+48198	2004120868842	2004-10-25 00:00:00	2004-08-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	85.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	50.0	Settle
+48206	2004120968917	2004-10-25 00:00:00	2004-06-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	591.4	Watches & Jewelry	Jewelry - Fine	Settled	247.5	Settle
+48275	2004121068960	2004-10-26 00:00:00	2004-10-11 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checkpoint	820.0	Other	Currency	Denied	0.0	Deny
+48573	2004122170007	2004-10-27 00:00:00	2004-10-17 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	105.0	Watches & Jewelry	Jewelry - Fine	Settled	88.69	Settle
+48687	2004122069437	2004-10-29 00:00:00	2004-10-13 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	31.24	Other	Other	Approved	31.24	Approve in Full
+49078	2004122971669	2004-11-04 00:00:00	2004-10-14 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	60.33	Supplies	Medicines	Approved	60.33	Approve in Full
+49952	2004122270346	2004-11-15 00:00:00	2004-08-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	135.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+50409	2004122770857	2004-11-22 00:00:00	2004-11-08 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	1128.0	Watches & Jewelry	Jewelry - Fine	Approved	1128.0	Approve in Full
+50605	2004122871364	2004-11-23 00:00:00	2004-08-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+50614	2004122871465	2004-11-23 00:00:00	2004-09-23 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	520.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+50921	2004122770971	2004-11-29 00:00:00	2004-11-08 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	10253.0	Watches & Jewelry	Jewelry - Fine	Settled	250.0	Settle
+51891	2005010372096	2004-12-13 00:00:00	2004-11-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	339.95	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	169.98	Settle
+51987	2005010673021	2004-12-14 00:00:00	2004-09-02 00:00:00	RNO	Reno/Tahoe International	Skywest Airlines Inc USA	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Approved	20.0	Approve in Full
+52438	2005010673013	2004-12-20 00:00:00	2004-11-03 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	95.0	Watches & Jewelry	Jewelry - Fine	Approved	95.0	Approve in Full
+52868	2005011173405	2004-12-23 00:00:00	2004-12-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	108.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Approved	108.0	Approve in Full
+52872	2005011173390	2004-12-23 00:00:00	2004-12-17 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	369.45	Electronics	Cameras - Digital	Canceled		
+54132	2005020475690	2005-01-11 00:00:00	2004-10-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	26.99	Other	Other	Approved	26.99	Approve in Full
+54251	2005020375611	2005-01-11 00:00:00	2004-09-10 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	2857.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+54557	2005013174968	2005-01-14 00:00:00	2005-01-06 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	56.35	Other	Other	Denied	0.0	Deny
+55262	2005021776360	2005-01-24 00:00:00	2004-12-23 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	100.0	Other	Currency	Approved	100.0	Approve in Full
+55365	2005021776320	2005-01-24 00:00:00	2004-12-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Watches & Jewelry	Jewelry - Fine	Denied		Deny
+55568	2005021176048	2005-01-26 00:00:00	2005-01-01 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	267.98	Watches & Jewelry	Jewelry - Fine	Denied	276.98	Deny
+56828	2005030977436	2005-02-08 00:00:00	2004-11-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	2250.0	Other	Currency	Settled	1400.0	Settle
+57374	2005031678451	2005-02-16 00:00:00	2005-02-05 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	1120.0	Electronics	Cameras - Digital	Canceled	0.0	
+57600	2005032479635	2005-02-18 00:00:00	2005-02-16 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	899.99	Other	Other	Settled	449.5	Settle
+59014	2005032579862	2005-03-09 00:00:00	2005-02-22 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	160.0	Other	Other	Denied	0.0	Deny
+59409	2005032880111	2005-03-16 00:00:00	2005-03-08 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	519.96	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+59965	2005033180842	2005-03-23 00:00:00	2005-03-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	91.24	Other	Other	Denied	0.0	Deny
+60278	2005040181013	2005-03-29 00:00:00	2005-02-25 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+60473	2005040581504	2005-03-30 00:00:00	2005-03-21 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	121.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	121.0	Approve in Full
+60688	2005040581617	2005-04-04 00:00:00	2005-01-31 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	7.1	Tools & Machines	Locks	Approved	7.1	Approve in Full
+61902	2005041982805	2005-04-18 00:00:00	2005-04-11 00:00:00	RNO	Reno/Tahoe International	American West	Passenger Property Loss	Checked Baggage	70.0	Other	Currency	Denied	0.0	Deny
+62336	2005042583204	2005-04-22 00:00:00	2005-03-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	50.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+62650	2005042983693	2005-04-26 00:00:00	2005-03-29 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	318.97	Electronics	DVD/CD Players	Denied	0.0	Deny
+63362	2005052385306	2005-05-06 00:00:00	2004-02-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	1419.11	Other	Other	Settled	85.11	Settle
+63494	2005051084402	2005-05-10 00:00:00	2005-02-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	269.97	Electronics	Cameras - Digital	Approved	269.97	Approve in Full
+63977	2005051884932	2005-05-16 00:00:00	2005-04-27 00:00:00	RNO	Reno/Tahoe International	Allegiant Air	Passenger Property Loss	Checkpoint	475.0	Other	Currency	Denied	0.0	Deny
+65005	2005061086190	2005-05-31 00:00:00	2005-02-01 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	400.0	Other	Other	Denied	0.0	Deny
+65794	2005062186779	2005-06-09 00:00:00	2005-05-22 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	40.0	Other	Currency	Approved	40.0	Approve in Full
+67970	2005071488972	2005-07-13 00:00:00	2005-07-03 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	26.5	Electronics	Cell Phones	Denied	0.0	Deny
+68311	2005071989205	2005-07-18 00:00:00	2004-09-17 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	657.0	Electronics	Cameras - Digital	Settled	301.15	Settle
+69488	2005081590552	2005-08-04 00:00:00	2005-05-15 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	495.74	Electronics	Cameras - Digital	Denied	0.0	Deny
+69804	2005081890811	2005-08-09 00:00:00	2005-06-05 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage	247.9	Other	Other	Denied	0.0	Deny
+69817	2005081890857	2005-08-09 00:00:00	2005-07-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	1499.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+69915	2005081990999	2005-08-10 00:00:00	2004-12-30 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	180.0	Electronics	Cell Phones	Approved	180.0	Approve in Full
+70304	2005082491337	2005-08-16 00:00:00	2005-08-08 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	549.74	Other	Other	Settled	207.32	Settle
+70372	2005082491401	2005-08-18 00:00:00	2005-07-02 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	500.0	Other	Currency	Denied	0.0	Deny
+70428	2005082591480	2005-08-19 00:00:00	2005-07-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	25.0	Other	Other	Approved	25.0	Approve in Full
+70658	2005082991763	2005-08-23 00:00:00	2005-08-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	700.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+70931	2005082991741	2005-08-29 00:00:00	2005-08-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Other	Approved	150.0	Approve in Full
+71107	2005090692154	2005-08-30 00:00:00	2005-07-29 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	140.0	Other	Currency	Denied	0.0	Deny
+71197	2005083191967	2005-08-31 00:00:00	2005-07-31 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checked Baggage	7.4	Tools & Machines	Locks	Approved	7.4	Approve in Full
+71416	2005091492401	2005-09-06 00:00:00	2005-08-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	500.0	Electronics	Cameras - Digital	Settled	84.4	Settle
+72043	2005092193085	2005-09-14 00:00:00	2005-07-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	484.98	Electronics	Cameras - Digital	Settled	187.77	Settle
+72222	2005092993400	2005-09-19 00:00:00	2005-09-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	4600.0	Watches & Jewelry	Jewelry - Fine	Canceled	0.0	
+72364	2005092993481	2005-09-20 00:00:00	2005-09-11 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	64.37	Watches & Jewelry	Jewelry - Fine	Approved	64.37	Approve in Full
+72672	2005100393780	2005-09-26 00:00:00	2005-09-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	10.0	Tools & Machines	Locks	Approved	10.0	Approve in Full
+72914	2005100594035	2005-09-29 00:00:00	2005-08-11 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	4.29	Tools & Machines	Locks	Approved	4.29	Approve in Full
+73722	2005101894827	2005-10-13 00:00:00	2005-09-13 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	275.0	Other	Other	Approved	275.0	Approve in Full
+74133	2005102795283	2005-10-20 00:00:00	2005-10-06 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint	25.0	Other	Other	Approved	25.0	Approve in Full
+74266	2005102895371	2005-10-21 00:00:00	2005-10-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	1193.24	Electronics	Computer - Laptop	Settled	928.0	Settle
+74368	2005110795638	2005-10-25 00:00:00	2005-09-03 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	21.55	Tools & Machines	Locks	Approved	21.55	Approve in Full
+75451	2005120196812	2005-11-15 00:00:00	2005-10-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	66.28	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	66.28	Approve in Full
+75717	2005120196845	2005-11-18 00:00:00	2005-09-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	275.0	Other	Other	Denied	0.0	Deny
+77297	2005122798440	2005-12-19 00:00:00	2005-12-07 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	120.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+78994	2006012300034	2006-01-18 00:00:00	2005-10-04 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	316.99	Electronics	Cameras - Digital	Denied	0.0	Deny
+79264	2006012600428	2006-01-23 00:00:00	2005-12-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	391.96	Electronics	Cameras - Digital	Approved	391.96	Approve in Full
+79308	2006012600458	2006-01-23 00:00:00	2006-01-05 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1164.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+79822	2006020701014	2006-01-31 00:00:00	2006-01-13 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage	99.0	Other	Other	Approved	99.0	Approve in Full
+81183	2006030202354	2006-02-24 00:00:00	2006-02-11 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	25.0	Watches & Jewelry	Jewelry - Fine	Approved	25.0	Approve in Full
+81393	2006030602552	2006-02-28 00:00:00	2006-01-29 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	156.0	Other	Other	Denied	0.0	Deny
+81525	2006030702678	2006-03-02 00:00:00	2006-02-13 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	195.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+81960	2006031503142	2006-03-09 00:00:00	2006-01-03 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	350.0	Other	Other	Denied	0.0	Deny
+82239	2006031703300	2006-03-14 00:00:00	2006-02-26 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	350.0	Electronics	Cameras - Digital	Settled	69.98	Settle
+82342	2006032103462	2006-03-16 00:00:00	2005-12-22 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	790.0	Watches & Jewelry	Jewelry - Fine	Settled	321.59	Settle
+82966	2006040604116	2006-03-28 00:00:00	2006-03-20 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	514.18	Electronics	Cameras - Digital	Denied	0.0	Deny
+83914	2006041704670	2006-04-17 00:00:00	2005-11-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	14.95	Other	Other	Denied	0.0	Deny
+84146	2006042505267	2006-04-20 00:00:00	2006-02-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	909.69	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	441.72	Settle
+84176	2006042505326	2006-04-24 00:00:00	2006-04-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	376.0	Other	Currency	Approved	376.0	Approve in Full
+84281	2006050305679	2006-04-24 00:00:00	2006-04-01 00:00:00	RNO	Reno/Tahoe International	ATA Aerocondor	Passenger Property Loss	Checked Baggage	1075.94	Electronics	Cameras - Digital	Denied	0.0	Deny
+84421	2006050105519	2006-04-26 00:00:00	2006-03-08 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	309.98	Electronics	Cameras - Digital	Settled	116.88	Settle
+84449	2006050105542	2006-04-27 00:00:00	2006-02-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	260.0	Other	Other	Denied	0.0	Deny
+84450	2006050105550	2006-04-27 00:00:00	2006-04-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2125.0	Other	Other	Denied	0.0	Deny
+85615	2006052306850	2006-05-22 00:00:00	2006-05-07 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	15.0	Other	Other	Denied	0.0	Deny
+86535	2006061207813	2006-06-08 00:00:00	2006-05-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+86691	2006061407999	2006-06-13 00:00:00	2006-03-06 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	181.68	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	181.68	Approve in Full
+86741	2006061407946	2006-06-13 00:00:00	2005-11-19 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	111.83	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	55.92	Settle
+87214	2006062308477	2006-06-22 00:00:00	2006-05-16 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1635.97	Electronics,Electronics	Cameras - Digital*Video Recordings (blank & commercial)	Denied	0.0	Deny
+87635	2006070508918	2006-06-30 00:00:00	2006-06-11 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+88674	2006072109896	2006-07-19 00:00:00	2006-06-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	165.0	Electronics,Other	DVD/CD Players*Other	Settled	74.94	Settle
+88686	2006072409927	2006-07-20 00:00:00	2006-05-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	448.0	Electronics,Other	Cameras - Digital*Other	Canceled	0.0	
+88748	2006072109910	2006-07-21 00:00:00	2006-07-18 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1496.4	Electronics	Computer - Laptop	Denied	0.0	Deny
+89123	2006080310437	2006-07-31 00:00:00	2006-07-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	63.95	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	63.95	Approve in Full
+91854	2006092113059	2006-09-20 00:00:00	2006-09-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	90.0	Supplies	Medicines	Denied	0.0	Deny
+91951	2006092513214	2006-09-21 00:00:00	2006-07-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	450.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+92987	2006101914212	2006-10-12 00:00:00	2006-09-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.8	Electronics,Supplies,Other	Cell Phones*Medicines*Other	Settled	63.4	Settle
+94090	2006110715298	2006-11-03 00:00:00	2006-10-02 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	499.99	Electronics	Cameras - Digital	Denied	0.0	Deny
+94271	2006111515630	2006-11-07 00:00:00	2006-08-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	70.0	Food & Drink	Alcoholic beverages	Denied	0.0	Deny
+94626	2006112015860	2006-11-14 00:00:00	2004-11-14 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	750.0	Containers,Other	Handbags & Purses (leather or fabric)*Other	Denied	0.0	Deny
+94628	2006112015863	2006-11-14 00:00:00	2004-11-14 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	870.88	Other,Containers,Other	Currency*Handbags & Purses (leather or fabric)*Other	Denied	0.0	Deny
+94821	2006112416157	2006-11-17 00:00:00	2006-11-16 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	82.95	Other	Other	Denied	0.0	Deny
+94950	2006112816315	2006-11-20 00:00:00	2006-10-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	127.75	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	63.88	Settle
+94973	2006113016520	2006-11-21 00:00:00	2006-10-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	21.75	Electronics	Cell Phones	Approved	21.75	Approve in Full
+95057	2006112916403	2006-11-22 00:00:00	2006-11-14 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	250.0	Electronics	Cell Phones	Denied	0.0	Deny
+95212	2006113016514	2006-11-27 00:00:00	2006-10-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	60.0	Supplies	Medicines	Denied	0.0	Deny
+95379	2006120616709	2006-11-29 00:00:00	2006-11-08 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint	1459.35	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+95962	2006121417135	2006-12-11 00:00:00	2006-09-08 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	554.64	Clothing & Accessories,Containers	Clothing - Shoes, belts, accessories, etc.*Luggage (all types including footlockers)	Denied	0.0	Deny
+96070	2006121517228	2006-12-12 00:00:00	2006-11-26 00:00:00	RNO	Reno/Tahoe International	American West	Passenger Property Loss	Checked Baggage	1407.79	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+96439	2006122217719	2006-12-19 00:00:00	2006-11-29 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	1000.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+96491	2006122117642	2006-12-19 00:00:00	2006-12-08 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage	80.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	20.0	Settle
+96634	2006122818038	2006-12-22 00:00:00	2006-08-23 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	12.99	Food & Drink	Alcoholic beverages	Denied	0.0	Deny
+97244	2007010318233	2007-01-03 00:00:00	2006-12-22 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	250.0	Containers,Supplies,Other	Luggage (all types including footlockers)*Medicines*Other	Denied	0.0	Deny
+98094	2007012519521	2007-01-16 00:00:00	2006-12-31 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	360.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled	0.0	
+98651	2007013119981	2007-01-23 00:00:00	2006-12-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	208.39	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+98720	2007012919691	2007-01-24 00:00:00	2007-01-13 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	726.68	Electronics	Computer - Laptop	Denied	0.0	Deny
+98786	2007013019779	2007-01-25 00:00:00	2007-01-16 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	300.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Canceled	0.0	
+99617	2007021220779	2007-02-08 00:00:00	2007-01-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	406.55	Electronics,Other	MP3 Players-(iPods, etc)*Other	Denied	0.0	Deny
+99857	2007021520963	2007-02-13 00:00:00	2007-01-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.78	Tools & Machines	Barber Supplies - Scissors, shears, elecric razors, etc.	Denied	0.0	Deny
+100170	2007022221361	2007-02-21 00:00:00	2007-02-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	10.55	Tools & Machines	Locks	Approved	10.55	Approve in Full
+100198	2007022221368	2007-02-21 00:00:00	2007-01-01 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	78.0	Clothing & Accessories,Cosmetics,Tools & Machines	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Locks	Denied	0.0	Deny
+100841	2007030922042	2007-03-06 00:00:00	2007-01-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	859.98	Tools & Machines,Cosmetics,Scientific Intruments	Barber Supplies - Scissors, shears, elecric razors, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Dental Equipment and Instruments	Denied	0.0	Deny
+100985	2007031322177	2007-03-08 00:00:00	2006-12-17 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint	99.08	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	58.05	Settle
+101003	2007031222128	2007-03-09 00:00:00	2007-02-09 00:00:00	RNO	Reno/Tahoe International	America West	Passenger Property Loss	Checked Baggage	505.98	Other	Other	Denied	0.0	Deny
+101744	2007032622933	2007-03-22 00:00:00	2007-02-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	89.56	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	44.78	Settle
+101928	2007032823135	2007-03-27 00:00:00	2007-03-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	20.0	Food & Drink	Alcoholic beverages	Denied	0.0	Deny
+101954	2007032923221	2007-03-27 00:00:00	2007-03-20 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	500.0	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+102183	2007040323401	2007-04-02 00:00:00	2007-03-10 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	80.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	80.0	Approve in Full
+102651	2007041623999	2007-04-10 00:00:00	2007-04-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	320.0	Tools & Machines	Locks	Denied	0.0	Deny
+102674	2007041624007	2007-04-11 00:00:00	2007-04-04 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	21.48	Tools & Machines	Locks	Approved	21.48	Approve in Full
+102689	2007041123808	2007-04-11 00:00:00	2007-02-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	21.85	Electronics	Cell Phones	Denied	0.0	Deny
+102709	2007041323973	2007-04-11 00:00:00	2007-04-06 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage	230.5	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+102770	2007041323949	2007-04-12 00:00:00	2007-03-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	16.08	Other	Other	Denied	0.0	Deny
+103247	2007042424412	2007-04-23 00:00:00	2007-04-12 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	303.66	Watches & Jewelry	Watches - Expensive more than $100	Denied	0.0	Deny
+103409	2007042724673	2007-04-25 00:00:00	2007-04-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Supplies	Medicines	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+103965	2007051025223	2007-05-08 00:00:00	2007-02-16 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	163.17	Electronics	PDA - Personal Data Assistants	Denied	0.0	Deny
+104052	2007051625463	2007-05-09 00:00:00	2007-04-26 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+104300	2007051625469	2007-05-15 00:00:00	2007-04-10 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	4500.0	Other	Other	Denied	0.0	Deny
+105491	2007061226767	2007-06-07 00:00:00	2007-03-31 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	450.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+105613	2007061426872	2007-06-11 00:00:00	2007-06-05 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	130.0	Clothing & Accessories,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Watches - Expensive more than $100	Canceled	0.0	
+106838	2007071128096	2007-07-05 00:00:00	2007-06-16 00:00:00	RNO	Reno/Tahoe International	Continental Airlines	Passenger Property Loss	Checked Baggage	175.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	99.22	Settle
+106958	2007071128146	2007-07-09 00:00:00	2007-06-28 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	69.67	Electronics	Computer - Laptop	Denied	0.0	Deny
+107362	2007071928655	2007-07-16 00:00:00	2007-04-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Electronics	DVD/CD Players	Denied	0.0	Deny
+108582	2007080929918	2007-08-06 00:00:00	2007-05-22 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	20.0	Household Decor	Lamps (including sun lamps)	Denied	0.0	Deny
+109098	2007082030439	2007-08-15 00:00:00	2007-05-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.8	Other	Other	Denied	0.0	Deny
+109212	2007082130551	2007-08-17 00:00:00	2007-07-24 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	74.61	Electronics,Electronics	Cameras - Digital*Cell Phones	Denied	0.0	Deny
+109614	2007082430838	2007-08-24 00:00:00	2007-08-03 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	303.1	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+110305	2007091331793	2007-09-06 00:00:00	2007-08-25 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	110.0	Other	Other	Denied	0.0	Deny
+110352	2007091231737	2007-09-07 00:00:00	2007-08-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	95.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+110843	2007091932245	2007-09-17 00:00:00	2007-08-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	4500.0	Cosmetics,Watches & Jewelry,Other	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Jewelry - Fine*Other	Denied	0.0	Deny
+111217	2007092532522	2007-09-24 00:00:00	2007-07-15 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	2150.0	Watches & Jewelry,Watches & Jewelry	Jewelry - Costume*Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+111243	2007092632567	2007-09-25 00:00:00	2007-08-01 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	100.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+111910	2007101233349	2007-10-09 00:00:00	2007-08-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	648.0	Scientific Intruments,Clothing & Accessories	Dental Equipment and Instruments*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+112113	2007101833594	2007-10-12 00:00:00	2007-10-05 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.99	Tools & Machines	Baby - Strollers, car seats, playpen, etc.	Denied	0.0	Deny
+112426	2007102433842	2007-10-19 00:00:00	2007-10-10 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	647.77	Electronics	GPS - Global Positioning System	Denied	0.0	Deny
+112482	2007102633983	2007-10-22 00:00:00	2007-08-30 00:00:00	RNO	Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checkpoint	75.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	75.0	Approve in Full
+113374	2007110934787	2007-11-07 00:00:00	2007-10-23 00:00:00	RNO	Reno/Tahoe International	Allegiant Air	Passenger Property Loss	Checked Baggage	885.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+113578	2007111535067	2007-11-13 00:00:00	2007-11-02 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1000.0	Scientific Intruments	Dental Equipment and Instruments	Denied	0.0	Deny
+113645	2007111434959	2007-11-13 00:00:00	2007-11-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	3274.96	Watches & Jewelry	Watches - Expensive more than $100	Settled	2321.07	Settle
+113774	2007112035221	2007-11-15 00:00:00	2007-10-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	52.99	Outdoors Supplies	Tools - Manual (not in a vehicle)	Denied	0.0	Deny
+113936	2007112635408	2007-11-19 00:00:00	2007-11-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	31.7	Games & Toys	Toys (game systems, cartridges, radio controlled cars, etc.)	Denied	0.0	Deny
+113944	2007112635425	2007-11-19 00:00:00	2007-10-08 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint	550.0	Watches & Jewelry,Other	Jewelry - Fine*Other	Denied	0.0	Deny
+114978	2007121236423	2007-12-11 00:00:00	2007-12-03 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	215.0	Other	Other	Approved	215.0	Approve in Full
+115215	2007121936689	2007-12-14 00:00:00	2007-12-06 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint	64.41	Other	Other	Denied	0.0	Deny
+115970	2008010837554	2008-01-02 00:00:00	2007-11-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	116.0	Clothing & Accessories,Containers,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Handbags & Purses (leather or fabric)*Jewelry - Costume	Denied	0.0	Deny
+116640	2008011638049	2008-01-11 00:00:00	2008-01-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	130.0	Watches & Jewelry	Jewelry - Costume	Settled	65.0	Settle
+117044	2008012938786	2008-01-22 00:00:00	2008-01-12 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint	400.16	Electronics	Cameras - Digital	Approved	400.16	Approve in Full
+117257	2008013038811	2008-01-24 00:00:00	2007-12-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	1930.2	Electronics	Computer - Laptop	Denied	0.0	Deny
+117372	2008020139030	2008-01-25 00:00:00	2008-01-13 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	600.0	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+118205	2008021539711	2008-02-12 00:00:00	2008-01-18 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	3000.0	Electronics	Computer - Laptop	Denied	0.0	Deny
+118587	2008022640197	2008-02-20 00:00:00	2007-06-18 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	155.61	Containers,Outdoors Supplies	Luggage (all types including footlockers)*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+118774	2008030440382	2008-02-25 00:00:00	2008-02-13 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	9.49	Tools & Machines	Locks	Denied	0.0	Deny
+118855	2008030640513	2008-02-25 00:00:00	2008-02-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	300.0	Other	Other	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+118865	2008030540445	2008-02-26 00:00:00	2008-01-18 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	300.0	Other	Currency	Approved	300.0	Approve in Full
+119292	2008031340959	2008-03-06 00:00:00	2008-01-20 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint	94.26	Electronics	Hearing Aids	Approved	94.26	Approve in Full
+119408	2008031741163	2008-03-10 00:00:00	2008-03-02 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	100.0	Watches & Jewelry	Watches - Inexpensive $100 or less	Approved	100.0	Approve in Full
+119659	2008032041305	2008-03-13 00:00:00	2008-02-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	12.79	Tools & Machines	Locks	Denied	0.0	Deny
+120907	2008041542559	2008-04-07 00:00:00	2008-03-07 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint	1300.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+121140	2008041742816	2008-04-10 00:00:00	2008-03-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	9.76	Tools & Machines	Locks	Denied	0.0	Deny
+121187	2008041742833	2008-04-11 00:00:00	2008-04-04 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	63.88	Other,Other	Other*Other	Denied	0.0	Deny
+121463	2008042243104	2008-04-16 00:00:00	2008-04-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	22.0	Other	Other	Denied	0.0	Deny
+122153	2008051444232	2008-04-30 00:00:00	2008-04-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	126.88	Electronics	Cameras - Digital	Denied	0.0	Deny
+122397	2008050944061	2008-05-06 00:00:00	2008-03-07 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	363.46	Electronics,Other	Cameras - Digital*Other	Denied	0.0	Deny
+122497	2008051244130	2008-05-08 00:00:00	2008-05-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	32.46	Electronics,Other	Cell Phones*Other	Denied	0.0	Deny
+123564	2008061345651	2008-05-30 00:00:00	2008-05-13 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	14.99	Tools & Machines	Locks	Denied	0.0	Deny
+123869	2008061245575	2008-06-06 00:00:00	2008-05-31 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	255.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+124176	2008062045956	2008-06-13 00:00:00	2008-05-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint	60.0	Other	Other	Denied	0.0	Deny
+124390	2008062446072	2008-06-19 00:00:00	2008-06-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	241.0	Electronics,Electronics,Electronics	Batteries - Dry cell only*Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+127055	2008082048844	2008-08-18 00:00:00	2008-08-09 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	409.98	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+127093	2008082148914	2008-08-18 00:00:00	2008-05-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	268.44	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+127184	2008082248985	2008-08-20 00:00:00	2008-08-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	205.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+127232	2008082248972	2008-08-21 00:00:00	2008-08-09 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	1178.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+128146	2008091549905	2008-09-11 00:00:00	2008-08-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.0	Other	Other	Denied	0.0	Deny
+128277	2008091850053	2008-09-15 00:00:00	2008-09-03 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	172.0	Other	Other	Denied	0.0	Deny
+128348	2008091950156	2008-09-16 00:00:00	2008-08-26 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	95.75	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+128627	2008092550409	2008-09-23 00:00:00	2008-09-14 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	9.88	Tools & Machines	Locks	Denied	0.0	Deny
+128792	2008100350773	2008-09-28 00:00:00	2008-09-23 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	400.0	Electronics	MP3 Players-(iPods, etc)	Canceled	0.0	
+128942	2008100250677	2008-10-01 00:00:00	2008-09-29 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	24.0	Tools & Machines	Locks	Denied	0.0	Deny
+128948	2008100250699	2008-10-01 00:00:00	2008-09-11 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	358.61	Clothing & Accessories,Watches & Jewelry,Watches & Jewelry	Clothing - Shoes, belts, accessories, etc.*Jewelry - Costume*Jewelry - Fine	Denied	0.0	Deny
+129140	2008101051051	2008-10-07 00:00:00	2008-09-29 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	84.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	84.0	Approve in Full
+129152	2008100850891	2008-10-07 00:00:00	2008-09-13 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	100.0	Tools & Machines	Lighters - (cigar, cigerette, etc.)	Denied	0.0	Deny
+129175	2008101051049	2008-10-07 00:00:00	2008-09-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	250.0	Containers,Watches & Jewelry	Bags - Fabric, plastic, etc. (not purses)*Jewelry - Costume	Denied	0.0	Deny
+129780	2008102751586	2008-10-23 00:00:00	2008-10-15 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	10.95	Tools & Machines	Locks	Approved	10.95	Approve in Full
+130328	2008111452212	2008-11-06 00:00:00	2008-08-19 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage	351.0	Electronics	Cameras - Digital	Canceled	0.0	
+130784	2008112052618	2008-11-18 00:00:00	2008-11-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	2700.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+131028	2008120152958	2008-11-25 00:00:00	2008-11-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	82.56	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	82.56	Approve in Full
+131715	2008121853535	2008-12-15 00:00:00	2008-12-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Denied	0.0	Deny
+132275	2009010654148	2008-12-30 00:00:00	2008-11-29 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Other	330.0	Electronics,Other	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)*Other	Denied	0.0	Deny
+132442	2009010954304	2009-01-05 00:00:00	2008-11-17 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	100.0	Electronics	Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+134314	2009031156107	2009-02-23 00:00:00	2009-02-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage	58.2	Musical Intruments	Musical Instruments - Other - inexpensive $100 or less	Denied	0.0	Deny
+134508	2009032056579	2009-02-27 00:00:00	2009-01-13 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage	385.0	Games & Toys	Game Equipment (poker chips, checker sets, chess etc.)	Denied	0.0	Deny
+135202	2009040357168	2009-03-18 00:00:00	2009-02-09 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	48.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+135529	2009041457505	2009-03-26 00:00:00	2009-03-21 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	20.0	Tools & Machines	Locks	Denied	0.0	Deny
+135688	2009042157805	2009-03-31 00:00:00	2009-03-27 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	7.99	Containers	Luggage (all types including footlockers)	Approved	7.99	Approve in Full
+136474	2009051458636	2009-04-21 00:00:00	2009-02-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	1200.0	Clothing & Accessories,Cosmetics	Clothing - Shoes, belts, accessories, etc.*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+136854	2009051858823	2009-05-01 00:00:00	2009-04-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Approved	15.0	Approve in Full
+136923	2009051858902	2009-05-04 00:00:00	2009-04-09 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint	3195.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+137136	2009051958934	2009-05-11 00:00:00	2009-04-24 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage	550.0	Other	Other	Denied	0.0	Deny
+137796	2009060259765	2009-05-29 00:00:00	2009-05-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	200.0	Other	Currency	Denied	0.0	Deny
+138649	2009063060752	2009-06-22 00:00:00	2009-06-06 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint	70.67	Electronics	Cell Phones	Denied	0.0	Deny
+139339	2009072161522	2009-07-10 00:00:00	2009-06-28 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	39.99	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+139451	2009071761406	2009-07-14 00:00:00	2009-06-06 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	64.0	Household Decor	Paintings and Pictures (including frames, etchings, photos, etc)	Canceled	0.0	
+141533	2009091163562	2009-09-10 00:00:00	2009-09-03 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	159.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Canceled		
+142114	2009093064165	2009-09-25 00:00:00	2009-09-16 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage	75.75	Other	Other	Denied	0.0	Deny
+142222	2009092964144	2009-09-29 00:00:00	2009-09-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	27.0	Other	Other	Denied	0.0	Deny
+142254	2009100664348	2009-09-30 00:00:00	2009-09-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	77.57	Tools & Machines,Outdoors Supplies	Locks*Sporting Equipment & Supplies (footballs, parachutes, etc.)	Canceled		
+142307	2009100664338	2009-10-01 00:00:00	2009-09-21 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	640.97	Electronics,Clothing & Accessories	Cameras - Digital*Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+144010	2009120366000	2009-11-27 00:00:00	2009-11-22 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	15.0	Tools & Machines	Locks	Approved	15.0	Approve in Full
+144409	2009121466542	2009-12-08 00:00:00	2009-11-11 10:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage	585.0	Watches & Jewelry	Jewelry - Fine	Approved	585.0	Approve in Full
+145102	2010010667234	2009-12-30 00:00:00	2009-12-14 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage	120.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+145232	2010012167733	2010-01-14 00:00:00	2010-01-01 06:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Other	Other		36.88	Approve in Full
+145351	2010012767976	2010-01-22 00:00:00	2010-01-19 06:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Clothing & Accessories,Scientific Intruments	Cameras*Clothing*Medical/Science		0.0	Deny
+145516	2010020468282	2010-01-29 00:00:00	2010-01-24 21:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		52.72	Approve in Full
+145528	2010021968563	2010-01-31 00:00:00	2010-01-04 10:40:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Household Items	Household Items		300.0	Approve in Full
+145764	2010022468698	2010-02-12 00:00:00	2010-01-31 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Electronics	Cameras			
+145805	2010022668759	2010-02-16 00:00:00	2010-01-31 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		68.1	Settle
+146125	2010030669151	2010-02-25 00:00:00	2010-01-22 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+146520	2010031769651	2010-03-09 00:00:00	2010-01-25 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Household Items	Household Items		0.0	Deny
+147007	2010032670109	2010-03-24 00:00:00	2010-03-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+147340	2010040670479	2010-04-05 00:00:00	2010-03-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other	Cameras*Other			
+147521	2010041370754	2010-04-08 00:00:00	2010-03-17 05:15:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+147731	2010042070997	2010-04-14 00:00:00	2010-03-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Electronics	Cameras*Personal Electronics		0.0	Deny
+147773	2010042070983	2010-04-15 00:00:00	2010-03-25 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		21.9	Approve in Full
+148339	2010050571511	2010-05-04 00:00:00	2010-04-30 21:55:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		40.24	Approve in Full
+148757	2010052472078	2010-05-17 00:00:00	2010-04-30 11:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science			
+149055	2010060372347	2010-05-25 00:00:00	2010-05-09 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Jewelry & Watches*Jewelry & Watches*Jewelry & Watches		0.0	Deny
+149393	2010061672707	2010-06-07 00:00:00	2010-05-13 10:30:00	RNO	Reno/Tahoe International	Allegiant Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+149460	2010062573122	2010-06-08 00:00:00	2010-05-16 13:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Containers,Clothing & Accessories,Other,Other,Other	Baggage/Cases/Purses*Clothing*Other*Other*Other		99.11	Approve in Full
+149686	2010062873126	2010-06-15 00:00:00	2010-06-11 18:41:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics			
+150199	2010071473667	2010-06-30 00:00:00	2010-06-07 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+150314	2010071473681	2010-07-06 00:00:00	2010-07-01 13:45:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+150775	2010072974189	2010-07-19 00:00:00	2010-06-14 14:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+150839	2010072874145	2010-07-20 00:00:00	2010-07-18 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+150925	2010080374327	2010-07-22 00:00:00	2010-06-15 05:05:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+151805	2010081975096	2010-08-17 00:00:00	2010-02-22 10:30:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Other	Other		26.98	Approve in Full
+151972	2010082575330	2010-08-23 00:00:00	2010-07-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories,Clothing & Accessories	Clothing*Clothing*Clothing		0.0	Deny
+152246	2010090275596	2010-08-30 00:00:00	2010-08-20 11:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+152496	2010091075879	2010-09-07 00:00:00	2010-07-20 07:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		18.0	Approve in Full
+152730	2010091776114	2010-09-13 00:00:00	2010-09-07 06:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		500.0	Approve in Full
+152745	2010091776133	2010-09-13 00:00:00	2010-08-21 12:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.59	Approve in Full
+153461	2010101376929	2010-10-04 00:00:00	2010-09-20 14:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		54.95	Approve in Full
+153552	2010101576972	2010-10-06 00:00:00	2010-09-26 13:15:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		54.03	Approve in Full
+153727	2010102177146	2010-10-13 00:00:00	2010-08-09 11:45:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+153772	2010101877042	2010-10-14 00:00:00	2010-10-05 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		133.49	Settle
+153914	2010102477310	2010-10-19 00:00:00	2010-10-24 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+154029	2010102977464	2010-10-21 00:00:00	2010-10-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+154036	2010102777437	2010-10-22 00:00:00	2010-09-17 17:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checkpoint		Electronics	Cameras		124.12	Approve in Full
+154245	2010110677668	2010-10-28 00:00:00	2010-10-05 10:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+154265	2011010379174	2010-11-01 00:00:00	2011-10-04 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+155426	2010122078863	2010-12-07 00:00:00	2010-12-05 06:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry	Jewelry & Watches*Jewelry & Watches		0.0	Deny
+156186	2011011479563	2011-01-06 00:00:00	2010-12-31 16:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		271.2	Approve in Full
+157042	2011022880612	2011-01-28 00:00:00	2011-01-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+157095	2011022480574	2011-01-31 00:00:00	2010-12-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items	Household Items			
+157158	2011030280746	2011-02-01 00:00:00	2011-01-01 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+157179	2011011979612	2011-02-02 00:00:00	2010-10-25 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras			
+157405	2011030280806	2011-02-10 00:00:00	2011-02-06 05:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Other,Electronics	Other*Personal Electronics		0.0	Deny
+157672	2011031081084	2011-02-22 00:00:00	2011-02-11 06:05:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+157733	2011031181154	2011-02-23 00:00:00	2011-02-08 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+158113	2011033181622	2011-03-07 00:00:00	2010-12-02 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+158373	2011040481837	2011-03-15 00:00:00	2011-03-06 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+158498	2011040581877	2011-03-21 00:00:00	2011-03-17 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other,Clothing & Accessories	Clothing*Other*Personal Accessories		0.0	Deny
+158710	2011042783025	2011-03-28 00:00:00	2011-03-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Scientific Intruments	Cosmetics & Grooming*Medical/Science		0.0	Deny
+159365	2011042082805	2011-04-18 00:00:00	2011-03-31 05:45:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		11.9	Approve in Full
+159734	2011050583259	2011-04-28 00:00:00	2011-04-23 17:30:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+160078	2011051983549	2011-05-10 00:00:00	2011-04-14 13:05:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+161264	2011062984746	2011-06-20 00:00:00	2011-06-04 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+161341	2011070584972	2011-06-21 00:00:00	2011-06-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		205.05	Settle
+161778	2011072085330	2011-07-06 00:00:00	2011-06-16 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+162165	2011080585776	2011-07-18 00:00:00	2011-06-15 06:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+162636	2011081886221	2011-08-02 00:00:00	2011-06-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		85.9	Approve in Full
+162825	2011082286352	2011-08-08 00:00:00	2011-07-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		9.58	Approve in Full
+162916	2011083086553	2011-08-09 00:00:00	2011-07-25 22:40:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Cosmetics	Baggage/Cases/Purses*Cosmetics & Grooming		0.0	Deny
+163146	2011090886776	2011-08-17 00:00:00	2011-07-30 07:25:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+163227	2011091286826	2011-08-19 00:00:00	2011-07-28 13:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other,Other	Other*Other		0.0	Deny
+163407	2011092087042	2011-08-25 00:00:00	2011-08-15 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Other	Other		50.0	Approve in Full
+163565	2011100487447	2011-08-30 00:00:00	2011-08-30 10:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other			
+163977	2011100587587	2011-09-14 00:00:00	2011-08-14 10:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.95	Approve in Full
+164466	2011101888085	2011-10-04 00:00:00	2011-04-10 11:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+164749	2011101287753	2011-10-12 00:00:00	2011-10-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+164979	2011110188612	2011-10-19 00:00:00	2011-10-12 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		8.52	Approve in Full
+165826	2011120589359	2011-11-16 00:00:00	2011-11-04 14:53:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+166925	2012013090493	2011-12-29 00:00:00	2011-12-23 06:30:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Electronics	Personal Electronics		0.0	Deny
+167185	2012020990847	2012-01-09 00:00:00	2011-12-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		82.95	Approve in Full
+167516	2012022291225	2012-01-17 00:00:00	2012-01-02 08:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Other	Clothing*Other		0.0	Deny
+168681	2012040592591	2012-02-22 00:00:00	2012-02-10 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Personal Accessories		191.43	Approve in Full
+168961	2012040992645	2012-03-05 00:00:00	2012-02-12 11:02:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		20.13	Approve in Full
+169413	2012032291957	2012-03-22 00:00:00	2011-12-18 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Other	Currency			
+170384	2012051694057	2012-04-26 00:00:00	2012-03-03 05:30:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Other	Currency		500.0	Approve in Full
+170628	2012052494247	2012-05-04 00:00:00	2012-04-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
+170925	2012060694570	2012-05-14 00:00:00	2012-04-27 14:15:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		23.0	Approve in Full
+170971	2012051694059	2012-05-16 00:00:00	2012-03-03 05:30:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics	Clothing*Travel Accessories		0.0	Deny
+171406	2012070395055	2012-06-01 00:00:00	2012-05-25 06:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+171652	2012071395359	2012-06-11 00:00:00	2012-02-27 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+171692	2012062895019	2012-06-12 00:00:00	2012-06-08 11:30:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+171828	2012071895498	2012-06-18 00:00:00	2012-05-07 11:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		36.04	Approve in Full
+172440	2012082596179	2012-07-10 00:00:00	2012-06-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		16.26	Approve in Full
+172455	2012071195236	2012-07-11 00:00:00	2012-05-22 12:55:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies,Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)*Sporting Equipment & Supplies (footballs, parachutes, etc.)		0.0	Deny
+172851	2012090796663	2012-07-24 00:00:00	2012-06-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checkpoint		Scientific Intruments	Medical/Science		182.0	Approve in Full
+173038	2012091396784	2012-07-31 00:00:00	2012-03-07 18:55:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+173420	2012092597132	2012-08-13 00:00:00	2012-08-04 12:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		9.64	Approve in Full
+173684	2012100597419	2012-08-21 00:00:00	2012-08-07 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+173777	2012100797448	2012-08-27 00:00:00	2012-07-13 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		0.0	Deny
+173827	2012101697631	2012-08-27 00:00:00	2012-08-20 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other	Cameras*Other		0.0	Deny
+173897	2012101597572	2012-08-29 00:00:00	2012-08-25 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+174443	2012102598117	2012-09-18 00:00:00	2012-09-11 11:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+174617	2012110798406	2012-09-24 00:00:00	2012-09-09 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+175108	2012111998766	2012-10-15 00:00:00	2012-09-21 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+175563	2012121999317	2012-10-31 00:00:00	2012-10-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+175903	2013010899641	2012-11-13 00:00:00	2012-09-28 10:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		25.0	Approve in Full
+177086	2013010399506	2013-01-03 00:00:00	2012-11-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		228.96	Approve in Full
+177577	2013020701192	2013-01-18 00:00:00	2013-01-08 13:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		60.0	Approve in Full
+178221	2013022501990	2013-02-11 00:00:00	2012-11-21 06:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		89.0	Approve in Full
+178848	2013031402589	2013-03-05 00:00:00	2013-02-18 15:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		12.0	Approve in Full
+179007	2013032502723	2013-03-11 00:00:00	2013-03-01 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+179589	2013041703226	2013-04-03 00:00:00	2013-03-19 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Cosmetics	Other*Travel Accessories		100.0	Approve in Full
+179899	2013050903606	2013-04-15 00:00:00	2013-04-07 14:42:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		22.5	Approve in Full
+179981	2013060904090	2013-04-17 00:00:00	2013-04-10 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		7.82	Approve in Full
+180027	2013060604000	2013-04-19 00:00:00	2013-04-17 05:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+180617	2013061304329	2013-05-13 00:00:00	2013-03-30 00:00:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other		11.5	Approve in Full
+181179	2013062404656	2013-06-04 00:00:00	2013-05-27 08:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		4.0	Approve in Full
+181533	2013080505639	2013-06-14 00:00:00	2013-05-17 09:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+181657	2013081305875	2013-06-19 00:00:00	2013-05-30 05:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		162.41	Approve in Full
+182104	2013072605481	2013-07-03 00:00:00	2013-07-01 06:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories			
+182329	2013082006078	2013-07-15 00:00:00	2013-06-21 06:30:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+182339	2013082006104	2013-07-15 00:00:00	2013-06-05 06:35:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		60.0	Approve in Full
+182569	2013090406518	2013-07-19 00:00:00	2013-06-26 12:22:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		22.1	Approve in Full
+182909	2013090906716	2013-08-01 00:00:00	2013-06-22 19:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+183367	2013092707382	2013-08-15 00:00:00	2013-04-17 13:40:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		22.42	Approve in Full
+183486	2013102407767	2013-08-19 00:00:00	2013-06-10 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		46.99	Approve in Full
+183629	2013102507897	2013-08-23 00:00:00	2013-08-01 15:12:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+184485	2013092507322	2013-09-25 00:00:00	2013-03-14 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		0.0	Deny
+185411	2013111509431	2013-11-04 00:00:00	2013-10-28 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Food & Drink	Food & Drink			
+185509	2013111309237	2013-11-07 00:00:00	2013-09-14 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+185519	2013111309279	2013-11-07 00:00:00	2013-10-03 09:00:00	RNO	Reno/Tahoe International	KLM Royal Dutch Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses		170.99	Approve in Full
+185991	2013120409816	2013-11-29 00:00:00	2013-11-10 10:45:00	RNO	Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing			
+186326	2013122010184	2013-12-12 00:00:00	2013-11-30 11:10:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other,Cosmetics	Cameras*Other*Travel Accessories			
+186331	2013121710104	2013-12-13 00:00:00	2013-11-12 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics			
+186459	2013123010310	2013-12-18 00:00:00	2013-12-08 12:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		205.0	Approve in Full
+187565	2014013111323	2014-01-27 00:00:00	2014-01-04 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		9.08	Approve in Full
+188367	2014030312141	2014-02-26 00:00:00	2013-09-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+188424	2014030512199	2014-02-26 00:00:00	2014-02-13 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+188549	2014031012326	2014-03-10 00:00:00	2014-01-28 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		30.0	Approve in Full
+189070	2014040112865	2014-03-27 00:00:00	2014-03-26 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+189287	2014040913087	2014-04-04 00:00:00	2014-03-15 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+189382	2014041413182	2014-04-09 00:00:00	2014-01-26 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+189404	2014041413204	2014-04-10 00:00:00	2014-03-21 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+189842	2014050113653	2014-04-29 00:00:00	2014-04-04 00:00:00	RNO	Reno/Tahoe International		Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		11.85	Approve in Full
+189970	2014050813782	2014-05-01 00:00:00	2014-04-04 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		100.0	Approve in Full
+190807	2014061314632	2014-06-11 00:00:00	2014-05-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		501.65	Settle
+191009	2014062414839	2014-06-17 00:00:00	2014-04-23 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		2.74	Approve in Full
+191022	2014062514854	2014-06-23 00:00:00	2014-05-22 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+191315	2014071515151	2014-06-29 00:00:00	2014-06-03 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		47.82	Approve in Full
+191702	2014080115547	2014-07-14 00:00:00	2014-06-24 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+192833	2014091816708	2014-08-26 00:00:00	2014-08-09 00:00:00	RNO	Reno/Tahoe International	Horizon Air	Passenger Property Loss	Checked Baggage		Other	Other		47.0	Approve in Full
+202911	2015011319820	2015-01-13 00:00:00	2015-01-02 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint		Other	Other		0.0	Deny
+202912	2015012220076	2015-01-22 00:00:00	2014-11-11 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Other	Other			
+202913	2015012820242	2015-01-28 00:00:00	2014-12-27 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Other	Jewelry & Watches*Other		0.0	Deny
+202915	2015021820697	2015-02-18 00:00:00	2015-02-09 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		0.0	Deny
+202917	2015050722367	2015-05-07 00:00:00	2015-03-17 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics,Household Items	Clothing*Cosmetics & Grooming*Household Items		0.0	Deny
+202918	2015051322496	2015-05-13 00:00:00	2015-04-02 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Clothing & Accessories,Electronics	Clothing*Personal Electronics		0.0	Deny
+202919	2015052622767	2015-05-20 00:00:00	2015-04-17 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+202921	2015062223308	2015-06-11 00:00:00	2015-05-19 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			
+202927	2015080724684	2015-08-07 00:00:00	2015-06-10 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		0.0	Deny
+202928	2015081824962	2015-08-17 00:00:00	2015-08-12 00:00:00	RNO	Reno/Tahoe International	USAir	Passenger Property Loss	Checked Baggage		Scientific Intruments,Scientific Intruments,Scientific Intruments,Scientific Intruments,Scientific Intruments	Medical/Science*Medical/Science*Medical/Science*Medical/Science*Medical/Science		0.0	Deny
+202929	2015092125492	2015-08-31 00:00:00	2015-07-21 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+202930	2015092225531	2015-09-02 00:00:00	2015-07-17 00:00:00	RNO	Reno/Tahoe International	American Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+202932	2015102126150	2015-10-01 00:00:00	2015-08-23 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		129.0	Approve in Full
+202935	2015102326223	2015-10-16 00:00:00	2015-09-23 00:00:00	RNO	Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Outdoors Supplies	Hunting & Fishing Items		0.0	Deny
+202936	2015111026780	2015-10-21 00:00:00	2015-09-25 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Clothing & Accessories	Clothing*Clothing		0.0	Deny
+202937	2015111726946	2015-10-26 00:00:00	2015-10-24 00:00:00	RNO	Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		10.0	Approve in Full
+202941	2015121827680	2015-12-04 00:00:00	2015-11-22 00:00:00	RNO	Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Other	Currency		0.0	Deny
+211276	2016092133666	2016-07-21 00:00:00	2016-06-03 09:05:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Decor	Home Decor			Insufficient
+211279	2016030829444	2016-02-19 00:00:00	2016-02-08 15:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Electronics	Cameras			Closed:Canceled
+211281	2016053131889	2016-05-20 00:00:00	2016-03-15 12:50:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry,Watches & Jewelry,Scientific Intruments	Jewelry & Watches*Jewelry & Watches*Medical/Science		0.0	Deny
+211282	2016060332007	2016-05-25 00:00:00	2016-05-10 12:15:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+211283	2016062832437	2016-06-03 00:00:00	2016-05-29 15:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	Alaska Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies		0.0	Deny
+211285	2016082233178	2016-07-08 00:00:00	2016-06-11 12:18:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Cosmetics,Clothing & Accessories,Electronics	Cosmetics & Grooming*Personal Accessories*Personal Electronics		0.0	Deny
+211287	2016101734721	2016-08-29 00:00:00	2016-07-21 06:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+211289	2016100634471	2016-08-29 00:00:00	2016-08-26 19:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other,Clothing & Accessories,Clothing & Accessories	Other*Personal Accessories*Personal Accessories			In Review
+211290	2016122136114	2016-11-02 00:00:00	2016-09-04 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Electronics	Computer & Accessories			In Review
+211291	2016092834012	2016-09-23 00:00:00	2016-09-07 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+211292	2016110235463	2016-10-06 00:00:00	2016-09-22 05:15:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checkpoint		Household Decor	Home Decor			In Review
+211293	2016122136110	2016-12-21 00:00:00	2016-10-04 19:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			In Review
+211295	2017011836679	2016-11-28 00:00:00	2016-11-14 17:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Tools & Home Improvement Supplies			In Review
+211297	2017020337243	2017-02-03 00:00:00	2016-12-12 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Watches & Jewelry,Watches & Jewelry,Watches & Jewelry	Jewelry & Watches*Jewelry & Watches*Jewelry & Watches			In Review
+219562	2017041138476	2017-02-07 00:00:00	2017-02-06 19:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			In Review
+219564	2017051139430	2017-03-10 00:00:00	2017-03-08 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Jet Blue	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			In Review
+219565	2017091843180	2017-08-12 00:00:00	2017-07-21 14:39:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Outdoor Items			In Review
+219566	2017052539959	2017-04-13 00:00:00	2017-03-27 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other			In Review
+219567	2017041238511	2017-02-13 00:00:00	2017-01-22 18:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review
+219568	2017101244297	2017-09-13 00:00:00	2017-09-12 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Other	Currency			In Review
+219570	2017053140078	2017-04-18 00:00:00	2017-04-09 06:15:00	RNO	Reno/Tahoe International Reno/Tahoe International	Not Provided	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			In Review
+219574	2017071941687	2017-06-21 00:00:00	2017-06-18 17:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+219576	2017100243901	2017-08-23 00:00:00	2017-07-11 19:16:00	RNO	Reno/Tahoe International Reno/Tahoe International	American Airlines	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			In Review
+219578	2017091443106	2017-07-24 00:00:00	2017-06-28 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Frontier Airlines	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			In Review
+219579	2017092543504	2017-09-25 00:00:00	2017-09-18 12:30:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checked Baggage		Other	Currency			In Review
+219580	2017061340507	2017-04-26 00:00:00	2017-03-19 00:00:00	RNO	Reno/Tahoe International Reno/Tahoe International	Southwest Airlines	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming			In Review
+219582	2018011646809	2017-12-27 00:00:00	2017-12-27 09:45:00	RNO	Reno/Tahoe International Reno/Tahoe International	UAL	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming			In Review

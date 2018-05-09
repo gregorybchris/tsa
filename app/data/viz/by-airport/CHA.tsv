@@ -1,31 +1,31 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-3870	0318011L	2003-03-18 00:00:00	2003-02-14 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Cosmetics	Settled	125.0	Settle
-34920	2004061455527	2004-05-10 00:00:00	2003-12-03 00:00:00	CHA	Chattanooga Metropolitan		Passenger Property Loss	Checked Baggage		Outdoors Supplies	Canceled		
-53283	2005012173970	2004-12-30 00:00:00	2004-12-02 00:00:00	CHA	Chattanooga Metropolitan	Korean Airlines	Passenger Property Loss	Checked Baggage	174.0	Supplies	Denied	0.0	Deny
-64724	2005060385768	2005-05-24 00:00:00	2005-03-18 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	776.0	Clothing & Accessories	Denied	0.0	Deny
-72270	2005092893356	2005-09-19 00:00:00	2005-09-11 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	660.93	Watches & Jewelry	Denied	0.0	Deny
-73598	2005101894810	2005-10-12 00:00:00	2005-10-05 00:00:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checked Baggage	50.0	Containers	Approved	50.0	Approve in Full
-102065	2007033023264	2007-03-29 00:00:00	2007-02-26 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	217.0	Watches & Jewelry	Denied	0.0	Deny
-102685	2007041123789	2007-04-11 00:00:00	2007-03-10 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	657.0	Other,Watches & Jewelry	Denied	0.0	Deny
-103945	2007050825124	2007-05-08 00:00:00	2007-05-01 00:00:00	CHA	Chattanooga Metropolitan		Passenger Property Loss	Checked Baggage	194.0	Electronics,Cosmetics,Supplies	Denied	0.0	Deny
-115133	2007121336487	2007-12-12 00:00:00	2007-11-22 00:00:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage	435.0	Scientific Intruments	Settled	217.9	Settle
-117696	2008021139365	2008-01-31 00:00:00	2008-01-19 00:00:00	CHA	Chattanooga Metropolitan	SkyBus	Passenger Property Loss	Checked Baggage	150.0	Containers,Watches & Jewelry	Denied	0.0	Deny
-118043	2008021439669	2008-02-08 00:00:00	2008-01-09 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	4225.0	Watches & Jewelry	Denied	0.0	Deny
-118377	2008022139911	2008-02-15 00:00:00	2008-02-08 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	354.38	Electronics,Electronics,Electronics,Other	Denied	0.0	Deny
-122061	2008050243708	2008-04-29 00:00:00	2008-04-20 00:00:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checked Baggage	27.0	Tools & Machines	Denied	0.0	Deny
-124593	2008062746305	2008-06-24 00:00:00	2008-05-12 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Other	Denied	0.0	Deny
-128628	2008092550410	2008-09-23 00:00:00	2008-09-12 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	28.76	Outdoors Supplies	Denied	0.0	Deny
-135244	2009041157355	2009-03-18 00:00:00	2009-03-06 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	210.0	Electronics	Denied	0.0	Deny
-138578	2009062360526	2009-06-19 00:00:00	2009-05-15 00:00:00	CHA	Chattanooga Metropolitan	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Electronics	Denied	0.0	Deny
-141577	2009092163862	2009-09-11 00:00:00	2009-08-09 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Approved	100.0	Approve in Full
-143604	2009112365599	2009-11-13 00:00:00	2009-09-26 08:00:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage	300.44	Containers	Denied	0.0	Deny
-144062	2009120366001	2009-11-27 00:00:00	2009-11-10 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
-148922	2010052872213	2010-05-21 00:00:00	2010-05-08 09:30:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-164844	2011102588345	2011-10-14 00:00:00	2011-10-08 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other		26.88	Approve in Full
-168822	2012032792184	2012-02-29 00:00:00	2012-02-18 15:00:00	CHA	Chattanooga Metropolitan		Passenger Property Loss	Checkpoint		Household Items		294.0	Settle
-169831	2012050393552	2012-04-06 00:00:00	2011-12-04 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-174279	2012102397993	2012-09-12 00:00:00	2012-08-07 15:55:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-184016	2013111209124	2013-09-06 00:00:00	2013-08-18 00:00:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies			
-192444	2014082816308	2014-08-14 00:00:00	2014-08-07 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-196662	2015052822817	2015-05-21 00:00:00	2015-05-06 00:00:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-205301	2017010436270	2016-11-09 00:00:00	2016-05-25 00:00:00	CHA	Chattanooga Metropolitan Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+3870	0318011L	2003-03-18 00:00:00	2003-02-14 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	250.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Settled	125.0	Settle
+34920	2004061455527	2004-05-10 00:00:00	2003-12-03 00:00:00	CHA	Chattanooga Metropolitan		Passenger Property Loss	Checked Baggage		Outdoors Supplies	Fish/Game	Canceled		
+53283	2005012173970	2004-12-30 00:00:00	2004-12-02 00:00:00	CHA	Chattanooga Metropolitan	Korean Airlines	Passenger Property Loss	Checked Baggage	174.0	Supplies	Medicines	Denied	0.0	Deny
+64724	2005060385768	2005-05-24 00:00:00	2005-03-18 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	776.0	Clothing & Accessories	Eyeglasses - (including contact lenses)	Denied	0.0	Deny
+72270	2005092893356	2005-09-19 00:00:00	2005-09-11 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	660.93	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+73598	2005101894810	2005-10-12 00:00:00	2005-10-05 00:00:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checked Baggage	50.0	Containers	Luggage (all types including footlockers)	Approved	50.0	Approve in Full
+102065	2007033023264	2007-03-29 00:00:00	2007-02-26 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	217.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+102685	2007041123789	2007-04-11 00:00:00	2007-03-10 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	657.0	Other,Watches & Jewelry	Currency*Jewelry - Fine	Denied	0.0	Deny
+103945	2007050825124	2007-05-08 00:00:00	2007-05-01 00:00:00	CHA	Chattanooga Metropolitan		Passenger Property Loss	Checked Baggage	194.0	Electronics,Cosmetics,Supplies	Cell Phones*Cosmetics - Perfume, toilet articles, medicines, soaps, etc.*Medicines	Denied	0.0	Deny
+115133	2007121336487	2007-12-12 00:00:00	2007-11-22 00:00:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage	435.0	Scientific Intruments	Dental Equipment and Instruments	Settled	217.9	Settle
+117696	2008021139365	2008-01-31 00:00:00	2008-01-19 00:00:00	CHA	Chattanooga Metropolitan	SkyBus	Passenger Property Loss	Checked Baggage	150.0	Containers,Watches & Jewelry	Handbags & Purses (leather or fabric)*Jewelry - Fine	Denied	0.0	Deny
+118043	2008021439669	2008-02-08 00:00:00	2008-01-09 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	4225.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+118377	2008022139911	2008-02-15 00:00:00	2008-02-08 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	354.38	Electronics,Electronics,Electronics,Other	Cell Phones*GPS - Global Positioning System*MP3 Players-(iPods, etc)*Other	Denied	0.0	Deny
+122061	2008050243708	2008-04-29 00:00:00	2008-04-20 00:00:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checked Baggage	27.0	Tools & Machines	Locks	Denied	0.0	Deny
+124593	2008062746305	2008-06-24 00:00:00	2008-05-12 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	145.0	Other	Other	Denied	0.0	Deny
+128628	2008092550410	2008-09-23 00:00:00	2008-09-12 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	28.76	Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)	Denied	0.0	Deny
+135244	2009041157355	2009-03-18 00:00:00	2009-03-06 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage	210.0	Electronics	Cameras - Digital	Denied	0.0	Deny
+138578	2009062360526	2009-06-19 00:00:00	2009-05-15 00:00:00	CHA	Chattanooga Metropolitan	American Airlines	Passenger Property Loss	Checked Baggage	75.0	Electronics	Stereo Items & Accessories	Denied	0.0	Deny
+141577	2009092163862	2009-09-11 00:00:00	2009-08-09 00:00:00	CHA	Chattanooga Metropolitan	Northwest Airlines	Passenger Property Loss	Checked Baggage	100.0	Other	Other	Approved	100.0	Approve in Full
+143604	2009112365599	2009-11-13 00:00:00	2009-09-26 08:00:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage	300.44	Containers	Handbags & Purses (leather or fabric)	Denied	0.0	Deny
+144062	2009120366001	2009-11-27 00:00:00	2009-11-10 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Containers,Watches & Jewelry	Handbags & Purses (leather or fabric)*Jewelry - Fine	Insufficient, one of the following items required: sum certain, statement of fact, signature, location of incident, and date.		
+148922	2010052872213	2010-05-21 00:00:00	2010-05-08 09:30:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Sporting Equipment & Supplies (footballs, parachutes, etc.)			
+164844	2011102588345	2011-10-14 00:00:00	2011-10-08 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Other	Other		26.88	Approve in Full
+168822	2012032792184	2012-02-29 00:00:00	2012-02-18 15:00:00	CHA	Chattanooga Metropolitan		Passenger Property Loss	Checkpoint		Household Items	Household Items		294.0	Settle
+169831	2012050393552	2012-04-06 00:00:00	2011-12-04 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+174279	2012102397993	2012-09-12 00:00:00	2012-08-07 15:55:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+184016	2013111209124	2013-09-06 00:00:00	2013-08-18 00:00:00	CHA	Chattanooga Metropolitan	Allegiant Air	Passenger Property Loss	Checked Baggage		Outdoors Supplies	Hunting & Fishing Items			
+192444	2014082816308	2014-08-14 00:00:00	2014-08-07 00:00:00	CHA	Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			
+196662	2015052822817	2015-05-21 00:00:00	2015-05-06 00:00:00	CHA	Chattanooga Metropolitan	USAir	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+205301	2017010436270	2016-11-09 00:00:00	2016-05-25 00:00:00	CHA	Chattanooga Metropolitan Chattanooga Metropolitan	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics	Clothing*Cosmetics & Grooming			In Review

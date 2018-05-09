@@ -1,4 +1,4 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-166647	2012011790209	2011-12-19 00:00:00	2011-12-10 00:00:00	OGS	Ogdensburg International	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		185.99	Settle
-218504	2017051839657	2017-05-01 00:00:00	2017-03-29 00:00:00	OGS	Ogdensburg International Ogdensburg International	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers			In Review
-218506	2018010546550	2017-12-26 00:00:00	2017-12-13 00:00:00	OGS	Ogdensburg International Ogdensburg International	Champion Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+166647	2012011790209	2011-12-19 00:00:00	2011-12-10 00:00:00	OGS	Ogdensburg International	Cape Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		185.99	Settle
+218504	2017051839657	2017-05-01 00:00:00	2017-03-29 00:00:00	OGS	Ogdensburg International Ogdensburg International	Allegiant Air	Passenger Property Loss	Checked Baggage		Containers	Baggage/Cases/Purses			In Review
+218506	2018010546550	2017-12-26 00:00:00	2017-12-13 00:00:00	OGS	Ogdensburg International Ogdensburg International	Champion Airlines	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches			In Review

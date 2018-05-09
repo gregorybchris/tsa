@@ -1,38 +1,38 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-25503	0120165M	2004-01-20 00:00:00	2003-12-04 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1451.55	Watches & Jewelry	Approved	1451.55	Approve in Full
-31697	2004051652364	2004-03-30 00:00:00	2004-03-19 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	156.96	Clothing & Accessories	Settled	78.48	Settle
-34077	2004051251444	2004-05-04 00:00:00	2004-04-17 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	57.3	Other	Approved	57.3	Approve in Full
-46102	2004111366907	2004-09-28 00:00:00	2004-09-10 00:00:00	MAF	Midland International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Settled	75.0	Settle
-60479	2005040581540	2005-03-30 00:00:00	2002-03-18 00:00:00	MAF	Midland International Airport	Continental Express Inc	Passenger Property Loss	Checked Baggage	10.6	Tools & Machines	Approved	10.6	Approve in Full
-65598	2005061786545	2005-06-07 00:00:00	2005-05-27 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Electronics	Approved	125.0	Approve in Full
-74026	2005102595135	2005-10-18 00:00:00	2005-10-07 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	1158.0	Other	Denied	0.0	Deny
-76517	2005121397587	2005-12-05 00:00:00	2005-11-09 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	92.0	Clothing & Accessories	Denied	0.0	Deny
-78458	2006011399577	2006-01-10 00:00:00	2005-09-27 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	5200.0	Watches & Jewelry	Denied	0.0	Deny
-83807	2006042104947	2006-04-13 00:00:00	2006-03-22 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	168.16	Tools & Machines	Settled	71.0	Settle
-100440	2007022821678	2007-02-27 00:00:00	2007-02-18 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.5	Cosmetics	Approved	10.5	Approve in Full
-108751	2007081330177	2007-08-09 00:00:00	2007-06-14 00:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage	53.0	Clothing & Accessories	Approved	53.0	Approve in Full
-108943	2007081530309	2007-08-13 00:00:00	2007-01-08 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Denied	0.0	Deny
-113143	2007110634600	2007-11-02 00:00:00	2007-09-17 00:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checkpoint	128.82	Clothing & Accessories	Denied	0.0	Deny
-124386	2008062446054	2008-06-19 00:00:00	2008-06-18 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	19.0	Electronics	Denied	0.0	Deny
-125032	2008070946701	2008-07-03 00:00:00	2008-05-17 00:00:00	MAF	Midland International Airport	American Eagle	Passenger Property Loss	Checked Baggage	480.0	Watches & Jewelry	Denied	0.0	Deny
-125204	2008071546905	2008-07-08 00:00:00	2008-06-08 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Denied	0.0	Deny
-130125	2008110651996	2008-10-31 00:00:00	2008-09-19 00:00:00	MAF	Midland International Airport		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Denied	0.0	Deny
-130389	2008111752259	2008-11-07 00:00:00	2008-10-28 00:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage	156.0	Cosmetics	Denied	0.0	Deny
-132877	2009012354794	2009-01-13 00:00:00	2008-12-19 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	278.94	Other	Denied	0.0	Deny
-136373	2009050558376	2009-04-20 00:00:00	2009-02-22 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	556.61	Electronics,Electronics	Denied	0.0	Deny
-141683	2009091763738	2009-09-14 00:00:00	2009-08-20 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.74	Watches & Jewelry	Denied	0.0	Deny
-147425	2010040770515	2010-04-06 00:00:00	2010-03-12 17:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-154591	2010112278049	2010-11-09 00:00:00	2010-10-03 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		3.0	Approve in Full
-156228	2011012479716	2011-01-06 00:00:00	2010-12-22 17:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other		0.0	Deny
-169048	2012040992654	2012-03-07 00:00:00	2012-03-02 00:00:00	MAF	Midland International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics		0.0	Deny
-170538	2012052394180	2012-05-02 00:00:00	2012-04-15 13:35:00	MAF	Midland International Airport		Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-178956	2013031802618	2013-03-11 00:00:00	2013-03-01 06:00:00	MAF	Midland International Airport		Passenger Property Loss	Checkpoint		Other		0.0	Deny
-184536	2013110508713	2013-09-25 00:00:00	2013-09-08 08:10:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other		0.0	Deny
-185588	2013111409302	2013-11-12 00:00:00	2013-09-23 00:00:00	MAF	Midland International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			
-188212	2014022511984	2014-02-20 00:00:00	2014-02-05 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-191433	2014072115271	2014-07-07 00:00:00	2014-07-06 00:00:00	MAF	Midland International Airport	American Eagle	Passenger Property Loss	Checked Baggage		Cosmetics			
-192846	2014091816721	2014-09-02 00:00:00	2014-07-06 00:00:00	MAF	Midland International Airport	American Eagle	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-209090	2016031429689	2016-02-25 00:00:00	2016-02-16 18:28:00	MAF	Midland International Airport Midland International Airport	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-217365	2017060640240	2017-06-06 00:00:00	2017-03-03 00:00:00	MAF	Midland International Airport Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items,Watches & Jewelry			In Review
-217367	2017101744442	2017-09-18 00:00:00	2017-09-16 00:00:00	MAF	Midland International Airport Midland International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories			In Review
-217369	2017090842809	2017-07-26 00:00:00	2017-07-19 08:20:00	MAF	Midland International Airport Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry			In Review
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+25503	0120165M	2004-01-20 00:00:00	2003-12-04 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	1451.55	Watches & Jewelry	Jewelry - Fine	Approved	1451.55	Approve in Full
+31697	2004051652364	2004-03-30 00:00:00	2004-03-19 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	156.96	Clothing & Accessories	Eyeglasses - (including contact lenses)	Settled	78.48	Settle
+34077	2004051251444	2004-05-04 00:00:00	2004-04-17 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	57.3	Other	Other	Approved	57.3	Approve in Full
+46102	2004111366907	2004-09-28 00:00:00	2004-09-10 00:00:00	MAF	Midland International Airport	Alaska Airlines	Passenger Property Loss	Checked Baggage	150.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Settled	75.0	Settle
+60479	2005040581540	2005-03-30 00:00:00	2002-03-18 00:00:00	MAF	Midland International Airport	Continental Express Inc	Passenger Property Loss	Checked Baggage	10.6	Tools & Machines	Locks	Approved	10.6	Approve in Full
+65598	2005061786545	2005-06-07 00:00:00	2005-05-27 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	125.0	Electronics	Cameras - Digital	Approved	125.0	Approve in Full
+74026	2005102595135	2005-10-18 00:00:00	2005-10-07 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	1158.0	Other	Other	Denied	0.0	Deny
+76517	2005121397587	2005-12-05 00:00:00	2005-11-09 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	92.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+78458	2006011399577	2006-01-10 00:00:00	2005-09-27 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	5200.0	Watches & Jewelry	Jewelry - Fine	Denied	0.0	Deny
+83807	2006042104947	2006-04-13 00:00:00	2006-03-22 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checkpoint	168.16	Tools & Machines	Locks	Settled	71.0	Settle
+100440	2007022821678	2007-02-27 00:00:00	2007-02-18 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	10.5	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Approved	10.5	Approve in Full
+108751	2007081330177	2007-08-09 00:00:00	2007-06-14 00:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage	53.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Approved	53.0	Approve in Full
+108943	2007081530309	2007-08-13 00:00:00	2007-01-08 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	600.0	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+113143	2007110634600	2007-11-02 00:00:00	2007-09-17 00:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checkpoint	128.82	Clothing & Accessories	Clothing - Shoes, belts, accessories, etc.	Denied	0.0	Deny
+124386	2008062446054	2008-06-19 00:00:00	2008-06-18 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	19.0	Electronics	MP3 Players-(iPods, etc)	Denied	0.0	Deny
+125032	2008070946701	2008-07-03 00:00:00	2008-05-17 00:00:00	MAF	Midland International Airport	American Eagle	Passenger Property Loss	Checked Baggage	480.0	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+125204	2008071546905	2008-07-08 00:00:00	2008-06-08 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	150.0	Other	Currency	Denied	0.0	Deny
+130125	2008110651996	2008-10-31 00:00:00	2008-09-19 00:00:00	MAF	Midland International Airport		Passenger Property Loss	Checked Baggage	12.0	Tools & Machines	Locks	Denied	0.0	Deny
+130389	2008111752259	2008-11-07 00:00:00	2008-10-28 00:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage	156.0	Cosmetics	Cosmetics - Perfume, toilet articles, medicines, soaps, etc.	Denied	0.0	Deny
+132877	2009012354794	2009-01-13 00:00:00	2008-12-19 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage	278.94	Other	Other	Denied	0.0	Deny
+136373	2009050558376	2009-04-20 00:00:00	2009-02-22 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	556.61	Electronics,Electronics	Cameras - Digital*Cameras - Non-electronic (Camera supplies, lenses, projectors, etc.)	Denied	0.0	Deny
+141683	2009091763738	2009-09-14 00:00:00	2009-08-20 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage	25.74	Watches & Jewelry	Jewelry - Costume	Denied	0.0	Deny
+147425	2010040770515	2010-04-06 00:00:00	2010-03-12 17:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+154591	2010112278049	2010-11-09 00:00:00	2010-10-03 00:00:00	MAF	Midland International Airport	Continental Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		3.0	Approve in Full
+156228	2011012479716	2011-01-06 00:00:00	2010-12-22 17:00:00	MAF	Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Electronics,Other	Cameras*Currency		0.0	Deny
+169048	2012040992654	2012-03-07 00:00:00	2012-03-02 00:00:00	MAF	Midland International Airport	Delta Air Lines	Passenger Property Loss	Checked Baggage		Clothing & Accessories,Cosmetics	Clothing*Cosmetics & Grooming		0.0	Deny
+170538	2012052394180	2012-05-02 00:00:00	2012-04-15 13:35:00	MAF	Midland International Airport		Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+178956	2013031802618	2013-03-11 00:00:00	2013-03-01 06:00:00	MAF	Midland International Airport		Passenger Property Loss	Checkpoint		Other	Currency		0.0	Deny
+184536	2013110508713	2013-09-25 00:00:00	2013-09-08 08:10:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Other	Other		0.0	Deny
+185588	2013111409302	2013-11-12 00:00:00	2013-09-23 00:00:00	MAF	Midland International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing			
+188212	2014022511984	2014-02-20 00:00:00	2014-02-05 00:00:00	MAF	Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+191433	2014072115271	2014-07-07 00:00:00	2014-07-06 00:00:00	MAF	Midland International Airport	American Eagle	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming			
+192846	2014091816721	2014-09-02 00:00:00	2014-07-06 00:00:00	MAF	Midland International Airport	American Eagle	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+209090	2016031429689	2016-02-25 00:00:00	2016-02-16 18:28:00	MAF	Midland International Airport Midland International Airport	UAL	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+217365	2017060640240	2017-06-06 00:00:00	2017-03-03 00:00:00	MAF	Midland International Airport Midland International Airport	Southwest Airlines	Passenger Property Loss	Checked Baggage		Household Items,Watches & Jewelry	Household Items*Jewelry & Watches			In Review
+217367	2017101744442	2017-09-18 00:00:00	2017-09-16 00:00:00	MAF	Midland International Airport Midland International Airport	UAL	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories			In Review
+217369	2017090842809	2017-07-26 00:00:00	2017-07-19 08:20:00	MAF	Midland International Airport Midland International Airport	American Airlines	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches			In Review

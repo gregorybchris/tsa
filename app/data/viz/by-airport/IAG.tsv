@@ -1,20 +1,20 @@
-id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items	status	close_amount	disposition
-139501	2009072161496	2009-07-15 00:00:00	2009-07-04 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage	5.29	Tools & Machines	Approved	5.29	Approve in Full
-148197	2010043071353	2010-04-29 00:00:00	2010-04-16 15:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		100.02	Approve in Full
-149303	2010060872492	2010-06-03 00:00:00	2010-05-28 15:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Electronics		32.61	Approve in Full
-153019	2010092576392	2010-09-21 00:00:00	2010-08-27 12:30:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories		102.08	Settle
-159197	2011042582971	2011-04-11 00:00:00	2011-03-26 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Cosmetics		11.95	Approve in Full
-159198	2011042682972	2011-04-11 00:00:00	2011-03-28 00:00:00	IAG	Niagara Falls International	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry		0.0	Deny
-159630	2011042783040	2011-04-26 00:00:00	2011-03-10 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checkpoint		Clothing & Accessories		68.32	Settle
-160848	2011061684384	2011-06-06 00:00:00	2011-05-22 13:30:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checkpoint		Cosmetics		5.0	Approve in Full
-160989	2011062184505	2011-06-09 00:00:00	2011-05-28 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Cosmetics		20.0	Approve in Full
-162238	2011072085337	2011-07-20 00:00:00	2011-07-17 00:00:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Other			
-164679	2011101888106	2011-10-11 00:00:00	2011-09-21 01:30:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-165050	2011103188573	2011-10-21 00:00:00	2011-10-01 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry		0.0	Deny
-169867	2012050293479	2012-04-09 00:00:00	2012-02-27 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Other		19.95	Approve in Full
-171075	2012060994688	2012-05-21 00:00:00	2012-04-01 00:00:00	IAG	Niagara Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics		0.0	Deny
-173077	2012091496810	2012-08-01 00:00:00	2012-07-06 00:00:00	IAG	Niagara Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics		0.0	Deny
-180653	2013061904530	2013-05-14 00:00:00	2013-04-16 01:20:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checkpoint		Electronics		0.0	Deny
-181493	2013080105557	2013-06-14 00:00:00	2013-05-26 12:10:00	IAG	Niagara Falls International		Passenger Property Loss	Checked Baggage		Scientific Intruments		0.0	Deny
-183068	2013080705732	2013-08-07 00:00:00	2013-06-01 12:30:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
-190274	2014052014090	2014-05-14 00:00:00	2014-03-08 00:00:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories		0.0	Deny
+id	claim_number	date_received	incident_date	airport_code	airport_name	airline	claim_type	claim_site	claim_amount	items_new	items_old	status	close_amount	disposition
+139501	2009072161496	2009-07-15 00:00:00	2009-07-04 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage	5.29	Tools & Machines	Locks	Approved	5.29	Approve in Full
+148197	2010043071353	2010-04-29 00:00:00	2010-04-16 15:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		100.02	Approve in Full
+149303	2010060872492	2010-06-03 00:00:00	2010-05-28 15:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Electronics	Personal Electronics		32.61	Approve in Full
+153019	2010092576392	2010-09-21 00:00:00	2010-08-27 12:30:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		102.08	Settle
+159197	2011042582971	2011-04-11 00:00:00	2011-03-26 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		11.95	Approve in Full
+159198	2011042682972	2011-04-11 00:00:00	2011-03-28 00:00:00	IAG	Niagara Falls International	Jet Blue	Passenger Property Loss	Checkpoint		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+159630	2011042783040	2011-04-26 00:00:00	2011-03-10 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checkpoint		Clothing & Accessories	Clothing		68.32	Settle
+160848	2011061684384	2011-06-06 00:00:00	2011-05-22 13:30:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checkpoint		Cosmetics	Cosmetics & Grooming		5.0	Approve in Full
+160989	2011062184505	2011-06-09 00:00:00	2011-05-28 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		20.0	Approve in Full
+162238	2011072085337	2011-07-20 00:00:00	2011-07-17 00:00:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Other	Currency			
+164679	2011101888106	2011-10-11 00:00:00	2011-09-21 01:30:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Cosmetics	Cosmetics & Grooming		0.0	Deny
+165050	2011103188573	2011-10-21 00:00:00	2011-10-01 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Watches & Jewelry	Jewelry & Watches		0.0	Deny
+169867	2012050293479	2012-04-09 00:00:00	2012-02-27 00:00:00	IAG	Niagara Falls International	Direct Air	Passenger Property Loss	Checked Baggage		Other	Other		19.95	Approve in Full
+171075	2012060994688	2012-05-21 00:00:00	2012-04-01 00:00:00	IAG	Niagara Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Electronics	Cameras		0.0	Deny
+173077	2012091496810	2012-08-01 00:00:00	2012-07-06 00:00:00	IAG	Niagara Falls International	Allegiant Air	Passenger Property Loss	Checked Baggage		Cosmetics	Travel Accessories		0.0	Deny
+180653	2013061904530	2013-05-14 00:00:00	2013-04-16 01:20:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checkpoint		Electronics	Cameras		0.0	Deny
+181493	2013080105557	2013-06-14 00:00:00	2013-05-26 12:10:00	IAG	Niagara Falls International		Passenger Property Loss	Checked Baggage		Scientific Intruments	Medical/Science		0.0	Deny
+183068	2013080705732	2013-08-07 00:00:00	2013-06-01 12:30:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Clothing		0.0	Deny
+190274	2014052014090	2014-05-14 00:00:00	2014-03-08 00:00:00	IAG	Niagara Falls International	Spirit Airlines	Passenger Property Loss	Checked Baggage		Clothing & Accessories	Personal Accessories		0.0	Deny
