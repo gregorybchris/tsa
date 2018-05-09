@@ -5,7 +5,7 @@ function setupMap() {
     let height = +svg.attr("height")
 
     let projection = d3.geoAlbersUsa()
-        .scale(900)
+        .scale(700)
         .translate([width / 2, height / 2])
 
     let path = d3.geoPath()
@@ -92,7 +92,7 @@ function setupMap() {
             .attr("class", "map-airport-indicator")
             .attr("selected", false)
             .attr("r", d => {
-                return 4
+                return 3
             })
         	.attr("fill", "rgb(108, 34, 125)")
             .attr("opacity", 0.5)
@@ -196,21 +196,21 @@ function setupMap() {
                 })
         }
 
-        changeCircleSize('claim_count', d => d.count / 20)
-        changeView(d3.select("#map-total-claims-button"))
+        //changeCircleSize('claim_count', d => d.count / 50)
+        //changeView(d3.select("#map-total-claims-button"))
 
         d3.select("#map-per-passenger-button").on('click', () => {
             changeCircleSize('passenger_throughput', d => {
                 const total = (+d.international_passengers) + (+d.domestic_passengers)
                 if (total === 0)
                     return 0
-                return d.count / total * 250000
+                return d.count / total * 200000
             })
             changeView(d3.select("#map-per-passenger-button"))
         })
 
         d3.select("#map-total-claims-button").on('click', () => {
-            changeCircleSize('claim_count', d => d.count / 20)
+            changeCircleSize('claim_count', d => d.count / 50)
             changeView(d3.select("#map-total-claims-button"))
         })
 
@@ -218,7 +218,7 @@ function setupMap() {
             changeCircleSize('median_claim_amount', d => {
                 if (d.med_claim < 0)
                   return 0
-                return d.med_claim / 10
+                return d.med_claim / 15
             })
             changeView(d3.select("#map-median-claim-button"))
         })
@@ -227,7 +227,7 @@ function setupMap() {
             changeCircleSize('median_close_amount', d => {
                 if (d.med_close < 0)
                     return 0
-                return d.med_close / 5
+                return d.med_close / 10
             })
             changeView(d3.select("#map-median-close-button"))
         })
