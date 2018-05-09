@@ -225,7 +225,6 @@ function setupDates(airport_code) {
         } else {
           function zoomed() {
             var t = d3.event.transform;
-
             svg.select(".zoomable-rect").node().__zoom = t
             circlesGroup.node().__zoom = t
 
