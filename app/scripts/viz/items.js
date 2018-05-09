@@ -17,7 +17,6 @@ function changeAirport(airport_data) {
     d3.select('#median-claim-amount').text(stats_for_all_airports.med_claim)
     d3.select('#claims-per-passenger').text(stats_for_all_airports.count_per_million_passengers)
   } else {
-    console.log(airport_data)
     d3.select('#airport-title').text(`${airport_data.Airport} (${airport_data.airport_code})`)
 
     const claim_count = +airport_data.count

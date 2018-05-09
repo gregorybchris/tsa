@@ -4,9 +4,14 @@ function setupDates(airport_code) {
     svg.selectAll("circle")
       .remove()
     if (airport_code === undefined && !initialRender) {
-        d3.select("#claim-empty-message")
-            .html('Select an airport to get started!')
-            .style('opacity', 1)
+        d3.select("#claim-section")
+          .transition()
+          .duration(500)
+          .style('opacity', 0)
+        d3.select("#dates-section")
+          .transition()
+          .duration(500)
+          .style('opacity', 0)
         d3.select("#claim-date-received-text").html('')
         d3.select("#claim-incident-date-text").html('')
         d3.select("#claim-airline-text").html('')
@@ -19,6 +24,14 @@ function setupDates(airport_code) {
   } else if (!initialRender) {
       d3.select("#claim-empty-message")
         .html('Select a claim from the scatter plot')
+        .style('opacity', 1)
+      d3.select("#claim-section")
+        .transition()
+        .duration(500)
+        .style('opacity', 1)
+      d3.select("#dates-section")
+        .transition()
+        .duration(500)
         .style('opacity', 1)
   }
     let width = 0.8 * (+svg.attr("width"))
@@ -65,6 +78,7 @@ function setupDates(airport_code) {
                 airline: d.airline,
                 claimType: d.claim_type,
                 claimNumber: d.claim_number,
+                legitClaimAmount: d.claim_amount !== '',
                 claimAmount: +d.claim_amount,
                 closeAmount: +d.close_amount,
                 claimSite: d.claim_site,
@@ -175,10 +189,6 @@ function setupDates(airport_code) {
         let circlesGroup
 
         if (initialRender) {
-            let zoom = d3.zoom()
-                // .scaleExtent([.5, 20])
-                .extent([[0, 0], [width, height]])
-                .on("zoom", zoomed)
 
             svg.append("rect")
                 .classed("zoomable-rect", true)
@@ -193,7 +203,7 @@ function setupDates(airport_code) {
                     d3.select("#claim-close-amount-text").html('')
                     d3.select("#claim-disposition-text").html('')
                     d3.select("#claim-empty-message")
-                        .html('Select an claim from the scatter plot')
+                        .html('Select a claim from the scatter plot')
                         .style('opacity', 1)
                       svg.selectAll('circle')
 
@@ -205,7 +215,7 @@ function setupDates(airport_code) {
                 .style("fill", "none")
                 .style("pointer-events", "all")
                 .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-                .call(zoom)
+
 
           let circlesGroup = svg.append("g")
               .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
@@ -213,6 +223,23 @@ function setupDates(airport_code) {
               .classed("circles-group", true)
 
         } else {
+          function zoomed() {
+            console.log('here')
+              let newXScale = d3.event.transform.rescaleX(xScale)
+              let newYScale = d3.event.transform.rescaleY(yScale)
+              gX.call(xAxis.scale(newXScale))
+              gY.call(yAxis.scale(newYScale))
+              circlesGroup.selectAll("circle")
+                  .attr("cx", (_, i) => claims[i] && newXScale(claims[i].incidentDate))
+                  .attr("cy", (_, i) => claims[i] && newYScale(claims[i].closeAmount))
+          }
+
+          let zoom = d3.zoom()
+              // .scaleExtent([.5, 20])
+              .extent([[0, 0], [width, height]])
+              .on("zoom", zoomed);
+
+          svg.select(".zoomable-rect").call(zoom)
 
           circlesGroup = svg.select(".circles-group")
           let points = circlesGroup.selectAll("circle")
@@ -226,7 +253,7 @@ function setupDates(airport_code) {
 
                         svg.selectAll('circle')
                             .style("fill", (d, i2) => {
-                                return claims[i].id == claims[i2].id ? "rgba(108, 34, 125, 0.7)" : "transparent"
+                                return claims[i].id == claims[i2].id ? "rgba(108, 34, 125, 0.5)" : "transparent"
                             })
                             .classed("clickable", (_, i2) => claims[i].id !== claims[i2].id)
                   })
@@ -239,20 +266,9 @@ function setupDates(airport_code) {
                   .attr("cy", d => yScale(d.closeAmount))
                   .attr("r", 3.4)
                   .style("fill", "transparent")
-                  .style("stroke", "rgba(108, 34, 125, 0.7)")
+                  .style("stroke", "rgba(108, 34, 125, 0.5)")
                   .style("stroke-width", 1.8)
 
-
-
-          function zoomed() {
-              let newXScale = d3.event.transform.rescaleX(xScale)
-              let newYScale = d3.event.transform.rescaleY(yScale)
-              gX.call(xAxis.scale(newXScale))
-              gY.call(yAxis.scale(newYScale))
-              circlesGroup.selectAll("circle")
-                  .attr("cx", (_, i) => claims[i] && newXScale(claims[i].incidentDate))
-                  .attr("cy", (_, i) => claims[i] && newYScale(claims[i].closeAmount))
-          }
         }
 
         function filterItems(items) {
@@ -262,15 +278,14 @@ function setupDates(airport_code) {
         }
 
         function updateClaimFields(d) {
-            console.log("Clicked", d)
             d3.select("#claim-date-received-text").html(d.dateReceivedString)
             d3.select("#claim-incident-date-text").html(d.incidentDateString)
             d3.select("#claim-airline-text").html(d.airline)
             d3.select("#claim-items-text").html(filterItems(d.oldItems))
 
             d3.select("#claim-site-text").html(d.claimSite)
-            d3.select("#claim-amount-text").html("$" + d.claimAmount)
-            d3.select("#claim-close-amount-text").html("$" + d.closeAmount)
+            d3.select("#claim-amount-text").html(d.legitClaimAmount ? `$${d.claimAmount}` : 'Unknown')
+            d3.select("#claim-close-amount-text").html(`$${d.closeAmount}`)
             d3.select("#claim-disposition-text").html(d.disposition)
         }
       initialRender = false

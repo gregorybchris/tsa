@@ -36,7 +36,7 @@ function setupSites() {
     			.data(layers)
     			.enter().append("g")
     			.attr("class", "layer")
-    			.style("fill", function(d, i) { console.log(d, i); return color(i); });
+    			.style("fill", function(d, i) { return color(i); });
 
     			svg.append("g")
     			.attr("class", "axis axis--x")

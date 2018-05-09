@@ -49,11 +49,11 @@ html, body {
 }
 
 ::-moz-selection {
-    background: @urban-grey;
+    // background: @urban-grey;
 }
 
 ::selection {
-    background: @urban-grey;
+    // background: @urban-grey;
 }
 
 .no-pointer-events {
@@ -128,16 +128,17 @@ html, body {
 	font-family: "Nexa Bold";
 	color: darken(@urban-grey, 5%);
 	display: block;
-	font-size: 20px;
+	font-size: 30px;
 	margin-bottom: 15px;
 	margin-top: 3px;
 }
 
 .about-section-text {
-	text-indent: 20px;
+	text-align: justify;
+	text-align-last: center;
 	font-family: "Open Sans Regular";
 	color: @urban-grey;
-	padding: 0px 50px;
+	padding: 0px 25%;
 	display: block;
 	font-size: 16px;
 	line-height: 25px;
@@ -148,9 +149,9 @@ html, body {
 }
 
 .video-section {
-	padding: 0px 0px 40px;
+	padding: 40px 0px;
 	text-align: center;
-	background-color: @faded-purple;
+	// background-color: @faded-purple;
 }
 
 .video-frame {
@@ -187,9 +188,22 @@ html, body {
 	flex-direction: column;
 }
 
-#amounts-section, #dates-section, #claim-section {
+#amounts-section {
 	display: inline-block;
 }
+
+#claim-section  {
+	opacity: 0;
+}
+
+ #dates-section {
+	 opacity: 0;
+ }
+
+ .credits {
+	 margin-top: 20px;
+	 font-style: italic;
+ }
 
 #interactive-section {
 	display: flex;
@@ -338,8 +352,8 @@ html, body {
 /* ~ ~ ~ ~ Dates Section ~ ~ ~ ~ */
 
 #dates-section text {
-    font-family: "Open Sans Regular";
-    font-size: 12px;
+  font-family: "Open Sans Regular";
+  font-size: 12px;
 	font-weight: bold;
 	fill: @urban-grey;
 }

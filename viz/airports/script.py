@@ -45,13 +45,15 @@ if __name__ == "__main__":
 
         if len(results) == 0:
             continue
+        if result['airport_code'] == 'PQI':
+            print results
 
         try:
-            med_claim = round(statistics.median(x['claim_amount'] for x in results if x['claim_amount']), 2)
+            med_claim = round(statistics.median(x['claim_amount'] for x in results if x['claim_amount'] not in [None, '']), 2)
         except statistics.StatisticsError:
             med_claim = -1
         try:
-            med_close = round(statistics.median(x['close_amount'] for x in results if x['close_amount']), 2)
+            med_close = round(statistics.median(x['close_amount'] for x in results if x['close_amount'] not in [None, '']), 2)
         except statistics.StatisticsError:
             med_close = -1
 

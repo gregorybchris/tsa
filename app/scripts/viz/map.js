@@ -65,10 +65,6 @@ function setupMap() {
                 .style("stroke-opacity", 0.8)
                 .style("stroke-width", .2)
                 .attr("d", path)
-                .on("mouseover", function(d) {
-                  console.log("State Name: ", stateNames[d.id])
-                  console.log(this, d3.select(this))
-                })
 
         svg.on('click', () => {
           if (airportSelected) {
