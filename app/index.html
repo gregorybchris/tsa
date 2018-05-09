@@ -69,6 +69,42 @@
 							<input id="map-median-close-button" type="button" value="Median Close Amount" class="button"/>
 							<input id="map-per-passenger-button" type="button" value="Claims Per Passenger" class="button"/>
 						</div>
+
+						<div id="claim-section">
+							<span class="claim-section-title">Claim Data</span>
+							<div id="claim-section-columns">
+								<div id="claim-section-col1">
+									<div class="claim-feature">
+										<span class="claim-feature-label">Incident Date </span><span class="claim-feature-text" id="claim-incident-date-text"></span>
+									</div>
+									<div class="claim-feature">
+										<span class="claim-feature-label">Date Received </span><span class="claim-feature-text" id="claim-date-received-text"></span>
+									</div>
+									<div class="claim-feature">
+										<span class="claim-feature-label">Airline </span><span class="claim-feature-text" id="claim-airline-text"></span>
+									</div>
+									<div class="claim-feature">
+										<span class="claim-feature-label">Location </span><span class="claim-feature-text" id="claim-site-text"></span>
+									</div>
+
+								</div>
+								<div id="claim-section-col2">
+									<div class="claim-feature">
+										<span class="claim-feature-label">Claim Amount </span><span class="claim-feature-text" id="claim-amount-text"></span>
+									</div>
+									<div class="claim-feature">
+										<span class="claim-feature-label">Close Amount </span><span class="claim-feature-text" id="claim-close-amount-text"></span>
+									</div>
+									<div class="claim-feature">
+										<span class="claim-feature-label">Disposition </span><span class="claim-feature-text" id="claim-disposition-text"></span>
+									</div>
+									<div class="claim-feature">
+										<span class="claim-feature-label">Items </span><span class="claim-feature-text" id="claim-items-text"></span>
+									</div>
+								</div>
+							</div>
+							<div id="claim-empty-message">Select a claim in the scatterplot to view more data</div>
+						</div>
 					</div>
 
 					<div id="interactive-right">
@@ -109,38 +145,22 @@
 				</div>
 
 				<div id="interactive-row-2">
-					<div id="amounts-section">
-						<svg class="no-select" id="amounts-svg" width="400" height="400"></svg>
-					</div>
-
 					<div id="dates-section">
 						<svg id="dates-svg" width="400" height="400"></svg>
 					</div>
 				</div>
-
-				<div id="claim-section">
-					<!-- <div class="claim-feature">
-						<span class="claim-feature-label">ID</span>
-						<span class="claim-feature-text" id="claim-id-text"></span>
-					</div> -->
-				</div>
 			</div>
-
-			<div class="footer-top"></div>
-			<div class="footer">
 			</div>
 		</div>
 
 		<script src="scripts/viz/items.js"></script>
 		<script src="scripts/viz/dispositions.js"></script>
 		<script src="scripts/viz/map.js"></script>
-		<script src="scripts/viz/amounts.js"></script>
 		<script src="scripts/viz/dates.js"></script>
 		<script>
 			setupDispositions()
 			setupMap()
 			setupItems()
-			setupAmounts()
 			setupDates()
 		</script>
 	</body>
